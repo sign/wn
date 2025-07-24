@@ -1,14 +1,17 @@
-
 """Web interface for Wn databases."""
-
 from typing import Optional, Union
 from functools import wraps
 from urllib.parse import urlsplit, parse_qs, urlencode
+from datetime import datetime, UTC
 
 from starlette.applications import Starlette  # type: ignore
+from starlette.middleware import Middleware
+from starlette.middleware.cors import CORSMiddleware
+from starlette.middleware.gzip import GZipMiddleware
 from starlette.responses import JSONResponse  # type: ignore
 from starlette.routing import Route  # type: ignore
 from starlette.requests import Request  # type: ignore
+from starlette.exceptions import HTTPException  # type: ignore
 
 import wn
 
@@ -16,7 +19,6 @@ DEFAULT_PAGINATION_LIMIT = 50
 
 
 def paginate(proto):
-
     def paginate_wrapper(func):
 
         @wraps(func)
@@ -30,9 +32,9 @@ def paginate(proto):
             total = len(obj['data'])
             prev = max(0, offset - limit)
             next = offset + limit
-            last = (total//limit)*limit
+            last = (total // limit) * limit
 
-            obj['data'] = [proto(x, request) for x in obj['data'][offset:offset+limit]]
+            obj['data'] = [proto(x, request) for x in obj['data'][offset:next]]
             obj.setdefault('meta', {}).update(total=total)
 
             links = {}
@@ -63,8 +65,8 @@ def replace_query_params(url: str, **params) -> str:
 # Wordnet-instantiation
 
 def _init_wordnet(
-    lexicon: str = '*',
-    lang: Optional[str] = None,
+        lexicon: str = '*',
+        lang: Optional[str] = None,
 ) -> wn.Wordnet:
     if lexicon == '*' and lang is not None:
         lexicon = ' '.join(lex.specifier() for lex in wn.lexicons(lang=lang))
@@ -74,10 +76,10 @@ def _init_wordnet(
 # Data-making functions
 
 def _url_for_obj(
-    request: Request,
-    name: str,
-    obj: Union[wn.Word, wn.Sense, wn.Synset],
-    lexicon: Optional[str] = None,
+        request: Request,
+        name: str,
+        obj: Union[wn.Word, wn.Sense, wn.Synset],
+        lexicon: Optional[str] = None,
 ) -> str:
     if lexicon is None:
         lexicon = obj.lexicon().specifier()
@@ -184,6 +186,8 @@ def make_synset(ss: wn.Synset, request: Request, basic: bool = False) -> dict:
         'attributes': {
             'pos': ss.pos,
             'ili': ss._ili,
+            'definition': ss.definition(),
+            'examples': ss.examples(),
         },
         'links': {
             'self': _url_for_obj(request, 'synset', ss, lexicon=lex_spec)
@@ -206,6 +210,19 @@ def make_synset(ss: wn.Synset, request: Request, basic: bool = False) -> dict:
             included.extend([make_synset(_s, request, basic=True) for _s in sslist])
         d.update({'relationships': relationships, 'included': included})
     return d
+
+
+# Exception handlers
+
+async def http_exception_handler(request: Request, exc: Exception):
+    status_code = exc.status_code if hasattr(exc, 'status_code') else 500
+    return JSONResponse({
+        "error": {
+            "status": status_code,
+            "message": exc.detail if hasattr(exc, 'detail') else str(exc),
+            "type": type(exc).__name__
+        }
+    }, status_code=status_code)
 
 
 # Route handlers
@@ -246,6 +263,24 @@ async def all_words(request):
 async def words(request):
     wordnet = _init_wordnet(request.path_params['lexicon'])
     return _get_words(wordnet, request)
+
+
+async def forms(request):
+    wordnet = _init_wordnet(request.path_params['lexicon'])
+    all_forms = list({form for word in wordnet.words() for form in word.forms()})
+
+    one_month_in_seconds = 60 * 60 * 24 * 30
+
+    return JSONResponse(
+        content={
+            "data": all_forms,
+            "meta": {
+                "total": len(all_forms)
+            }
+        },
+        headers={
+            "Cache-Control": f"public, max-age={one_month_in_seconds}"
+        })
 
 
 async def word(request):
@@ -320,9 +355,26 @@ async def synset(request):
     return JSONResponse({'data': make_synset(synset, request)})
 
 
+async def index(request: Request):
+    endpoints = {route.path: str(request.url_for(route.name))
+                 for route in routes if len(route.param_convertors) == 0}
+    return JSONResponse({'endpoints': endpoints})
+
+
+async def health_check(request: Request):
+    body = {
+        'status': 'healthy',
+        'timestamp': datetime.now(tz=UTC).isoformat(),
+        'service': 'wn.web',
+    }
+    return JSONResponse(body, status_code=200)
+
 routes = [
+    Route('/', endpoint=index),
+    Route('/health', endpoint=health_check),
     Route('/lexicons', endpoint=lexicons),
     Route('/lexicons/{lexicon}', endpoint=lexicon),
+    Route('/lexicons/{lexicon}/forms', endpoint=forms),
     Route('/lexicons/{lexicon}/words', endpoint=words),
     Route('/lexicons/{lexicon}/words/{word}', endpoint=word),
     Route('/lexicons/{lexicon}/words/{word}/senses', endpoint=senses),
@@ -336,4 +388,21 @@ routes = [
     Route('/synsets', endpoint=all_synsets),
 ]
 
-app = Starlette(debug=True, routes=routes)
+middlewares = [
+    Middleware(GZipMiddleware, minimum_size=1000, compresslevel=9),
+    Middleware(
+        CORSMiddleware,
+        allow_origins=['*'],
+        allow_methods=['*'],
+        allow_headers=['*'],
+    )
+]
+
+app = Starlette(debug=True,
+                routes=routes,
+                middleware=middlewares,
+                exception_handlers={
+                    HTTPException: http_exception_handler,
+                    wn.Error: http_exception_handler,
+                    Exception: http_exception_handler,
+                })

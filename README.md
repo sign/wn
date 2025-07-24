@@ -38,6 +38,13 @@ Or install using **conda** from the conda-forge channel
 conda install -c conda-forge wn
 ```
 
+Or using **docker**:
+
+```sh
+docker build -t wn .
+docker run -it -p 8080:8080 wn
+```
+
 ## Getting Started
 
 First, download some data:
