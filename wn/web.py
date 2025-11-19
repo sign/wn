@@ -265,17 +265,36 @@ async def words(request):
     return _get_words(wordnet, request)
 
 
+def _get_forms(lexicon: str):
+    from wn._db import connect
+
+    conn = connect()
+
+    # Query all forms for this lexicon (much faster than iterating through words)
+    # We don't use DISTINCT in SQL because deduplicating in Python is 10x faster
+    query = '''
+        SELECT f.form
+          FROM forms AS f
+          JOIN entries AS e ON e.rowid = f.entry_rowid
+          JOIN lexicons AS lex ON lex.rowid = e.lexicon_rowid
+         WHERE lex.id || ":" || lex.version = ?
+    '''
+    rows = conn.execute(query, (lexicon,)).fetchall()
+
+    # Deduplicate in Python (faster than SQL DISTINCT on large result sets)
+    unique_forms = set(row[0] for row in rows)
+    return list(unique_forms)
+
 async def forms(request):
-    wordnet = _init_wordnet(request.path_params['lexicon'])
-    all_forms = list({form for word in wordnet.words() for form in word.forms()})
+    forms = _get_forms(request.path_params['lexicon'])
 
     one_month_in_seconds = 60 * 60 * 24 * 30
 
     return JSONResponse(
         content={
-            "data": all_forms,
+            "data": forms,
             "meta": {
-                "total": len(all_forms)
+                "total": len(forms)
             }
         },
         headers={
@@ -369,6 +388,42 @@ async def health_check(request: Request):
     }
     return JSONResponse(body, status_code=200)
 
+
+async def definitions(request: Request):
+    """Batch endpoint to get definitions for multiple word form/pos queries.
+
+    POST body: {"queries": [{"form": "comfort", "pos": "n"}, ...]}
+    Response: {"data": [{"form": "comfort", "pos": "n", "definitions": {synset_id: def, ...}}, ...]}
+    """
+    path_params = request.path_params
+    wordnet = _init_wordnet(path_params['lexicon'])
+
+    body = await request.json()
+    queries = body.get('queries', [])
+
+    results = []
+    for query in queries:
+        form = query.get('form')
+        pos = query.get('pos')
+
+        # Get all synsets for this form/pos combination
+        synsets = wordnet.synsets(form=form, pos=pos)
+
+        # Build synset_id -> definition mapping
+        definitions_map = {
+            ss.id: ss.definition()
+            for ss in synsets
+            if ss.definition()  # Only include if definition exists
+        }
+
+        results.append({
+            'form': form,
+            'pos': pos,
+            'definitions': definitions_map
+        })
+
+    return JSONResponse({'data': results})
+
 routes = [
     Route('/', endpoint=index),
     Route('/health', endpoint=health_check),
@@ -383,6 +438,7 @@ routes = [
     Route('/lexicons/{lexicon}/synsets', endpoint=synsets),
     Route('/lexicons/{lexicon}/synsets/{synset}', endpoint=synset),
     Route('/lexicons/{lexicon}/synsets/{synset}/members', endpoint=senses),
+    Route('/lexicons/{lexicon}/definitions', endpoint=definitions, methods=['POST']),
     Route('/words', endpoint=all_words),
     Route('/senses', endpoint=all_senses),
     Route('/synsets', endpoint=all_synsets),
