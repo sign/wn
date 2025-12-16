@@ -34,7 +34,8 @@ DEBUG = False
 # >>> wn._db.schema_hash(conn)
 #
 COMPATIBLE_SCHEMA_HASHES = {
-    '4c8ad03af5422d6979039ee2b80838d07c12d2c8',
+    '4c8ad03af5422d6979039ee2b80838d07c12d2c8',  # Original schema
+    '01909cb2d0cdee19ed687dbd95c5983d7b68f807',  # Added form_lexicon_index
 }
 
 

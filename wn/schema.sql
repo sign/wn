@@ -90,6 +90,7 @@ CREATE TABLE forms (
 CREATE INDEX form_entry_index ON forms (entry_rowid);
 CREATE INDEX form_index ON forms (form);
 CREATE INDEX form_norm_index ON forms (normalized_form);
+CREATE INDEX form_lexicon_index ON forms (lexicon_rowid);
 
 CREATE TABLE pronunciations (
     form_rowid INTEGER NOT NULL REFERENCES forms (rowid) ON DELETE CASCADE,

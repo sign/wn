@@ -270,20 +270,23 @@ def _get_forms(lexicon: str):
 
     conn = connect()
 
-    # Query all forms for this lexicon (much faster than iterating through words)
-    # We don't use DISTINCT in SQL because deduplicating in Python is 10x faster
-    query = '''
-        SELECT f.form
-          FROM forms AS f
-          JOIN entries AS e ON e.rowid = f.entry_rowid
-          JOIN lexicons AS lex ON lex.rowid = e.lexicon_rowid
-         WHERE lex.id || ":" || lex.version = ?
-    '''
-    rows = conn.execute(query, (lexicon,)).fetchall()
+    # Parse lexicon specifier (format: "id:version")
+    parts = lexicon.split(':', 1)
+    if len(parts) != 2:
+        return []
+    lex_id, lex_version = parts
 
-    # Deduplicate in Python (faster than SQL DISTINCT on large result sets)
-    unique_forms = set(row[0] for row in rows)
-    return list(unique_forms)
+    # Optimized query using indexed columns and SQL DISTINCT
+    # Direct join from forms to lexicons using the new index on forms.lexicon_rowid
+    query = '''
+        SELECT DISTINCT f.form
+          FROM forms AS f
+          JOIN lexicons AS lex ON lex.rowid = f.lexicon_rowid
+         WHERE lex.id = ? AND lex.version = ?
+    '''
+    rows = conn.execute(query, (lex_id, lex_version)).fetchall()
+
+    return [row[0] for row in rows]
 
 async def forms(request):
     forms = _get_forms(request.path_params['lexicon'])
