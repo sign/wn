@@ -36,6 +36,8 @@ DEBUG = False
 COMPATIBLE_SCHEMA_HASHES = {
     '4c8ad03af5422d6979039ee2b80838d07c12d2c8',  # Original schema
     '01909cb2d0cdee19ed687dbd95c5983d7b68f807',  # Added form_lexicon_index
+    '4c2728bb7999685d9748ad6245638a210d0f099d',  # Added form_lexicon_form_covering_index
+    'c1ef1e74d47810fd313383cdb8ecb9a2d9aef7db',  # Migrated database with covering index
 }
 
 
