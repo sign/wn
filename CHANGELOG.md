@@ -2,9 +2,102 @@
 
 ## [Unreleased][unreleased]
 
+Notable changes in this release:
+* A new version of the database schema requires a database rebuild
+* A new `wn.ili` module deals with ILI files and objects; interlingual
+  queries still use the `Synset.ili` member, which is now a simple `str`
+
+### Schema
+
+* Add `specifier` column to `lexicon` table ([#234])
+* Remove `lexicalized` column from `synsets` and `senses` ([#248])
+* Add `unlexicalized_synsets` and `unlexicalized_senses` tables ([#248])
+
+### Added
+
+* `wn.lemmas()` function and `Wordnet.lemmas()` method to query all
+  lemmas at once.
+* Support for WN-LMF 1.4 ([#260])
+  - Sense ordering: `index` on `<LexicalEntry>` and `n` on `<Sense>`
+  - New sense relations:
+    - `metaphor`
+    - `has_metaphor`
+    - `metonym`
+    - `has_metonym`
+    - `agent`
+    - `material`
+    - `event`
+    - `instrument`
+    - `location`
+    - `by_means_of`
+    - `undergoer`
+    - `property`
+    - `result`
+    - `state`
+    - `uses`
+    - `destination`
+    - `body_part`
+    - `vehicle`
+* `wn.ili` module
+* `wn.Sense.synset_relations()` ([#271])
+
+### Removed
+
+* `wn.web` module ([#295])
+* `wn.Synset.relation_map()` method ([#271])
+* `wn.Sense.relation_map()` method ([#271])
+
+### Changed
+
+* Default form normalizer uses casefold instead of lower ([#233])
+* `Synset.ili` is a `str` instead of an `ILI` object.
+* `Wordnet.synsets()` method and `wn.synsets()` function's only accepts `ili`
+  `str` arguments for the `ili` parameter again, reverting a change from
+  v0.12.0. This is because `Synset.ili` is now a simple string and `ILI`
+  objects are no longer part of the core `wn` package namespace.
+* `wn.Synset.relations()`: return `wn.Relation` to `wn.Synset` mapping when
+  using `data=True` ([#271])
+* `wn.Sense.relations()`: return `wn.Relation` to `wn.Sense` mapping when
+  using `data=True` ([#271])
+
+### Documentation
+
+* Correct docstring for `wn.taxonomy.taxonomy_depth()` ([#291])
+
+
+## [v0.14.0]
+
+**Release date: 2025-11-16**
+
+### Python Support
+
+* Removed support for Python 3.9
+* Added support for Python 3.14
+
 ### Added
 
 * Preliminary XML-only support for WN-LMF 1.4 ([#260])
+* `lexicon()` method on `Form`, `Example`, `Definition`, and `Count` ([#286])
+* `confidence()` method ([#263])
+  - On `Lexicon` defaults to 1.0
+  - On existing `ILI`, defaults to 1.0
+  - On `Word`, `Sense`, `Synset`, `Relation`, `Example`, `Definition`, and
+    `Count`, defaults to the confidence of their lexicon.
+* `/` (index) and `/health` endpoints for `wn.web` (see [#268])
+
+### Changed
+
+* `wn.web`: returns `JSONResponse` on most errors ([#277])
+
+### Fixed
+
+* Encode example metadata on export ([#285])
+* Update LMF to use `https` in `dc` namespace
+
+### Maintenance
+
+* Added `py.typed` file to repository ([#266])
+* Use `tomllib` instead of `tomli` for Python 3.11+
 
 
 ## [v0.13.0]
@@ -13,6 +106,7 @@
 
 ### Added
 
+* Support for WN-LMF 1.4 ([#260])
 * `wn.compat` namespace (see [#55])
 * `wn.compat.sensekey` module ([#55]) with methods:
   - `sense_key_getter()`
@@ -31,6 +125,7 @@
   calculations ([#255])
 * `wn.add()` no longer requires `partOfSpeech` on synsets; this was
   not a requirement of WN-LMF nor was it enforced in the database
+* `wn.export()` defaults to `version="1.4"` instead of `"1.0"`
 
 
 ## [v0.12.0]
@@ -680,6 +775,7 @@ the https://github.com/nltk/wordnet/ code which had been effectively
 abandoned, but this is an entirely new codebase.
 
 
+[v0.14.0]: ../../releases/tag/v0.14.0
 [v0.13.0]: ../../releases/tag/v0.13.0
 [v0.12.0]: ../../releases/tag/v0.12.0
 [v0.11.0]: ../../releases/tag/v0.11.0
@@ -799,10 +895,22 @@ abandoned, but this is an entirely new codebase.
 [#221]: https://github.com/goodmami/wn/issues/221
 [#226]: https://github.com/goodmami/wn/issues/226
 [#228]: https://github.com/goodmami/wn/issues/228
+[#233]: https://github.com/goodmami/wn/issues/233
+[#234]: https://github.com/goodmami/wn/issues/234
 [#235]: https://github.com/goodmami/wn/issues/235
 [#238]: https://github.com/goodmami/wn/issues/238
 [#241]: https://github.com/goodmami/wn/issues/241
 [#246]: https://github.com/goodmami/wn/issues/246
+[#248]: https://github.com/goodmami/wn/issues/248
 [#250]: https://github.com/goodmami/wn/issues/250
 [#255]: https://github.com/goodmami/wn/issues/255
 [#260]: https://github.com/goodmami/wn/issues/260
+[#263]: https://github.com/goodmami/wn/issues/263
+[#266]: https://github.com/goodmami/wn/issues/266
+[#268]: https://github.com/goodmami/wn/pull/268
+[#271]: https://github.com/goodmami/wn/issues/271
+[#277]: https://github.com/goodmami/wn/issues/277
+[#285]: https://github.com/goodmami/wn/issues/285
+[#286]: https://github.com/goodmami/wn/issues/286
+[#291]: https://github.com/goodmami/wn/issues/291
+[#295]: https://github.com/goodmami/wn/issues/295

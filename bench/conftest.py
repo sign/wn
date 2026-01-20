@@ -1,6 +1,5 @@
-import tempfile
 from collections.abc import Iterator
-from itertools import product, cycle
+from itertools import cycle, product
 from pathlib import Path
 
 import pytest
@@ -11,7 +10,6 @@ from wn import lmf
 
 @pytest.fixture
 def clean_db():
-
     def clean_db():
         wn.remove("*")
         dummy_lex = lmf.Lexicon(
@@ -35,21 +33,21 @@ def datadir():
 
 
 @pytest.fixture
-def empty_db(clean_db):
-    with tempfile.TemporaryDirectory('wn_data_empty') as dir:
-        with pytest.MonkeyPatch.context() as m:
-            m.setattr(wn.config, 'data_directory', dir)
-            clean_db()
-            yield
+def empty_db(clean_db, tmp_path):
+    dir = tmp_path / "wn_data_empty"
+    with pytest.MonkeyPatch.context() as m:
+        m.setattr(wn.config, "data_directory", dir)
+        clean_db()
+        yield
 
 
 @pytest.fixture(scope="session")
 def mock_lmf():
     synsets: list[lmf.Synset] = [
-       * _make_synsets("n", 20000),
-       * _make_synsets("v", 10000),
-       * _make_synsets("a", 2000),
-       * _make_synsets("r", 1000),
+        *_make_synsets("n", 20000),
+        *_make_synsets("v", 10000),
+        *_make_synsets("a", 2000),
+        *_make_synsets("r", 1000),
     ]
     entries = _make_entries(synsets)
     lexicon = lmf.Lexicon(
@@ -66,14 +64,14 @@ def mock_lmf():
 
 
 @pytest.fixture(scope="session")
-def mock_db_dir(mock_lmf):
-    with tempfile.TemporaryDirectory("wn_data_empty") as dir:
-        with pytest.MonkeyPatch.context() as m:
-            m.setattr(wn.config, 'data_directory', dir)
-            wn.add_lexical_resource(mock_lmf, progress_handler=None)
-            wn._db.clear_connections()
+def mock_db_dir(mock_lmf, tmp_path_factory):
+    dir = tmp_path_factory.mktemp("wn_data_empty")
+    with pytest.MonkeyPatch.context() as m:
+        m.setattr(wn.config, "data_directory", dir)
+        wn.add_lexical_resource(mock_lmf, progress_handler=None)
+        wn._db.clear_connections()
 
-        yield Path(dir)
+    return Path(dir)
 
 
 @pytest.fixture
@@ -93,7 +91,7 @@ def _make_synsets(pos: str, n: int) -> list[lmf.Synset]:
             relations=[],
             meta={},
         )
-        for i in range(1, n+1)
+        for i in range(1, n + 1)
     ]
     # add relations for nouns and verbs
     if pos in "nv":

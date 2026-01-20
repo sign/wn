@@ -26,12 +26,11 @@ queries.
 
 .. autofunction:: word
 .. autofunction:: words
+.. autofunction:: lemmas
 .. autofunction:: sense
 .. autofunction:: senses
 .. autofunction:: synset
 .. autofunction:: synsets
-.. autofunction:: ili
-.. autofunction:: ilis
 .. autofunction:: lexicons
 
 
@@ -42,12 +41,11 @@ The Wordnet Class
 
    .. automethod:: word
    .. automethod:: words
+   .. automethod:: lemmas
    .. automethod:: sense
    .. automethod:: senses
    .. automethod:: synset
    .. automethod:: synsets
-   .. automethod:: ili
-   .. automethod:: ilis
    .. automethod:: lexicons
    .. automethod:: expanded_lexicons
    .. automethod:: describe
@@ -81,7 +79,9 @@ Word Objects
    .. automethod:: forms
    .. automethod:: senses
    .. automethod:: synsets
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
    .. automethod:: derived_words
    .. automethod:: translate
 
@@ -105,9 +105,11 @@ Sense Objects
    .. automethod:: adjposition
    .. automethod:: frames
    .. automethod:: counts
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
    .. automethod:: relations
-   .. automethod:: relation_map
+   .. automethod:: synset_relations
    .. automethod:: get_related
    .. automethod:: get_related_synsets
    .. automethod:: closure
@@ -141,7 +143,9 @@ Synset Objects
    .. automethod:: senses
    .. automethod:: lexicalized
    .. automethod:: lexfile
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
    .. automethod:: words
    .. automethod:: lemmas
    .. automethod:: hypernyms
@@ -149,7 +153,6 @@ Synset Objects
    .. automethod:: holonyms
    .. automethod:: meronyms
    .. automethod:: relations
-   .. automethod:: relation_map
    .. automethod:: get_related
    .. automethod:: closure
    .. automethod:: relation_paths
@@ -241,6 +244,7 @@ relation used in :doc:`interlingual queries <../guides/interlingual>`.
    .. autoattribute:: subtype
    .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
 
 
 Additional Classes
@@ -284,6 +288,8 @@ Additional Classes
    .. method:: tags
 
       Return the list of :class:`Tag` objects.
+
+   .. automethod:: lexicon
 
 
 .. class:: Pronunciation
@@ -339,7 +345,9 @@ Additional Classes
 
       The count of sense occurrences.
 
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
 
 
 .. class:: Example
@@ -357,7 +365,9 @@ Additional Classes
 
       The language of the example.
 
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
 
 
 .. class:: Definition
@@ -378,46 +388,15 @@ Additional Classes
 
       The id of the particular sense the definition is for.
 
+   .. automethod:: lexicon
    .. automethod:: metadata
+   .. automethod:: confidence
 
 
 Interlingual Indices
 --------------------
 
-.. class:: ILI
-
-   :class:`ILI` objects represent
-   :doc:`Interlingual Indices <../guides/interlingual>`.
-
-   .. autoproperty:: id
-
-      The interlingual index identifier. Unlike ``id`` attributes for
-      :class:`Word`, :class:`Sense`, and :class:`Synset`, ILI
-      identifers may be :python:`None` (see the *proposed*
-      :attr:`status`).
-
-   .. autoattribute:: status
-
-      The known status of the interlingual index. Loading an
-      interlingual index into the database provides the following
-      explicit, authoritative status values:
-
-      - ``active`` -- the ILI is in use
-      - ``provisional`` -- the ILI is being staged for permanent
-        inclusion
-      - ``deprecated`` -- the ILI is, or should be, no longer in use
-
-      Without an interlingual index loaded, ILIs present in loaded
-      lexicons get an implicit, temporary status from the following:
-
-      - ``presupposed`` -- a synset uses the ILI, assuming it exists
-        in an ILI file
-      - ``proposed`` -- a synset introduces a concept not yet in an
-        ILI and is suggesting that one should be added for it in the
-        future
-
-   .. automethod:: definition
-   .. automethod:: metadata
+As of Wn v1.0.0, see :mod:`wn.ili` classes and functions for ILIs
 
 
 Lexicon Objects
@@ -465,6 +444,7 @@ Lexicon Objects
       A URL or path to a project logo.
 
    .. automethod:: metadata
+   .. automethod:: confidence
    .. automethod:: specifier
    .. automethod:: modified
    .. automethod:: requires

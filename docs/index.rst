@@ -58,9 +58,9 @@ Contents
 
    api/wn.rst
    api/wn.compat.rst
-   api/wn.compat.sensekey.rst
    api/wn.constants.rst
    api/wn.ic.rst
+   api/wn.ili.rst
    api/wn.lmf.rst
    api/wn.morphy.rst
    api/wn.project.rst
@@ -68,4 +68,3 @@ Contents
    api/wn.taxonomy.rst
    api/wn.util.rst
    api/wn.validate.rst
-   api/wn.web.rst
