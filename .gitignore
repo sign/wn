@@ -72,3 +72,5 @@ dmypy.json
 
 # benchmarking results
 .benchmarks/
+
+.claude/

@@ -1,6 +1,6 @@
 """Web interface for Wn databases."""
 from typing import Optional, Union
-from functools import wraps
+from functools import wraps, lru_cache
 from urllib.parse import urlsplit, parse_qs, urlencode
 from datetime import datetime, UTC
 
@@ -53,6 +53,24 @@ def paginate(proto):
 
     return paginate_wrapper
 
+
+def cached_response(months: float):
+    """Decorator to add Cache-Control header to responses."""
+
+    def decorator(func):
+        @wraps(func)
+        async def wrapper(request: Request):
+            response: JSONResponse = await func(request)
+            if not isinstance(response, JSONResponse):
+                response = JSONResponse(response)
+
+            seconds = int(months * 30 * 24 * 60 * 60)
+            response.headers['Cache-Control'] = f'public, max-age={seconds}'
+            return response
+
+        return wrapper
+
+    return decorator
 
 def replace_query_params(url: str, **params) -> str:
     u = urlsplit(url)
@@ -227,6 +245,7 @@ async def http_exception_handler(request: Request, exc: Exception):
 
 # Route handlers
 
+@cached_response(months=1)
 @paginate(make_lexicon)
 async def lexicons(request):
     query = request.query_params
@@ -265,7 +284,8 @@ async def words(request):
     return _get_words(wordnet, request)
 
 
-def _get_forms(lexicon: str):
+@lru_cache(maxsize=1) # Cache the latest results for efficiency
+def _get_forms(lexicon: str, with_entities: bool = True):
     from wn._db import connect
 
     conn = connect()
@@ -284,25 +304,23 @@ def _get_forms(lexicon: str):
           JOIN lexicons AS lex ON lex.rowid = f.lexicon_rowid
          WHERE lex.id = ? AND lex.version = ?
     '''
+    if not with_entities:
+        query += ' AND f.form = LOWER(f.form)'
+
     rows = conn.execute(query, (lex_id, lex_version)).fetchall()
 
     return [row[0] for row in rows]
 
+
+@cached_response(months=1)
 async def forms(request):
-    forms = _get_forms(request.path_params['lexicon'])
+    with_entities = request.query_params.get('with_entities', 'true').lower() != 'false'
+    forms = _get_forms(request.path_params['lexicon'], with_entities=with_entities)
 
-    one_month_in_seconds = 60 * 60 * 24 * 30
-
-    return JSONResponse(
-        content={
-            "data": forms,
-            "meta": {
-                "total": len(forms)
-            }
-        },
-        headers={
-            "Cache-Control": f"public, max-age={one_month_in_seconds}"
-        })
+    return JSONResponse(content={
+        "data": forms,
+        "meta": {"total": len(forms)}
+    })
 
 
 async def word(request):
@@ -426,6 +444,7 @@ async def definitions(request: Request):
         })
 
     return JSONResponse({'data': results})
+
 
 routes = [
     Route('/', endpoint=index),
