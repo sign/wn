@@ -485,7 +485,8 @@ routes = [
 ]
 
 middlewares = [
-    Middleware(GZipMiddleware, minimum_size=1000, compresslevel=9),
+    # Level 4: best size/speed tradeoff (29% ratio @ 23ms vs 28% @ 268ms for level 9)
+    Middleware(GZipMiddleware, minimum_size=1000, compresslevel=4),
     Middleware(
         CORSMiddleware,
         allow_origins=['*'],
