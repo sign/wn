@@ -155,13 +155,21 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         synsets = w.synsets()
         lex_link = str(request.url_for('lexicon', lexicon=lex_spec))
         senses_link = str(request.url_for('senses', word=w.id, lexicon=lex_spec))
+
+        sense_counts = {s.synset().id: sum(s.counts()) for s in w.senses()}
+        included = []
+        for ss in synsets:
+            ss_data = make_synset(ss, request, basic=True)
+            ss_data['attributes']['count'] = sense_counts.get(ss.id, 0)
+            included.append(ss_data)
+
         d.update({
             'relationships': {
                 'senses': {'links': {'related': senses_link}},
                 'synsets': {'data': [dict(type='synset', id=ss.id) for ss in synsets]},
                 'lexicon': {'links': {'related': lex_link}}
             },
-            'included': [make_synset(ss, request, basic=True) for ss in synsets]
+            'included': included
         })
     return d
 
