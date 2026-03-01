@@ -5,9 +5,9 @@ from urllib.parse import parse_qs, urlencode, urlsplit
 
 from starlette.applications import Starlette  # type: ignore
 from starlette.exceptions import HTTPException  # type: ignore
-from starlette.middleware import Middleware
-from starlette.middleware.cors import CORSMiddleware
-from starlette.middleware.gzip import GZipMiddleware
+from starlette.middleware import Middleware  # type: ignore
+from starlette.middleware.cors import CORSMiddleware  # type: ignore
+from starlette.middleware.gzip import GZipMiddleware  # type: ignore
 from starlette.requests import Request  # type: ignore
 from starlette.responses import JSONResponse  # type: ignore
 from starlette.routing import Route  # type: ignore
