@@ -25,7 +25,9 @@ client = TestClient(web.app)
 @pytest.mark.usefixtures('mini_db_web')
 def test_root():
     response = client.get('/')
-    assert response.status_code == 404
+    assert response.status_code == 200
+    data = response.json()
+    assert 'endpoints' in data
 
 
 @pytest.mark.usefixtures('mini_db_web')
