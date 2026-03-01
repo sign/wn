@@ -292,7 +292,7 @@ async def words(request):
     return _get_words(wordnet, request)
 
 
-@lru_cache(maxsize=1) # Cache the latest results for efficiency
+@lru_cache(maxsize=10)
 def _get_forms(lexicon: str, with_entities: bool = True):
     from wn._db import connect
 
@@ -322,13 +322,21 @@ def _get_forms(lexicon: str, with_entities: bool = True):
 
 @cached_response(months=1)
 async def forms(request):
+    lexicon = request.path_params['lexicon']
     with_entities = request.query_params.get('with_entities', 'true').lower() != 'false'
-    forms = _get_forms(request.path_params['lexicon'], with_entities=with_entities)
+    print(f"forms: got request lexicon={lexicon} with_entities={with_entities}")
 
-    return JSONResponse(content={
+    print("forms: getting forms")
+    forms = _get_forms(lexicon, with_entities=with_entities)
+    print(f"forms: got {len(forms)} forms")
+
+    print("forms: constructing JSON response")
+    response = JSONResponse(content={
         "data": forms,
         "meta": {"total": len(forms)}
     })
+    print("forms: finished")
+    return response
 
 
 async def word(request):
@@ -484,9 +492,18 @@ middlewares = [
     )
 ]
 
+async def warmup():
+    # Pre-warm the DB connection and query cache during startup,
+    # so the first user request doesn't pay the cold-query cost.
+    lexicons = wn.lexicons()
+    if lexicons:
+        _get_forms(lexicons[0].specifier())
+
+
 app = Starlette(debug=True,
                 routes=routes,
                 middleware=middlewares,
+                on_startup=[warmup],
                 exception_handlers={
                     HTTPException: http_exception_handler,
                     wn.Error: http_exception_handler,
