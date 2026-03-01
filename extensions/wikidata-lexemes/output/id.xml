@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-id"
+                    label="Wikidata ID Lexemes Extension"
+                    language="id"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-id" version="1.4"/>
+    <LexicalEntry id="L307492">
+      <Lemma writtenForm="dengan" partOfSpeech="conjunction"/>
+      <Sense id="L307492-S1" synset="wikidata-id-L307492-S1" ili="wikidata-id-L307492-S1">
+        <Definition>beserta</Definition>
+      </Sense>
+      <Sense id="L307492-S2" synset="wikidata-id-L307492-S2" ili="wikidata-id-L307492-S2">
+        <Definition>memakai</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1225631">
+      <Lemma writtenForm="hubaya-hubaya" partOfSpeech="grammatical particle"/>
+      <Sense id="L1225631-S1" synset="wikidata-id-L1225631-S1" ili="wikidata-id-L1225631-S1">
+        <Definition>mudah-mudahan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330999">
+      <Lemma writtenForm="pe-an" partOfSpeech="confix"/>
+      <Sense id="L1330999-S1" synset="wikidata-id-L1330999-S1" ili="wikidata-id-L1330999-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+        <Example>grosse akta milik mutlak tanah itu. (s.d.t.dg. S. 1897-265.) Bila diadakan pe an atau pembagian suatu barang tetap yang sudah memiliki surat ukur yang dibuat.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2325">
+      <Lemma writtenForm="dan" partOfSpeech="conjunction"/>
+      <Sense id="L2325-S1" synset="wikidata-id-L2325-S1" ili="l1385-s1">
+        <Definition>serta</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2326">
+      <Lemma writtenForm="kau" partOfSpeech="pronoun"/>
+      <Sense id="L2326-S1" synset="wikidata-id-L2326-S1" ili="l482-s1">
+        <Definition>orang kedua tunggal</Definition>
+        <Example>padami Unggunan api ini Karena kau tidak akan apa-apa Aku terpanggang tinggal rangka. Februari 1943 Penghabisan kali itu kau datang Membawa kembang berkarang</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330976">
+      <Lemma writtenForm="per-kan" partOfSpeech="confix"/>
+      <Sense id="L1330976-S1" synset="wikidata-id-L1330976-S1" ili="wikidata-id-L1330976-S1">
+        <Definition>prefiks pembentuk verba transitif atau pasif bentuk pasif &quot;&lt;pronomina&gt; per-&quot;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330991">
+      <Lemma writtenForm="per-an" partOfSpeech="confix"/>
+      <Sense id="L1330991-S1" synset="wikidata-id-L1330991-S1" ili="wikidata-id-L1330991-S1">
+        <Definition>konfiks pembentuk nomina yang bermakna tempat, hasil perbuatan, peristiwa, hal perbuatan, proses</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331004">
+      <Lemma writtenForm="kese-an" partOfSpeech="confix"/>
+      <Sense id="L1331004-S1" synset="wikidata-id-L1331004-S1" ili="wikidata-id-L1331004-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331077">
+      <Lemma writtenForm="kepeng-an" partOfSpeech="confix"/>
+      <Sense id="L1331077-S1" synset="wikidata-id-L1331077-S1" ili="wikidata-id-L1331077-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372065">
+      <Lemma writtenForm="tampak" partOfSpeech="verbal noun"/>
+      <Sense id="L1372065-S1" synset="wikidata-id-L1372065-S1" ili="wikidata-id-L1372065-S1">
+        <Definition>sesuatu yang dapat dilihat</Definition>
+        <Example>Dua helikopter PBB tampak diparkir di landasan.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2474">
+      <Lemma writtenForm="aku" partOfSpeech="pronoun"/>
+      <Sense id="L2474-S1" synset="wikidata-id-L2474-S1" ili="wikidata-id-L2474-S1">
+        <Definition>saya, perspektif orang pertama untuk menyebut dia sebagai pembicara atau penulis</Definition>
+        <Example>Berkata Musa, &quot;Aku telah melakukannya, sedang aku di waktu itu termasuk orang-orang yang khilaf.</Example>
+        <SenseRelation relType="similar" target="wikidata-id-L1019746-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137695">
+      <Lemma writtenForm="buah" partOfSpeech="classifier"/>
+      <Sense id="L1137695-S1" synset="wikidata-id-L1137695-S1" ili="wikidata-id-L1137695-S1">
+        <Definition>penggolongan untuk objek besar</Definition>
+        <Example>diberi rezeki buah-buahan dalam surga-surga itu.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331076">
+      <Lemma writtenForm="keber-an" partOfSpeech="confix"/>
+      <Sense id="L1331076-S1" synset="wikidata-id-L1331076-S1" ili="wikidata-id-L1331076-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1023314">
+      <Lemma writtenForm="kamu" partOfSpeech="pronoun"/>
+      <Sense id="L1023314-S1" synset="wikidata-id-L1023314-S1" ili="l482-s1">
+        <Definition>orang yang diajak bicara</Definition>
+        <Example>(mengusir) kamu karena kamu beriman kepada Allah, Tuhanmu. Jika kamu benar-benar keluar untuk berjihad pada jalan-Ku dan mencari keridaan-Ku (janganlah kamu berbuat)</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119313">
+      <Lemma writtenForm="wkwkwk" partOfSpeech="interjection"/>
+      <Sense id="L1119313-S1" synset="wikidata-id-L1119313-S1" ili="wikidata-id-L1119313-S1">
+        <Definition>pengekspresian tawa oleh orang Indonesia di ranah digital</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330953">
+      <Lemma writtenForm="meng-i" partOfSpeech="confix"/>
+      <Sense id="L1330953-S1" synset="wikidata-id-L1330953-S1" ili="wikidata-id-L1330953-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330988">
+      <Lemma writtenForm="ber-kan" partOfSpeech="confix"/>
+      <Sense id="L1330988-S1" synset="wikidata-id-L1330988-S1" ili="wikidata-id-L1330988-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331006">
+      <Lemma writtenForm="perse-an" partOfSpeech="confix"/>
+      <Sense id="L1331006-S1" synset="wikidata-id-L1331006-S1" ili="wikidata-id-L1331006-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331007">
+      <Lemma writtenForm="ter-i" partOfSpeech="confix"/>
+      <Sense id="L1331007-S1" synset="wikidata-id-L1331007-S1" ili="wikidata-id-L1331007-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+        <Example>Ter-i adalah sebuah konfiks pembentuk verba. Contohnya terkhianati.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331008">
+      <Lemma writtenForm="ter-kan" partOfSpeech="confix"/>
+      <Sense id="L1331008-S1" synset="wikidata-id-L1331008-S1" ili="wikidata-id-L1331008-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331078">
+      <Lemma writtenForm="berke-an" partOfSpeech="confix"/>
+      <Sense id="L1331078-S1" synset="wikidata-id-L1331078-S1" ili="wikidata-id-L1331078-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689613">
+      <Lemma writtenForm="dari" partOfSpeech="preposition"/>
+      <Sense id="L689613-S1" synset="wikidata-id-L689613-S1" ili="wikidata-id-L689613-S1">
+        <Definition>kata depan yang menyatakan tempat permulaan (dalam ruang, waktu, deretan)</Definition>
+      </Sense>
+      <Sense id="L689613-S2" synset="wikidata-id-L689613-S2" ili="wikidata-id-L689613-S2">
+        <Definition>sejak, mulai</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137682">
+      <Lemma writtenForm="biji" partOfSpeech="classifier"/>
+      <Sense id="L1137682-S1" synset="wikidata-id-L1137682-S1" ili="wikidata-id-L1137682-S1">
+        <Definition>penggolongan untuk benda-benda kecil, buah-buahan</Definition>
+        <Example>biji buah karet.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137706">
+      <Lemma writtenForm="lembar" partOfSpeech="classifier"/>
+      <Sense id="L1137706-S1" synset="wikidata-id-L1137706-S1" ili="wikidata-id-L1137706-S1">
+        <Definition>kata penggolong bagi benda yang panjang</Definition>
+        <Example>daon djeroek poeroet satoe lembar</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331074">
+      <Lemma writtenForm="se-an" partOfSpeech="confix"/>
+      <Sense id="L1331074-S1" synset="wikidata-id-L1331074-S1" ili="wikidata-id-L1331074-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691676">
+      <Lemma writtenForm="atau" partOfSpeech="conjunction"/>
+      <Sense id="L691676-S1" synset="wikidata-id-L691676-S1" ili="wikidata-id-L691676-S1">
+        <Definition>pilihan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692346">
+      <Lemma writtenForm="bahwa" partOfSpeech="conjunction"/>
+      <Sense id="L692346-S1" synset="wikidata-id-L692346-S1" ili="wikidata-id-L692346-S1">
+        <Definition>menyatakan isi atau uraian kalimat yang di depan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137669">
+      <Lemma writtenForm="ekor" partOfSpeech="classifier"/>
+      <Sense id="L1137669-S1" synset="wikidata-id-L1137669-S1" ili="wikidata-id-L1137669-S1">
+        <Definition>penggolongan untuk hewan</Definition>
+        <Example>ber siap-siaplah Ganim bin Ayub dengan sebuah kafilah terdiri dari puluhan ekor unta untuk membawa barang dagangannya yang banyak itu.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137700">
+      <Lemma writtenForm="helai" partOfSpeech="classifier"/>
+      <Sense id="L1137700-S1" synset="wikidata-id-L1137700-S1" ili="wikidata-id-L1137700-S1">
+        <Definition>kata penggolong untuk barang yang tipis atau halus</Definition>
+        <Example>bunga yang menakjubkan diikuti helai demi helai</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L690715">
+      <Lemma writtenForm="sebagai" partOfSpeech="preposition"/>
+      <Sense id="L690715-S1" synset="wikidata-id-L690715-S1" ili="wikidata-id-L690715-S1">
+        <Definition>serupa</Definition>
+      </Sense>
+      <Sense id="L690715-S2" synset="wikidata-id-L690715-S2" ili="wikidata-id-L690715-S2">
+        <Definition>seperti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019746">
+      <Lemma writtenForm="saya" partOfSpeech="pronoun"/>
+      <Sense id="L1019746-S1" synset="wikidata-id-L1019746-S1" ili="l487-s1">
+        <Definition>aku, perspektif orang pertama untuk menyebut dia sebagai pembicara atau penulis</Definition>
+        <SenseRelation relType="similar" target="wikidata-id-L2474-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330951">
+      <Lemma writtenForm="meng-kan" partOfSpeech="confix"/>
+      <Sense id="L1330951-S1" synset="wikidata-id-L1330951-S1" ili="wikidata-id-L1330951-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+      <Sense id="L1330951-S2" synset="wikidata-id-L1330951-S2" ili="wikidata-id-L1330951-S2">
+        <Definition>konfiks pembentuk adjektiva. maknanya biasanya adalah &quot;merasa (menimbulkan/menyebabkan/menjadikan rasa) ...&quot; atau &quot;membuat jadi ...&quot;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330977">
+      <Lemma writtenForm="per-i" partOfSpeech="confix"/>
+      <Sense id="L1330977-S1" synset="wikidata-id-L1330977-S1" ili="wikidata-id-L1330977-S1">
+        <Definition>prefiks pembentuk verba transitif atau pasif bentuk pasif &quot;&lt;pronomina&gt; per-i&quot;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331001">
+      <Lemma writtenForm="ke-an" partOfSpeech="confix"/>
+      <Sense id="L1331001-S1" synset="wikidata-id-L1331001-S1" ili="wikidata-id-L1331001-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+      <Sense id="L1331001-S2" synset="wikidata-id-L1331001-S2" ili="wikidata-id-L1331001-S2">
+        <Definition>konfiks pembentuk adjektiva yang bermakna agak</Definition>
+      </Sense>
+      <Sense id="L1331001-S3" synset="wikidata-id-L1331001-S3" ili="wikidata-id-L1331001-S3">
+        <Definition>konfiks pembentuk verba yang tidak disengaja</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331075">
+      <Lemma writtenForm="keter-an" partOfSpeech="confix"/>
+      <Sense id="L1331075-S1" synset="wikidata-id-L1331075-S1" ili="wikidata-id-L1331075-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479450">
+      <Lemma writtenForm="peN- -an" partOfSpeech="circumfix"/>
+      <Sense id="L479450-S1" synset="wikidata-id-L479450-S1" ili="wikidata-id-L479450-S1">
+        <Definition>konfiks pembentuk nomina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L690861">
+      <Lemma writtenForm="ke" partOfSpeech="preposition"/>
+      <Sense id="L690861-S1" synset="wikidata-id-L690861-S1" ili="wikidata-id-L690861-S1">
+        <Definition>tujuan</Definition>
+      </Sense>
+      <Sense id="L690861-S2" synset="wikidata-id-L690861-S2" ili="wikidata-id-L690861-S2">
+        <Definition>arah</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330957">
+      <Lemma writtenForm="member-kan" partOfSpeech="confix"/>
+      <Sense id="L1330957-S1" synset="wikidata-id-L1330957-S1" ili="wikidata-id-L1330957-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330987">
+      <Lemma writtenForm="ber-an" partOfSpeech="confix"/>
+      <Sense id="L1330987-S1" synset="wikidata-id-L1330987-S1" ili="wikidata-id-L1330987-S1">
+        <Definition>konfiks pembentuk verba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-id-L307492-S1" ili="wikidata-id-L307492-S1">
+      <Definition>beserta</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L307492-S2" ili="wikidata-id-L307492-S2">
+      <Definition>memakai</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1225631-S1" ili="wikidata-id-L1225631-S1">
+      <Definition>mudah-mudahan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330999-S1" ili="wikidata-id-L1330999-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L2325-S1" ili="l1385-s1">
+      <Definition>serta</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L2326-S1" ili="l482-s1">
+      <Definition>orang kedua tunggal</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330976-S1" ili="wikidata-id-L1330976-S1">
+      <Definition>prefiks pembentuk verba transitif atau pasif bentuk pasif &quot;&lt;pronomina&gt; per-&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330991-S1" ili="wikidata-id-L1330991-S1">
+      <Definition>konfiks pembentuk nomina yang bermakna tempat, hasil perbuatan, peristiwa, hal perbuatan, proses</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331004-S1" ili="wikidata-id-L1331004-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331077-S1" ili="wikidata-id-L1331077-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1372065-S1" ili="wikidata-id-L1372065-S1">
+      <Definition>sesuatu yang dapat dilihat</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L2474-S1" ili="wikidata-id-L2474-S1">
+      <Definition>saya, perspektif orang pertama untuk menyebut dia sebagai pembicara atau penulis</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1137695-S1" ili="wikidata-id-L1137695-S1">
+      <Definition>penggolongan untuk objek besar</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331076-S1" ili="wikidata-id-L1331076-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1023314-S1" ili="l482-s1">
+      <Definition>orang yang diajak bicara</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1119313-S1" ili="wikidata-id-L1119313-S1">
+      <Definition>pengekspresian tawa oleh orang Indonesia di ranah digital</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330953-S1" ili="wikidata-id-L1330953-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330988-S1" ili="wikidata-id-L1330988-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331006-S1" ili="wikidata-id-L1331006-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331007-S1" ili="wikidata-id-L1331007-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331008-S1" ili="wikidata-id-L1331008-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331078-S1" ili="wikidata-id-L1331078-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L689613-S1" ili="wikidata-id-L689613-S1">
+      <Definition>kata depan yang menyatakan tempat permulaan (dalam ruang, waktu, deretan)</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L689613-S2" ili="wikidata-id-L689613-S2">
+      <Definition>sejak, mulai</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1137682-S1" ili="wikidata-id-L1137682-S1">
+      <Definition>penggolongan untuk benda-benda kecil, buah-buahan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1137706-S1" ili="wikidata-id-L1137706-S1">
+      <Definition>kata penggolong bagi benda yang panjang</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331074-S1" ili="wikidata-id-L1331074-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L691676-S1" ili="wikidata-id-L691676-S1">
+      <Definition>pilihan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L692346-S1" ili="wikidata-id-L692346-S1">
+      <Definition>menyatakan isi atau uraian kalimat yang di depan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1137669-S1" ili="wikidata-id-L1137669-S1">
+      <Definition>penggolongan untuk hewan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1137700-S1" ili="wikidata-id-L1137700-S1">
+      <Definition>kata penggolong untuk barang yang tipis atau halus</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L690715-S1" ili="wikidata-id-L690715-S1">
+      <Definition>serupa</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L690715-S2" ili="wikidata-id-L690715-S2">
+      <Definition>seperti</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1019746-S1" ili="l487-s1">
+      <Definition>aku, perspektif orang pertama untuk menyebut dia sebagai pembicara atau penulis</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330951-S1" ili="wikidata-id-L1330951-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330951-S2" ili="wikidata-id-L1330951-S2">
+      <Definition>konfiks pembentuk adjektiva. maknanya biasanya adalah &quot;merasa (menimbulkan/menyebabkan/menjadikan rasa) ...&quot; atau &quot;membuat jadi ...&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330977-S1" ili="wikidata-id-L1330977-S1">
+      <Definition>prefiks pembentuk verba transitif atau pasif bentuk pasif &quot;&lt;pronomina&gt; per-i&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331001-S1" ili="wikidata-id-L1331001-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331001-S2" ili="wikidata-id-L1331001-S2">
+      <Definition>konfiks pembentuk adjektiva yang bermakna agak</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331001-S3" ili="wikidata-id-L1331001-S3">
+      <Definition>konfiks pembentuk verba yang tidak disengaja</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1331075-S1" ili="wikidata-id-L1331075-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L479450-S1" ili="wikidata-id-L479450-S1">
+      <Definition>konfiks pembentuk nomina</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L690861-S1" ili="wikidata-id-L690861-S1">
+      <Definition>tujuan</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L690861-S2" ili="wikidata-id-L690861-S2">
+      <Definition>arah</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330957-S1" ili="wikidata-id-L1330957-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+    <Synset id="wikidata-id-L1330987-S1" ili="wikidata-id-L1330987-S1">
+      <Definition>konfiks pembentuk verba</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

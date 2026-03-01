@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-kv"
+                    label="Wikidata KV Lexemes Extension"
+                    language="kv"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-kv" version="1.4"/>
+    <LexicalEntry id="L47722">
+      <Lemma writtenForm="тэ" partOfSpeech="personal pronoun"/>
+      <Sense id="L47722-S1" synset="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L47718">
+      <Lemma writtenForm="вылын" partOfSpeech="adposition"/>
+      <Sense id="L47718-S1" synset="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L47719">
+      <Lemma writtenForm="вӧсна" partOfSpeech="adposition"/>
+      <Sense id="L47719-S1" synset="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L47723">
+      <Lemma writtenForm="сійӧ" partOfSpeech="pronoun"/>
+      <Sense id="L47723-S1" synset="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L47721">
+      <Lemma writtenForm="ме" partOfSpeech="personal pronoun"/>
+      <Sense id="L47721-S1" synset="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L47720">
+      <Lemma writtenForm="ӧти" partOfSpeech="numeral"/>
+      <Sense id="L47720-S1" synset="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L54522">
+      <Lemma writtenForm="да" partOfSpeech="grammatical particle"/>
+      <Sense id="L54522-S1" synset="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

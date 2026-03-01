@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-to"
+                    label="Wikidata TO Lexemes Extension"
+                    language="to"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-to" version="1.4"/>
+    <LexicalEntry id="L940736">
+      <Lemma writtenForm="&apos;ikai" partOfSpeech="interjection"/>
+      <Sense id="L940736-S1" synset="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407957">
+      <Lemma writtenForm="Nukuʻalofa" partOfSpeech="locative noun"/>
+      <Sense id="L1407957-S1" synset="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

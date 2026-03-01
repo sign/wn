@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-mn"
+                    label="Wikidata MN Lexemes Extension"
+                    language="mn"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-mn" version="1.4"/>
+    <LexicalEntry id="L684405">
+      <Lemma writtenForm="нэг" partOfSpeech="numeral"/>
+      <Sense id="L684405-S1" synset="wikidata-mn-L684405-S1" ili="wikidata-mn-L684405-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012591">
+      <Lemma writtenForm="би" partOfSpeech="personal pronoun"/>
+      <Sense id="L1012591-S1" synset="wikidata-mn-L1012591-S1" ili="wikidata-mn-L1012591-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136254">
+      <Lemma writtenForm="зургаа" partOfSpeech="numeral"/>
+      <Sense id="L1136254-S1" synset="wikidata-mn-L1136254-S1" ili="wikidata-mn-L1136254-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136280">
+      <Lemma writtenForm="долоо" partOfSpeech="numeral"/>
+      <Sense id="L1136280-S1" synset="wikidata-mn-L1136280-S1" ili="wikidata-mn-L1136280-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136998">
+      <Lemma writtenForm="тавь" partOfSpeech="numeral"/>
+      <Sense id="L1136998-S1" synset="wikidata-mn-L1136998-S1" ili="wikidata-mn-L1136998-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137002">
+      <Lemma writtenForm="ер" partOfSpeech="numeral"/>
+      <Sense id="L1137002-S1" synset="wikidata-mn-L1137002-S1" ili="wikidata-mn-L1137002-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137047">
+      <Lemma writtenForm="бум" partOfSpeech="numeral"/>
+      <Sense id="L1137047-S1" synset="wikidata-mn-L1137047-S1" ili="wikidata-mn-L1137047-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137052">
+      <Lemma writtenForm="живаа" partOfSpeech="numeral"/>
+      <Sense id="L1137052-S1" synset="wikidata-mn-L1137052-S1" ili="wikidata-mn-L1137052-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137056">
+      <Lemma writtenForm="арван түм" partOfSpeech="numeral"/>
+      <Sense id="L1137056-S1" synset="wikidata-mn-L1137056-S1" ili="wikidata-mn-L1137056-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137109">
+      <Lemma writtenForm="арван сая" partOfSpeech="numeral"/>
+      <Sense id="L1137109-S1" synset="wikidata-mn-L1137109-S1" ili="wikidata-mn-L1137109-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138844">
+      <Lemma writtenForm="маш дэлгэмэл" partOfSpeech="numeral"/>
+      <Sense id="L1138844-S1" synset="wikidata-mn-L1138844-S1" ili="wikidata-mn-L1138844-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142335">
+      <Lemma writtenForm="лагшаа" partOfSpeech="numeral"/>
+      <Sense id="L1142335-S1" synset="wikidata-mn-L1142335-S1" ili="wikidata-mn-L1142335-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136137">
+      <Lemma writtenForm="хоёр" partOfSpeech="numeral"/>
+      <Sense id="L1136137-S1" synset="wikidata-mn-L1136137-S1" ili="wikidata-mn-L1136137-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136139">
+      <Lemma writtenForm="гурав" partOfSpeech="numeral"/>
+      <Sense id="L1136139-S1" synset="wikidata-mn-L1136139-S1" ili="wikidata-mn-L1136139-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136282">
+      <Lemma writtenForm="ес" partOfSpeech="numeral"/>
+      <Sense id="L1136282-S1" synset="wikidata-mn-L1136282-S1" ili="wikidata-mn-L1136282-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137003">
+      <Lemma writtenForm="зуу" partOfSpeech="numeral"/>
+      <Sense id="L1137003-S1" synset="wikidata-mn-L1137003-S1" ili="wikidata-mn-L1137003-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139410">
+      <Lemma writtenForm="голди" partOfSpeech="numeral"/>
+      <Sense id="L1139410-S1" synset="wikidata-mn-L1139410-S1" ili="wikidata-mn-L1139410-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012626">
+      <Lemma writtenForm="тэр" partOfSpeech="personal pronoun"/>
+      <Sense id="L1012626-S1" synset="wikidata-mn-L1012626-S1" ili="wikidata-mn-L1012626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136283">
+      <Lemma writtenForm="арав" partOfSpeech="numeral"/>
+      <Sense id="L1136283-S1" synset="wikidata-mn-L1136283-S1" ili="wikidata-mn-L1136283-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136995">
+      <Lemma writtenForm="хорь" partOfSpeech="numeral"/>
+      <Sense id="L1136995-S1" synset="wikidata-mn-L1136995-S1" ili="wikidata-mn-L1136995-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137102">
+      <Lemma writtenForm="зуун мянга" partOfSpeech="numeral"/>
+      <Sense id="L1137102-S1" synset="wikidata-mn-L1137102-S1" ili="wikidata-mn-L1137102-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137921">
+      <Lemma writtenForm="тэрбум" partOfSpeech="numeral"/>
+      <Sense id="L1137921-S1" synset="wikidata-mn-L1137921-S1" ili="wikidata-mn-L1137921-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142334">
+      <Lemma writtenForm="лагчаа" partOfSpeech="numeral"/>
+      <Sense id="L1142334-S1" synset="wikidata-mn-L1142334-S1" ili="wikidata-mn-L1142334-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136140">
+      <Lemma writtenForm="дөрөв" partOfSpeech="numeral"/>
+      <Sense id="L1136140-S1" synset="wikidata-mn-L1136140-S1" ili="wikidata-mn-L1136140-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136141">
+      <Lemma writtenForm="тав" partOfSpeech="numeral"/>
+      <Sense id="L1136141-S1" synset="wikidata-mn-L1136141-S1" ili="wikidata-mn-L1136141-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137000">
+      <Lemma writtenForm="дал" partOfSpeech="numeral"/>
+      <Sense id="L1137000-S1" synset="wikidata-mn-L1137000-S1" ili="wikidata-mn-L1137000-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137045">
+      <Lemma writtenForm="мянга" partOfSpeech="numeral"/>
+      <Sense id="L1137045-S1" synset="wikidata-mn-L1137045-S1" ili="wikidata-mn-L1137045-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137053">
+      <Lemma writtenForm="дүнчүүр" partOfSpeech="numeral"/>
+      <Sense id="L1137053-S1" synset="wikidata-mn-L1137053-S1" ili="wikidata-mn-L1137053-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137111">
+      <Lemma writtenForm="зуун сая" partOfSpeech="numeral"/>
+      <Sense id="L1137111-S1" synset="wikidata-mn-L1137111-S1" ili="wikidata-mn-L1137111-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137950">
+      <Lemma writtenForm="наяд" partOfSpeech="numeral"/>
+      <Sense id="L1137950-S1" synset="wikidata-mn-L1137950-S1" ili="wikidata-mn-L1137950-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137951">
+      <Lemma writtenForm="их наяд" partOfSpeech="numeral"/>
+      <Sense id="L1137951-S1" synset="wikidata-mn-L1137951-S1" ili="wikidata-mn-L1137951-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138846">
+      <Lemma writtenForm="биллион" partOfSpeech="numeral"/>
+      <Sense id="L1138846-S1" synset="wikidata-mn-L1138846-S1" ili="wikidata-mn-L1138846-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138850">
+      <Lemma writtenForm="тунамал" partOfSpeech="numeral"/>
+      <Sense id="L1138850-S1" synset="wikidata-mn-L1138850-S1" ili="wikidata-mn-L1138850-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139408">
+      <Lemma writtenForm="асанги" partOfSpeech="numeral"/>
+      <Sense id="L1139408-S1" synset="wikidata-mn-L1139408-S1" ili="wikidata-mn-L1139408-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139409">
+      <Lemma writtenForm="таг" partOfSpeech="numeral"/>
+      <Sense id="L1139409-S1" synset="wikidata-mn-L1139409-S1" ili="wikidata-mn-L1139409-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012627">
+      <Lemma writtenForm="бид" partOfSpeech="personal pronoun"/>
+      <Sense id="L1012627-S1" synset="wikidata-mn-L1012627-S1" ili="wikidata-mn-L1012627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136999">
+      <Lemma writtenForm="жар" partOfSpeech="numeral"/>
+      <Sense id="L1136999-S1" synset="wikidata-mn-L1136999-S1" ili="wikidata-mn-L1136999-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137049">
+      <Lemma writtenForm="сая" partOfSpeech="numeral"/>
+      <Sense id="L1137049-S1" synset="wikidata-mn-L1137049-S1" ili="wikidata-mn-L1137049-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137054">
+      <Lemma writtenForm="арван мянга" partOfSpeech="numeral"/>
+      <Sense id="L1137054-S1" synset="wikidata-mn-L1137054-S1" ili="wikidata-mn-L1137054-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139411">
+      <Lemma writtenForm="дам" partOfSpeech="numeral"/>
+      <Sense id="L1139411-S1" synset="wikidata-mn-L1139411-S1" ili="wikidata-mn-L1139411-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012593">
+      <Lemma writtenForm="та" partOfSpeech="personal pronoun"/>
+      <Sense id="L1012593-S1" synset="wikidata-mn-L1012593-S1" ili="wikidata-mn-L1012593-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137001">
+      <Lemma writtenForm="ная" partOfSpeech="numeral"/>
+      <Sense id="L1137001-S1" synset="wikidata-mn-L1137001-S1" ili="wikidata-mn-L1137001-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137046">
+      <Lemma writtenForm="түм" partOfSpeech="numeral"/>
+      <Sense id="L1137046-S1" synset="wikidata-mn-L1137046-S1" ili="wikidata-mn-L1137046-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137057">
+      <Lemma writtenForm="зуун түм" partOfSpeech="numeral"/>
+      <Sense id="L1137057-S1" synset="wikidata-mn-L1137057-S1" ili="wikidata-mn-L1137057-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137059">
+      <Lemma writtenForm="түмэн түм" partOfSpeech="numeral"/>
+      <Sense id="L1137059-S1" synset="wikidata-mn-L1137059-S1" ili="wikidata-mn-L1137059-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137933">
+      <Lemma writtenForm="цагчиг" partOfSpeech="numeral"/>
+      <Sense id="L1137933-S1" synset="wikidata-mn-L1137933-S1" ili="wikidata-mn-L1137933-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137935">
+      <Lemma writtenForm="их тэрбум" partOfSpeech="numeral"/>
+      <Sense id="L1137935-S1" synset="wikidata-mn-L1137935-S1" ili="wikidata-mn-L1137935-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137952">
+      <Lemma writtenForm="миллиард" partOfSpeech="numeral"/>
+      <Sense id="L1137952-S1" synset="wikidata-mn-L1137952-S1" ili="wikidata-mn-L1137952-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137955">
+      <Lemma writtenForm="равдам" partOfSpeech="numeral"/>
+      <Sense id="L1137955-S1" synset="wikidata-mn-L1137955-S1" ili="wikidata-mn-L1137955-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138845">
+      <Lemma writtenForm="маш их дэлгэмэл" partOfSpeech="numeral"/>
+      <Sense id="L1138845-S1" synset="wikidata-mn-L1138845-S1" ili="wikidata-mn-L1138845-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1140152">
+      <Lemma writtenForm="тэг" partOfSpeech="numeral"/>
+      <Sense id="L1140152-S1" synset="wikidata-mn-L1140152-S1" ili="wikidata-mn-L1140152-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136281">
+      <Lemma writtenForm="найм" partOfSpeech="numeral"/>
+      <Sense id="L1136281-S1" synset="wikidata-mn-L1136281-S1" ili="wikidata-mn-L1136281-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136996">
+      <Lemma writtenForm="гуч" partOfSpeech="numeral"/>
+      <Sense id="L1136996-S1" synset="wikidata-mn-L1136996-S1" ili="wikidata-mn-L1136996-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136997">
+      <Lemma writtenForm="дөч" partOfSpeech="numeral"/>
+      <Sense id="L1136997-S1" synset="wikidata-mn-L1136997-S1" ili="wikidata-mn-L1136997-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137058">
+      <Lemma writtenForm="мянган түм" partOfSpeech="numeral"/>
+      <Sense id="L1137058-S1" synset="wikidata-mn-L1137058-S1" ili="wikidata-mn-L1137058-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137105">
+      <Lemma writtenForm="миллион" partOfSpeech="numeral"/>
+      <Sense id="L1137105-S1" synset="wikidata-mn-L1137105-S1" ili="wikidata-mn-L1137105-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138842">
+      <Lemma writtenForm="триллион" partOfSpeech="numeral"/>
+      <Sense id="L1138842-S1" synset="wikidata-mn-L1138842-S1" ili="wikidata-mn-L1138842-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012592">
+      <Lemma writtenForm="чи" partOfSpeech="personal pronoun"/>
+      <Sense id="L1012592-S1" synset="wikidata-mn-L1012592-S1" ili="wikidata-mn-L1012592-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138843">
+      <Lemma writtenForm="их равдам" partOfSpeech="numeral"/>
+      <Sense id="L1138843-S1" synset="wikidata-mn-L1138843-S1" ili="wikidata-mn-L1138843-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138851">
+      <Lemma writtenForm="их тунамал" partOfSpeech="numeral"/>
+      <Sense id="L1138851-S1" synset="wikidata-mn-L1138851-S1" ili="wikidata-mn-L1138851-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139424">
+      <Lemma writtenForm="зориг" partOfSpeech="numeral"/>
+      <Sense id="L1139424-S1" synset="wikidata-mn-L1139424-S1" ili="wikidata-mn-L1139424-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-mn-L684405-S1" ili="wikidata-mn-L684405-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1012591-S1" ili="wikidata-mn-L1012591-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136254-S1" ili="wikidata-mn-L1136254-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136280-S1" ili="wikidata-mn-L1136280-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136998-S1" ili="wikidata-mn-L1136998-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137002-S1" ili="wikidata-mn-L1137002-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137047-S1" ili="wikidata-mn-L1137047-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137052-S1" ili="wikidata-mn-L1137052-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137056-S1" ili="wikidata-mn-L1137056-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137109-S1" ili="wikidata-mn-L1137109-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138844-S1" ili="wikidata-mn-L1138844-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1142335-S1" ili="wikidata-mn-L1142335-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136137-S1" ili="wikidata-mn-L1136137-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136139-S1" ili="wikidata-mn-L1136139-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136282-S1" ili="wikidata-mn-L1136282-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137003-S1" ili="wikidata-mn-L1137003-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1139410-S1" ili="wikidata-mn-L1139410-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1012626-S1" ili="wikidata-mn-L1012626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136283-S1" ili="wikidata-mn-L1136283-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136995-S1" ili="wikidata-mn-L1136995-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137102-S1" ili="wikidata-mn-L1137102-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137921-S1" ili="wikidata-mn-L1137921-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1142334-S1" ili="wikidata-mn-L1142334-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136140-S1" ili="wikidata-mn-L1136140-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136141-S1" ili="wikidata-mn-L1136141-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137000-S1" ili="wikidata-mn-L1137000-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137045-S1" ili="wikidata-mn-L1137045-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137053-S1" ili="wikidata-mn-L1137053-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137111-S1" ili="wikidata-mn-L1137111-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137950-S1" ili="wikidata-mn-L1137950-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137951-S1" ili="wikidata-mn-L1137951-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138846-S1" ili="wikidata-mn-L1138846-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138850-S1" ili="wikidata-mn-L1138850-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1139408-S1" ili="wikidata-mn-L1139408-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1139409-S1" ili="wikidata-mn-L1139409-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1012627-S1" ili="wikidata-mn-L1012627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136999-S1" ili="wikidata-mn-L1136999-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137049-S1" ili="wikidata-mn-L1137049-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137054-S1" ili="wikidata-mn-L1137054-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1139411-S1" ili="wikidata-mn-L1139411-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1012593-S1" ili="wikidata-mn-L1012593-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137001-S1" ili="wikidata-mn-L1137001-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137046-S1" ili="wikidata-mn-L1137046-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137057-S1" ili="wikidata-mn-L1137057-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137059-S1" ili="wikidata-mn-L1137059-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137933-S1" ili="wikidata-mn-L1137933-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137935-S1" ili="wikidata-mn-L1137935-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137952-S1" ili="wikidata-mn-L1137952-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137955-S1" ili="wikidata-mn-L1137955-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138845-S1" ili="wikidata-mn-L1138845-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1140152-S1" ili="wikidata-mn-L1140152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136281-S1" ili="wikidata-mn-L1136281-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136996-S1" ili="wikidata-mn-L1136996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1136997-S1" ili="wikidata-mn-L1136997-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137058-S1" ili="wikidata-mn-L1137058-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1137105-S1" ili="wikidata-mn-L1137105-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138842-S1" ili="wikidata-mn-L1138842-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1012592-S1" ili="wikidata-mn-L1012592-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138843-S1" ili="wikidata-mn-L1138843-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1138851-S1" ili="wikidata-mn-L1138851-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mn-L1139424-S1" ili="wikidata-mn-L1139424-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-af"
+                    label="Wikidata AF Lexemes Extension"
+                    language="af"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-af" version="1.4"/>
+    <LexicalEntry id="L1143585">
+      <Lemma writtenForm="hy" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143585-S1" synset="wikidata-af-L1143585-S1" ili="wikidata-af-L1143585-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143586">
+      <Lemma writtenForm="sy" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143586-S1" synset="wikidata-af-L1143586-S1" ili="wikidata-af-L1143586-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143587">
+      <Lemma writtenForm="dit" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143587-S1" synset="wikidata-af-L1143587-S1" ili="wikidata-af-L1143587-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143583">
+      <Lemma writtenForm="ek" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143583-S1" synset="wikidata-af-L1143583-S1" ili="wikidata-af-L1143583-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143584">
+      <Lemma writtenForm="jy" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143584-S1" synset="wikidata-af-L1143584-S1" ili="wikidata-af-L1143584-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143589">
+      <Lemma writtenForm="ons" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143589-S1" synset="wikidata-af-L1143589-S1" ili="wikidata-af-L1143589-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143590">
+      <Lemma writtenForm="julle" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143590-S1" synset="wikidata-af-L1143590-S1" ili="wikidata-af-L1143590-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143591">
+      <Lemma writtenForm="hulle" partOfSpeech="personal pronoun"/>
+      <Sense id="L1143591-S1" synset="wikidata-af-L1143591-S1" ili="wikidata-af-L1143591-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L406986">
+      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Sense id="L406986-S1" synset="wikidata-af-L406986-S1" ili="wikidata-af-L406986-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-af-L1143585-S1" ili="wikidata-af-L1143585-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143586-S1" ili="wikidata-af-L1143586-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143587-S1" ili="wikidata-af-L1143587-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143583-S1" ili="wikidata-af-L1143583-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143584-S1" ili="wikidata-af-L1143584-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143589-S1" ili="wikidata-af-L1143589-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143590-S1" ili="wikidata-af-L1143590-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L1143591-S1" ili="wikidata-af-L1143591-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-af-L406986-S1" ili="wikidata-af-L406986-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

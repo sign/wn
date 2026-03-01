@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-tr"
+                    label="Wikidata TR Lexemes Extension"
+                    language="tr"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-tr" version="1.4"/>
+    <LexicalEntry id="L294422">
+      <Lemma writtenForm="sen" partOfSpeech="pronoun"/>
+      <Sense id="L294422-S1" synset="wikidata-tr-L294422-S1" ili="wikidata-tr-L294422-S1">
+        <Definition></Definition>
+        <Example>sen kökü değil, ancak kök seni taşıyor.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L999115">
+      <Lemma writtenForm="ya" partOfSpeech="converb"/>
+      <Sense id="L999115-S1" synset="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133346">
+      <Lemma writtenForm="ile" partOfSpeech="conjunction"/>
+      <Sense id="L1133346-S1" synset="wikidata-tr-L1133346-S1" ili="wikidata-tr-L1133346-S1">
+        <Definition>tümce içinde görevdeş iki öğeyi birbirine bağlar</Definition>
+        <SenseRelation relType="similar" target="wikidata-tr-L482677-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217105">
+      <Lemma writtenForm="herkes" partOfSpeech="pronoun"/>
+      <Sense id="L1217105-S1" synset="wikidata-tr-L1217105-S1" ili="wikidata-tr-L1217105-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217412">
+      <Lemma writtenForm="gayrı" partOfSpeech="postposition"/>
+      <Sense id="L1217412-S1" synset="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371523">
+      <Lemma writtenForm="e" partOfSpeech="interjection"/>
+      <Sense id="L1371523-S1" synset="wikidata-tr-L1371523-S1" ili="wikidata-tr-L1371523-S1">
+        <Definition>öyle ise</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1523103">
+      <Lemma writtenForm="-yı" partOfSpeech="postposition"/>
+      <Sense id="L1523103-S1" synset="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L685337">
+      <Lemma writtenForm="bir" partOfSpeech="determiner"/>
+      <Sense id="L685337-S1" synset="wikidata-tr-L685337-S1" ili="l327-s1">
+        <Definition>saymaya başlarken söylenen, ilk pozitif tam sayı</Definition>
+        <Example>Yeruşalimde Koyun kapısı yanında, İbranice Beythesta denilen, beş eyvanlı bir havuz vardı.</Example>
+      </Sense>
+      <Sense id="L685337-S2" synset="wikidata-tr-L685337-S2" ili="wikidata-tr-L685337-S2">
+        <Definition>1 ve I rakamlarının ismi</Definition>
+      </Sense>
+      <Sense id="L685337-S3" synset="wikidata-tr-L685337-S3" ili="wikidata-tr-L685337-S3">
+        <Definition>bir sayısı miktarında olan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L721629">
+      <Lemma writtenForm="sakın" partOfSpeech="interjection"/>
+      <Sense id="L721629-S1" synset="wikidata-tr-L721629-S1" ili="wikidata-tr-L721629-S1">
+        <Definition>Asla</Definition>
+        <Example>Aman matmazel, sakın dışarı çıkmayınız!</Example>
+      </Sense>
+      <Sense id="L721629-S2" synset="wikidata-tr-L721629-S2" ili="wikidata-tr-L721629-S2">
+        <Definition>“Korkutma potansiyeli olacak bir şey olmasın” anlamında kullanılan tabir</Definition>
+        <Example>Sakın vefat etmiş olmasın?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1037022">
+      <Lemma writtenForm="biri" partOfSpeech="pronoun"/>
+      <Sense id="L1037022-S1" synset="wikidata-tr-L1037022-S1" ili="wikidata-tr-L1037022-S1">
+        <Definition>bir tanesi</Definition>
+      </Sense>
+      <Sense id="L1037022-S2" synset="wikidata-tr-L1037022-S2" ili="wikidata-tr-L1037022-S2">
+        <Definition>bilinmeyen bir kimse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1159029">
+      <Lemma writtenForm="gibi" partOfSpeech="postposition"/>
+      <Sense id="L1159029-S1" synset="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1159152">
+      <Lemma writtenForm="mı" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1159152-S1" synset="wikidata-tr-L1159152-S1" ili="wikidata-tr-L1159152-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1160509">
+      <Lemma writtenForm="her" partOfSpeech="determiner"/>
+      <Sense id="L1160509-S1" synset="wikidata-tr-L1160509-S1" ili="wikidata-tr-L1160509-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161704">
+      <Lemma writtenForm="ki" partOfSpeech="conjunction"/>
+      <Sense id="L1161704-S1" synset="wikidata-tr-L1161704-S1" ili="wikidata-tr-L1161704-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215983">
+      <Lemma writtenForm="doğru" partOfSpeech="postposition"/>
+      <Sense id="L1215983-S1" synset="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216856">
+      <Lemma writtenForm="bütün" partOfSpeech="determiner"/>
+      <Sense id="L1216856-S1" synset="wikidata-tr-L1216856-S1" ili="wikidata-tr-L1216856-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-tr-L1216857-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216857">
+      <Lemma writtenForm="tüm" partOfSpeech="determiner"/>
+      <Sense id="L1216857-S1" synset="wikidata-tr-L1216857-S1" ili="wikidata-tr-L1216857-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-tr-L1216856-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217406">
+      <Lemma writtenForm="madem" partOfSpeech="conjunction"/>
+      <Sense id="L1217406-S1" synset="wikidata-tr-L1217406-S1" ili="wikidata-tr-L1217406-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258481">
+      <Lemma writtenForm="aksi hâlde" partOfSpeech="adverbial locution"/>
+      <Sense id="L1258481-S1" synset="wikidata-tr-L1258481-S1" ili="wikidata-tr-L1258481-S1">
+        <Definition>öyle olmazsa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407235">
+      <Lemma writtenForm="hakkında" partOfSpeech="postposition"/>
+      <Sense id="L1407235-S1" synset="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1529700">
+      <Lemma writtenForm="oldu" partOfSpeech="interjection"/>
+      <Sense id="L1529700-S1" synset="wikidata-tr-L1529700-S1" ili="wikidata-tr-L1529700-S1">
+        <Definition>evet</Definition>
+      </Sense>
+      <Sense id="L1529700-S2" synset="wikidata-tr-L1529700-S2" ili="wikidata-tr-L1529700-S2">
+        <Definition>başüstüne</Definition>
+      </Sense>
+      <Sense id="L1529700-S3" synset="wikidata-tr-L1529700-S3" ili="wikidata-tr-L1529700-S3">
+        <Definition>peki, tamam; okey</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010942">
+      <Lemma writtenForm="bu" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L1010942-S1" synset="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1">
+        <Definition></Definition>
+        <Example>Barbarlar hayvanı onun eline asılmış görünce, birbirlerine dediler: Her halde bu adam katildir; denizden kurtuldu ise de, Adalet onu yaşamağa bırakmadı.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1122571">
+      <Lemma writtenForm="ekinler dize kadar, fener gel bize kadar" partOfSpeech="chant"/>
+      <Sense id="L1122571-S1" synset="wikidata-tr-L1122571-S1" ili="wikidata-tr-L1122571-S1">
+        <Definition>Futbolda Fenerbahçe&apos;ye karşı söylenen bir tezahürat</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133345">
+      <Lemma writtenForm="ile" partOfSpeech="grammatical particle"/>
+      <Sense id="L1133345-S1" synset="wikidata-tr-L1133345-S1" ili="l2991-s1">
+        <Definition>sözcüğün sonuna getirilerek birliktelik, işteşlik, araç, neden ya da durum bildiren tümleçler oluşturmaya yarar</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161703">
+      <Lemma writtenForm="ya" partOfSpeech="conjunction"/>
+      <Sense id="L1161703-S1" synset="wikidata-tr-L1161703-S1" ili="wikidata-tr-L1161703-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216610">
+      <Lemma writtenForm="ancak" partOfSpeech="conjunction"/>
+      <Sense id="L1216610-S1" synset="wikidata-tr-L1216610-S1" ili="wikidata-tr-L1216610-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217600">
+      <Lemma writtenForm="bile" partOfSpeech="enclitic"/>
+      <Sense id="L1217600-S1" synset="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1225986">
+      <Lemma writtenForm="fî" partOfSpeech="preposition"/>
+      <Sense id="L1225986-S1" synset="wikidata-tr-L1225986-S1" ili="wikidata-tr-L1225986-S1">
+        <Definition>içinde</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1345299">
+      <Lemma writtenForm="birbiri" partOfSpeech="reciprocal pronoun"/>
+      <Sense id="L1345299-S1" synset="wikidata-tr-L1345299-S1" ili="wikidata-tr-L1345299-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408209">
+      <Lemma writtenForm="altı" partOfSpeech="determiner"/>
+      <Sense id="L1408209-S1" synset="wikidata-tr-L1408209-S1" ili="wikidata-tr-L1408209-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408217">
+      <Lemma writtenForm="aferim" partOfSpeech="interjection"/>
+      <Sense id="L1408217-S1" synset="wikidata-tr-L1408217-S1" ili="wikidata-tr-L1408217-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-tr-L1408216-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1457567">
+      <Lemma writtenForm="el-" partOfSpeech="determiner"/>
+      <Sense id="L1457567-S1" synset="wikidata-tr-L1457567-S1" ili="wikidata-tr-L1457567-S1">
+        <Definition>(harf-i tarif)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524304">
+      <Lemma writtenForm="bâzı" partOfSpeech="determiner"/>
+      <Sense id="L1524304-S1" synset="wikidata-tr-L1524304-S1" ili="wikidata-tr-L1524304-S1">
+        <Definition>birtakım, kimi</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1530297">
+      <Lemma writtenForm="efendim" partOfSpeech="interjection"/>
+      <Sense id="L1530297-S1" synset="wikidata-tr-L1530297-S1" ili="wikidata-tr-L1530297-S1">
+        <Definition>buradayım?!</Definition>
+      </Sense>
+      <Sense id="L1530297-S2" synset="wikidata-tr-L1530297-S2" ili="wikidata-tr-L1530297-S2">
+        <Definition>anlamadım?! duymadım?!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1549722">
+      <Lemma writtenForm="tallâhi" partOfSpeech="interjection"/>
+      <Sense id="L1549722-S1" synset="wikidata-tr-L1549722-S1" ili="wikidata-tr-L1549722-S1">
+        <Definition>Allâh’a yemin olsun</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L294425">
+      <Lemma writtenForm="siz" partOfSpeech="pronoun"/>
+      <Sense id="L294425-S1" synset="wikidata-tr-L294425-S1" ili="wikidata-tr-L294425-S1">
+        <Definition></Definition>
+        <Example>Siz aşağıdansınız, ben yukarıdanım; siz bu dünyadansınız, ben bu dünyadan değilim.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L401355">
+      <Lemma writtenForm="ora" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L401355-S1" synset="wikidata-tr-L401355-S1" ili="wikidata-tr-L401355-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1157495">
+      <Lemma writtenForm="da" partOfSpeech="enclitic"/>
+      <Sense id="L1157495-S1" synset="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1157495-S2" synset="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216111">
+      <Lemma writtenForm="beri" partOfSpeech="postposition"/>
+      <Sense id="L1216111-S1" synset="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217415">
+      <Lemma writtenForm="şu" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L1217415-S1" synset="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217601">
+      <Lemma writtenForm="hem" partOfSpeech="conjunction"/>
+      <Sense id="L1217601-S1" synset="wikidata-tr-L1217601-S1" ili="wikidata-tr-L1217601-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1229679">
+      <Lemma writtenForm="hay" partOfSpeech="interjection"/>
+      <Sense id="L1229679-S1" synset="wikidata-tr-L1229679-S1" ili="wikidata-tr-L1229679-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235204">
+      <Lemma writtenForm="ibin" partOfSpeech="preposition"/>
+      <Sense id="L1235204-S1" synset="wikidata-tr-L1235204-S1" ili="wikidata-tr-L1235204-S1">
+        <Definition>oğul</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258468">
+      <Lemma writtenForm="o hâlde" partOfSpeech="adverbial locution"/>
+      <Sense id="L1258468-S1" synset="wikidata-tr-L1258468-S1" ili="wikidata-tr-L1258468-S1">
+        <Definition>bu durum karşısında</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408894">
+      <Lemma writtenForm="bre" partOfSpeech="vocative particle"/>
+      <Sense id="L1408894-S1" synset="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411281">
+      <Lemma writtenForm="hayde" partOfSpeech="interjection"/>
+      <Sense id="L1411281-S1" synset="wikidata-tr-L1411281-S1" ili="wikidata-tr-L1411281-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473695">
+      <Lemma writtenForm="kaçgöç" partOfSpeech="compound noun"/>
+      <Sense id="L1473695-S1" synset="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1159027">
+      <Lemma writtenForm="ne" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L1159027-S1" synset="wikidata-tr-L1159027-S1" ili="wikidata-tr-L1159027-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1160491">
+      <Lemma writtenForm="ama" partOfSpeech="conjunction"/>
+      <Sense id="L1160491-S1" synset="wikidata-tr-L1160491-S1" ili="wikidata-tr-L1160491-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215964">
+      <Lemma writtenForm="dolayı" partOfSpeech="postposition"/>
+      <Sense id="L1215964-S1" synset="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215981">
+      <Lemma writtenForm="îtibâren" partOfSpeech="postposition"/>
+      <Sense id="L1215981-S1" synset="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258465">
+      <Lemma writtenForm="o" partOfSpeech="determiner"/>
+      <Sense id="L1258465-S1" synset="wikidata-tr-L1258465-S1" ili="wikidata-tr-L1258465-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258479">
+      <Lemma writtenForm="her gün" partOfSpeech="adverbial locution"/>
+      <Sense id="L1258479-S1" synset="wikidata-tr-L1258479-S1" ili="wikidata-tr-L1258479-S1">
+        <Definition>bütün günler</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1347638">
+      <Lemma writtenForm="ha" partOfSpeech="interjection"/>
+      <Sense id="L1347638-S1" synset="wikidata-tr-L1347638-S1" ili="wikidata-tr-L1347638-S1">
+        <Definition>evet</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408216">
+      <Lemma writtenForm="aferin" partOfSpeech="interjection"/>
+      <Sense id="L1408216-S1" synset="wikidata-tr-L1408216-S1" ili="wikidata-tr-L1408216-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-tr-L1408217-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L294424">
+      <Lemma writtenForm="biz" partOfSpeech="pronoun"/>
+      <Sense id="L294424-S1" synset="wikidata-tr-L294424-S1" ili="wikidata-tr-L294424-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L720969">
+      <Lemma writtenForm="kim" partOfSpeech="pronoun"/>
+      <Sense id="L720969-S1" synset="wikidata-tr-L720969-S1" ili="wikidata-tr-L720969-S1">
+        <Definition>Hangi kişi anlamında kullanılan söz</Definition>
+        <Example>Kim sesini çıkarırsa karşısında beni bulur.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1160515">
+      <Lemma writtenForm="kadar" partOfSpeech="postposition"/>
+      <Sense id="L1160515-S1" synset="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1160515-S2" synset="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215390">
+      <Lemma writtenForm="diye" partOfSpeech="conjunction"/>
+      <Sense id="L1215390-S1" synset="wikidata-tr-L1215390-S1" ili="wikidata-tr-L1215390-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216112">
+      <Lemma writtenForm="rağmen" partOfSpeech="postposition"/>
+      <Sense id="L1216112-S1" synset="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216113">
+      <Lemma writtenForm="karşın" partOfSpeech="postposition"/>
+      <Sense id="L1216113-S1" synset="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216611">
+      <Lemma writtenForm="fakat" partOfSpeech="conjunction"/>
+      <Sense id="L1216611-S1" synset="wikidata-tr-L1216611-S1" ili="wikidata-tr-L1216611-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217391">
+      <Lemma writtenForm="değin" partOfSpeech="postposition"/>
+      <Sense id="L1217391-S1" synset="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217603">
+      <Lemma writtenForm="veya" partOfSpeech="conjunction"/>
+      <Sense id="L1217603-S1" synset="wikidata-tr-L1217603-S1" ili="wikidata-tr-L1217603-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235210">
+      <Lemma writtenForm="dır" partOfSpeech="modal particle"/>
+      <Sense id="L1235210-S1" synset="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1236143">
+      <Lemma writtenForm="bi" partOfSpeech="preposition"/>
+      <Sense id="L1236143-S1" synset="wikidata-tr-L1236143-S1" ili="wikidata-tr-L1236143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258473">
+      <Lemma writtenForm="o takdirde" partOfSpeech="adverbial locution"/>
+      <Sense id="L1258473-S1" synset="wikidata-tr-L1258473-S1" ili="wikidata-tr-L1258473-S1">
+        <Definition>öyle olunca</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1529750">
+      <Lemma writtenForm="ait" partOfSpeech="postposition"/>
+      <Sense id="L1529750-S1" synset="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1">
+        <Definition>ilişkin, değgin</Definition>
+        <Example>Zihnimden Afganistan’a âit bütün mâlûmâtımı geçirmekteyim</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L294423">
+      <Lemma writtenForm="o" partOfSpeech="pronoun"/>
+      <Sense id="L294423-S1" synset="wikidata-tr-L294423-S1" ili="wikidata-tr-L294423-S1">
+        <Definition>Tekil üçüncü şahısı gösteren söz</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L482677">
+      <Lemma writtenForm="ve" partOfSpeech="conjunction"/>
+      <Sense id="L482677-S1" synset="wikidata-tr-L482677-S1" ili="l1385-s1">
+        <Definition>kelimeleri ve cümleleri birleştirir</Definition>
+        <Example>Ben gerçek asmayım, ve Babam bağcıdır.</Example>
+        <SenseRelation relType="similar" target="wikidata-tr-L1133346-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1158884">
+      <Lemma writtenForm="için" partOfSpeech="postposition"/>
+      <Sense id="L1158884-S1" synset="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1159026">
+      <Lemma writtenForm="çok" partOfSpeech="determiner"/>
+      <Sense id="L1159026-S1" synset="wikidata-tr-L1159026-S1" ili="wikidata-tr-L1159026-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215252">
+      <Lemma writtenForm="göre" partOfSpeech="postposition"/>
+      <Sense id="L1215252-S1" synset="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217392">
+      <Lemma writtenForm="dek" partOfSpeech="postposition"/>
+      <Sense id="L1217392-S1" synset="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217413">
+      <Lemma writtenForm="başka" partOfSpeech="determiner"/>
+      <Sense id="L1217413-S1" synset="wikidata-tr-L1217413-S1" ili="wikidata-tr-L1217413-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1345862">
+      <Lemma writtenForm="evet" partOfSpeech="interjection"/>
+      <Sense id="L1345862-S1" synset="wikidata-tr-L1345862-S1" ili="wikidata-tr-L1345862-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524331">
+      <Lemma writtenForm="üç" partOfSpeech="determiner"/>
+      <Sense id="L1524331-S1" synset="wikidata-tr-L1524331-S1" ili="wikidata-tr-L1524331-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524508">
+      <Lemma writtenForm="of" partOfSpeech="interjection"/>
+      <Sense id="L1524508-S1" synset="wikidata-tr-L1524508-S1" ili="wikidata-tr-L1524508-S1">
+        <Definition>(bezginlik anlatan bir ünlem)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1549776">
+      <Lemma writtenForm="pes" partOfSpeech="interjection"/>
+      <Sense id="L1549776-S1" synset="wikidata-tr-L1549776-S1" ili="wikidata-tr-L1549776-S1">
+        <Definition>yeter, kâfî</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L294421">
+      <Lemma writtenForm="ben" partOfSpeech="pronoun"/>
+      <Sense id="L294421-S2" synset="wikidata-tr-L294421-S2" ili="wikidata-tr-L294421-S2">
+        <Definition>kişi kendini belirtir</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1159151">
+      <Lemma writtenForm="kendi" partOfSpeech="reflexive pronoun"/>
+      <Sense id="L1159151-S1" synset="wikidata-tr-L1159151-S1" ili="wikidata-tr-L1159151-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215963">
+      <Lemma writtenForm="ötürü" partOfSpeech="postposition"/>
+      <Sense id="L1215963-S1" synset="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215980">
+      <Lemma writtenForm="evvel" partOfSpeech="postposition"/>
+      <Sense id="L1215980-S1" synset="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216607">
+      <Lemma writtenForm="ilk" partOfSpeech="determiner"/>
+      <Sense id="L1216607-S1" synset="wikidata-tr-L1216607-S1" ili="wikidata-tr-L1216607-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216612">
+      <Lemma writtenForm="lakin" partOfSpeech="conjunction"/>
+      <Sense id="L1216612-S1" synset="wikidata-tr-L1216612-S1" ili="wikidata-tr-L1216612-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1258478">
+      <Lemma writtenForm="her zaman" partOfSpeech="adverbial locution"/>
+      <Sense id="L1258478-S1" synset="wikidata-tr-L1258478-S1" ili="wikidata-tr-L1258478-S1">
+        <Definition>hep</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1460127">
+      <Lemma writtenForm="hepsi" partOfSpeech="pronoun"/>
+      <Sense id="L1460127-S1" synset="wikidata-tr-L1460127-S1" ili="wikidata-tr-L1460127-S1">
+        <Definition>tümü</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524303">
+      <Lemma writtenForm="birçok" partOfSpeech="determiner"/>
+      <Sense id="L1524303-S1" synset="wikidata-tr-L1524303-S1" ili="wikidata-tr-L1524303-S1">
+        <Definition>oldukça çok, epeyce fazla, bir hayli</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524323">
+      <Lemma writtenForm="üzere" partOfSpeech="postposition"/>
+      <Sense id="L1524323-S1" synset="wikidata-tr-L1524323-S1" ili="wikidata-tr-L1524323-S1">
+        <Definition>niyet, gaye, amaç bildirir</Definition>
+      </Sense>
+      <Sense id="L1524323-S2" synset="wikidata-tr-L1524323-S2" ili="wikidata-tr-L1524323-S2">
+        <Definition>şart bildirir; şartıyle</Definition>
+      </Sense>
+      <Sense id="L1524323-S3" synset="wikidata-tr-L1524323-S3" ili="wikidata-tr-L1524323-S3">
+        <Definition>olmaya yaklaştığını bildirir</Definition>
+      </Sense>
+      <Sense id="L1524323-S4" synset="wikidata-tr-L1524323-S4" ili="wikidata-tr-L1524323-S4">
+        <Definition>gibi, olduğu yolda, olduğu biçimde</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1529707">
+      <Lemma writtenForm="öz" partOfSpeech="reflexive pronoun"/>
+      <Sense id="L1529707-S1" synset="wikidata-tr-L1529707-S1" ili="wikidata-tr-L1529707-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-tr-L294422-S1" ili="wikidata-tr-L294422-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1133346-S1" ili="wikidata-tr-L1133346-S1">
+      <Definition>tümce içinde görevdeş iki öğeyi birbirine bağlar</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217105-S1" ili="wikidata-tr-L1217105-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1371523-S1" ili="wikidata-tr-L1371523-S1">
+      <Definition>öyle ise</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L685337-S1" ili="l327-s1">
+      <Definition>saymaya başlarken söylenen, ilk pozitif tam sayı</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L685337-S2" ili="wikidata-tr-L685337-S2">
+      <Definition>1 ve I rakamlarının ismi</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L685337-S3" ili="wikidata-tr-L685337-S3">
+      <Definition>bir sayısı miktarında olan</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L721629-S1" ili="wikidata-tr-L721629-S1">
+      <Definition>Asla</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L721629-S2" ili="wikidata-tr-L721629-S2">
+      <Definition>“Korkutma potansiyeli olacak bir şey olmasın” anlamında kullanılan tabir</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1037022-S1" ili="wikidata-tr-L1037022-S1">
+      <Definition>bir tanesi</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1037022-S2" ili="wikidata-tr-L1037022-S2">
+      <Definition>bilinmeyen bir kimse</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1159152-S1" ili="wikidata-tr-L1159152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1160509-S1" ili="wikidata-tr-L1160509-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1161704-S1" ili="wikidata-tr-L1161704-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216856-S1" ili="wikidata-tr-L1216856-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216857-S1" ili="wikidata-tr-L1216857-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217406-S1" ili="wikidata-tr-L1217406-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258481-S1" ili="wikidata-tr-L1258481-S1">
+      <Definition>öyle olmazsa</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1529700-S1" ili="wikidata-tr-L1529700-S1">
+      <Definition>evet</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1529700-S2" ili="wikidata-tr-L1529700-S2">
+      <Definition>başüstüne</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1529700-S3" ili="wikidata-tr-L1529700-S3">
+      <Definition>peki, tamam; okey</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1122571-S1" ili="wikidata-tr-L1122571-S1">
+      <Definition>Futbolda Fenerbahçe&apos;ye karşı söylenen bir tezahürat</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1133345-S1" ili="l2991-s1">
+      <Definition>sözcüğün sonuna getirilerek birliktelik, işteşlik, araç, neden ya da durum bildiren tümleçler oluşturmaya yarar</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1161703-S1" ili="wikidata-tr-L1161703-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216610-S1" ili="wikidata-tr-L1216610-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1225986-S1" ili="wikidata-tr-L1225986-S1">
+      <Definition>içinde</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1345299-S1" ili="wikidata-tr-L1345299-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1408209-S1" ili="wikidata-tr-L1408209-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1408217-S1" ili="wikidata-tr-L1408217-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1457567-S1" ili="wikidata-tr-L1457567-S1">
+      <Definition>(harf-i tarif)</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524304-S1" ili="wikidata-tr-L1524304-S1">
+      <Definition>birtakım, kimi</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1530297-S1" ili="wikidata-tr-L1530297-S1">
+      <Definition>buradayım?!</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1530297-S2" ili="wikidata-tr-L1530297-S2">
+      <Definition>anlamadım?! duymadım?!</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1549722-S1" ili="wikidata-tr-L1549722-S1">
+      <Definition>Allâh’a yemin olsun</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L294425-S1" ili="wikidata-tr-L294425-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L401355-S1" ili="wikidata-tr-L401355-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217601-S1" ili="wikidata-tr-L1217601-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1229679-S1" ili="wikidata-tr-L1229679-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1235204-S1" ili="wikidata-tr-L1235204-S1">
+      <Definition>oğul</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258468-S1" ili="wikidata-tr-L1258468-S1">
+      <Definition>bu durum karşısında</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1411281-S1" ili="wikidata-tr-L1411281-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1159027-S1" ili="wikidata-tr-L1159027-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1160491-S1" ili="wikidata-tr-L1160491-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258465-S1" ili="wikidata-tr-L1258465-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258479-S1" ili="wikidata-tr-L1258479-S1">
+      <Definition>bütün günler</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1347638-S1" ili="wikidata-tr-L1347638-S1">
+      <Definition>evet</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1408216-S1" ili="wikidata-tr-L1408216-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L294424-S1" ili="wikidata-tr-L294424-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L720969-S1" ili="wikidata-tr-L720969-S1">
+      <Definition>Hangi kişi anlamında kullanılan söz</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215390-S1" ili="wikidata-tr-L1215390-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216611-S1" ili="wikidata-tr-L1216611-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217603-S1" ili="wikidata-tr-L1217603-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1236143-S1" ili="wikidata-tr-L1236143-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258473-S1" ili="wikidata-tr-L1258473-S1">
+      <Definition>öyle olunca</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1">
+      <Definition>ilişkin, değgin</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L294423-S1" ili="wikidata-tr-L294423-S1">
+      <Definition>Tekil üçüncü şahısı gösteren söz</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L482677-S1" ili="l1385-s1">
+      <Definition>kelimeleri ve cümleleri birleştirir</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1159026-S1" ili="wikidata-tr-L1159026-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1217413-S1" ili="wikidata-tr-L1217413-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1345862-S1" ili="wikidata-tr-L1345862-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524331-S1" ili="wikidata-tr-L1524331-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524508-S1" ili="wikidata-tr-L1524508-S1">
+      <Definition>(bezginlik anlatan bir ünlem)</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1549776-S1" ili="wikidata-tr-L1549776-S1">
+      <Definition>yeter, kâfî</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L294421-S2" ili="wikidata-tr-L294421-S2">
+      <Definition>kişi kendini belirtir</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1159151-S1" ili="wikidata-tr-L1159151-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216607-S1" ili="wikidata-tr-L1216607-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1216612-S1" ili="wikidata-tr-L1216612-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1258478-S1" ili="wikidata-tr-L1258478-S1">
+      <Definition>hep</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1460127-S1" ili="wikidata-tr-L1460127-S1">
+      <Definition>tümü</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524303-S1" ili="wikidata-tr-L1524303-S1">
+      <Definition>oldukça çok, epeyce fazla, bir hayli</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524323-S1" ili="wikidata-tr-L1524323-S1">
+      <Definition>niyet, gaye, amaç bildirir</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524323-S2" ili="wikidata-tr-L1524323-S2">
+      <Definition>şart bildirir; şartıyle</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524323-S3" ili="wikidata-tr-L1524323-S3">
+      <Definition>olmaya yaklaştığını bildirir</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1524323-S4" ili="wikidata-tr-L1524323-S4">
+      <Definition>gibi, olduğu yolda, olduğu biçimde</Definition>
+    </Synset>
+    <Synset id="wikidata-tr-L1529707-S1" ili="wikidata-tr-L1529707-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

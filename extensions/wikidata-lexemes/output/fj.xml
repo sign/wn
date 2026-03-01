@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-fj"
+                    label="Wikidata FJ Lexemes Extension"
+                    language="fj"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-fj" version="1.4"/>
+    <LexicalEntry id="L1407956">
+      <Lemma writtenForm="Suva" partOfSpeech="locative noun"/>
+      <Sense id="L1407956-S1" synset="wikidata-fj-L1407956-S1" ili="wikidata-fj-L1407956-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-fj-L1407956-S1" ili="wikidata-fj-L1407956-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

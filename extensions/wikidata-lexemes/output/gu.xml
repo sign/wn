@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-gu"
+                    label="Wikidata GU Lexemes Extension"
+                    language="gu"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-gu" version="1.4"/>
+    <LexicalEntry id="L228189">
+      <Lemma writtenForm="હું" partOfSpeech="personal pronoun"/>
+      <Sense id="L228189-S1" synset="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337572">
+      <Lemma writtenForm="ઓ" partOfSpeech="postposition"/>
+      <Sense id="L1337572-S1" synset="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

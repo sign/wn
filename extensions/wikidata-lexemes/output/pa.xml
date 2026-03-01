@@ -1,0 +1,3326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-pa"
+                    label="Wikidata PA Lexemes Extension"
+                    language="pa"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-pa" version="1.4"/>
+    <LexicalEntry id="L679444">
+      <Lemma writtenForm="ਮੈਂ" partOfSpeech="personal pronoun"/>
+      <Sense id="L679444-S1" synset="wikidata-pa-L679444-S1" ili="wikidata-pa-L679444-S1">
+        <Definition>ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ, ਪੁਰਾਣਾ ਲਹਿਜਾ ’ਚ ਹਉ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L738454-S1"/>
+      </Sense>
+      <Sense id="L679444-S2" synset="wikidata-pa-L679444-S2" ili="wikidata-pa-L679444-S2">
+        <Definition>ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਵੱਲ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L738454-S3"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679725">
+      <Lemma writtenForm="ਉੱਤੇ" partOfSpeech="postposition"/>
+      <Sense id="L679725-S1" synset="wikidata-pa-L679725-S1" ili="wikidata-pa-L679725-S1">
+        <Definition>ਓਧਰ, ਉਸ ਪਾਸੇ</Definition>
+      </Sense>
+      <Sense id="L679725-S2" synset="wikidata-pa-L679725-S2" ili="wikidata-pa-L679725-S2">
+        <Definition>ਵੱਧ</Definition>
+      </Sense>
+      <Sense id="L679725-S3" synset="wikidata-pa-L679725-S3" ili="wikidata-pa-L679725-S3">
+        <Definition>ਉਤਾਂਹ</Definition>
+      </Sense>
+      <Sense id="L679725-S4" synset="wikidata-pa-L679725-S4" ili="wikidata-pa-L679725-S4">
+        <Definition>ਉਪਰ ਵੱਲੋਂ, ਉਤਲੇ ਪਾਸਿਓਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L685081">
+      <Lemma writtenForm="ਹੈ" partOfSpeech="copula"/>
+      <Sense id="L685081-S1" synset="wikidata-pa-L685081-S1" ili="wikidata-pa-L685081-S1">
+        <Definition>ਪੰਜਾਬੀ ਦਾ ਇਕੱਲਾ ਕਿਰਿਆ ਪਦ ਹੈ, ਆਮ ਹੋਂਦ ਲਈ ਚਿੰਨ੍ਹ ਦਿੱਤਾ</Definition>
+      </Sense>
+      <Sense id="L685081-S2" synset="wikidata-pa-L685081-S2" ili="wikidata-pa-L685081-S2">
+        <Definition>ਇਹ ਚੀਜ਼ ਹੁੰਦੀ ਏ, ਹਾਂ ਹੁੰਦੀ ਏ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L744380-S1"/>
+        <SenseRelation relType="antonym" target="wikidata-pa-L1036355-S1"/>
+      </Sense>
+      <Sense id="L685081-S3" synset="wikidata-pa-L685081-S3" ili="wikidata-pa-L685081-S3">
+        <Definition>ਉਹ ਚੀਜ਼ ਹੈਗੀ ਸੀ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L1036355-S2"/>
+      </Sense>
+      <Sense id="L685081-S4" synset="wikidata-pa-L685081-S4" ili="wikidata-pa-L685081-S4">
+        <Definition>ਸਿਫ਼ਤ ਜਿਹੀ ਵਰਤ ਕੇ ਜੋ ਉਹ ਚੀਜ਼ ਹੁੰਦੀ ਸੀ ਦਿਖਾਉਂਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686341">
+      <Lemma writtenForm="ਤਾਂ" partOfSpeech="emphatic particle"/>
+      <Sense id="L686341-S1" synset="wikidata-pa-L686341-S1" ili="wikidata-pa-L686341-S1">
+        <Definition>ਤਦ</Definition>
+        <Example>ਤਾਂ ਫਿਰ ਦੇਰ ਕਿਉਂ?</Example>
+      </Sense>
+      <Sense id="L686341-S2" synset="wikidata-pa-L686341-S2" ili="wikidata-pa-L686341-S2">
+        <Definition>ਤੋ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686353">
+      <Lemma writtenForm="ਆਪ" partOfSpeech="reflexive pronoun"/>
+      <Sense id="L686353-S1" synset="wikidata-pa-L686353-S1" ili="wikidata-pa-L686353-S1">
+        <Definition>ਖ਼ੁਦ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L686354-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686354">
+      <Lemma writtenForm="ਖ਼ੁਦ" partOfSpeech="reflexive pronoun"/>
+      <Sense id="L686354-S1" synset="wikidata-pa-L686354-S1" ili="wikidata-pa-L686354-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L686353-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686363">
+      <Lemma writtenForm="ਕੁ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L686363-S1" synset="wikidata-pa-L686363-S1" ili="wikidata-pa-L686363-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686383">
+      <Lemma writtenForm="ਕੋਈ" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L686383-S1" synset="wikidata-pa-L686383-S1" ili="wikidata-pa-L686383-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686385">
+      <Lemma writtenForm="ਜਿਹੜਾ" partOfSpeech="relative pronoun"/>
+      <Sense id="L686385-S1" synset="wikidata-pa-L686385-S1" ili="wikidata-pa-L686385-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692057">
+      <Lemma writtenForm="ਬੇ" partOfSpeech="preposition"/>
+      <Sense id="L692057-S1" synset="wikidata-pa-L692057-S1" ili="wikidata-pa-L692057-S1">
+        <Definition>ਬਿਨਾਂ, ਬਗੈਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692299">
+      <Lemma writtenForm="ਜਿਹੜਾ ਕਿਹੜਾ" partOfSpeech="relative adjective"/>
+      <Sense id="L692299-S1" synset="wikidata-pa-L692299-S1" ili="wikidata-pa-L692299-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L717868">
+      <Lemma writtenForm="ਸਭ" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L717868-S1" synset="wikidata-pa-L717868-S1" ili="wikidata-pa-L717868-S1">
+        <Definition>ਤਮਾਮ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L724700">
+      <Lemma writtenForm="ਕਦ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L724700-S1" synset="wikidata-pa-L724700-S1" ili="wikidata-pa-L724700-S1">
+        <Definition>ਕਦੋਂ?</Definition>
+        <Example>ਆਪਾਂ ਕਦ ਹੁਣ ਮਿਲਣਾ ਫੇਰ?</Example>
+        <SenseRelation relType="similar" target="wikidata-pa-L684361-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742726">
+      <Lemma writtenForm="ਵਾਂਗੂੰ" partOfSpeech="postposition"/>
+      <Sense id="L742726-S1" synset="wikidata-pa-L742726-S1" ili="wikidata-pa-L742726-S1">
+        <Definition>ਵਾਂਗੂਰ, ਜਿਹਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L744633">
+      <Lemma writtenForm="ਸਲਾਮ ਅਲੇਕਮ" partOfSpeech="interjection"/>
+      <Sense id="L744633-S1" synset="wikidata-pa-L744633-S1" ili="wikidata-pa-L744633-S1">
+        <Definition>ਮੁਸਲਮਾਨਾਂ ਨੂੰ ਪਹਿਲਾਂ ਲਫ਼ਜ਼ ਕਹਿੰਦੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745980">
+      <Lemma writtenForm="ਨੀਜ਼" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L745980-S1" synset="wikidata-pa-L745980-S1" ili="wikidata-pa-L745980-S1">
+        <Definition>ਵੀ, ਭੀ, ਹੋਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749279">
+      <Lemma writtenForm="ਸਗੋਂ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L749279-S1" synset="wikidata-pa-L749279-S1" ili="wikidata-pa-L749279-S1">
+        <Definition>ਬਲਕਿ, ਭਾਵੇਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083732">
+      <Lemma writtenForm="ਲਾ" partOfSpeech="postposition"/>
+      <Sense id="L1083732-S1" synset="wikidata-pa-L1083732-S1" ili="wikidata-pa-L1083732-S1">
+        <Definition>ਤੋਂ</Definition>
+      </Sense>
+      <Sense id="L1083732-S2" synset="wikidata-pa-L1083732-S2" ili="wikidata-pa-L1083732-S2">
+        <Definition>ਤਕ, ਤਾਈਂ, ਲੱਗ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083734">
+      <Lemma writtenForm="ਦੂਰ" partOfSpeech="localiser"/>
+      <Sense id="L1083734-S1" synset="wikidata-pa-L1083734-S1" ili="wikidata-pa-L1083734-S1">
+        <Definition>ਪਰੇ ਹੋ, ਵਿੱਥ ਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083736">
+      <Lemma writtenForm="ਉਪਰੰਦ" partOfSpeech="localiser"/>
+      <Sense id="L1083736-S1" synset="wikidata-pa-L1083736-S1" ili="wikidata-pa-L1083736-S1">
+        <Definition>ਉੱਪਰ, ਉੱਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083738">
+      <Lemma writtenForm="ਪਰ੍ਹਾਂ" partOfSpeech="localiser"/>
+      <Sense id="L1083738-S1" synset="wikidata-pa-L1083738-S1" ili="wikidata-pa-L1083738-S1">
+        <Definition>ਅਲੱਗ, ਫ਼ਾਸਲੇ ਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083739">
+      <Lemma writtenForm="ਪੇਟੇ" partOfSpeech="localiser"/>
+      <Sense id="L1083739-S1" synset="wikidata-pa-L1083739-S1" ili="wikidata-pa-L1083739-S1">
+        <Definition>ਪੇਟ ਵਿਚ</Definition>
+      </Sense>
+      <Sense id="L1083739-S2" synset="wikidata-pa-L1083739-S2" ili="wikidata-pa-L1083739-S2">
+        <Definition>ਜ਼ਮੇ, ਦੇ ਨਾਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095969">
+      <Lemma writtenForm="ਵਾਪਸ ਕਰ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095969-S1" synset="wikidata-pa-L1095969-S1" ili="wikidata-pa-L1095969-S1">
+        <Definition>ਪਰਤਾ ਦੇਵਣ, ਮੋੜ ਦੇਵਣ</Definition>
+        <Example>ਪੈਸੇ ਦੀ ਤੰਗੀ ਹੋਣ ਦੇ ਬਾਵਜੂਦ ਮੈਂ ਸਕਾਲਰਸ਼ਿਪ ਵਾਪਸ ਕਰ ਦਿੱਤਾ।</Example>
+      </Sense>
+      <Sense id="L1095969-S2" synset="wikidata-pa-L1095969-S2" ili="wikidata-pa-L1095969-S2">
+        <Definition>ਰੱਦ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1098409">
+      <Lemma writtenForm="ਬਿਨਾਂ" partOfSpeech="postposition"/>
+      <Sense id="L1098409-S1" synset="wikidata-pa-L1098409-S1" ili="wikidata-pa-L1098409-S1">
+        <Definition>ਬਗ਼ੈਰ, ਸਿਵਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1120473">
+      <Lemma writtenForm="ਖ਼ੈਰ ਨਾਲ" partOfSpeech="adverbial locution"/>
+      <Sense id="L1120473-S1" synset="wikidata-pa-L1120473-S1" ili="wikidata-pa-L1120473-S1">
+        <Definition>ਸਲਾਮਤੀ ਨਾਲ, ਬਖ਼ੈਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138823">
+      <Lemma writtenForm="ਕੀਤਾ" partOfSpeech="postposition"/>
+      <Sense id="L1138823-S1" synset="wikidata-pa-L1138823-S1" ili="wikidata-pa-L1138823-S1">
+        <Definition>ਕਰਨ ਵਾਲਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1198197">
+      <Lemma writtenForm="ਲੈ ਪਾਲਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1198197-S1" synset="wikidata-pa-L1198197-S1" ili="wikidata-pa-L1198197-S1">
+        <Definition>ਦੂਏ ਦੇ ਬਾਲ ਨੂੰ ਆਪਣਾ ਬਠਾਉਣਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217616">
+      <Lemma writtenForm="ਮਿਲ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1217616-S1" synset="wikidata-pa-L1217616-S1" ili="wikidata-pa-L1217616-S1">
+        <Definition>ਜੁੜ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1217616-S2" synset="wikidata-pa-L1217616-S2" ili="wikidata-pa-L1217616-S2">
+        <Definition>ਕਬਜ਼ੇ ਵਿਚ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223189">
+      <Lemma writtenForm="ਯਕੇ" partOfSpeech="indefinite adjective"/>
+      <Sense id="L1223189-S1" synset="wikidata-pa-L1223189-S1" ili="wikidata-pa-L1223189-S1">
+        <Definition>ਕੋਈ ਇੱਕ</Definition>
+      </Sense>
+      <Sense id="L1223189-S2" synset="wikidata-pa-L1223189-S2" ili="wikidata-pa-L1223189-S2">
+        <Definition>ਸਾਰੇ, ਕੁਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234098">
+      <Lemma writtenForm="ਵਿਚਕਾਰ" partOfSpeech="localiser"/>
+      <Sense id="L1234098-S1" synset="wikidata-pa-L1234098-S1" ili="wikidata-pa-L1234098-S1">
+        <Definition>ਦਰਮਿਆਨ, ਅੱਧ, ਵਿਚਾਲੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1476586">
+      <Lemma writtenForm="ਉਲ" partOfSpeech="determiner"/>
+      <Sense id="L1476586-S1" synset="wikidata-pa-L1476586-S1" ili="wikidata-pa-L1476586-S1">
+        <Definition>(ਅਰਬੀ ਨਾਵਾਂ ਦੇ ਵਿੱਚ ਇਸਮ ਤੇ ਸਿਫ਼ਤ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਲੱਗ ਕੇ ਪੈਦਾ ਕਰ ਦੇਂਦਾ ਏ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L672607">
+      <Lemma writtenForm="ਅਤੇ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L672607-S1" synset="wikidata-pa-L672607-S1" ili="wikidata-pa-L672607-S1">
+        <Definition></Definition>
+        <Example>ਬਹੁਤ ਕੁਝ ਬਾਕੀ ਰਹਿ ਗਿਆ ਹੈ ਅਤੇ ਬਹੁਤ ਕੁਛ ਨਾ-ਠੀਕ ਪ੍ਰਗਟ ਹੋਇਆ ਹੈ</Example>
+        <SenseRelation relType="similar" target="wikidata-pa-L1217094-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L678938">
+      <Lemma writtenForm="ਏ" partOfSpeech="interjection"/>
+      <Sense id="L678938-S1" synset="wikidata-pa-L678938-S1" ili="wikidata-pa-L678938-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L678941">
+      <Lemma writtenForm="ਕਿ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L678941-S1" synset="wikidata-pa-L678941-S1" ili="wikidata-pa-L678941-S1">
+        <Definition>ਜੋ</Definition>
+      </Sense>
+      <Sense id="L678941-S3" synset="wikidata-pa-L678941-S3" ili="wikidata-pa-L678941-S3">
+        <Definition>ਯਾਨੀ, ਮਤਲਬ ਦੇ</Definition>
+      </Sense>
+      <Sense id="L678941-S4" synset="wikidata-pa-L678941-S4" ili="wikidata-pa-L678941-S4">
+        <Definition>ਵੀ, ਨੀਜ਼, ਹੋਰ</Definition>
+      </Sense>
+      <Sense id="L678941-S5" synset="wikidata-pa-L678941-S5" ili="wikidata-pa-L678941-S5">
+        <Definition>ਅਚਨਚੇਤ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686000">
+      <Lemma writtenForm="ਹੀ" partOfSpeech="emphatic particle"/>
+      <Sense id="L686000-S1" synset="wikidata-pa-L686000-S1" ili="wikidata-pa-L686000-S1">
+        <Definition>(‘ਜ਼ਰੂਰ’ ਮਾਅਨੇ ਨਾਲ ਹਰਫ਼ ਤਾਕੀਦ)</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L686003-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686003">
+      <Lemma writtenForm="ਵੀ" partOfSpeech="emphatic particle"/>
+      <Sense id="L686003-S1" synset="wikidata-pa-L686003-S1" ili="wikidata-pa-L686003-S1">
+        <Definition>(“ਭੀ” ਯਾ “ਹੋਰ” ਲਈ ਅੰਸ਼)</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L686000-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689421">
+      <Lemma writtenForm="ਤੁਹਾਡਾ" partOfSpeech="possessive adjective"/>
+      <Sense id="L689421-S1" synset="wikidata-pa-L689421-S1" ili="wikidata-pa-L689421-S1">
+        <Definition>ਦੂਜੇ ਪੁਰਖ, ਜਮ੍ਹਾ  ਦੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L734195">
+      <Lemma writtenForm="ਦੋ" partOfSpeech="postposition"/>
+      <Sense id="L734195-S1" synset="wikidata-pa-L734195-S1" ili="wikidata-pa-L734195-S1">
+        <Definition>ਵਲ, ਨੂੰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740032">
+      <Lemma writtenForm="ਅਗਰ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L740032-S1" synset="wikidata-pa-L740032-S1" ili="wikidata-pa-L740032-S1">
+        <Definition>ਜੇ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L740031-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745977">
+      <Lemma writtenForm="ਹਮ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L745977-S1" synset="wikidata-pa-L745977-S1" ili="wikidata-pa-L745977-S1">
+        <Definition>ਭੀ, ਸਾਥ, ਪ੍ਰਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749957">
+      <Lemma writtenForm="ਅੱਛਾ" partOfSpeech="interjection"/>
+      <Sense id="L749957-S1" synset="wikidata-pa-L749957-S1" ili="wikidata-pa-L749957-S1">
+        <Definition>ਚੰਗਾ, ਠੀਕ ਏ, ਆਹੋ</Definition>
+      </Sense>
+      <Sense id="L749957-S2" synset="wikidata-pa-L749957-S2" ili="wikidata-pa-L749957-S2">
+        <Definition>ਹੈਰਤ ਵਸਤੇ ਬੋਲ</Definition>
+      </Sense>
+      <Sense id="L749957-S3" synset="wikidata-pa-L749957-S3" ili="wikidata-pa-L749957-S3">
+        <Definition>ਹੁੰਗਾਰਾ ਦਿੱਤਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1016930">
+      <Lemma writtenForm="ਕੈਸਾ" partOfSpeech="interrogative adjective"/>
+      <Sense id="L1016930-S1" synset="wikidata-pa-L1016930-S1" ili="wikidata-pa-L1016930-S1">
+        <Definition>ਕਿਵੇਂ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1037201">
+      <Lemma writtenForm="ਸਮੇਤ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L1037201-S1" synset="wikidata-pa-L1037201-S1" ili="wikidata-pa-L1037201-S1">
+        <Definition>ਨਾਲ, ਮਿਲਿਆ ਹੋ ਕੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1078336">
+      <Lemma writtenForm="ਚ" partOfSpeech="interjection"/>
+      <Sense id="L1078336-S1" synset="wikidata-pa-L1078336-S1" ili="wikidata-pa-L1078336-S1">
+        <Definition>ਤਾਸੁਫ਼ ਦਾ ਕਲਮਾ; ਅਫ਼ਸੋਸ ਕਰਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083321">
+      <Lemma writtenForm="ਬ" partOfSpeech="preposition"/>
+      <Sense id="L1083321-S1" synset="wikidata-pa-L1083321-S1" ili="wikidata-pa-L1083321-S1">
+        <Definition>ਤੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083618">
+      <Lemma writtenForm="ਕੰਨੇ" partOfSpeech="postposition"/>
+      <Sense id="L1083618-S1" synset="wikidata-pa-L1083618-S1" ili="wikidata-pa-L1083618-S1">
+        <Definition>ਨਾਲ, ਦੇ ਨਾਲ</Definition>
+      </Sense>
+      <Sense id="L1083618-S2" synset="wikidata-pa-L1083618-S2" ili="wikidata-pa-L1083618-S2">
+        <Definition>ਕਿਨਾਰੇ, ਕੰਢੇ</Definition>
+      </Sense>
+      <Sense id="L1083618-S3" synset="wikidata-pa-L1083618-S3" ili="wikidata-pa-L1083618-S3">
+        <Definition>ਨਜੀਕ, ਨੇੜੇ, ਪਾਸੇ</Definition>
+      </Sense>
+      <Sense id="L1083618-S4" synset="wikidata-pa-L1083618-S4" ili="wikidata-pa-L1083618-S4">
+        <Definition>ਤਰਫ਼ੋਂ, ਵੱਲੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1092047">
+      <Lemma writtenForm="ਕਿਹਾ" partOfSpeech="interrogative adjective"/>
+      <Sense id="L1092047-S1" synset="wikidata-pa-L1092047-S1" ili="wikidata-pa-L1092047-S1">
+        <Definition>ਕਿਹੋ ਜਿਹਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1092544">
+      <Lemma writtenForm="ਬਾਰੇ" partOfSpeech="postposition"/>
+      <Sense id="L1092544-S1" synset="wikidata-pa-L1092544-S1" ili="wikidata-pa-L1092544-S1">
+        <Definition>ਬਾਬਤ</Definition>
+      </Sense>
+      <Sense id="L1092544-S2" synset="wikidata-pa-L1092544-S2" ili="wikidata-pa-L1092544-S2">
+        <Definition>ਆਖ਼ਿਰਕਾਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1092548">
+      <Lemma writtenForm="ਕਰਕੇ" partOfSpeech="postposition"/>
+      <Sense id="L1092548-S1" synset="wikidata-pa-L1092548-S1" ili="wikidata-pa-L1092548-S1">
+        <Definition>ਕਰਨ ਤੋਂ ਮਗਰੋਂ</Definition>
+      </Sense>
+      <Sense id="L1092548-S2" synset="wikidata-pa-L1092548-S2" ili="wikidata-pa-L1092548-S2">
+        <Definition>ਵਸੀਲੇ ਤੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1092562">
+      <Lemma writtenForm="ਅਨੁਸਾਰ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L1092562-S1" synset="wikidata-pa-L1092562-S1" ili="wikidata-pa-L1092562-S1">
+        <Definition>ਜਿਹਾ, ਵਾਂਗੂੰ, ਵਰਗਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095535">
+      <Lemma writtenForm="ਮਰ ਖਪਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095535-S1" synset="wikidata-pa-L1095535-S1" ili="wikidata-pa-L1095535-S1">
+        <Definition>ਮਿੱਟੀ ਵਿੱਚ ਰਲ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1095535-S2" synset="wikidata-pa-L1095535-S2" ili="wikidata-pa-L1095535-S2">
+        <Definition>ਖ਼ਤਮ ਹੋਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095551">
+      <Lemma writtenForm="ਕਰ ਬੈਠਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095551-S1" synset="wikidata-pa-L1095551-S1" ili="wikidata-pa-L1095551-S1">
+        <Definition>ਕੋਈ ਗ਼ਲਤੀ ਨਾਲ ਕਰ ਜਾਵਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095550-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095626">
+      <Lemma writtenForm="ਕਰ ਚੁੱਕਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095626-S1" synset="wikidata-pa-L1095626-S1" ili="wikidata-pa-L1095626-S1">
+        <Definition>ਕੰਮ ਮੁਕੰਮਲ ਕਰ ਲੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113739">
+      <Lemma writtenForm="ਰੱਖ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1113739-S1" synset="wikidata-pa-L1113739-S1" ili="wikidata-pa-L1113739-S1">
+        <Definition>ਧਰ ਜਾਵਣ, ਛੱਡ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116260">
+      <Lemma writtenForm="ਦੇ ਛੱਡਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116260-S1" synset="wikidata-pa-L1116260-S1" ili="wikidata-pa-L1116260-S1">
+        <Definition>ਪੁੰਨ ਕਰ ਛੱਡਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116453">
+      <Lemma writtenForm="ਭੱਠ ਪੈ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116453-S1" synset="wikidata-pa-L1116453-S1" ili="wikidata-pa-L1116453-S1">
+        <Definition>ਬਰਬਾਦ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116483">
+      <Lemma writtenForm="ਭੱਠ ਪਾ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116483-S1" synset="wikidata-pa-L1116483-S1" ili="wikidata-pa-L1116483-S1">
+        <Definition>ਬਰਬਾਦ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117162">
+      <Lemma writtenForm="ਜਦ ਤੋਂ" partOfSpeech="adverbial locution"/>
+      <Sense id="L1117162-S1" synset="wikidata-pa-L1117162-S1" ili="wikidata-pa-L1117162-S1">
+        <Definition>ਜਿਸ ਵੇਲੇ ਤੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1118893">
+      <Lemma writtenForm="ਆਦਤ ਪੈ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1118893-S1" synset="wikidata-pa-L1118893-S1" ili="wikidata-pa-L1118893-S1">
+        <Definition>ਖ਼ੋ ਪੈ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121530">
+      <Lemma writtenForm="ਅੜ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1121530-S1" synset="wikidata-pa-L1121530-S1" ili="wikidata-pa-L1121530-S1">
+        <Definition>ਜ਼ਿਦ ਤੇ ਪੱਕਿਆਂ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1121530-S2" synset="wikidata-pa-L1121530-S2" ili="wikidata-pa-L1121530-S2">
+        <Definition>ਫਸ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1129661">
+      <Lemma writtenForm="ਲੈ ਲੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1129661-S1" synset="wikidata-pa-L1129661-S1" ili="wikidata-pa-L1129661-S1">
+        <Definition>ਹਾਸਲ ਕਰ ਲੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1130029">
+      <Lemma writtenForm="ਨਾ" partOfSpeech="question tag"/>
+      <Sense id="L1130029-S1" synset="wikidata-pa-L1130029-S1" ili="wikidata-pa-L1130029-S1">
+        <Definition>ਪੱਕੇ ਕਰ ਕੇ ਸਵਾਲ ਪੁੱਛਣ ਵਾਲਾ ਬੋਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1150558">
+      <Lemma writtenForm="ਆ ਧਮਕਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1150558-S1" synset="wikidata-pa-L1150558-S1" ili="wikidata-pa-L1150558-S1">
+        <Definition>ਅਚਨਚੇਤੀ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1150558-S2" synset="wikidata-pa-L1150558-S2" ili="wikidata-pa-L1150558-S2">
+        <Definition>ਨਿਝਕ ਹੋ ਕੇ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1150558-S3" synset="wikidata-pa-L1150558-S3" ili="wikidata-pa-L1150558-S3">
+        <Definition>ਬਿੰਨਾਂ ਸੱਦਿਓਂ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151387">
+      <Lemma writtenForm="ਆ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151387-S1" synset="wikidata-pa-L1151387-S1" ili="wikidata-pa-L1151387-S1">
+        <Definition>ਅਪੜ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1151387-S2" synset="wikidata-pa-L1151387-S2" ili="wikidata-pa-L1151387-S2">
+        <Definition>ਪਹੁੰਚ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1151387-S3" synset="wikidata-pa-L1151387-S3" ili="wikidata-pa-L1151387-S3">
+        <Definition>ਮੁਹਾਰਤ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1151387-S4" synset="wikidata-pa-L1151387-S4" ili="wikidata-pa-L1151387-S4">
+        <Definition>ਰੀਝ ਪੈਣ, ਭਾ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1152172">
+      <Lemma writtenForm="ਕਰ ਛੱਡਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1152172-S1" synset="wikidata-pa-L1152172-S1" ili="wikidata-pa-L1152172-S1">
+        <Definition>ਤਿਆਰ ਕਰ ਰੱਖਣਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1152174">
+      <Lemma writtenForm="ਕਰ ਰੱਖਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1152174-S1" synset="wikidata-pa-L1152174-S1" ili="wikidata-pa-L1152174-S1">
+        <Definition>ਕੋਈ ਕੰਮ ਤਿਆਰ ਕਰ ਛੱਡਣ</Definition>
+        <SenseRelation relType="hyponym" target="wikidata-pa-L1152172-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161647">
+      <Lemma writtenForm="ਸੇ" partOfSpeech="pronominal suffix"/>
+      <Sense id="L1161647-S1" synset="wikidata-pa-L1161647-S1" ili="wikidata-pa-L1161647-S1">
+        <Definition>(“ਅਸੀਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1163568">
+      <Lemma writtenForm="ਬਣ ਆਉਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1163568-S1" synset="wikidata-pa-L1163568-S1" ili="wikidata-pa-L1163568-S1">
+        <Definition>ਕੰਮ ਬਣਨ</Definition>
+      </Sense>
+      <Sense id="L1163568-S2" synset="wikidata-pa-L1163568-S2" ili="wikidata-pa-L1163568-S2">
+        <Definition>ਕੰਮ ਠੀਕ ਹੋਵਣ</Definition>
+      </Sense>
+      <Sense id="L1163568-S3" synset="wikidata-pa-L1163568-S3" ili="wikidata-pa-L1163568-S3">
+        <Definition>ਮੁਰਾਦ ਪੂਰੀ ਹੋਵਣ</Definition>
+      </Sense>
+      <Sense id="L1163568-S4" synset="wikidata-pa-L1163568-S4" ili="wikidata-pa-L1163568-S4">
+        <Definition>ਕਿਸਮਤ ਖੁੱਲ੍ਹਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1196746">
+      <Lemma writtenForm="ਕੀ" partOfSpeech="postposition"/>
+      <Sense id="L1196746-S1" synset="wikidata-pa-L1196746-S1" ili="wikidata-pa-L1196746-S1">
+        <Definition>ਕੋ, ਕੋਲ, ਦੋ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L686694-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197290">
+      <Lemma writtenForm="ਲੈ ਬੈਠਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1197290-S1" synset="wikidata-pa-L1197290-S1" ili="wikidata-pa-L1197290-S1">
+        <Definition>ਆਪਣੇ ਨਾਲ ਦੂਏ ਨੂੰ ਬੀ ਬਰਬਾਦ ਕਰਨਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1197289-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217094">
+      <Lemma writtenForm="ਔਰ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1217094-S1" synset="wikidata-pa-L1217094-S1" ili="wikidata-pa-L1217094-S1">
+        <Definition>ਅਤੇ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L672607-S1"/>
+      </Sense>
+      <Sense id="L1217094-S2" synset="wikidata-pa-L1217094-S2" ili="wikidata-pa-L1217094-S2">
+        <Definition>ਹੋਰ, ਨਾਲੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218020">
+      <Lemma writtenForm="ਪੀ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1218020-S1" synset="wikidata-pa-L1218020-S1" ili="wikidata-pa-L1218020-S1">
+        <Definition>ਨੋਸ਼ ਕਰ ਲੈਣ</Definition>
+      </Sense>
+      <Sense id="L1218020-S2" synset="wikidata-pa-L1218020-S2" ili="wikidata-pa-L1218020-S2">
+        <Definition>ਬਰਦਾਸ਼ਤ ਕਰਨ, ਸਬਰ ਕਰ ਲੈਣ</Definition>
+      </Sense>
+      <Sense id="L1218020-S3" synset="wikidata-pa-L1218020-S3" ili="wikidata-pa-L1218020-S3">
+        <Definition>ਕਿਸੇ ਦੀ ਅਮਾਨਤ ਨੂੰ ਹਜ਼ਮ ਕਰਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227903">
+      <Lemma writtenForm="ਉੱਪਰ" partOfSpeech="localiser"/>
+      <Sense id="L1227903-S1" synset="wikidata-pa-L1227903-S1" ili="wikidata-pa-L1227903-S1">
+        <Definition>ਉਚਾਈ ਤੇ, ਬੁਲੰਦੀ ਤੇ</Definition>
+      </Sense>
+      <Sense id="L1227903-S2" synset="wikidata-pa-L1227903-S2" ili="wikidata-pa-L1227903-S2">
+        <Definition>ਕਿਸੇ ਸਵਾਰੀ ਤੇ</Definition>
+      </Sense>
+      <Sense id="L1227903-S3" synset="wikidata-pa-L1227903-S3" ili="wikidata-pa-L1227903-S3">
+        <Definition>ਬਾਲਾ ਬਾਲਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680117">
+      <Lemma writtenForm="ਅੱਗੇ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L680117-S1" synset="wikidata-pa-L680117-S1" ili="wikidata-pa-L680117-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684363">
+      <Lemma writtenForm="ਕਿਉਂ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L684363-S1" synset="wikidata-pa-L684363-S1" ili="wikidata-pa-L684363-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686328">
+      <Lemma writtenForm="ਇਕ" partOfSpeech="determiner"/>
+      <Sense id="L686328-S1" synset="wikidata-pa-L686328-S1" ili="wikidata-pa-L686328-S1">
+        <Definition>ਇਕੋ ਵਾਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689419">
+      <Lemma writtenForm="ਮੇਰਾ" partOfSpeech="possessive adjective"/>
+      <Sense id="L689419-S1" synset="wikidata-pa-L689419-S1" ili="wikidata-pa-L689419-S1">
+        <Definition>ਪਹਿਲੇ ਪੁਰਖ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689420">
+      <Lemma writtenForm="ਤੇਰਾ" partOfSpeech="possessive adjective"/>
+      <Sense id="L689420-S1" synset="wikidata-pa-L689420-S1" ili="wikidata-pa-L689420-S1">
+        <Definition>ਦੂਜੇ ਪੁਰਖ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689430">
+      <Lemma writtenForm="ਹਾਲਾਂ ਕਿ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L689430-S1" synset="wikidata-pa-L689430-S1" ili="wikidata-pa-L689430-S1">
+        <Definition>ਬਾਵਜੂਦ ਉਸ ਦੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701730">
+      <Lemma writtenForm="ਵਣ" partOfSpeech="vocative particle"/>
+      <Sense id="L701730-S1" synset="wikidata-pa-L701730-S1" ili="wikidata-pa-L701730-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L709035">
+      <Lemma writtenForm="ਯਾ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L709035-S1" synset="wikidata-pa-L709035-S1" ili="wikidata-pa-L709035-S1">
+        <Definition>ਜਾਂ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1091482-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942762">
+      <Lemma writtenForm="ਤੁਸੀਂ" partOfSpeech="personal pronoun"/>
+      <Sense id="L942762-S1" synset="wikidata-pa-L942762-S1" ili="wikidata-pa-L942762-S1">
+        <Definition>ਦੂਜੇ ਪੁਰਖ, ਜਮ੍ਹਾ ਨਿੱਜੀ ਪੜਨਾਂਵ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083607">
+      <Lemma writtenForm="ਤਾਈਂ" partOfSpeech="postposition"/>
+      <Sense id="L1083607-S1" synset="wikidata-pa-L1083607-S1" ili="wikidata-pa-L1083607-S1">
+        <Definition>ਤੀਕਰ, ਤੋੜੀ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1090416">
+      <Lemma writtenForm="ਮਰ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1090416-S1" synset="wikidata-pa-L1090416-S1" ili="wikidata-pa-L1090416-S1">
+        <Definition>ਖ਼ਤਮ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1090416-S2" synset="wikidata-pa-L1090416-S2" ili="wikidata-pa-L1090416-S2">
+        <Definition>ਆਸ਼ਿਕ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1091482">
+      <Lemma writtenForm="ਜਾਂ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1091482-S1" synset="wikidata-pa-L1091482-S1" ili="wikidata-pa-L1091482-S1">
+        <Definition>ਯਾਂ, ਯਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L709035-S1"/>
+      </Sense>
+      <Sense id="L1091482-S2" synset="wikidata-pa-L1091482-S2" ili="wikidata-pa-L1091482-S2">
+        <Definition>ਫਿਰ, ਮੁੜ, ਭਾਵੇਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1091483">
+      <Lemma writtenForm="ਜਾਂ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L1091483-S1" synset="wikidata-pa-L1091483-S1" ili="wikidata-pa-L1091483-S1">
+        <Definition>ਜਦੋਂ, ਜਦ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095550">
+      <Lemma writtenForm="ਕਰ ਬਹਿਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095550-S1" synset="wikidata-pa-L1095550-S1" ili="wikidata-pa-L1095550-S1">
+        <Definition>ਕੋਈ ਗ਼ਲਤੀ ਨਾਲ ਕਰ ਜਾਵਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095551-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095643">
+      <Lemma writtenForm="ਕਰ ਵੇਖਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095643-S1" synset="wikidata-pa-L1095643-S1" ili="wikidata-pa-L1095643-S1">
+        <Definition>ਆਜ਼ਮਾ ਵੇਖਣ</Definition>
+      </Sense>
+      <Sense id="L1095643-S2" synset="wikidata-pa-L1095643-S2" ili="wikidata-pa-L1095643-S2">
+        <Definition>ਨਾਮੁਮਕਿਨ ਕੰਮ ਦੱਸ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1129654">
+      <Lemma writtenForm="ਕੱਲ ਨੂੰ" partOfSpeech="adverbial locution"/>
+      <Sense id="L1129654-S1" synset="wikidata-pa-L1129654-S1" ili="wikidata-pa-L1129654-S1">
+        <Definition>ਕੱਲ ਕਲਾਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1129657">
+      <Lemma writtenForm="ਲੈ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1129657-S1" synset="wikidata-pa-L1129657-S1" ili="wikidata-pa-L1129657-S1">
+        <Definition>ਕੋਈ ਚੀਜ਼ ਹਾਸਲ ਕਰ ਕੇ ਕਿੱਸੇ ਨੂੰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136305">
+      <Lemma writtenForm="ਪਾਸ" partOfSpeech="localiser"/>
+      <Sense id="L1136305-S1" synset="wikidata-pa-L1136305-S1" ili="wikidata-pa-L1136305-S1">
+        <Definition>ਕੋਲ, ਨੇੜੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1152741">
+      <Lemma writtenForm="ਜੀ ਭਰ ਆਉਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1152741-S1" synset="wikidata-pa-L1152741-S1" ili="wikidata-pa-L1152741-S1">
+        <Definition>ਅੱਖਾਂ ਵਿੱਚ ਅੱਥਰੂ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1152741-S2" synset="wikidata-pa-L1152741-S2" ili="wikidata-pa-L1152741-S2">
+        <Definition>ਤਰਸ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1152741-S3" synset="wikidata-pa-L1152741-S3" ili="wikidata-pa-L1152741-S3">
+        <Definition>ਰਹਿਮ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1153032">
+      <Lemma writtenForm="ਆ ਥੁੰਨਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1153032-S1" synset="wikidata-pa-L1153032-S1" ili="wikidata-pa-L1153032-S1">
+        <Definition>ਸਹਾਰਾ ਲੈਣ, ਆ ਥੁੰਮਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1162074">
+      <Lemma writtenForm="ਜਿਤਵਾਲ" partOfSpeech="relative pronoun"/>
+      <Sense id="L1162074-S1" synset="wikidata-pa-L1162074-S1" ili="wikidata-pa-L1162074-S1">
+        <Definition>ਜਿਸ ਥਾਂ, ਜਿੱਥੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188251">
+      <Lemma writtenForm="ਹੋ ਲੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1188251-S1" synset="wikidata-pa-L1188251-S1" ili="wikidata-pa-L1188251-S1">
+        <Definition>ਹੋ ਜਾਵਣ, ਪੂਰਾ ਹੋਵਣ</Definition>
+      </Sense>
+      <Sense id="L1188251-S2" synset="wikidata-pa-L1188251-S2" ili="wikidata-pa-L1188251-S2">
+        <Definition>ਕਿਸੇ ਇੱਕ ਰਸਤੇ ਤੇ ਟੁਰ ਪੈਣ</Definition>
+      </Sense>
+      <Sense id="L1188251-S3" synset="wikidata-pa-L1188251-S3" ili="wikidata-pa-L1188251-S3">
+        <Definition>ਕਿਸੇ ਇੱਕ ਦਾ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1188251-S4" synset="wikidata-pa-L1188251-S4" ili="wikidata-pa-L1188251-S4">
+        <Definition>ਨਾਲ ਟੁਰਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197131">
+      <Lemma writtenForm="ਲੈ ਉੱਠਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1197131-S1" synset="wikidata-pa-L1197131-S1" ili="wikidata-pa-L1197131-S1">
+        <Definition>ਅਨੋਖੀ ਗੱਲ ਕਹਿਣ ਲੱਗ ਪੈਣਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197169">
+      <Lemma writtenForm="ਲੈ ਰੱਖਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1197169-S1" synset="wikidata-pa-L1197169-S1" ili="wikidata-pa-L1197169-S1">
+        <Definition>ਲੈ ਕੇ ਸਾਂਭ ਰੱਖਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1197134-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218019">
+      <Lemma writtenForm="ਪੀ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1218019-S1" synset="wikidata-pa-L1218019-S1" ili="wikidata-pa-L1218019-S1">
+        <Definition>ਚੜ੍ਹਾ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1218019-S2" synset="wikidata-pa-L1218019-S2" ili="wikidata-pa-L1218019-S2">
+        <Definition>ਜਰ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222954">
+      <Lemma writtenForm="ਅਫ਼ਸੋਸ" partOfSpeech="interjection"/>
+      <Sense id="L1222954-S1" synset="wikidata-pa-L1222954-S1" ili="wikidata-pa-L1222954-S1">
+        <Definition>(ਕਲਮਾ-ਏ-ਤਾਅਸੁਫ਼ ਦੇ ਬਤੌਰ) ਦੁੱਖ, ਰੰਜ, ਹੈਰਤ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1224922">
+      <Lemma writtenForm="ਤੋਂ ਪਹਿਲਾਂ" partOfSpeech="postpositive locution"/>
+      <Sense id="L1224922-S1" synset="wikidata-pa-L1224922-S1" ili="wikidata-pa-L1224922-S1">
+        <Definition>ਦੇ ਮੂਹਰੇ, ਨਾਲੋਂ ਪਹਿਲਾਂ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L1224924-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234103">
+      <Lemma writtenForm="ਹੇਠ" partOfSpeech="localiser"/>
+      <Sense id="L1234103-S1" synset="wikidata-pa-L1234103-S1" ili="wikidata-pa-L1234103-S1">
+        <Definition>ਥੱਲੇ, ਨੀਚੇ</Definition>
+      </Sense>
+      <Sense id="L1234103-S2" synset="wikidata-pa-L1234103-S2" ili="wikidata-pa-L1234103-S2">
+        <Definition>ਨੀਵੇਂ ਪਾਸੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679201">
+      <Lemma writtenForm="ਦਾ" partOfSpeech="postposition"/>
+      <Sense id="L679201-S1" synset="wikidata-pa-L679201-S1" ili="wikidata-pa-L679201-S1">
+        <Definition>(ਹਰਫ਼-ਏ-ਇਜ਼ਾਫ਼ਤ); ਕਾ, ਜੋ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L741123-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L1089242-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679424">
+      <Lemma writtenForm="ਤੂੰ" partOfSpeech="personal pronoun"/>
+      <Sense id="L679424-S1" synset="wikidata-pa-L679424-S1" ili="wikidata-pa-L679424-S1">
+        <Definition>ਦੂਜੇ ਪੁਰਖ ਦਾ ਪੜਨਾਂਵ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679728">
+      <Lemma writtenForm="ਵਿਚ" partOfSpeech="postposition"/>
+      <Sense id="L679728-S1" synset="wikidata-pa-L679728-S1" ili="wikidata-pa-L679728-S1">
+        <Definition>ਅੰਦਰ, ਵਿਚਾਲ਼ੇ, ਦਰਮਿਆਨ</Definition>
+      </Sense>
+      <Sense id="L679728-S2" synset="wikidata-pa-L679728-S2" ili="wikidata-pa-L679728-S2">
+        <Definition>ਅੰਦਰੋਂ</Definition>
+      </Sense>
+      <Sense id="L679728-S3" synset="wikidata-pa-L679728-S3" ili="wikidata-pa-L679728-S3">
+        <Definition>ਦਿਲੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679729">
+      <Lemma writtenForm="ਵਿੱਚੇ ਵਿੱਚ" partOfSpeech="postpositive locution"/>
+      <Sense id="L679729-S1" synset="wikidata-pa-L679729-S1" ili="wikidata-pa-L679729-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L679729-S2" synset="wikidata-pa-L679729-S2" ili="wikidata-pa-L679729-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684361">
+      <Lemma writtenForm="ਕਦੋਂ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L684361-S1" synset="wikidata-pa-L684361-S1" ili="wikidata-pa-L684361-S1">
+        <Definition>ਕਿਸੇ ਵੇਲ਼ੇ?</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L724700-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686223">
+      <Lemma writtenForm="ਕਿੰਜ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L686223-S1" synset="wikidata-pa-L686223-S1" ili="wikidata-pa-L686223-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L684360-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L684362-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686358">
+      <Lemma writtenForm="ਕਿਹਦਾ" partOfSpeech="interrogative adjective"/>
+      <Sense id="L686358-S1" synset="wikidata-pa-L686358-S1" ili="wikidata-pa-L686358-S1">
+        <Definition>ਕਿਹੜੇ ਬੰਦੇ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686384">
+      <Lemma writtenForm="ਕਿਹੜਾ" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L686384-S1" synset="wikidata-pa-L686384-S1" ili="wikidata-pa-L686384-S1">
+        <Definition>ਕੌਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686388">
+      <Lemma writtenForm="ਕੁਝ" partOfSpeech="determiner"/>
+      <Sense id="L686388-S1" synset="wikidata-pa-L686388-S1" ili="wikidata-pa-L686388-S1">
+        <Definition>ਕਿਛ, ਥੋੜਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689404">
+      <Lemma writtenForm="ਆਹੋ" partOfSpeech="interjection"/>
+      <Sense id="L689404-S1" synset="wikidata-pa-L689404-S1" ili="wikidata-pa-L689404-S1">
+        <Definition>ਹਾਂ ਕਰਨ ਦਾ ਭਾਵ, ਹਾਮੀ, ਹੰਘੂਰਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689431">
+      <Lemma writtenForm="ਪਰ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L689431-S1" synset="wikidata-pa-L689431-S1" ili="wikidata-pa-L689431-S1">
+        <Definition>ਲੇਕਨ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L745976-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712901">
+      <Lemma writtenForm="ਨੇ" partOfSpeech="postposition"/>
+      <Sense id="L712901-S1" synset="wikidata-pa-L712901-S1" ili="wikidata-pa-L712901-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722030">
+      <Lemma writtenForm="ਬਗ਼ੈਰ" partOfSpeech="postposition"/>
+      <Sense id="L722030-S1" synset="wikidata-pa-L722030-S1" ili="wikidata-pa-L722030-S1">
+        <Definition>ਬਿਨਾਂ</Definition>
+      </Sense>
+      <Sense id="L722030-S2" synset="wikidata-pa-L722030-S2" ili="wikidata-pa-L722030-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L722030-S3" synset="wikidata-pa-L722030-S3" ili="wikidata-pa-L722030-S3">
+        <Definition>ਪਰ ਲਈ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722062">
+      <Lemma writtenForm="ਖ਼ੁਦਾ ਹਾਫ਼ਿਜ਼" partOfSpeech="interjection"/>
+      <Sense id="L722062-S1" synset="wikidata-pa-L722062-S1" ili="wikidata-pa-L722062-S1">
+        <Definition>ਰੱਬ ਰਾਖਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L723882">
+      <Lemma writtenForm="ਫੇਰ" partOfSpeech="interjection"/>
+      <Sense id="L723882-S1" synset="wikidata-pa-L723882-S1" ili="wikidata-pa-L723882-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L728507">
+      <Lemma writtenForm="-ਓ-" partOfSpeech="infix"/>
+      <Sense id="L728507-S1" synset="wikidata-pa-L728507-S1" ili="wikidata-pa-L728507-S1">
+        <Definition>ਉਰਦੂ ਤੋਂ “ਅਤੇ” ਲਈ ਮਧੇਤਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L738454">
+      <Lemma writtenForm="ਹਉ" partOfSpeech="personal pronoun"/>
+      <Sense id="L738454-S1" synset="wikidata-pa-L738454-S1" ili="wikidata-pa-L738454-S1">
+        <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ, ਮੈਂ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L679444-S1"/>
+      </Sense>
+      <Sense id="L738454-S2" synset="wikidata-pa-L738454-S2" ili="wikidata-pa-L738454-S2">
+        <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਆਪਣਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L686378-S1"/>
+      </Sense>
+      <Sense id="L738454-S3" synset="wikidata-pa-L738454-S3" ili="wikidata-pa-L738454-S3">
+        <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਵੱਲ ਬਾਰੇ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਮੈਨੂੰ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L679444-S2"/>
+      </Sense>
+      <Sense id="L738454-S4" synset="wikidata-pa-L738454-S4" ili="wikidata-pa-L738454-S4">
+        <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਕਬਜ਼ੇ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਮੇਰਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943569">
+      <Lemma writtenForm="ਸੋ" partOfSpeech="relative pronoun"/>
+      <Sense id="L943569-S1" synset="wikidata-pa-L943569-S1" ili="wikidata-pa-L943569-S1">
+        <Definition>ਉਹ, ਇਹ, ਜੈਸਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1081520">
+      <Lemma writtenForm="ਅਜ਼" partOfSpeech="preposition"/>
+      <Sense id="L1081520-S1" synset="wikidata-pa-L1081520-S1" ili="wikidata-pa-L1081520-S1">
+        <Definition>ਵੱਲੋਂ</Definition>
+      </Sense>
+      <Sense id="L1081520-S2" synset="wikidata-pa-L1081520-S2" ili="wikidata-pa-L1081520-S2">
+        <Definition>ਤੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083608">
+      <Lemma writtenForm="ਸਿਵਾ" partOfSpeech="postposition"/>
+      <Sense id="L1083608-S1" synset="wikidata-pa-L1083608-S1" ili="wikidata-pa-L1083608-S1">
+        <Definition>ਬਗ਼ੈਰ, ਬਿਨਾ, ਅਲਾਵਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1089242">
+      <Lemma writtenForm="ਕਾ" partOfSpeech="postposition"/>
+      <Sense id="L1089242-S1" synset="wikidata-pa-L1089242-S1" ili="wikidata-pa-L1089242-S1">
+        <Definition>ਦਾ, ਨਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L679201-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L741123-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093186">
+      <Lemma writtenForm="ਮਰ ਵੰਞਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1093186-S1" synset="wikidata-pa-L1093186-S1" ili="wikidata-pa-L1093186-S1">
+        <Definition>ਮਰ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093550">
+      <Lemma writtenForm="ਗੱਲਾਂ ਗੱਲਾਂ ਵਿੱਚ" partOfSpeech="adverbial locution"/>
+      <Sense id="L1093550-S1" synset="wikidata-pa-L1093550-S1" ili="wikidata-pa-L1093550-S1">
+        <Definition>ਰਵਾਂ ਰਵੇਂ ਵਿੱਚ</Definition>
+      </Sense>
+      <Sense id="L1093550-S2" synset="wikidata-pa-L1093550-S2" ili="wikidata-pa-L1093550-S2">
+        <Definition>ਹੀਲੇ ਬਹਾਨੇ ਨਾਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095270">
+      <Lemma writtenForm="ਭੀ" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1095270-S1" synset="wikidata-pa-L1095270-S1" ili="wikidata-pa-L1095270-S1">
+        <Definition>ਹੋਰ ਵੀ, ਨਾਲੇ</Definition>
+      </Sense>
+      <Sense id="L1095270-S2" synset="wikidata-pa-L1095270-S2" ili="wikidata-pa-L1095270-S2">
+        <Definition>ਬਹੁਤਾ, ਜ਼ਿਆਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095899">
+      <Lemma writtenForm="ਜਾ ਪਹੁੰਚਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095899-S1" synset="wikidata-pa-L1095899-S1" ili="wikidata-pa-L1095899-S1">
+        <Definition>ਜਾ ਅਪੜਨ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095647-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1098840">
+      <Lemma writtenForm="ਸੌਂ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1098840-S1" synset="wikidata-pa-L1098840-S1" ili="wikidata-pa-L1098840-S1">
+        <Definition>ਨੀਂਦਰੇ ਪੈ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1098840-S2" synset="wikidata-pa-L1098840-S2" ili="wikidata-pa-L1098840-S2">
+        <Definition>ਬੇਹਰਕਤ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1098840-S3" synset="wikidata-pa-L1098840-S3" ili="wikidata-pa-L1098840-S3">
+        <Definition>ਚੁੱਪ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1115558">
+      <Lemma writtenForm="ਲੈ ਚੱਲਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1115558-S1" synset="wikidata-pa-L1115558-S1" ili="wikidata-pa-L1115558-S1">
+        <Definition>ਨਾਲ ਲੈ ਟੁਰਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116264">
+      <Lemma writtenForm="ਛੱਡ ਬਹਿਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116264-S1" synset="wikidata-pa-L1116264-S1" ili="wikidata-pa-L1116264-S1">
+        <Definition>ਪਿੱਛਾਂਹ ਹੱਟ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116480">
+      <Lemma writtenForm="ਪੈ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116480-S1" synset="wikidata-pa-L1116480-S1" ili="wikidata-pa-L1116480-S1">
+        <Definition>ਹਮਲਾ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151539">
+      <Lemma writtenForm="ਆ ਫਸਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151539-S1" synset="wikidata-pa-L1151539-S1" ili="wikidata-pa-L1151539-S1">
+        <Definition>ਕਾਬੂ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151546">
+      <Lemma writtenForm="ਆ ਦਬੋਚਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151546-S1" synset="wikidata-pa-L1151546-S1" ili="wikidata-pa-L1151546-S1">
+        <Definition>ਉੱਤੋਂ ਆ ਨੱਪਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1179227">
+      <Lemma writtenForm="ਬਣ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1179227-S1" synset="wikidata-pa-L1179227-S1" ili="wikidata-pa-L1179227-S1">
+        <Definition>ਬਹੁਤ ਅਮੀਰ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1179227-S2" synset="wikidata-pa-L1179227-S2" ili="wikidata-pa-L1179227-S2">
+        <Definition>ਸੱਜ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1179227-S3" synset="wikidata-pa-L1179227-S3" ili="wikidata-pa-L1179227-S3">
+        <Definition>ਜ਼ਾਇਕਾ ਦਰੁਸਤ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1179227-S4" synset="wikidata-pa-L1179227-S4" ili="wikidata-pa-L1179227-S4">
+        <Definition>ਮੁਸੀਬਤ ਪੈ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1179227-S5" synset="wikidata-pa-L1179227-S5" ili="wikidata-pa-L1179227-S5">
+        <Definition>ਮੁਕੰਮਲ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1224923">
+      <Lemma writtenForm="ਤੋਂ ਬਾਹਰ" partOfSpeech="postpositive locution"/>
+      <Sense id="L1224923-S1" synset="wikidata-pa-L1224923-S1" ili="wikidata-pa-L1224923-S1">
+        <Definition>ਪਰੇ ਹੱਦੋਂ ਬਾਹਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680188">
+      <Lemma writtenForm="ਨਾਲ" partOfSpeech="postposition"/>
+      <Sense id="L680188-S1" synset="wikidata-pa-L680188-S1" ili="wikidata-pa-L680188-S1">
+        <Definition>ਸਮੇਤ, ਸੰਗ, ਦਾ ਸਾਥ</Definition>
+      </Sense>
+      <Sense id="L680188-S3" synset="wikidata-pa-L680188-S3" ili="wikidata-pa-L680188-S3">
+        <Definition>ਕੋਲ, ਪਾਸ, ਨੇੜੇ ਈ</Definition>
+      </Sense>
+      <Sense id="L680188-S4" synset="wikidata-pa-L680188-S4" ili="wikidata-pa-L680188-S4">
+        <Definition>ਲਾਗੇ, ਕਰਕੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684362">
+      <Lemma writtenForm="ਕਿੱਦਾਂ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L684362-S1" synset="wikidata-pa-L684362-S1" ili="wikidata-pa-L684362-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L684360-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L686223-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686359">
+      <Lemma writtenForm="ਜੋ" partOfSpeech="relative pronoun"/>
+      <Sense id="L686359-S1" synset="wikidata-pa-L686359-S1" ili="wikidata-pa-L686359-S1">
+        <Definition>ਜੇਹੜਾ, ਜਿਸ ਨੂੰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686370">
+      <Lemma writtenForm="ਸੋ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L686370-S1" synset="wikidata-pa-L686370-S1" ili="wikidata-pa-L686370-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686694">
+      <Lemma writtenForm="ਨੂੰ" partOfSpeech="postposition"/>
+      <Sense id="L686694-S1" synset="wikidata-pa-L686694-S1" ili="wikidata-pa-L686694-S1">
+        <Definition>ਕੋ, ਕੋਲ, ਦੋ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1196746-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687895">
+      <Lemma writtenForm="ਹੋਰ" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L687895-S1" synset="wikidata-pa-L687895-S1" ili="wikidata-pa-L687895-S1">
+        <Definition>ਵਧੇਰਾ, ਸਗੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691511">
+      <Lemma writtenForm="ਗ. ਬ.‎" partOfSpeech="infix"/>
+      <Sense id="L691511-S1" synset="wikidata-pa-L691511-S1" ili="wikidata-pa-L691511-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712120">
+      <Lemma writtenForm="ਲਈ" partOfSpeech="postposition"/>
+      <Sense id="L712120-S1" synset="wikidata-pa-L712120-S1" ili="wikidata-pa-L712120-S1">
+        <Definition>ਵਾਸਤੇ, ਖ਼ਾਤਰ, ਕਰਕੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L723883">
+      <Lemma writtenForm="ਫੇਰ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L723883-S1" synset="wikidata-pa-L723883-S1" ili="wikidata-pa-L723883-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749165">
+      <Lemma writtenForm="ਤਥਾ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L749165-S1" synset="wikidata-pa-L749165-S1" ili="wikidata-pa-L749165-S1">
+        <Definition>ਅਤੇ, ਤੇ, ਔਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1073135">
+      <Lemma writtenForm="ਨਾਲ ਨਾਲ" partOfSpeech="postpositive locution"/>
+      <Sense id="L1073135-S1" synset="wikidata-pa-L1073135-S1" ili="wikidata-pa-L1073135-S1">
+        <Definition>ਹਮਾਰਾ</Definition>
+      </Sense>
+      <Sense id="L1073135-S2" synset="wikidata-pa-L1073135-S2" ili="wikidata-pa-L1073135-S2">
+        <Definition>ਨੇੜੇ ਨੇੜੇ, ਕੋਲ ਕੋਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083611">
+      <Lemma writtenForm="ਕਨ" partOfSpeech="postposition"/>
+      <Sense id="L1083611-S1" synset="wikidata-pa-L1083611-S1" ili="wikidata-pa-L1083611-S1">
+        <Definition>ਕਾਨ, ਲਈ, ਵਾਸਤੇ</Definition>
+      </Sense>
+      <Sense id="L1083611-S2" synset="wikidata-pa-L1083611-S2" ili="wikidata-pa-L1083611-S2">
+        <Definition>ਦੇ ਕੋਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083615">
+      <Lemma writtenForm="ਧੋਰੇ" partOfSpeech="postposition"/>
+      <Sense id="L1083615-S1" synset="wikidata-pa-L1083615-S1" ili="wikidata-pa-L1083615-S1">
+        <Definition>ਨੇੜੇ, ਲਾਗੇ, ਕਨਾਰੇ ਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083617">
+      <Lemma writtenForm="ਓਪਰਾਹਣਾ" partOfSpeech="postposition"/>
+      <Sense id="L1083617-S1" synset="wikidata-pa-L1083617-S1" ili="wikidata-pa-L1083617-S1">
+        <Definition>ਉੱਪਰ, ਉੱਤੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093762">
+      <Lemma writtenForm="ਵੱਲ" partOfSpeech="postposition"/>
+      <Sense id="L1093762-S1" synset="wikidata-pa-L1093762-S1" ili="wikidata-pa-L1093762-S1">
+        <Definition>ਦੇ ਪਾਸੇ, ਪਰਨੇ</Definition>
+      </Sense>
+      <Sense id="L1093762-S2" synset="wikidata-pa-L1093762-S2" ili="wikidata-pa-L1093762-S2">
+        <Definition>ਦੀ ਤਰਫ਼, ਦੋ</Definition>
+      </Sense>
+      <Sense id="L1093762-S3" synset="wikidata-pa-L1093762-S3" ili="wikidata-pa-L1093762-S3">
+        <Definition>ਮੁੜ ਕੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095647">
+      <Lemma writtenForm="ਜਾ ਅਪੜਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095647-S1" synset="wikidata-pa-L1095647-S1" ili="wikidata-pa-L1095647-S1">
+        <Definition>ਜਾ ਪਹੁੰਚਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095899-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095648">
+      <Lemma writtenForm="ਜਾ ਉਤਰਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095648-S1" synset="wikidata-pa-L1095648-S1" ili="wikidata-pa-L1095648-S1">
+        <Definition>ਅਪੜ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097087">
+      <Lemma writtenForm="ਬਣਾ ਬੈਠਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1097087-S1" synset="wikidata-pa-L1097087-S1" ili="wikidata-pa-L1097087-S1">
+        <Definition>ਤਿਆਰ ਕਰ ਬਹਿਣ, ਗ਼ਲਤੀ ਨਾਲ ਬਣਾ ਲੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097334">
+      <Lemma writtenForm="ਲੱਦ ਸਿਧਾਰਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1097334-S1" synset="wikidata-pa-L1097334-S1" ili="wikidata-pa-L1097334-S1">
+        <Definition>ਚਲਾਣਾ ਕਰ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1097334-S2" synset="wikidata-pa-L1097334-S2" ili="wikidata-pa-L1097334-S2">
+        <Definition>ਮਰ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113740">
+      <Lemma writtenForm="ਰੱਖ ਲੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1113740-S1" synset="wikidata-pa-L1113740-S1" ili="wikidata-pa-L1113740-S1">
+        <Definition>ਧਰ ਲੈਣ</Definition>
+      </Sense>
+      <Sense id="L1113740-S2" synset="wikidata-pa-L1113740-S2" ili="wikidata-pa-L1113740-S2">
+        <Definition>ਬਚਾ ਲੈਣ</Definition>
+      </Sense>
+      <Sense id="L1113740-S3" synset="wikidata-pa-L1113740-S3" ili="wikidata-pa-L1113740-S3">
+        <Definition>ਰੋਕ ਲੈਣ, ਠਹਿਰ ਲੈਣ</Definition>
+      </Sense>
+      <Sense id="L1113740-S4" synset="wikidata-pa-L1113740-S4" ili="wikidata-pa-L1113740-S4">
+        <Definition>ਢਾ ਲੈਣ, ਮਗ਼ਲੂਬ ਕਰ ਲੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121704">
+      <Lemma writtenForm="ਤ੍ਰਹਿ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1121704-S1" synset="wikidata-pa-L1121704-S1" ili="wikidata-pa-L1121704-S1">
+        <Definition>ਡਰ ਜਾਵਣ, ਕੰਬ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1150273">
+      <Lemma writtenForm="ਉੱਠ ਖੜਾ ਹੋਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1150273-S1" synset="wikidata-pa-L1150273-S1" ili="wikidata-pa-L1150273-S1">
+        <Definition>ਖੜਿਆਂ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1150273-S2" synset="wikidata-pa-L1150273-S2" ili="wikidata-pa-L1150273-S2">
+        <Definition>ਬਗ਼ਾਵਤ ਹੋਵਣ</Definition>
+      </Sense>
+      <Sense id="L1150273-S3" synset="wikidata-pa-L1150273-S3" ili="wikidata-pa-L1150273-S3">
+        <Definition>ਸਿਹਤ ਹਾਸਲ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188248">
+      <Lemma writtenForm="ਹੋ ਆਉਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1188248-S1" synset="wikidata-pa-L1188248-S1" ili="wikidata-pa-L1188248-S1">
+        <Definition>ਕਿੱਤੇ ਜਾ ਕੇ ਪਰਤ ਆਉਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1212008">
+      <Lemma writtenForm="ਸ਼ਾਲਾ" partOfSpeech="interjection"/>
+      <Sense id="L1212008-S1" synset="wikidata-pa-L1212008-S1" ili="wikidata-pa-L1212008-S1">
+        <Definition>ਅੱਲਾਹ ਕਰੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217608">
+      <Lemma writtenForm="ਨਾ" partOfSpeech="negative particle"/>
+      <Sense id="L1217608-S1" synset="wikidata-pa-L1217608-S1" ili="wikidata-pa-L1217608-S1">
+        <Definition>(ਫ਼ਿਅਲ ਤੋਂ ਜ਼ਿੱਦ ਬਣਾਉਂਦਾ, ਮਸਲਨ “ਨਾ ਮਿਲਨ” ਪਰ “ਨਹੀਂ ਮਿਲਦਾ”)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218469">
+      <Lemma writtenForm="ਬਰ" partOfSpeech="preposition"/>
+      <Sense id="L1218469-S1" synset="wikidata-pa-L1218469-S1" ili="wikidata-pa-L1218469-S1">
+        <Definition>ਉੱਤੇ, ਉੱਪਰ, ਉੱਚਾ</Definition>
+      </Sense>
+      <Sense id="L1218469-S2" synset="wikidata-pa-L1218469-S2" ili="wikidata-pa-L1218469-S2">
+        <Definition>ਨੂੰ</Definition>
+      </Sense>
+      <Sense id="L1218469-S3" synset="wikidata-pa-L1218469-S3" ili="wikidata-pa-L1218469-S3">
+        <Definition>ਵਿਚ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223551">
+      <Lemma writtenForm="ਦੁਆਲੇ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L1223551-S1" synset="wikidata-pa-L1223551-S1" ili="wikidata-pa-L1223551-S1">
+        <Definition>ਗਿਰਦੇ, ਚੁਫੇਰੇ, ਆਸੇ ਪਾਸੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640385">
+      <Lemma writtenForm="ਅੰਦਰ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L640385-S1" synset="wikidata-pa-L640385-S1" ili="wikidata-pa-L640385-S1">
+        <Definition>ਭੀਤਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684198">
+      <Lemma writtenForm="ਤੋਂ" partOfSpeech="postposition"/>
+      <Sense id="L684198-S1" synset="wikidata-pa-L684198-S1" ili="wikidata-pa-L684198-S1">
+        <Definition>ਵੱਲੋਂ, ਕੋਲੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684201">
+      <Lemma writtenForm="ਕੌਣ" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L684201-S1" synset="wikidata-pa-L684201-S1" ili="wikidata-pa-L684201-S1">
+        <Definition>ਕੇਹੜਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684360">
+      <Lemma writtenForm="ਕਿਵੇਂ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L684360-S1" synset="wikidata-pa-L684360-S1" ili="wikidata-pa-L684360-S1">
+        <Definition>ਕਿਸ ਤਰ੍ਹਾਂ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L684362-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L686223-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684373">
+      <Lemma writtenForm="ਕਿੰਨਾ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L684373-S1" synset="wikidata-pa-L684373-S1" ili="wikidata-pa-L684373-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686379">
+      <Lemma writtenForm="ਆਪਣਾ ਆਪਣਾ" partOfSpeech="possessive determiner"/>
+      <Sense id="L686379-S1" synset="wikidata-pa-L686379-S1" ili="wikidata-pa-L686379-S1">
+        <Definition>ਆਪੋ ਆਪਣਾ, ਜ਼ਾਤੀ</Definition>
+      </Sense>
+      <Sense id="L686379-S2" synset="wikidata-pa-L686379-S2" ili="wikidata-pa-L686379-S2">
+        <Definition>ਵੱਖਰਾ ਵੱਖਰਾ, ਅੱਡੋ ਅੱਡ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700902">
+      <Lemma writtenForm="ਹੈ ਨਹੀਂ ਗਾ" partOfSpeech="copulative locution"/>
+      <Sense id="L700902-S1" synset="wikidata-pa-L700902-S1" ili="wikidata-pa-L700902-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L702293">
+      <Lemma writtenForm="ਜੀ" partOfSpeech="honorific particle"/>
+      <Sense id="L702293-S1" synset="wikidata-pa-L702293-S1" ili="wikidata-pa-L702293-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L713773">
+      <Lemma writtenForm="ਓ" partOfSpeech="interjection"/>
+      <Sense id="L713773-S1" synset="wikidata-pa-L713773-S1" ili="wikidata-pa-L713773-S1">
+        <Definition>ਹੇ! ਰੇ! ਓ!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L723613">
+      <Lemma writtenForm="ਏ" partOfSpeech="infix"/>
+      <Sense id="L723613-S1" synset="wikidata-pa-L723613-S1" ili="wikidata-pa-L723613-S1">
+        <Definition>ਇਜ਼ਾਫ਼ੇ ਬਣਾਉਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740031">
+      <Lemma writtenForm="ਜੇ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L740031-S1" synset="wikidata-pa-L740031-S1" ili="wikidata-pa-L740031-S1">
+        <Definition>ਅਗਰ, ਜੇਕਰ</Definition>
+        <Example>ਜੇ ਬਲਵਾਨ ਹੋਵਾਂ, ਹਿੰਦੁਸਤਾਨ ਖ਼ਾਤਰ, ਲੋੜ ਪਵੇ ਤਾਂ ਜਾਨ ਘੁਮਾ ਦੇਵਾਂ।</Example>
+        <SenseRelation relType="similar" target="wikidata-pa-L740032-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742024">
+      <Lemma writtenForm="ਮ" partOfSpeech="pronominal suffix"/>
+      <Sense id="L742024-S1" synset="wikidata-pa-L742024-S1" ili="wikidata-pa-L742024-S1">
+        <Definition>(“ਮੈਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745909">
+      <Lemma writtenForm="ਬਾ" partOfSpeech="preposition"/>
+      <Sense id="L745909-S1" synset="wikidata-pa-L745909-S1" ili="wikidata-pa-L745909-S1">
+        <Definition>ਨਾਲ, ਸਾਥ</Definition>
+      </Sense>
+      <Sense id="L745909-S2" synset="wikidata-pa-L745909-S2" ili="wikidata-pa-L745909-S2">
+        <Definition>ਵਾਲਾ, ਸਾਹਿਬ</Definition>
+      </Sense>
+      <Sense id="L745909-S3" synset="wikidata-pa-L745909-S3" ili="wikidata-pa-L745909-S3">
+        <Definition>ਭਾਵੇਂ</Definition>
+      </Sense>
+      <Sense id="L745909-S4" synset="wikidata-pa-L745909-S4" ili="wikidata-pa-L745909-S4">
+        <Definition>ਮੁਤਾਬਕ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745976">
+      <Lemma writtenForm="ਲੇਕਨ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L745976-S1" synset="wikidata-pa-L745976-S1" ili="wikidata-pa-L745976-S1">
+        <Definition>ਪਰ, ਮਗਰ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L689431-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747223">
+      <Lemma writtenForm="ਸੰਦਾ" partOfSpeech="postposition"/>
+      <Sense id="L747223-S1" synset="wikidata-pa-L747223-S1" ili="wikidata-pa-L747223-S1">
+        <Definition>ਦਾ, ਨਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749146">
+      <Lemma writtenForm="ਖਾਂ" partOfSpeech="emphatic particle"/>
+      <Sense id="L749146-S1" synset="wikidata-pa-L749146-S1" ili="wikidata-pa-L749146-S1">
+        <Definition>(“ਭਲਾ” ਅੰਸ਼ ਨਾਲ ਹੋਰ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+      </Sense>
+      <Sense id="L749146-S2" synset="wikidata-pa-L749146-S2" ili="wikidata-pa-L749146-S2">
+        <Definition>(ਫ਼ਿਅਲ ਅਮਰ ਨੂੰ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1038794">
+      <Lemma writtenForm="ਰੱਬਾ" partOfSpeech="interjection"/>
+      <Sense id="L1038794-S1" synset="wikidata-pa-L1038794-S1" ili="wikidata-pa-L1038794-S1">
+        <Definition>ਹਾਈ, ਖ਼ੁਦਾ!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083609">
+      <Lemma writtenForm="ਕੋਲ" partOfSpeech="postposition"/>
+      <Sense id="L1083609-S1" synset="wikidata-pa-L1083609-S1" ili="wikidata-pa-L1083609-S1">
+        <Definition>ਲਾਗੇ, ਨੇੜੇ</Definition>
+      </Sense>
+      <Sense id="L1083609-S2" synset="wikidata-pa-L1083609-S2" ili="wikidata-pa-L1083609-S2">
+        <Definition>ਵੱਸ ਵਿਚ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1091957">
+      <Lemma writtenForm="ਵਾਲਾ" partOfSpeech="postposition"/>
+      <Sense id="L1091957-S1" synset="wikidata-pa-L1091957-S1" ili="wikidata-pa-L1091957-S1">
+        <Definition>ਵਾਨ, ਵੰਤ, ਕਾਜ ਦਾ ਕਰਤਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093547">
+      <Lemma writtenForm="ਦਿਲ ਜਾਨ ਨਾਲ" partOfSpeech="adverbial locution"/>
+      <Sense id="L1093547-S1" synset="wikidata-pa-L1093547-S1" ili="wikidata-pa-L1093547-S1">
+        <Definition>ਤੰਨੂੰ ਮੰਨੂੰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095544">
+      <Lemma writtenForm="ਮਰ ਖਪ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095544-S1" synset="wikidata-pa-L1095544-S1" ili="wikidata-pa-L1095544-S1">
+        <Definition>ਖ਼ਤਮ ਹੋ ਜਾਵਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095547-S1"/>
+        <SenseRelation relType="hyponym" target="wikidata-pa-L1095535-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095547">
+      <Lemma writtenForm="ਮਰ ਖਪ ਵੰਞਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095547-S1" synset="wikidata-pa-L1095547-S1" ili="wikidata-pa-L1095547-S1">
+        <Definition>ਖ਼ਤਮ ਹੋ ਵੰਞਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1095544-S1"/>
+        <SenseRelation relType="hyponym" target="wikidata-pa-L1095535-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095552">
+      <Lemma writtenForm="ਕਰ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095552-S1" synset="wikidata-pa-L1095552-S1" ili="wikidata-pa-L1095552-S1">
+        <Definition>ਕੋਈ ਕੰਮ ਕਰ ਕੇ ਟੁਰ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095630">
+      <Lemma writtenForm="ਕਰ ਲੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095630-S1" synset="wikidata-pa-L1095630-S1" ili="wikidata-pa-L1095630-S1">
+        <Definition>ਕੋਈ ਕੰਮ ਮੁਕੰਮਲ ਕਰਨ</Definition>
+      </Sense>
+      <Sense id="L1095630-S2" synset="wikidata-pa-L1095630-S2" ili="wikidata-pa-L1095630-S2">
+        <Definition>ਵਿਆਹ ਕਰਨ</Definition>
+      </Sense>
+      <Sense id="L1095630-S3" synset="wikidata-pa-L1095630-S3" ili="wikidata-pa-L1095630-S3">
+        <Definition>ਅਮਲ ਕਰਾਉਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101191">
+      <Lemma writtenForm="ਪੱਦ ਮਾਰਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1101191-S1" synset="wikidata-pa-L1101191-S1" ili="wikidata-pa-L1101191-S1">
+        <Definition>ਗੰਦੀ ਹਵਾ ਖ਼ਾਰਿਜ ਕਰਨ</Definition>
+      </Sense>
+      <Sense id="L1101191-S2" synset="wikidata-pa-L1101191-S2" ili="wikidata-pa-L1101191-S2">
+        <Definition>ਬੇ ਸ਼ਰਮੀ ਬੋਲਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1115562">
+      <Lemma writtenForm="ਲੈ ਉੱਡਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1115562-S1" synset="wikidata-pa-L1115562-S1" ili="wikidata-pa-L1115562-S1">
+        <Definition>ਉਧਾਲਾ ਕਰਨ</Definition>
+      </Sense>
+      <Sense id="L1115562-S2" synset="wikidata-pa-L1115562-S2" ili="wikidata-pa-L1115562-S2">
+        <Definition>ਮਸ਼ਹੂਰ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+      <Sense id="L1115562-S3" synset="wikidata-pa-L1115562-S3" ili="wikidata-pa-L1115562-S3">
+        <Definition>ਨਕਲ ਲਾਹੁਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1120847">
+      <Lemma writtenForm="ਅਸਤਾ ਜਾਣਾ" partOfSpeech="verbal expression"/>
+      <Sense id="L1120847-S1" synset="wikidata-pa-L1120847-S1" ili="wikidata-pa-L1120847-S1">
+        <Definition>ਚੁੱਪ ਕੀਤੇ ਖਲੇ ਰਹਿਣਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143150">
+      <Lemma writtenForm="ਵਾਸਤੇ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L1143150-S1" synset="wikidata-pa-L1143150-S1" ili="wikidata-pa-L1143150-S1">
+        <Definition>ਦੀ ਪਾਰੋਂ, ਵੱਜਾ ਨਾਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1153023">
+      <Lemma writtenForm="ਜੀ ਭਰ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1153023-S1" synset="wikidata-pa-L1153023-S1" ili="wikidata-pa-L1153023-S1">
+        <Definition>ਰੱਜ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1153023-S2" synset="wikidata-pa-L1153023-S2" ili="wikidata-pa-L1153023-S2">
+        <Definition>ਅੱਕ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1153023-S3" synset="wikidata-pa-L1153023-S3" ili="wikidata-pa-L1153023-S3">
+        <Definition>ਬੇਜ਼ਾਰ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161648">
+      <Lemma writtenForm="ਈ" partOfSpeech="pronominal suffix"/>
+      <Sense id="L1161648-S1" synset="wikidata-pa-L1161648-S1" ili="wikidata-pa-L1161648-S1">
+        <Definition>(“ਤੂੰ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188148">
+      <Lemma writtenForm="ਹੋ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1188148-S1" synset="wikidata-pa-L1188148-S1" ili="wikidata-pa-L1188148-S1">
+        <Definition>ਕੰਮ ਬਣ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1188148-S2" synset="wikidata-pa-L1188148-S2" ili="wikidata-pa-L1188148-S2">
+        <Definition>ਫੇਰਾ ਮਾਰ ਜਾਵਣ, ਆ ਕੇ ਚਲਾ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1188148-S3" synset="wikidata-pa-L1188148-S3" ili="wikidata-pa-L1188148-S3">
+        <Definition>ਸਿਰ ਚੜ੍ਹ ਜਾਵਣ, ਜ਼ੰਮੇ ਚੜ੍ਹਨ</Definition>
+      </Sense>
+      <Sense id="L1188148-S4" synset="wikidata-pa-L1188148-S4" ili="wikidata-pa-L1188148-S4">
+        <Definition>ਮੁੱਕ ਜਾਵਣ, ਕੰਮ ਪੂਰਾ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197289">
+      <Lemma writtenForm="ਲੈ ਡੁੱਬਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1197289-S1" synset="wikidata-pa-L1197289-S1" ili="wikidata-pa-L1197289-S1">
+        <Definition>ਆਪਣੇ ਨਾਲ ਦੂਏ ਨੂੰ ਬੀ ਬਰਬਾਦ ਕਰਨਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1197290-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1224924">
+      <Lemma writtenForm="ਤੋਂ ਬਾਅਦ" partOfSpeech="postpositive locution"/>
+      <Sense id="L1224924-S1" synset="wikidata-pa-L1224924-S1" ili="wikidata-pa-L1224924-S1">
+        <Definition>ਜ਼ਮਾਨੇ ਤੋਂ ਪਿੱਛੇ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L1224922-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1226434">
+      <Lemma writtenForm="ਅਜਿਹਾ" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L1226434-S1" synset="wikidata-pa-L1226434-S1" ili="wikidata-pa-L1226434-S1">
+        <Definition>ਏਦਾਂ ਦਾ, ਇਸ ਤਰ੍ਹਾਂ ਦਾ</Definition>
+      </Sense>
+      <Sense id="L1226434-S2" synset="wikidata-pa-L1226434-S2" ili="wikidata-pa-L1226434-S2">
+        <Definition>ਇਸ ਸ਼ਕਲ ਸੂਰਤ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227143">
+      <Lemma writtenForm="ਲਾ ਹੌਲ ਵਾ ਲਾ ਕੁਵਤਾ ਇੱਲਾ ਬਿੱਲ੍ਹਾਹਿਲ ਅਲਾਇਲ ਅਜ਼ੀਮ" partOfSpeech="interjection"/>
+      <Sense id="L1227143-S1" synset="wikidata-pa-L1227143-S1" ili="wikidata-pa-L1227143-S1">
+        <Definition>(ਕਲਮਾ-ਏ-ਹੈਰਤ) ਖ਼ੁਦਾ ਤੋਂ ਸਿਵਾ ਕਿਸੇ ਨੂੰ ਤਾਕਤ ਹਾਸਲ ਨਹੀਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L672613">
+      <Lemma writtenForm="ਇਹ" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L672613-S1" synset="wikidata-pa-L672613-S1" ili="wikidata-pa-L672613-S1">
+        <Definition>ਇਥੇ ਕੁਝ ਮੱਦ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684195">
+      <Lemma writtenForm="ਕੀਹ" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L684195-S1" synset="wikidata-pa-L684195-S1" ili="wikidata-pa-L684195-S1">
+        <Definition>ਕਿਆ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L722752-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684197">
+      <Lemma writtenForm="ਤਕ" partOfSpeech="postposition"/>
+      <Sense id="L684197-S1" synset="wikidata-pa-L684197-S1" ili="wikidata-pa-L684197-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686360">
+      <Lemma writtenForm="ਕਿੱਥੇ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L686360-S1" synset="wikidata-pa-L686360-S1" ili="wikidata-pa-L686360-S1">
+        <Definition>ਕਿਧਰ, ਕਿਸ ਪਾਸੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686368">
+      <Lemma writtenForm="ਕੋਈ" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L686368-S1" synset="wikidata-pa-L686368-S1" ili="wikidata-pa-L686368-S1">
+        <Definition>ਕੁਝ ਲੋਕਾਂ ਵਿਚੋਂ ਇਕ</Definition>
+        <SenseRelation relType="hypernym" target="wikidata-pa-L686368-S2"/>
+      </Sense>
+      <Sense id="L686368-S2" synset="wikidata-pa-L686368-S2" ili="wikidata-pa-L686368-S2">
+        <Definition>ਬਹੁਤਿਆਂ ਵਿਚੋਂ ਇਕ</Definition>
+      </Sense>
+      <Sense id="L686368-S3" synset="wikidata-pa-L686368-S3" ili="wikidata-pa-L686368-S3">
+        <Definition>ਕੁਝ ਵਿਰਲਾ ਇਕ</Definition>
+      </Sense>
+      <Sense id="L686368-S4" synset="wikidata-pa-L686368-S4" ili="wikidata-pa-L686368-S4">
+        <Definition>ਕੁਝ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686369">
+      <Lemma writtenForm="ਕਿਉਂਕਿ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L686369-S1" synset="wikidata-pa-L686369-S1" ili="wikidata-pa-L686369-S1">
+        <Definition>ਇਸ ਲਈ ਜੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686378">
+      <Lemma writtenForm="ਆਪਣਾ" partOfSpeech="reflexive possessive adjective"/>
+      <Sense id="L686378-S1" synset="wikidata-pa-L686378-S1" ili="wikidata-pa-L686378-S1">
+        <Definition>ਸ੍ਵੈ ਦਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L738454-S2"/>
+      </Sense>
+      <Sense id="L686378-S2" synset="wikidata-pa-L686378-S2" ili="wikidata-pa-L686378-S2">
+        <Definition>ਸਾਥੀ, ਅੰਗ ਸਾਕ, ਦੋਸਤ ਦਾ</Definition>
+      </Sense>
+      <Sense id="L686378-S3" synset="wikidata-pa-L686378-S3" ili="wikidata-pa-L686378-S3">
+        <Definition>ਘਰੋਕਾ, ਘਰੇਲੂ, ਘਰ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686410">
+      <Lemma writtenForm="ਅਸੀਂ" partOfSpeech="personal pronoun"/>
+      <Sense id="L686410-S1" synset="wikidata-pa-L686410-S1" ili="wikidata-pa-L686410-S1">
+        <Definition>ਪਹਿਲਾ ਪੁਰਖ, ਜਮ੍ਹਾ ਪੜਨਾਂਵ</Definition>
+      </Sense>
+      <Sense id="L686410-S2" synset="wikidata-pa-L686410-S2" ili="wikidata-pa-L686410-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686535">
+      <Lemma writtenForm="ਇਸ ਕਰਕੇ" partOfSpeech="postpositive locution"/>
+      <Sense id="L686535-S1" synset="wikidata-pa-L686535-S1" ili="wikidata-pa-L686535-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689422">
+      <Lemma writtenForm="ਇਹਦਾ" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L689422-S1" synset="wikidata-pa-L689422-S1" ili="wikidata-pa-L689422-S1">
+        <Definition>ਇਸ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689432">
+      <Lemma writtenForm="ਕੋਈ" partOfSpeech="determiner"/>
+      <Sense id="L689432-S1" synset="wikidata-pa-L689432-S1" ili="wikidata-pa-L689432-S1">
+        <Definition>ਜਿਹੜਾ ਕਿਹੜਾ, ਕੁਝ ਇਕ</Definition>
+      </Sense>
+      <Sense id="L689432-S2" synset="wikidata-pa-L689432-S2" ili="wikidata-pa-L689432-S2">
+        <Definition>ਕੁਝ</Definition>
+      </Sense>
+      <Sense id="L689432-S3" synset="wikidata-pa-L689432-S3" ili="wikidata-pa-L689432-S3">
+        <Definition>ਇਕ ਕੁਝ ਖ਼ਾਸ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692298">
+      <Lemma writtenForm="ਜਿਹੜਾ ਜਿਹੜਾ" partOfSpeech="relative adjective"/>
+      <Sense id="L692298-S1" synset="wikidata-pa-L692298-S1" ili="wikidata-pa-L692298-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701675">
+      <Lemma writtenForm="ਵੇ" partOfSpeech="vocative particle"/>
+      <Sense id="L701675-S1" synset="wikidata-pa-L701675-S1" ili="wikidata-pa-L701675-S1">
+        <Definition>ਹੇ! (ਔਰਤਾਂ ਤੋਂ ਮਰਦਾਂ ਨੂੰ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L718506">
+      <Lemma writtenForm="‍ੀ" partOfSpeech="infix"/>
+      <Sense id="L718506-S1" synset="wikidata-pa-L718506-S1" ili="wikidata-pa-L718506-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722752">
+      <Lemma writtenForm="ਕਿਆ" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L722752-S1" synset="wikidata-pa-L722752-S1" ili="wikidata-pa-L722752-S1">
+        <Definition>ਕੀ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L684195-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740291">
+      <Lemma writtenForm="‍ਏ" partOfSpeech="affix"/>
+      <Sense id="L740291-S1" synset="wikidata-pa-L740291-S1" ili="wikidata-pa-L740291-S1">
+        <Definition>(ਲੇਟ ਲਕਾਰ ਦਾ ਹਰਫ਼)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741123">
+      <Lemma writtenForm="ਜੋ" partOfSpeech="postposition"/>
+      <Sense id="L741123-S1" synset="wikidata-pa-L741123-S1" ili="wikidata-pa-L741123-S1">
+        <Definition>ਦਾ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L679201-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pa-L1089242-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745974">
+      <Lemma writtenForm="ਖ਼ਾਹ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L745974-S1" synset="wikidata-pa-L745974-S1" ili="wikidata-pa-L745974-S1">
+        <Definition>ਚਾਹੇ, ਭਾਵੇਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749144">
+      <Lemma writtenForm="ਤੇ" partOfSpeech="emphatic particle"/>
+      <Sense id="L749144-S1" synset="wikidata-pa-L749144-S1" ili="wikidata-pa-L749144-S1">
+        <Definition>(ਜ਼ੋਰ ਦੇਣ ਦਾ ਅੰਸ਼)</Definition>
+      </Sense>
+      <Sense id="L749144-S2" synset="wikidata-pa-L749144-S2" ili="wikidata-pa-L749144-S2">
+        <Definition>(“ਹੀ” ~ “ਈ” ਅੰਸ਼ ਨਾਲ ਇਹਨਾਂ ਜ਼ੋਰ ਦੇ ਹਿੱਸੇ ਤੋਂ ਹੋਰ ਛੋਟੀ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1045824">
+      <Lemma writtenForm="ਯਾਰਾ" partOfSpeech="interjection"/>
+      <Sense id="L1045824-S1" synset="wikidata-pa-L1045824-S1" ili="wikidata-pa-L1045824-S1">
+        <Definition>ਓਏ ਯਾਰ!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083620">
+      <Lemma writtenForm="ਖੁਨੋਂ" partOfSpeech="postposition"/>
+      <Sense id="L1083620-S1" synset="wikidata-pa-L1083620-S1" ili="wikidata-pa-L1083620-S1">
+        <Definition>ਬਗ਼ੈਰ, ਬਿਨਾ, ਬਾਝੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083733">
+      <Lemma writtenForm="ਮੁੱਢ" partOfSpeech="localiser"/>
+      <Sense id="L1083733-S1" synset="wikidata-pa-L1083733-S1" ili="wikidata-pa-L1083733-S1">
+        <Definition>(ਦੇ) ਕੋਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1092777">
+      <Lemma writtenForm="ਵਿਖੇ" partOfSpeech="postposition"/>
+      <Sense id="L1092777-S1" synset="wikidata-pa-L1092777-S1" ili="wikidata-pa-L1092777-S1">
+        <Definition>ਵਿੱਚ, ਅੰਦਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095628">
+      <Lemma writtenForm="ਕਰ ਗੁਜ਼ਰਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095628-S1" synset="wikidata-pa-L1095628-S1" ili="wikidata-pa-L1095628-S1">
+        <Definition>ਕੰਮ ਨੂੰ ਕਰ ਕੇ ਛੱਡਣ</Definition>
+      </Sense>
+      <Sense id="L1095628-S2" synset="wikidata-pa-L1095628-S2" ili="wikidata-pa-L1095628-S2">
+        <Definition>ਅਣਹੋਣੀ ਗੱਲ ਕਰ ਬੈਠਣ</Definition>
+      </Sense>
+      <Sense id="L1095628-S3" synset="wikidata-pa-L1095628-S3" ili="wikidata-pa-L1095628-S3">
+        <Definition>ਬਿਨਾਂ ਸੋਚੇ ਸਮਝੇ ਕੋਈ ਕੰਮ ਕਰ ਬਹਿਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095937">
+      <Lemma writtenForm="ਜਾ ਫਸਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1095937-S1" synset="wikidata-pa-L1095937-S1" ili="wikidata-pa-L1095937-S1">
+        <Definition>ਕਿਤੇ ਜਾ ਕੇ ਕਾਬੂ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1095937-S2" synset="wikidata-pa-L1095937-S2" ili="wikidata-pa-L1095937-S2">
+        <Definition>ਧੋਖੇ ਵਿੱਚ ਆ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097308">
+      <Lemma writtenForm="ਗੁਜ਼ਰ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1097308-S1" synset="wikidata-pa-L1097308-S1" ili="wikidata-pa-L1097308-S1">
+        <Definition>ਚਲਾ ਜਾਵਣ, ਲੰਘ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1097308-S2" synset="wikidata-pa-L1097308-S2" ili="wikidata-pa-L1097308-S2">
+        <Definition>ਬੀਤ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1097308-S3" synset="wikidata-pa-L1097308-S3" ili="wikidata-pa-L1097308-S3">
+        <Definition>ਮਰ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113742">
+      <Lemma writtenForm="ਰੱਖ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1113742-S1" synset="wikidata-pa-L1113742-S1" ili="wikidata-pa-L1113742-S1">
+        <Definition>ਧਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113746">
+      <Lemma writtenForm="ਰੱਖ ਛੱਡਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1113746-S1" synset="wikidata-pa-L1113746-S1" ili="wikidata-pa-L1113746-S1">
+        <Definition>ਧਰ ਛੱਡਣ, ਸਾਂਭ ਛੱਡਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113760">
+      <Lemma writtenForm="ਪਿਲਾ ਦੇਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1113760-S1" synset="wikidata-pa-L1113760-S1" ili="wikidata-pa-L1113760-S1">
+        <Definition>ਨੋਸ਼ ਕਰ ਦੇਣ</Definition>
+      </Sense>
+      <Sense id="L1113760-S2" synset="wikidata-pa-L1113760-S2" ili="wikidata-pa-L1113760-S2">
+        <Definition>ਨੋਸ਼ ਕਰ ਦੇਈਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1124995">
+      <Lemma writtenForm="ਕਿ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1124995-S1" synset="wikidata-pa-L1124995-S1" ili="wikidata-pa-L1124995-S1">
+        <Definition>ਯਾਂ, ਜਾਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1129659">
+      <Lemma writtenForm="ਪਾ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1129659-S1" synset="wikidata-pa-L1129659-S1" ili="wikidata-pa-L1129659-S1">
+        <Definition>ਸ਼ਾਮਲ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1129662">
+      <Lemma writtenForm="ਦੇ‌‌ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1129662-S1" synset="wikidata-pa-L1129662-S1" ili="wikidata-pa-L1129662-S1">
+        <Definition>ਦੇ ਛੱਡਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1130026">
+      <Lemma writtenForm="ਹੰਨਾ" partOfSpeech="question tag"/>
+      <Sense id="L1130026-S1" synset="wikidata-pa-L1130026-S1" ili="wikidata-pa-L1130026-S1">
+        <Definition>ਹੈ ਨਾ, ਹੈਗੇ ਆ, ਠੀਕ ਏ ਨਾ?</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151541">
+      <Lemma writtenForm="ਆ ਲੱਗਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151541-S1" synset="wikidata-pa-L1151541-S1" ili="wikidata-pa-L1151541-S1">
+        <Definition>ਨੇੜੇ ਉੱਪਰ ਪੈਣ</Definition>
+      </Sense>
+      <Sense id="L1151541-S2" synset="wikidata-pa-L1151541-S2" ili="wikidata-pa-L1151541-S2">
+        <Definition>ਤਾਕ ਵਿਚ ਰਹਿਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151683">
+      <Lemma writtenForm="ਆ ਪੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151683-S1" synset="wikidata-pa-L1151683-S1" ili="wikidata-pa-L1151683-S1">
+        <Definition>ਆ ਕੇ ਕਿਸੇ ਨੂੰ ਯਕਦਮ ਪੈ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1151683-S2" synset="wikidata-pa-L1151683-S2" ili="wikidata-pa-L1151683-S2">
+        <Definition>ਮਸੀਬਤ ਪੈ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1151683-S3" synset="wikidata-pa-L1151683-S3" ili="wikidata-pa-L1151683-S3">
+        <Definition>ਅਚਾਨਕ ਕਿਸੇ ਆਫ਼ਤ ਦਾ ਆ ਜਾਵਣ</Definition>
+        <SenseRelation relType="hyponym" target="wikidata-pa-L1151683-S2"/>
+      </Sense>
+      <Sense id="L1151683-S4" synset="wikidata-pa-L1151683-S4" ili="wikidata-pa-L1151683-S4">
+        <Definition>ਢੈ ਪੈਣ, ਡਿੱਗ ਪੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151769">
+      <Lemma writtenForm="ਆ ਬਣਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151769-S1" synset="wikidata-pa-L1151769-S1" ili="wikidata-pa-L1151769-S1">
+        <Definition>ਔਖ ਆਉਣ, ਮੁਸ਼ਕਲ ਬਣਨ</Definition>
+      </Sense>
+      <Sense id="L1151769-S2" synset="wikidata-pa-L1151769-S2" ili="wikidata-pa-L1151769-S2">
+        <Definition>ਮਸੀਬਤ ਪੈ ਜਾਵਣ, ਬਿਪਤਾ ਵਿੱਚ ਫਸਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1224925">
+      <Lemma writtenForm="ਤੋਂ ਬਿਨਾਂ" partOfSpeech="postpositive locution"/>
+      <Sense id="L1224925-S1" synset="wikidata-pa-L1224925-S1" ili="wikidata-pa-L1224925-S1">
+        <Definition>ਦੇ ਬਗ਼ੈਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234394">
+      <Lemma writtenForm="ਤੋ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L1234394-S1" synset="wikidata-pa-L1234394-S1" ili="wikidata-pa-L1234394-S1">
+        <Definition>ਫੇਰ, ਤਾਂ, ਮੁੜ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686366">
+      <Lemma writtenForm="ਸਾਡਾ" partOfSpeech="possessive adjective"/>
+      <Sense id="L686366-S1" synset="wikidata-pa-L686366-S1" ili="wikidata-pa-L686366-S1">
+        <Definition>ਪਹਿਲੇ ਪੁਰਖ, ਵਾਹਿਦ ਦਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686605">
+      <Lemma writtenForm="ਉਹ" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L686605-S1" synset="wikidata-pa-L686605-S1" ili="wikidata-pa-L686605-S1">
+        <Definition>ਤੀਜਾ ਪੁਰਖ ਵਿਚ ਮੱਦ ਨਹੀਂ ਨੇੜੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689423">
+      <Lemma writtenForm="ਉਹਦਾ" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L689423-S1" synset="wikidata-pa-L689423-S1" ili="wikidata-pa-L689423-S1">
+        <Definition>ਉਸ ਕਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689429">
+      <Lemma writtenForm="ਜਿਹਨਾਂ ਦਾ" partOfSpeech="relative adjective"/>
+      <Sense id="L689429-S1" synset="wikidata-pa-L689429-S1" ili="wikidata-pa-L689429-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L706251">
+      <Lemma writtenForm="ਅ" partOfSpeech="vocative particle"/>
+      <Sense id="L706251-S1" synset="wikidata-pa-L706251-S1" ili="wikidata-pa-L706251-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722043">
+      <Lemma writtenForm="ਪਤਾ ਨਹੀਂ" partOfSpeech="adverbial locution"/>
+      <Sense id="L722043-S1" synset="wikidata-pa-L722043-S1" ili="wikidata-pa-L722043-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740019">
+      <Lemma writtenForm="ਜੇ" partOfSpeech="allocutive particle"/>
+      <Sense id="L740019-S1" synset="wikidata-pa-L740019-S1" ili="wikidata-pa-L740019-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740030">
+      <Lemma writtenForm="ਸੂ" partOfSpeech="object marker"/>
+      <Sense id="L740030-S1" synset="wikidata-pa-L740030-S1" ili="wikidata-pa-L740030-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742011">
+      <Lemma writtenForm="ਤ" partOfSpeech="affix"/>
+      <Sense id="L742011-S1" synset="wikidata-pa-L742011-S1" ili="wikidata-pa-L742011-S1">
+        <Definition>(ਸੁਤੰਤਰਤਾ ਕਿਰਦੰਤਕ ਦੇ ਲਹਿਕੇ ਦਾ ਅੱਖਰ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742594">
+      <Lemma writtenForm="ਨਾ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L742594-S1" synset="wikidata-pa-L742594-S1" ili="wikidata-pa-L742594-S1">
+        <Definition>ਅਤੇ ਨਹੀਂ ਹੈ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L744380">
+      <Lemma writtenForm="ਨਹੀਐ" partOfSpeech="copulative locution"/>
+      <Sense id="L744380-S1" synset="wikidata-pa-L744380-S1" ili="wikidata-pa-L744380-S1">
+        <Definition>ਨਹੀਂ ਏ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L685081-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745973">
+      <Lemma writtenForm="ਤਾ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L745973-S1" synset="wikidata-pa-L745973-S1" ili="wikidata-pa-L745973-S1">
+        <Definition>ਤਕ, ਤੀਕਰ</Definition>
+      </Sense>
+      <Sense id="L745973-S2" synset="wikidata-pa-L745973-S2" ili="wikidata-pa-L745973-S2">
+        <Definition>ਜੇਕਰ</Definition>
+      </Sense>
+      <Sense id="L745973-S3" synset="wikidata-pa-L745973-S3" ili="wikidata-pa-L745973-S3">
+        <Definition>ਜਿੱਥੋਂ ਤੀਕਰ</Definition>
+      </Sense>
+      <Sense id="L745973-S4" synset="wikidata-pa-L745973-S4" ili="wikidata-pa-L745973-S4">
+        <Definition>ਤਦ, ਤਦੋਂ</Definition>
+      </Sense>
+      <Sense id="L745973-S5" synset="wikidata-pa-L745973-S5" ili="wikidata-pa-L745973-S5">
+        <Definition>ਆਖ਼ਰ ਤਾਈਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L907753">
+      <Lemma writtenForm="ਅਨੀ" partOfSpeech="vocative particle"/>
+      <Sense id="L907753-S1" synset="wikidata-pa-L907753-S1" ili="wikidata-pa-L907753-S1">
+        <Definition>ਅੜੀਏ, ਨੀ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1017659">
+      <Lemma writtenForm="ਸ਼ਾਬਾਸ਼" partOfSpeech="interjection"/>
+      <Sense id="L1017659-S1" synset="wikidata-pa-L1017659-S1" ili="wikidata-pa-L1017659-S1">
+        <Definition>ਅਫਰੀਂ! ਹੰਬਡੇ!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036355">
+      <Lemma writtenForm="ਨਿੱਸੂ" partOfSpeech="copulative locution"/>
+      <Sense id="L1036355-S1" synset="wikidata-pa-L1036355-S1" ili="wikidata-pa-L1036355-S1">
+        <Definition>ਨਹੀਂ ਏ, ਨਾ ਹੋ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L685081-S2"/>
+      </Sense>
+      <Sense id="L1036355-S2" synset="wikidata-pa-L1036355-S2" ili="wikidata-pa-L1036355-S2">
+        <Definition>ਨਹੀਂ ਸੀਗੀ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-pa-L685081-S3"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1077604">
+      <Lemma writtenForm="ਨੀਂ" partOfSpeech="vocative particle"/>
+      <Sense id="L1077604-S1" synset="wikidata-pa-L1077604-S1" ili="wikidata-pa-L1077604-S1">
+        <Definition>ਔਰਤਾਂ, ਕੁੜੀਆਂ ਨੂੰ ਮੁਖਾਤਿਬ ਕਰ ਕੇ ਬੋਲਦਾ</Definition>
+      </Sense>
+      <Sense id="L1077604-S2" synset="wikidata-pa-L1077604-S2" ili="wikidata-pa-L1077604-S2">
+        <Definition>ਔਰਤਾਂ, ਕੁੜੀਆਂ ਨੂੰ ਬੁਲਾਉਂਦਾ</Definition>
+        <SenseRelation relType="hyponym" target="wikidata-pa-L1077604-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083616">
+      <Lemma writtenForm="ਭਾਣੇ" partOfSpeech="postposition"/>
+      <Sense id="L1083616-S1" synset="wikidata-pa-L1083616-S1" ili="wikidata-pa-L1083616-S1">
+        <Definition>ਖ਼ਿਆਲ ਵਿਚ, ਜਾਚੇ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1084517">
+      <Lemma writtenForm="ਫ਼ੀ" partOfSpeech="preposition"/>
+      <Sense id="L1084517-S1" synset="wikidata-pa-L1084517-S1" ili="wikidata-pa-L1084517-S1">
+        <Definition>ਵਿਚ, ਅੰਦਰ</Definition>
+      </Sense>
+      <Sense id="L1084517-S2" synset="wikidata-pa-L1084517-S2" ili="wikidata-pa-L1084517-S2">
+        <Definition>ਨਾਲ, ਸਾਥ</Definition>
+      </Sense>
+      <Sense id="L1084517-S3" synset="wikidata-pa-L1084517-S3" ili="wikidata-pa-L1084517-S3">
+        <Definition>ਹਰ, ਹਰ ਇੱਕ</Definition>
+      </Sense>
+      <Sense id="L1084517-S4" synset="wikidata-pa-L1084517-S4" ili="wikidata-pa-L1084517-S4">
+        <Definition>ਉੱਪਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1087532">
+      <Lemma writtenForm="ਵਜੋਂ" partOfSpeech="postpositive adverb"/>
+      <Sense id="L1087532-S1" synset="wikidata-pa-L1087532-S1" ili="wikidata-pa-L1087532-S1">
+        <Definition>ਵਜਹੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1115552">
+      <Lemma writtenForm="ਲੈ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1115552-S1" synset="wikidata-pa-L1115552-S1" ili="wikidata-pa-L1115552-S1">
+        <Definition>ਉੱਡਾ ਖੜਨ</Definition>
+      </Sense>
+      <Sense id="L1115552-S2" synset="wikidata-pa-L1115552-S2" ili="wikidata-pa-L1115552-S2">
+        <Definition>ਨਾਲ ਲੈ ਕੇ ਖੜਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116261">
+      <Lemma writtenForm="ਛੱਡ ਬਹਿਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116261-S1" synset="wikidata-pa-L1116261-S1" ili="wikidata-pa-L1116261-S1">
+        <Definition>ਤਰਕ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+      <Sense id="L1116261-S2" synset="wikidata-pa-L1116261-S2" ili="wikidata-pa-L1116261-S2">
+        <Definition>ਤਲਾਕ ਕਰ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116479">
+      <Lemma writtenForm="ਪੈ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1116479-S1" synset="wikidata-pa-L1116479-S1" ili="wikidata-pa-L1116479-S1">
+        <Definition>ਲੇਟ ਜਾਵਣ, ਥੱਕ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1126340">
+      <Lemma writtenForm="ਆਹ" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1126340-S1" synset="wikidata-pa-L1126340-S1" ili="wikidata-pa-L1126340-S1">
+        <Definition>ਆਹਾ, ਇਹੋ</Definition>
+      </Sense>
+      <Sense id="L1126340-S2" synset="wikidata-pa-L1126340-S2" ili="wikidata-pa-L1126340-S2">
+        <Definition>ਹਾ ਜਹਿੜਾ</Definition>
+      </Sense>
+      <Sense id="L1126340-S3" synset="wikidata-pa-L1126340-S3" ili="wikidata-pa-L1126340-S3">
+        <Definition>ਇਹ ਸਾਮ੍ਹਣੇ ਵਾਲਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151537">
+      <Lemma writtenForm="ਆ ਟੱਕਰਨ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151537-S1" synset="wikidata-pa-L1151537-S1" ili="wikidata-pa-L1151537-S1">
+        <Definition>ਮੁਕਾਬਲੇ ਤੇ ਆਉਣ, ਆ ਮਿਲਨ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151540">
+      <Lemma writtenForm="ਆ ਲੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151540-S1" synset="wikidata-pa-L1151540-S1" ili="wikidata-pa-L1151540-S1">
+        <Definition>ਪਿੱਛੋਂ ਆ ਅਪੜਨ</Definition>
+      </Sense>
+      <Sense id="L1151540-S2" synset="wikidata-pa-L1151540-S2" ili="wikidata-pa-L1151540-S2">
+        <Definition>ਆ ਫਿੜਨ, ਛੂਹਣ</Definition>
+      </Sense>
+      <Sense id="L1151540-S3" synset="wikidata-pa-L1151540-S3" ili="wikidata-pa-L1151540-S3">
+        <Definition>ਮੁਖ਼ਾਲਿਫ਼ ਨੂੰ ਜਾ ਪੈਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1151682">
+      <Lemma writtenForm="ਆ ਪੈਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1151682-S1" synset="wikidata-pa-L1151682-S1" ili="wikidata-pa-L1151682-S1">
+        <Definition>ਹਮਲਾ ਹੋਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1160579">
+      <Lemma writtenForm="ਕਿਤਰਾਂ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1160579-S1" synset="wikidata-pa-L1160579-S1" ili="wikidata-pa-L1160579-S1">
+        <Definition>ਕਿਵੇਂ, ਕਿੰਜ, ਕਿੱਦਾਂ</Definition>
+      </Sense>
+      <Sense id="L1160579-S2" synset="wikidata-pa-L1160579-S2" ili="wikidata-pa-L1160579-S2">
+        <Definition>ਕਿਸ ਤਰ੍ਹਾਂ ਨਾਲ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161515">
+      <Lemma writtenForm="ਉੱਕ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1161515-S1" synset="wikidata-pa-L1161515-S1" ili="wikidata-pa-L1161515-S1">
+        <Definition>ਭੁੱਲ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1163584">
+      <Lemma writtenForm="ਜਿਤਵਾਰ" partOfSpeech="relative pronoun"/>
+      <Sense id="L1163584-S1" synset="wikidata-pa-L1163584-S1" ili="wikidata-pa-L1163584-S1">
+        <Definition>ਜਿਸ ਦਿਨ</Definition>
+      </Sense>
+      <Sense id="L1163584-S2" synset="wikidata-pa-L1163584-S2" ili="wikidata-pa-L1163584-S2">
+        <Definition>ਜਿਸ ਵੇਰ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197134">
+      <Lemma writtenForm="ਲੈ ਛੱਡਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1197134-S1" synset="wikidata-pa-L1197134-S1" ili="wikidata-pa-L1197134-S1">
+        <Definition>ਲੈ ਕੇ ਸਾਂਭ ਰੱਖਣ</Definition>
+        <SenseRelation relType="similar" target="wikidata-pa-L1197169-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216266">
+      <Lemma writtenForm="ਕੁਜਾ" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1216266-S1" synset="wikidata-pa-L1216266-S1" ili="wikidata-pa-L1216266-S1">
+        <Definition>ਕਿਹੜੀ ਥਾਂ?</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1219668">
+      <Lemma writtenForm="ਰਹਿ ਜਾਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1219668-S1" synset="wikidata-pa-L1219668-S1" ili="wikidata-pa-L1219668-S1">
+        <Definition>ਠਹਿਰ ਜਾਵਣ, ਰੁਕ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1219668-S2" synset="wikidata-pa-L1219668-S2" ili="wikidata-pa-L1219668-S2">
+        <Definition>ਮੁੱਕ ਜਾਵਣ, ਬਸ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1219668-S3" synset="wikidata-pa-L1219668-S3" ili="wikidata-pa-L1219668-S3">
+        <Definition>ਪਿੱਛੇ ਰਹਿ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1219668-S4" synset="wikidata-pa-L1219668-S4" ili="wikidata-pa-L1219668-S4">
+        <Definition>ਸ਼ੈ ਜਾਂ ਬੰਦੇ ਦਾ ਪਿੱਛੇ ਭੁੱਲ ਜਾਵਣ</Definition>
+      </Sense>
+      <Sense id="L1219668-S5" synset="wikidata-pa-L1219668-S5" ili="wikidata-pa-L1219668-S5">
+        <Definition>ਨਾਕਾਮ ਹੋ ਜਾਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1226435">
+      <Lemma writtenForm="ਉਜਿਹਾ" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L1226435-S1" synset="wikidata-pa-L1226435-S1" ili="wikidata-pa-L1226435-S1">
+        <Definition>ਉਸ ਵਰਗਾ, ਉਹਦੇ ਰੰਗਾ</Definition>
+      </Sense>
+      <Sense id="L1226435-S2" synset="wikidata-pa-L1226435-S2" ili="wikidata-pa-L1226435-S2">
+        <Definition>ਉਹੋ ਜਿਹਾ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227215">
+      <Lemma writtenForm="ਬਖ਼ਸ਼ ਦੇਵਣ" partOfSpeech="verbal expression"/>
+      <Sense id="L1227215-S1" synset="wikidata-pa-L1227215-S1" ili="wikidata-pa-L1227215-S1">
+        <Definition>ਦੇ ਦੇਵਣ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1232183">
+      <Lemma writtenForm="ਬਾਇਸ" partOfSpeech="localiser"/>
+      <Sense id="L1232183-S1" synset="wikidata-pa-L1232183-S1" ili="wikidata-pa-L1232183-S1">
+        <Definition>ਇਸ ਸਬਬੋਂ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-pa-L679444-S1" ili="wikidata-pa-L679444-S1">
+      <Definition>ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ, ਪੁਰਾਣਾ ਲਹਿਜਾ ’ਚ ਹਉ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679444-S2" ili="wikidata-pa-L679444-S2">
+      <Definition>ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਵੱਲ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679725-S1" ili="wikidata-pa-L679725-S1">
+      <Definition>ਓਧਰ, ਉਸ ਪਾਸੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679725-S2" ili="wikidata-pa-L679725-S2">
+      <Definition>ਵੱਧ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679725-S3" ili="wikidata-pa-L679725-S3">
+      <Definition>ਉਤਾਂਹ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679725-S4" ili="wikidata-pa-L679725-S4">
+      <Definition>ਉਪਰ ਵੱਲੋਂ, ਉਤਲੇ ਪਾਸਿਓਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L685081-S1" ili="wikidata-pa-L685081-S1">
+      <Definition>ਪੰਜਾਬੀ ਦਾ ਇਕੱਲਾ ਕਿਰਿਆ ਪਦ ਹੈ, ਆਮ ਹੋਂਦ ਲਈ ਚਿੰਨ੍ਹ ਦਿੱਤਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L685081-S2" ili="wikidata-pa-L685081-S2">
+      <Definition>ਇਹ ਚੀਜ਼ ਹੁੰਦੀ ਏ, ਹਾਂ ਹੁੰਦੀ ਏ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L685081-S3" ili="wikidata-pa-L685081-S3">
+      <Definition>ਉਹ ਚੀਜ਼ ਹੈਗੀ ਸੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L685081-S4" ili="wikidata-pa-L685081-S4">
+      <Definition>ਸਿਫ਼ਤ ਜਿਹੀ ਵਰਤ ਕੇ ਜੋ ਉਹ ਚੀਜ਼ ਹੁੰਦੀ ਸੀ ਦਿਖਾਉਂਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686341-S1" ili="wikidata-pa-L686341-S1">
+      <Definition>ਤਦ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686341-S2" ili="wikidata-pa-L686341-S2">
+      <Definition>ਤੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686353-S1" ili="wikidata-pa-L686353-S1">
+      <Definition>ਖ਼ੁਦ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686354-S1" ili="wikidata-pa-L686354-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686363-S1" ili="wikidata-pa-L686363-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686383-S1" ili="wikidata-pa-L686383-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686385-S1" ili="wikidata-pa-L686385-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L692057-S1" ili="wikidata-pa-L692057-S1">
+      <Definition>ਬਿਨਾਂ, ਬਗੈਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L692299-S1" ili="wikidata-pa-L692299-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L717868-S1" ili="wikidata-pa-L717868-S1">
+      <Definition>ਤਮਾਮ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L724700-S1" ili="wikidata-pa-L724700-S1">
+      <Definition>ਕਦੋਂ?</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L742726-S1" ili="wikidata-pa-L742726-S1">
+      <Definition>ਵਾਂਗੂਰ, ਜਿਹਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L744633-S1" ili="wikidata-pa-L744633-S1">
+      <Definition>ਮੁਸਲਮਾਨਾਂ ਨੂੰ ਪਹਿਲਾਂ ਲਫ਼ਜ਼ ਕਹਿੰਦੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745980-S1" ili="wikidata-pa-L745980-S1">
+      <Definition>ਵੀ, ਭੀ, ਹੋਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749279-S1" ili="wikidata-pa-L749279-S1">
+      <Definition>ਬਲਕਿ, ਭਾਵੇਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083732-S1" ili="wikidata-pa-L1083732-S1">
+      <Definition>ਤੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083732-S2" ili="wikidata-pa-L1083732-S2">
+      <Definition>ਤਕ, ਤਾਈਂ, ਲੱਗ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083734-S1" ili="wikidata-pa-L1083734-S1">
+      <Definition>ਪਰੇ ਹੋ, ਵਿੱਥ ਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083736-S1" ili="wikidata-pa-L1083736-S1">
+      <Definition>ਉੱਪਰ, ਉੱਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083738-S1" ili="wikidata-pa-L1083738-S1">
+      <Definition>ਅਲੱਗ, ਫ਼ਾਸਲੇ ਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083739-S1" ili="wikidata-pa-L1083739-S1">
+      <Definition>ਪੇਟ ਵਿਚ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083739-S2" ili="wikidata-pa-L1083739-S2">
+      <Definition>ਜ਼ਮੇ, ਦੇ ਨਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095969-S1" ili="wikidata-pa-L1095969-S1">
+      <Definition>ਪਰਤਾ ਦੇਵਣ, ਮੋੜ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095969-S2" ili="wikidata-pa-L1095969-S2">
+      <Definition>ਰੱਦ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1098409-S1" ili="wikidata-pa-L1098409-S1">
+      <Definition>ਬਗ਼ੈਰ, ਸਿਵਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1120473-S1" ili="wikidata-pa-L1120473-S1">
+      <Definition>ਸਲਾਮਤੀ ਨਾਲ, ਬਖ਼ੈਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1138823-S1" ili="wikidata-pa-L1138823-S1">
+      <Definition>ਕਰਨ ਵਾਲਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1198197-S1" ili="wikidata-pa-L1198197-S1">
+      <Definition>ਦੂਏ ਦੇ ਬਾਲ ਨੂੰ ਆਪਣਾ ਬਠਾਉਣਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1217616-S1" ili="wikidata-pa-L1217616-S1">
+      <Definition>ਜੁੜ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1217616-S2" ili="wikidata-pa-L1217616-S2">
+      <Definition>ਕਬਜ਼ੇ ਵਿਚ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1223189-S1" ili="wikidata-pa-L1223189-S1">
+      <Definition>ਕੋਈ ਇੱਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1223189-S2" ili="wikidata-pa-L1223189-S2">
+      <Definition>ਸਾਰੇ, ਕੁਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1234098-S1" ili="wikidata-pa-L1234098-S1">
+      <Definition>ਦਰਮਿਆਨ, ਅੱਧ, ਵਿਚਾਲੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1476586-S1" ili="wikidata-pa-L1476586-S1">
+      <Definition>(ਅਰਬੀ ਨਾਵਾਂ ਦੇ ਵਿੱਚ ਇਸਮ ਤੇ ਸਿਫ਼ਤ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਲੱਗ ਕੇ ਪੈਦਾ ਕਰ ਦੇਂਦਾ ਏ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L672607-S1" ili="wikidata-pa-L672607-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L678938-S1" ili="wikidata-pa-L678938-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L678941-S1" ili="wikidata-pa-L678941-S1">
+      <Definition>ਜੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L678941-S3" ili="wikidata-pa-L678941-S3">
+      <Definition>ਯਾਨੀ, ਮਤਲਬ ਦੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L678941-S4" ili="wikidata-pa-L678941-S4">
+      <Definition>ਵੀ, ਨੀਜ਼, ਹੋਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L678941-S5" ili="wikidata-pa-L678941-S5">
+      <Definition>ਅਚਨਚੇਤ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686000-S1" ili="wikidata-pa-L686000-S1">
+      <Definition>(‘ਜ਼ਰੂਰ’ ਮਾਅਨੇ ਨਾਲ ਹਰਫ਼ ਤਾਕੀਦ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686003-S1" ili="wikidata-pa-L686003-S1">
+      <Definition>(“ਭੀ” ਯਾ “ਹੋਰ” ਲਈ ਅੰਸ਼)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689421-S1" ili="wikidata-pa-L689421-S1">
+      <Definition>ਦੂਜੇ ਪੁਰਖ, ਜਮ੍ਹਾ  ਦੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L734195-S1" ili="wikidata-pa-L734195-S1">
+      <Definition>ਵਲ, ਨੂੰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L740032-S1" ili="wikidata-pa-L740032-S1">
+      <Definition>ਜੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745977-S1" ili="wikidata-pa-L745977-S1">
+      <Definition>ਭੀ, ਸਾਥ, ਪ੍ਰਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749957-S1" ili="wikidata-pa-L749957-S1">
+      <Definition>ਚੰਗਾ, ਠੀਕ ਏ, ਆਹੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749957-S2" ili="wikidata-pa-L749957-S2">
+      <Definition>ਹੈਰਤ ਵਸਤੇ ਬੋਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749957-S3" ili="wikidata-pa-L749957-S3">
+      <Definition>ਹੁੰਗਾਰਾ ਦਿੱਤਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1016930-S1" ili="wikidata-pa-L1016930-S1">
+      <Definition>ਕਿਵੇਂ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1037201-S1" ili="wikidata-pa-L1037201-S1">
+      <Definition>ਨਾਲ, ਮਿਲਿਆ ਹੋ ਕੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1078336-S1" ili="wikidata-pa-L1078336-S1">
+      <Definition>ਤਾਸੁਫ਼ ਦਾ ਕਲਮਾ; ਅਫ਼ਸੋਸ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083321-S1" ili="wikidata-pa-L1083321-S1">
+      <Definition>ਤੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083618-S1" ili="wikidata-pa-L1083618-S1">
+      <Definition>ਨਾਲ, ਦੇ ਨਾਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083618-S2" ili="wikidata-pa-L1083618-S2">
+      <Definition>ਕਿਨਾਰੇ, ਕੰਢੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083618-S3" ili="wikidata-pa-L1083618-S3">
+      <Definition>ਨਜੀਕ, ਨੇੜੇ, ਪਾਸੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083618-S4" ili="wikidata-pa-L1083618-S4">
+      <Definition>ਤਰਫ਼ੋਂ, ਵੱਲੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092047-S1" ili="wikidata-pa-L1092047-S1">
+      <Definition>ਕਿਹੋ ਜਿਹਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092544-S1" ili="wikidata-pa-L1092544-S1">
+      <Definition>ਬਾਬਤ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092544-S2" ili="wikidata-pa-L1092544-S2">
+      <Definition>ਆਖ਼ਿਰਕਾਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092548-S1" ili="wikidata-pa-L1092548-S1">
+      <Definition>ਕਰਨ ਤੋਂ ਮਗਰੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092548-S2" ili="wikidata-pa-L1092548-S2">
+      <Definition>ਵਸੀਲੇ ਤੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092562-S1" ili="wikidata-pa-L1092562-S1">
+      <Definition>ਜਿਹਾ, ਵਾਂਗੂੰ, ਵਰਗਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095535-S1" ili="wikidata-pa-L1095535-S1">
+      <Definition>ਮਿੱਟੀ ਵਿੱਚ ਰਲ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095535-S2" ili="wikidata-pa-L1095535-S2">
+      <Definition>ਖ਼ਤਮ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095551-S1" ili="wikidata-pa-L1095551-S1">
+      <Definition>ਕੋਈ ਗ਼ਲਤੀ ਨਾਲ ਕਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095626-S1" ili="wikidata-pa-L1095626-S1">
+      <Definition>ਕੰਮ ਮੁਕੰਮਲ ਕਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113739-S1" ili="wikidata-pa-L1113739-S1">
+      <Definition>ਧਰ ਜਾਵਣ, ਛੱਡ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116260-S1" ili="wikidata-pa-L1116260-S1">
+      <Definition>ਪੁੰਨ ਕਰ ਛੱਡਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116453-S1" ili="wikidata-pa-L1116453-S1">
+      <Definition>ਬਰਬਾਦ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116483-S1" ili="wikidata-pa-L1116483-S1">
+      <Definition>ਬਰਬਾਦ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1117162-S1" ili="wikidata-pa-L1117162-S1">
+      <Definition>ਜਿਸ ਵੇਲੇ ਤੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1118893-S1" ili="wikidata-pa-L1118893-S1">
+      <Definition>ਖ਼ੋ ਪੈ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1121530-S1" ili="wikidata-pa-L1121530-S1">
+      <Definition>ਜ਼ਿਦ ਤੇ ਪੱਕਿਆਂ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1121530-S2" ili="wikidata-pa-L1121530-S2">
+      <Definition>ਫਸ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1129661-S1" ili="wikidata-pa-L1129661-S1">
+      <Definition>ਹਾਸਲ ਕਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1130029-S1" ili="wikidata-pa-L1130029-S1">
+      <Definition>ਪੱਕੇ ਕਰ ਕੇ ਸਵਾਲ ਪੁੱਛਣ ਵਾਲਾ ਬੋਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150558-S1" ili="wikidata-pa-L1150558-S1">
+      <Definition>ਅਚਨਚੇਤੀ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150558-S2" ili="wikidata-pa-L1150558-S2">
+      <Definition>ਨਿਝਕ ਹੋ ਕੇ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150558-S3" ili="wikidata-pa-L1150558-S3">
+      <Definition>ਬਿੰਨਾਂ ਸੱਦਿਓਂ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151387-S1" ili="wikidata-pa-L1151387-S1">
+      <Definition>ਅਪੜ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151387-S2" ili="wikidata-pa-L1151387-S2">
+      <Definition>ਪਹੁੰਚ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151387-S3" ili="wikidata-pa-L1151387-S3">
+      <Definition>ਮੁਹਾਰਤ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151387-S4" ili="wikidata-pa-L1151387-S4">
+      <Definition>ਰੀਝ ਪੈਣ, ਭਾ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1152172-S1" ili="wikidata-pa-L1152172-S1">
+      <Definition>ਤਿਆਰ ਕਰ ਰੱਖਣਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1152174-S1" ili="wikidata-pa-L1152174-S1">
+      <Definition>ਕੋਈ ਕੰਮ ਤਿਆਰ ਕਰ ਛੱਡਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1161647-S1" ili="wikidata-pa-L1161647-S1">
+      <Definition>(“ਅਸੀਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163568-S1" ili="wikidata-pa-L1163568-S1">
+      <Definition>ਕੰਮ ਬਣਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163568-S2" ili="wikidata-pa-L1163568-S2">
+      <Definition>ਕੰਮ ਠੀਕ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163568-S3" ili="wikidata-pa-L1163568-S3">
+      <Definition>ਮੁਰਾਦ ਪੂਰੀ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163568-S4" ili="wikidata-pa-L1163568-S4">
+      <Definition>ਕਿਸਮਤ ਖੁੱਲ੍ਹਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1196746-S1" ili="wikidata-pa-L1196746-S1">
+      <Definition>ਕੋ, ਕੋਲ, ਦੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1197290-S1" ili="wikidata-pa-L1197290-S1">
+      <Definition>ਆਪਣੇ ਨਾਲ ਦੂਏ ਨੂੰ ਬੀ ਬਰਬਾਦ ਕਰਨਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1217094-S1" ili="wikidata-pa-L1217094-S1">
+      <Definition>ਅਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1217094-S2" ili="wikidata-pa-L1217094-S2">
+      <Definition>ਹੋਰ, ਨਾਲੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218020-S1" ili="wikidata-pa-L1218020-S1">
+      <Definition>ਨੋਸ਼ ਕਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218020-S2" ili="wikidata-pa-L1218020-S2">
+      <Definition>ਬਰਦਾਸ਼ਤ ਕਰਨ, ਸਬਰ ਕਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218020-S3" ili="wikidata-pa-L1218020-S3">
+      <Definition>ਕਿਸੇ ਦੀ ਅਮਾਨਤ ਨੂੰ ਹਜ਼ਮ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1227903-S1" ili="wikidata-pa-L1227903-S1">
+      <Definition>ਉਚਾਈ ਤੇ, ਬੁਲੰਦੀ ਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1227903-S2" ili="wikidata-pa-L1227903-S2">
+      <Definition>ਕਿਸੇ ਸਵਾਰੀ ਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1227903-S3" ili="wikidata-pa-L1227903-S3">
+      <Definition>ਬਾਲਾ ਬਾਲਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L680117-S1" ili="wikidata-pa-L680117-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684363-S1" ili="wikidata-pa-L684363-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686328-S1" ili="wikidata-pa-L686328-S1">
+      <Definition>ਇਕੋ ਵਾਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689419-S1" ili="wikidata-pa-L689419-S1">
+      <Definition>ਪਹਿਲੇ ਪੁਰਖ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689420-S1" ili="wikidata-pa-L689420-S1">
+      <Definition>ਦੂਜੇ ਪੁਰਖ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689430-S1" ili="wikidata-pa-L689430-S1">
+      <Definition>ਬਾਵਜੂਦ ਉਸ ਦੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L701730-S1" ili="wikidata-pa-L701730-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L709035-S1" ili="wikidata-pa-L709035-S1">
+      <Definition>ਜਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L942762-S1" ili="wikidata-pa-L942762-S1">
+      <Definition>ਦੂਜੇ ਪੁਰਖ, ਜਮ੍ਹਾ ਨਿੱਜੀ ਪੜਨਾਂਵ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083607-S1" ili="wikidata-pa-L1083607-S1">
+      <Definition>ਤੀਕਰ, ਤੋੜੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1090416-S1" ili="wikidata-pa-L1090416-S1">
+      <Definition>ਖ਼ਤਮ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1090416-S2" ili="wikidata-pa-L1090416-S2">
+      <Definition>ਆਸ਼ਿਕ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1091482-S1" ili="wikidata-pa-L1091482-S1">
+      <Definition>ਯਾਂ, ਯਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1091482-S2" ili="wikidata-pa-L1091482-S2">
+      <Definition>ਫਿਰ, ਮੁੜ, ਭਾਵੇਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1091483-S1" ili="wikidata-pa-L1091483-S1">
+      <Definition>ਜਦੋਂ, ਜਦ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095550-S1" ili="wikidata-pa-L1095550-S1">
+      <Definition>ਕੋਈ ਗ਼ਲਤੀ ਨਾਲ ਕਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095643-S1" ili="wikidata-pa-L1095643-S1">
+      <Definition>ਆਜ਼ਮਾ ਵੇਖਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095643-S2" ili="wikidata-pa-L1095643-S2">
+      <Definition>ਨਾਮੁਮਕਿਨ ਕੰਮ ਦੱਸ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1129654-S1" ili="wikidata-pa-L1129654-S1">
+      <Definition>ਕੱਲ ਕਲਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1129657-S1" ili="wikidata-pa-L1129657-S1">
+      <Definition>ਕੋਈ ਚੀਜ਼ ਹਾਸਲ ਕਰ ਕੇ ਕਿੱਸੇ ਨੂੰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1136305-S1" ili="wikidata-pa-L1136305-S1">
+      <Definition>ਕੋਲ, ਨੇੜੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1152741-S1" ili="wikidata-pa-L1152741-S1">
+      <Definition>ਅੱਖਾਂ ਵਿੱਚ ਅੱਥਰੂ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1152741-S2" ili="wikidata-pa-L1152741-S2">
+      <Definition>ਤਰਸ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1152741-S3" ili="wikidata-pa-L1152741-S3">
+      <Definition>ਰਹਿਮ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1153032-S1" ili="wikidata-pa-L1153032-S1">
+      <Definition>ਸਹਾਰਾ ਲੈਣ, ਆ ਥੁੰਮਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1162074-S1" ili="wikidata-pa-L1162074-S1">
+      <Definition>ਜਿਸ ਥਾਂ, ਜਿੱਥੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188251-S1" ili="wikidata-pa-L1188251-S1">
+      <Definition>ਹੋ ਜਾਵਣ, ਪੂਰਾ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188251-S2" ili="wikidata-pa-L1188251-S2">
+      <Definition>ਕਿਸੇ ਇੱਕ ਰਸਤੇ ਤੇ ਟੁਰ ਪੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188251-S3" ili="wikidata-pa-L1188251-S3">
+      <Definition>ਕਿਸੇ ਇੱਕ ਦਾ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188251-S4" ili="wikidata-pa-L1188251-S4">
+      <Definition>ਨਾਲ ਟੁਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1197131-S1" ili="wikidata-pa-L1197131-S1">
+      <Definition>ਅਨੋਖੀ ਗੱਲ ਕਹਿਣ ਲੱਗ ਪੈਣਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1197169-S1" ili="wikidata-pa-L1197169-S1">
+      <Definition>ਲੈ ਕੇ ਸਾਂਭ ਰੱਖਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218019-S1" ili="wikidata-pa-L1218019-S1">
+      <Definition>ਚੜ੍ਹਾ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218019-S2" ili="wikidata-pa-L1218019-S2">
+      <Definition>ਜਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1222954-S1" ili="wikidata-pa-L1222954-S1">
+      <Definition>(ਕਲਮਾ-ਏ-ਤਾਅਸੁਫ਼ ਦੇ ਬਤੌਰ) ਦੁੱਖ, ਰੰਜ, ਹੈਰਤ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1224922-S1" ili="wikidata-pa-L1224922-S1">
+      <Definition>ਦੇ ਮੂਹਰੇ, ਨਾਲੋਂ ਪਹਿਲਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1234103-S1" ili="wikidata-pa-L1234103-S1">
+      <Definition>ਥੱਲੇ, ਨੀਚੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1234103-S2" ili="wikidata-pa-L1234103-S2">
+      <Definition>ਨੀਵੇਂ ਪਾਸੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679201-S1" ili="wikidata-pa-L679201-S1">
+      <Definition>(ਹਰਫ਼-ਏ-ਇਜ਼ਾਫ਼ਤ); ਕਾ, ਜੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679424-S1" ili="wikidata-pa-L679424-S1">
+      <Definition>ਦੂਜੇ ਪੁਰਖ ਦਾ ਪੜਨਾਂਵ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679728-S1" ili="wikidata-pa-L679728-S1">
+      <Definition>ਅੰਦਰ, ਵਿਚਾਲ਼ੇ, ਦਰਮਿਆਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679728-S2" ili="wikidata-pa-L679728-S2">
+      <Definition>ਅੰਦਰੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679728-S3" ili="wikidata-pa-L679728-S3">
+      <Definition>ਦਿਲੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679729-S1" ili="wikidata-pa-L679729-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L679729-S2" ili="wikidata-pa-L679729-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684361-S1" ili="wikidata-pa-L684361-S1">
+      <Definition>ਕਿਸੇ ਵੇਲ਼ੇ?</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686223-S1" ili="wikidata-pa-L686223-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686358-S1" ili="wikidata-pa-L686358-S1">
+      <Definition>ਕਿਹੜੇ ਬੰਦੇ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686384-S1" ili="wikidata-pa-L686384-S1">
+      <Definition>ਕੌਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686388-S1" ili="wikidata-pa-L686388-S1">
+      <Definition>ਕਿਛ, ਥੋੜਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689404-S1" ili="wikidata-pa-L689404-S1">
+      <Definition>ਹਾਂ ਕਰਨ ਦਾ ਭਾਵ, ਹਾਮੀ, ਹੰਘੂਰਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689431-S1" ili="wikidata-pa-L689431-S1">
+      <Definition>ਲੇਕਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L712901-S1" ili="wikidata-pa-L712901-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722030-S1" ili="wikidata-pa-L722030-S1">
+      <Definition>ਬਿਨਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722030-S2" ili="wikidata-pa-L722030-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722030-S3" ili="wikidata-pa-L722030-S3">
+      <Definition>ਪਰ ਲਈ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722062-S1" ili="wikidata-pa-L722062-S1">
+      <Definition>ਰੱਬ ਰਾਖਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L723882-S1" ili="wikidata-pa-L723882-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L728507-S1" ili="wikidata-pa-L728507-S1">
+      <Definition>ਉਰਦੂ ਤੋਂ “ਅਤੇ” ਲਈ ਮਧੇਤਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L738454-S1" ili="wikidata-pa-L738454-S1">
+      <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ, ਮੈਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L738454-S2" ili="wikidata-pa-L738454-S2">
+      <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਆਪਣਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L738454-S3" ili="wikidata-pa-L738454-S3">
+      <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਆਪਣੇ ਆਪ ਵੱਲ ਬਾਰੇ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਮੈਨੂੰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L738454-S4" ili="wikidata-pa-L738454-S4">
+      <Definition>ਪੁਰਾਣੀ ਪੰਜਾਬੀ ਦਾ ਪਹਿਲਾ ਪੁਰਖ ਇੱਕ ਵਚਨ ਪੜਨਾਂਵ ਕਬਜ਼ੇ ਨੂੰ ਚਿੰਨ੍ਹ ਦਿੱਤਾ, ਮੇਰਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L943569-S1" ili="wikidata-pa-L943569-S1">
+      <Definition>ਉਹ, ਇਹ, ਜੈਸਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1081520-S1" ili="wikidata-pa-L1081520-S1">
+      <Definition>ਵੱਲੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1081520-S2" ili="wikidata-pa-L1081520-S2">
+      <Definition>ਤੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083608-S1" ili="wikidata-pa-L1083608-S1">
+      <Definition>ਬਗ਼ੈਰ, ਬਿਨਾ, ਅਲਾਵਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1089242-S1" ili="wikidata-pa-L1089242-S1">
+      <Definition>ਦਾ, ਨਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093186-S1" ili="wikidata-pa-L1093186-S1">
+      <Definition>ਮਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093550-S1" ili="wikidata-pa-L1093550-S1">
+      <Definition>ਰਵਾਂ ਰਵੇਂ ਵਿੱਚ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093550-S2" ili="wikidata-pa-L1093550-S2">
+      <Definition>ਹੀਲੇ ਬਹਾਨੇ ਨਾਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095270-S1" ili="wikidata-pa-L1095270-S1">
+      <Definition>ਹੋਰ ਵੀ, ਨਾਲੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095270-S2" ili="wikidata-pa-L1095270-S2">
+      <Definition>ਬਹੁਤਾ, ਜ਼ਿਆਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095899-S1" ili="wikidata-pa-L1095899-S1">
+      <Definition>ਜਾ ਅਪੜਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1098840-S1" ili="wikidata-pa-L1098840-S1">
+      <Definition>ਨੀਂਦਰੇ ਪੈ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1098840-S2" ili="wikidata-pa-L1098840-S2">
+      <Definition>ਬੇਹਰਕਤ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1098840-S3" ili="wikidata-pa-L1098840-S3">
+      <Definition>ਚੁੱਪ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115558-S1" ili="wikidata-pa-L1115558-S1">
+      <Definition>ਨਾਲ ਲੈ ਟੁਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116264-S1" ili="wikidata-pa-L1116264-S1">
+      <Definition>ਪਿੱਛਾਂਹ ਹੱਟ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116480-S1" ili="wikidata-pa-L1116480-S1">
+      <Definition>ਹਮਲਾ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151539-S1" ili="wikidata-pa-L1151539-S1">
+      <Definition>ਕਾਬੂ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151546-S1" ili="wikidata-pa-L1151546-S1">
+      <Definition>ਉੱਤੋਂ ਆ ਨੱਪਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1179227-S1" ili="wikidata-pa-L1179227-S1">
+      <Definition>ਬਹੁਤ ਅਮੀਰ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1179227-S2" ili="wikidata-pa-L1179227-S2">
+      <Definition>ਸੱਜ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1179227-S3" ili="wikidata-pa-L1179227-S3">
+      <Definition>ਜ਼ਾਇਕਾ ਦਰੁਸਤ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1179227-S4" ili="wikidata-pa-L1179227-S4">
+      <Definition>ਮੁਸੀਬਤ ਪੈ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1179227-S5" ili="wikidata-pa-L1179227-S5">
+      <Definition>ਮੁਕੰਮਲ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1224923-S1" ili="wikidata-pa-L1224923-S1">
+      <Definition>ਪਰੇ ਹੱਦੋਂ ਬਾਹਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L680188-S1" ili="wikidata-pa-L680188-S1">
+      <Definition>ਸਮੇਤ, ਸੰਗ, ਦਾ ਸਾਥ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L680188-S3" ili="wikidata-pa-L680188-S3">
+      <Definition>ਕੋਲ, ਪਾਸ, ਨੇੜੇ ਈ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L680188-S4" ili="wikidata-pa-L680188-S4">
+      <Definition>ਲਾਗੇ, ਕਰਕੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684362-S1" ili="wikidata-pa-L684362-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686359-S1" ili="wikidata-pa-L686359-S1">
+      <Definition>ਜੇਹੜਾ, ਜਿਸ ਨੂੰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686370-S1" ili="wikidata-pa-L686370-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686694-S1" ili="wikidata-pa-L686694-S1">
+      <Definition>ਕੋ, ਕੋਲ, ਦੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L687895-S1" ili="wikidata-pa-L687895-S1">
+      <Definition>ਵਧੇਰਾ, ਸਗੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L691511-S1" ili="wikidata-pa-L691511-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L712120-S1" ili="wikidata-pa-L712120-S1">
+      <Definition>ਵਾਸਤੇ, ਖ਼ਾਤਰ, ਕਰਕੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L723883-S1" ili="wikidata-pa-L723883-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749165-S1" ili="wikidata-pa-L749165-S1">
+      <Definition>ਅਤੇ, ਤੇ, ਔਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1073135-S1" ili="wikidata-pa-L1073135-S1">
+      <Definition>ਹਮਾਰਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1073135-S2" ili="wikidata-pa-L1073135-S2">
+      <Definition>ਨੇੜੇ ਨੇੜੇ, ਕੋਲ ਕੋਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083611-S1" ili="wikidata-pa-L1083611-S1">
+      <Definition>ਕਾਨ, ਲਈ, ਵਾਸਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083611-S2" ili="wikidata-pa-L1083611-S2">
+      <Definition>ਦੇ ਕੋਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083615-S1" ili="wikidata-pa-L1083615-S1">
+      <Definition>ਨੇੜੇ, ਲਾਗੇ, ਕਨਾਰੇ ਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083617-S1" ili="wikidata-pa-L1083617-S1">
+      <Definition>ਉੱਪਰ, ਉੱਤੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093762-S1" ili="wikidata-pa-L1093762-S1">
+      <Definition>ਦੇ ਪਾਸੇ, ਪਰਨੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093762-S2" ili="wikidata-pa-L1093762-S2">
+      <Definition>ਦੀ ਤਰਫ਼, ਦੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093762-S3" ili="wikidata-pa-L1093762-S3">
+      <Definition>ਮੁੜ ਕੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095647-S1" ili="wikidata-pa-L1095647-S1">
+      <Definition>ਜਾ ਪਹੁੰਚਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095648-S1" ili="wikidata-pa-L1095648-S1">
+      <Definition>ਅਪੜ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097087-S1" ili="wikidata-pa-L1097087-S1">
+      <Definition>ਤਿਆਰ ਕਰ ਬਹਿਣ, ਗ਼ਲਤੀ ਨਾਲ ਬਣਾ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097334-S1" ili="wikidata-pa-L1097334-S1">
+      <Definition>ਚਲਾਣਾ ਕਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097334-S2" ili="wikidata-pa-L1097334-S2">
+      <Definition>ਮਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113740-S1" ili="wikidata-pa-L1113740-S1">
+      <Definition>ਧਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113740-S2" ili="wikidata-pa-L1113740-S2">
+      <Definition>ਬਚਾ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113740-S3" ili="wikidata-pa-L1113740-S3">
+      <Definition>ਰੋਕ ਲੈਣ, ਠਹਿਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113740-S4" ili="wikidata-pa-L1113740-S4">
+      <Definition>ਢਾ ਲੈਣ, ਮਗ਼ਲੂਬ ਕਰ ਲੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1121704-S1" ili="wikidata-pa-L1121704-S1">
+      <Definition>ਡਰ ਜਾਵਣ, ਕੰਬ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150273-S1" ili="wikidata-pa-L1150273-S1">
+      <Definition>ਖੜਿਆਂ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150273-S2" ili="wikidata-pa-L1150273-S2">
+      <Definition>ਬਗ਼ਾਵਤ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1150273-S3" ili="wikidata-pa-L1150273-S3">
+      <Definition>ਸਿਹਤ ਹਾਸਲ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188248-S1" ili="wikidata-pa-L1188248-S1">
+      <Definition>ਕਿੱਤੇ ਜਾ ਕੇ ਪਰਤ ਆਉਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1212008-S1" ili="wikidata-pa-L1212008-S1">
+      <Definition>ਅੱਲਾਹ ਕਰੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1217608-S1" ili="wikidata-pa-L1217608-S1">
+      <Definition>(ਫ਼ਿਅਲ ਤੋਂ ਜ਼ਿੱਦ ਬਣਾਉਂਦਾ, ਮਸਲਨ “ਨਾ ਮਿਲਨ” ਪਰ “ਨਹੀਂ ਮਿਲਦਾ”)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218469-S1" ili="wikidata-pa-L1218469-S1">
+      <Definition>ਉੱਤੇ, ਉੱਪਰ, ਉੱਚਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218469-S2" ili="wikidata-pa-L1218469-S2">
+      <Definition>ਨੂੰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1218469-S3" ili="wikidata-pa-L1218469-S3">
+      <Definition>ਵਿਚ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1223551-S1" ili="wikidata-pa-L1223551-S1">
+      <Definition>ਗਿਰਦੇ, ਚੁਫੇਰੇ, ਆਸੇ ਪਾਸੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L640385-S1" ili="wikidata-pa-L640385-S1">
+      <Definition>ਭੀਤਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684198-S1" ili="wikidata-pa-L684198-S1">
+      <Definition>ਵੱਲੋਂ, ਕੋਲੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684201-S1" ili="wikidata-pa-L684201-S1">
+      <Definition>ਕੇਹੜਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684360-S1" ili="wikidata-pa-L684360-S1">
+      <Definition>ਕਿਸ ਤਰ੍ਹਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684373-S1" ili="wikidata-pa-L684373-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686379-S1" ili="wikidata-pa-L686379-S1">
+      <Definition>ਆਪੋ ਆਪਣਾ, ਜ਼ਾਤੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686379-S2" ili="wikidata-pa-L686379-S2">
+      <Definition>ਵੱਖਰਾ ਵੱਖਰਾ, ਅੱਡੋ ਅੱਡ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L700902-S1" ili="wikidata-pa-L700902-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L702293-S1" ili="wikidata-pa-L702293-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L713773-S1" ili="wikidata-pa-L713773-S1">
+      <Definition>ਹੇ! ਰੇ! ਓ!</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L723613-S1" ili="wikidata-pa-L723613-S1">
+      <Definition>ਇਜ਼ਾਫ਼ੇ ਬਣਾਉਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L740031-S1" ili="wikidata-pa-L740031-S1">
+      <Definition>ਅਗਰ, ਜੇਕਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L742024-S1" ili="wikidata-pa-L742024-S1">
+      <Definition>(“ਮੈਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745909-S1" ili="wikidata-pa-L745909-S1">
+      <Definition>ਨਾਲ, ਸਾਥ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745909-S2" ili="wikidata-pa-L745909-S2">
+      <Definition>ਵਾਲਾ, ਸਾਹਿਬ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745909-S3" ili="wikidata-pa-L745909-S3">
+      <Definition>ਭਾਵੇਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745909-S4" ili="wikidata-pa-L745909-S4">
+      <Definition>ਮੁਤਾਬਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745976-S1" ili="wikidata-pa-L745976-S1">
+      <Definition>ਪਰ, ਮਗਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L747223-S1" ili="wikidata-pa-L747223-S1">
+      <Definition>ਦਾ, ਨਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749146-S1" ili="wikidata-pa-L749146-S1">
+      <Definition>(“ਭਲਾ” ਅੰਸ਼ ਨਾਲ ਹੋਰ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749146-S2" ili="wikidata-pa-L749146-S2">
+      <Definition>(ਫ਼ਿਅਲ ਅਮਰ ਨੂੰ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1038794-S1" ili="wikidata-pa-L1038794-S1">
+      <Definition>ਹਾਈ, ਖ਼ੁਦਾ!</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083609-S1" ili="wikidata-pa-L1083609-S1">
+      <Definition>ਲਾਗੇ, ਨੇੜੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083609-S2" ili="wikidata-pa-L1083609-S2">
+      <Definition>ਵੱਸ ਵਿਚ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1091957-S1" ili="wikidata-pa-L1091957-S1">
+      <Definition>ਵਾਨ, ਵੰਤ, ਕਾਜ ਦਾ ਕਰਤਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1093547-S1" ili="wikidata-pa-L1093547-S1">
+      <Definition>ਤੰਨੂੰ ਮੰਨੂੰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095544-S1" ili="wikidata-pa-L1095544-S1">
+      <Definition>ਖ਼ਤਮ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095547-S1" ili="wikidata-pa-L1095547-S1">
+      <Definition>ਖ਼ਤਮ ਹੋ ਵੰਞਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095552-S1" ili="wikidata-pa-L1095552-S1">
+      <Definition>ਕੋਈ ਕੰਮ ਕਰ ਕੇ ਟੁਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095630-S1" ili="wikidata-pa-L1095630-S1">
+      <Definition>ਕੋਈ ਕੰਮ ਮੁਕੰਮਲ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095630-S2" ili="wikidata-pa-L1095630-S2">
+      <Definition>ਵਿਆਹ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095630-S3" ili="wikidata-pa-L1095630-S3">
+      <Definition>ਅਮਲ ਕਰਾਉਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1101191-S1" ili="wikidata-pa-L1101191-S1">
+      <Definition>ਗੰਦੀ ਹਵਾ ਖ਼ਾਰਿਜ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1101191-S2" ili="wikidata-pa-L1101191-S2">
+      <Definition>ਬੇ ਸ਼ਰਮੀ ਬੋਲਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115562-S1" ili="wikidata-pa-L1115562-S1">
+      <Definition>ਉਧਾਲਾ ਕਰਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115562-S2" ili="wikidata-pa-L1115562-S2">
+      <Definition>ਮਸ਼ਹੂਰ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115562-S3" ili="wikidata-pa-L1115562-S3">
+      <Definition>ਨਕਲ ਲਾਹੁਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1120847-S1" ili="wikidata-pa-L1120847-S1">
+      <Definition>ਚੁੱਪ ਕੀਤੇ ਖਲੇ ਰਹਿਣਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1143150-S1" ili="wikidata-pa-L1143150-S1">
+      <Definition>ਦੀ ਪਾਰੋਂ, ਵੱਜਾ ਨਾਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1153023-S1" ili="wikidata-pa-L1153023-S1">
+      <Definition>ਰੱਜ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1153023-S2" ili="wikidata-pa-L1153023-S2">
+      <Definition>ਅੱਕ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1153023-S3" ili="wikidata-pa-L1153023-S3">
+      <Definition>ਬੇਜ਼ਾਰ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1161648-S1" ili="wikidata-pa-L1161648-S1">
+      <Definition>(“ਤੂੰ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188148-S1" ili="wikidata-pa-L1188148-S1">
+      <Definition>ਕੰਮ ਬਣ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188148-S2" ili="wikidata-pa-L1188148-S2">
+      <Definition>ਫੇਰਾ ਮਾਰ ਜਾਵਣ, ਆ ਕੇ ਚਲਾ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188148-S3" ili="wikidata-pa-L1188148-S3">
+      <Definition>ਸਿਰ ਚੜ੍ਹ ਜਾਵਣ, ਜ਼ੰਮੇ ਚੜ੍ਹਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1188148-S4" ili="wikidata-pa-L1188148-S4">
+      <Definition>ਮੁੱਕ ਜਾਵਣ, ਕੰਮ ਪੂਰਾ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1197289-S1" ili="wikidata-pa-L1197289-S1">
+      <Definition>ਆਪਣੇ ਨਾਲ ਦੂਏ ਨੂੰ ਬੀ ਬਰਬਾਦ ਕਰਨਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1224924-S1" ili="wikidata-pa-L1224924-S1">
+      <Definition>ਜ਼ਮਾਨੇ ਤੋਂ ਪਿੱਛੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1226434-S1" ili="wikidata-pa-L1226434-S1">
+      <Definition>ਏਦਾਂ ਦਾ, ਇਸ ਤਰ੍ਹਾਂ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1226434-S2" ili="wikidata-pa-L1226434-S2">
+      <Definition>ਇਸ ਸ਼ਕਲ ਸੂਰਤ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1227143-S1" ili="wikidata-pa-L1227143-S1">
+      <Definition>(ਕਲਮਾ-ਏ-ਹੈਰਤ) ਖ਼ੁਦਾ ਤੋਂ ਸਿਵਾ ਕਿਸੇ ਨੂੰ ਤਾਕਤ ਹਾਸਲ ਨਹੀਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L672613-S1" ili="wikidata-pa-L672613-S1">
+      <Definition>ਇਥੇ ਕੁਝ ਮੱਦ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684195-S1" ili="wikidata-pa-L684195-S1">
+      <Definition>ਕਿਆ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L684197-S1" ili="wikidata-pa-L684197-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686360-S1" ili="wikidata-pa-L686360-S1">
+      <Definition>ਕਿਧਰ, ਕਿਸ ਪਾਸੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686368-S1" ili="wikidata-pa-L686368-S1">
+      <Definition>ਕੁਝ ਲੋਕਾਂ ਵਿਚੋਂ ਇਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686368-S2" ili="wikidata-pa-L686368-S2">
+      <Definition>ਬਹੁਤਿਆਂ ਵਿਚੋਂ ਇਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686368-S3" ili="wikidata-pa-L686368-S3">
+      <Definition>ਕੁਝ ਵਿਰਲਾ ਇਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686368-S4" ili="wikidata-pa-L686368-S4">
+      <Definition>ਕੁਝ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686369-S1" ili="wikidata-pa-L686369-S1">
+      <Definition>ਇਸ ਲਈ ਜੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686378-S1" ili="wikidata-pa-L686378-S1">
+      <Definition>ਸ੍ਵੈ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686378-S2" ili="wikidata-pa-L686378-S2">
+      <Definition>ਸਾਥੀ, ਅੰਗ ਸਾਕ, ਦੋਸਤ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686378-S3" ili="wikidata-pa-L686378-S3">
+      <Definition>ਘਰੋਕਾ, ਘਰੇਲੂ, ਘਰ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686410-S1" ili="wikidata-pa-L686410-S1">
+      <Definition>ਪਹਿਲਾ ਪੁਰਖ, ਜਮ੍ਹਾ ਪੜਨਾਂਵ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686410-S2" ili="wikidata-pa-L686410-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686535-S1" ili="wikidata-pa-L686535-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689422-S1" ili="wikidata-pa-L689422-S1">
+      <Definition>ਇਸ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689432-S1" ili="wikidata-pa-L689432-S1">
+      <Definition>ਜਿਹੜਾ ਕਿਹੜਾ, ਕੁਝ ਇਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689432-S2" ili="wikidata-pa-L689432-S2">
+      <Definition>ਕੁਝ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689432-S3" ili="wikidata-pa-L689432-S3">
+      <Definition>ਇਕ ਕੁਝ ਖ਼ਾਸ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L692298-S1" ili="wikidata-pa-L692298-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L701675-S1" ili="wikidata-pa-L701675-S1">
+      <Definition>ਹੇ! (ਔਰਤਾਂ ਤੋਂ ਮਰਦਾਂ ਨੂੰ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L718506-S1" ili="wikidata-pa-L718506-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722752-S1" ili="wikidata-pa-L722752-S1">
+      <Definition>ਕੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L740291-S1" ili="wikidata-pa-L740291-S1">
+      <Definition>(ਲੇਟ ਲਕਾਰ ਦਾ ਹਰਫ਼)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L741123-S1" ili="wikidata-pa-L741123-S1">
+      <Definition>ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745974-S1" ili="wikidata-pa-L745974-S1">
+      <Definition>ਚਾਹੇ, ਭਾਵੇਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749144-S1" ili="wikidata-pa-L749144-S1">
+      <Definition>(ਜ਼ੋਰ ਦੇਣ ਦਾ ਅੰਸ਼)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L749144-S2" ili="wikidata-pa-L749144-S2">
+      <Definition>(“ਹੀ” ~ “ਈ” ਅੰਸ਼ ਨਾਲ ਇਹਨਾਂ ਜ਼ੋਰ ਦੇ ਹਿੱਸੇ ਤੋਂ ਹੋਰ ਛੋਟੀ ਜ਼ੋਰ ਦਿੰਦਾ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1045824-S1" ili="wikidata-pa-L1045824-S1">
+      <Definition>ਓਏ ਯਾਰ!</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083620-S1" ili="wikidata-pa-L1083620-S1">
+      <Definition>ਬਗ਼ੈਰ, ਬਿਨਾ, ਬਾਝੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083733-S1" ili="wikidata-pa-L1083733-S1">
+      <Definition>(ਦੇ) ਕੋਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1092777-S1" ili="wikidata-pa-L1092777-S1">
+      <Definition>ਵਿੱਚ, ਅੰਦਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095628-S1" ili="wikidata-pa-L1095628-S1">
+      <Definition>ਕੰਮ ਨੂੰ ਕਰ ਕੇ ਛੱਡਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095628-S2" ili="wikidata-pa-L1095628-S2">
+      <Definition>ਅਣਹੋਣੀ ਗੱਲ ਕਰ ਬੈਠਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095628-S3" ili="wikidata-pa-L1095628-S3">
+      <Definition>ਬਿਨਾਂ ਸੋਚੇ ਸਮਝੇ ਕੋਈ ਕੰਮ ਕਰ ਬਹਿਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095937-S1" ili="wikidata-pa-L1095937-S1">
+      <Definition>ਕਿਤੇ ਜਾ ਕੇ ਕਾਬੂ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1095937-S2" ili="wikidata-pa-L1095937-S2">
+      <Definition>ਧੋਖੇ ਵਿੱਚ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097308-S1" ili="wikidata-pa-L1097308-S1">
+      <Definition>ਚਲਾ ਜਾਵਣ, ਲੰਘ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097308-S2" ili="wikidata-pa-L1097308-S2">
+      <Definition>ਬੀਤ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1097308-S3" ili="wikidata-pa-L1097308-S3">
+      <Definition>ਮਰ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113742-S1" ili="wikidata-pa-L1113742-S1">
+      <Definition>ਧਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113746-S1" ili="wikidata-pa-L1113746-S1">
+      <Definition>ਧਰ ਛੱਡਣ, ਸਾਂਭ ਛੱਡਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113760-S1" ili="wikidata-pa-L1113760-S1">
+      <Definition>ਨੋਸ਼ ਕਰ ਦੇਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1113760-S2" ili="wikidata-pa-L1113760-S2">
+      <Definition>ਨੋਸ਼ ਕਰ ਦੇਈਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1124995-S1" ili="wikidata-pa-L1124995-S1">
+      <Definition>ਯਾਂ, ਜਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1129659-S1" ili="wikidata-pa-L1129659-S1">
+      <Definition>ਸ਼ਾਮਲ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1129662-S1" ili="wikidata-pa-L1129662-S1">
+      <Definition>ਦੇ ਛੱਡਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1130026-S1" ili="wikidata-pa-L1130026-S1">
+      <Definition>ਹੈ ਨਾ, ਹੈਗੇ ਆ, ਠੀਕ ਏ ਨਾ?</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151541-S1" ili="wikidata-pa-L1151541-S1">
+      <Definition>ਨੇੜੇ ਉੱਪਰ ਪੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151541-S2" ili="wikidata-pa-L1151541-S2">
+      <Definition>ਤਾਕ ਵਿਚ ਰਹਿਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151683-S1" ili="wikidata-pa-L1151683-S1">
+      <Definition>ਆ ਕੇ ਕਿਸੇ ਨੂੰ ਯਕਦਮ ਪੈ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151683-S2" ili="wikidata-pa-L1151683-S2">
+      <Definition>ਮਸੀਬਤ ਪੈ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151683-S3" ili="wikidata-pa-L1151683-S3">
+      <Definition>ਅਚਾਨਕ ਕਿਸੇ ਆਫ਼ਤ ਦਾ ਆ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151683-S4" ili="wikidata-pa-L1151683-S4">
+      <Definition>ਢੈ ਪੈਣ, ਡਿੱਗ ਪੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151769-S1" ili="wikidata-pa-L1151769-S1">
+      <Definition>ਔਖ ਆਉਣ, ਮੁਸ਼ਕਲ ਬਣਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151769-S2" ili="wikidata-pa-L1151769-S2">
+      <Definition>ਮਸੀਬਤ ਪੈ ਜਾਵਣ, ਬਿਪਤਾ ਵਿੱਚ ਫਸਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1224925-S1" ili="wikidata-pa-L1224925-S1">
+      <Definition>ਦੇ ਬਗ਼ੈਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1234394-S1" ili="wikidata-pa-L1234394-S1">
+      <Definition>ਫੇਰ, ਤਾਂ, ਮੁੜ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686366-S1" ili="wikidata-pa-L686366-S1">
+      <Definition>ਪਹਿਲੇ ਪੁਰਖ, ਵਾਹਿਦ ਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L686605-S1" ili="wikidata-pa-L686605-S1">
+      <Definition>ਤੀਜਾ ਪੁਰਖ ਵਿਚ ਮੱਦ ਨਹੀਂ ਨੇੜੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689423-S1" ili="wikidata-pa-L689423-S1">
+      <Definition>ਉਸ ਕਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L689429-S1" ili="wikidata-pa-L689429-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L706251-S1" ili="wikidata-pa-L706251-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L722043-S1" ili="wikidata-pa-L722043-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L740019-S1" ili="wikidata-pa-L740019-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L740030-S1" ili="wikidata-pa-L740030-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L742011-S1" ili="wikidata-pa-L742011-S1">
+      <Definition>(ਸੁਤੰਤਰਤਾ ਕਿਰਦੰਤਕ ਦੇ ਲਹਿਕੇ ਦਾ ਅੱਖਰ)</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L742594-S1" ili="wikidata-pa-L742594-S1">
+      <Definition>ਅਤੇ ਨਹੀਂ ਹੈ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L744380-S1" ili="wikidata-pa-L744380-S1">
+      <Definition>ਨਹੀਂ ਏ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745973-S1" ili="wikidata-pa-L745973-S1">
+      <Definition>ਤਕ, ਤੀਕਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745973-S2" ili="wikidata-pa-L745973-S2">
+      <Definition>ਜੇਕਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745973-S3" ili="wikidata-pa-L745973-S3">
+      <Definition>ਜਿੱਥੋਂ ਤੀਕਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745973-S4" ili="wikidata-pa-L745973-S4">
+      <Definition>ਤਦ, ਤਦੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L745973-S5" ili="wikidata-pa-L745973-S5">
+      <Definition>ਆਖ਼ਰ ਤਾਈਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L907753-S1" ili="wikidata-pa-L907753-S1">
+      <Definition>ਅੜੀਏ, ਨੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1017659-S1" ili="wikidata-pa-L1017659-S1">
+      <Definition>ਅਫਰੀਂ! ਹੰਬਡੇ!</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1036355-S1" ili="wikidata-pa-L1036355-S1">
+      <Definition>ਨਹੀਂ ਏ, ਨਾ ਹੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1036355-S2" ili="wikidata-pa-L1036355-S2">
+      <Definition>ਨਹੀਂ ਸੀਗੀ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1077604-S1" ili="wikidata-pa-L1077604-S1">
+      <Definition>ਔਰਤਾਂ, ਕੁੜੀਆਂ ਨੂੰ ਮੁਖਾਤਿਬ ਕਰ ਕੇ ਬੋਲਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1077604-S2" ili="wikidata-pa-L1077604-S2">
+      <Definition>ਔਰਤਾਂ, ਕੁੜੀਆਂ ਨੂੰ ਬੁਲਾਉਂਦਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1083616-S1" ili="wikidata-pa-L1083616-S1">
+      <Definition>ਖ਼ਿਆਲ ਵਿਚ, ਜਾਚੇ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1084517-S1" ili="wikidata-pa-L1084517-S1">
+      <Definition>ਵਿਚ, ਅੰਦਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1084517-S2" ili="wikidata-pa-L1084517-S2">
+      <Definition>ਨਾਲ, ਸਾਥ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1084517-S3" ili="wikidata-pa-L1084517-S3">
+      <Definition>ਹਰ, ਹਰ ਇੱਕ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1084517-S4" ili="wikidata-pa-L1084517-S4">
+      <Definition>ਉੱਪਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1087532-S1" ili="wikidata-pa-L1087532-S1">
+      <Definition>ਵਜਹੋਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115552-S1" ili="wikidata-pa-L1115552-S1">
+      <Definition>ਉੱਡਾ ਖੜਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1115552-S2" ili="wikidata-pa-L1115552-S2">
+      <Definition>ਨਾਲ ਲੈ ਕੇ ਖੜਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116261-S1" ili="wikidata-pa-L1116261-S1">
+      <Definition>ਤਰਕ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116261-S2" ili="wikidata-pa-L1116261-S2">
+      <Definition>ਤਲਾਕ ਕਰ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1116479-S1" ili="wikidata-pa-L1116479-S1">
+      <Definition>ਲੇਟ ਜਾਵਣ, ਥੱਕ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1126340-S1" ili="wikidata-pa-L1126340-S1">
+      <Definition>ਆਹਾ, ਇਹੋ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1126340-S2" ili="wikidata-pa-L1126340-S2">
+      <Definition>ਹਾ ਜਹਿੜਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1126340-S3" ili="wikidata-pa-L1126340-S3">
+      <Definition>ਇਹ ਸਾਮ੍ਹਣੇ ਵਾਲਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151537-S1" ili="wikidata-pa-L1151537-S1">
+      <Definition>ਮੁਕਾਬਲੇ ਤੇ ਆਉਣ, ਆ ਮਿਲਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151540-S1" ili="wikidata-pa-L1151540-S1">
+      <Definition>ਪਿੱਛੋਂ ਆ ਅਪੜਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151540-S2" ili="wikidata-pa-L1151540-S2">
+      <Definition>ਆ ਫਿੜਨ, ਛੂਹਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151540-S3" ili="wikidata-pa-L1151540-S3">
+      <Definition>ਮੁਖ਼ਾਲਿਫ਼ ਨੂੰ ਜਾ ਪੈਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1151682-S1" ili="wikidata-pa-L1151682-S1">
+      <Definition>ਹਮਲਾ ਹੋਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1160579-S1" ili="wikidata-pa-L1160579-S1">
+      <Definition>ਕਿਵੇਂ, ਕਿੰਜ, ਕਿੱਦਾਂ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1160579-S2" ili="wikidata-pa-L1160579-S2">
+      <Definition>ਕਿਸ ਤਰ੍ਹਾਂ ਨਾਲ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1161515-S1" ili="wikidata-pa-L1161515-S1">
+      <Definition>ਭੁੱਲ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163584-S1" ili="wikidata-pa-L1163584-S1">
+      <Definition>ਜਿਸ ਦਿਨ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1163584-S2" ili="wikidata-pa-L1163584-S2">
+      <Definition>ਜਿਸ ਵੇਰ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1197134-S1" ili="wikidata-pa-L1197134-S1">
+      <Definition>ਲੈ ਕੇ ਸਾਂਭ ਰੱਖਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1216266-S1" ili="wikidata-pa-L1216266-S1">
+      <Definition>ਕਿਹੜੀ ਥਾਂ?</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1219668-S1" ili="wikidata-pa-L1219668-S1">
+      <Definition>ਠਹਿਰ ਜਾਵਣ, ਰੁਕ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1219668-S2" ili="wikidata-pa-L1219668-S2">
+      <Definition>ਮੁੱਕ ਜਾਵਣ, ਬਸ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1219668-S3" ili="wikidata-pa-L1219668-S3">
+      <Definition>ਪਿੱਛੇ ਰਹਿ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1219668-S4" ili="wikidata-pa-L1219668-S4">
+      <Definition>ਸ਼ੈ ਜਾਂ ਬੰਦੇ ਦਾ ਪਿੱਛੇ ਭੁੱਲ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1219668-S5" ili="wikidata-pa-L1219668-S5">
+      <Definition>ਨਾਕਾਮ ਹੋ ਜਾਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1226435-S1" ili="wikidata-pa-L1226435-S1">
+      <Definition>ਉਸ ਵਰਗਾ, ਉਹਦੇ ਰੰਗਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1226435-S2" ili="wikidata-pa-L1226435-S2">
+      <Definition>ਉਹੋ ਜਿਹਾ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1227215-S1" ili="wikidata-pa-L1227215-S1">
+      <Definition>ਦੇ ਦੇਵਣ</Definition>
+    </Synset>
+    <Synset id="wikidata-pa-L1232183-S1" ili="wikidata-pa-L1232183-S1">
+      <Definition>ਇਸ ਸਬਬੋਂ</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

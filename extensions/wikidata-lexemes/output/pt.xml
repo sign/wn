@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-pt"
+                    label="Wikidata PT Lexemes Extension"
+                    language="pt"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-pt" version="1.4"/>
+    <LexicalEntry id="L46853">
+      <Lemma writtenForm="um" partOfSpeech="indefinite article"/>
+      <Sense id="L46853-S1" synset="wikidata-pt-L46853-S1" ili="wikidata-pt-L46853-S1">
+        <Definition></Definition>
+        <Example>Após a morte de Lênin, em 1924, Stalin ascende ao poder, iniciando um período de autoritarismo</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46867">
+      <Lemma writtenForm="dois" partOfSpeech="numeral"/>
+      <Sense id="L46867-S1" synset="wikidata-pt-L46867-S1" ili="l329-s1">
+        <Definition>número cardinal</Definition>
+        <Example>Dois dias depois, convidou os seus dous validos para um banquete no palacio</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L488745">
+      <Lemma writtenForm="ele" partOfSpeech="personal pronoun"/>
+      <Sense id="L488745-S1" synset="wikidata-pt-L488745-S1" ili="l485-s1">
+        <Definition>pronominal pessoal masculino</Definition>
+        <Example>Para ele, nada existe além da natureza observável.</Example>
+      </Sense>
+      <Sense id="L488745-S2" synset="wikidata-pt-L488745-S2" ili="wikidata-pt-L488745-S2">
+        <Definition>pronome pessoal epiceno</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L43388-S2"/>
+      </Sense>
+      <Sense id="L488745-S3" synset="wikidata-pt-L488745-S3" ili="l485-s2">
+        <Definition>pronome genérico</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L43388-S3"/>
+        <SenseRelation relType="similar" target="wikidata-pt-L307268-S1"/>
+      </Sense>
+      <Sense id="L488745-S4" synset="wikidata-pt-L488745-S4" ili="wikidata-pt-L488745-S4">
+        <Definition>indica a terceira pessoa gramatical</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492444">
+      <Lemma writtenForm="algum" partOfSpeech="pronoun"/>
+      <Sense id="L492444-S1" synset="wikidata-pt-L492444-S1" ili="wikidata-pt-L492444-S1">
+        <Definition>indica qualquer um dos indivíduos da espécie mencionada, mas sem determinar qual</Definition>
+        <Example>De um modo geral, literatura é o que foi escrito sobre algum assunto</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646316">
+      <Lemma writtenForm="cada" partOfSpeech="pronoun"/>
+      <Sense id="L646316-S1" synset="wikidata-pt-L646316-S1" ili="wikidata-pt-L646316-S1">
+        <Definition></Definition>
+        <Example>Quero cada uma dessas folhas carimbadas.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L663729">
+      <Lemma writtenForm="quando" partOfSpeech="pronoun"/>
+      <Sense id="L663729-S1" synset="wikidata-pt-L663729-S1" ili="wikidata-pt-L663729-S1">
+        <Definition>no qual</Definition>
+        <Example>A Idade do Bronze foi a era quando as civilizações surgiram</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L669660">
+      <Lemma writtenForm="outro" partOfSpeech="pronoun"/>
+      <Sense id="L669660-S1" synset="wikidata-pt-L669660-S1" ili="l1323942-s2">
+        <Definition>um diferente</Definition>
+      </Sense>
+      <Sense id="L669660-S2" synset="wikidata-pt-L669660-S2" ili="l1323942-s1">
+        <Definition>em adição a</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676264">
+      <Lemma writtenForm="desde" partOfSpeech="preposition"/>
+      <Sense id="L676264-S1" synset="wikidata-pt-L676264-S1" ili="wikidata-pt-L676264-S1">
+        <Definition></Definition>
+        <Example>Não o vejo desde aquele dia.</Example>
+      </Sense>
+      <Sense id="L676264-S2" synset="wikidata-pt-L676264-S2" ili="wikidata-pt-L676264-S2">
+        <Definition>com a condição</Definition>
+        <Example>Vou deixar você entrar, desde que se comporte.</Example>
+      </Sense>
+      <Sense id="L676264-S3" synset="wikidata-pt-L676264-S3" ili="wikidata-pt-L676264-S3">
+        <Definition>de</Definition>
+        <Example>Percorremos tudo, desde o norte até o sul.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676265">
+      <Lemma writtenForm="sem" partOfSpeech="preposition"/>
+      <Sense id="L676265-S1" synset="wikidata-pt-L676265-S1" ili="wikidata-pt-L676265-S1">
+        <Definition>desprovido de</Definition>
+        <Example>Nunca vi uma cadeira sem encosto.</Example>
+      </Sense>
+      <Sense id="L676265-S2" synset="wikidata-pt-L676265-S2" ili="wikidata-pt-L676265-S2">
+        <Definition>deixando de fazer</Definition>
+        <Example>E você está indo sem avisar?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43388">
+      <Lemma writtenForm="ela" partOfSpeech="personal pronoun"/>
+      <Sense id="L43388-S1" synset="wikidata-pt-L43388-S1" ili="l484-s1">
+        <Definition>pronominal pessoal feminino</Definition>
+        <Example>Mas ela não lhe foi fiel.</Example>
+      </Sense>
+      <Sense id="L43388-S2" synset="wikidata-pt-L43388-S2" ili="wikidata-pt-L43388-S2">
+        <Definition>pronome pessoal epiceno</Definition>
+      </Sense>
+      <Sense id="L43388-S3" synset="wikidata-pt-L43388-S3" ili="l484-s2">
+        <Definition>pronome genérico</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L488745-S3"/>
+        <SenseRelation relType="similar" target="wikidata-pt-L307268-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L502640">
+      <Lemma writtenForm="qualquer" partOfSpeech="pronoun"/>
+      <Sense id="L502640-S1" synset="wikidata-pt-L502640-S1" ili="wikidata-pt-L502640-S1">
+        <Definition>todo, todos</Definition>
+        <Example>Qualquer pessoa nota sua presença.</Example>
+      </Sense>
+      <Sense id="L502640-S2" synset="wikidata-pt-L502640-S2" ili="wikidata-pt-L502640-S2">
+        <Definition>pessoa ou coisa indeterminada</Definition>
+        <Example>Agora, quem for flagrado em qualquer situação, também pode ser preso.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503958">
+      <Lemma writtenForm="isto" partOfSpeech="pronoun"/>
+      <Sense id="L503958-S1" synset="wikidata-pt-L503958-S1" ili="wikidata-pt-L503958-S1">
+        <Definition>faz referência a algo que está perto de quem fala</Definition>
+        <Example>O que é isto aqui na mesa?</Example>
+      </Sense>
+      <Sense id="L503958-S2" synset="wikidata-pt-L503958-S2" ili="wikidata-pt-L503958-S2">
+        <Definition>faz referência a algo que ainda será falado</Definition>
+        <Example>É isto o que querem: justiça.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L663725">
+      <Lemma writtenForm="quando" partOfSpeech="conjunction"/>
+      <Sense id="L663725-S1" synset="wikidata-pt-L663725-S1" ili="l45026-s4">
+        <Definition></Definition>
+        <Example>Culpamos ele quando na verdade tinha sido sua irmã.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L670817">
+      <Lemma writtenForm="primeiro" partOfSpeech="numeral"/>
+      <Sense id="L670817-S1" synset="wikidata-pt-L670817-S1" ili="wikidata-pt-L670817-S1">
+        <Definition>número ordinal para 1</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900340">
+      <Lemma writtenForm="gente" partOfSpeech="interjection"/>
+      <Sense id="L900340-S1" synset="wikidata-pt-L900340-S1" ili="wikidata-pt-L900340-S1">
+        <Definition>expressa surpresa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900666">
+      <Lemma writtenForm="oxente" partOfSpeech="interjection"/>
+      <Sense id="L900666-S1" synset="wikidata-pt-L900666-S1" ili="wikidata-pt-L900666-S1">
+        <Definition>expressa surpresa</Definition>
+      </Sense>
+      <Sense id="L900666-S2" synset="wikidata-pt-L900666-S2" ili="wikidata-pt-L900666-S2">
+        <Definition>expressa admiração</Definition>
+      </Sense>
+      <Sense id="L900666-S3" synset="wikidata-pt-L900666-S3" ili="wikidata-pt-L900666-S3">
+        <Definition>expressa desapontamento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900886">
+      <Lemma writtenForm="oxe" partOfSpeech="interjection"/>
+      <Sense id="L900886-S1" synset="wikidata-pt-L900886-S1" ili="wikidata-pt-L900886-S1">
+        <Definition>expressa surpresa</Definition>
+      </Sense>
+      <Sense id="L900886-S2" synset="wikidata-pt-L900886-S2" ili="wikidata-pt-L900886-S2">
+        <Definition>expressa desapontamento</Definition>
+      </Sense>
+      <Sense id="L900886-S3" synset="wikidata-pt-L900886-S3" ili="wikidata-pt-L900886-S3">
+        <Definition>expressa admiração</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L908661">
+      <Lemma writtenForm="ai" partOfSpeech="interjection"/>
+      <Sense id="L908661-S1" synset="wikidata-pt-L908661-S1" ili="wikidata-pt-L908661-S1">
+        <Definition>expressa dor</Definition>
+      </Sense>
+      <Sense id="L908661-S2" synset="wikidata-pt-L908661-S2" ili="wikidata-pt-L908661-S2">
+        <Definition>expressa desespero</Definition>
+        <Example>Uma barata! Ai, uma barata!</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983887">
+      <Lemma writtenForm="duvideodó" partOfSpeech="interjection"/>
+      <Sense id="L983887-S1" synset="wikidata-pt-L983887-S1" ili="wikidata-pt-L983887-S1">
+        <Definition>expressa descrença</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1017458">
+      <Lemma writtenForm="até" partOfSpeech="preposition"/>
+      <Sense id="L1017458-S1" synset="wikidata-pt-L1017458-S1" ili="wikidata-pt-L1017458-S1">
+        <Definition></Definition>
+        <Example>Num sentido amplo, o Absolutismo sempre existiu em muitos países da Terra e continua sendo praticado até hoje.</Example>
+      </Sense>
+      <Sense id="L1017458-S2" synset="wikidata-pt-L1017458-S2" ili="wikidata-pt-L1017458-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1017458-S3" synset="wikidata-pt-L1017458-S3" ili="wikidata-pt-L1017458-S3">
+        <Definition>indica limite quantitativo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119735">
+      <Lemma writtenForm="a céu aberto" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119735-S1" synset="wikidata-pt-L1119735-S1" ili="wikidata-pt-L1119735-S1">
+        <Definition>ao ar livre</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L1119737-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217794">
+      <Lemma writtenForm="da silva" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1217794-S1" synset="wikidata-pt-L1217794-S1" ili="wikidata-pt-L1217794-S1">
+        <Definition>totalmente</Definition>
+        <Example>Cuidado com José, que ele é doidinho da silva.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1417720">
+      <Lemma writtenForm="adeus" partOfSpeech="interjection"/>
+      <Sense id="L1417720-S1" synset="wikidata-pt-L1417720-S1" ili="l14712-s1">
+        <Definition>forma de saudação usada para despedida</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1464433">
+      <Lemma writtenForm="num piscar de olhos" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1464433-S1" synset="wikidata-pt-L1464433-S1" ili="wikidata-pt-L1464433-S1">
+        <Definition>muito rapidamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2782">
+      <Lemma writtenForm="o" partOfSpeech="definite article"/>
+      <Sense id="L2782-S1" synset="wikidata-pt-L2782-S1" ili="l2768-s1">
+        <Definition>artigo definido que denota gênero e número à palavra a que se refere</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46870">
+      <Lemma writtenForm="cinco" partOfSpeech="numeral"/>
+      <Sense id="L46870-S1" synset="wikidata-pt-L46870-S1" ili="wikidata-pt-L46870-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L502636">
+      <Lemma writtenForm="sobre" partOfSpeech="preposition"/>
+      <Sense id="L502636-S1" synset="wikidata-pt-L502636-S1" ili="wikidata-pt-L502636-S1">
+        <Definition>na parte superior de, em cima de, por cima ou acima de</Definition>
+        <Example>O jornal dobrado sobre a mesa simples.</Example>
+      </Sense>
+      <Sense id="L502636-S2" synset="wikidata-pt-L502636-S2" ili="wikidata-pt-L502636-S2">
+        <Definition>em posição superior e distante</Definition>
+        <Example>O sol estava aberto sobre mim.</Example>
+      </Sense>
+      <Sense id="L502636-S3" synset="wikidata-pt-L502636-S3" ili="wikidata-pt-L502636-S3">
+        <Definition>acima de, em lugar superior, em situação dominante ou de influência</Definition>
+        <Example>Pedro II reinou sobre o Brasil.</Example>
+      </Sense>
+      <Sense id="L502636-S4" synset="wikidata-pt-L502636-S4" ili="wikidata-pt-L502636-S4">
+        <Definition>pela superfície de</Definition>
+        <Example>A Bíblia diz que Jesus andou sobre o mar.</Example>
+      </Sense>
+      <Sense id="L502636-S5" synset="wikidata-pt-L502636-S5" ili="wikidata-pt-L502636-S5">
+        <Definition>em comparação de, para</Definition>
+        <Example>Três metros de comprimento sobre dois de largura.</Example>
+      </Sense>
+      <Sense id="L502636-S6" synset="wikidata-pt-L502636-S6" ili="wikidata-pt-L502636-S6">
+        <Definition>a respeito de, assunto</Definition>
+        <Example>Felipe e Márcia amam conversar sobre política.</Example>
+      </Sense>
+      <Sense id="L502636-S7" synset="wikidata-pt-L502636-S7" ili="wikidata-pt-L502636-S7">
+        <Definition>direção</Definition>
+        <Example>O soldado ansiava por ir sobre seu adversário.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503959">
+      <Lemma writtenForm="esse" partOfSpeech="pronoun"/>
+      <Sense id="L503959-S1" synset="wikidata-pt-L503959-S1" ili="wikidata-pt-L503959-S1">
+        <Definition>faz referência a algo que está perto de quem ouve</Definition>
+        <Example>Pegue esse copo aí.</Example>
+      </Sense>
+      <Sense id="L503959-S2" synset="wikidata-pt-L503959-S2" ili="wikidata-pt-L503959-S2">
+        <Definition>faz referência a algo que já foi falado</Definition>
+        <Example>Ficar quieto e imóvel, essas eram as regras.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618867">
+      <Lemma writtenForm="para" partOfSpeech="preposition"/>
+      <Sense id="L618867-S1" synset="wikidata-pt-L618867-S1" ili="wikidata-pt-L618867-S1">
+        <Definition>indica direção</Definition>
+        <Example>Ele pediu que você fosse pra lá.</Example>
+      </Sense>
+      <Sense id="L618867-S2" synset="wikidata-pt-L618867-S2" ili="wikidata-pt-L618867-S2">
+        <Definition>denota destino</Definition>
+        <Example>Vamos para a minha casa.</Example>
+      </Sense>
+      <Sense id="L618867-S3" synset="wikidata-pt-L618867-S3" ili="wikidata-pt-L618867-S3">
+        <Definition>indica objetivo</Definition>
+      </Sense>
+      <Sense id="L618867-S4" synset="wikidata-pt-L618867-S4" ili="wikidata-pt-L618867-S4">
+        <Definition>indica tempo</Definition>
+      </Sense>
+      <Sense id="L618867-S5" synset="wikidata-pt-L618867-S5" ili="wikidata-pt-L618867-S5">
+        <Definition>indica finalidade</Definition>
+        <Example>Comprei um baixo para tocar numa banda.</Example>
+      </Sense>
+      <Sense id="L618867-S6" synset="wikidata-pt-L618867-S6" ili="wikidata-pt-L618867-S6">
+        <Definition>de acordo com, segundo</Definition>
+        <Example>Para mim, esse livro é um dos melhores da história.</Example>
+      </Sense>
+      <Sense id="L618867-S7" synset="wikidata-pt-L618867-S7" ili="wikidata-pt-L618867-S7">
+        <Definition>prestes a</Definition>
+        <Example>Fiquem quietos que o filme está para começar.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L674368">
+      <Lemma writtenForm="muito" partOfSpeech="pronoun"/>
+      <Sense id="L674368-S1" synset="wikidata-pt-L674368-S1" ili="wikidata-pt-L674368-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L674370">
+      <Lemma writtenForm="então" partOfSpeech="interjection"/>
+      <Sense id="L674370-S1" synset="wikidata-pt-L674370-S1" ili="wikidata-pt-L674370-S1">
+        <Definition></Definition>
+        <Example>Então, o que aconteceu?</Example>
+      </Sense>
+      <Sense id="L674370-S2" synset="wikidata-pt-L674370-S2" ili="wikidata-pt-L674370-S2">
+        <Definition>introduz resposta mais complexa que a esperada</Definition>
+        <Example>Então... era sobre isso mesmo que eu queria falar.</Example>
+      </Sense>
+      <Sense id="L674370-S3" synset="wikidata-pt-L674370-S3" ili="wikidata-pt-L674370-S3">
+        <Definition>exatamente, isso, exato</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676261">
+      <Lemma writtenForm="contra" partOfSpeech="preposition"/>
+      <Sense id="L676261-S1" synset="wikidata-pt-L676261-S1" ili="wikidata-pt-L676261-S1">
+        <Definition>em oposição a</Definition>
+        <Example>Não obtivemos sucesso, éramos dois contra cinco.</Example>
+      </Sense>
+      <Sense id="L676261-S2" synset="wikidata-pt-L676261-S2" ili="wikidata-pt-L676261-S2">
+        <Definition>de encontro com</Definition>
+        <Example>João atirou a garrafa contra a parede.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676568">
+      <Lemma writtenForm="qual" partOfSpeech="pronoun"/>
+      <Sense id="L676568-S1" synset="wikidata-pt-L676568-S1" ili="wikidata-pt-L676568-S1">
+        <Definition>refere-se a algo anteriormente falado</Definition>
+        <Example>Vi Júlio, o qual não encontrava fazia anos.</Example>
+      </Sense>
+      <Sense id="L676568-S2" synset="wikidata-pt-L676568-S2" ili="wikidata-pt-L676568-S2">
+        <Definition>um entre vários</Definition>
+        <Example>Qual dos carrinhos é o seu?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900242">
+      <Lemma writtenForm="ó" partOfSpeech="interjection"/>
+      <Sense id="L900242-S1" synset="wikidata-pt-L900242-S1" ili="wikidata-pt-L900242-S1">
+        <Definition>olhe</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983895">
+      <Lemma writtenForm="ave Maria" partOfSpeech="interjection"/>
+      <Sense id="L983895-S1" synset="wikidata-pt-L983895-S1" ili="wikidata-pt-L983895-S1">
+        <Definition>expressa surpresa</Definition>
+      </Sense>
+      <Sense id="L983895-S2" synset="wikidata-pt-L983895-S2" ili="wikidata-pt-L983895-S2">
+        <Definition>expressa desapontamento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983896">
+      <Lemma writtenForm="ave" partOfSpeech="interjection"/>
+      <Sense id="L983896-S1" synset="wikidata-pt-L983896-S1" ili="wikidata-pt-L983896-S1">
+        <Definition>expressa desapontamento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L991458">
+      <Lemma writtenForm="merda" partOfSpeech="interjection"/>
+      <Sense id="L991458-S1" synset="wikidata-pt-L991458-S1" ili="wikidata-pt-L991458-S1">
+        <Definition>exprime raiva, desprezo, decepção ou indignação</Definition>
+      </Sense>
+      <Sense id="L991458-S2" synset="wikidata-pt-L991458-S2" ili="wikidata-pt-L991458-S2">
+        <Definition>no contexto da dramaturgia, exprime desejo de boa sorte, bons augúrios</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L502868">
+      <Lemma writtenForm="como" partOfSpeech="pronoun"/>
+      <Sense id="L502868-S1" synset="wikidata-pt-L502868-S1" ili="wikidata-pt-L502868-S1">
+        <Definition>um fato que</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503961">
+      <Lemma writtenForm="aquele" partOfSpeech="pronoun"/>
+      <Sense id="L503961-S1" synset="wikidata-pt-L503961-S1" ili="wikidata-pt-L503961-S1">
+        <Definition>faz referência a algo que está longe de quem fala e de quem ouve</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L669652">
+      <Lemma writtenForm="onde" partOfSpeech="pronoun"/>
+      <Sense id="L669652-S1" synset="wikidata-pt-L669652-S1" ili="wikidata-pt-L669652-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119534">
+      <Lemma writtenForm="a pulso" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119534-S1" synset="wikidata-pt-L1119534-S1" ili="wikidata-pt-L1119534-S1">
+        <Definition>de maneira forçada</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1122418">
+      <Lemma writtenForm="da frigideira para o fogo" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1122418-S1" synset="wikidata-pt-L1122418-S1" ili="wikidata-pt-L1122418-S1">
+        <Definition>[ir] de uma situação ruim para uma pior</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490851">
+      <Lemma writtenForm="ab absurdo" partOfSpeech="adverbial locution"/>
+      <Sense id="L1490851-S1" synset="wikidata-pt-L1490851-S1" ili="wikidata-pt-L1490851-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1490851-S2" synset="wikidata-pt-L1490851-S2" ili="wikidata-pt-L1490851-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15889">
+      <Lemma writtenForm="olá" partOfSpeech="interjection"/>
+      <Sense id="L15889-S1" synset="wikidata-pt-L15889-S1" ili="l8885-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L44970">
+      <Lemma writtenForm="um" partOfSpeech="numeral"/>
+      <Sense id="L44970-S1" synset="wikidata-pt-L44970-S1" ili="l327-s1">
+        <Definition>número cardinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L307268">
+      <Lemma writtenForm="elu" partOfSpeech="personal pronoun"/>
+      <Sense id="L307268-S1" synset="wikidata-pt-L307268-S1" ili="l371-s1">
+        <Definition>pronome neutro de terceira pessoa</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L43388-S3"/>
+        <SenseRelation relType="similar" target="wikidata-pt-L488745-S3"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477314">
+      <Lemma writtenForm="em" partOfSpeech="preposition"/>
+      <Sense id="L477314-S1" synset="wikidata-pt-L477314-S1" ili="wikidata-pt-L477314-S1">
+        <Definition>indica localidade</Definition>
+        <Example>Ontem eu não pude dormir em casa.</Example>
+      </Sense>
+      <Sense id="L477314-S2" synset="wikidata-pt-L477314-S2" ili="wikidata-pt-L477314-S2">
+        <Definition>denota preço ou valor</Definition>
+        <Example>A mansão está avaliada em oito milhões de reais.</Example>
+      </Sense>
+      <Sense id="L477314-S3" synset="wikidata-pt-L477314-S3" ili="wikidata-pt-L477314-S3">
+        <Definition>indica tempo</Definition>
+        <Example>Maria faz aniversário em agosto.</Example>
+      </Sense>
+      <Sense id="L477314-S4" synset="wikidata-pt-L477314-S4" ili="wikidata-pt-L477314-S4">
+        <Definition>indica meio ou modo</Definition>
+        <Example>Vocês deverão permanecer em silêncio.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L490717">
+      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Sense id="L490717-S1" synset="wikidata-pt-L490717-S1" ili="wikidata-pt-L490717-S1">
+        <Definition>indica meio ou modo</Definition>
+        <Example>Ele veio a pé.</Example>
+      </Sense>
+      <Sense id="L490717-S2" synset="wikidata-pt-L490717-S2" ili="wikidata-pt-L490717-S2">
+        <Definition>indica distância</Definition>
+        <Example>Estávamos a um quilómetro daqui.</Example>
+      </Sense>
+      <Sense id="L490717-S3" synset="wikidata-pt-L490717-S3" ili="wikidata-pt-L490717-S3">
+        <Definition>indica preço</Definition>
+        <Example>O pão está a dez centavos cada.</Example>
+      </Sense>
+      <Sense id="L490717-S4" synset="wikidata-pt-L490717-S4" ili="wikidata-pt-L490717-S4">
+        <Definition>indica tempo</Definition>
+        <Example>Esses animais entraram em extinção a aproximadamente 65 milhões de anos atrás.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503957">
+      <Lemma writtenForm="este" partOfSpeech="pronoun"/>
+      <Sense id="L503957-S1" synset="wikidata-pt-L503957-S1" ili="wikidata-pt-L503957-S1">
+        <Definition>faz referência a algo que está perto de quem fala</Definition>
+        <Example>Pegue este copo aqui.</Example>
+      </Sense>
+      <Sense id="L503957-S2" synset="wikidata-pt-L503957-S2" ili="wikidata-pt-L503957-S2">
+        <Definition>faz referência a algo que ainda será falado</Definition>
+        <Example>Minha ideia é esta: esperar até que venham.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503960">
+      <Lemma writtenForm="isso" partOfSpeech="pronoun"/>
+      <Sense id="L503960-S1" synset="wikidata-pt-L503960-S1" ili="wikidata-pt-L503960-S1">
+        <Definition>faz referência a algo que está perto de quem ouve</Definition>
+        <Example>O que é isso aí em seu bolso?</Example>
+      </Sense>
+      <Sense id="L503960-S2" synset="wikidata-pt-L503960-S2" ili="wikidata-pt-L503960-S2">
+        <Definition>faz referência a algo que já foi falado</Definition>
+        <Example>Justiça, era isso o que queriam.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524070">
+      <Lemma writtenForm="mas" partOfSpeech="conjunction"/>
+      <Sense id="L524070-S1" synset="wikidata-pt-L524070-S1" ili="wikidata-pt-L524070-S1">
+        <Definition>indica uma contradição</Definition>
+        <Example>Formou-se, mas nunca fez uso da carta.</Example>
+      </Sense>
+      <Sense id="L524070-S2" synset="wikidata-pt-L524070-S2" ili="wikidata-pt-L524070-S2">
+        <Definition>indica a informação correta a partir de algo negado anteriormente</Definition>
+        <Example>Fomos recebidos não com aplausos, mas pedradas.</Example>
+      </Sense>
+      <Sense id="L524070-S3" synset="wikidata-pt-L524070-S3" ili="wikidata-pt-L524070-S3">
+        <Definition>indica a causa de algo, implicando que aquilo já era esperado acontecer</Definition>
+        <Example>Todos alunos reprovaram em matemática, mas ninguém estudou mesmo.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680183">
+      <Lemma writtenForm="nem aqui, nem na China" partOfSpeech="adverbial phrase"/>
+      <Sense id="L680183-S1" synset="wikidata-pt-L680183-S1" ili="wikidata-pt-L680183-S1">
+        <Definition>em lugar algum</Definition>
+      </Sense>
+      <Sense id="L680183-S2" synset="wikidata-pt-L680183-S2" ili="wikidata-pt-L680183-S2">
+        <Definition>de maneira alguma, de jeito nenhum</Definition>
+        <Example>Isso não é arte nem aqui, nem na China.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942478">
+      <Lemma writtenForm="et al." partOfSpeech="latin phrase"/>
+      <Sense id="L942478-S1" synset="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1">
+        <Definition>e outros</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983857">
+      <Lemma writtenForm="calma aí" partOfSpeech="interjection"/>
+      <Sense id="L983857-S1" synset="wikidata-pt-L983857-S1" ili="wikidata-pt-L983857-S1">
+        <Definition>acalme-se</Definition>
+      </Sense>
+      <Sense id="L983857-S2" synset="wikidata-pt-L983857-S2" ili="wikidata-pt-L983857-S2">
+        <Definition>espere</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983905">
+      <Lemma writtenForm="afe" partOfSpeech="interjection"/>
+      <Sense id="L983905-S1" synset="wikidata-pt-L983905-S1" ili="wikidata-pt-L983905-S1">
+        <Definition>ave!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983906">
+      <Lemma writtenForm="aff" partOfSpeech="interjection"/>
+      <Sense id="L983906-S1" synset="wikidata-pt-L983906-S1" ili="wikidata-pt-L983906-S1">
+        <Definition>ave!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119737">
+      <Lemma writtenForm="ao ar livre" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119737-S1" synset="wikidata-pt-L1119737-S1" ili="wikidata-pt-L1119737-S1">
+        <Definition>a céu aberto</Definition>
+        <SenseRelation relType="similar" target="wikidata-pt-L1119735-S1"/>
+      </Sense>
+      <Sense id="L1119737-S2" synset="wikidata-pt-L1119737-S2" ili="wikidata-pt-L1119737-S2">
+        <Definition>circunstância de um objeto ou evento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1141751">
+      <Lemma writtenForm="vossemecê" partOfSpeech="pronoun"/>
+      <Sense id="L1141751-S1" synset="wikidata-pt-L1141751-S1" ili="wikidata-pt-L1141751-S1">
+        <Definition>tu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46868">
+      <Lemma writtenForm="três" partOfSpeech="numeral"/>
+      <Sense id="L46868-S2" synset="wikidata-pt-L46868-S2" ili="l330-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46872">
+      <Lemma writtenForm="sete" partOfSpeech="numeral"/>
+      <Sense id="L46872-S1" synset="wikidata-pt-L46872-S1" ili="wikidata-pt-L46872-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618640">
+      <Lemma writtenForm="e" partOfSpeech="conjunction"/>
+      <Sense id="L618640-S1" synset="wikidata-pt-L618640-S1" ili="wikidata-pt-L618640-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676267">
+      <Lemma writtenForm="enquanto" partOfSpeech="conjunction"/>
+      <Sense id="L676267-S1" synset="wikidata-pt-L676267-S1" ili="wikidata-pt-L676267-S1">
+        <Definition>ao mesmo tempo em que</Definition>
+        <Example>Maria fazia biscoitos enquanto as crianças brincavam no jardim.</Example>
+      </Sense>
+      <Sense id="L676267-S2" synset="wikidata-pt-L676267-S2" ili="wikidata-pt-L676267-S2">
+        <Definition>introduz situação que contrasta com outra</Definition>
+        <Example>Enquanto eles são violentos e perigosos, nós somos pacíficos e amigáveis.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L676570">
+      <Lemma writtenForm="pois" partOfSpeech="conjunction"/>
+      <Sense id="L676570-S1" synset="wikidata-pt-L676570-S1" ili="wikidata-pt-L676570-S1">
+        <Definition>porque</Definition>
+        <Example>Amanhã não poderei ir, pois terei ensaio.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L678116">
+      <Lemma writtenForm="porque" partOfSpeech="conjunction"/>
+      <Sense id="L678116-S1" synset="wikidata-pt-L678116-S1" ili="wikidata-pt-L678116-S1">
+        <Definition>explica trecho anterior</Definition>
+        <Example>Aproveita tua vida porque ela é curta!</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680184">
+      <Lemma writtenForm="nem que a vaca tussa" partOfSpeech="adverbial phrase"/>
+      <Sense id="L680184-S1" synset="wikidata-pt-L680184-S1" ili="wikidata-pt-L680184-S1">
+        <Definition></Definition>
+        <Example>O que ele disse a mim não te conto nem que a vaca tussa!</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900413">
+      <Lemma writtenForm="oh, gente" partOfSpeech="interjection"/>
+      <Sense id="L900413-S1" synset="wikidata-pt-L900413-S1" ili="wikidata-pt-L900413-S1">
+        <Definition>expressa surpresa</Definition>
+      </Sense>
+      <Sense id="L900413-S2" synset="wikidata-pt-L900413-S2" ili="wikidata-pt-L900413-S2">
+        <Definition>expressa desapontamento</Definition>
+      </Sense>
+      <Sense id="L900413-S3" synset="wikidata-pt-L900413-S3" ili="wikidata-pt-L900413-S3">
+        <Definition>expressa admiração</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983847">
+      <Lemma writtenForm="assino embaixo" partOfSpeech="interjection"/>
+      <Sense id="L983847-S1" synset="wikidata-pt-L983847-S1" ili="wikidata-pt-L983847-S1">
+        <Definition>expressa total concordância</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119607">
+      <Lemma writtenForm="por riba" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119607-S1" synset="wikidata-pt-L1119607-S1" ili="wikidata-pt-L1119607-S1">
+        <Definition>por cima</Definition>
+        <Example>As quaes se ajuntavaõ por baixo, e tambem se ajuntavaõ por riba com huã argola: assi fez com ellas ambas em as duas esquinas.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46869">
+      <Lemma writtenForm="quatro" partOfSpeech="numeral"/>
+      <Sense id="L46869-S1" synset="wikidata-pt-L46869-S1" ili="wikidata-pt-L46869-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46875">
+      <Lemma writtenForm="dez" partOfSpeech="numeral"/>
+      <Sense id="L46875-S1" synset="wikidata-pt-L46875-S1" ili="wikidata-pt-L46875-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477316">
+      <Lemma writtenForm="com" partOfSpeech="preposition"/>
+      <Sense id="L477316-S1" synset="wikidata-pt-L477316-S1" ili="wikidata-pt-L477316-S1">
+        <Definition>indica companhia ou associação</Definition>
+        <Example>Sara saiu com as crianças.</Example>
+      </Sense>
+      <Sense id="L477316-S2" synset="wikidata-pt-L477316-S2" ili="wikidata-pt-L477316-S2">
+        <Definition>indica modo, meio ou instrumento</Definition>
+        <Example>Ele ficou rico com aquele trabalho.</Example>
+      </Sense>
+      <Sense id="L477316-S3" synset="wikidata-pt-L477316-S3" ili="wikidata-pt-L477316-S3">
+        <Definition>indica conteúdo de algo</Definition>
+        <Example>Traga para mim o pote com geleia.</Example>
+      </Sense>
+      <Sense id="L477316-S4" synset="wikidata-pt-L477316-S4" ili="wikidata-pt-L477316-S4">
+        <Definition>indica causa ou motivo</Definition>
+        <Example>Ele ficou tonto com o empurrão que levou.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480992">
+      <Lemma writtenForm="teu" partOfSpeech="pronoun"/>
+      <Sense id="L480992-S1" synset="wikidata-pt-L480992-S1" ili="wikidata-pt-L480992-S1">
+        <Definition>indica posse na segunda pessoa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480996">
+      <Lemma writtenForm="seu" partOfSpeech="pronoun"/>
+      <Sense id="L480996-S1" synset="wikidata-pt-L480996-S1" ili="wikidata-pt-L480996-S1">
+        <Definition>indica posse na terceira pessoa</Definition>
+        <Example>Entre seus triunfos, notável é a conquista da Índia, dominando o povo pelo seu poder místico.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L490719">
+      <Lemma writtenForm="ou" partOfSpeech="conjunction"/>
+      <Sense id="L490719-S1" synset="wikidata-pt-L490719-S1" ili="wikidata-pt-L490719-S1">
+        <Definition>indica incerteza</Definition>
+        <Example>Não sei se escolho a gravata de listras ou a de bolinhas.</Example>
+      </Sense>
+      <Sense id="L490719-S2" synset="wikidata-pt-L490719-S2" ili="wikidata-pt-L490719-S2">
+        <Definition>expõe alternativas</Definition>
+        <Example>Esse comprimido pode ser tomado antes ou depois das refeições.</Example>
+      </Sense>
+      <Sense id="L490719-S3" synset="wikidata-pt-L490719-S3" ili="wikidata-pt-L490719-S3">
+        <Definition>indica equivalência</Definition>
+        <Example>Héracles, entre os gregos, ou Hércules para os romanos.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491661">
+      <Lemma writtenForm="eu" partOfSpeech="personal pronoun"/>
+      <Sense id="L491661-S1" synset="wikidata-pt-L491661-S1" ili="wikidata-pt-L491661-S1">
+        <Definition>indica a primeira pessoa gramatical</Definition>
+      </Sense>
+      <Sense id="L491661-S2" synset="wikidata-pt-L491661-S2" ili="wikidata-pt-L491661-S2">
+        <Definition>pronome singular de primeira pessoa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L503963">
+      <Lemma writtenForm="aquilo" partOfSpeech="pronoun"/>
+      <Sense id="L503963-S1" synset="wikidata-pt-L503963-S1" ili="wikidata-pt-L503963-S1">
+        <Definition>faz referência a algo que está longe de quem fala e de quem ouve</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L674371">
+      <Lemma writtenForm="então" partOfSpeech="conjunction"/>
+      <Sense id="L674371-S1" synset="wikidata-pt-L674371-S1" ili="wikidata-pt-L674371-S1">
+        <Definition>portanto, consequentemente</Definition>
+        <Example>A previsão diz que choverá mais tarde, então teremos que esperar aqui mais um pouco.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L900094">
+      <Lemma writtenForm="ó" partOfSpeech="interjection"/>
+      <Sense id="L900094-S1" synset="wikidata-pt-L900094-S1" ili="wikidata-pt-L900094-S1">
+        <Definition>oh, ei</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1073013">
+      <Lemma writtenForm="cê" partOfSpeech="pronoun"/>
+      <Sense id="L1073013-S1" synset="wikidata-pt-L1073013-S1" ili="wikidata-pt-L1073013-S1">
+        <Definition>tu, você</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119756">
+      <Lemma writtenForm="à moda antiga" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119756-S1" synset="wikidata-pt-L1119756-S1" ili="wikidata-pt-L1119756-S1">
+        <Definition>da maneira que se fazia antigamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46871">
+      <Lemma writtenForm="seis" partOfSpeech="numeral"/>
+      <Sense id="L46871-S1" synset="wikidata-pt-L46871-S1" ili="wikidata-pt-L46871-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46873">
+      <Lemma writtenForm="oito" partOfSpeech="numeral"/>
+      <Sense id="L46873-S1" synset="wikidata-pt-L46873-S1" ili="wikidata-pt-L46873-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46874">
+      <Lemma writtenForm="nove" partOfSpeech="numeral"/>
+      <Sense id="L46874-S1" synset="wikidata-pt-L46874-S1" ili="l337-s1">
+        <Definition>o número 9</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480984">
+      <Lemma writtenForm="meu" partOfSpeech="pronoun"/>
+      <Sense id="L480984-S1" synset="wikidata-pt-L480984-S1" ili="wikidata-pt-L480984-S1">
+        <Definition>indica posse na primeira pessoa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491664">
+      <Lemma writtenForm="tu" partOfSpeech="personal pronoun"/>
+      <Sense id="L491664-S1" synset="wikidata-pt-L491664-S1" ili="wikidata-pt-L491664-S1">
+        <Definition>indica a segunda pessoa gramatical</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L500873">
+      <Lemma writtenForm="você" partOfSpeech="personal pronoun"/>
+      <Sense id="L500873-S1" synset="wikidata-pt-L500873-S1" ili="wikidata-pt-L500873-S1">
+        <Definition>indica a segunda pessoa gramatical</Definition>
+      </Sense>
+      <Sense id="L500873-S2" synset="wikidata-pt-L500873-S2" ili="wikidata-pt-L500873-S2">
+        <Definition>pronome pessoal de tratamento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L501786">
+      <Lemma writtenForm="após" partOfSpeech="preposition"/>
+      <Sense id="L501786-S1" synset="wikidata-pt-L501786-S1" ili="wikidata-pt-L501786-S1">
+        <Definition>depois de</Definition>
+        <Example>Almoçaremos após a aula.</Example>
+      </Sense>
+      <Sense id="L501786-S2" synset="wikidata-pt-L501786-S2" ili="wikidata-pt-L501786-S2">
+        <Definition>além de</Definition>
+        <Example>O prédio fica logo após da escola.</Example>
+      </Sense>
+      <Sense id="L501786-S3" synset="wikidata-pt-L501786-S3" ili="wikidata-pt-L501786-S3">
+        <Definition>e mais</Definition>
+        <Example>Um ano inteiro de fracasso após fracasso.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L502867">
+      <Lemma writtenForm="como" partOfSpeech="preposition"/>
+      <Sense id="L502867-S1" synset="wikidata-pt-L502867-S1" ili="wikidata-pt-L502867-S1">
+        <Definition>no papel de, na função de, no status de</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L647640">
+      <Lemma writtenForm="que" partOfSpeech="conjunction"/>
+      <Sense id="L647640-S1" synset="wikidata-pt-L647640-S1" ili="wikidata-pt-L647640-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L901082">
+      <Lemma writtenForm="Virgem Maria" partOfSpeech="interjection"/>
+      <Sense id="L901082-S1" synset="wikidata-pt-L901082-S1" ili="wikidata-pt-L901082-S1">
+        <Definition>Nossa Senhora!, meu Deus!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L983904">
+      <Lemma writtenForm="ave" partOfSpeech="interjection"/>
+      <Sense id="L983904-S1" synset="wikidata-pt-L983904-S1" ili="wikidata-pt-L983904-S1">
+        <Definition>salve</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119757">
+      <Lemma writtenForm="a preço de banana" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1119757-S1" synset="wikidata-pt-L1119757-S1" ili="wikidata-pt-L1119757-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490453">
+      <Lemma writtenForm="quem" partOfSpeech="pronoun"/>
+      <Sense id="L1490453-S1" synset="wikidata-pt-L1490453-S1" ili="wikidata-pt-L1490453-S1">
+        <Definition>qual pessoa</Definition>
+        <Example>Quem deixou isso aqui?</Example>
+      </Sense>
+      <Sense id="L1490453-S2" synset="wikidata-pt-L1490453-S2" ili="wikidata-pt-L1490453-S2">
+        <Definition>a pessoa que</Definition>
+        <Example>Foi ela quem pediu.</Example>
+      </Sense>
+      <Sense id="L1490453-S3" synset="wikidata-pt-L1490453-S3" ili="wikidata-pt-L1490453-S3">
+        <Definition>aqueles que</Definition>
+        <Example>Não lembro quem me chamou.</Example>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-pt-L46853-S1" ili="wikidata-pt-L46853-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46867-S1" ili="l329-s1">
+      <Definition>número cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L488745-S1" ili="l485-s1">
+      <Definition>pronominal pessoal masculino</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L488745-S2" ili="wikidata-pt-L488745-S2">
+      <Definition>pronome pessoal epiceno</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L488745-S3" ili="l485-s2">
+      <Definition>pronome genérico</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L488745-S4" ili="wikidata-pt-L488745-S4">
+      <Definition>indica a terceira pessoa gramatical</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L492444-S1" ili="wikidata-pt-L492444-S1">
+      <Definition>indica qualquer um dos indivíduos da espécie mencionada, mas sem determinar qual</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L646316-S1" ili="wikidata-pt-L646316-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L663729-S1" ili="wikidata-pt-L663729-S1">
+      <Definition>no qual</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L669660-S1" ili="l1323942-s2">
+      <Definition>um diferente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L669660-S2" ili="l1323942-s1">
+      <Definition>em adição a</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676264-S1" ili="wikidata-pt-L676264-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676264-S2" ili="wikidata-pt-L676264-S2">
+      <Definition>com a condição</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676264-S3" ili="wikidata-pt-L676264-S3">
+      <Definition>de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676265-S1" ili="wikidata-pt-L676265-S1">
+      <Definition>desprovido de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676265-S2" ili="wikidata-pt-L676265-S2">
+      <Definition>deixando de fazer</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L43388-S1" ili="l484-s1">
+      <Definition>pronominal pessoal feminino</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L43388-S2" ili="wikidata-pt-L43388-S2">
+      <Definition>pronome pessoal epiceno</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L43388-S3" ili="l484-s2">
+      <Definition>pronome genérico</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502640-S1" ili="wikidata-pt-L502640-S1">
+      <Definition>todo, todos</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502640-S2" ili="wikidata-pt-L502640-S2">
+      <Definition>pessoa ou coisa indeterminada</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503958-S1" ili="wikidata-pt-L503958-S1">
+      <Definition>faz referência a algo que está perto de quem fala</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503958-S2" ili="wikidata-pt-L503958-S2">
+      <Definition>faz referência a algo que ainda será falado</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L663725-S1" ili="l45026-s4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L670817-S1" ili="wikidata-pt-L670817-S1">
+      <Definition>número ordinal para 1</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900340-S1" ili="wikidata-pt-L900340-S1">
+      <Definition>expressa surpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900666-S1" ili="wikidata-pt-L900666-S1">
+      <Definition>expressa surpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900666-S2" ili="wikidata-pt-L900666-S2">
+      <Definition>expressa admiração</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900666-S3" ili="wikidata-pt-L900666-S3">
+      <Definition>expressa desapontamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900886-S1" ili="wikidata-pt-L900886-S1">
+      <Definition>expressa surpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900886-S2" ili="wikidata-pt-L900886-S2">
+      <Definition>expressa desapontamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900886-S3" ili="wikidata-pt-L900886-S3">
+      <Definition>expressa admiração</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L908661-S1" ili="wikidata-pt-L908661-S1">
+      <Definition>expressa dor</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L908661-S2" ili="wikidata-pt-L908661-S2">
+      <Definition>expressa desespero</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983887-S1" ili="wikidata-pt-L983887-S1">
+      <Definition>expressa descrença</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1017458-S1" ili="wikidata-pt-L1017458-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1017458-S2" ili="wikidata-pt-L1017458-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1017458-S3" ili="wikidata-pt-L1017458-S3">
+      <Definition>indica limite quantitativo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119735-S1" ili="wikidata-pt-L1119735-S1">
+      <Definition>ao ar livre</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1217794-S1" ili="wikidata-pt-L1217794-S1">
+      <Definition>totalmente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1417720-S1" ili="l14712-s1">
+      <Definition>forma de saudação usada para despedida</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1464433-S1" ili="wikidata-pt-L1464433-S1">
+      <Definition>muito rapidamente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L2782-S1" ili="l2768-s1">
+      <Definition>artigo definido que denota gênero e número à palavra a que se refere</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46870-S1" ili="wikidata-pt-L46870-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S1" ili="wikidata-pt-L502636-S1">
+      <Definition>na parte superior de, em cima de, por cima ou acima de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S2" ili="wikidata-pt-L502636-S2">
+      <Definition>em posição superior e distante</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S3" ili="wikidata-pt-L502636-S3">
+      <Definition>acima de, em lugar superior, em situação dominante ou de influência</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S4" ili="wikidata-pt-L502636-S4">
+      <Definition>pela superfície de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S5" ili="wikidata-pt-L502636-S5">
+      <Definition>em comparação de, para</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S6" ili="wikidata-pt-L502636-S6">
+      <Definition>a respeito de, assunto</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502636-S7" ili="wikidata-pt-L502636-S7">
+      <Definition>direção</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503959-S1" ili="wikidata-pt-L503959-S1">
+      <Definition>faz referência a algo que está perto de quem ouve</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503959-S2" ili="wikidata-pt-L503959-S2">
+      <Definition>faz referência a algo que já foi falado</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S1" ili="wikidata-pt-L618867-S1">
+      <Definition>indica direção</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S2" ili="wikidata-pt-L618867-S2">
+      <Definition>denota destino</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S3" ili="wikidata-pt-L618867-S3">
+      <Definition>indica objetivo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S4" ili="wikidata-pt-L618867-S4">
+      <Definition>indica tempo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S5" ili="wikidata-pt-L618867-S5">
+      <Definition>indica finalidade</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S6" ili="wikidata-pt-L618867-S6">
+      <Definition>de acordo com, segundo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618867-S7" ili="wikidata-pt-L618867-S7">
+      <Definition>prestes a</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L674368-S1" ili="wikidata-pt-L674368-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L674370-S1" ili="wikidata-pt-L674370-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L674370-S2" ili="wikidata-pt-L674370-S2">
+      <Definition>introduz resposta mais complexa que a esperada</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L674370-S3" ili="wikidata-pt-L674370-S3">
+      <Definition>exatamente, isso, exato</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676261-S1" ili="wikidata-pt-L676261-S1">
+      <Definition>em oposição a</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676261-S2" ili="wikidata-pt-L676261-S2">
+      <Definition>de encontro com</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676568-S1" ili="wikidata-pt-L676568-S1">
+      <Definition>refere-se a algo anteriormente falado</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676568-S2" ili="wikidata-pt-L676568-S2">
+      <Definition>um entre vários</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900242-S1" ili="wikidata-pt-L900242-S1">
+      <Definition>olhe</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983895-S1" ili="wikidata-pt-L983895-S1">
+      <Definition>expressa surpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983895-S2" ili="wikidata-pt-L983895-S2">
+      <Definition>expressa desapontamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983896-S1" ili="wikidata-pt-L983896-S1">
+      <Definition>expressa desapontamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L991458-S1" ili="wikidata-pt-L991458-S1">
+      <Definition>exprime raiva, desprezo, decepção ou indignação</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L991458-S2" ili="wikidata-pt-L991458-S2">
+      <Definition>no contexto da dramaturgia, exprime desejo de boa sorte, bons augúrios</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502868-S1" ili="wikidata-pt-L502868-S1">
+      <Definition>um fato que</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503961-S1" ili="wikidata-pt-L503961-S1">
+      <Definition>faz referência a algo que está longe de quem fala e de quem ouve</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L669652-S1" ili="wikidata-pt-L669652-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119534-S1" ili="wikidata-pt-L1119534-S1">
+      <Definition>de maneira forçada</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1122418-S1" ili="wikidata-pt-L1122418-S1">
+      <Definition>[ir] de uma situação ruim para uma pior</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1490851-S1" ili="wikidata-pt-L1490851-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1490851-S2" ili="wikidata-pt-L1490851-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L15889-S1" ili="l8885-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L44970-S1" ili="l327-s1">
+      <Definition>número cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L307268-S1" ili="l371-s1">
+      <Definition>pronome neutro de terceira pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477314-S1" ili="wikidata-pt-L477314-S1">
+      <Definition>indica localidade</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477314-S2" ili="wikidata-pt-L477314-S2">
+      <Definition>denota preço ou valor</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477314-S3" ili="wikidata-pt-L477314-S3">
+      <Definition>indica tempo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477314-S4" ili="wikidata-pt-L477314-S4">
+      <Definition>indica meio ou modo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490717-S1" ili="wikidata-pt-L490717-S1">
+      <Definition>indica meio ou modo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490717-S2" ili="wikidata-pt-L490717-S2">
+      <Definition>indica distância</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490717-S3" ili="wikidata-pt-L490717-S3">
+      <Definition>indica preço</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490717-S4" ili="wikidata-pt-L490717-S4">
+      <Definition>indica tempo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503957-S1" ili="wikidata-pt-L503957-S1">
+      <Definition>faz referência a algo que está perto de quem fala</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503957-S2" ili="wikidata-pt-L503957-S2">
+      <Definition>faz referência a algo que ainda será falado</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503960-S1" ili="wikidata-pt-L503960-S1">
+      <Definition>faz referência a algo que está perto de quem ouve</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503960-S2" ili="wikidata-pt-L503960-S2">
+      <Definition>faz referência a algo que já foi falado</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L524070-S1" ili="wikidata-pt-L524070-S1">
+      <Definition>indica uma contradição</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L524070-S2" ili="wikidata-pt-L524070-S2">
+      <Definition>indica a informação correta a partir de algo negado anteriormente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L524070-S3" ili="wikidata-pt-L524070-S3">
+      <Definition>indica a causa de algo, implicando que aquilo já era esperado acontecer</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L680183-S1" ili="wikidata-pt-L680183-S1">
+      <Definition>em lugar algum</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L680183-S2" ili="wikidata-pt-L680183-S2">
+      <Definition>de maneira alguma, de jeito nenhum</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1">
+      <Definition>e outros</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983857-S1" ili="wikidata-pt-L983857-S1">
+      <Definition>acalme-se</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983857-S2" ili="wikidata-pt-L983857-S2">
+      <Definition>espere</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983905-S1" ili="wikidata-pt-L983905-S1">
+      <Definition>ave!</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983906-S1" ili="wikidata-pt-L983906-S1">
+      <Definition>ave!</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119737-S1" ili="wikidata-pt-L1119737-S1">
+      <Definition>a céu aberto</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119737-S2" ili="wikidata-pt-L1119737-S2">
+      <Definition>circunstância de um objeto ou evento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1141751-S1" ili="wikidata-pt-L1141751-S1">
+      <Definition>tu</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46868-S2" ili="l330-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46872-S1" ili="wikidata-pt-L46872-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L618640-S1" ili="wikidata-pt-L618640-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676267-S1" ili="wikidata-pt-L676267-S1">
+      <Definition>ao mesmo tempo em que</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676267-S2" ili="wikidata-pt-L676267-S2">
+      <Definition>introduz situação que contrasta com outra</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L676570-S1" ili="wikidata-pt-L676570-S1">
+      <Definition>porque</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L678116-S1" ili="wikidata-pt-L678116-S1">
+      <Definition>explica trecho anterior</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L680184-S1" ili="wikidata-pt-L680184-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900413-S1" ili="wikidata-pt-L900413-S1">
+      <Definition>expressa surpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900413-S2" ili="wikidata-pt-L900413-S2">
+      <Definition>expressa desapontamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900413-S3" ili="wikidata-pt-L900413-S3">
+      <Definition>expressa admiração</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983847-S1" ili="wikidata-pt-L983847-S1">
+      <Definition>expressa total concordância</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119607-S1" ili="wikidata-pt-L1119607-S1">
+      <Definition>por cima</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46869-S1" ili="wikidata-pt-L46869-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46875-S1" ili="wikidata-pt-L46875-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477316-S1" ili="wikidata-pt-L477316-S1">
+      <Definition>indica companhia ou associação</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477316-S2" ili="wikidata-pt-L477316-S2">
+      <Definition>indica modo, meio ou instrumento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477316-S3" ili="wikidata-pt-L477316-S3">
+      <Definition>indica conteúdo de algo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L477316-S4" ili="wikidata-pt-L477316-S4">
+      <Definition>indica causa ou motivo</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L480992-S1" ili="wikidata-pt-L480992-S1">
+      <Definition>indica posse na segunda pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L480996-S1" ili="wikidata-pt-L480996-S1">
+      <Definition>indica posse na terceira pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490719-S1" ili="wikidata-pt-L490719-S1">
+      <Definition>indica incerteza</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490719-S2" ili="wikidata-pt-L490719-S2">
+      <Definition>expõe alternativas</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L490719-S3" ili="wikidata-pt-L490719-S3">
+      <Definition>indica equivalência</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L491661-S1" ili="wikidata-pt-L491661-S1">
+      <Definition>indica a primeira pessoa gramatical</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L491661-S2" ili="wikidata-pt-L491661-S2">
+      <Definition>pronome singular de primeira pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L503963-S1" ili="wikidata-pt-L503963-S1">
+      <Definition>faz referência a algo que está longe de quem fala e de quem ouve</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L674371-S1" ili="wikidata-pt-L674371-S1">
+      <Definition>portanto, consequentemente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L900094-S1" ili="wikidata-pt-L900094-S1">
+      <Definition>oh, ei</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1073013-S1" ili="wikidata-pt-L1073013-S1">
+      <Definition>tu, você</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119756-S1" ili="wikidata-pt-L1119756-S1">
+      <Definition>da maneira que se fazia antigamente</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46871-S1" ili="wikidata-pt-L46871-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46873-S1" ili="wikidata-pt-L46873-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L46874-S1" ili="l337-s1">
+      <Definition>o número 9</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L480984-S1" ili="wikidata-pt-L480984-S1">
+      <Definition>indica posse na primeira pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L491664-S1" ili="wikidata-pt-L491664-S1">
+      <Definition>indica a segunda pessoa gramatical</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L500873-S1" ili="wikidata-pt-L500873-S1">
+      <Definition>indica a segunda pessoa gramatical</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L500873-S2" ili="wikidata-pt-L500873-S2">
+      <Definition>pronome pessoal de tratamento</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L501786-S1" ili="wikidata-pt-L501786-S1">
+      <Definition>depois de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L501786-S2" ili="wikidata-pt-L501786-S2">
+      <Definition>além de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L501786-S3" ili="wikidata-pt-L501786-S3">
+      <Definition>e mais</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L502867-S1" ili="wikidata-pt-L502867-S1">
+      <Definition>no papel de, na função de, no status de</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L647640-S1" ili="wikidata-pt-L647640-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L901082-S1" ili="wikidata-pt-L901082-S1">
+      <Definition>Nossa Senhora!, meu Deus!</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L983904-S1" ili="wikidata-pt-L983904-S1">
+      <Definition>salve</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1119757-S1" ili="wikidata-pt-L1119757-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1490453-S1" ili="wikidata-pt-L1490453-S1">
+      <Definition>qual pessoa</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1490453-S2" ili="wikidata-pt-L1490453-S2">
+      <Definition>a pessoa que</Definition>
+    </Synset>
+    <Synset id="wikidata-pt-L1490453-S3" ili="wikidata-pt-L1490453-S3">
+      <Definition>aqueles que</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

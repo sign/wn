@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-sq"
+                    label="Wikidata SQ Lexemes Extension"
+                    language="sq"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-sq" version="1.4"/>
+    <LexicalEntry id="L1408215">
+      <Lemma writtenForm="aferin" partOfSpeech="interjection"/>
+      <Sense id="L1408215-S1" synset="wikidata-sq-L1408215-S1" ili="wikidata-sq-L1408215-S1">
+        <Definition>piróll! brávo! aferim!</Definition>
+        <SenseRelation relType="similar" target="wikidata-sq-L1408214-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408893">
+      <Lemma writtenForm="bre" partOfSpeech="vocative particle"/>
+      <Sense id="L1408893-S1" synset="wikidata-sq-L1408893-S1" ili="wikidata-sq-L1408893-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L591523">
+      <Lemma writtenForm="një" partOfSpeech="numeral"/>
+      <Sense id="L591523-S1" synset="wikidata-sq-L591523-S1" ili="wikidata-sq-L591523-S1">
+        <Definition>numri 1</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411287">
+      <Lemma writtenForm="në" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L1411287-S1" synset="wikidata-sq-L1411287-S1" ili="wikidata-sq-L1411287-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1458327">
+      <Lemma writtenForm="nga" partOfSpeech="indefinite determiner"/>
+      <Sense id="L1458327-S1" synset="wikidata-sq-L1458327-S1" ili="wikidata-sq-L1458327-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410342">
+      <Lemma writtenForm="bile" partOfSpeech="emphatic particle"/>
+      <Sense id="L1410342-S1" synset="wikidata-sq-L1410342-S1" ili="wikidata-sq-L1410342-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411286">
+      <Lemma writtenForm="në" partOfSpeech="preposition"/>
+      <Sense id="L1411286-S1" synset="wikidata-sq-L1411286-S1" ili="wikidata-sq-L1411286-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1411286-S2" synset="wikidata-sq-L1411286-S2" ili="wikidata-sq-L1411286-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1411286-S3" synset="wikidata-sq-L1411286-S3" ili="wikidata-sq-L1411286-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L591642">
+      <Lemma writtenForm="mos" partOfSpeech="grammatical particle"/>
+      <Sense id="L591642-S1" synset="wikidata-sq-L591642-S1" ili="wikidata-sq-L591642-S1">
+        <Definition>Përdoret zakonisht me folje të mënyrës urdhërore, lidhore e dëshirore, si dhe me trajta të pashtjelluara për t&apos;u dhënë fjalive kuptim mohues ose për t&apos;u dhënë fjalive mohuese nuancën e dëshirës, të urimit, të mallkimit, të qortimit, të këshillës, të kushtit, të ndalimit etj.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408214">
+      <Lemma writtenForm="aferim" partOfSpeech="interjection"/>
+      <Sense id="L1408214-S1" synset="wikidata-sq-L1408214-S1" ili="wikidata-sq-L1408214-S1">
+        <Definition>piróll! brávo! aferin!</Definition>
+        <SenseRelation relType="similar" target="wikidata-sq-L1408215-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1209682">
+      <Lemma writtenForm="dhe" partOfSpeech="conjunction"/>
+      <Sense id="L1209682-S1" synset="wikidata-sq-L1209682-S1" ili="wikidata-sq-L1209682-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408314">
+      <Lemma writtenForm="a" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1408314-S1" synset="wikidata-sq-L1408314-S1" ili="wikidata-sq-L1408314-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410344">
+      <Lemma writtenForm="hem" partOfSpeech="conjunction"/>
+      <Sense id="L1410344-S1" synset="wikidata-sq-L1410344-S1" ili="wikidata-sq-L1410344-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411496">
+      <Lemma writtenForm="i" partOfSpeech="article"/>
+      <Sense id="L1411496-S1" synset="wikidata-sq-L1411496-S1" ili="wikidata-sq-L1411496-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411918">
+      <Lemma writtenForm="ai" partOfSpeech="demonstrative determiner"/>
+      <Sense id="L1411918-S1" synset="wikidata-sq-L1411918-S1" ili="wikidata-sq-L1411918-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1209680">
+      <Lemma writtenForm="edhe" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1209680-S1" synset="wikidata-sq-L1209680-S1" ili="wikidata-sq-L1209680-S1">
+        <Definition>lidhë së paku dy alternativa (inkluzive)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411285">
+      <Lemma writtenForm="ne" partOfSpeech="personal pronoun"/>
+      <Sense id="L1411285-S1" synset="wikidata-sq-L1411285-S1" ili="wikidata-sq-L1411285-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-sq-L1408215-S1" ili="wikidata-sq-L1408215-S1">
+      <Definition>piróll! brávo! aferim!</Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1408893-S1" ili="wikidata-sq-L1408893-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L591523-S1" ili="wikidata-sq-L591523-S1">
+      <Definition>numri 1</Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411287-S1" ili="wikidata-sq-L1411287-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1458327-S1" ili="wikidata-sq-L1458327-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1410342-S1" ili="wikidata-sq-L1410342-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411286-S1" ili="wikidata-sq-L1411286-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411286-S2" ili="wikidata-sq-L1411286-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411286-S3" ili="wikidata-sq-L1411286-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L591642-S1" ili="wikidata-sq-L591642-S1">
+      <Definition>Përdoret zakonisht me folje të mënyrës urdhërore, lidhore e dëshirore, si dhe me trajta të pashtjelluara për t&apos;u dhënë fjalive kuptim mohues ose për t&apos;u dhënë fjalive mohuese nuancën e dëshirës, të urimit, të mallkimit, të qortimit, të këshillës, të kushtit, të ndalimit etj.</Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1408214-S1" ili="wikidata-sq-L1408214-S1">
+      <Definition>piróll! brávo! aferin!</Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1209682-S1" ili="wikidata-sq-L1209682-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1408314-S1" ili="wikidata-sq-L1408314-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1410344-S1" ili="wikidata-sq-L1410344-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411496-S1" ili="wikidata-sq-L1411496-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411918-S1" ili="wikidata-sq-L1411918-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1209680-S1" ili="wikidata-sq-L1209680-S1">
+      <Definition>lidhë së paku dy alternativa (inkluzive)</Definition>
+    </Synset>
+    <Synset id="wikidata-sq-L1411285-S1" ili="wikidata-sq-L1411285-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

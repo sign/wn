@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-vi"
+                    label="Wikidata VI Lexemes Extension"
+                    language="vi"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-vi" version="1.4"/>
+    <LexicalEntry id="L619034">
+      <Lemma writtenForm="và" partOfSpeech="conjunction"/>
+      <Sense id="L619034-S1" synset="wikidata-vi-L619034-S1" ili="l1385-s1">
+        <Definition>liên kết các từ và câu với nhau</Definition>
+      </Sense>
+      <Sense id="L619034-S2" synset="wikidata-vi-L619034-S2" ili="wikidata-vi-L619034-S2">
+        <Definition>từ nối</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646377">
+      <Lemma writtenForm="qua" partOfSpeech="preposition"/>
+      <Sense id="L646377-S1" synset="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L646377-S2" synset="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640550">
+      <Lemma writtenForm="cái" partOfSpeech="classifier"/>
+      <Sense id="L640550-S1" synset="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L640550-S2" synset="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L405260">
+      <Lemma writtenForm="con" partOfSpeech="classifier"/>
+      <Sense id="L405260-S1" synset="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L405260-S2" synset="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L405260-S3" synset="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L405260-S4" synset="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L405260-S5" synset="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5">
+        <Definition></Definition>
+        <SenseRelation relType="hypernym" target="wikidata-vi-L405260-S3"/>
+      </Sense>
+      <Sense id="L405260-S6" synset="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L405260-S7" synset="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646389">
+      <Lemma writtenForm="quả" partOfSpeech="classifier"/>
+      <Sense id="L646389-S1" synset="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-vi-L619034-S1" ili="l1385-s1">
+      <Definition>liên kết các từ và câu với nhau</Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L619034-S2" ili="wikidata-vi-L619034-S2">
+      <Definition>từ nối</Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

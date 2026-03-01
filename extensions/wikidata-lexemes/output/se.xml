@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-se"
+                    label="Wikidata SE Lexemes Extension"
+                    language="se"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-se" version="1.4"/>
+    <LexicalEntry id="L23259">
+      <Lemma writtenForm="golbma" partOfSpeech="numeral"/>
+      <Sense id="L23259-S1" synset="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L525204">
+      <Lemma writtenForm="buorre iđit" partOfSpeech="interjection"/>
+      <Sense id="L525204-S1" synset="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L22956">
+      <Lemma writtenForm="njeallje" partOfSpeech="numeral"/>
+      <Sense id="L22956-S1" synset="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L525203">
+      <Lemma writtenForm="giitu" partOfSpeech="interjection"/>
+      <Sense id="L525203-S1" synset="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727345">
+      <Lemma writtenForm="okta" partOfSpeech="numeral"/>
+      <Sense id="L727345-S1" synset="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

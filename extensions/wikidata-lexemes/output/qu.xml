@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-qu"
+                    label="Wikidata QU Lexemes Extension"
+                    language="qu"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-qu" version="1.4"/>
+    <LexicalEntry id="L663078">
+      <Lemma writtenForm="tawa" partOfSpeech="numeral"/>
+      <Sense id="L663078-S1" synset="wikidata-qu-L663078-S1" ili="wikidata-qu-L663078-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L497917">
+      <Lemma writtenForm="añañáw" partOfSpeech="interjection"/>
+      <Sense id="L497917-S1" synset="wikidata-qu-L497917-S1" ili="wikidata-qu-L497917-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-qu-L663078-S1" ili="wikidata-qu-L663078-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-qu-L497917-S1" ili="wikidata-qu-L497917-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

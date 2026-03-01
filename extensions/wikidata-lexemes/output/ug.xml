@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ug"
+                    label="Wikidata UG Lexemes Extension"
+                    language="ug"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ug" version="1.4"/>
+    <LexicalEntry id="L1013402">
+      <Lemma writtenForm="ئۇلار" partOfSpeech="personal pronoun"/>
+      <Sense id="L1013402-S1" synset="wikidata-ug-L1013402-S1" ili="wikidata-ug-L1013402-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013398">
+      <Lemma writtenForm="ئۇ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1013398-S1" synset="wikidata-ug-L1013398-S1" ili="wikidata-ug-L1013398-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L414242">
+      <Lemma writtenForm="بىز" partOfSpeech="personal pronoun"/>
+      <Sense id="L414242-S1" synset="wikidata-ug-L414242-S1" ili="wikidata-ug-L414242-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L349254">
+      <Lemma writtenForm="مەن" partOfSpeech="personal pronoun"/>
+      <Sense id="L349254-S1" synset="wikidata-ug-L349254-S1" ili="wikidata-ug-L349254-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L407042">
+      <Lemma writtenForm="ھەئە" partOfSpeech="interjection"/>
+      <Sense id="L407042-S1" synset="wikidata-ug-L407042-S1" ili="wikidata-ug-L407042-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ug-L1013402-S1" ili="wikidata-ug-L1013402-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ug-L1013398-S1" ili="wikidata-ug-L1013398-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ug-L414242-S1" ili="wikidata-ug-L414242-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ug-L349254-S1" ili="wikidata-ug-L349254-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ug-L407042-S1" ili="wikidata-ug-L407042-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

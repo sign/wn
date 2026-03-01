@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-yi"
+                    label="Wikidata YI Lexemes Extension"
+                    language="yi"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-yi" version="1.4"/>
+    <LexicalEntry id="L590132">
+      <Lemma writtenForm="אײדער" partOfSpeech="conjunction"/>
+      <Sense id="L590132-S1" synset="wikidata-yi-L590132-S1" ili="wikidata-yi-L590132-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L590132-S2" synset="wikidata-yi-L590132-S2" ili="wikidata-yi-L590132-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943011">
+      <Lemma writtenForm="װאָס" partOfSpeech="relative pronoun"/>
+      <Sense id="L943011-S1" synset="wikidata-yi-L943011-S1" ili="wikidata-yi-L943011-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305814">
+      <Lemma writtenForm="זי‎" partOfSpeech="personal pronoun"/>
+      <Sense id="L305814-S1" synset="wikidata-yi-L305814-S1" ili="wikidata-yi-L305814-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588392">
+      <Lemma writtenForm="נישט" partOfSpeech="grammatical particle"/>
+      <Sense id="L588392-S1" synset="wikidata-yi-L588392-S1" ili="wikidata-yi-L588392-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588394">
+      <Lemma writtenForm="קײן" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L588394-S1" synset="wikidata-yi-L588394-S1" ili="wikidata-yi-L588394-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588470">
+      <Lemma writtenForm="צװײ" partOfSpeech="numeral"/>
+      <Sense id="L588470-S1" synset="wikidata-yi-L588470-S1" ili="wikidata-yi-L588470-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L732871">
+      <Lemma writtenForm="װען" partOfSpeech="conjunction"/>
+      <Sense id="L732871-S1" synset="wikidata-yi-L732871-S1" ili="wikidata-yi-L732871-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L732871-S2" synset="wikidata-yi-L732871-S2" ili="wikidata-yi-L732871-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305815">
+      <Lemma writtenForm="מיר" partOfSpeech="personal pronoun"/>
+      <Sense id="L305815-S1" synset="wikidata-yi-L305815-S1" ili="wikidata-yi-L305815-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L587926">
+      <Lemma writtenForm="װי" partOfSpeech="preposition"/>
+      <Sense id="L587926-S1" synset="wikidata-yi-L587926-S1" ili="wikidata-yi-L587926-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588704">
+      <Lemma writtenForm="אום" partOfSpeech="preposition"/>
+      <Sense id="L588704-S1" synset="wikidata-yi-L588704-S1" ili="wikidata-yi-L588704-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588704-S2" synset="wikidata-yi-L588704-S2" ili="wikidata-yi-L588704-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588750">
+      <Lemma writtenForm="מען" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L588750-S1" synset="wikidata-yi-L588750-S1" ili="wikidata-yi-L588750-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588805">
+      <Lemma writtenForm="און" partOfSpeech="conjunction"/>
+      <Sense id="L588805-S1" synset="wikidata-yi-L588805-S1" ili="wikidata-yi-L588805-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L590403">
+      <Lemma writtenForm="מיט" partOfSpeech="preposition"/>
+      <Sense id="L590403-S1" synset="wikidata-yi-L590403-S1" ili="wikidata-yi-L590403-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943082">
+      <Lemma writtenForm="אַבי װער" partOfSpeech="pronominal locution"/>
+      <Sense id="L943082-S1" synset="wikidata-yi-L943082-S1" ili="wikidata-yi-L943082-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L943082-S2" synset="wikidata-yi-L943082-S2" ili="wikidata-yi-L943082-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L406826">
+      <Lemma writtenForm="דאָס" partOfSpeech="definite article"/>
+      <Sense id="L406826-S1" synset="wikidata-yi-L406826-S1" ili="wikidata-yi-L406826-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588700">
+      <Lemma writtenForm="אױף" partOfSpeech="preposition"/>
+      <Sense id="L588700-S1" synset="wikidata-yi-L588700-S1" ili="wikidata-yi-L588700-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588700-S2" synset="wikidata-yi-L588700-S2" ili="wikidata-yi-L588700-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588700-S3" synset="wikidata-yi-L588700-S3" ili="wikidata-yi-L588700-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588700-S4" synset="wikidata-yi-L588700-S4" ili="wikidata-yi-L588700-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588700-S5" synset="wikidata-yi-L588700-S5" ili="wikidata-yi-L588700-S5">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L590685">
+      <Lemma writtenForm="אַלע" partOfSpeech="determiner"/>
+      <Sense id="L590685-S1" synset="wikidata-yi-L590685-S1" ili="wikidata-yi-L590685-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942318">
+      <Lemma writtenForm="אַבי" partOfSpeech="conjunction"/>
+      <Sense id="L942318-S1" synset="wikidata-yi-L942318-S1" ili="wikidata-yi-L942318-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L942318-S2" synset="wikidata-yi-L942318-S2" ili="wikidata-yi-L942318-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L942318-S3" synset="wikidata-yi-L942318-S3" ili="wikidata-yi-L942318-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L942318-S4" synset="wikidata-yi-L942318-S4" ili="wikidata-yi-L942318-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943001">
+      <Lemma writtenForm="װאָס" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L943001-S1" synset="wikidata-yi-L943001-S1" ili="wikidata-yi-L943001-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227158">
+      <Lemma writtenForm="חלילה" partOfSpeech="interjection"/>
+      <Sense id="L1227158-S1" synset="wikidata-yi-L1227158-S1" ili="wikidata-yi-L1227158-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L589759">
+      <Lemma writtenForm="פֿאַר" partOfSpeech="preposition"/>
+      <Sense id="L589759-S1" synset="wikidata-yi-L589759-S1" ili="wikidata-yi-L589759-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942888">
+      <Lemma writtenForm="װער" partOfSpeech="pronoun"/>
+      <Sense id="L942888-S1" synset="wikidata-yi-L942888-S1" ili="wikidata-yi-L942888-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943014">
+      <Lemma writtenForm="װאָסער" partOfSpeech="determiner"/>
+      <Sense id="L943014-S1" synset="wikidata-yi-L943014-S1" ili="wikidata-yi-L943014-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943021">
+      <Lemma writtenForm="אַבי װוּ" partOfSpeech="adverbial locution"/>
+      <Sense id="L943021-S1" synset="wikidata-yi-L943021-S1" ili="wikidata-yi-L943021-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943028">
+      <Lemma writtenForm="אַבי װאָס" partOfSpeech="pronominal locution"/>
+      <Sense id="L943028-S1" synset="wikidata-yi-L943028-S1" ili="wikidata-yi-L943028-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L943028-S2" synset="wikidata-yi-L943028-S2" ili="wikidata-yi-L943028-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943064">
+      <Lemma writtenForm="אַבי װי" partOfSpeech="adverbial locution"/>
+      <Sense id="L943064-S1" synset="wikidata-yi-L943064-S1" ili="wikidata-yi-L943064-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L988696">
+      <Lemma writtenForm="אָבער" partOfSpeech="conjunction"/>
+      <Sense id="L988696-S1" synset="wikidata-yi-L988696-S1" ili="wikidata-yi-L988696-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305747">
+      <Lemma writtenForm="ער" partOfSpeech="personal pronoun"/>
+      <Sense id="L305747-S1" synset="wikidata-yi-L305747-S1" ili="wikidata-yi-L305747-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305812">
+      <Lemma writtenForm="איך‎" partOfSpeech="personal pronoun"/>
+      <Sense id="L305812-S1" synset="wikidata-yi-L305812-S1" ili="wikidata-yi-L305812-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305816">
+      <Lemma writtenForm="איר" partOfSpeech="personal pronoun"/>
+      <Sense id="L305816-S1" synset="wikidata-yi-L305816-S1" ili="wikidata-yi-L305816-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305817">
+      <Lemma writtenForm="זײ" partOfSpeech="personal pronoun"/>
+      <Sense id="L305817-S1" synset="wikidata-yi-L305817-S1" ili="wikidata-yi-L305817-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588097">
+      <Lemma writtenForm="נאָך" partOfSpeech="preposition"/>
+      <Sense id="L588097-S1" synset="wikidata-yi-L588097-S1" ili="wikidata-yi-L588097-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588467">
+      <Lemma writtenForm="פֿון" partOfSpeech="preposition"/>
+      <Sense id="L588467-S1" synset="wikidata-yi-L588467-S1" ili="wikidata-yi-L588467-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L588467-S2" synset="wikidata-yi-L588467-S2" ili="wikidata-yi-L588467-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588468">
+      <Lemma writtenForm="אײן" partOfSpeech="numeral"/>
+      <Sense id="L588468-S1" synset="wikidata-yi-L588468-S1" ili="wikidata-yi-L588468-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L590398">
+      <Lemma writtenForm="אַז" partOfSpeech="conjunction"/>
+      <Sense id="L590398-S1" synset="wikidata-yi-L590398-S1" ili="wikidata-yi-L590398-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L590398-S2" synset="wikidata-yi-L590398-S2" ili="wikidata-yi-L590398-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305813">
+      <Lemma writtenForm="דו‎" partOfSpeech="personal pronoun"/>
+      <Sense id="L305813-S1" synset="wikidata-yi-L305813-S1" ili="wikidata-yi-L305813-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588391">
+      <Lemma writtenForm="אַכט" partOfSpeech="numeral"/>
+      <Sense id="L588391-S1" synset="wikidata-yi-L588391-S1" ili="wikidata-yi-L588391-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L732866">
+      <Lemma writtenForm="אין" partOfSpeech="preposition"/>
+      <Sense id="L732866-S1" synset="wikidata-yi-L732866-S1" ili="wikidata-yi-L732866-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L876308">
+      <Lemma writtenForm="נאָר" partOfSpeech="conjunction"/>
+      <Sense id="L876308-S1" synset="wikidata-yi-L876308-S1" ili="wikidata-yi-L876308-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588096">
+      <Lemma writtenForm="אַ" partOfSpeech="determiner"/>
+      <Sense id="L588096-S1" synset="wikidata-yi-L588096-S1" ili="l2767-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588376">
+      <Lemma writtenForm="זיבן" partOfSpeech="numeral"/>
+      <Sense id="L588376-S1" synset="wikidata-yi-L588376-S1" ili="wikidata-yi-L588376-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942101">
+      <Lemma writtenForm="אָבװאָל" partOfSpeech="conjunction"/>
+      <Sense id="L942101-S1" synset="wikidata-yi-L942101-S1" ili="wikidata-yi-L942101-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-yi-L590132-S1" ili="wikidata-yi-L590132-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L590132-S2" ili="wikidata-yi-L590132-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943011-S1" ili="wikidata-yi-L943011-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305814-S1" ili="wikidata-yi-L305814-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588392-S1" ili="wikidata-yi-L588392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588394-S1" ili="wikidata-yi-L588394-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588470-S1" ili="wikidata-yi-L588470-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L732871-S1" ili="wikidata-yi-L732871-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L732871-S2" ili="wikidata-yi-L732871-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305815-S1" ili="wikidata-yi-L305815-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L587926-S1" ili="wikidata-yi-L587926-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588704-S1" ili="wikidata-yi-L588704-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588704-S2" ili="wikidata-yi-L588704-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588750-S1" ili="wikidata-yi-L588750-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588805-S1" ili="wikidata-yi-L588805-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L590403-S1" ili="wikidata-yi-L590403-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943082-S1" ili="wikidata-yi-L943082-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943082-S2" ili="wikidata-yi-L943082-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L406826-S1" ili="wikidata-yi-L406826-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588700-S1" ili="wikidata-yi-L588700-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588700-S2" ili="wikidata-yi-L588700-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588700-S3" ili="wikidata-yi-L588700-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588700-S4" ili="wikidata-yi-L588700-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588700-S5" ili="wikidata-yi-L588700-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L590685-S1" ili="wikidata-yi-L590685-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942318-S1" ili="wikidata-yi-L942318-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942318-S2" ili="wikidata-yi-L942318-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942318-S3" ili="wikidata-yi-L942318-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942318-S4" ili="wikidata-yi-L942318-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943001-S1" ili="wikidata-yi-L943001-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L1227158-S1" ili="wikidata-yi-L1227158-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L589759-S1" ili="wikidata-yi-L589759-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942888-S1" ili="wikidata-yi-L942888-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943014-S1" ili="wikidata-yi-L943014-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943021-S1" ili="wikidata-yi-L943021-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943028-S1" ili="wikidata-yi-L943028-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943028-S2" ili="wikidata-yi-L943028-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L943064-S1" ili="wikidata-yi-L943064-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L988696-S1" ili="wikidata-yi-L988696-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305747-S1" ili="wikidata-yi-L305747-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305812-S1" ili="wikidata-yi-L305812-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305816-S1" ili="wikidata-yi-L305816-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305817-S1" ili="wikidata-yi-L305817-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588097-S1" ili="wikidata-yi-L588097-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588467-S1" ili="wikidata-yi-L588467-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588467-S2" ili="wikidata-yi-L588467-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588468-S1" ili="wikidata-yi-L588468-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L590398-S1" ili="wikidata-yi-L590398-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L590398-S2" ili="wikidata-yi-L590398-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L305813-S1" ili="wikidata-yi-L305813-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588391-S1" ili="wikidata-yi-L588391-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L732866-S1" ili="wikidata-yi-L732866-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L876308-S1" ili="wikidata-yi-L876308-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588096-S1" ili="l2767-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L588376-S1" ili="wikidata-yi-L588376-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-yi-L942101-S1" ili="wikidata-yi-L942101-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

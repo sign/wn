@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-pl"
+                    label="Wikidata PL Lexemes Extension"
+                    language="pl"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-pl" version="1.4"/>
+    <LexicalEntry id="L3404">
+      <Lemma writtenForm="trzydzieści" partOfSpeech="nominal"/>
+      <Sense id="L3404-S1" synset="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1">
+        <Definition>o jeden więcej niż dwadzieścia dziewięć</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21188">
+      <Lemma writtenForm="my" partOfSpeech="personal pronoun"/>
+      <Sense id="L21188-S1" synset="wikidata-pl-L21188-S1" ili="wikidata-pl-L21188-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21196">
+      <Lemma writtenForm="każdziuteńki" partOfSpeech="pronoun"/>
+      <Sense id="L21196-S1" synset="wikidata-pl-L21196-S1" ili="wikidata-pl-L21196-S1">
+        <Definition>każdy jeden bez wyjątku</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L33580">
+      <Lemma writtenForm="jak na zwolnionym filmie" partOfSpeech="adverbial locution"/>
+      <Sense id="L33580-S1" synset="wikidata-pl-L33580-S1" ili="wikidata-pl-L33580-S1">
+        <Definition>o wykonywanej czynności: robiąc bardzo wolno, ślimacząc się</Definition>
+        <Example>Papierosa podnosił do ust jak na zwolnionym filmie. Jego powolność spowodowała, że zelżało napięcie w moich mięśniach.</Example>
+        <Example>Woda była tu zimniejsza niż na otwartej plaży, tak czysta, że bajkowo kolorowy świat alg, ławic rybnych, meduz i skorupiaków oblepiających omszałe głazy przesuwał się jak na zwolnionym filmie przed oczyma nurków.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34809">
+      <Lemma writtenForm="tydzień w tydzień" partOfSpeech="adverbial locution"/>
+      <Sense id="L34809-S1" synset="wikidata-pl-L34809-S1" ili="wikidata-pl-L34809-S1">
+        <Definition>systematycznie każdego tygodnia</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L34810-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36642">
+      <Lemma writtenForm="w świątek, piątek i niedzielę" partOfSpeech="adverbial locution"/>
+      <Sense id="L36642-S1" synset="wikidata-pl-L36642-S1" ili="wikidata-pl-L36642-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Rolnicy pracują codziennie - w świątek, piątek i niedzielę. Nie mają świąt, nie mają urlopu wypoczynkowego.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36649">
+      <Lemma writtenForm="świątek i piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36649-S1" synset="wikidata-pl-L36649-S1" ili="wikidata-pl-L36649-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Jej skrywanym marzeniem jest, aby ludzkość chodziła w dresach świątek i piątek.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L38153">
+      <Lemma writtenForm="tym bardziej" partOfSpeech="grammatical particle"/>
+      <Sense id="L38153-S1" synset="wikidata-pl-L38153-S1" ili="wikidata-pl-L38153-S1">
+        <Definition>wskazanie, że to o czym mowa jest prawdą, ponieważ to co było powiedziane wcześniej jest prawdą</Definition>
+        <Example>Polacy, z którymi się stykał po wojnie, nie znali go, nie byli więc wcale wylewni, ani tym bardziej przyjaźni.</Example>
+        <Example>- Proszę mi wybaczyć, Suzanne, pomyliłem się. Takie pomyłki zdarzają się w życiu, tym bardziej mogą się zdarzyć tu.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L729521">
+      <Lemma writtenForm="zawiasy" partOfSpeech="gerund"/>
+      <Sense id="L729521-S1" synset="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1">
+        <Definition>wyrok w zawieszeniu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740143">
+      <Lemma writtenForm="na ozaist" partOfSpeech="adverbial locution"/>
+      <Sense id="L740143-S1" synset="wikidata-pl-L740143-S1" ili="wikidata-pl-L740143-S1">
+        <Definition>wyraźnie</Definition>
+      </Sense>
+      <Sense id="L740143-S2" synset="wikidata-pl-L740143-S2" ili="wikidata-pl-L740143-S2">
+        <Definition>naprawdę, na pewno, zaiste</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1419361">
+      <Lemma writtenForm="dalej" partOfSpeech="interjection"/>
+      <Sense id="L1419361-S1" synset="wikidata-pl-L1419361-S1" ili="wikidata-pl-L1419361-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13353">
+      <Lemma writtenForm="który" partOfSpeech="pronoun"/>
+      <Sense id="L13353-S1" synset="wikidata-pl-L13353-S1" ili="wikidata-pl-L13353-S1">
+        <Definition>zaimek przymiotny pytajny, służący do tworzenia pytań o numer elementu w danej grupie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L20118">
+      <Lemma writtenForm="kurwa" partOfSpeech="grammatical particle"/>
+      <Sense id="L20118-S1" synset="wikidata-pl-L20118-S1" ili="wikidata-pl-L20118-S1">
+        <Definition>partykuła wzmacniająca wypowiedź</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L30577">
+      <Lemma writtenForm="aby" partOfSpeech="grammatical particle"/>
+      <Sense id="L30577-S1" synset="wikidata-pl-L30577-S1" ili="wikidata-pl-L30577-S1">
+        <Definition>partykuła stwierdzająca, że nie wiadomo czy tak jest</Definition>
+        <Example>Aby zrozumieliście, o co pytałem?</Example>
+      </Sense>
+      <Sense id="L30577-S2" synset="wikidata-pl-L30577-S2" ili="wikidata-pl-L30577-S2">
+        <Definition>partykuła określająca życzenie</Definition>
+        <Example>Aby wam się dobrze działo!</Example>
+      </Sense>
+      <Sense id="L30577-S3" synset="wikidata-pl-L30577-S3" ili="wikidata-pl-L30577-S3">
+        <Definition>partykuła określająca wątpliwość co do stwierdzenia zawierającego się w pytaniu</Definition>
+        <Example>Aby nie za późno na wizytę?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36640">
+      <Lemma writtenForm="w świątek, piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36640-S1" synset="wikidata-pl-L36640-S1" ili="wikidata-pl-L36640-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Józek, jej zięć, przez wiele lat mleko woził. W świątek, piątek. Dobrze się natyrał przez kilkanaście lat.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36650">
+      <Lemma writtenForm="w świątek i piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36650-S1" synset="wikidata-pl-L36650-S1" ili="wikidata-pl-L36650-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Na granicy służbę trzeba pełnić w świątek i piątek, niezależnie od pogody.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42207">
+      <Lemma writtenForm="dziesięć" partOfSpeech="nominal"/>
+      <Sense id="L42207-S1" synset="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1">
+        <Definition>liczba</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409880">
+      <Lemma writtenForm="wszyscy" partOfSpeech="pronoun"/>
+      <Sense id="L409880-S1" synset="wikidata-pl-L409880-S1" ili="wikidata-pl-L409880-S1">
+        <Definition>każdy jeden</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739568">
+      <Lemma writtenForm="kielo" partOfSpeech="pronoun"/>
+      <Sense id="L739568-S1" synset="wikidata-pl-L739568-S1" ili="wikidata-pl-L739568-S1">
+        <Definition>ile</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5485">
+      <Lemma writtenForm="np." partOfSpeech="conjunction"/>
+      <Sense id="L5485-S1" synset="wikidata-pl-L5485-S1" ili="wikidata-pl-L5485-S1">
+        <Definition>skrót: na przykład</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6410">
+      <Lemma writtenForm="ja" partOfSpeech="personal pronoun"/>
+      <Sense id="L6410-S1" synset="wikidata-pl-L6410-S1" ili="wikidata-pl-L6410-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6569">
+      <Lemma writtenForm="jak" partOfSpeech="preposition"/>
+      <Sense id="L6569-S1" synset="wikidata-pl-L6569-S1" ili="wikidata-pl-L6569-S1">
+        <Definition>wprowadzający porównanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L7049">
+      <Lemma writtenForm="a" partOfSpeech="grammatical particle"/>
+      <Sense id="L7049-S1" synset="wikidata-pl-L7049-S1" ili="wikidata-pl-L7049-S1">
+        <Definition>nawiązanie do kontekstu lub sytuacji i jednocześnie wprowadzenie wypowiedzenia o zróżnicowanych odcieniach intonacyjnych</Definition>
+        <Example>A nie mówiłam?</Example>
+        <Example>A niech sobie śpiewa.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17516">
+      <Lemma writtenForm="w aksamitnych rękawiczkach" partOfSpeech="adverbial locution"/>
+      <Sense id="L17516-S1" synset="wikidata-pl-L17516-S1" ili="wikidata-pl-L17516-S1">
+        <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L17515-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17517-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17518-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L38149">
+      <Lemma writtenForm="jak najbardziej" partOfSpeech="grammatical particle"/>
+      <Sense id="L38149-S1" synset="wikidata-pl-L38149-S1" ili="wikidata-pl-L38149-S1">
+        <Definition>potwierdzenie tego co zostało powiedziane</Definition>
+        <Example>- Łaskawy kolego! - pyta Franek. - Czy rzeczywiście w tych sprawach radził się pan u naszego kochanego Rokity? - Ależ jak najbardziej! Wspominałem mu o tych planach i zamiarach! - puszy się odurzony nadziejami adiunkt Piaskawy.</Example>
+        <Example>- Pan mówi poważnie? - Jak najbardziej, szefie - mówię.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305960">
+      <Lemma writtenForm="fumigacja" partOfSpeech="gerund"/>
+      <Sense id="L305960-S1" synset="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1">
+        <Definition>poddanie działaniu gazów celem pozbycia się szkodliwych organizmów z obiektu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477041">
+      <Lemma writtenForm="kryka" partOfSpeech="common noun"/>
+      <Sense id="L477041-S1" synset="wikidata-pl-L477041-S1" ili="wikidata-pl-L477041-S1">
+        <Definition>drewniana łaska, regionalizm</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477042">
+      <Lemma writtenForm="cyckać" partOfSpeech="infinitive"/>
+      <Sense id="L477042-S1" synset="wikidata-pl-L477042-S1" ili="wikidata-pl-L477042-S1">
+        <Definition>ssać, np. cukierek</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739548">
+      <Lemma writtenForm="kany" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L739548-S1" synset="wikidata-pl-L739548-S1" ili="wikidata-pl-L739548-S1">
+        <Definition>gdzie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L997458">
+      <Lemma writtenForm="albo rybki, albo akwarium" partOfSpeech="phraseme"/>
+      <Sense id="L997458-S1" synset="wikidata-pl-L997458-S1" ili="wikidata-pl-L997458-S1">
+        <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L997459-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6039">
+      <Lemma writtenForm="śniadanie" partOfSpeech="gerund"/>
+      <Sense id="L6039-S1" synset="wikidata-pl-L6039-S1" ili="wikidata-pl-L6039-S1">
+        <Definition>pierwszy posiłek dnia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L7050">
+      <Lemma writtenForm="a" partOfSpeech="interjection"/>
+      <Sense id="L7050-S1" synset="wikidata-pl-L7050-S1" ili="wikidata-pl-L7050-S1">
+        <Definition>wykrzyknik wyrażający przypomnienie sobie o czymś lub zauważenie czegoś</Definition>
+        <Example>- Aaa, listy - policjant machnął lekceważąco ręką.</Example>
+        <Example>- A, pan Edek! Proszę, niech pan wejdzie.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10881">
+      <Lemma writtenForm="ty" partOfSpeech="personal pronoun"/>
+      <Sense id="L10881-S1" synset="wikidata-pl-L10881-S1" ili="wikidata-pl-L10881-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L20117">
+      <Lemma writtenForm="kurwa" partOfSpeech="interjection"/>
+      <Sense id="L20117-S1" synset="wikidata-pl-L20117-S1" ili="wikidata-pl-L20117-S1">
+        <Definition>przekleństwo, w mowie potocznej często jako przerywnik w zdaniu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34810">
+      <Lemma writtenForm="co tygodnia" partOfSpeech="adverbial locution"/>
+      <Sense id="L34810-S1" synset="wikidata-pl-L34810-S1" ili="wikidata-pl-L34810-S1">
+        <Definition>systematycznie każdego tygodnia</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L34809-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34816">
+      <Lemma writtenForm="w tygodniu" partOfSpeech="adverbial locution"/>
+      <Sense id="L34816-S1" synset="wikidata-pl-L34816-S1" ili="wikidata-pl-L34816-S1">
+        <Definition>w ciągu dni roboczych, z pominięciem niedzieli</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36464">
+      <Lemma writtenForm="nad wiek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36464-S1" synset="wikidata-pl-L36464-S1" ili="wikidata-pl-L36464-S1">
+        <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+        <Example>Okazał się bowiem młodzieńcem inteligentnym, nad wiek dojrzałym i o ogromnym poczuciu humoru.</Example>
+        <Example>Była to siedmioletnia, chuda i nad wiek długa dziewczynka, oczy miała równie piękne jak ojciec, ale o daleko przyjemniejszym wyrazie.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36465-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L734171">
+      <Lemma writtenForm="ady" partOfSpeech="grammatical particle"/>
+      <Sense id="L734171-S1" synset="wikidata-pl-L734171-S1" ili="wikidata-pl-L734171-S1">
+        <Definition>przecież</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1259868">
+      <Lemma writtenForm="on" partOfSpeech="personal pronoun"/>
+      <Sense id="L1259868-S1" synset="wikidata-pl-L1259868-S1" ili="wikidata-pl-L1259868-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2977">
+      <Lemma writtenForm="albowiem" partOfSpeech="conjunction"/>
+      <Sense id="L2977-S1" synset="wikidata-pl-L2977-S1" ili="wikidata-pl-L2977-S1">
+        <Definition>spójnik przyłączający nową informację ułatwiającą zrozumienie tego, co powiedziano wcześniej</Definition>
+        <Example>Ośrodek znowu wyglądał jak wymarły, albowiem wczasowicze gnieździli się na malutkiej plaży, skąd dochodziły krzyki kąpiących się.</Example>
+        <Example>Najpierw się schował na widok obcej kobiety, albowiem był tylko w spodniach i podkoszulku, a potem zaraz rozpoznał w obcej kobiecie Kreskę i wszedł do kuchni z powrotem, oznajmiając, że chyba zjadłby coś smażonego.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13358">
+      <Lemma writtenForm="się" partOfSpeech="pronoun"/>
+      <Sense id="L13358-S1" synset="wikidata-pl-L13358-S1" ili="wikidata-pl-L13358-S1">
+        <Definition>zaimek zwrotny</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21195">
+      <Lemma writtenForm="każdziutki" partOfSpeech="pronoun"/>
+      <Sense id="L21195-S1" synset="wikidata-pl-L21195-S1" ili="wikidata-pl-L21195-S1">
+        <Definition>zdrobn. od: każdy</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L24684">
+      <Lemma writtenForm="między" partOfSpeech="preposition"/>
+      <Sense id="L24684-S1" synset="wikidata-pl-L24684-S1" ili="wikidata-pl-L24684-S1">
+        <Definition>gdy coś znajduje się pomiędzy obiektami</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36645">
+      <Lemma writtenForm="w świątek czy piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36645-S1" synset="wikidata-pl-L36645-S1" ili="wikidata-pl-L36645-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Kowalski należy do klubu morsów, tapla się w przeręblach, u szyi, na tasiemce, zawieszony ma krokomierz, wedle którego w świątek czy piątek, wykonać ma rekruckim truchtem cztery kilometry.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727681">
+      <Lemma writtenForm="ochadany" partOfSpeech="gerund"/>
+      <Sense id="L727681-S1" synset="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1">
+        <Definition>ogarnięty (o osobie)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L997459">
+      <Lemma writtenForm="wóz albo przewóz" partOfSpeech="phraseme"/>
+      <Sense id="L997459-S1" synset="wikidata-pl-L997459-S1" ili="wikidata-pl-L997459-S1">
+        <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L997458-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L12097">
+      <Lemma writtenForm="tak" partOfSpeech="grammatical particle"/>
+      <Sense id="L12097-S1" synset="wikidata-pl-L12097-S1" ili="wikidata-pl-L12097-S1">
+        <Definition>partykuła twierdząca</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L30576">
+      <Lemma writtenForm="aby" partOfSpeech="conjunction"/>
+      <Sense id="L30576-S1" synset="wikidata-pl-L30576-S1" ili="wikidata-pl-L30576-S1">
+        <Definition>spójnik wprowadzający zdanie podrzędne określające cel tego, o czym mowa w zdaniu nadrzędnym</Definition>
+        <Example>Wyciągnął rękę, aby zerwać kwiat.</Example>
+      </Sense>
+      <Sense id="L30576-S2" synset="wikidata-pl-L30576-S2" ili="wikidata-pl-L30576-S2">
+        <Definition>spójnik wprowadzający zdanie podrzędne określające to, co jest warunkiem tego, o czym mowa w zdaniu nadrzędnym</Definition>
+        <Example>Od dawna bliskie mi jest przekonanie, że trzeba być konserwatystą, aby móc być liberałem.</Example>
+      </Sense>
+      <Sense id="L30576-S3" synset="wikidata-pl-L30576-S3" ili="wikidata-pl-L30576-S3">
+        <Definition>spójnik wprowadzający zdanie podrzędne określające sposób osiągniecia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+        <Example>Chciała zaznać rozkoszy, ale tak, aby on się nie zorientował.</Example>
+      </Sense>
+      <Sense id="L30576-S4" synset="wikidata-pl-L30576-S4" ili="wikidata-pl-L30576-S4">
+        <Definition>spójnik wprowadzający zdanie podrzędne określające cel zależny od stopnia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+        <Example>Był zbyt dumny, aby przyjąć pomoc.</Example>
+      </Sense>
+      <Sense id="L30576-S5" synset="wikidata-pl-L30576-S5" ili="wikidata-pl-L30576-S5">
+        <Definition>spójnik wprowadzający zdanie podrzędne komunikujące o zdarzeniu nieoczekiwanym w stosunku do tego, o czym mowa w zdaniu nadrzędnym</Definition>
+        <Example>Deszcz przestał siąpić, aby po chwili rozpadać się na dobre.</Example>
+      </Sense>
+      <Sense id="L30576-S6" synset="wikidata-pl-L30576-S6" ili="wikidata-pl-L30576-S6">
+        <Definition>spójnik wprowadzający zdanie podrzędne, po zdaniu nadrzędnym wyrażającym wolę, sąd, propozycję lub inny cel jaki chce osiągnąć osoba mówiąca</Definition>
+        <Example>Prezydent Andrzej Duda chce, aby 10 i 11 listopada 2018 roku odbyło się referendum konstytucyjne.</Example>
+      </Sense>
+      <Sense id="L30576-S7" synset="wikidata-pl-L30576-S7" ili="wikidata-pl-L30576-S7">
+        <Definition>spójnik wprowadzający składnik wyrażający życzenie albo warunek</Definition>
+        <Example>Napisz coś, aby na temat.</Example>
+      </Sense>
+      <Sense id="L30576-S8" synset="wikidata-pl-L30576-S8" ili="wikidata-pl-L30576-S8">
+        <Definition>spójnik wprowadzający składnik mówiący o tym, że to co jest robione nie przynosi efektów</Definition>
+        <Example>Daj jakieś argumenty sensowne, bo jak masz gadać aby gadać, to szkoda mojego i Twojego czasu.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34815">
+      <Lemma writtenForm="z tygodnia na tydzień" partOfSpeech="adverbial locution"/>
+      <Sense id="L34815-S1" synset="wikidata-pl-L34815-S1" ili="wikidata-pl-L34815-S1">
+        <Definition>stopniowo, przez kilka i więcej tygodni</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L449208">
+      <Lemma writtenForm="sranie" partOfSpeech="gerund"/>
+      <Sense id="L449208-S1" synset="wikidata-pl-L449208-S1" ili="wikidata-pl-L449208-S1">
+        <Definition>wulgarne określenie na oddawanie kału</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739068">
+      <Lemma writtenForm="dości" partOfSpeech="numeral"/>
+      <Sense id="L739068-S1" synset="wikidata-pl-L739068-S1" ili="wikidata-pl-L739068-S1">
+        <Definition>dosyć</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740139">
+      <Lemma writtenForm="na isto" partOfSpeech="adverbial locution"/>
+      <Sense id="L740139-S1" synset="wikidata-pl-L740139-S1" ili="wikidata-pl-L740139-S1">
+        <Definition>rzeczywiście</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740140">
+      <Lemma writtenForm="nale" partOfSpeech="conjunction"/>
+      <Sense id="L740140-S1" synset="wikidata-pl-L740140-S1" ili="wikidata-pl-L740140-S1">
+        <Definition>ale</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2947">
+      <Lemma writtenForm="przeciwko" partOfSpeech="preposition"/>
+      <Sense id="L2947-S1" synset="wikidata-pl-L2947-S1" ili="wikidata-pl-L2947-S1">
+        <Definition>przeciw</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6852">
+      <Lemma writtenForm="miasto" partOfSpeech="preposition"/>
+      <Sense id="L6852-S1" synset="wikidata-pl-L6852-S1" ili="wikidata-pl-L6852-S1">
+        <Definition>zamiast</Definition>
+      </Sense>
+      <Sense id="L6852-S2" synset="wikidata-pl-L6852-S2" ili="wikidata-pl-L6852-S2">
+        <Definition>zamiast</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17518">
+      <Lemma writtenForm="w rękawiczkach" partOfSpeech="adverbial locution"/>
+      <Sense id="L17518-S1" synset="wikidata-pl-L17518-S1" ili="wikidata-pl-L17518-S1">
+        <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L17515-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17516-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17517-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L20549">
+      <Lemma writtenForm="kole" partOfSpeech="preposition"/>
+      <Sense id="L20549-S1" synset="wikidata-pl-L20549-S1" ili="wikidata-pl-L20549-S1">
+        <Definition>koło, około, wokół</Definition>
+        <Example>Było to kole Gwiozdki 1918, pore dni potem, kiedy to tyn dekorz ze Śródki wlozł na rotusz poznański, dycht na samum szpycę.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L25470">
+      <Lemma writtenForm="oraz" partOfSpeech="conjunction"/>
+      <Sense id="L25470-S1" synset="wikidata-pl-L25470-S1" ili="wikidata-pl-L25470-S1">
+        <Definition>spójnik łączący słowa i zdania równorzędne</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36465">
+      <Lemma writtenForm="ponad wiek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36465-S1" synset="wikidata-pl-L36465-S1" ili="wikidata-pl-L36465-S1">
+        <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+        <Example>Moja nadzwyczajna, ponad wiek rozwinięta mądrość nie przysparzała mi sympatii otoczenia, budząc raczej podejrzenie o konszachty z demonem.</Example>
+        <Example>Staraliśmy się być poważni ponad wiek.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36464-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36641">
+      <Lemma writtenForm="świątek, piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36641-S1" synset="wikidata-pl-L36641-S1" ili="wikidata-pl-L36641-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>Brakuje 70 000 ludzi w górnictwie. Pracujemy świątek, piątek, na okrągło.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36643">
+      <Lemma writtenForm="świątek, piątek i niedziela" partOfSpeech="adverbial locution"/>
+      <Sense id="L36643-S1" synset="wikidata-pl-L36643-S1" ili="wikidata-pl-L36643-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>A może dziewczyny z ONR wysłać na studia pielęgniarskie, a potem w imię patriotyzmu niech zasuwają za dwa tysiące świątek, piątek i niedziela?</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36644-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727796">
+      <Lemma writtenForm="także" partOfSpeech="conjunction"/>
+      <Sense id="L727796-S1" synset="wikidata-pl-L727796-S1" ili="wikidata-pl-L727796-S1">
+        <Definition>i, oraz</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739199">
+      <Lemma writtenForm="haw" partOfSpeech="pronoun"/>
+      <Sense id="L739199-S1" synset="wikidata-pl-L739199-S1" ili="wikidata-pl-L739199-S1">
+        <Definition>tam</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L3053">
+      <Lemma writtenForm="stamtąd" partOfSpeech="pronoun"/>
+      <Sense id="L3053-S1" synset="wikidata-pl-L3053-S1" ili="wikidata-pl-L3053-S1">
+        <Definition>z określonego miejsca oddalonego od nadawcy komunikatu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17515">
+      <Lemma writtenForm="w białych rękawiczkach" partOfSpeech="adverbial locution"/>
+      <Sense id="L17515-S1" synset="wikidata-pl-L17515-S1" ili="wikidata-pl-L17515-S1">
+        <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L17516-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17517-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17518-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17517">
+      <Lemma writtenForm="w jedwabnych rękawiczkach" partOfSpeech="adverbial locution"/>
+      <Sense id="L17517-S1" synset="wikidata-pl-L17517-S1" ili="wikidata-pl-L17517-S1">
+        <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+        <SenseRelation relType="similar" target="wikidata-pl-L17515-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17516-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L17518-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21193">
+      <Lemma writtenForm="każdy" partOfSpeech="pronoun"/>
+      <Sense id="L21193-S1" synset="wikidata-pl-L21193-S1" ili="wikidata-pl-L21193-S1">
+        <Definition>jakikolwiek, wszystek, wszelki</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34806">
+      <Lemma writtenForm="jak tydzień długi" partOfSpeech="adverbial locution"/>
+      <Sense id="L34806-S1" synset="wikidata-pl-L34806-S1" ili="wikidata-pl-L34806-S1">
+        <Definition>tak, że trwa to przez okres zbliżony do tygodnia lub przez cały tydzień na okrągło</Definition>
+        <Example>Ciepły, przypieczony chleb, to moje ukochane śniadanie i mogłabym jeść takie kromki jak tydzień długi, nawet same samiuteńkie, bez żadnych dodatków!</Example>
+        <Example>Jak tydzień długi, przez godzinę dziennie bus ten staje się moim mobilnym biurem na kółkach, miejscem, w którym pracuję… zanim jeszcze do pracy dotrę.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36644">
+      <Lemma writtenForm="świątek czy piątek" partOfSpeech="adverbial locution"/>
+      <Sense id="L36644-S1" synset="wikidata-pl-L36644-S1" ili="wikidata-pl-L36644-S1">
+        <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+        <Example>- Dobrze, ci tak mówić. Ty, który nie masz zobowiązań na wolnym powietrzu. Ale ja pracuję, świątek czy piątek, i to właśnie pod gołym niebem. Trzeba żyć.</Example>
+        <SenseRelation relType="similar" target="wikidata-pl-L36640-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36641-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36642-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36643-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36645-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36649-S1"/>
+        <SenseRelation relType="similar" target="wikidata-pl-L36650-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L38147">
+      <Lemma writtenForm="do wód" partOfSpeech="adverbial locution"/>
+      <Sense id="L38147-S1" synset="wikidata-pl-L38147-S1" ili="wikidata-pl-L38147-S1">
+        <Definition>do uzdrowiska, w którym znajdują się źródła wód mineralnych</Definition>
+        <Example>- Dla mnie też jest za gorąco - wtrącił się do rozmowy pan Campilli. - Ale póki kuria czynna, to znaczy, dopóki monsignorowie nie porozjeżdżają się do wód na wielkie wakacje, muszę siedzieć w Rzymie.</Example>
+        <Example>Zawsze mnie coś spotyka, gdy taka niespokojna chodzę i nie mogę sobie miejsca znaleźć. Że też to na mnie popadło. Do wód mogłam jechać. Już się od trzech lat wybieram.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L204164">
+      <Lemma writtenForm="sto" partOfSpeech="nominal"/>
+      <Sense id="L204164-S1" synset="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740127">
+      <Lemma writtenForm="lebo" partOfSpeech="conjunction"/>
+      <Sense id="L740127-S1" synset="wikidata-pl-L740127-S1" ili="wikidata-pl-L740127-S1">
+        <Definition>albo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1259339">
+      <Lemma writtenForm="gdzie" partOfSpeech="pronoun"/>
+      <Sense id="L1259339-S1" synset="wikidata-pl-L1259339-S1" ili="wikidata-pl-L1259339-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1259358">
+      <Lemma writtenForm="podczas" partOfSpeech="preposition"/>
+      <Sense id="L1259358-S1" synset="wikidata-pl-L1259358-S1" ili="wikidata-pl-L1259358-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1">
+      <Definition>o jeden więcej niż dwadzieścia dziewięć</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L21188-S1" ili="wikidata-pl-L21188-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L21196-S1" ili="wikidata-pl-L21196-S1">
+      <Definition>każdy jeden bez wyjątku</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L33580-S1" ili="wikidata-pl-L33580-S1">
+      <Definition>o wykonywanej czynności: robiąc bardzo wolno, ślimacząc się</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L34809-S1" ili="wikidata-pl-L34809-S1">
+      <Definition>systematycznie każdego tygodnia</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36642-S1" ili="wikidata-pl-L36642-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36649-S1" ili="wikidata-pl-L36649-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L38153-S1" ili="wikidata-pl-L38153-S1">
+      <Definition>wskazanie, że to o czym mowa jest prawdą, ponieważ to co było powiedziane wcześniej jest prawdą</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1">
+      <Definition>wyrok w zawieszeniu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L740143-S1" ili="wikidata-pl-L740143-S1">
+      <Definition>wyraźnie</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L740143-S2" ili="wikidata-pl-L740143-S2">
+      <Definition>naprawdę, na pewno, zaiste</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L1419361-S1" ili="wikidata-pl-L1419361-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L13353-S1" ili="wikidata-pl-L13353-S1">
+      <Definition>zaimek przymiotny pytajny, służący do tworzenia pytań o numer elementu w danej grupie</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L20118-S1" ili="wikidata-pl-L20118-S1">
+      <Definition>partykuła wzmacniająca wypowiedź</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30577-S1" ili="wikidata-pl-L30577-S1">
+      <Definition>partykuła stwierdzająca, że nie wiadomo czy tak jest</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30577-S2" ili="wikidata-pl-L30577-S2">
+      <Definition>partykuła określająca życzenie</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30577-S3" ili="wikidata-pl-L30577-S3">
+      <Definition>partykuła określająca wątpliwość co do stwierdzenia zawierającego się w pytaniu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36640-S1" ili="wikidata-pl-L36640-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36650-S1" ili="wikidata-pl-L36650-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1">
+      <Definition>liczba</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L409880-S1" ili="wikidata-pl-L409880-S1">
+      <Definition>każdy jeden</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L739568-S1" ili="wikidata-pl-L739568-S1">
+      <Definition>ile</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L5485-S1" ili="wikidata-pl-L5485-S1">
+      <Definition>skrót: na przykład</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L6410-S1" ili="wikidata-pl-L6410-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L6569-S1" ili="wikidata-pl-L6569-S1">
+      <Definition>wprowadzający porównanie</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L7049-S1" ili="wikidata-pl-L7049-S1">
+      <Definition>nawiązanie do kontekstu lub sytuacji i jednocześnie wprowadzenie wypowiedzenia o zróżnicowanych odcieniach intonacyjnych</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L17516-S1" ili="wikidata-pl-L17516-S1">
+      <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L38149-S1" ili="wikidata-pl-L38149-S1">
+      <Definition>potwierdzenie tego co zostało powiedziane</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1">
+      <Definition>poddanie działaniu gazów celem pozbycia się szkodliwych organizmów z obiektu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L477041-S1" ili="wikidata-pl-L477041-S1">
+      <Definition>drewniana łaska, regionalizm</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L477042-S1" ili="wikidata-pl-L477042-S1">
+      <Definition>ssać, np. cukierek</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L739548-S1" ili="wikidata-pl-L739548-S1">
+      <Definition>gdzie</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L997458-S1" ili="wikidata-pl-L997458-S1">
+      <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L6039-S1" ili="wikidata-pl-L6039-S1">
+      <Definition>pierwszy posiłek dnia</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L7050-S1" ili="wikidata-pl-L7050-S1">
+      <Definition>wykrzyknik wyrażający przypomnienie sobie o czymś lub zauważenie czegoś</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L10881-S1" ili="wikidata-pl-L10881-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L20117-S1" ili="wikidata-pl-L20117-S1">
+      <Definition>przekleństwo, w mowie potocznej często jako przerywnik w zdaniu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L34810-S1" ili="wikidata-pl-L34810-S1">
+      <Definition>systematycznie każdego tygodnia</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L34816-S1" ili="wikidata-pl-L34816-S1">
+      <Definition>w ciągu dni roboczych, z pominięciem niedzieli</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36464-S1" ili="wikidata-pl-L36464-S1">
+      <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L734171-S1" ili="wikidata-pl-L734171-S1">
+      <Definition>przecież</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L1259868-S1" ili="wikidata-pl-L1259868-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L2977-S1" ili="wikidata-pl-L2977-S1">
+      <Definition>spójnik przyłączający nową informację ułatwiającą zrozumienie tego, co powiedziano wcześniej</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L13358-S1" ili="wikidata-pl-L13358-S1">
+      <Definition>zaimek zwrotny</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L21195-S1" ili="wikidata-pl-L21195-S1">
+      <Definition>zdrobn. od: każdy</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L24684-S1" ili="wikidata-pl-L24684-S1">
+      <Definition>gdy coś znajduje się pomiędzy obiektami</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36645-S1" ili="wikidata-pl-L36645-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1">
+      <Definition>ogarnięty (o osobie)</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L997459-S1" ili="wikidata-pl-L997459-S1">
+      <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L12097-S1" ili="wikidata-pl-L12097-S1">
+      <Definition>partykuła twierdząca</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S1" ili="wikidata-pl-L30576-S1">
+      <Definition>spójnik wprowadzający zdanie podrzędne określające cel tego, o czym mowa w zdaniu nadrzędnym</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S2" ili="wikidata-pl-L30576-S2">
+      <Definition>spójnik wprowadzający zdanie podrzędne określające to, co jest warunkiem tego, o czym mowa w zdaniu nadrzędnym</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S3" ili="wikidata-pl-L30576-S3">
+      <Definition>spójnik wprowadzający zdanie podrzędne określające sposób osiągniecia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S4" ili="wikidata-pl-L30576-S4">
+      <Definition>spójnik wprowadzający zdanie podrzędne określające cel zależny od stopnia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S5" ili="wikidata-pl-L30576-S5">
+      <Definition>spójnik wprowadzający zdanie podrzędne komunikujące o zdarzeniu nieoczekiwanym w stosunku do tego, o czym mowa w zdaniu nadrzędnym</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S6" ili="wikidata-pl-L30576-S6">
+      <Definition>spójnik wprowadzający zdanie podrzędne, po zdaniu nadrzędnym wyrażającym wolę, sąd, propozycję lub inny cel jaki chce osiągnąć osoba mówiąca</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S7" ili="wikidata-pl-L30576-S7">
+      <Definition>spójnik wprowadzający składnik wyrażający życzenie albo warunek</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L30576-S8" ili="wikidata-pl-L30576-S8">
+      <Definition>spójnik wprowadzający składnik mówiący o tym, że to co jest robione nie przynosi efektów</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L34815-S1" ili="wikidata-pl-L34815-S1">
+      <Definition>stopniowo, przez kilka i więcej tygodni</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L449208-S1" ili="wikidata-pl-L449208-S1">
+      <Definition>wulgarne określenie na oddawanie kału</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L739068-S1" ili="wikidata-pl-L739068-S1">
+      <Definition>dosyć</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L740139-S1" ili="wikidata-pl-L740139-S1">
+      <Definition>rzeczywiście</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L740140-S1" ili="wikidata-pl-L740140-S1">
+      <Definition>ale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L2947-S1" ili="wikidata-pl-L2947-S1">
+      <Definition>przeciw</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L6852-S1" ili="wikidata-pl-L6852-S1">
+      <Definition>zamiast</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L6852-S2" ili="wikidata-pl-L6852-S2">
+      <Definition>zamiast</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L17518-S1" ili="wikidata-pl-L17518-S1">
+      <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L20549-S1" ili="wikidata-pl-L20549-S1">
+      <Definition>koło, około, wokół</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L25470-S1" ili="wikidata-pl-L25470-S1">
+      <Definition>spójnik łączący słowa i zdania równorzędne</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36465-S1" ili="wikidata-pl-L36465-S1">
+      <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36641-S1" ili="wikidata-pl-L36641-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36643-S1" ili="wikidata-pl-L36643-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L727796-S1" ili="wikidata-pl-L727796-S1">
+      <Definition>i, oraz</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L739199-S1" ili="wikidata-pl-L739199-S1">
+      <Definition>tam</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L3053-S1" ili="wikidata-pl-L3053-S1">
+      <Definition>z określonego miejsca oddalonego od nadawcy komunikatu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L17515-S1" ili="wikidata-pl-L17515-S1">
+      <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L17517-S1" ili="wikidata-pl-L17517-S1">
+      <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L21193-S1" ili="wikidata-pl-L21193-S1">
+      <Definition>jakikolwiek, wszystek, wszelki</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L34806-S1" ili="wikidata-pl-L34806-S1">
+      <Definition>tak, że trwa to przez okres zbliżony do tygodnia lub przez cały tydzień na okrągło</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L36644-S1" ili="wikidata-pl-L36644-S1">
+      <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L38147-S1" ili="wikidata-pl-L38147-S1">
+      <Definition>do uzdrowiska, w którym znajdują się źródła wód mineralnych</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L740127-S1" ili="wikidata-pl-L740127-S1">
+      <Definition>albo</Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L1259339-S1" ili="wikidata-pl-L1259339-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-pl-L1259358-S1" ili="wikidata-pl-L1259358-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

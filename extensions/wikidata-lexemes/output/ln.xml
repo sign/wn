@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ln"
+                    label="Wikidata LN Lexemes Extension"
+                    language="ln"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ln" version="1.4"/>
+    <LexicalEntry id="L412055">
+      <Lemma writtenForm="ngáí" partOfSpeech="personal pronoun"/>
+      <Sense id="L412055-S1" synset="wikidata-ln-L412055-S1" ili="l487-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656855">
+      <Lemma writtenForm="yɔ̌" partOfSpeech="personal pronoun"/>
+      <Sense id="L656855-S1" synset="wikidata-ln-L656855-S1" ili="wikidata-ln-L656855-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ln-L412055-S1" ili="l487-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ln-L656855-S1" ili="wikidata-ln-L656855-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

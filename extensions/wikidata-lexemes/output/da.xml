@@ -1,0 +1,3157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-da"
+                    label="Wikidata DA Lexemes Extension"
+                    language="da"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-da" version="1.4"/>
+    <LexicalEntry id="L2312">
+      <Lemma writtenForm="med" partOfSpeech="preposition"/>
+      <Sense id="L2312-S1" synset="wikidata-da-L2312-S1" ili="wikidata-da-L2312-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5022">
+      <Lemma writtenForm="for" partOfSpeech="conjunction"/>
+      <Sense id="L5022-S1" synset="wikidata-da-L5022-S1" ili="wikidata-da-L5022-S1">
+        <Definition>anvendes til at angive, at det kommende skal ses som en begrundelse eller en forklaring på det tidligere nævnte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35133">
+      <Lemma writtenForm="som" partOfSpeech="conjunction"/>
+      <Sense id="L35133-S1" synset="wikidata-da-L35133-S1" ili="wikidata-da-L35133-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37479">
+      <Lemma writtenForm="fem" partOfSpeech="numeral"/>
+      <Sense id="L37479-S1" synset="wikidata-da-L37479-S1" ili="l333-s1">
+        <Definition>tallet efter fire og før seks</Definition>
+        <Example>Efter fem år er det på tide med en evaluering.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41160">
+      <Lemma writtenForm="-ning" partOfSpeech="affix"/>
+      <Sense id="L41160-S1" synset="wikidata-da-L41160-S1" ili="wikidata-da-L41160-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42590">
+      <Lemma writtenForm="ifølge" partOfSpeech="preposition"/>
+      <Sense id="L42590-S1" synset="wikidata-da-L42590-S1" ili="wikidata-da-L42590-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43100">
+      <Lemma writtenForm="sytten" partOfSpeech="numeral"/>
+      <Sense id="L43100-S1" synset="wikidata-da-L43100-S1" ili="wikidata-da-L43100-S1">
+        <Definition>tallet 17 mellem 16 og 18</Definition>
+        <Example>Jeg har været medlem af Parlamentet i sytten år.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45895">
+      <Lemma writtenForm="firs" partOfSpeech="numeral"/>
+      <Sense id="L45895-S1" synset="wikidata-da-L45895-S1" ili="wikidata-da-L45895-S1">
+        <Definition>tallet 80</Definition>
+        <Example>Gennem de seneste firs år er de nationale mindretal i Ungarn alle blevet udslettet, mens Europa så til i tavshed.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L235255-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1119256-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45899">
+      <Lemma writtenForm="femten" partOfSpeech="numeral"/>
+      <Sense id="L45899-S1" synset="wikidata-da-L45899-S1" ili="wikidata-da-L45899-S1">
+        <Definition>tallet 15</Definition>
+        <Example>Vi ved, at der i de sidste femten år er skabt stadig flere økologiske landbrug i Europa.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48464">
+      <Lemma writtenForm="tretten" partOfSpeech="numeral"/>
+      <Sense id="L48464-S1" synset="wikidata-da-L48464-S1" ili="wikidata-da-L48464-S1">
+        <Definition>tallet 13 mellem tolv og fjorten</Definition>
+        <Example>Alligevel idømmes de tretten måneders ubetinget fængsel og meget høje bøder.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48465">
+      <Lemma writtenForm="elleve" partOfSpeech="numeral"/>
+      <Sense id="L48465-S1" synset="wikidata-da-L48465-S1" ili="wikidata-da-L48465-S1">
+        <Definition>tallet 11 mellem ti og tolv</Definition>
+        <Example>På den ene side tager det tid at få dokumenterne oversat, så der kan forelægges et resumé på de elleve sprog.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L226733">
+      <Lemma writtenForm="-isk" partOfSpeech="affix"/>
+      <Sense id="L226733-S1" synset="wikidata-da-L226733-S1" ili="wikidata-da-L226733-S1">
+        <Definition>skaber tillægsord ud fra navneord</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L226745">
+      <Lemma writtenForm="godmorgen" partOfSpeech="interjection"/>
+      <Sense id="L226745-S1" synset="wikidata-da-L226745-S1" ili="wikidata-da-L226745-S1">
+        <Definition>morgenhilsen</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L226746">
+      <Lemma writtenForm="godnat" partOfSpeech="interjection"/>
+      <Sense id="L226746-S1" synset="wikidata-da-L226746-S1" ili="wikidata-da-L226746-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L230305">
+      <Lemma writtenForm="sørens" partOfSpeech="interjection"/>
+      <Sense id="L230305-S1" synset="wikidata-da-L230305-S1" ili="wikidata-da-L230305-S1">
+        <Definition>fandens</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L235257">
+      <Lemma writtenForm="tresindstyve" partOfSpeech="numeral"/>
+      <Sense id="L235257-S1" synset="wikidata-da-L235257-S1" ili="wikidata-da-L235257-S1">
+        <Definition>tallet 60</Definition>
+        <Example>Den danske regering vil opfordre de kompetente stedlige myndigheder til at overdrage Kommissionen brugen af de arealer, der rummer Det britiske Statssamfunds krigsgrave, for et tidsrum af tresindstyve år med mulighed for forlængelse.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L43254-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1119254-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348074">
+      <Lemma writtenForm="-um" partOfSpeech="affix"/>
+      <Sense id="L348074-S1" synset="wikidata-da-L348074-S1" ili="wikidata-da-L348074-S1">
+        <Definition>hjem</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617400">
+      <Lemma writtenForm="-bank" partOfSpeech="affix"/>
+      <Sense id="L617400-S1" synset="wikidata-da-L617400-S1" ili="wikidata-da-L617400-S1">
+        <Definition>samling</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642118">
+      <Lemma writtenForm="inden" partOfSpeech="conjunction"/>
+      <Sense id="L642118-S1" synset="wikidata-da-L642118-S1" ili="wikidata-da-L642118-S1">
+        <Definition>tidligere end en given referenceramme</Definition>
+        <Example>En 31-årig mand fra Horsens gik bersærkergang torsdag aften og nåede at overtræde massevis af paragraffer i straffeloven, inden politiet omsider fik standset ham.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642120">
+      <Lemma writtenForm="indtil" partOfSpeech="conjunction"/>
+      <Sense id="L642120-S1" synset="wikidata-da-L642120-S1" ili="wikidata-da-L642120-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L671960">
+      <Lemma writtenForm="fyrretyve" partOfSpeech="numeral"/>
+      <Sense id="L671960-S1" synset="wikidata-da-L671960-S1" ili="wikidata-da-L671960-S1">
+        <Definition>tallet 40</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L678595">
+      <Lemma writtenForm="miav" partOfSpeech="onomatopoeia"/>
+      <Sense id="L678595-S1" synset="wikidata-da-L678595-S1" ili="wikidata-da-L678595-S1">
+        <Definition>lyden fra en kat</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680151">
+      <Lemma writtenForm="fut" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680151-S1" synset="wikidata-da-L680151-S1" ili="wikidata-da-L680151-S1">
+        <Definition>lyden af et damplokomotiv</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689601">
+      <Lemma writtenForm="kukkuk" partOfSpeech="onomatopoeia"/>
+      <Sense id="L689601-S1" synset="wikidata-da-L689601-S1" ili="wikidata-da-L689601-S1">
+        <Definition>lyden fra en gøg</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692550">
+      <Lemma writtenForm="petro-" partOfSpeech="affix"/>
+      <Sense id="L692550-S1" synset="wikidata-da-L692550-S1" ili="wikidata-da-L692550-S1">
+        <Definition>vedrørende olie eller olieprodukter</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701754">
+      <Lemma writtenForm="neo-" partOfSpeech="affix"/>
+      <Sense id="L701754-S1" synset="wikidata-da-L701754-S1" ili="wikidata-da-L701754-S1">
+        <Definition>ny</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L735050">
+      <Lemma writtenForm="treti" partOfSpeech="numeral"/>
+      <Sense id="L735050-S1" synset="wikidata-da-L735050-S1" ili="wikidata-da-L735050-S1">
+        <Definition>tallet 30</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740393">
+      <Lemma writtenForm="zepto-" partOfSpeech="affix"/>
+      <Sense id="L740393-S1" synset="wikidata-da-L740393-S1" ili="wikidata-da-L740393-S1">
+        <Definition>trilliardtedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740396">
+      <Lemma writtenForm="deka-" partOfSpeech="affix"/>
+      <Sense id="L740396-S1" synset="wikidata-da-L740396-S1" ili="wikidata-da-L740396-S1">
+        <Definition>ti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740399">
+      <Lemma writtenForm="exa-" partOfSpeech="affix"/>
+      <Sense id="L740399-S1" synset="wikidata-da-L740399-S1" ili="wikidata-da-L740399-S1">
+        <Definition>trillion</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740401">
+      <Lemma writtenForm="yotta-" partOfSpeech="affix"/>
+      <Sense id="L740401-S1" synset="wikidata-da-L740401-S1" ili="wikidata-da-L740401-S1">
+        <Definition>kvadrillion</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010820">
+      <Lemma writtenForm="fireogtres" partOfSpeech="numeral"/>
+      <Sense id="L1010820-S1" synset="wikidata-da-L1010820-S1" ili="wikidata-da-L1010820-S1">
+        <Definition>tallet 64</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012253">
+      <Lemma writtenForm="historisk tid" partOfSpeech="fixed expression"/>
+      <Sense id="L1012253-S1" synset="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1">
+        <Definition>tidsperiode med skriftlige kilder</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1081949">
+      <Lemma writtenForm="vedr." partOfSpeech="abbreviation"/>
+      <Sense id="L1081949-S1" synset="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L688421-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L688427-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L689010-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117249">
+      <Lemma writtenForm="syvtifem" partOfSpeech="numeral"/>
+      <Sense id="L1117249-S1" synset="wikidata-da-L1117249-S1" ili="wikidata-da-L1117249-S1">
+        <Definition>tallet 75</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117255-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117377">
+      <Lemma writtenForm="toogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1117377-S1" synset="wikidata-da-L1117377-S1" ili="wikidata-da-L1117377-S1">
+        <Definition>ordenstallet 22.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119166">
+      <Lemma writtenForm="billionte" partOfSpeech="numeral"/>
+      <Sense id="L1119166-S1" synset="wikidata-da-L1119166-S1" ili="wikidata-da-L1119166-S1">
+        <Definition>ordenstallet for en million million</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119187">
+      <Lemma writtenForm="firtifem" partOfSpeech="numeral"/>
+      <Sense id="L1119187-S1" synset="wikidata-da-L1119187-S1" ili="wikidata-da-L1119187-S1">
+        <Definition>tallet 45</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119188-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119188">
+      <Lemma writtenForm="femogfyrre" partOfSpeech="numeral"/>
+      <Sense id="L1119188-S1" synset="wikidata-da-L1119188-S1" ili="wikidata-da-L1119188-S1">
+        <Definition>tallet 45</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119187-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119226">
+      <Lemma writtenForm="tredivte" partOfSpeech="numeral"/>
+      <Sense id="L1119226-S1" synset="wikidata-da-L1119226-S1" ili="wikidata-da-L1119226-S1">
+        <Definition>ordenstallet 30.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119257">
+      <Lemma writtenForm="femogtres" partOfSpeech="numeral"/>
+      <Sense id="L1119257-S1" synset="wikidata-da-L1119257-S1" ili="wikidata-da-L1119257-S1">
+        <Definition>tallet 65</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119255-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119259">
+      <Lemma writtenForm="femogfirs" partOfSpeech="numeral"/>
+      <Sense id="L1119259-S1" synset="wikidata-da-L1119259-S1" ili="wikidata-da-L1119259-S1">
+        <Definition>tallet 85</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119258-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218844">
+      <Lemma writtenForm="det ved den søde grød" partOfSpeech="locution"/>
+      <Sense id="L1218844-S1" synset="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1">
+        <Definition>forstærkende kraftudtryk</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1219584">
+      <Lemma writtenForm="ah ja ja ja ja" partOfSpeech="interjection"/>
+      <Sense id="L1219584-S1" synset="wikidata-da-L1219584-S1" ili="wikidata-da-L1219584-S1">
+        <Definition>det tror jeg overhovedet ikke på; det tror jeg ikke en skid på</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1504411">
+      <Lemma writtenForm="take it or leave it" partOfSpeech="interjection"/>
+      <Sense id="L1504411-S1" synset="wikidata-da-L1504411-S1" ili="wikidata-da-L1504411-S1">
+        <Definition>tilbud om at acceptere noget som det er uden ændringer eller afvise det helt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35288">
+      <Lemma writtenForm="vi" partOfSpeech="personal pronoun"/>
+      <Sense id="L35288-S1" synset="wikidata-da-L35288-S1" ili="wikidata-da-L35288-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37611">
+      <Lemma writtenForm="nul" partOfSpeech="numeral"/>
+      <Sense id="L37611-S1" synset="wikidata-da-L37611-S1" ili="wikidata-da-L37611-S1">
+        <Definition>tallet for ingenting</Definition>
+        <Example>Og nul plus nul giver stadig nul.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42265">
+      <Lemma writtenForm="syv" partOfSpeech="numeral"/>
+      <Sense id="L42265-S1" synset="wikidata-da-L42265-S1" ili="wikidata-da-L42265-S1">
+        <Definition>tallet mellem 6 og 8</Definition>
+        <Example>I syv måneder er der ikke blevet udbetalt lønninger og pensioner.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42980">
+      <Lemma writtenForm="røde hunde" partOfSpeech="fixed expression"/>
+      <Sense id="L42980-S1" synset="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1">
+        <Definition>børnesygdom</Definition>
+        <Example>Vacciner mod polio, røde hunde, hepatitis B, difteri, mæslinger, fåresyge, rubella og meningitis er sammen med kombinationsterapilægemidler mod hiv, lægemidler til regulering af astma, livsopretholdelsessystemer til præmature spædbørn og deep brain-stimulering ved Parkinsons sygdom alle blevet udviklet via forsøg med dyr og navnlig primater.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43254">
+      <Lemma writtenForm="tres" partOfSpeech="numeral"/>
+      <Sense id="L43254-S1" synset="wikidata-da-L43254-S1" ili="wikidata-da-L43254-S1">
+        <Definition>tallet 60</Definition>
+        <Example>Det har i tres år været indprentet i vores kollektive hukommelse.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L235257-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1119254-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45896">
+      <Lemma writtenForm="femte" partOfSpeech="numeral"/>
+      <Sense id="L45896-S1" synset="wikidata-da-L45896-S1" ili="wikidata-da-L45896-S1">
+        <Definition>ordinaltallet 5</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48466">
+      <Lemma writtenForm="seksten" partOfSpeech="numeral"/>
+      <Sense id="L48466-S1" synset="wikidata-da-L48466-S1" ili="wikidata-da-L48466-S1">
+        <Definition>tallet 16 mellem femten og sytten</Definition>
+        <Example>Der er godkendt seksten produkter siden oprettelsen af WTO-panelet, men kun syv i 2007.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L52289">
+      <Lemma writtenForm="sæt" partOfSpeech="grammatical particle"/>
+      <Sense id="L52289-S1" synset="wikidata-da-L52289-S1" ili="wikidata-da-L52289-S1">
+        <Definition>jeg håber ikke at</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L235254">
+      <Lemma writtenForm="enogtyve" partOfSpeech="numeral"/>
+      <Sense id="L235254-S1" synset="wikidata-da-L235254-S1" ili="wikidata-da-L235254-S1">
+        <Definition>tallet 21</Definition>
+        <Example>Med hensyn til tidsplanen synes De at være låst fast på idéen om en to-trinsreform. Først en lille reform, inden medlem nummer seksten lukkes ind, og derefter en stor reform, inden nummer enogtyve indtræder.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301413">
+      <Lemma writtenForm="niende" partOfSpeech="numeral"/>
+      <Sense id="L301413-S1" synset="wikidata-da-L301413-S1" ili="wikidata-da-L301413-S1">
+        <Definition>ordinalet 9</Definition>
+        <Example>Det niende møde bør vedtage økologiske kriterier til fastlæggelse af marine områder i dybhavsfarvandene, der har brug for beskyttelse.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301687">
+      <Lemma writtenForm="femtende" partOfSpeech="numeral"/>
+      <Sense id="L301687-S1" synset="wikidata-da-L301687-S1" ili="wikidata-da-L301687-S1">
+        <Definition>ordenstallet 15</Definition>
+        <Example>Alan Johnston er den femtende journalist, der bortføres i Gazastriben, og i den måned, der fulgte bortførelsen, hørte vi længe intet nyt om ham.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L448762">
+      <Lemma writtenForm="toogtyve" partOfSpeech="numeral"/>
+      <Sense id="L448762-S1" synset="wikidata-da-L448762-S1" ili="wikidata-da-L448762-S1">
+        <Definition>tallet 22</Definition>
+        <Example>På området findes der fire og en halv million handelsforetagender, og de beskæftiger toogtyve millioner personer.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617218">
+      <Lemma writtenForm="budget-" partOfSpeech="pseudo-affix"/>
+      <Sense id="L617218-S1" synset="wikidata-da-L617218-S1" ili="wikidata-da-L617218-S1">
+        <Definition>billig, lavpris</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617433">
+      <Lemma writtenForm="auto-" partOfSpeech="affix"/>
+      <Sense id="L617433-S1" synset="wikidata-da-L617433-S1" ili="wikidata-da-L617433-S1">
+        <Definition>selv</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688424">
+      <Lemma writtenForm="uanset" partOfSpeech="preposition"/>
+      <Sense id="L688424-S1" synset="wikidata-da-L688424-S1" ili="wikidata-da-L688424-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688433">
+      <Lemma writtenForm="nja" partOfSpeech="interjection"/>
+      <Sense id="L688433-S1" synset="wikidata-da-L688433-S1" ili="wikidata-da-L688433-S1">
+        <Definition>delvis bekræftigelse med forbehold</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689152">
+      <Lemma writtenForm="qua" partOfSpeech="conjunction"/>
+      <Sense id="L689152-S1" synset="wikidata-da-L689152-S1" ili="wikidata-da-L689152-S1">
+        <Definition>som, i egenskab af</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689649">
+      <Lemma writtenForm="tera-" partOfSpeech="affix"/>
+      <Sense id="L689649-S1" synset="wikidata-da-L689649-S1" ili="wikidata-da-L689649-S1">
+        <Definition>billion</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691760">
+      <Lemma writtenForm="x&apos;te" partOfSpeech="numeral"/>
+      <Sense id="L691760-S1" synset="wikidata-da-L691760-S1" ili="wikidata-da-L691760-S1">
+        <Definition>et element i en rækkefølge angivet ved variablen &apos;x&apos;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740391">
+      <Lemma writtenForm="femto-" partOfSpeech="affix"/>
+      <Sense id="L740391-S1" synset="wikidata-da-L740391-S1" ili="wikidata-da-L740391-S1">
+        <Definition>billiardtedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L743652">
+      <Lemma writtenForm="hi" partOfSpeech="onomatopoeia"/>
+      <Sense id="L743652-S1" synset="wikidata-da-L743652-S1" ili="wikidata-da-L743652-S1">
+        <Definition>ord som betyder at man griner og morer sig</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941897">
+      <Lemma writtenForm="syvti" partOfSpeech="numeral"/>
+      <Sense id="L941897-S1" synset="wikidata-da-L941897-S1" ili="wikidata-da-L941897-S1">
+        <Definition>tallet 70</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L984401">
+      <Lemma writtenForm="fireogfirs" partOfSpeech="numeral"/>
+      <Sense id="L984401-S1" synset="wikidata-da-L984401-S1" ili="wikidata-da-L984401-S1">
+        <Definition>tallet 84</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010814">
+      <Lemma writtenForm="fireoghalvfems" partOfSpeech="numeral"/>
+      <Sense id="L1010814-S1" synset="wikidata-da-L1010814-S1" ili="wikidata-da-L1010814-S1">
+        <Definition>tallet 94</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1096038">
+      <Lemma writtenForm="-holdig" partOfSpeech="affix"/>
+      <Sense id="L1096038-S1" synset="wikidata-da-L1096038-S1" ili="wikidata-da-L1096038-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116352">
+      <Lemma writtenForm="femoghalvtreds" partOfSpeech="numeral"/>
+      <Sense id="L1116352-S1" synset="wikidata-da-L1116352-S1" ili="wikidata-da-L1116352-S1">
+        <Definition>tallet 55</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1116351-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116355">
+      <Lemma writtenForm="attende" partOfSpeech="numeral"/>
+      <Sense id="L1116355-S1" synset="wikidata-da-L1116355-S1" ili="wikidata-da-L1116355-S1">
+        <Definition>ordenstallet 18.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116973">
+      <Lemma writtenForm="splitte mine bramsejl" partOfSpeech="interjection"/>
+      <Sense id="L1116973-S1" synset="wikidata-da-L1116973-S1" ili="wikidata-da-L1116973-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117379">
+      <Lemma writtenForm="halvfemsindstyvende" partOfSpeech="numeral"/>
+      <Sense id="L1117379-S1" synset="wikidata-da-L1117379-S1" ili="wikidata-da-L1117379-S1">
+        <Definition>ordenstallet 90.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117380-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119164">
+      <Lemma writtenForm="halvtredsindstyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119164-S1" synset="wikidata-da-L1119164-S1" ili="wikidata-da-L1119164-S1">
+        <Definition>ordenstallet 50.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119165-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119189">
+      <Lemma writtenForm="fjortende" partOfSpeech="numeral"/>
+      <Sense id="L1119189-S1" synset="wikidata-da-L1119189-S1" ili="wikidata-da-L1119189-S1">
+        <Definition>ordentallet 14.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119190">
+      <Lemma writtenForm="fyrrende" partOfSpeech="numeral"/>
+      <Sense id="L1119190-S1" synset="wikidata-da-L1119190-S1" ili="wikidata-da-L1119190-S1">
+        <Definition>ordenstallet 40.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119191-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119243">
+      <Lemma writtenForm="tressende" partOfSpeech="numeral"/>
+      <Sense id="L1119243-S1" synset="wikidata-da-L1119243-S1" ili="wikidata-da-L1119243-S1">
+        <Definition>ordenstallet 60.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119252-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119252">
+      <Lemma writtenForm="tresindstyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119252-S1" synset="wikidata-da-L1119252-S1" ili="wikidata-da-L1119252-S1">
+        <Definition>ordenstallet 60.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119243-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218366">
+      <Lemma writtenForm="fy" partOfSpeech="interjection"/>
+      <Sense id="L1218366-S1" synset="wikidata-da-L1218366-S1" ili="wikidata-da-L1218366-S1">
+        <Definition>anvendes for at udtrykke afsky eller lede</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235779">
+      <Lemma writtenForm="røv og nøgler" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1235779-S1" synset="wikidata-da-L1235779-S1" ili="wikidata-da-L1235779-S1">
+        <Definition>forstærkende udtryk</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330485">
+      <Lemma writtenForm="De" partOfSpeech="pronoun"/>
+      <Sense id="L1330485-S1" synset="wikidata-da-L1330485-S1" ili="wikidata-da-L1330485-S1">
+        <Definition>formelt eller høfligt pronomen brugt til at adressere en person</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410651">
+      <Lemma writtenForm="røv-" partOfSpeech="affix"/>
+      <Sense id="L1410651-S1" synset="wikidata-da-L1410651-S1" ili="wikidata-da-L1410651-S1">
+        <Definition>meget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1504424">
+      <Lemma writtenForm="pruh" partOfSpeech="interjection"/>
+      <Sense id="L1504424-S1" synset="wikidata-da-L1504424-S1" ili="wikidata-da-L1504424-S1">
+        <Definition>kommando til hest om at den skal stoppe med at gå</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1505603">
+      <Lemma writtenForm="farveller" partOfSpeech="interjection"/>
+      <Sense id="L1505603-S1" synset="wikidata-da-L1505603-S1" ili="wikidata-da-L1505603-S1">
+        <Definition>farvel</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L226717-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L688430-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34132">
+      <Lemma writtenForm="tre" partOfSpeech="numeral"/>
+      <Sense id="L34132-S1" synset="wikidata-da-L34132-S1" ili="wikidata-da-L34132-S1">
+        <Definition>tallet 3</Definition>
+        <Example>Nu lå der tolv lig i de tre små stuer.</Example>
+        <Example>Jeg vil kort nævne tre milepæle.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41897">
+      <Lemma writtenForm="jeg" partOfSpeech="personal pronoun"/>
+      <Sense id="L41897-S1" synset="wikidata-da-L41897-S1" ili="wikidata-da-L41897-S1">
+        <Definition>benyttes til at henvise til taleren selv</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42015">
+      <Lemma writtenForm="ham" partOfSpeech="personal pronoun"/>
+      <Sense id="L42015-S1" synset="wikidata-da-L42015-S1" ili="wikidata-da-L42015-S1">
+        <Definition>person af hankøn</Definition>
+        <Example>En 31-årig mand fra Horsens gik bersærkergang torsdag aften og nåede at overtræde massevis af paragraffer i straffeloven, inden politiet omsider fik standset ham.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42258">
+      <Lemma writtenForm="idet" partOfSpeech="conjunction"/>
+      <Sense id="L42258-S1" synset="wikidata-da-L42258-S1" ili="wikidata-da-L42258-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42572">
+      <Lemma writtenForm="for" partOfSpeech="preposition"/>
+      <Sense id="L42572-S1" synset="wikidata-da-L42572-S1" ili="wikidata-da-L42572-S1">
+        <Definition>ved forsiden eller i umiddelbar nærhed af forsiden; foran</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42591">
+      <Lemma writtenForm="via" partOfSpeech="preposition"/>
+      <Sense id="L42591-S2" synset="wikidata-da-L42591-S2" ili="l8964-s1">
+        <Definition>igennem</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42597">
+      <Lemma writtenForm="inklusive" partOfSpeech="preposition"/>
+      <Sense id="L42597-S1" synset="wikidata-da-L42597-S1" ili="wikidata-da-L42597-S1">
+        <Definition>iberegnet</Definition>
+        <SenseRelation relType="antonym" target="wikidata-da-L42598-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42598">
+      <Lemma writtenForm="eksklusive" partOfSpeech="preposition"/>
+      <Sense id="L42598-S1" synset="wikidata-da-L42598-S1" ili="wikidata-da-L42598-S1">
+        <Definition>med udelukkelse af</Definition>
+        <SenseRelation relType="antonym" target="wikidata-da-L42597-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45435">
+      <Lemma writtenForm="muh" partOfSpeech="onomatopoeia"/>
+      <Sense id="L45435-S1" synset="wikidata-da-L45435-S1" ili="wikidata-da-L45435-S1">
+        <Definition>lyden som en ko siger</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48468">
+      <Lemma writtenForm="tredive" partOfSpeech="numeral"/>
+      <Sense id="L48468-S1" synset="wikidata-da-L48468-S1" ili="wikidata-da-L48468-S1">
+        <Definition>tallet 30 mellem 29 og 31</Definition>
+        <Example>Der er nu omkring tredive lande, der ikke har svaret.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48473">
+      <Lemma writtenForm="halvfjerds" partOfSpeech="numeral"/>
+      <Sense id="L48473-S1" synset="wikidata-da-L48473-S1" ili="wikidata-da-L48473-S1">
+        <Definition>tallet 70 mellem 69 og 71</Definition>
+        <Example>Alt foregik bag lukkede døre, og halvfjerds journalister blev udvist fra retslokalet.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L233333-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48494">
+      <Lemma writtenForm="tiende" partOfSpeech="numeral"/>
+      <Sense id="L48494-S1" synset="wikidata-da-L48494-S1" ili="wikidata-da-L48494-S1">
+        <Definition>nummer ti i en række</Definition>
+        <Example>Jeg ville ud på tiende sal.</Example>
+        <Example>Der er det kun hver tiende ansat.</Example>
+        <Example>I hvor mange århundreder fremover regner man med at skulle gøre dette hvert tiende år?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48590">
+      <Lemma writtenForm="anden" partOfSpeech="numeral"/>
+      <Sense id="L48590-S1" synset="wikidata-da-L48590-S1" ili="wikidata-da-L48590-S1">
+        <Definition>indikere et element i en række der optræder i begyndelsen som nummer 2</Definition>
+        <Example>Alt i alt viser det, at hverken tredje søjle eller den marginale overdragelse af kompetence til en anden søjle er nok til at skabe effektive sikkerhedsstrukturer i Europa</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L229711">
+      <Lemma writtenForm="av" partOfSpeech="interjection"/>
+      <Sense id="L229711-S1" synset="wikidata-da-L229711-S1" ili="wikidata-da-L229711-S1">
+        <Definition>udtryk for smerte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L229757">
+      <Lemma writtenForm="mikro-" partOfSpeech="affix"/>
+      <Sense id="L229757-S1" synset="wikidata-da-L229757-S1" ili="wikidata-da-L229757-S1">
+        <Definition>milliontedel</Definition>
+      </Sense>
+      <Sense id="L229757-S2" synset="wikidata-da-L229757-S2" ili="wikidata-da-L229757-S2">
+        <Definition>meget småt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L229834">
+      <Lemma writtenForm="centi-" partOfSpeech="affix"/>
+      <Sense id="L229834-S1" synset="wikidata-da-L229834-S1" ili="wikidata-da-L229834-S1">
+        <Definition>SI-præfiks for en hundrededel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347404">
+      <Lemma writtenForm="medmindre" partOfSpeech="conjunction"/>
+      <Sense id="L347404-S1" synset="wikidata-da-L347404-S1" ili="wikidata-da-L347404-S1">
+        <Definition>konjunktion, der bruges til at indlede en betingelse, hvori en handling eller situation kun vil finde sted, hvis en anden specifik betingelse ikke er opfyldt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L501643">
+      <Lemma writtenForm="otteogtyve" partOfSpeech="numeral"/>
+      <Sense id="L501643-S1" synset="wikidata-da-L501643-S1" ili="wikidata-da-L501643-S1">
+        <Definition>tallet 28</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642117">
+      <Lemma writtenForm="før" partOfSpeech="conjunction"/>
+      <Sense id="L642117-S1" synset="wikidata-da-L642117-S1" ili="wikidata-da-L642117-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654891">
+      <Lemma writtenForm="treogtyve" partOfSpeech="numeral"/>
+      <Sense id="L654891-S1" synset="wikidata-da-L654891-S1" ili="wikidata-da-L654891-S1">
+        <Definition>tallet 23</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654902">
+      <Lemma writtenForm="enogfirs" partOfSpeech="numeral"/>
+      <Sense id="L654902-S1" synset="wikidata-da-L654902-S1" ili="wikidata-da-L654902-S1">
+        <Definition>tallet 81</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654903">
+      <Lemma writtenForm="enoghalvfems" partOfSpeech="numeral"/>
+      <Sense id="L654903-S1" synset="wikidata-da-L654903-S1" ili="wikidata-da-L654903-S1">
+        <Definition>tallet 91</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L678598">
+      <Lemma writtenForm="rap" partOfSpeech="onomatopoeia"/>
+      <Sense id="L678598-S1" synset="wikidata-da-L678598-S1" ili="wikidata-da-L678598-S1">
+        <Definition>lyden fra en and</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680007">
+      <Lemma writtenForm="tøf" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680007-S1" synset="wikidata-da-L680007-S1" ili="wikidata-da-L680007-S1">
+        <Definition>lyden fra et damptog eller maskine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688421">
+      <Lemma writtenForm="vedrørende" partOfSpeech="preposition"/>
+      <Sense id="L688421-S1" synset="wikidata-da-L688421-S1" ili="wikidata-da-L688421-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L688427-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L689010-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688426">
+      <Lemma writtenForm="fraset" partOfSpeech="preposition"/>
+      <Sense id="L688426-S1" synset="wikidata-da-L688426-S1" ili="wikidata-da-L688426-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688427">
+      <Lemma writtenForm="angående" partOfSpeech="preposition"/>
+      <Sense id="L688427-S1" synset="wikidata-da-L688427-S1" ili="wikidata-da-L688427-S1">
+        <Definition></Definition>
+        <Example>Bestemmelser angående regeringens førelse i tilfælde af kongens umyndighed, sygdom eller fraværelse fastsættes ved lov.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L688421-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L689010-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688430">
+      <Lemma writtenForm="adjø" partOfSpeech="interjection"/>
+      <Sense id="L688430-S1" synset="wikidata-da-L688430-S1" ili="wikidata-da-L688430-S1">
+        <Definition>farvel</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L226717-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1505603-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689651">
+      <Lemma writtenForm="giga-" partOfSpeech="affix"/>
+      <Sense id="L689651-S1" synset="wikidata-da-L689651-S1" ili="wikidata-da-L689651-S1">
+        <Definition>milliard</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691054">
+      <Lemma writtenForm="voila" partOfSpeech="interjection"/>
+      <Sense id="L691054-S1" synset="wikidata-da-L691054-S1" ili="wikidata-da-L691054-S1">
+        <Definition>udtryk brugt når man presenterer noget for andre for at tilkalde deres opmærksomhed</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740392">
+      <Lemma writtenForm="atto-" partOfSpeech="affix"/>
+      <Sense id="L740392-S1" synset="wikidata-da-L740392-S1" ili="wikidata-da-L740392-S1">
+        <Definition>trilliontedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1079337">
+      <Lemma writtenForm="tvende" partOfSpeech="numeral"/>
+      <Sense id="L1079337-S1" synset="wikidata-da-L1079337-S1" ili="wikidata-da-L1079337-S1">
+        <Definition>to</Definition>
+        <Example>Af forsikringsakten udstedes tvende ligelydende originaler, af hvilke den ene overgives folketinget for at opbevares i sammes arkiv, den anden nedlægges i rigsarkivet.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L3514-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1083915">
+      <Lemma writtenForm="femti" partOfSpeech="numeral"/>
+      <Sense id="L1083915-S1" synset="wikidata-da-L1083915-S1" ili="wikidata-da-L1083915-S1">
+        <Definition>tallet 50</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117222">
+      <Lemma writtenForm="halvfjerdsende" partOfSpeech="numeral"/>
+      <Sense id="L1117222-S1" synset="wikidata-da-L1117222-S1" ili="wikidata-da-L1117222-S1">
+        <Definition>ordenstallet 70.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117223-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119192">
+      <Lemma writtenForm="milliardte" partOfSpeech="numeral"/>
+      <Sense id="L1119192-S1" synset="wikidata-da-L1119192-S1" ili="wikidata-da-L1119192-S1">
+        <Definition>ordenstallet for 1.000.000.000</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119249">
+      <Lemma writtenForm="nittende" partOfSpeech="numeral"/>
+      <Sense id="L1119249-S1" synset="wikidata-da-L1119249-S1" ili="wikidata-da-L1119249-S1">
+        <Definition>ordenstalordet 19.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119254">
+      <Lemma writtenForm="seksti" partOfSpeech="numeral"/>
+      <Sense id="L1119254-S1" synset="wikidata-da-L1119254-S1" ili="wikidata-da-L1119254-S1">
+        <Definition>tallet 60</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L43254-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L235257-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119260">
+      <Lemma writtenForm="halvhundred" partOfSpeech="numeral"/>
+      <Sense id="L1119260-S1" synset="wikidata-da-L1119260-S1" ili="wikidata-da-L1119260-S1">
+        <Definition>omkring 50</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1377502">
+      <Lemma writtenForm="nioghalvfems" partOfSpeech="numeral"/>
+      <Sense id="L1377502-S1" synset="wikidata-da-L1377502-S1" ili="wikidata-da-L1377502-S1">
+        <Definition>tallet 99</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1505600">
+      <Lemma writtenForm="hæ" partOfSpeech="interjection"/>
+      <Sense id="L1505600-S1" synset="wikidata-da-L1505600-S1" ili="wikidata-da-L1505600-S1">
+        <Definition>hån, triumf</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2022">
+      <Lemma writtenForm="en" partOfSpeech="indefinite article"/>
+      <Sense id="L2022-S1" synset="wikidata-da-L2022-S1" ili="wikidata-da-L2022-S1">
+        <Definition></Definition>
+        <Example>En 31-årig mand fra Horsens gik bersærkergang torsdag aften og nåede at overtræde massevis af paragraffer i straffeloven, inden politiet omsider fik standset ham.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L3073">
+      <Lemma writtenForm="en" partOfSpeech="numeral"/>
+      <Sense id="L3073-S1" synset="wikidata-da-L3073-S1" ili="wikidata-da-L3073-S1">
+        <Definition>det naturlige tal &quot;1&quot;</Definition>
+        <Example>Der er nu ganske vist to finske kanaler og en portugisisk kanal, men der er stadig ingen nederlandsk kanal, og jeg havde anmodet Dem om en nederlandsk kanal, fordi også nederlændere gerne vil følge med i nyhederne hver måned, når vi forvises til dette sted.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L36717">
+      <Lemma writtenForm="undtagen" partOfSpeech="conjunction"/>
+      <Sense id="L36717-S1" synset="wikidata-da-L36717-S1" ili="wikidata-da-L36717-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37612">
+      <Lemma writtenForm="nulte" partOfSpeech="numeral"/>
+      <Sense id="L37612-S1" synset="wikidata-da-L37612-S1" ili="wikidata-da-L37612-S1">
+        <Definition>ordinaltallet for 0</Definition>
+        <Example>... og Rækken standser af sig selv med første eller nulte Potens af x+rb, eftersom p er ulige eller lige.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41933">
+      <Lemma writtenForm="du" partOfSpeech="personal pronoun"/>
+      <Sense id="L41933-S1" synset="wikidata-da-L41933-S1" ili="wikidata-da-L41933-S1">
+        <Definition>henvisning til personen der tales til</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42266">
+      <Lemma writtenForm="ti" partOfSpeech="numeral"/>
+      <Sense id="L42266-S1" synset="wikidata-da-L42266-S1" ili="wikidata-da-L42266-S1">
+        <Definition>tallet 10 mellem 9 og 11</Definition>
+        <Example>Antallet af allergier er de seneste ti år fordoblet 120 gange.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42600">
+      <Lemma writtenForm="kontra" partOfSpeech="preposition"/>
+      <Sense id="L42600-S1" synset="wikidata-da-L42600-S1" ili="wikidata-da-L42600-S1">
+        <Definition>imod</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42604">
+      <Lemma writtenForm="vis-a-vis" partOfSpeech="preposition"/>
+      <Sense id="L42604-S1" synset="wikidata-da-L42604-S1" ili="wikidata-da-L42604-S1">
+        <Definition>lige overfor</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45491">
+      <Lemma writtenForm="mæh" partOfSpeech="onomatopoeia"/>
+      <Sense id="L45491-S1" synset="wikidata-da-L45491-S1" ili="wikidata-da-L45491-S1">
+        <Definition>lyden fra et får eller et lam</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46649">
+      <Lemma writtenForm="aller-" partOfSpeech="affix"/>
+      <Sense id="L46649-S1" synset="wikidata-da-L46649-S1" ili="wikidata-da-L46649-S1">
+        <Definition>forstærker</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48588">
+      <Lemma writtenForm="tredje" partOfSpeech="numeral"/>
+      <Sense id="L48588-S1" synset="wikidata-da-L48588-S1" ili="wikidata-da-L48588-S1">
+        <Definition>ordinaltallet 3</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L53043">
+      <Lemma writtenForm="hyp" partOfSpeech="interjection"/>
+      <Sense id="L53043-S1" synset="wikidata-da-L53043-S1" ili="wikidata-da-L53043-S1">
+        <Definition>kommando til hest for at få den til at bevæge sig</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L230425">
+      <Lemma writtenForm="afro-" partOfSpeech="affix"/>
+      <Sense id="L230425-S1" synset="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1">
+        <Definition>med relation til Afrika</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L525206">
+      <Lemma writtenForm="spidssnudet frø" partOfSpeech="nominal"/>
+      <Sense id="L525206-S1" synset="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1">
+        <Definition>frø af arten Rana arvalis</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L525225">
+      <Lemma writtenForm="grønbroget tudse" partOfSpeech="nominal"/>
+      <Sense id="L525225-S1" synset="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1">
+        <Definition>padde i arten Pseudepidalea viridis</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654892">
+      <Lemma writtenForm="fireogtyve" partOfSpeech="numeral"/>
+      <Sense id="L654892-S1" synset="wikidata-da-L654892-S1" ili="wikidata-da-L654892-S1">
+        <Definition>tallet 24</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673761">
+      <Lemma writtenForm="tusinde" partOfSpeech="numeral"/>
+      <Sense id="L673761-S1" synset="wikidata-da-L673761-S1" ili="wikidata-da-L673761-S1">
+        <Definition>tallet 1000</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679278">
+      <Lemma writtenForm="toti" partOfSpeech="numeral"/>
+      <Sense id="L679278-S1" synset="wikidata-da-L679278-S1" ili="wikidata-da-L679278-S1">
+        <Definition>tallet 20</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680152">
+      <Lemma writtenForm="kykliky" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680152-S1" synset="wikidata-da-L680152-S1" ili="wikidata-da-L680152-S1">
+        <Definition>lyden når en hane galer</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689207">
+      <Lemma writtenForm="fra" partOfSpeech="conjunction"/>
+      <Sense id="L689207-S1" synset="wikidata-da-L689207-S1" ili="wikidata-da-L689207-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691077">
+      <Lemma writtenForm="apport" partOfSpeech="interjection"/>
+      <Sense id="L691077-S1" synset="wikidata-da-L691077-S1" ili="wikidata-da-L691077-S1">
+        <Definition>kommando til hund om at den skal hente noget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691535">
+      <Lemma writtenForm="peta-" partOfSpeech="affix"/>
+      <Sense id="L691535-S1" synset="wikidata-da-L691535-S1" ili="wikidata-da-L691535-S1">
+        <Definition>billiard</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691635">
+      <Lemma writtenForm="-ten" partOfSpeech="affix"/>
+      <Sense id="L691635-S1" synset="wikidata-da-L691635-S1" ili="wikidata-da-L691635-S1">
+        <Definition>ti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701751">
+      <Lemma writtenForm="mediko-" partOfSpeech="affix"/>
+      <Sense id="L701751-S1" synset="wikidata-da-L701751-S1" ili="wikidata-da-L701751-S1">
+        <Definition>lægeligt, behandlingsmæssigt eller medicinmæssig</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701752">
+      <Lemma writtenForm="ferro-" partOfSpeech="affix"/>
+      <Sense id="L701752-S1" synset="wikidata-da-L701752-S1" ili="wikidata-da-L701752-S1">
+        <Definition>vedrørende jern</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L702778">
+      <Lemma writtenForm="tolvte" partOfSpeech="numeral"/>
+      <Sense id="L702778-S1" synset="wikidata-da-L702778-S1" ili="wikidata-da-L702778-S1">
+        <Definition>ordinaltallet 8</Definition>
+        <Example>Hver tolvte EU-borger er arbejdsløs.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740402">
+      <Lemma writtenForm="ronna-" partOfSpeech="affix"/>
+      <Sense id="L740402-S1" synset="wikidata-da-L740402-S1" ili="wikidata-da-L740402-S1">
+        <Definition>kvadrilliard</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010816">
+      <Lemma writtenForm="fireoghalvtreds" partOfSpeech="numeral"/>
+      <Sense id="L1010816-S1" synset="wikidata-da-L1010816-S1" ili="wikidata-da-L1010816-S1">
+        <Definition>tallet 54</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010818">
+      <Lemma writtenForm="syttende" partOfSpeech="numeral"/>
+      <Sense id="L1010818-S1" synset="wikidata-da-L1010818-S1" ili="wikidata-da-L1010818-S1">
+        <Definition></Definition>
+        <Example>Fru Marie Grubbe. Interieurer fra det syttende Aarhundrede</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1071935">
+      <Lemma writtenForm="hetero-" partOfSpeech="affix"/>
+      <Sense id="L1071935-S1" synset="wikidata-da-L1071935-S1" ili="wikidata-da-L1071935-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116351">
+      <Lemma writtenForm="femtifem" partOfSpeech="numeral"/>
+      <Sense id="L1116351-S1" synset="wikidata-da-L1116351-S1" ili="wikidata-da-L1116351-S1">
+        <Definition>tallet 55</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1116352-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117223">
+      <Lemma writtenForm="halvfjerdsindstyvende" partOfSpeech="numeral"/>
+      <Sense id="L1117223-S1" synset="wikidata-da-L1117223-S1" ili="wikidata-da-L1117223-S1">
+        <Definition>ordenstallet 70.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117222-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119168">
+      <Lemma writtenForm="firsende" partOfSpeech="numeral"/>
+      <Sense id="L1119168-S1" synset="wikidata-da-L1119168-S1" ili="wikidata-da-L1119168-S1">
+        <Definition>ordenstallet 80.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119169">
+      <Lemma writtenForm="firsindstyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119169-S1" synset="wikidata-da-L1119169-S1" ili="wikidata-da-L1119169-S1">
+        <Definition>ordenstallet 80.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119170">
+      <Lemma writtenForm="tretifem" partOfSpeech="numeral"/>
+      <Sense id="L1119170-S1" synset="wikidata-da-L1119170-S1" ili="wikidata-da-L1119170-S1">
+        <Definition>tallet 35</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1094317-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119253">
+      <Lemma writtenForm="treogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119253-S1" synset="wikidata-da-L1119253-S1" ili="wikidata-da-L1119253-S1">
+        <Definition>ordenstallet 23.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218501">
+      <Lemma writtenForm="held og lykke" partOfSpeech="interjection"/>
+      <Sense id="L1218501-S1" synset="wikidata-da-L1218501-S1" ili="l1218499-s1">
+        <Definition>lykønskning</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1175186-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1278488">
+      <Lemma writtenForm="treogfirs" partOfSpeech="numeral"/>
+      <Sense id="L1278488-S1" synset="wikidata-da-L1278488-S1" ili="wikidata-da-L1278488-S1">
+        <Definition>tallet 83</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1379404">
+      <Lemma writtenForm="-al" partOfSpeech="affix"/>
+      <Sense id="L1379404-S1" synset="wikidata-da-L1379404-S1" ili="wikidata-da-L1379404-S1">
+        <Definition>i kemi</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411892">
+      <Lemma writtenForm="if." partOfSpeech="abbreviation"/>
+      <Sense id="L1411892-S1" synset="wikidata-da-L1411892-S1" ili="wikidata-da-L1411892-S1">
+        <Definition>ifølge</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L42590-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1504412">
+      <Lemma writtenForm="sit" partOfSpeech="interjection"/>
+      <Sense id="L1504412-S1" synset="wikidata-da-L1504412-S1" ili="wikidata-da-L1504412-S1">
+        <Definition>kommando til en hund om at den skal sætte sig ned</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548308">
+      <Lemma writtenForm="brand-" partOfSpeech="affix"/>
+      <Sense id="L1548308-S1" synset="wikidata-da-L1548308-S1" ili="wikidata-da-L1548308-S1">
+        <Definition>meget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L3833">
+      <Lemma writtenForm="og" partOfSpeech="conjunction"/>
+      <Sense id="L3833-S1" synset="wikidata-da-L3833-S1" ili="l1385-s1">
+        <Definition>binder ord eller sætningsdele sammen</Definition>
+      </Sense>
+      <Sense id="L3833-S2" synset="wikidata-da-L3833-S2" ili="wikidata-da-L3833-S2">
+        <Definition>logisk og</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L31614">
+      <Lemma writtenForm="den" partOfSpeech="definite article"/>
+      <Sense id="L31614-S1" synset="wikidata-da-L31614-S1" ili="wikidata-da-L31614-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35321">
+      <Lemma writtenForm="eller" partOfSpeech="conjunction"/>
+      <Sense id="L35321-S1" synset="wikidata-da-L35321-S1" ili="wikidata-da-L35321-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35322">
+      <Lemma writtenForm="thi" partOfSpeech="conjunction"/>
+      <Sense id="L35322-S1" synset="wikidata-da-L35322-S1" ili="wikidata-da-L35322-S1">
+        <Definition>konjunktion, der bruges til at indlede en årsag eller forklaring, svarende til &apos;fordi&apos; eller &apos;da&apos;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37495">
+      <Lemma writtenForm="omkring" partOfSpeech="preposition"/>
+      <Sense id="L37495-S1" synset="wikidata-da-L37495-S1" ili="wikidata-da-L37495-S1">
+        <Definition>cirka</Definition>
+        <Example>vi må ikke glemme, at medlemsstaterne har ansvaret for at gennemføre omkring 80% af EU&apos;s budget.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37815">
+      <Lemma writtenForm="vov" partOfSpeech="onomatopoeia"/>
+      <Sense id="L37815-S1" synset="wikidata-da-L37815-S1" ili="wikidata-da-L37815-S1">
+        <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L617347-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37930">
+      <Lemma writtenForm="fire" partOfSpeech="numeral"/>
+      <Sense id="L37930-S1" synset="wikidata-da-L37930-S1" ili="wikidata-da-L37930-S1">
+        <Definition>tallet 4, større en tre og mindre en fem</Definition>
+        <Example>Nu er der kun fire tilbage.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42212">
+      <Lemma writtenForm="hvem som helst" partOfSpeech="adverbial locution"/>
+      <Sense id="L42212-S1" synset="wikidata-da-L42212-S1" ili="wikidata-da-L42212-S1">
+        <Definition>alle og enhver</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42268">
+      <Lemma writtenForm="tolv" partOfSpeech="numeral"/>
+      <Sense id="L42268-S1" synset="wikidata-da-L42268-S1" ili="wikidata-da-L42268-S1">
+        <Definition>tallet 12 mellem 11 og 13</Definition>
+        <Example>Nu lå der tolv lig i de tre små stuer.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42602">
+      <Lemma writtenForm="pro" partOfSpeech="preposition"/>
+      <Sense id="L42602-S1" synset="wikidata-da-L42602-S1" ili="wikidata-da-L42602-S1">
+        <Definition>for</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42738">
+      <Lemma writtenForm="øf" partOfSpeech="onomatopoeia"/>
+      <Sense id="L42738-S1" synset="wikidata-da-L42738-S1" ili="wikidata-da-L42738-S1">
+        <Definition>ord svarende til lyden fra et svin</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43431">
+      <Lemma writtenForm="pyt" partOfSpeech="interjection"/>
+      <Sense id="L43431-S1" synset="wikidata-da-L43431-S1" ili="wikidata-da-L43431-S1">
+        <Definition>udråb om affejning af problem</Definition>
+        <Example>Men Jenny kastede blot et Blik paa Telegrammet og sagde: — Aah pyt! hvad bryder jeg mig om det.</Example>
+        <Example>Jeg ved ganske vist ikke, hvorfor han så tog det op, men pyt nu med det.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45900">
+      <Lemma writtenForm="femogtyve" partOfSpeech="numeral"/>
+      <Sense id="L45900-S1" synset="wikidata-da-L45900-S1" ili="wikidata-da-L45900-S1">
+        <Definition>tallet 25</Definition>
+        <Example>For hvis det er vanskeligt at træffe beslutninger ved enstemmighed i en organisation med femogtyve medlemmer, er det heller ikke acceptabelt at træffe flertalsbeslutninger, når organisationen har femogtyve heterogene medlemmer.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45990">
+      <Lemma writtenForm="ur-" partOfSpeech="affix"/>
+      <Sense id="L45990-S1" synset="wikidata-da-L45990-S1" ili="wikidata-da-L45990-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45991">
+      <Lemma writtenForm="tve-" partOfSpeech="affix"/>
+      <Sense id="L45991-S1" synset="wikidata-da-L45991-S1" ili="wikidata-da-L45991-S1">
+        <Definition>to</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48470">
+      <Lemma writtenForm="hundred" partOfSpeech="numeral"/>
+      <Sense id="L48470-S1" synset="wikidata-da-L48470-S1" ili="wikidata-da-L48470-S1">
+        <Definition>tallet 100 mellem 99 og 101</Definition>
+        <Example>Ulykker i transportsystemer kan bringe flere hundrede mennesker i fare.</Example>
+      </Sense>
+      <Sense id="L48470-S2" synset="wikidata-da-L48470-S2" ili="wikidata-da-L48470-S2">
+        <Definition>ordenstal for 100</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48591">
+      <Lemma writtenForm="fjerde" partOfSpeech="numeral"/>
+      <Sense id="L48591-S1" synset="wikidata-da-L48591-S1" ili="wikidata-da-L48591-S1">
+        <Definition>4.; ordinaltallet 4</Definition>
+        <Example>Jeg kommer nu til min fjerde og næstsidste betragtning.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L60622">
+      <Lemma writtenForm="bio-" partOfSpeech="affix"/>
+      <Sense id="L60622-S1" synset="wikidata-da-L60622-S1" ili="wikidata-da-L60622-S1">
+        <Definition>vedrørende levende organismer</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184199">
+      <Lemma writtenForm="denne" partOfSpeech="pronoun"/>
+      <Sense id="L184199-S1" synset="wikidata-da-L184199-S1" ili="wikidata-da-L184199-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L226722">
+      <Lemma writtenForm="hallo" partOfSpeech="interjection"/>
+      <Sense id="L226722-S1" synset="wikidata-da-L226722-S1" ili="wikidata-da-L226722-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L235255">
+      <Lemma writtenForm="firsindstyve" partOfSpeech="numeral"/>
+      <Sense id="L235255-S1" synset="wikidata-da-L235255-S1" ili="wikidata-da-L235255-S1">
+        <Definition>tallet 80</Definition>
+        <Example>For hver stat, som ratificerer overenskomsten eller tiltræder den efter deponeringen af det ottende ratifikations- eller tiltrædelsesdokument, som nævnt ovenfor i stk. 1, skal overenskomsten træde i kraft et hundrede og firsindstyve dage efter datoen for den pågældende stats deponering af ratifikations- eller tiltrædelsesdokumentet.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L45895-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1119256-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301394">
+      <Lemma writtenForm="sjette" partOfSpeech="numeral"/>
+      <Sense id="L301394-S1" synset="wikidata-da-L301394-S1" ili="wikidata-da-L301394-S1">
+        <Definition>ordinaltallet 6</Definition>
+        <Example>For blot 100 år siden var hver sjette, syvende indbygger i verden europæer, men om 40 år vil blot hvert 20. menneske bo på vores kontinent.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L302337">
+      <Lemma writtenForm="allesammen" partOfSpeech="pronoun"/>
+      <Sense id="L302337-S1" synset="wikidata-da-L302337-S1" ili="wikidata-da-L302337-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L305311">
+      <Lemma writtenForm="hunde-" partOfSpeech="affix"/>
+      <Sense id="L305311-S1" synset="wikidata-da-L305311-S1" ili="wikidata-da-L305311-S1">
+        <Definition>meget eller mere</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L308267">
+      <Lemma writtenForm="enten" partOfSpeech="conjunction"/>
+      <Sense id="L308267-S1" synset="wikidata-da-L308267-S1" ili="wikidata-da-L308267-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L314342">
+      <Lemma writtenForm="kilo-" partOfSpeech="affix"/>
+      <Sense id="L314342-S1" synset="wikidata-da-L314342-S1" ili="wikidata-da-L314342-S1">
+        <Definition>tusind</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346500">
+      <Lemma writtenForm="alting" partOfSpeech="pronoun"/>
+      <Sense id="L346500-S1" synset="wikidata-da-L346500-S1" ili="wikidata-da-L346500-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L465341">
+      <Lemma writtenForm="syvogtyve" partOfSpeech="numeral"/>
+      <Sense id="L465341-S1" synset="wikidata-da-L465341-S1" ili="wikidata-da-L465341-S1">
+        <Definition>tallet 27</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616838">
+      <Lemma writtenForm="-mat" partOfSpeech="affix"/>
+      <Sense id="L616838-S1" synset="wikidata-da-L616838-S1" ili="wikidata-da-L616838-S1">
+        <Definition>maskine, apparat</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620414">
+      <Lemma writtenForm="pøj pøj" partOfSpeech="interjection"/>
+      <Sense id="L620414-S1" synset="wikidata-da-L620414-S1" ili="wikidata-da-L620414-S1">
+        <Definition>held og lykke</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680008">
+      <Lemma writtenForm="vovvov" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680008-S1" synset="wikidata-da-L680008-S1" ili="wikidata-da-L680008-S1">
+        <Definition>lyden fra en gøende hund</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680148">
+      <Lemma writtenForm="plask" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680148-S1" synset="wikidata-da-L680148-S1" ili="wikidata-da-L680148-S1">
+        <Definition>lyden når noget stort falder i vandet eller når en større mængde vand smides på noget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689005">
+      <Lemma writtenForm="a la" partOfSpeech="preposition"/>
+      <Sense id="L689005-S1" synset="wikidata-da-L689005-S1" ili="wikidata-da-L689005-S1">
+        <Definition>på samme måde som</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740395">
+      <Lemma writtenForm="ronto-" partOfSpeech="affix"/>
+      <Sense id="L740395-S1" synset="wikidata-da-L740395-S1" ili="wikidata-da-L740395-S1">
+        <Definition>kvadrilliardedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740400">
+      <Lemma writtenForm="zetta-" partOfSpeech="affix"/>
+      <Sense id="L740400-S1" synset="wikidata-da-L740400-S1" ili="wikidata-da-L740400-S1">
+        <Definition>trilliard</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L984405">
+      <Lemma writtenForm="trettende" partOfSpeech="numeral"/>
+      <Sense id="L984405-S1" synset="wikidata-da-L984405-S1" ili="wikidata-da-L984405-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117237">
+      <Lemma writtenForm="seksogtres" partOfSpeech="numeral"/>
+      <Sense id="L1117237-S1" synset="wikidata-da-L1117237-S1" ili="wikidata-da-L1117237-S1">
+        <Definition>tallet 66</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117255">
+      <Lemma writtenForm="femoghalvfjerds" partOfSpeech="numeral"/>
+      <Sense id="L1117255-S1" synset="wikidata-da-L1117255-S1" ili="wikidata-da-L1117255-S1">
+        <Definition>tallet 75</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117249-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119191">
+      <Lemma writtenForm="fyrretyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119191-S1" synset="wikidata-da-L1119191-S1" ili="wikidata-da-L1119191-S1">
+        <Definition>ordenstallet 40.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119190-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119194">
+      <Lemma writtenForm="niogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1119194-S1" synset="wikidata-da-L1119194-S1" ili="wikidata-da-L1119194-S1">
+        <Definition>ordenstallet 29.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218448">
+      <Lemma writtenForm="du må have spist søm" partOfSpeech="interjection"/>
+      <Sense id="L1218448-S1" synset="wikidata-da-L1218448-S1" ili="wikidata-da-L1218448-S1">
+        <Definition>du må være tosset (anvendes for at udtrykke at den anden er helt ude og cykle)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1313691">
+      <Lemma writtenForm="gå i tænkeboks" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1313691-S1" synset="wikidata-da-L1313691-S1" ili="wikidata-da-L1313691-S1">
+        <Definition>overveje noget nøje inden beslutning tages</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1418038">
+      <Lemma writtenForm="OMG" partOfSpeech="interjection"/>
+      <Sense id="L1418038-S1" synset="wikidata-da-L1418038-S1" ili="wikidata-da-L1418038-S1">
+        <Definition>udtryk for overraskelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1505602">
+      <Lemma writtenForm="filiokus" partOfSpeech="interjection"/>
+      <Sense id="L1505602-S1" synset="wikidata-da-L1505602-S1" ili="wikidata-da-L1505602-S1">
+        <Definition>udtryk for tryllen</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35191">
+      <Lemma writtenForm="men" partOfSpeech="conjunction"/>
+      <Sense id="L35191-S1" synset="wikidata-da-L35191-S1" ili="wikidata-da-L35191-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37931">
+      <Lemma writtenForm="seks" partOfSpeech="numeral"/>
+      <Sense id="L37931-S1" synset="wikidata-da-L37931-S1" ili="wikidata-da-L37931-S1">
+        <Definition>tallet 6, efter fem og før syv</Definition>
+        <Example>En vindmølle leverer allerede efter fire til seks måneder mere energi, end det kostede at fremstille og opstille den.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42413">
+      <Lemma writtenForm="tyve" partOfSpeech="numeral"/>
+      <Sense id="L42413-S1" synset="wikidata-da-L42413-S1" ili="wikidata-da-L42413-S1">
+        <Definition>antallet 20 mellem 19 og 21</Definition>
+        <Example>Forkert brug af organiske opløsningsmidler gav allerede for tyve år siden problemer.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42575">
+      <Lemma writtenForm="gennem" partOfSpeech="preposition"/>
+      <Sense id="L42575-S1" synset="wikidata-da-L42575-S1" ili="wikidata-da-L42575-S1">
+        <Definition>når noget passerer ind igennem noget andet fx en person som går gennem en gyde</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45894">
+      <Lemma writtenForm="nitten" partOfSpeech="numeral"/>
+      <Sense id="L45894-S1" synset="wikidata-da-L45894-S1" ili="wikidata-da-L45894-S1">
+        <Definition>tallet 19</Definition>
+        <Example>I gennemsnit blev der hver uge i 1996 vedtaget nitten forordninger og to direktiver, hvoraf de fleste drejede sig om den fælles landbrugspolitik.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48463">
+      <Lemma writtenForm="fjorten" partOfSpeech="numeral"/>
+      <Sense id="L48463-S1" synset="wikidata-da-L48463-S1" ili="wikidata-da-L48463-S1">
+        <Definition>tallet 14 mellem tretten og femten</Definition>
+        <Example>Jeg nævner også de kommende klimaforhandlinger, som startes om fjorten dage i Bonn.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48469">
+      <Lemma writtenForm="fyrre" partOfSpeech="numeral"/>
+      <Sense id="L48469-S1" synset="wikidata-da-L48469-S1" ili="wikidata-da-L48469-S1">
+        <Definition>tallet 40 mellem 39 og 41</Definition>
+        <Example>For fyrre år siden var der god mening heri, og det er der også i dag!</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48474">
+      <Lemma writtenForm="halvfems" partOfSpeech="numeral"/>
+      <Sense id="L48474-S1" synset="wikidata-da-L48474-S1" ili="wikidata-da-L48474-S1">
+        <Definition>tallet 90 mellem 89 og 91</Definition>
+        <Example>Tilsvarende burde verden selvfølgelig reagere, når over halvfems procent af de førende forskere på området i verden siger, at den globale opvarmning er reel, og at den er menneskeskabt.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L233332-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48587">
+      <Lemma writtenForm="anden" partOfSpeech="pronoun"/>
+      <Sense id="L48587-S1" synset="wikidata-da-L48587-S1" ili="l1323942-s1">
+        <Definition>med forskel i forbindelse med selektiv referentialitet og kategori</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L221802">
+      <Lemma writtenForm="auto-" partOfSpeech="affix"/>
+      <Sense id="L221802-S1" synset="wikidata-da-L221802-S1" ili="wikidata-da-L221802-S1">
+        <Definition>bil</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L231574">
+      <Lemma writtenForm="svine-" partOfSpeech="affix"/>
+      <Sense id="L231574-S1" synset="wikidata-da-L231574-S1" ili="wikidata-da-L231574-S1">
+        <Definition>forstærker</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L233332">
+      <Lemma writtenForm="halvfemsindstyve" partOfSpeech="numeral"/>
+      <Sense id="L233332-S1" synset="wikidata-da-L233332-S1" ili="wikidata-da-L233332-S1">
+        <Definition>90</Definition>
+        <Example>Denne meddelelse må i de tilfælde, hvor en stat allerede har tiltrådt konventionen, gives inden halvfemsindstyve dage efter datoen for generalsekretærens meddelelse, og i de tilfælde, hvor en stat senere tiltræder, inden halvfemsindtyve dage efter datoen for deponeringen af ratifikations- eller tiltrædelsesinstrumentet.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L48474-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L235256">
+      <Lemma writtenForm="halvtredsindstyve" partOfSpeech="numeral"/>
+      <Sense id="L235256-S1" synset="wikidata-da-L235256-S1" ili="wikidata-da-L235256-S1">
+        <Definition>tallet 50</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L48472-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301404">
+      <Lemma writtenForm="syvende" partOfSpeech="numeral"/>
+      <Sense id="L301404-S1" synset="wikidata-da-L301404-S1" ili="wikidata-da-L301404-S1">
+        <Definition>ordinaltallet 7</Definition>
+        <Example>Jeg er adræt nok til at gå ned fra sjette eller syvende sal.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301411">
+      <Lemma writtenForm="ottende" partOfSpeech="numeral"/>
+      <Sense id="L301411-S1" synset="wikidata-da-L301411-S1" ili="wikidata-da-L301411-S1">
+        <Definition>ordinaltallet 8</Definition>
+        <Example>Dette er den ottende årsberetning om strukturfondsbevillinger.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L307396">
+      <Lemma writtenForm="seksogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L307396-S1" synset="wikidata-da-L307396-S1" ili="wikidata-da-L307396-S1">
+        <Definition>ordenstal for 26</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L313673">
+      <Lemma writtenForm="anti-" partOfSpeech="affix"/>
+      <Sense id="L313673-S1" synset="wikidata-da-L313673-S1" ili="wikidata-da-L313673-S1">
+        <Definition>mod</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346919">
+      <Lemma writtenForm="pære-" partOfSpeech="affix"/>
+      <Sense id="L346919-S1" synset="wikidata-da-L346919-S1" ili="wikidata-da-L346919-S1">
+        <Definition>meget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L586330">
+      <Lemma writtenForm="multi-" partOfSpeech="affix"/>
+      <Sense id="L586330-S1" synset="wikidata-da-L586330-S1" ili="wikidata-da-L586330-S1">
+        <Definition>flere</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617405">
+      <Lemma writtenForm="-bjerg" partOfSpeech="pseudo-affix"/>
+      <Sense id="L617405-S1" synset="wikidata-da-L617405-S1" ili="wikidata-da-L617405-S1">
+        <Definition>større ophobning</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654894">
+      <Lemma writtenForm="toogtredive" partOfSpeech="numeral"/>
+      <Sense id="L654894-S1" synset="wikidata-da-L654894-S1" ili="wikidata-da-L654894-S1">
+        <Definition>tallet 32</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689604">
+      <Lemma writtenForm="pip" partOfSpeech="onomatopoeia"/>
+      <Sense id="L689604-S1" synset="wikidata-da-L689604-S1" ili="wikidata-da-L689604-S1">
+        <Definition>lyden fra en fugl</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701755">
+      <Lemma writtenForm="død-" partOfSpeech="affix"/>
+      <Sense id="L701755-S1" synset="wikidata-da-L701755-S1" ili="wikidata-da-L701755-S1">
+        <Definition>forstærker</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701758">
+      <Lemma writtenForm="nano-" partOfSpeech="affix"/>
+      <Sense id="L701758-S1" synset="wikidata-da-L701758-S1" ili="wikidata-da-L701758-S1">
+        <Definition>milliardtedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740394">
+      <Lemma writtenForm="yokto-" partOfSpeech="affix"/>
+      <Sense id="L740394-S1" synset="wikidata-da-L740394-S1" ili="wikidata-da-L740394-S1">
+        <Definition>kvadrilliontedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740397">
+      <Lemma writtenForm="hekto-" partOfSpeech="affix"/>
+      <Sense id="L740397-S1" synset="wikidata-da-L740397-S1" ili="wikidata-da-L740397-S1">
+        <Definition>hundrede</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L984402">
+      <Lemma writtenForm="fireogfyrre" partOfSpeech="numeral"/>
+      <Sense id="L984402-S1" synset="wikidata-da-L984402-S1" ili="wikidata-da-L984402-S1">
+        <Definition>tallet 44</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094314">
+      <Lemma writtenForm="femogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1094314-S1" synset="wikidata-da-L1094314-S1" ili="wikidata-da-L1094314-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094317">
+      <Lemma writtenForm="femogtredive" partOfSpeech="numeral"/>
+      <Sense id="L1094317-S1" synset="wikidata-da-L1094317-S1" ili="wikidata-da-L1094317-S1">
+        <Definition>tallet 35</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119170-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101532">
+      <Lemma writtenForm="enogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1101532-S1" synset="wikidata-da-L1101532-S1" ili="wikidata-da-L1101532-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116354">
+      <Lemma writtenForm="syvogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1116354-S1" synset="wikidata-da-L1116354-S1" ili="wikidata-da-L1116354-S1">
+        <Definition>ordenstallet 27.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119165">
+      <Lemma writtenForm="halvtredsende" partOfSpeech="numeral"/>
+      <Sense id="L1119165-S1" synset="wikidata-da-L1119165-S1" ili="wikidata-da-L1119165-S1">
+        <Definition>ordenstallet 50.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119164-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119255">
+      <Lemma writtenForm="sekstifem" partOfSpeech="numeral"/>
+      <Sense id="L1119255-S1" synset="wikidata-da-L1119255-S1" ili="wikidata-da-L1119255-S1">
+        <Definition>tallet 65</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119257-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121989">
+      <Lemma writtenForm="drøn-" partOfSpeech="affix"/>
+      <Sense id="L1121989-S1" synset="wikidata-da-L1121989-S1" ili="wikidata-da-L1121989-S1">
+        <Definition>meget, i høj grad</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1175186">
+      <Lemma writtenForm="knæk og bræk" partOfSpeech="interjection"/>
+      <Sense id="L1175186-S1" synset="wikidata-da-L1175186-S1" ili="wikidata-da-L1175186-S1">
+        <Definition>held og lykke</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1218501-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218343">
+      <Lemma writtenForm="det var kattens" partOfSpeech="idiomatic interjection"/>
+      <Sense id="L1218343-S1" synset="wikidata-da-L1218343-S1" ili="l1218344-s1">
+        <Definition>udtryk for bestyrtelse og overraskelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1226650">
+      <Lemma writtenForm="så er den ged barberet" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1226650-S1" synset="wikidata-da-L1226650-S1" ili="wikidata-da-L1226650-S1">
+        <Definition>når noget er afklaret eller løst</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L3514">
+      <Lemma writtenForm="to" partOfSpeech="numeral"/>
+      <Sense id="L3514-S1" synset="wikidata-da-L3514-S1" ili="l329-s1">
+        <Definition>tallet 2, der er mellem 1 og 3</Definition>
+        <Example>Det var de to beslutninger, der blev truffet i går.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L1079337-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L31616">
+      <Lemma writtenForm="det" partOfSpeech="pronoun"/>
+      <Sense id="L31616-S1" synset="wikidata-da-L31616-S1" ili="wikidata-da-L31616-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34283">
+      <Lemma writtenForm="hinanden" partOfSpeech="pronoun"/>
+      <Sense id="L34283-S1" synset="wikidata-da-L34283-S1" ili="wikidata-da-L34283-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34829">
+      <Lemma writtenForm="efter" partOfSpeech="preposition"/>
+      <Sense id="L34829-S1" synset="wikidata-da-L34829-S1" ili="wikidata-da-L34829-S1">
+        <Definition>kvalificerer noget (følger af noget, begivenhed eller dato) som er sket senere i forhold til noget andet</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35335">
+      <Lemma writtenForm="hvem" partOfSpeech="pronoun"/>
+      <Sense id="L35335-S1" synset="wikidata-da-L35335-S1" ili="wikidata-da-L35335-S1">
+        <Definition>spørgeord for identificering af person</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41896">
+      <Lemma writtenForm="nej" partOfSpeech="interjection"/>
+      <Sense id="L41896-S1" synset="wikidata-da-L41896-S1" ili="wikidata-da-L41896-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41934">
+      <Lemma writtenForm="I" partOfSpeech="personal pronoun"/>
+      <Sense id="L41934-S1" synset="wikidata-da-L41934-S1" ili="wikidata-da-L41934-S1">
+        <Definition>henviser til flere personer der tales til</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42264">
+      <Lemma writtenForm="ni" partOfSpeech="numeral"/>
+      <Sense id="L42264-S1" synset="wikidata-da-L42264-S1" ili="wikidata-da-L42264-S1">
+        <Definition>tallet 9 mellem 8 og 10</Definition>
+        <Example>Kan vi gøre noget positivt nu her ni år efter?</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L46737">
+      <Lemma writtenForm="a-" partOfSpeech="affix"/>
+      <Sense id="L46737-S1" synset="wikidata-da-L46737-S1" ili="wikidata-da-L46737-S1">
+        <Definition>nægtende eller modsigende</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48467">
+      <Lemma writtenForm="atten" partOfSpeech="numeral"/>
+      <Sense id="L48467-S1" synset="wikidata-da-L48467-S1" ili="wikidata-da-L48467-S1">
+        <Definition>tallet 18 mellem sytten og nitten</Definition>
+        <Example>For atten år siden ansøgte vi om optagelse i EU.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L229382">
+      <Lemma writtenForm="du godeste" partOfSpeech="interjection"/>
+      <Sense id="L229382-S1" synset="wikidata-da-L229382-S1" ili="wikidata-da-L229382-S1">
+        <Definition>udtryk for forbavselse eller overraskelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301387">
+      <Lemma writtenForm="semi-" partOfSpeech="affix"/>
+      <Sense id="L301387-S1" synset="wikidata-da-L301387-S1" ili="wikidata-da-L301387-S1">
+        <Definition>halv</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L307397">
+      <Lemma writtenForm="seksogtyve" partOfSpeech="numeral"/>
+      <Sense id="L307397-S1" synset="wikidata-da-L307397-S1" ili="wikidata-da-L307397-S1">
+        <Definition>tallet 26</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347018">
+      <Lemma writtenForm="tyvende" partOfSpeech="numeral"/>
+      <Sense id="L347018-S1" synset="wikidata-da-L347018-S1" ili="wikidata-da-L347018-S1">
+        <Definition>nummer 20 i en række</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347059">
+      <Lemma writtenForm="milli-" partOfSpeech="affix"/>
+      <Sense id="L347059-S1" synset="wikidata-da-L347059-S1" ili="wikidata-da-L347059-S1">
+        <Definition>tusindedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L586960">
+      <Lemma writtenForm="deci-" partOfSpeech="affix"/>
+      <Sense id="L586960-S1" synset="wikidata-da-L586960-S1" ili="wikidata-da-L586960-S1">
+        <Definition>tiendedel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642123">
+      <Lemma writtenForm="siden" partOfSpeech="conjunction"/>
+      <Sense id="L642123-S1" synset="wikidata-da-L642123-S1" ili="wikidata-da-L642123-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673288">
+      <Lemma writtenForm="toogfyrre" partOfSpeech="numeral"/>
+      <Sense id="L673288-S1" synset="wikidata-da-L673288-S1" ili="wikidata-da-L673288-S1">
+        <Definition>tallet 42</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680004">
+      <Lemma writtenForm="bang" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680004-S1" synset="wikidata-da-L680004-S1" ili="wikidata-da-L680004-S1">
+        <Definition>lyd fra skud eller lignende høj og kort lyd</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680009">
+      <Lemma writtenForm="tik tak" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680009-S1" synset="wikidata-da-L680009-S1" ili="wikidata-da-L680009-S1">
+        <Definition>lyden fra et mekanisk ur når det går</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688423">
+      <Lemma writtenForm="undtagen" partOfSpeech="preposition"/>
+      <Sense id="L688423-S1" synset="wikidata-da-L688423-S1" ili="wikidata-da-L688423-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688446">
+      <Lemma writtenForm="undskyld" partOfSpeech="interjection"/>
+      <Sense id="L688446-S1" synset="wikidata-da-L688446-S1" ili="wikidata-da-L688446-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689010">
+      <Lemma writtenForm="ad" partOfSpeech="preposition"/>
+      <Sense id="L689010-S1" synset="wikidata-da-L689010-S1" ili="wikidata-da-L689010-S1">
+        <Definition>vedrørende</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L688421-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L688427-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689204">
+      <Lemma writtenForm="omendskønt" partOfSpeech="conjunction"/>
+      <Sense id="L689204-S1" synset="wikidata-da-L689204-S1" ili="wikidata-da-L689204-S1">
+        <Definition>konjunktion, der bruges til at indlede en sætning eller klausul, der udtrykker en indrømmelse eller en undtagelse, svarende til &apos;selvom&apos; eller &apos;skønt&apos;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691076">
+      <Lemma writtenForm="skål" partOfSpeech="interjection"/>
+      <Sense id="L691076-S1" synset="wikidata-da-L691076-S1" ili="wikidata-da-L691076-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691633">
+      <Lemma writtenForm="niogtyve" partOfSpeech="numeral"/>
+      <Sense id="L691633-S1" synset="wikidata-da-L691633-S1" ili="wikidata-da-L691633-S1">
+        <Definition>tallet 29</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L702779">
+      <Lemma writtenForm="niti" partOfSpeech="numeral"/>
+      <Sense id="L702779-S1" synset="wikidata-da-L702779-S1" ili="wikidata-da-L702779-S1">
+        <Definition>tallet 90</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L735051">
+      <Lemma writtenForm="firti" partOfSpeech="numeral"/>
+      <Sense id="L735051-S1" synset="wikidata-da-L735051-S1" ili="wikidata-da-L735051-S1">
+        <Definition>tallet 40</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L991483">
+      <Lemma writtenForm="-basse" partOfSpeech="affix"/>
+      <Sense id="L991483-S1" synset="wikidata-da-L991483-S1" ili="wikidata-da-L991483-S1">
+        <Definition>person</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116265">
+      <Lemma writtenForm="enogtres" partOfSpeech="numeral"/>
+      <Sense id="L1116265-S1" synset="wikidata-da-L1116265-S1" ili="wikidata-da-L1116265-S1">
+        <Definition>tallet 61</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117380">
+      <Lemma writtenForm="halvfemsende" partOfSpeech="numeral"/>
+      <Sense id="L1117380-S1" synset="wikidata-da-L1117380-S1" ili="wikidata-da-L1117380-S1">
+        <Definition>ordenstallet 90.</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1117379-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119167">
+      <Lemma writtenForm="ellevte" partOfSpeech="numeral"/>
+      <Sense id="L1119167-S1" synset="wikidata-da-L1119167-S1" ili="wikidata-da-L1119167-S1">
+        <Definition>ordenstallet 11.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119193">
+      <Lemma writtenForm="millionte" partOfSpeech="numeral"/>
+      <Sense id="L1119193-S1" synset="wikidata-da-L1119193-S1" ili="wikidata-da-L1119193-S1">
+        <Definition>ordenstallet for en million</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119250">
+      <Lemma writtenForm="nitifem" partOfSpeech="numeral"/>
+      <Sense id="L1119250-S1" synset="wikidata-da-L1119250-S1" ili="wikidata-da-L1119250-S1">
+        <Definition>tallet 95</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119251">
+      <Lemma writtenForm="sekstende" partOfSpeech="numeral"/>
+      <Sense id="L1119251-S1" synset="wikidata-da-L1119251-S1" ili="wikidata-da-L1119251-S1">
+        <Definition>ordenstallet 16.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119256">
+      <Lemma writtenForm="otti" partOfSpeech="numeral"/>
+      <Sense id="L1119256-S1" synset="wikidata-da-L1119256-S1" ili="wikidata-da-L1119256-S1">
+        <Definition>tallet 80</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L45895-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L235255-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119258">
+      <Lemma writtenForm="ottifem" partOfSpeech="numeral"/>
+      <Sense id="L1119258-S1" synset="wikidata-da-L1119258-S1" ili="wikidata-da-L1119258-S1">
+        <Definition>tallet 85</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L1119259-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119287">
+      <Lemma writtenForm="treogtredive" partOfSpeech="numeral"/>
+      <Sense id="L1119287-S1" synset="wikidata-da-L1119287-S1" ili="wikidata-da-L1119287-S1">
+        <Definition>tallet 33</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121988">
+      <Lemma writtenForm="skide-" partOfSpeech="affix"/>
+      <Sense id="L1121988-S1" synset="wikidata-da-L1121988-S1" ili="wikidata-da-L1121988-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1219587">
+      <Lemma writtenForm="ah" partOfSpeech="interjection"/>
+      <Sense id="L1219587-S1" synset="wikidata-da-L1219587-S1" ili="wikidata-da-L1219587-S1">
+        <Definition>forstærkende kraftudtryk</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1329361">
+      <Lemma writtenForm="noget for noget" partOfSpeech="popular saying"/>
+      <Sense id="L1329361-S1" synset="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1">
+        <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1504421">
+      <Lemma writtenForm="jeps" partOfSpeech="interjection"/>
+      <Sense id="L1504421-S1" synset="wikidata-da-L1504421-S1" ili="wikidata-da-L1504421-S1">
+        <Definition>ja, - bekræftigelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5027">
+      <Lemma writtenForm="i" partOfSpeech="preposition"/>
+      <Sense id="L5027-S1" synset="wikidata-da-L5027-S1" ili="l2987-s1">
+        <Definition></Definition>
+        <Example>Kongemagten nedarves til mænd og kvinder efter de i tronfølgeloven af 27. marts 1953 fastsatte regler.</Example>
+      </Sense>
+      <Sense id="L5027-S3" synset="wikidata-da-L5027-S3" ili="wikidata-da-L5027-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L33917">
+      <Lemma writtenForm="de" partOfSpeech="personal pronoun"/>
+      <Sense id="L33917-S1" synset="wikidata-da-L33917-S1" ili="wikidata-da-L33917-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L34131">
+      <Lemma writtenForm="otte" partOfSpeech="numeral"/>
+      <Sense id="L34131-S1" synset="wikidata-da-L34131-S1" ili="wikidata-da-L34131-S1">
+        <Definition>tallet 8 efter 7 og før 9</Definition>
+        <Example>Alt dette forsvandt for otte måneder siden.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41457">
+      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Sense id="L41457-S1" synset="wikidata-da-L41457-S1" ili="wikidata-da-L41457-S1">
+        <Definition>bekræftigelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41825">
+      <Lemma writtenForm="-hed" partOfSpeech="affix"/>
+      <Sense id="L41825-S1" synset="wikidata-da-L41825-S1" ili="wikidata-da-L41825-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41826">
+      <Lemma writtenForm="-skab" partOfSpeech="affix"/>
+      <Sense id="L41826-S1" synset="wikidata-da-L41826-S1" ili="wikidata-da-L41826-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L42250">
+      <Lemma writtenForm="hvorimod" partOfSpeech="conjunction"/>
+      <Sense id="L42250-S1" synset="wikidata-da-L42250-S1" ili="wikidata-da-L42250-S1">
+        <Definition>konjunktion, der bruges til at indlede en kontrast eller modsætning i forhold til det, der tidligere er nævnt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43361">
+      <Lemma writtenForm="fuck" partOfSpeech="interjection"/>
+      <Sense id="L43361-S1" synset="wikidata-da-L43361-S1" ili="wikidata-da-L43361-S1">
+        <Definition>ord</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45020">
+      <Lemma writtenForm="-isme" partOfSpeech="affix"/>
+      <Sense id="L45020-S1" synset="wikidata-da-L45020-S1" ili="wikidata-da-L45020-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45802">
+      <Lemma writtenForm="hej" partOfSpeech="interjection"/>
+      <Sense id="L45802-S1" synset="wikidata-da-L45802-S1" ili="wikidata-da-L45802-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48472">
+      <Lemma writtenForm="halvtreds" partOfSpeech="numeral"/>
+      <Sense id="L48472-S1" synset="wikidata-da-L48472-S1" ili="wikidata-da-L48472-S1">
+        <Definition>tallet 50 mellem 49 og 51</Definition>
+        <Example>Lad os huske på, at kriminaliteten i Europa er steget betydeligt i løbet af de sidste halvtreds år.</Example>
+        <SenseRelation relType="similar" target="wikidata-da-L235256-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48589">
+      <Lemma writtenForm="første" partOfSpeech="numeral"/>
+      <Sense id="L48589-S1" synset="wikidata-da-L48589-S1" ili="wikidata-da-L48589-S1">
+        <Definition>element der optræder som nummer et i en rækkefølge</Definition>
+        <Example>... og Rækken standser af sig selv med første eller nulte Potens af x+rb, eftersom p er ulige eller lige.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L226717">
+      <Lemma writtenForm="farvel" partOfSpeech="interjection"/>
+      <Sense id="L226717-S1" synset="wikidata-da-L226717-S1" ili="wikidata-da-L226717-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L688430-S1"/>
+        <SenseRelation relType="similar" target="wikidata-da-L1505603-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L233333">
+      <Lemma writtenForm="halvfjerdsindstyve" partOfSpeech="numeral"/>
+      <Sense id="L233333-S1" synset="wikidata-da-L233333-S1" ili="wikidata-da-L233333-S1">
+        <Definition>tallet 70</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L48473-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L250341">
+      <Lemma writtenForm="øv" partOfSpeech="interjection"/>
+      <Sense id="L250341-S1" synset="wikidata-da-L250341-S1" ili="l705189-s1">
+        <Definition>udtryk for følelsen at man ønsker sig noget og det ikke gik i lås som man havde forestillet sig eller foreslået</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L314932">
+      <Lemma writtenForm="super-" partOfSpeech="affix"/>
+      <Sense id="L314932-S1" synset="wikidata-da-L314932-S1" ili="wikidata-da-L314932-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L314932-S2" synset="wikidata-da-L314932-S2" ili="wikidata-da-L314932-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347223">
+      <Lemma writtenForm="ingenting" partOfSpeech="pronoun"/>
+      <Sense id="L347223-S1" synset="wikidata-da-L347223-S1" ili="wikidata-da-L347223-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347747">
+      <Lemma writtenForm="halvanden" partOfSpeech="numeral"/>
+      <Sense id="L347747-S1" synset="wikidata-da-L347747-S1" ili="wikidata-da-L347747-S1">
+        <Definition>den rationelle talværdi der ligger midt imellem et og to</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L401357">
+      <Lemma writtenForm="goddag mand økseskaft" partOfSpeech="interjection"/>
+      <Sense id="L401357-S1" synset="wikidata-da-L401357-S1" ili="wikidata-da-L401357-S1">
+        <Definition>udtryk som bruges om når folk taler helt forbi hinanden og helt misforstår hinanden</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477384">
+      <Lemma writtenForm="in-" partOfSpeech="affix"/>
+      <Sense id="L477384-S1" synset="wikidata-da-L477384-S1" ili="wikidata-da-L477384-S1">
+        <Definition>med modsat egenskab</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L497330">
+      <Lemma writtenForm="end" partOfSpeech="conjunction"/>
+      <Sense id="L497330-S1" synset="wikidata-da-L497330-S1" ili="wikidata-da-L497330-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L582940">
+      <Lemma writtenForm="pisse-" partOfSpeech="affix"/>
+      <Sense id="L582940-S1" synset="wikidata-da-L582940-S1" ili="wikidata-da-L582940-S1">
+        <Definition>meget</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617347">
+      <Lemma writtenForm="vuf" partOfSpeech="onomatopoeia"/>
+      <Sense id="L617347-S1" synset="wikidata-da-L617347-S1" ili="wikidata-da-L617347-S1">
+        <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
+        <SenseRelation relType="similar" target="wikidata-da-L37815-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L654893">
+      <Lemma writtenForm="enogtredive" partOfSpeech="numeral"/>
+      <Sense id="L654893-S1" synset="wikidata-da-L654893-S1" ili="wikidata-da-L654893-S1">
+        <Definition>tallet 31</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680150">
+      <Lemma writtenForm="atju" partOfSpeech="onomatopoeia"/>
+      <Sense id="L680150-S1" synset="wikidata-da-L680150-S1" ili="wikidata-da-L680150-S1">
+        <Definition>lyden af et nys</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689224">
+      <Lemma writtenForm="hvis" partOfSpeech="conjunction"/>
+      <Sense id="L689224-S1" synset="wikidata-da-L689224-S1" ili="wikidata-da-L689224-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689616">
+      <Lemma writtenForm="plaf" partOfSpeech="onomatopoeia"/>
+      <Sense id="L689616-S1" synset="wikidata-da-L689616-S1" ili="wikidata-da-L689616-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L713719">
+      <Lemma writtenForm="hold kæft" partOfSpeech="interjection"/>
+      <Sense id="L713719-S1" synset="wikidata-da-L713719-S1" ili="wikidata-da-L713719-S1">
+        <Definition>kraftudtryk som betyder at man vil at nogen slutter med at tale</Definition>
+      </Sense>
+      <Sense id="L713719-S2" synset="wikidata-da-L713719-S2" ili="wikidata-da-L713719-S2">
+        <Definition>udtryk for overraskelse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L984403">
+      <Lemma writtenForm="fireoghalvfjerds" partOfSpeech="numeral"/>
+      <Sense id="L984403-S1" synset="wikidata-da-L984403-S1" ili="wikidata-da-L984403-S1">
+        <Definition>tallet 74</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116263">
+      <Lemma writtenForm="otteogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1116263-S1" synset="wikidata-da-L1116263-S1" ili="wikidata-da-L1116263-S1">
+        <Definition>ordenstal for 28</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116356">
+      <Lemma writtenForm="niogfyrre" partOfSpeech="numeral"/>
+      <Sense id="L1116356-S1" synset="wikidata-da-L1116356-S1" ili="wikidata-da-L1116356-S1">
+        <Definition>tallet 49</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116401">
+      <Lemma writtenForm="fireogtyvende" partOfSpeech="numeral"/>
+      <Sense id="L1116401-S1" synset="wikidata-da-L1116401-S1" ili="wikidata-da-L1116401-S1">
+        <Definition>ordenstallet 24.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119244">
+      <Lemma writtenForm="totifem" partOfSpeech="numeral"/>
+      <Sense id="L1119244-S1" synset="wikidata-da-L1119244-S1" ili="wikidata-da-L1119244-S1">
+        <Definition>tallet 25</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119261">
+      <Lemma writtenForm="n&apos;te" partOfSpeech="numeral"/>
+      <Sense id="L1119261-S1" synset="wikidata-da-L1119261-S1" ili="wikidata-da-L1119261-S1">
+        <Definition>et element i en rækkefølge angivet ved variablen &apos;n&apos;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143780">
+      <Lemma writtenForm="toogfirs" partOfSpeech="numeral"/>
+      <Sense id="L1143780-S1" synset="wikidata-da-L1143780-S1" ili="wikidata-da-L1143780-S1">
+        <Definition>tallet 82</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218379">
+      <Lemma writtenForm="hvad fanden" partOfSpeech="idiomatic interjection"/>
+      <Sense id="L1218379-S1" synset="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1">
+        <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
+      </Sense>
+      <Sense id="L1218379-S2" synset="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2">
+        <Definition>udtryk for overraskelse eller forbavselse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227933">
+      <Lemma writtenForm="Gud og hvermand" partOfSpeech="adverbial phrase"/>
+      <Sense id="L1227933-S1" synset="wikidata-da-L1227933-S1" ili="wikidata-da-L1227933-S1">
+        <Definition>alle</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1316687">
+      <Lemma writtenForm="to-tre" partOfSpeech="numeral"/>
+      <Sense id="L1316687-S1" synset="wikidata-da-L1316687-S1" ili="wikidata-da-L1316687-S1">
+        <Definition>to eller tre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1379403">
+      <Lemma writtenForm="-al" partOfSpeech="affix"/>
+      <Sense id="L1379403-S1" synset="wikidata-da-L1379403-S1" ili="wikidata-da-L1379403-S1">
+        <Definition>fx i: kollegial, normal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1505586">
+      <Lemma writtenForm="nåja" partOfSpeech="interjection"/>
+      <Sense id="L1505586-S1" synset="wikidata-da-L1505586-S1" ili="wikidata-da-L1505586-S1">
+        <Definition>udtryk for bekræftende indrømmelse eller indsigt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1505606">
+      <Lemma writtenForm="avs" partOfSpeech="interjection"/>
+      <Sense id="L1505606-S1" synset="wikidata-da-L1505606-S1" ili="wikidata-da-L1505606-S1">
+        <Definition>udtryk for smerte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-da-L2312-S1" ili="wikidata-da-L2312-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L5022-S1" ili="wikidata-da-L5022-S1">
+      <Definition>anvendes til at angive, at det kommende skal ses som en begrundelse eller en forklaring på det tidligere nævnte</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35133-S1" ili="wikidata-da-L35133-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37479-S1" ili="l333-s1">
+      <Definition>tallet efter fire og før seks</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41160-S1" ili="wikidata-da-L41160-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42590-S1" ili="wikidata-da-L42590-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L43100-S1" ili="wikidata-da-L43100-S1">
+      <Definition>tallet 17 mellem 16 og 18</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45895-S1" ili="wikidata-da-L45895-S1">
+      <Definition>tallet 80</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45899-S1" ili="wikidata-da-L45899-S1">
+      <Definition>tallet 15</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48464-S1" ili="wikidata-da-L48464-S1">
+      <Definition>tallet 13 mellem tolv og fjorten</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48465-S1" ili="wikidata-da-L48465-S1">
+      <Definition>tallet 11 mellem ti og tolv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L226733-S1" ili="wikidata-da-L226733-S1">
+      <Definition>skaber tillægsord ud fra navneord</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L226745-S1" ili="wikidata-da-L226745-S1">
+      <Definition>morgenhilsen</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L226746-S1" ili="wikidata-da-L226746-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L230305-S1" ili="wikidata-da-L230305-S1">
+      <Definition>fandens</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L235257-S1" ili="wikidata-da-L235257-S1">
+      <Definition>tallet 60</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L348074-S1" ili="wikidata-da-L348074-S1">
+      <Definition>hjem</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L617400-S1" ili="wikidata-da-L617400-S1">
+      <Definition>samling</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L642118-S1" ili="wikidata-da-L642118-S1">
+      <Definition>tidligere end en given referenceramme</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L642120-S1" ili="wikidata-da-L642120-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L671960-S1" ili="wikidata-da-L671960-S1">
+      <Definition>tallet 40</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L678595-S1" ili="wikidata-da-L678595-S1">
+      <Definition>lyden fra en kat</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680151-S1" ili="wikidata-da-L680151-S1">
+      <Definition>lyden af et damplokomotiv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689601-S1" ili="wikidata-da-L689601-S1">
+      <Definition>lyden fra en gøg</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L692550-S1" ili="wikidata-da-L692550-S1">
+      <Definition>vedrørende olie eller olieprodukter</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L701754-S1" ili="wikidata-da-L701754-S1">
+      <Definition>ny</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L735050-S1" ili="wikidata-da-L735050-S1">
+      <Definition>tallet 30</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740393-S1" ili="wikidata-da-L740393-S1">
+      <Definition>trilliardtedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740396-S1" ili="wikidata-da-L740396-S1">
+      <Definition>ti</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740399-S1" ili="wikidata-da-L740399-S1">
+      <Definition>trillion</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740401-S1" ili="wikidata-da-L740401-S1">
+      <Definition>kvadrillion</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1010820-S1" ili="wikidata-da-L1010820-S1">
+      <Definition>tallet 64</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1">
+      <Definition>tidsperiode med skriftlige kilder</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117249-S1" ili="wikidata-da-L1117249-S1">
+      <Definition>tallet 75</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117377-S1" ili="wikidata-da-L1117377-S1">
+      <Definition>ordenstallet 22.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119166-S1" ili="wikidata-da-L1119166-S1">
+      <Definition>ordenstallet for en million million</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119187-S1" ili="wikidata-da-L1119187-S1">
+      <Definition>tallet 45</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119188-S1" ili="wikidata-da-L1119188-S1">
+      <Definition>tallet 45</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119226-S1" ili="wikidata-da-L1119226-S1">
+      <Definition>ordenstallet 30.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119257-S1" ili="wikidata-da-L1119257-S1">
+      <Definition>tallet 65</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119259-S1" ili="wikidata-da-L1119259-S1">
+      <Definition>tallet 85</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1">
+      <Definition>forstærkende kraftudtryk</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1219584-S1" ili="wikidata-da-L1219584-S1">
+      <Definition>det tror jeg overhovedet ikke på; det tror jeg ikke en skid på</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1504411-S1" ili="wikidata-da-L1504411-S1">
+      <Definition>tilbud om at acceptere noget som det er uden ændringer eller afvise det helt</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35288-S1" ili="wikidata-da-L35288-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37611-S1" ili="wikidata-da-L37611-S1">
+      <Definition>tallet for ingenting</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42265-S1" ili="wikidata-da-L42265-S1">
+      <Definition>tallet mellem 6 og 8</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1">
+      <Definition>børnesygdom</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L43254-S1" ili="wikidata-da-L43254-S1">
+      <Definition>tallet 60</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45896-S1" ili="wikidata-da-L45896-S1">
+      <Definition>ordinaltallet 5</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48466-S1" ili="wikidata-da-L48466-S1">
+      <Definition>tallet 16 mellem femten og sytten</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L52289-S1" ili="wikidata-da-L52289-S1">
+      <Definition>jeg håber ikke at</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L235254-S1" ili="wikidata-da-L235254-S1">
+      <Definition>tallet 21</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301413-S1" ili="wikidata-da-L301413-S1">
+      <Definition>ordinalet 9</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301687-S1" ili="wikidata-da-L301687-S1">
+      <Definition>ordenstallet 15</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L448762-S1" ili="wikidata-da-L448762-S1">
+      <Definition>tallet 22</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L617218-S1" ili="wikidata-da-L617218-S1">
+      <Definition>billig, lavpris</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L617433-S1" ili="wikidata-da-L617433-S1">
+      <Definition>selv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688424-S1" ili="wikidata-da-L688424-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688433-S1" ili="wikidata-da-L688433-S1">
+      <Definition>delvis bekræftigelse med forbehold</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689152-S1" ili="wikidata-da-L689152-S1">
+      <Definition>som, i egenskab af</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689649-S1" ili="wikidata-da-L689649-S1">
+      <Definition>billion</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691760-S1" ili="wikidata-da-L691760-S1">
+      <Definition>et element i en rækkefølge angivet ved variablen &apos;x&apos;</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740391-S1" ili="wikidata-da-L740391-S1">
+      <Definition>billiardtedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L743652-S1" ili="wikidata-da-L743652-S1">
+      <Definition>ord som betyder at man griner og morer sig</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L941897-S1" ili="wikidata-da-L941897-S1">
+      <Definition>tallet 70</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L984401-S1" ili="wikidata-da-L984401-S1">
+      <Definition>tallet 84</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1010814-S1" ili="wikidata-da-L1010814-S1">
+      <Definition>tallet 94</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1096038-S1" ili="wikidata-da-L1096038-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116352-S1" ili="wikidata-da-L1116352-S1">
+      <Definition>tallet 55</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116355-S1" ili="wikidata-da-L1116355-S1">
+      <Definition>ordenstallet 18.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116973-S1" ili="wikidata-da-L1116973-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117379-S1" ili="wikidata-da-L1117379-S1">
+      <Definition>ordenstallet 90.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119164-S1" ili="wikidata-da-L1119164-S1">
+      <Definition>ordenstallet 50.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119189-S1" ili="wikidata-da-L1119189-S1">
+      <Definition>ordentallet 14.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119190-S1" ili="wikidata-da-L1119190-S1">
+      <Definition>ordenstallet 40.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119243-S1" ili="wikidata-da-L1119243-S1">
+      <Definition>ordenstallet 60.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119252-S1" ili="wikidata-da-L1119252-S1">
+      <Definition>ordenstallet 60.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218366-S1" ili="wikidata-da-L1218366-S1">
+      <Definition>anvendes for at udtrykke afsky eller lede</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1235779-S1" ili="wikidata-da-L1235779-S1">
+      <Definition>forstærkende udtryk</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1330485-S1" ili="wikidata-da-L1330485-S1">
+      <Definition>formelt eller høfligt pronomen brugt til at adressere en person</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1410651-S1" ili="wikidata-da-L1410651-S1">
+      <Definition>meget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1504424-S1" ili="wikidata-da-L1504424-S1">
+      <Definition>kommando til hest om at den skal stoppe med at gå</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1505603-S1" ili="wikidata-da-L1505603-S1">
+      <Definition>farvel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L34132-S1" ili="wikidata-da-L34132-S1">
+      <Definition>tallet 3</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41897-S1" ili="wikidata-da-L41897-S1">
+      <Definition>benyttes til at henvise til taleren selv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42015-S1" ili="wikidata-da-L42015-S1">
+      <Definition>person af hankøn</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42258-S1" ili="wikidata-da-L42258-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42572-S1" ili="wikidata-da-L42572-S1">
+      <Definition>ved forsiden eller i umiddelbar nærhed af forsiden; foran</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42591-S2" ili="l8964-s1">
+      <Definition>igennem</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42597-S1" ili="wikidata-da-L42597-S1">
+      <Definition>iberegnet</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42598-S1" ili="wikidata-da-L42598-S1">
+      <Definition>med udelukkelse af</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45435-S1" ili="wikidata-da-L45435-S1">
+      <Definition>lyden som en ko siger</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48468-S1" ili="wikidata-da-L48468-S1">
+      <Definition>tallet 30 mellem 29 og 31</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48473-S1" ili="wikidata-da-L48473-S1">
+      <Definition>tallet 70 mellem 69 og 71</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48494-S1" ili="wikidata-da-L48494-S1">
+      <Definition>nummer ti i en række</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48590-S1" ili="wikidata-da-L48590-S1">
+      <Definition>indikere et element i en række der optræder i begyndelsen som nummer 2</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L229711-S1" ili="wikidata-da-L229711-S1">
+      <Definition>udtryk for smerte</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L229757-S1" ili="wikidata-da-L229757-S1">
+      <Definition>milliontedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L229757-S2" ili="wikidata-da-L229757-S2">
+      <Definition>meget småt</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L229834-S1" ili="wikidata-da-L229834-S1">
+      <Definition>SI-præfiks for en hundrededel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L347404-S1" ili="wikidata-da-L347404-S1">
+      <Definition>konjunktion, der bruges til at indlede en betingelse, hvori en handling eller situation kun vil finde sted, hvis en anden specifik betingelse ikke er opfyldt</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L501643-S1" ili="wikidata-da-L501643-S1">
+      <Definition>tallet 28</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L642117-S1" ili="wikidata-da-L642117-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654891-S1" ili="wikidata-da-L654891-S1">
+      <Definition>tallet 23</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654902-S1" ili="wikidata-da-L654902-S1">
+      <Definition>tallet 81</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654903-S1" ili="wikidata-da-L654903-S1">
+      <Definition>tallet 91</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L678598-S1" ili="wikidata-da-L678598-S1">
+      <Definition>lyden fra en and</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680007-S1" ili="wikidata-da-L680007-S1">
+      <Definition>lyden fra et damptog eller maskine</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688421-S1" ili="wikidata-da-L688421-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688426-S1" ili="wikidata-da-L688426-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688427-S1" ili="wikidata-da-L688427-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688430-S1" ili="wikidata-da-L688430-S1">
+      <Definition>farvel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689651-S1" ili="wikidata-da-L689651-S1">
+      <Definition>milliard</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691054-S1" ili="wikidata-da-L691054-S1">
+      <Definition>udtryk brugt når man presenterer noget for andre for at tilkalde deres opmærksomhed</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740392-S1" ili="wikidata-da-L740392-S1">
+      <Definition>trilliontedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1079337-S1" ili="wikidata-da-L1079337-S1">
+      <Definition>to</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1083915-S1" ili="wikidata-da-L1083915-S1">
+      <Definition>tallet 50</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117222-S1" ili="wikidata-da-L1117222-S1">
+      <Definition>ordenstallet 70.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119192-S1" ili="wikidata-da-L1119192-S1">
+      <Definition>ordenstallet for 1.000.000.000</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119249-S1" ili="wikidata-da-L1119249-S1">
+      <Definition>ordenstalordet 19.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119254-S1" ili="wikidata-da-L1119254-S1">
+      <Definition>tallet 60</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119260-S1" ili="wikidata-da-L1119260-S1">
+      <Definition>omkring 50</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1377502-S1" ili="wikidata-da-L1377502-S1">
+      <Definition>tallet 99</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1505600-S1" ili="wikidata-da-L1505600-S1">
+      <Definition>hån, triumf</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L2022-S1" ili="wikidata-da-L2022-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L3073-S1" ili="wikidata-da-L3073-S1">
+      <Definition>det naturlige tal &quot;1&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L36717-S1" ili="wikidata-da-L36717-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37612-S1" ili="wikidata-da-L37612-S1">
+      <Definition>ordinaltallet for 0</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41933-S1" ili="wikidata-da-L41933-S1">
+      <Definition>henvisning til personen der tales til</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42266-S1" ili="wikidata-da-L42266-S1">
+      <Definition>tallet 10 mellem 9 og 11</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42600-S1" ili="wikidata-da-L42600-S1">
+      <Definition>imod</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42604-S1" ili="wikidata-da-L42604-S1">
+      <Definition>lige overfor</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45491-S1" ili="wikidata-da-L45491-S1">
+      <Definition>lyden fra et får eller et lam</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L46649-S1" ili="wikidata-da-L46649-S1">
+      <Definition>forstærker</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48588-S1" ili="wikidata-da-L48588-S1">
+      <Definition>ordinaltallet 3</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L53043-S1" ili="wikidata-da-L53043-S1">
+      <Definition>kommando til hest for at få den til at bevæge sig</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1">
+      <Definition>med relation til Afrika</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1">
+      <Definition>frø af arten Rana arvalis</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1">
+      <Definition>padde i arten Pseudepidalea viridis</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654892-S1" ili="wikidata-da-L654892-S1">
+      <Definition>tallet 24</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L673761-S1" ili="wikidata-da-L673761-S1">
+      <Definition>tallet 1000</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L679278-S1" ili="wikidata-da-L679278-S1">
+      <Definition>tallet 20</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680152-S1" ili="wikidata-da-L680152-S1">
+      <Definition>lyden når en hane galer</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689207-S1" ili="wikidata-da-L689207-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691077-S1" ili="wikidata-da-L691077-S1">
+      <Definition>kommando til hund om at den skal hente noget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691535-S1" ili="wikidata-da-L691535-S1">
+      <Definition>billiard</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691635-S1" ili="wikidata-da-L691635-S1">
+      <Definition>ti</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L701751-S1" ili="wikidata-da-L701751-S1">
+      <Definition>lægeligt, behandlingsmæssigt eller medicinmæssig</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L701752-S1" ili="wikidata-da-L701752-S1">
+      <Definition>vedrørende jern</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L702778-S1" ili="wikidata-da-L702778-S1">
+      <Definition>ordinaltallet 8</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740402-S1" ili="wikidata-da-L740402-S1">
+      <Definition>kvadrilliard</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1010816-S1" ili="wikidata-da-L1010816-S1">
+      <Definition>tallet 54</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1010818-S1" ili="wikidata-da-L1010818-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1071935-S1" ili="wikidata-da-L1071935-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116351-S1" ili="wikidata-da-L1116351-S1">
+      <Definition>tallet 55</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117223-S1" ili="wikidata-da-L1117223-S1">
+      <Definition>ordenstallet 70.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119168-S1" ili="wikidata-da-L1119168-S1">
+      <Definition>ordenstallet 80.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119169-S1" ili="wikidata-da-L1119169-S1">
+      <Definition>ordenstallet 80.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119170-S1" ili="wikidata-da-L1119170-S1">
+      <Definition>tallet 35</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119253-S1" ili="wikidata-da-L1119253-S1">
+      <Definition>ordenstallet 23.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218501-S1" ili="l1218499-s1">
+      <Definition>lykønskning</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1278488-S1" ili="wikidata-da-L1278488-S1">
+      <Definition>tallet 83</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1379404-S1" ili="wikidata-da-L1379404-S1">
+      <Definition>i kemi</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1411892-S1" ili="wikidata-da-L1411892-S1">
+      <Definition>ifølge</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1504412-S1" ili="wikidata-da-L1504412-S1">
+      <Definition>kommando til en hund om at den skal sætte sig ned</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1548308-S1" ili="wikidata-da-L1548308-S1">
+      <Definition>meget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L3833-S1" ili="l1385-s1">
+      <Definition>binder ord eller sætningsdele sammen</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L3833-S2" ili="wikidata-da-L3833-S2">
+      <Definition>logisk og</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L31614-S1" ili="wikidata-da-L31614-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35321-S1" ili="wikidata-da-L35321-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35322-S1" ili="wikidata-da-L35322-S1">
+      <Definition>konjunktion, der bruges til at indlede en årsag eller forklaring, svarende til &apos;fordi&apos; eller &apos;da&apos;</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37495-S1" ili="wikidata-da-L37495-S1">
+      <Definition>cirka</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37815-S1" ili="wikidata-da-L37815-S1">
+      <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37930-S1" ili="wikidata-da-L37930-S1">
+      <Definition>tallet 4, større en tre og mindre en fem</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42212-S1" ili="wikidata-da-L42212-S1">
+      <Definition>alle og enhver</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42268-S1" ili="wikidata-da-L42268-S1">
+      <Definition>tallet 12 mellem 11 og 13</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42602-S1" ili="wikidata-da-L42602-S1">
+      <Definition>for</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42738-S1" ili="wikidata-da-L42738-S1">
+      <Definition>ord svarende til lyden fra et svin</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L43431-S1" ili="wikidata-da-L43431-S1">
+      <Definition>udråb om affejning af problem</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45900-S1" ili="wikidata-da-L45900-S1">
+      <Definition>tallet 25</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45990-S1" ili="wikidata-da-L45990-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45991-S1" ili="wikidata-da-L45991-S1">
+      <Definition>to</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48470-S1" ili="wikidata-da-L48470-S1">
+      <Definition>tallet 100 mellem 99 og 101</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48470-S2" ili="wikidata-da-L48470-S2">
+      <Definition>ordenstal for 100</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48591-S1" ili="wikidata-da-L48591-S1">
+      <Definition>4.; ordinaltallet 4</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L60622-S1" ili="wikidata-da-L60622-S1">
+      <Definition>vedrørende levende organismer</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L184199-S1" ili="wikidata-da-L184199-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L226722-S1" ili="wikidata-da-L226722-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L235255-S1" ili="wikidata-da-L235255-S1">
+      <Definition>tallet 80</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301394-S1" ili="wikidata-da-L301394-S1">
+      <Definition>ordinaltallet 6</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L302337-S1" ili="wikidata-da-L302337-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L305311-S1" ili="wikidata-da-L305311-S1">
+      <Definition>meget eller mere</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L308267-S1" ili="wikidata-da-L308267-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L314342-S1" ili="wikidata-da-L314342-S1">
+      <Definition>tusind</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L346500-S1" ili="wikidata-da-L346500-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L465341-S1" ili="wikidata-da-L465341-S1">
+      <Definition>tallet 27</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L616838-S1" ili="wikidata-da-L616838-S1">
+      <Definition>maskine, apparat</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L620414-S1" ili="wikidata-da-L620414-S1">
+      <Definition>held og lykke</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680008-S1" ili="wikidata-da-L680008-S1">
+      <Definition>lyden fra en gøende hund</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680148-S1" ili="wikidata-da-L680148-S1">
+      <Definition>lyden når noget stort falder i vandet eller når en større mængde vand smides på noget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689005-S1" ili="wikidata-da-L689005-S1">
+      <Definition>på samme måde som</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740395-S1" ili="wikidata-da-L740395-S1">
+      <Definition>kvadrilliardedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740400-S1" ili="wikidata-da-L740400-S1">
+      <Definition>trilliard</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L984405-S1" ili="wikidata-da-L984405-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117237-S1" ili="wikidata-da-L1117237-S1">
+      <Definition>tallet 66</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117255-S1" ili="wikidata-da-L1117255-S1">
+      <Definition>tallet 75</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119191-S1" ili="wikidata-da-L1119191-S1">
+      <Definition>ordenstallet 40.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119194-S1" ili="wikidata-da-L1119194-S1">
+      <Definition>ordenstallet 29.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218448-S1" ili="wikidata-da-L1218448-S1">
+      <Definition>du må være tosset (anvendes for at udtrykke at den anden er helt ude og cykle)</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1313691-S1" ili="wikidata-da-L1313691-S1">
+      <Definition>overveje noget nøje inden beslutning tages</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1418038-S1" ili="wikidata-da-L1418038-S1">
+      <Definition>udtryk for overraskelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1505602-S1" ili="wikidata-da-L1505602-S1">
+      <Definition>udtryk for tryllen</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35191-S1" ili="wikidata-da-L35191-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L37931-S1" ili="wikidata-da-L37931-S1">
+      <Definition>tallet 6, efter fem og før syv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42413-S1" ili="wikidata-da-L42413-S1">
+      <Definition>antallet 20 mellem 19 og 21</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42575-S1" ili="wikidata-da-L42575-S1">
+      <Definition>når noget passerer ind igennem noget andet fx en person som går gennem en gyde</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45894-S1" ili="wikidata-da-L45894-S1">
+      <Definition>tallet 19</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48463-S1" ili="wikidata-da-L48463-S1">
+      <Definition>tallet 14 mellem tretten og femten</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48469-S1" ili="wikidata-da-L48469-S1">
+      <Definition>tallet 40 mellem 39 og 41</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48474-S1" ili="wikidata-da-L48474-S1">
+      <Definition>tallet 90 mellem 89 og 91</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48587-S1" ili="l1323942-s1">
+      <Definition>med forskel i forbindelse med selektiv referentialitet og kategori</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L221802-S1" ili="wikidata-da-L221802-S1">
+      <Definition>bil</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L231574-S1" ili="wikidata-da-L231574-S1">
+      <Definition>forstærker</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L233332-S1" ili="wikidata-da-L233332-S1">
+      <Definition>90</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L235256-S1" ili="wikidata-da-L235256-S1">
+      <Definition>tallet 50</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301404-S1" ili="wikidata-da-L301404-S1">
+      <Definition>ordinaltallet 7</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301411-S1" ili="wikidata-da-L301411-S1">
+      <Definition>ordinaltallet 8</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L307396-S1" ili="wikidata-da-L307396-S1">
+      <Definition>ordenstal for 26</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L313673-S1" ili="wikidata-da-L313673-S1">
+      <Definition>mod</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L346919-S1" ili="wikidata-da-L346919-S1">
+      <Definition>meget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L586330-S1" ili="wikidata-da-L586330-S1">
+      <Definition>flere</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L617405-S1" ili="wikidata-da-L617405-S1">
+      <Definition>større ophobning</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654894-S1" ili="wikidata-da-L654894-S1">
+      <Definition>tallet 32</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689604-S1" ili="wikidata-da-L689604-S1">
+      <Definition>lyden fra en fugl</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L701755-S1" ili="wikidata-da-L701755-S1">
+      <Definition>forstærker</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L701758-S1" ili="wikidata-da-L701758-S1">
+      <Definition>milliardtedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740394-S1" ili="wikidata-da-L740394-S1">
+      <Definition>kvadrilliontedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L740397-S1" ili="wikidata-da-L740397-S1">
+      <Definition>hundrede</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L984402-S1" ili="wikidata-da-L984402-S1">
+      <Definition>tallet 44</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1094314-S1" ili="wikidata-da-L1094314-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1094317-S1" ili="wikidata-da-L1094317-S1">
+      <Definition>tallet 35</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1101532-S1" ili="wikidata-da-L1101532-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116354-S1" ili="wikidata-da-L1116354-S1">
+      <Definition>ordenstallet 27.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119165-S1" ili="wikidata-da-L1119165-S1">
+      <Definition>ordenstallet 50.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119255-S1" ili="wikidata-da-L1119255-S1">
+      <Definition>tallet 65</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1121989-S1" ili="wikidata-da-L1121989-S1">
+      <Definition>meget, i høj grad</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1175186-S1" ili="wikidata-da-L1175186-S1">
+      <Definition>held og lykke</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218343-S1" ili="l1218344-s1">
+      <Definition>udtryk for bestyrtelse og overraskelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1226650-S1" ili="wikidata-da-L1226650-S1">
+      <Definition>når noget er afklaret eller løst</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L3514-S1" ili="l329-s1">
+      <Definition>tallet 2, der er mellem 1 og 3</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L31616-S1" ili="wikidata-da-L31616-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L34283-S1" ili="wikidata-da-L34283-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L34829-S1" ili="wikidata-da-L34829-S1">
+      <Definition>kvalificerer noget (følger af noget, begivenhed eller dato) som er sket senere i forhold til noget andet</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L35335-S1" ili="wikidata-da-L35335-S1">
+      <Definition>spørgeord for identificering af person</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41896-S1" ili="wikidata-da-L41896-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41934-S1" ili="wikidata-da-L41934-S1">
+      <Definition>henviser til flere personer der tales til</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42264-S1" ili="wikidata-da-L42264-S1">
+      <Definition>tallet 9 mellem 8 og 10</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L46737-S1" ili="wikidata-da-L46737-S1">
+      <Definition>nægtende eller modsigende</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48467-S1" ili="wikidata-da-L48467-S1">
+      <Definition>tallet 18 mellem sytten og nitten</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L229382-S1" ili="wikidata-da-L229382-S1">
+      <Definition>udtryk for forbavselse eller overraskelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L301387-S1" ili="wikidata-da-L301387-S1">
+      <Definition>halv</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L307397-S1" ili="wikidata-da-L307397-S1">
+      <Definition>tallet 26</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L347018-S1" ili="wikidata-da-L347018-S1">
+      <Definition>nummer 20 i en række</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L347059-S1" ili="wikidata-da-L347059-S1">
+      <Definition>tusindedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L586960-S1" ili="wikidata-da-L586960-S1">
+      <Definition>tiendedel</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L642123-S1" ili="wikidata-da-L642123-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L673288-S1" ili="wikidata-da-L673288-S1">
+      <Definition>tallet 42</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680004-S1" ili="wikidata-da-L680004-S1">
+      <Definition>lyd fra skud eller lignende høj og kort lyd</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680009-S1" ili="wikidata-da-L680009-S1">
+      <Definition>lyden fra et mekanisk ur når det går</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688423-S1" ili="wikidata-da-L688423-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L688446-S1" ili="wikidata-da-L688446-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689010-S1" ili="wikidata-da-L689010-S1">
+      <Definition>vedrørende</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689204-S1" ili="wikidata-da-L689204-S1">
+      <Definition>konjunktion, der bruges til at indlede en sætning eller klausul, der udtrykker en indrømmelse eller en undtagelse, svarende til &apos;selvom&apos; eller &apos;skønt&apos;</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691076-S1" ili="wikidata-da-L691076-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L691633-S1" ili="wikidata-da-L691633-S1">
+      <Definition>tallet 29</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L702779-S1" ili="wikidata-da-L702779-S1">
+      <Definition>tallet 90</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L735051-S1" ili="wikidata-da-L735051-S1">
+      <Definition>tallet 40</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L991483-S1" ili="wikidata-da-L991483-S1">
+      <Definition>person</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116265-S1" ili="wikidata-da-L1116265-S1">
+      <Definition>tallet 61</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1117380-S1" ili="wikidata-da-L1117380-S1">
+      <Definition>ordenstallet 90.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119167-S1" ili="wikidata-da-L1119167-S1">
+      <Definition>ordenstallet 11.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119193-S1" ili="wikidata-da-L1119193-S1">
+      <Definition>ordenstallet for en million</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119250-S1" ili="wikidata-da-L1119250-S1">
+      <Definition>tallet 95</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119251-S1" ili="wikidata-da-L1119251-S1">
+      <Definition>ordenstallet 16.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119256-S1" ili="wikidata-da-L1119256-S1">
+      <Definition>tallet 80</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119258-S1" ili="wikidata-da-L1119258-S1">
+      <Definition>tallet 85</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119287-S1" ili="wikidata-da-L1119287-S1">
+      <Definition>tallet 33</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1121988-S1" ili="wikidata-da-L1121988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1219587-S1" ili="wikidata-da-L1219587-S1">
+      <Definition>forstærkende kraftudtryk</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1">
+      <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1504421-S1" ili="wikidata-da-L1504421-S1">
+      <Definition>ja, - bekræftigelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L5027-S1" ili="l2987-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L5027-S3" ili="wikidata-da-L5027-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L33917-S1" ili="wikidata-da-L33917-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L34131-S1" ili="wikidata-da-L34131-S1">
+      <Definition>tallet 8 efter 7 og før 9</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41457-S1" ili="wikidata-da-L41457-S1">
+      <Definition>bekræftigelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41825-S1" ili="wikidata-da-L41825-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L41826-S1" ili="wikidata-da-L41826-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L42250-S1" ili="wikidata-da-L42250-S1">
+      <Definition>konjunktion, der bruges til at indlede en kontrast eller modsætning i forhold til det, der tidligere er nævnt</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L43361-S1" ili="wikidata-da-L43361-S1">
+      <Definition>ord</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45020-S1" ili="wikidata-da-L45020-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L45802-S1" ili="wikidata-da-L45802-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48472-S1" ili="wikidata-da-L48472-S1">
+      <Definition>tallet 50 mellem 49 og 51</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L48589-S1" ili="wikidata-da-L48589-S1">
+      <Definition>element der optræder som nummer et i en rækkefølge</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L226717-S1" ili="wikidata-da-L226717-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L233333-S1" ili="wikidata-da-L233333-S1">
+      <Definition>tallet 70</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L250341-S1" ili="l705189-s1">
+      <Definition>udtryk for følelsen at man ønsker sig noget og det ikke gik i lås som man havde forestillet sig eller foreslået</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L314932-S1" ili="wikidata-da-L314932-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L314932-S2" ili="wikidata-da-L314932-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L347223-S1" ili="wikidata-da-L347223-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L347747-S1" ili="wikidata-da-L347747-S1">
+      <Definition>den rationelle talværdi der ligger midt imellem et og to</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L401357-S1" ili="wikidata-da-L401357-S1">
+      <Definition>udtryk som bruges om når folk taler helt forbi hinanden og helt misforstår hinanden</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L477384-S1" ili="wikidata-da-L477384-S1">
+      <Definition>med modsat egenskab</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L497330-S1" ili="wikidata-da-L497330-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L582940-S1" ili="wikidata-da-L582940-S1">
+      <Definition>meget</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L617347-S1" ili="wikidata-da-L617347-S1">
+      <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L654893-S1" ili="wikidata-da-L654893-S1">
+      <Definition>tallet 31</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L680150-S1" ili="wikidata-da-L680150-S1">
+      <Definition>lyden af et nys</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689224-S1" ili="wikidata-da-L689224-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L689616-S1" ili="wikidata-da-L689616-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-da-L713719-S1" ili="wikidata-da-L713719-S1">
+      <Definition>kraftudtryk som betyder at man vil at nogen slutter med at tale</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L713719-S2" ili="wikidata-da-L713719-S2">
+      <Definition>udtryk for overraskelse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L984403-S1" ili="wikidata-da-L984403-S1">
+      <Definition>tallet 74</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116263-S1" ili="wikidata-da-L1116263-S1">
+      <Definition>ordenstal for 28</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116356-S1" ili="wikidata-da-L1116356-S1">
+      <Definition>tallet 49</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1116401-S1" ili="wikidata-da-L1116401-S1">
+      <Definition>ordenstallet 24.</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119244-S1" ili="wikidata-da-L1119244-S1">
+      <Definition>tallet 25</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1119261-S1" ili="wikidata-da-L1119261-S1">
+      <Definition>et element i en rækkefølge angivet ved variablen &apos;n&apos;</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1143780-S1" ili="wikidata-da-L1143780-S1">
+      <Definition>tallet 82</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1">
+      <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2">
+      <Definition>udtryk for overraskelse eller forbavselse</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1227933-S1" ili="wikidata-da-L1227933-S1">
+      <Definition>alle</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1316687-S1" ili="wikidata-da-L1316687-S1">
+      <Definition>to eller tre</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1379403-S1" ili="wikidata-da-L1379403-S1">
+      <Definition>fx i: kollegial, normal</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1505586-S1" ili="wikidata-da-L1505586-S1">
+      <Definition>udtryk for bekræftende indrømmelse eller indsigt</Definition>
+    </Synset>
+    <Synset id="wikidata-da-L1505606-S1" ili="wikidata-da-L1505606-S1">
+      <Definition>udtryk for smerte</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

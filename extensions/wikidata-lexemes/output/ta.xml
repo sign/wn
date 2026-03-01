@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ta"
+                    label="Wikidata TA Lexemes Extension"
+                    language="ta"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ta" version="1.4"/>
+    <LexicalEntry id="L40042">
+      <Lemma writtenForm="அவன்" partOfSpeech="personal pronoun"/>
+      <Sense id="L40042-S4" synset="wikidata-ta-L40042-S4" ili="wikidata-ta-L40042-S4">
+        <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத ஆணைச் சுட்டும் பெயர்</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L500882">
+      <Lemma writtenForm="நான்" partOfSpeech="personal pronoun"/>
+      <Sense id="L500882-S1" synset="wikidata-ta-L500882-S1" ili="wikidata-ta-L500882-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1134382">
+      <Lemma writtenForm="அந்த" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L1134382-S1" synset="wikidata-ta-L1134382-S1" ili="wikidata-ta-L1134382-S1">
+        <Definition>அந்த</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684412">
+      <Lemma writtenForm="ஒன்று" partOfSpeech="numeral"/>
+      <Sense id="L684412-S1" synset="wikidata-ta-L684412-S1" ili="wikidata-ta-L684412-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142877">
+      <Lemma writtenForm="அது" partOfSpeech="pronoun"/>
+      <Sense id="L1142877-S1" synset="wikidata-ta-L1142877-S1" ili="l333971-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227083">
+      <Lemma writtenForm="இரண்டு" partOfSpeech="numeral"/>
+      <Sense id="L1227083-S1" synset="wikidata-ta-L1227083-S1" ili="l329-s1">
+        <Definition>1 மற்றும் 3 இடையே உள்ள எண்</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1171064">
+      <Lemma writtenForm="ஐந்து" partOfSpeech="numeral"/>
+      <Sense id="L1171064-S1" synset="wikidata-ta-L1171064-S1" ili="wikidata-ta-L1171064-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133601">
+      <Lemma writtenForm="மற்றும்" partOfSpeech="conjunction"/>
+      <Sense id="L1133601-S1" synset="wikidata-ta-L1133601-S1" ili="wikidata-ta-L1133601-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142421">
+      <Lemma writtenForm="நீ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1142421-S1" synset="wikidata-ta-L1142421-S1" ili="wikidata-ta-L1142421-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40035">
+      <Lemma writtenForm="அவள்" partOfSpeech="personal pronoun"/>
+      <Sense id="L40035-S2" synset="wikidata-ta-L40035-S2" ili="wikidata-ta-L40035-S2">
+        <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத பெண்ணைச் சுட்டும் பெயர்</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347312">
+      <Lemma writtenForm="அவர்" partOfSpeech="pronoun"/>
+      <Sense id="L347312-S1" synset="wikidata-ta-L347312-S1" ili="wikidata-ta-L347312-S1">
+        <Definition>அருகில் இல்லாத படர்க்கை இடத்து ஆணையோ பெண்ணையோ மரியாதையுடன் சுட்டும் பெயர்</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ta-L40042-S4" ili="wikidata-ta-L40042-S4">
+      <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத ஆணைச் சுட்டும் பெயர்</Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L500882-S1" ili="wikidata-ta-L500882-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1134382-S1" ili="wikidata-ta-L1134382-S1">
+      <Definition>அந்த</Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L684412-S1" ili="wikidata-ta-L684412-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1142877-S1" ili="l333971-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1227083-S1" ili="l329-s1">
+      <Definition>1 மற்றும் 3 இடையே உள்ள எண்</Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1171064-S1" ili="wikidata-ta-L1171064-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1133601-S1" ili="wikidata-ta-L1133601-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L1142421-S1" ili="wikidata-ta-L1142421-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L40035-S2" ili="wikidata-ta-L40035-S2">
+      <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத பெண்ணைச் சுட்டும் பெயர்</Definition>
+    </Synset>
+    <Synset id="wikidata-ta-L347312-S1" ili="wikidata-ta-L347312-S1">
+      <Definition>அருகில் இல்லாத படர்க்கை இடத்து ஆணையோ பெண்ணையோ மரியாதையுடன் சுட்டும் பெயர்</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

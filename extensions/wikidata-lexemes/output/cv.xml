@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-cv"
+                    label="Wikidata CV Lexemes Extension"
+                    language="cv"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-cv" version="1.4"/>
+    <LexicalEntry id="L700703">
+      <Lemma writtenForm="пӗрре" partOfSpeech="numeral"/>
+      <Sense id="L700703-S1" synset="wikidata-cv-L700703-S1" ili="wikidata-cv-L700703-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700704">
+      <Lemma writtenForm="пӗр" partOfSpeech="numeral"/>
+      <Sense id="L700704-S1" synset="wikidata-cv-L700704-S1" ili="wikidata-cv-L700704-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-cv-L700703-S1" ili="wikidata-cv-L700703-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cv-L700704-S1" ili="wikidata-cv-L700704-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

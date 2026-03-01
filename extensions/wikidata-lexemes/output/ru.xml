@@ -1,0 +1,2559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ru"
+                    label="Wikidata RU Lexemes Extension"
+                    language="ru"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ru" version="1.4"/>
+    <LexicalEntry id="L2124">
+      <Lemma writtenForm="ку-ку" partOfSpeech="onomatopoeia"/>
+      <Sense id="L2124-S1" synset="wikidata-ru-L2124-S1" ili="wikidata-ru-L2124-S1">
+        <Definition>звук, издаваемый кукушкой</Definition>
+        <Example>«Ку-ку! ку-ку!» раздавалось в лесу.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L32930">
+      <Lemma writtenForm="три" partOfSpeech="numeral"/>
+      <Sense id="L32930-S1" synset="wikidata-ru-L32930-S1" ili="wikidata-ru-L32930-S1">
+        <Definition>натуральное число</Definition>
+        <Example>Скряга Скрудж и три добрых духа.</Example>
+      </Sense>
+      <Sense id="L32930-S2" synset="wikidata-ru-L32930-S2" ili="wikidata-ru-L32930-S2">
+        <Definition>цифра</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L59524">
+      <Lemma writtenForm="один" partOfSpeech="numeral"/>
+      <Sense id="L59524-S1" synset="wikidata-ru-L59524-S1" ili="wikidata-ru-L59524-S1">
+        <Definition>натуральное число</Definition>
+        <Example>Один из крупнейших словарей русского языка.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L183954">
+      <Lemma writtenForm="заключённый" partOfSpeech="participle"/>
+      <Sense id="L183954-S1" synset="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1">
+        <Definition>помещённый внутрь</Definition>
+      </Sense>
+      <Sense id="L183954-S2" synset="wikidata-ru-L183954-S2" ili="wikidata-ru-L183954-S2">
+        <Definition>имеющийся, содержащийся в ком-либо, чём-либо</Definition>
+      </Sense>
+      <Sense id="L183954-S3" synset="wikidata-ru-L183954-S3" ili="wikidata-ru-L183954-S3">
+        <Definition>законченный, завершённый</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238481">
+      <Lemma writtenForm="около" partOfSpeech="preposition"/>
+      <Sense id="L238481-S1" synset="wikidata-ru-L238481-S1" ili="wikidata-ru-L238481-S1">
+        <Definition>указывает на объект рядом</Definition>
+      </Sense>
+      <Sense id="L238481-S2" synset="wikidata-ru-L238481-S2" ili="wikidata-ru-L238481-S2">
+        <Definition>указывает на приблизительное значение</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245946">
+      <Lemma writtenForm="восемь" partOfSpeech="numeral"/>
+      <Sense id="L245946-S1" synset="wikidata-ru-L245946-S1" ili="wikidata-ru-L245946-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245947">
+      <Lemma writtenForm="девять" partOfSpeech="numeral"/>
+      <Sense id="L245947-S1" synset="wikidata-ru-L245947-S1" ili="wikidata-ru-L245947-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346749">
+      <Lemma writtenForm="зуб на зуб не попадает" partOfSpeech="phraseme"/>
+      <Sense id="L346749-S1" synset="wikidata-ru-L346749-S1" ili="wikidata-ru-L346749-S1">
+        <Definition>холодно</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L391713">
+      <Lemma writtenForm="из" partOfSpeech="preposition"/>
+      <Sense id="L391713-S1" synset="wikidata-ru-L391713-S1" ili="wikidata-ru-L391713-S1">
+        <Definition>обозначает начальную точку движения</Definition>
+        <SenseRelation relType="antonym" target="wikidata-ru-L2109-S3"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409412">
+      <Lemma writtenForm="по" partOfSpeech="preposition"/>
+      <Sense id="L409412-S1" synset="wikidata-ru-L409412-S1" ili="wikidata-ru-L409412-S1">
+        <Definition>указывает предмет, на поверхности которого происходит действие</Definition>
+      </Sense>
+      <Sense id="L409412-S2" synset="wikidata-ru-L409412-S2" ili="wikidata-ru-L409412-S2">
+        <Definition>указывает место или пространство, в пределах которого совершается действие</Definition>
+      </Sense>
+      <Sense id="L409412-S3" synset="wikidata-ru-L409412-S3" ili="wikidata-ru-L409412-S3">
+        <Definition>до (указывает на предмет, являющийся границей или пределом распространения действия)</Definition>
+      </Sense>
+      <Sense id="L409412-S4" synset="wikidata-ru-L409412-S4" ili="wikidata-ru-L409412-S4">
+        <Definition>указывает предмет, на который направлено или обращено действие</Definition>
+      </Sense>
+      <Sense id="L409412-S5" synset="wikidata-ru-L409412-S5" ili="wikidata-ru-L409412-S5">
+        <Definition>указывает лицо или предмет, о которых думают, тоскуют, скорбят и т. п.</Definition>
+      </Sense>
+      <Sense id="L409412-S6" synset="wikidata-ru-L409412-S6" ili="wikidata-ru-L409412-S6">
+        <Definition>из-за какой-либо причины (указывает на причину, источник чего-либо)</Definition>
+      </Sense>
+      <Sense id="L409412-S7" synset="wikidata-ru-L409412-S7" ili="wikidata-ru-L409412-S7">
+        <Definition>после (указывает на временную или пространственную границу)</Definition>
+      </Sense>
+      <Sense id="L409412-S8" synset="wikidata-ru-L409412-S8" ili="wikidata-ru-L409412-S8">
+        <Definition>указывает на предмет, на который распространяется работа, влияние, действие, деятельность и т. п. субъекта</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447101">
+      <Lemma writtenForm="и" partOfSpeech="grammatical particle"/>
+      <Sense id="L447101-S1" synset="wikidata-ru-L447101-S1" ili="wikidata-ru-L447101-S1">
+        <Definition>подчёркивает высокую степень проявления признака, указывая на лицо, предмет, действие и прочее, на которые распространяется данный признак вопреки ожиданиям</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L447102-S1"/>
+      </Sense>
+      <Sense id="L447101-S2" synset="wikidata-ru-L447101-S2" ili="wikidata-ru-L447101-S2">
+        <Definition>выделяет слово, которое свидетельствует об интенсивности какого-либо действия, состояния</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L447102-S1"/>
+      </Sense>
+      <Sense id="L447101-S3" synset="wikidata-ru-L447101-S3" ili="wikidata-ru-L447101-S3">
+        <Definition>усиливает, эмоционально выделяет, подчёркивает следующее за ним слово</Definition>
+        <Example>И какой чудный воздух: дышишь ― и сердце веселится.</Example>
+      </Sense>
+      <Sense id="L447101-S4" synset="wikidata-ru-L447101-S4" ili="wikidata-ru-L447101-S4">
+        <Definition>подчёркивает, что действие или предмет вполне соответствуют чему-либо предварительно упомянутому</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470666">
+      <Lemma writtenForm="Тихий океан" partOfSpeech="phraseme"/>
+      <Sense id="L470666-S1" synset="wikidata-ru-L470666-S1" ili="wikidata-ru-L470666-S1">
+        <Definition>океан на Земле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L528356">
+      <Lemma writtenForm="атас" partOfSpeech="interjection"/>
+      <Sense id="L528356-S1" synset="wikidata-ru-L528356-S1" ili="wikidata-ru-L528356-S1">
+        <Definition>предупреждение об опасности</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L561182">
+      <Lemma writtenForm="за" partOfSpeech="preposition"/>
+      <Sense id="L561182-S1" synset="wikidata-ru-L561182-S1" ili="wikidata-ru-L561182-S1">
+        <Definition>место позади</Definition>
+      </Sense>
+      <Sense id="L561182-S2" synset="wikidata-ru-L561182-S2" ili="wikidata-ru-L561182-S2">
+        <Definition>направление позади</Definition>
+      </Sense>
+      <Sense id="L561182-S3" synset="wikidata-ru-L561182-S3" ili="wikidata-ru-L561182-S3">
+        <Definition>место рядом с предметом, имеющим функциональное назначение</Definition>
+      </Sense>
+      <Sense id="L561182-S4" synset="wikidata-ru-L561182-S4" ili="wikidata-ru-L561182-S4">
+        <Definition>направление на место рядом с предметом, имеющим функциональное назначение</Definition>
+      </Sense>
+      <Sense id="L561182-S5" synset="wikidata-ru-L561182-S5" ili="wikidata-ru-L561182-S5">
+        <Definition>за пределы чего направлено действие</Definition>
+      </Sense>
+      <Sense id="L561182-S6" synset="wikidata-ru-L561182-S6" ili="wikidata-ru-L561182-S6">
+        <Definition>на расстоянии</Definition>
+      </Sense>
+      <Sense id="L561182-S7" synset="wikidata-ru-L561182-S7" ili="wikidata-ru-L561182-S7">
+        <Definition>в течение</Definition>
+      </Sense>
+      <Sense id="L561182-S8" synset="wikidata-ru-L561182-S8" ili="wikidata-ru-L561182-S8">
+        <Definition>интервал времени до</Definition>
+      </Sense>
+      <Sense id="L561182-S9" synset="wikidata-ru-L561182-S9" ili="wikidata-ru-L561182-S9">
+        <Definition>указывает предмет, за который кусают или хватают</Definition>
+      </Sense>
+      <Sense id="L561182-S10" synset="wikidata-ru-L561182-S10" ili="wikidata-ru-L561182-S10">
+        <Definition>лицо или предмет, который вызывает чувство</Definition>
+      </Sense>
+      <Sense id="L561182-S11" synset="wikidata-ru-L561182-S11" ili="wikidata-ru-L561182-S11">
+        <Definition>указание на цель</Definition>
+      </Sense>
+      <Sense id="L561182-S12" synset="wikidata-ru-L561182-S12" ili="wikidata-ru-L561182-S12">
+        <Definition>указание предмета в обмен на что</Definition>
+      </Sense>
+      <Sense id="L561182-S13" synset="wikidata-ru-L561182-S13" ili="wikidata-ru-L561182-S13">
+        <Definition>лицо, от имени которого совершается действие</Definition>
+      </Sense>
+      <Sense id="L561182-S14" synset="wikidata-ru-L561182-S14" ili="wikidata-ru-L561182-S14">
+        <Definition>в качестве, заместо</Definition>
+      </Sense>
+      <Sense id="L561182-S15" synset="wikidata-ru-L561182-S15" ili="wikidata-ru-L561182-S15">
+        <Definition>благотворствовать, быть в согласии</Definition>
+      </Sense>
+      <Sense id="L561182-S16" synset="wikidata-ru-L561182-S16" ili="wikidata-ru-L561182-S16">
+        <Definition>за пределами, дальше</Definition>
+      </Sense>
+      <Sense id="L561182-S17" synset="wikidata-ru-L561182-S17" ili="wikidata-ru-L561182-S17">
+        <Definition>после</Definition>
+      </Sense>
+      <Sense id="L561182-S18" synset="wikidata-ru-L561182-S18" ili="wikidata-ru-L561182-S18">
+        <Definition>во время</Definition>
+      </Sense>
+      <Sense id="L561182-S19" synset="wikidata-ru-L561182-S19" ili="wikidata-ru-L561182-S19">
+        <Definition>указание на цель или причину, из-за</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625206">
+      <Lemma writtenForm="Новый год" partOfSpeech="phraseme"/>
+      <Sense id="L625206-S1" synset="wikidata-ru-L625206-S1" ili="wikidata-ru-L625206-S1">
+        <Definition>календарная дата - первая в году</Definition>
+      </Sense>
+      <Sense id="L625206-S2" synset="wikidata-ru-L625206-S2" ili="wikidata-ru-L625206-S2">
+        <Definition>праздник начала года</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679894">
+      <Lemma writtenForm="тринадцать" partOfSpeech="numeral"/>
+      <Sense id="L679894-S1" synset="wikidata-ru-L679894-S1" ili="wikidata-ru-L679894-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679898">
+      <Lemma writtenForm="пятнадцать" partOfSpeech="numeral"/>
+      <Sense id="L679898-S1" synset="wikidata-ru-L679898-S1" ili="wikidata-ru-L679898-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741187">
+      <Lemma writtenForm="чтобы" partOfSpeech="grammatical particle"/>
+      <Sense id="L741187-S1" synset="wikidata-ru-L741187-S1" ili="wikidata-ru-L741187-S1">
+        <Definition>выражает приказ, требование</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337828">
+      <Lemma writtenForm="со" partOfSpeech="preverb"/>
+      <Sense id="L1337828-S1" synset="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1373410">
+      <Lemma writtenForm="-ся" partOfSpeech="morpheme"/>
+      <Sense id="L1373410-S1" synset="wikidata-ru-L1373410-S1" ili="wikidata-ru-L1373410-S1">
+        <Definition>обозначает действие, направленное на самого актора</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1398984">
+      <Lemma writtenForm="рассказывая" partOfSpeech="transgressive"/>
+      <Sense id="L1398984-S1" synset="wikidata-ru-L1398984-S1" ili="wikidata-ru-L1398984-S1">
+        <Definition>деепричастие от «рассказывать»</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2108">
+      <Lemma writtenForm="и" partOfSpeech="conjunction"/>
+      <Sense id="L2108-S1" synset="wikidata-ru-L2108-S1" ili="l1385-s1">
+        <Definition>соединительный союз</Definition>
+      </Sense>
+      <Sense id="L2108-S3" synset="wikidata-ru-L2108-S3" ili="wikidata-ru-L2108-S3">
+        <Definition>логическая операция</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2109">
+      <Lemma writtenForm="в" partOfSpeech="preposition"/>
+      <Sense id="L2109-S1" synset="wikidata-ru-L2109-S1" ili="l2987-s1">
+        <Definition>внутрь (о направлении)</Definition>
+      </Sense>
+      <Sense id="L2109-S2" synset="wikidata-ru-L2109-S2" ili="l2987-s2">
+        <Definition>внутри (о местонахождении)</Definition>
+      </Sense>
+      <Sense id="L2109-S3" synset="wikidata-ru-L2109-S3" ili="wikidata-ru-L2109-S3">
+        <Definition>конечная точка движения</Definition>
+        <SenseRelation relType="antonym" target="wikidata-ru-L391713-S1"/>
+      </Sense>
+      <Sense id="L2109-S4" synset="wikidata-ru-L2109-S4" ili="wikidata-ru-L2109-S4">
+        <Definition>на поверхность</Definition>
+      </Sense>
+      <Sense id="L2109-S5" synset="wikidata-ru-L2109-S5" ili="wikidata-ru-L2109-S5">
+        <Definition>через, сквозь</Definition>
+      </Sense>
+      <Sense id="L2109-S6" synset="wikidata-ru-L2109-S6" ili="wikidata-ru-L2109-S6">
+        <Definition>похожий на</Definition>
+      </Sense>
+      <Sense id="L2109-S7" synset="wikidata-ru-L2109-S7" ili="wikidata-ru-L2109-S7">
+        <Definition>имеющий силу</Definition>
+      </Sense>
+      <Sense id="L2109-S8" synset="wikidata-ru-L2109-S8" ili="wikidata-ru-L2109-S8">
+        <Definition>с целью</Definition>
+      </Sense>
+      <Sense id="L2109-S9" synset="wikidata-ru-L2109-S9" ili="wikidata-ru-L2109-S9">
+        <Definition>при указании на внешний признак</Definition>
+      </Sense>
+      <Sense id="L2109-S10" synset="wikidata-ru-L2109-S10" ili="wikidata-ru-L2109-S10">
+        <Definition>способ действия</Definition>
+      </Sense>
+      <Sense id="L2109-S11" synset="wikidata-ru-L2109-S11" ili="wikidata-ru-L2109-S11">
+        <Definition>при указании на группу лиц или деятельность</Definition>
+      </Sense>
+      <Sense id="L2109-S12" synset="wikidata-ru-L2109-S12" ili="wikidata-ru-L2109-S12">
+        <Definition>при указании на результат превращения лица или предмета</Definition>
+      </Sense>
+      <Sense id="L2109-S13" synset="wikidata-ru-L2109-S13" ili="wikidata-ru-L2109-S13">
+        <Definition>при указании на внутреннее состояние</Definition>
+      </Sense>
+      <Sense id="L2109-S14" synset="wikidata-ru-L2109-S14" ili="wikidata-ru-L2109-S14">
+        <Definition>время совершения действия</Definition>
+      </Sense>
+      <Sense id="L2109-S15" synset="wikidata-ru-L2109-S15" ili="wikidata-ru-L2109-S15">
+        <Definition>на расстоянии</Definition>
+      </Sense>
+      <Sense id="L2109-S16" synset="wikidata-ru-L2109-S16" ili="wikidata-ru-L2109-S16">
+        <Definition>одетый или обутый во что-либо, измазанный чем-либо и т. п.</Definition>
+      </Sense>
+      <Sense id="L2109-S17" synset="wikidata-ru-L2109-S17" ili="wikidata-ru-L2109-S17">
+        <Definition>вид деятельности</Definition>
+      </Sense>
+      <Sense id="L2109-S18" synset="wikidata-ru-L2109-S18" ili="wikidata-ru-L2109-S18">
+        <Definition>конкретное время или период</Definition>
+      </Sense>
+      <Sense id="L2109-S19" synset="wikidata-ru-L2109-S19" ili="wikidata-ru-L2109-S19">
+        <Definition>внутреннее состояние субъекта или отношение субъектов</Definition>
+      </Sense>
+      <Sense id="L2109-S20" synset="wikidata-ru-L2109-S20" ili="wikidata-ru-L2109-S20">
+        <Definition>область применения</Definition>
+      </Sense>
+      <Sense id="L2109-S21" synset="wikidata-ru-L2109-S21" ili="wikidata-ru-L2109-S21">
+        <Definition>для</Definition>
+      </Sense>
+      <Sense id="L2109-S22" synset="wikidata-ru-L2109-S22" ili="wikidata-ru-L2109-S22">
+        <Definition>в конструкциях вида &quot;Х в Х&quot;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2122">
+      <Lemma writtenForm="делая" partOfSpeech="transgressive"/>
+      <Sense id="L2122-S1" synset="wikidata-ru-L2122-S1" ili="wikidata-ru-L2122-S1">
+        <Definition>сопутствующее действие</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245943">
+      <Lemma writtenForm="пять" partOfSpeech="numeral"/>
+      <Sense id="L245943-S1" synset="wikidata-ru-L245943-S1" ili="wikidata-ru-L245943-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409420">
+      <Lemma writtenForm="что" partOfSpeech="grammatical particle"/>
+      <Sense id="L409420-S1" synset="wikidata-ru-L409420-S1" ili="wikidata-ru-L409420-S1">
+        <Definition>употребляется как вопросительный отклик, ответ на обращение или при переспросе нерасслышанного</Definition>
+      </Sense>
+      <Sense id="L409420-S2" synset="wikidata-ru-L409420-S2" ili="wikidata-ru-L409420-S2">
+        <Definition>выражает удивление, недоумение, возмущение, негодование, насмешку, иронию, раздражение, упрёк и т. п.</Definition>
+      </Sense>
+      <Sense id="L409420-S3" synset="wikidata-ru-L409420-S3" ili="wikidata-ru-L409420-S3">
+        <Definition>употребляется для усиления вопроса (в том числе риторического)</Definition>
+      </Sense>
+      <Sense id="L409420-S4" synset="wikidata-ru-L409420-S4" ili="wikidata-ru-L409420-S4">
+        <Definition>народно-поэтическое; употребляется в начале стиха</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409467">
+      <Lemma writtenForm="он" partOfSpeech="personal pronoun"/>
+      <Sense id="L409467-S1" synset="wikidata-ru-L409467-S1" ili="wikidata-ru-L409467-S1">
+        <Definition>тот предмет, человек и т. п.; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным м. р. ед. ч.</Definition>
+        <Example>Тогда он оглянулся назад и, увидев меня, позвал меня.</Example>
+      </Sense>
+      <Sense id="L409467-S2" synset="wikidata-ru-L409467-S2" ili="wikidata-ru-L409467-S2">
+        <Definition>местоимение третьего лица</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447104">
+      <Lemma writtenForm="и" partOfSpeech="interjection"/>
+      <Sense id="L447104-S1" synset="wikidata-ru-L447104-S1" ili="wikidata-ru-L447104-S1">
+        <Definition>выражает несогласие со словами собеседника, возражение ему, увещание</Definition>
+        <Example>― Ел? ― И-и! Боже упаси, и смотреть не стал…</Example>
+      </Sense>
+      <Sense id="L447104-S2" synset="wikidata-ru-L447104-S2" ili="wikidata-ru-L447104-S2">
+        <Definition>подчёркивает высокую степень, величину чего-либо</Definition>
+        <Example>Не смотрите, он таким общипанным кажет: он это так, для виду… у него деньги-то и-и!</Example>
+        <Example>― Учится-то он хорошо? — И-и, как учится! первый ученик-с</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447105">
+      <Lemma writtenForm="и" partOfSpeech="character"/>
+      <Sense id="L447105-S1" synset="wikidata-ru-L447105-S1" ili="wikidata-ru-L447105-S1">
+        <Definition>русская буква</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L448556">
+      <Lemma writtenForm="как" partOfSpeech="grammatical particle"/>
+      <Sense id="L448556-S1" synset="wikidata-ru-L448556-S1" ili="wikidata-ru-L448556-S1">
+        <Definition>употребляется при выражении эмоций</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470667">
+      <Lemma writtenForm="Атлантический океан" partOfSpeech="phraseme"/>
+      <Sense id="L470667-S1" synset="wikidata-ru-L470667-S1" ili="wikidata-ru-L470667-S1">
+        <Definition>океан на Земле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524571">
+      <Lemma writtenForm="минус" partOfSpeech="preposition"/>
+      <Sense id="L524571-S1" synset="wikidata-ru-L524571-S1" ili="wikidata-ru-L524571-S1">
+        <Definition>за вычетом, вычтя</Definition>
+      </Sense>
+      <Sense id="L524571-S2" synset="wikidata-ru-L524571-S2" ili="wikidata-ru-L524571-S2">
+        <Definition>меньше, ниже ноля</Definition>
+      </Sense>
+      <Sense id="L524571-S3" synset="wikidata-ru-L524571-S3" ili="wikidata-ru-L524571-S3">
+        <Definition>символ, используемый в математике</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L582437">
+      <Lemma writtenForm="она" partOfSpeech="personal pronoun"/>
+      <Sense id="L582437-S1" synset="wikidata-ru-L582437-S1" ili="wikidata-ru-L582437-S1">
+        <Definition>это лицо женского пола или этот объект, ассоциируемый с женским родом; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным женского рода</Definition>
+        <Example>Поэзия — светлый и свежий водоём, и когда душа прикасается к этой влаге, она пьёт из источника вечной юности.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L582438">
+      <Lemma writtenForm="её" partOfSpeech="pro-form"/>
+      <Sense id="L582438-S1" synset="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1">
+        <Definition>принадлежащий или относящийся к тому, что выражено третьим лицом женского рода</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583362">
+      <Lemma writtenForm="да" partOfSpeech="grammatical particle"/>
+      <Sense id="L583362-S1" synset="wikidata-ru-L583362-S1" ili="wikidata-ru-L583362-S1">
+        <Definition>утвердительная частица для ответа</Definition>
+      </Sense>
+      <Sense id="L583362-S2" synset="wikidata-ru-L583362-S2" ili="wikidata-ru-L583362-S2">
+        <Definition>внутри речи для подчёркивания</Definition>
+      </Sense>
+      <Sense id="L583362-S3" synset="wikidata-ru-L583362-S3" ili="wikidata-ru-L583362-S3">
+        <Definition>в начале повествовательного предложения, глубокомысленно</Definition>
+      </Sense>
+      <Sense id="L583362-S4" synset="wikidata-ru-L583362-S4" ili="wikidata-ru-L583362-S4">
+        <Definition>в начале предложения, когда неожиданно вспомнилось</Definition>
+      </Sense>
+      <Sense id="L583362-S5" synset="wikidata-ru-L583362-S5" ili="wikidata-ru-L583362-S5">
+        <Definition>в качестве недоверия, возражения</Definition>
+      </Sense>
+      <Sense id="L583362-S6" synset="wikidata-ru-L583362-S6" ili="wikidata-ru-L583362-S6">
+        <Definition>в конце вопроса для побуждения к ответу</Definition>
+      </Sense>
+      <Sense id="L583362-S7" synset="wikidata-ru-L583362-S7" ili="wikidata-ru-L583362-S7">
+        <Definition>как отклик на обращение или телефонный вызов</Definition>
+      </Sense>
+      <Sense id="L583362-S8" synset="wikidata-ru-L583362-S8" ili="wikidata-ru-L583362-S8">
+        <Definition>восклицательно-вопросительная реплика для выражения удивления, недоверия</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L994333">
+      <Lemma writtenForm="тот" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L994333-S1" synset="wikidata-ru-L994333-S1" ili="wikidata-ru-L994333-S1">
+        <Definition>данный, находящийся там, далеко от говорящего</Definition>
+      </Sense>
+      <Sense id="L994333-S2" synset="wikidata-ru-L994333-S2" ili="wikidata-ru-L994333-S2">
+        <Definition>указывает на какой-л. предмет, лицо, выделяемые из ряда других</Definition>
+      </Sense>
+      <Sense id="L994333-S3" synset="wikidata-ru-L994333-S3" ili="wikidata-ru-L994333-S3">
+        <Definition>указывает на уже упоминавшееся в речи и уже известное</Definition>
+      </Sense>
+      <Sense id="L994333-S4" synset="wikidata-ru-L994333-S4" ili="wikidata-ru-L994333-S4">
+        <Definition>такой, который нужен или должен быть</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L997457">
+      <Lemma writtenForm="среди" partOfSpeech="preposition"/>
+      <Sense id="L997457-S1" synset="wikidata-ru-L997457-S1" ili="wikidata-ru-L997457-S1">
+        <Definition>внутри, в пределах</Definition>
+      </Sense>
+      <Sense id="L997457-S2" synset="wikidata-ru-L997457-S2" ili="wikidata-ru-L997457-S2">
+        <Definition>между началом и концом</Definition>
+      </Sense>
+      <Sense id="L997457-S3" synset="wikidata-ru-L997457-S3" ili="wikidata-ru-L997457-S3">
+        <Definition>в составе какого-то множества, в окружении других</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2110">
+      <Lemma writtenForm="не" partOfSpeech="grammatical particle"/>
+      <Sense id="L2110-S1" synset="wikidata-ru-L2110-S1" ili="wikidata-ru-L2110-S1">
+        <Definition>добавляется для отрицания слова</Definition>
+      </Sense>
+      <Sense id="L2110-S2" synset="wikidata-ru-L2110-S2" ili="wikidata-ru-L2110-S2">
+        <Definition>применяется для придания неопределённости или предположительности</Definition>
+      </Sense>
+      <Sense id="L2110-S3" synset="wikidata-ru-L2110-S3" ili="wikidata-ru-L2110-S3">
+        <Definition>применяется для указания неполноты действия или состояния</Definition>
+      </Sense>
+      <Sense id="L2110-S4" synset="wikidata-ru-L2110-S4" ili="wikidata-ru-L2110-S4">
+        <Definition>применяется для указания ограниченного утверждения</Definition>
+      </Sense>
+      <Sense id="L2110-S5" synset="wikidata-ru-L2110-S5" ili="wikidata-ru-L2110-S5">
+        <Definition>применяется для указания утвердительности</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2115">
+      <Lemma writtenForm="всё" partOfSpeech="interjection"/>
+      <Sense id="L2115-S1" synset="wikidata-ru-L2115-S1" ili="wikidata-ru-L2115-S1">
+        <Definition>употребляется как категорическое решение окончить, прекратить, завершить что-либо</Definition>
+        <Example>Ну всё! Я ухожу.</Example>
+      </Sense>
+      <Sense id="L2115-S2" synset="wikidata-ru-L2115-S2" ili="wikidata-ru-L2115-S2">
+        <Definition> употребляется как констатация чьей-то наступившей кончины; умер, скончался </Definition>
+        <Example>Изя всё</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245941">
+      <Lemma writtenForm="два" partOfSpeech="numeral"/>
+      <Sense id="L245941-S1" synset="wikidata-ru-L245941-S1" ili="wikidata-ru-L245941-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409413">
+      <Lemma writtenForm="что" partOfSpeech="pronoun"/>
+      <Sense id="L409413-S1" synset="wikidata-ru-L409413-S1" ili="wikidata-ru-L409413-S1">
+        <Definition>употребляется для формирования вопроса, с помощью которого говорящий хочет получить информацию о предмете, признаке, действии</Definition>
+      </Sense>
+      <Sense id="L409413-S2" synset="wikidata-ru-L409413-S2" ili="wikidata-ru-L409413-S2">
+        <Definition>употребляется для формирования вопроса о состоянии, положении и т. п. кого-, чего-либо</Definition>
+      </Sense>
+      <Sense id="L409413-S3" synset="wikidata-ru-L409413-S3" ili="wikidata-ru-L409413-S3">
+        <Definition>употребляется для формирования вопроса о причине действия; почему</Definition>
+      </Sense>
+      <Sense id="L409413-S4" synset="wikidata-ru-L409413-S4" ili="wikidata-ru-L409413-S4">
+        <Definition>употребляется для формирования вопроса о цели действия; зачем</Definition>
+      </Sense>
+      <Sense id="L409413-S5" synset="wikidata-ru-L409413-S5" ili="wikidata-ru-L409413-S5">
+        <Definition>употребляется для формирования вопроса о количестве; сколько</Definition>
+      </Sense>
+      <Sense id="L409413-S6" synset="wikidata-ru-L409413-S6" ili="wikidata-ru-L409413-S6">
+        <Definition>употребляется для формирования риторических вопросов и восклицательных предложений, в которых указывается на несущественность, неважность чего-либо</Definition>
+      </Sense>
+      <Sense id="L409413-S7" synset="wikidata-ru-L409413-S7" ili="wikidata-ru-L409413-S7">
+        <Definition>всё без исключения, очень многое (в риторических вопросах и восклицательных предложениях с отрицанием)</Definition>
+      </Sense>
+      <Sense id="L409413-S8" synset="wikidata-ru-L409413-S8" ili="wikidata-ru-L409413-S8">
+        <Definition>неизвестный говорящему или безразлично какой для него объект; что-нибудь, что-то</Definition>
+      </Sense>
+      <Sense id="L409413-S9" synset="wikidata-ru-L409413-S9" ili="wikidata-ru-L409413-S9">
+        <Definition>употребляется для присоединения придаточного предложения</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447749">
+      <Lemma writtenForm="как" partOfSpeech="conjunction"/>
+      <Sense id="L447749-S1" synset="wikidata-ru-L447749-S1" ili="wikidata-ru-L447749-S1">
+        <Definition>то же, что каким образом</Definition>
+      </Sense>
+      <Sense id="L447749-S2" synset="wikidata-ru-L447749-S2" ili="wikidata-ru-L447749-S2">
+        <Definition>то же, что словно, будто</Definition>
+      </Sense>
+      <Sense id="L447749-S3" synset="wikidata-ru-L447749-S3" ili="wikidata-ru-L447749-S3">
+        <Definition>то же, что в качестве</Definition>
+      </Sense>
+      <Sense id="L447749-S4" synset="wikidata-ru-L447749-S4" ili="wikidata-ru-L447749-S4">
+        <Definition>то же что так как</Definition>
+      </Sense>
+      <Sense id="L447749-S5" synset="wikidata-ru-L447749-S5" ili="wikidata-ru-L447749-S5">
+        <Definition>указывает на признак или действие</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470729">
+      <Lemma writtenForm="инвазионный вид" partOfSpeech="phraseme"/>
+      <Sense id="L470729-S1" synset="wikidata-ru-L470729-S1" ili="wikidata-ru-L470729-S1">
+        <Definition>новый вид на территории</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L528355">
+      <Lemma writtenForm="атас" partOfSpeech="predicative"/>
+      <Sense id="L528355-S1" synset="wikidata-ru-L528355-S1" ili="wikidata-ru-L528355-S1">
+        <Definition>выражение одобрения</Definition>
+      </Sense>
+      <Sense id="L528355-S2" synset="wikidata-ru-L528355-S2" ili="wikidata-ru-L528355-S2">
+        <Definition>оценка ситуации как ужасной</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592368">
+      <Lemma writtenForm="привет" partOfSpeech="interjection"/>
+      <Sense id="L592368-S1" synset="wikidata-ru-L592368-S1" ili="wikidata-ru-L592368-S1">
+        <Definition>слово приветствия</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618161">
+      <Lemma writtenForm="однако" partOfSpeech="interjection"/>
+      <Sense id="L618161-S1" synset="wikidata-ru-L618161-S1" ili="wikidata-ru-L618161-S1">
+        <Definition>выражает сильное удивление</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700615">
+      <Lemma writtenForm="то" partOfSpeech="conjunction"/>
+      <Sense id="L700615-S1" synset="wikidata-ru-L700615-S1" ili="wikidata-ru-L700615-S1">
+        <Definition>часть союза &quot;если...то&quot;</Definition>
+      </Sense>
+      <Sense id="L700615-S2" synset="wikidata-ru-L700615-S2" ili="wikidata-ru-L700615-S2">
+        <Definition>используется для чередования перечисляемых объектов или действий</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701179">
+      <Lemma writtenForm="шестнадцать" partOfSpeech="numeral"/>
+      <Sense id="L701179-S1" synset="wikidata-ru-L701179-S1" ili="wikidata-ru-L701179-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701187">
+      <Lemma writtenForm="восемнадцать" partOfSpeech="numeral"/>
+      <Sense id="L701187-S1" synset="wikidata-ru-L701187-S1" ili="wikidata-ru-L701187-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L704541">
+      <Lemma writtenForm="стоп" partOfSpeech="interjection"/>
+      <Sense id="L704541-S1" synset="wikidata-ru-L704541-S1" ili="wikidata-ru-L704541-S1">
+        <Definition>команда прекратить движение</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741202">
+      <Lemma writtenForm="против" partOfSpeech="predicative"/>
+      <Sense id="L741202-S1" synset="wikidata-ru-L741202-S1" ili="wikidata-ru-L741202-S1">
+        <Definition>выражение несогласия</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1379504">
+      <Lemma writtenForm="прежде" partOfSpeech="preposition"/>
+      <Sense id="L1379504-S1" synset="wikidata-ru-L1379504-S1" ili="wikidata-ru-L1379504-S1">
+        <Definition>до чего-нибудь, раньше чего-нибудь, за какое-нибудь время до чего-нибудь</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L1379510-S3"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L565042-S1"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L565042-S2"/>
+      </Sense>
+      <Sense id="L1379504-S2" synset="wikidata-ru-L1379504-S2" ili="wikidata-ru-L1379504-S2">
+        <Definition>впереди, раньше кого-нибудь</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L1379510-S3"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2123">
+      <Lemma writtenForm="мяу" partOfSpeech="onomatopoeia"/>
+      <Sense id="L2123-S1" synset="wikidata-ru-L2123-S1" ili="wikidata-ru-L2123-S1">
+        <Definition>звук, издаваемый кошкой</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L301818">
+      <Lemma writtenForm="под" partOfSpeech="preposition"/>
+      <Sense id="L301818-S1" synset="wikidata-ru-L301818-S1" ili="wikidata-ru-L301818-S1">
+        <Definition>находясь ниже</Definition>
+      </Sense>
+      <Sense id="L301818-S2" synset="wikidata-ru-L301818-S2" ili="wikidata-ru-L301818-S2">
+        <Definition>в окрестности, недалеко</Definition>
+      </Sense>
+      <Sense id="L301818-S3" synset="wikidata-ru-L301818-S3" ili="wikidata-ru-L301818-S3">
+        <Definition>в зоне или периоде действия</Definition>
+      </Sense>
+      <Sense id="L301818-S4" synset="wikidata-ru-L301818-S4" ili="wikidata-ru-L301818-S4">
+        <Definition>приблизительно, ненамного меньше</Definition>
+      </Sense>
+      <Sense id="L301818-S5" synset="wikidata-ru-L301818-S5" ili="wikidata-ru-L301818-S5">
+        <Definition>незадолго до времени</Definition>
+      </Sense>
+      <Sense id="L301818-S6" synset="wikidata-ru-L301818-S6" ili="wikidata-ru-L301818-S6">
+        <Definition>указывает на предмет, для хранения, размещения, нахождения которого что-либо предназначено, используется</Definition>
+      </Sense>
+      <Sense id="L301818-S7" synset="wikidata-ru-L301818-S7" ili="wikidata-ru-L301818-S7">
+        <Definition>имитируя что-либо</Definition>
+      </Sense>
+      <Sense id="L301818-S8" synset="wikidata-ru-L301818-S8" ili="wikidata-ru-L301818-S8">
+        <Definition>на фоне</Definition>
+      </Sense>
+      <Sense id="L301818-S9" synset="wikidata-ru-L301818-S9" ili="wikidata-ru-L301818-S9">
+        <Definition>указывает на непрямое, наклонное направление</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409332">
+      <Lemma writtenForm="на" partOfSpeech="preposition"/>
+      <Sense id="L409332-S1" synset="wikidata-ru-L409332-S1" ili="wikidata-ru-L409332-S1">
+        <Definition>поверх, над</Definition>
+      </Sense>
+      <Sense id="L409332-S2" synset="wikidata-ru-L409332-S2" ili="wikidata-ru-L409332-S2">
+        <Definition>указывает объект или цель действия, движения</Definition>
+      </Sense>
+      <Sense id="L409332-S3" synset="wikidata-ru-L409332-S3" ili="wikidata-ru-L409332-S3">
+        <Definition>(с некоторыми объектами) при указании направления</Definition>
+      </Sense>
+      <Sense id="L409332-S4" synset="wikidata-ru-L409332-S4" ili="wikidata-ru-L409332-S4">
+        <Definition>указание количества</Definition>
+      </Sense>
+      <Sense id="L409332-S5" synset="wikidata-ru-L409332-S5" ili="wikidata-ru-L409332-S5">
+        <Definition>при указании клиента, заказчика</Definition>
+      </Sense>
+      <Sense id="L409332-S6" synset="wikidata-ru-L409332-S6" ili="wikidata-ru-L409332-S6">
+        <Definition>объект действия, распространения</Definition>
+      </Sense>
+      <Sense id="L409332-S7" synset="wikidata-ru-L409332-S7" ili="wikidata-ru-L409332-S7">
+        <Definition>указывает источник финансирования</Definition>
+      </Sense>
+      <Sense id="L409332-S8" synset="wikidata-ru-L409332-S8" ili="wikidata-ru-L409332-S8">
+        <Definition>(с некоторыми объектами) при указании места</Definition>
+      </Sense>
+      <Sense id="L409332-S9" synset="wikidata-ru-L409332-S9" ili="wikidata-ru-L409332-S9">
+        <Definition>указывает на объект, являющийся основой, важной составляющей какой-либо системы или субстанции</Definition>
+      </Sense>
+      <Sense id="L409332-S10" synset="wikidata-ru-L409332-S10" ili="wikidata-ru-L409332-S10">
+        <Definition>при указании времени</Definition>
+      </Sense>
+      <Sense id="L409332-S11" synset="wikidata-ru-L409332-S11" ili="wikidata-ru-L409332-S11">
+        <Definition>в сочетаниях вида Х на Х</Definition>
+      </Sense>
+      <Sense id="L409332-S12" synset="wikidata-ru-L409332-S12" ili="wikidata-ru-L409332-S12">
+        <Definition>употребляется при обозначении орудия или средства или орудия действия</Definition>
+      </Sense>
+      <Sense id="L409332-S13" synset="wikidata-ru-L409332-S13" ili="wikidata-ru-L409332-S13">
+        <Definition>при указании на средство, с помощью которого кто-, что-л. работает, действует, что-л. делается, производится</Definition>
+      </Sense>
+      <Sense id="L409332-S14" synset="wikidata-ru-L409332-S14" ili="wikidata-ru-L409332-S14">
+        <Definition>при указании на средство, с помощью которого кто-, что-л. работает, действует, что-л. делается, производится</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409416">
+      <Lemma writtenForm="что" partOfSpeech="conjunction"/>
+      <Sense id="L409416-S1" synset="wikidata-ru-L409416-S1" ili="wikidata-ru-L409416-S1">
+        <Definition>изъяснительный; употребляется для присоединения придаточного предложения</Definition>
+      </Sense>
+      <Sense id="L409416-S2" synset="wikidata-ru-L409416-S2" ili="wikidata-ru-L409416-S2">
+        <Definition>употребляется для присоединения сравнительных оборотов</Definition>
+      </Sense>
+      <Sense id="L409416-S3" synset="wikidata-ru-L409416-S3" ili="wikidata-ru-L409416-S3">
+        <Definition>употребляется для присоединения придаточного предложения, называющего явление, событие, факт и т. п., которые служат достаточным основанием для предположения или утверждения, излагаемых в главном предложении, одновременно выступая в качестве следствия по отношению к ним</Definition>
+      </Sense>
+      <Sense id="L409416-S4" synset="wikidata-ru-L409416-S4" ili="wikidata-ru-L409416-S4">
+        <Definition>употребляется для присоединения придаточного предложения, действие которого происходит одновременно с действием главного предложения</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409443">
+      <Lemma writtenForm="от" partOfSpeech="preposition"/>
+      <Sense id="L409443-S1" synset="wikidata-ru-L409443-S1" ili="wikidata-ru-L409443-S1">
+        <Definition>обозначение исходной точки передвижения предмета или информации</Definition>
+      </Sense>
+      <Sense id="L409443-S2" synset="wikidata-ru-L409443-S2" ili="wikidata-ru-L409443-S2">
+        <Definition>обозначение положения точки в пространстве по сравнению с исходной</Definition>
+      </Sense>
+      <Sense id="L409443-S3" synset="wikidata-ru-L409443-S3" ili="wikidata-ru-L409443-S3">
+        <Definition>в соединении с предлогом до (от — до) и другим существительным употребляется при обозначении границ какой-либо части пространства, протяжённости чего-либо, расстояния и т. п.</Definition>
+      </Sense>
+      <Sense id="L409443-S4" synset="wikidata-ru-L409443-S4" ili="wikidata-ru-L409443-S4">
+        <Definition>обозначение момента времени, даты</Definition>
+      </Sense>
+      <Sense id="L409443-S5" synset="wikidata-ru-L409443-S5" ili="wikidata-ru-L409443-S5">
+        <Definition>в соединении с предлогом до (от — до) и другим существительным употребляется при обозначении границ какого-либо отрезка времени, периода</Definition>
+      </Sense>
+      <Sense id="L409443-S6" synset="wikidata-ru-L409443-S6" ili="wikidata-ru-L409443-S6">
+        <Definition>в соединении с числительным и предлогом до с другим числительным употребляется при обозначении величин, ограничивающих что-либо</Definition>
+      </Sense>
+      <Sense id="L409443-S7" synset="wikidata-ru-L409443-S7" ili="wikidata-ru-L409443-S7">
+        <Definition>в соединении с предлогом до (от — до) и другим существительным или прилагательным употребляется при указании на полный охват всех предметов, свойств и т. п., начиная с данного и кончая каким-либо</Definition>
+      </Sense>
+      <Sense id="L409443-S8" synset="wikidata-ru-L409443-S8" ili="wikidata-ru-L409443-S8">
+        <Definition>обозначение причины</Definition>
+      </Sense>
+      <Sense id="L409443-S9" synset="wikidata-ru-L409443-S9" ili="wikidata-ru-L409443-S9">
+        <Definition>обозначение средства против чего-либо</Definition>
+      </Sense>
+      <Sense id="L409443-S10" synset="wikidata-ru-L409443-S10" ili="wikidata-ru-L409443-S10">
+        <Definition>обозначение соотношения части и целого</Definition>
+      </Sense>
+      <Sense id="L409443-S11" synset="wikidata-ru-L409443-S11" ili="wikidata-ru-L409443-S11">
+        <Definition>обозначение принадлежности продукта к производителю</Definition>
+      </Sense>
+      <Sense id="L409443-S12" synset="wikidata-ru-L409443-S12" ili="wikidata-ru-L409443-S12">
+        <Definition>обозначение характера действия</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447102">
+      <Lemma writtenForm="даже" partOfSpeech="grammatical particle"/>
+      <Sense id="L447102-S1" synset="wikidata-ru-L447102-S1" ili="wikidata-ru-L447102-S1">
+        <Definition>частица, используемая при выделении или при усилении значения слова или словосочетания, к которым относится</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L447101-S1"/>
+        <SenseRelation relType="similar" target="wikidata-ru-L447101-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L468160">
+      <Lemma writtenForm="брюшной тиф" partOfSpeech="phraseme"/>
+      <Sense id="L468160-S1" synset="wikidata-ru-L468160-S1" ili="wikidata-ru-L468160-S1">
+        <Definition>болезнь</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470651">
+      <Lemma writtenForm="озоновая дыра" partOfSpeech="phraseme"/>
+      <Sense id="L470651-S1" synset="wikidata-ru-L470651-S1" ili="wikidata-ru-L470651-S1">
+        <Definition>падение концентрации озона</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470663">
+      <Lemma writtenForm="солнечный ветер" partOfSpeech="phraseme"/>
+      <Sense id="L470663-S1" synset="wikidata-ru-L470663-S1" ili="wikidata-ru-L470663-S1">
+        <Definition>поток заряженных частиц</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470717">
+      <Lemma writtenForm="солнечное пятно" partOfSpeech="phraseme"/>
+      <Sense id="L470717-S1" synset="wikidata-ru-L470717-S1" ili="wikidata-ru-L470717-S1">
+        <Definition>тёмная область на Солнце</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476293">
+      <Lemma writtenForm="вокруг" partOfSpeech="preposition"/>
+      <Sense id="L476293-S1" synset="wikidata-ru-L476293-S1" ili="wikidata-ru-L476293-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579894">
+      <Lemma writtenForm="или" partOfSpeech="conjunction"/>
+      <Sense id="L579894-S1" synset="wikidata-ru-L579894-S1" ili="wikidata-ru-L579894-S1">
+        <Definition>употребляется при соотнесении однородных членов предложения или целых предложений (по значению взаимоисключающих или заменяющих друг друга), указывая на необходимость выбора между ними</Definition>
+      </Sense>
+      <Sense id="L579894-S2" synset="wikidata-ru-L579894-S2" ili="wikidata-ru-L579894-S2">
+        <Definition>употребляется при введении слов и предложений, имеющих пояснительный характер, соответствуя по значению словам: то есть, иначе, иначе говоря</Definition>
+      </Sense>
+      <Sense id="L579894-S3" synset="wikidata-ru-L579894-S3" ili="wikidata-ru-L579894-S3">
+        <Definition>употребляется при введении вставной конструкции, вводного предложения</Definition>
+      </Sense>
+      <Sense id="L579894-S4" synset="wikidata-ru-L579894-S4" ili="wikidata-ru-L579894-S4">
+        <Definition>употребляется при присоединении последнего члена перечисления, соответствуя по значению слов: и, а также</Definition>
+      </Sense>
+      <Sense id="L579894-S5" synset="wikidata-ru-L579894-S5" ili="wikidata-ru-L579894-S5">
+        <Definition>употребляется при присоединении предложений, дополняющих предыдущее высказывание</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640808">
+      <Lemma writtenForm="маточное молочко" partOfSpeech="locution"/>
+      <Sense id="L640808-S1" synset="wikidata-ru-L640808-S1" ili="wikidata-ru-L640808-S1">
+        <Definition>продукт питания пчёл</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708171">
+      <Lemma writtenForm="между" partOfSpeech="preposition"/>
+      <Sense id="L708171-S1" synset="wikidata-ru-L708171-S1" ili="wikidata-ru-L708171-S1">
+        <Definition>нахождение чего-либо в пространстве, ограниченном двумя или несколькими объектами</Definition>
+      </Sense>
+      <Sense id="L708171-S2" synset="wikidata-ru-L708171-S2" ili="wikidata-ru-L708171-S2">
+        <Definition>указание на связь двух точек или двух предметов в пространстве: от … до …</Definition>
+      </Sense>
+      <Sense id="L708171-S3" synset="wikidata-ru-L708171-S3" ili="wikidata-ru-L708171-S3">
+        <Definition>обозначение промежутка времени, в который что-либо совершается</Definition>
+      </Sense>
+      <Sense id="L708171-S4" synset="wikidata-ru-L708171-S4" ili="wikidata-ru-L708171-S4">
+        <Definition>обозначение взаимосвязанных лиц (предметов или явлений)</Definition>
+      </Sense>
+      <Sense id="L708171-S5" synset="wikidata-ru-L708171-S5" ili="wikidata-ru-L708171-S5">
+        <Definition>обозначение сравниваемых лиц (предметов или явлений)</Definition>
+      </Sense>
+      <Sense id="L708171-S6" synset="wikidata-ru-L708171-S6" ili="wikidata-ru-L708171-S6">
+        <Definition>обозначение группы предметов, явлений, лиц, в пределах которой совершается распределение, разделение чего-либо</Definition>
+      </Sense>
+      <Sense id="L708171-S7" synset="wikidata-ru-L708171-S7" ili="wikidata-ru-L708171-S7">
+        <Definition>в ситуации выбора: =из</Definition>
+      </Sense>
+      <Sense id="L708171-S8" synset="wikidata-ru-L708171-S8" ili="wikidata-ru-L708171-S8">
+        <Definition>положение предмета среди других предметов; среди</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1144001">
+      <Lemma writtenForm="блин" partOfSpeech="interjection"/>
+      <Sense id="L1144001-S1" synset="wikidata-ru-L1144001-S1" ili="wikidata-ru-L1144001-S1">
+        <Definition>выражает сильную эмоцию</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1353375">
+      <Lemma writtenForm="ещё" partOfSpeech="grammatical particle"/>
+      <Sense id="L1353375-S1" synset="wikidata-ru-L1353375-S1" ili="wikidata-ru-L1353375-S1">
+        <Definition>усилительная частица</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1419096">
+      <Lemma writtenForm="а" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1419096-S1" synset="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1450783">
+      <Lemma writtenForm="о" partOfSpeech="preposition"/>
+      <Sense id="L1450783-S1" synset="wikidata-ru-L1450783-S1" ili="wikidata-ru-L1450783-S1">
+        <Definition>указывает на объект глагола: предмет, на который направлена мысль, речь, чувство, действие</Definition>
+      </Sense>
+      <Sense id="L1450783-S2" synset="wikidata-ru-L1450783-S2" ili="wikidata-ru-L1450783-S2">
+        <Definition>указывает, что действие одного предмета на другой приводит к их сближению, столкновению, соприкосновению</Definition>
+      </Sense>
+      <Sense id="L1450783-S3" synset="wikidata-ru-L1450783-S3" ili="wikidata-ru-L1450783-S3">
+        <Definition>указывает, что что-либо находятся рядом, вплотную с чем-нибудь</Definition>
+      </Sense>
+      <Sense id="L1450783-S4" synset="wikidata-ru-L1450783-S4" ili="wikidata-ru-L1450783-S4">
+        <Definition>указывает место</Definition>
+      </Sense>
+      <Sense id="L1450783-S5" synset="wikidata-ru-L1450783-S5" ili="wikidata-ru-L1450783-S5">
+        <Definition>при обозначении времени, около которого или в пределах которого происходит действие</Definition>
+      </Sense>
+      <Sense id="L1450783-S6" synset="wikidata-ru-L1450783-S6" ili="wikidata-ru-L1450783-S6">
+        <Definition>указаывает на свойство какого-либо предмета, качество, признак</Definition>
+      </Sense>
+      <Sense id="L1450783-S7" synset="wikidata-ru-L1450783-S7" ili="wikidata-ru-L1450783-S7">
+        <Definition>при обозначении времени, около которого или в пределах которого происходит действие</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1547808">
+      <Lemma writtenForm="можно" partOfSpeech="predicative"/>
+      <Sense id="L1547808-S1" synset="wikidata-ru-L1547808-S1" ili="wikidata-ru-L1547808-S1">
+        <Definition>имеется возможность</Definition>
+      </Sense>
+      <Sense id="L1547808-S2" synset="wikidata-ru-L1547808-S2" ili="wikidata-ru-L1547808-S2">
+        <Definition>разрешено, дозволено</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2027">
+      <Lemma writtenForm="я" partOfSpeech="personal pronoun"/>
+      <Sense id="L2027-S1" synset="wikidata-ru-L2027-S1" ili="wikidata-ru-L2027-S1">
+        <Definition>местоимение первого лица</Definition>
+      </Sense>
+      <Sense id="L2027-S2" synset="wikidata-ru-L2027-S2" ili="wikidata-ru-L2027-S2">
+        <Definition>личность</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2114">
+      <Lemma writtenForm="всё" partOfSpeech="conjunction"/>
+      <Sense id="L2114-S1" synset="wikidata-ru-L2114-S1" ili="wikidata-ru-L2114-S1">
+        <Definition>употребляется при выражении противопоставления</Definition>
+        <Example>Дай, — думает, — отвернусь, — всё не так страшно.</Example>
+      </Sense>
+      <Sense id="L2114-S2" synset="wikidata-ru-L2114-S2" ili="wikidata-ru-L2114-S2">
+        <Definition> употребляется при подчёркивании, усилении значения (обычно в сочетании со сравнительной степенью прилагательных или наречий, а также с глаголами, обозначающими увеличение или уменьшение чего-либо)</Definition>
+        <Example>Она гуляла одна, всё в том же берете, с белым шпицем; никто не знал, кто она, и называли её просто так: дама с собачкой.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2126">
+      <Lemma writtenForm="хорошо" partOfSpeech="predicative"/>
+      <Sense id="L2126-S1" synset="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1">
+        <Definition>о чувстве удовлетворения, удовольствия, радости и т. п., испытываемом кем-либо</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L139473">
+      <Lemma writtenForm="отче" partOfSpeech="inflected form"/>
+      <Sense id="L139473-S1" synset="wikidata-ru-L139473-S1" ili="wikidata-ru-L139473-S1">
+        <Definition>обращение к отцу</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245944">
+      <Lemma writtenForm="шесть" partOfSpeech="numeral"/>
+      <Sense id="L245944-S1" synset="wikidata-ru-L245944-S1" ili="wikidata-ru-L245944-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245945">
+      <Lemma writtenForm="семь" partOfSpeech="numeral"/>
+      <Sense id="L245945-S1" synset="wikidata-ru-L245945-S1" ili="wikidata-ru-L245945-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L290215">
+      <Lemma writtenForm="сто" partOfSpeech="numeral"/>
+      <Sense id="L290215-S1" synset="wikidata-ru-L290215-S1" ili="wikidata-ru-L290215-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348650">
+      <Lemma writtenForm="нуль" partOfSpeech="numeral"/>
+      <Sense id="L348650-S1" synset="wikidata-ru-L348650-S1" ili="wikidata-ru-L348650-S1">
+        <Definition>число</Definition>
+      </Sense>
+      <Sense id="L348650-S2" synset="wikidata-ru-L348650-S2" ili="wikidata-ru-L348650-S2">
+        <Definition>цифра</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470652">
+      <Lemma writtenForm="озонная дыра" partOfSpeech="phraseme"/>
+      <Sense id="L470652-S1" synset="wikidata-ru-L470652-S1" ili="wikidata-ru-L470652-S1">
+        <Definition>падение концентрации озона</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470675">
+      <Lemma writtenForm="Индийский океан" partOfSpeech="phraseme"/>
+      <Sense id="L470675-S1" synset="wikidata-ru-L470675-S1" ili="wikidata-ru-L470675-S1">
+        <Definition>океан на Земле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470735">
+      <Lemma writtenForm="парниковый газ" partOfSpeech="phraseme"/>
+      <Sense id="L470735-S1" synset="wikidata-ru-L470735-S1" ili="wikidata-ru-L470735-S1">
+        <Definition>газы, вызывающие парниковый эффект</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L500374">
+      <Lemma writtenForm="однако" partOfSpeech="conjunction"/>
+      <Sense id="L500374-S1" synset="wikidata-ru-L500374-S1" ili="wikidata-ru-L500374-S1">
+        <Definition>противопоставительный союз</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L582524">
+      <Lemma writtenForm="они" partOfSpeech="pro-form"/>
+      <Sense id="L582524-S1" synset="wikidata-ru-L582524-S1" ili="wikidata-ru-L582524-S1">
+        <Definition>указывает на (обычно ранее упомянутые) предметы (лица) во множественном числе, к которым говорящий не относит ни себя, ни адресатов высказывания</Definition>
+      </Sense>
+      <Sense id="L582524-S2" synset="wikidata-ru-L582524-S2" ili="wikidata-ru-L582524-S2">
+        <Definition>именно те, а не другие; те самые</Definition>
+      </Sense>
+      <Sense id="L582524-S3" synset="wikidata-ru-L582524-S3" ili="wikidata-ru-L582524-S3">
+        <Definition>с частицей вот приобретает указательный или усилительный характер</Definition>
+      </Sense>
+      <Sense id="L582524-S4" synset="wikidata-ru-L582524-S4" ili="wikidata-ru-L582524-S4">
+        <Definition>указывает на одно лицо, используется как уважительная форма называния</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701178">
+      <Lemma writtenForm="четырнадцать" partOfSpeech="numeral"/>
+      <Sense id="L701178-S1" synset="wikidata-ru-L701178-S1" ili="wikidata-ru-L701178-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701186">
+      <Lemma writtenForm="семнадцать" partOfSpeech="numeral"/>
+      <Sense id="L701186-S1" synset="wikidata-ru-L701186-S1" ili="wikidata-ru-L701186-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L704932">
+      <Lemma writtenForm="несколько" partOfSpeech="numeral"/>
+      <Sense id="L704932-S1" synset="wikidata-ru-L704932-S1" ili="wikidata-ru-L704932-S1">
+        <Definition>некоторое небольшое число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L735829">
+      <Lemma writtenForm="тридцать" partOfSpeech="numeral"/>
+      <Sense id="L735829-S1" synset="wikidata-ru-L735829-S1" ili="wikidata-ru-L735829-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741186">
+      <Lemma writtenForm="чтобы" partOfSpeech="conjunction"/>
+      <Sense id="L741186-S1" synset="wikidata-ru-L741186-S1" ili="wikidata-ru-L741186-S1">
+        <Definition>присоединяет придаточное цели</Definition>
+      </Sense>
+      <Sense id="L741186-S2" synset="wikidata-ru-L741186-S2" ili="wikidata-ru-L741186-S2">
+        <Definition>присоединяет придаточное с описанием возможной ситуаци</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1075598">
+      <Lemma writtenForm="только" partOfSpeech="grammatical particle"/>
+      <Sense id="L1075598-S1" synset="wikidata-ru-L1075598-S1" ili="wikidata-ru-L1075598-S1">
+        <Definition>выражает желание, со словом &quot;бы&quot; или &quot;б&quot;</Definition>
+      </Sense>
+      <Sense id="L1075598-S2" synset="wikidata-ru-L1075598-S2" ili="wikidata-ru-L1075598-S2">
+        <Definition>после вопросительных местоимений и местоименных наречий усиливает их выразительность</Definition>
+      </Sense>
+      <Sense id="L1075598-S3" synset="wikidata-ru-L1075598-S3" ili="wikidata-ru-L1075598-S3">
+        <Definition>усиление в риторическом вопросе</Definition>
+      </Sense>
+      <Sense id="L1075598-S4" synset="wikidata-ru-L1075598-S4" ili="wikidata-ru-L1075598-S4">
+        <Definition>исключительно</Definition>
+      </Sense>
+      <Sense id="L1075598-S5" synset="wikidata-ru-L1075598-S5" ili="wikidata-ru-L1075598-S5">
+        <Definition>выражает математическую необходимость в составе выражений</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1416330">
+      <Lemma writtenForm="почему" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L1416330-S1" synset="wikidata-ru-L1416330-S1" ili="wikidata-ru-L1416330-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245942">
+      <Lemma writtenForm="четыре" partOfSpeech="numeral"/>
+      <Sense id="L245942-S1" synset="wikidata-ru-L245942-S1" ili="wikidata-ru-L245942-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+      <Sense id="L245942-S2" synset="wikidata-ru-L245942-S2" ili="wikidata-ru-L245942-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245948">
+      <Lemma writtenForm="десять" partOfSpeech="numeral"/>
+      <Sense id="L245948-S1" synset="wikidata-ru-L245948-S1" ili="wikidata-ru-L245948-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409444">
+      <Lemma writtenForm="от" partOfSpeech="grammatical particle"/>
+      <Sense id="L409444-S1" synset="wikidata-ru-L409444-S1" ili="wikidata-ru-L409444-S1">
+        <Definition>то же, что вот</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L447103">
+      <Lemma writtenForm="даже" partOfSpeech="conjunction"/>
+      <Sense id="L447103-S1" synset="wikidata-ru-L447103-S1" ili="wikidata-ru-L447103-S1">
+        <Definition>союз, используемый при присоединении целых предложений или отдельных членов предложения, развивающих, дополняющих или уточняющих ранее высказанную мысль</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1160718">
+      <Lemma writtenForm="да" partOfSpeech="conjunction"/>
+      <Sense id="L1160718-S1" synset="wikidata-ru-L1160718-S1" ili="wikidata-ru-L1160718-S1">
+        <Definition>выражает сопоставление</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L2108-S1"/>
+      </Sense>
+      <Sense id="L1160718-S2" synset="wikidata-ru-L1160718-S2" ili="wikidata-ru-L1160718-S2">
+        <Definition>выражает противопоставление</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422131">
+      <Lemma writtenForm="лишь" partOfSpeech="grammatical particle"/>
+      <Sense id="L1422131-S1" synset="wikidata-ru-L1422131-S1" ili="wikidata-ru-L1422131-S1">
+        <Definition>для ограничения, исключения: только, исключительно</Definition>
+      </Sense>
+      <Sense id="L1422131-S2" synset="wikidata-ru-L1422131-S2" ili="wikidata-ru-L1422131-S2">
+        <Definition>употребляется в предложениях, выражающих пожелание</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422132">
+      <Lemma writtenForm="бы" partOfSpeech="grammatical particle"/>
+      <Sense id="L1422132-S1" synset="wikidata-ru-L1422132-S1" ili="wikidata-ru-L1422132-S1">
+        <Definition>для сослагательного наклонения</Definition>
+      </Sense>
+      <Sense id="L1422132-S2" synset="wikidata-ru-L1422132-S2" ili="wikidata-ru-L1422132-S2">
+        <Definition>при обозначении предположительной или условно-предположительной возможности действия</Definition>
+      </Sense>
+      <Sense id="L1422132-S3" synset="wikidata-ru-L1422132-S3" ili="wikidata-ru-L1422132-S3">
+        <Definition>при обозначении различных оттенков желаемости действия</Definition>
+      </Sense>
+      <Sense id="L1422132-S4" synset="wikidata-ru-L1422132-S4" ili="wikidata-ru-L1422132-S4">
+        <Definition>указывает на вежливо-предупредительное пожелание кому-либо, совет, предложение</Definition>
+      </Sense>
+      <Sense id="L1422132-S5" synset="wikidata-ru-L1422132-S5" ili="wikidata-ru-L1422132-S5">
+        <Definition>употребляется при выражении опасения по поводу какого-либо нежелательного действия</Definition>
+      </Sense>
+      <Sense id="L1422132-S6" synset="wikidata-ru-L1422132-S6" ili="wikidata-ru-L1422132-S6">
+        <Definition>указывает на обусловленность действия</Definition>
+      </Sense>
+      <Sense id="L1422132-S7" synset="wikidata-ru-L1422132-S7" ili="wikidata-ru-L1422132-S7">
+        <Definition>указывает на различные оттенки условности, предположительности, желаемости действия</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422133">
+      <Lemma writtenForm="лишь" partOfSpeech="conjunction"/>
+      <Sense id="L1422133-S1" synset="wikidata-ru-L1422133-S1" ili="wikidata-ru-L1422133-S1">
+        <Definition>употребляется для присоединения предложений или отдельных членов предложений, дополняющих, уточняющих высказанную мысль</Definition>
+      </Sense>
+      <Sense id="L1422133-S2" synset="wikidata-ru-L1422133-S2" ili="wikidata-ru-L1422133-S2">
+        <Definition>употребляется для присоединения придаточных временных предложений</Definition>
+      </Sense>
+      <Sense id="L1422133-S3" synset="wikidata-ru-L1422133-S3" ili="wikidata-ru-L1422133-S3">
+        <Definition>для присоединения придаточных предложений цели</Definition>
+      </Sense>
+      <Sense id="L1422133-S4" synset="wikidata-ru-L1422133-S4" ili="wikidata-ru-L1422133-S4">
+        <Definition>присоединяет предложение, выражающее пожелание</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37632">
+      <Lemma writtenForm="много" partOfSpeech="numeral"/>
+      <Sense id="L37632-S1" synset="wikidata-ru-L37632-S1" ili="wikidata-ru-L37632-S1">
+        <Definition>большое количество, значительное число кого-либо, чего-либ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245949">
+      <Lemma writtenForm="одиннадцать" partOfSpeech="numeral"/>
+      <Sense id="L245949-S1" synset="wikidata-ru-L245949-S1" ili="wikidata-ru-L245949-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L290216">
+      <Lemma writtenForm="миллион" partOfSpeech="numeral"/>
+      <Sense id="L290216-S1" synset="wikidata-ru-L290216-S1" ili="wikidata-ru-L290216-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409334">
+      <Lemma writtenForm="с" partOfSpeech="preposition"/>
+      <Sense id="L409334-S1" synset="wikidata-ru-L409334-S1" ili="wikidata-ru-L409334-S1">
+        <Definition>указывает на место или объект, с которого что-либо удаляется, снимается</Definition>
+      </Sense>
+      <Sense id="L409334-S2" synset="wikidata-ru-L409334-S2" ili="wikidata-ru-L409334-S2">
+        <Definition>указывает на место, из которого что-либо исходит</Definition>
+      </Sense>
+      <Sense id="L409334-S3" synset="wikidata-ru-L409334-S3" ili="wikidata-ru-L409334-S3">
+        <Definition>в обозначении интервала или множества указывает на его начальную точку</Definition>
+      </Sense>
+      <Sense id="L409334-S4" synset="wikidata-ru-L409334-S4" ili="wikidata-ru-L409334-S4">
+        <Definition>обозначает совместность, сочетание</Definition>
+      </Sense>
+      <Sense id="L409334-S5" synset="wikidata-ru-L409334-S5" ili="wikidata-ru-L409334-S5">
+        <Definition>обозначает наличие, присутствие кого-нибудь или чего-нибудь, обладание кем-нибудь или чем-нибудь у лица или предмета, производящего какое-нибудь действие или испытывающего какое-нибудь состояние</Definition>
+      </Sense>
+      <Sense id="L409334-S6" synset="wikidata-ru-L409334-S6" ili="wikidata-ru-L409334-S6">
+        <Definition>употребляется для указания на лицо или предмет, наличие, присутствие которого является источником того или иного состояния, испытываемого кем-нибудь или чем-нибудь, или причиной действия, совершаемого кем-нибудь или чем-нибудь</Definition>
+      </Sense>
+      <Sense id="L409334-S7" synset="wikidata-ru-L409334-S7" ili="wikidata-ru-L409334-S7">
+        <Definition>обозначает приблизительную меру</Definition>
+      </Sense>
+      <Sense id="L409334-S8" synset="wikidata-ru-L409334-S8" ili="wikidata-ru-L409334-S8">
+        <Definition>заменяет предлог из</Definition>
+      </Sense>
+      <Sense id="L409334-S9" synset="wikidata-ru-L409334-S9" ili="wikidata-ru-L409334-S9">
+        <Definition>входит в состав сложных слов в качестве одного из элементов</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409445">
+      <Lemma writtenForm="для" partOfSpeech="preposition"/>
+      <Sense id="L409445-S1" synset="wikidata-ru-L409445-S1" ili="wikidata-ru-L409445-S1">
+        <Definition>имея целью сделать что-то такое, что полезно или приятно другому человеку и чего этому человеку нормально хотеть</Definition>
+      </Sense>
+      <Sense id="L409445-S2" synset="wikidata-ru-L409445-S2" ili="wikidata-ru-L409445-S2">
+        <Definition>описывает цель, предназначение чего-либо</Definition>
+      </Sense>
+      <Sense id="L409445-S3" synset="wikidata-ru-L409445-S3" ili="wikidata-ru-L409445-S3">
+        <Definition>обозначает субъект, на который направлено какое-либо действие или который является адресатом чего-либо либо воспринимает что-то</Definition>
+      </Sense>
+      <Sense id="L409445-S4" synset="wikidata-ru-L409445-S4" ili="wikidata-ru-L409445-S4">
+        <Definition>указывает на сравнение свойств объекта со свойствами класса, к которому этот объект относится</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L448251">
+      <Lemma writtenForm="ты" partOfSpeech="personal pronoun"/>
+      <Sense id="L448251-S1" synset="wikidata-ru-L448251-S1" ili="wikidata-ru-L448251-S1">
+        <Definition>при обращении к знакомому собеседнику</Definition>
+      </Sense>
+      <Sense id="L448251-S2" synset="wikidata-ru-L448251-S2" ili="wikidata-ru-L448251-S2">
+        <Definition>местоимение второго лица</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L468164">
+      <Lemma writtenForm="углекислый газ" partOfSpeech="phraseme"/>
+      <Sense id="L468164-S1" synset="wikidata-ru-L468164-S1" ili="wikidata-ru-L468164-S1">
+        <Definition>диоксид углерода</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470713">
+      <Lemma writtenForm="парниковый эффект" partOfSpeech="phraseme"/>
+      <Sense id="L470713-S1" synset="wikidata-ru-L470713-S1" ili="wikidata-ru-L470713-S1">
+        <Definition>атмосферное явление</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470727">
+      <Lemma writtenForm="инвазивный вид" partOfSpeech="phraseme"/>
+      <Sense id="L470727-S1" synset="wikidata-ru-L470727-S1" ili="wikidata-ru-L470727-S1">
+        <Definition>новый вид на территории</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L565042">
+      <Lemma writtenForm="после" partOfSpeech="preposition"/>
+      <Sense id="L565042-S1" synset="wikidata-ru-L565042-S1" ili="wikidata-ru-L565042-S1">
+        <Definition>по окончании, позднее чего-либо</Definition>
+        <SenseRelation relType="antonym" target="wikidata-ru-L1379504-S1"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L1379510-S3"/>
+      </Sense>
+      <Sense id="L565042-S2" synset="wikidata-ru-L565042-S2" ili="wikidata-ru-L565042-S2">
+        <Definition>по отъезду, уходу или смерти кого-либо</Definition>
+        <SenseRelation relType="antonym" target="wikidata-ru-L1379504-S1"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L1379510-S3"/>
+      </Sense>
+      <Sense id="L565042-S3" synset="wikidata-ru-L565042-S3" ili="wikidata-ru-L565042-S3">
+        <Definition>следуя за чем-либо в ряду</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579896">
+      <Lemma writtenForm="или" partOfSpeech="grammatical particle"/>
+      <Sense id="L579896-S1" synset="wikidata-ru-L579896-S1" ili="wikidata-ru-L579896-S1">
+        <Definition>разве, неужели (употр. в начале предложения с оттенком противопоставления чему-нибудь другому, возможному</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579897">
+      <Lemma writtenForm="это" partOfSpeech="grammatical particle"/>
+      <Sense id="L579897-S1" synset="wikidata-ru-L579897-S1" ili="wikidata-ru-L579897-S1">
+        <Definition>употребляется при подчёркивании, выделении того или иного члена предложения</Definition>
+      </Sense>
+      <Sense id="L579897-S2" synset="wikidata-ru-L579897-S2" ili="wikidata-ru-L579897-S2">
+        <Definition>употребляется при усилении значения вопросительного местоимения или наречия, входящего в состав вопросительного предложения</Definition>
+      </Sense>
+      <Sense id="L579897-S3" synset="wikidata-ru-L579897-S3" ili="wikidata-ru-L579897-S3">
+        <Definition>употребляется на границе двух предложений, из которых второе содержит в себе истолкование, разъяснение первого</Definition>
+      </Sense>
+      <Sense id="L579897-S4" synset="wikidata-ru-L579897-S4" ili="wikidata-ru-L579897-S4">
+        <Definition>употребляется при усилении выразительности, значимости всего высказывания или какой-либо его части</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673489">
+      <Lemma writtenForm="сорок" partOfSpeech="numeral"/>
+      <Sense id="L673489-S1" synset="wikidata-ru-L673489-S1" ili="wikidata-ru-L673489-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L735820">
+      <Lemma writtenForm="девятнадцать" partOfSpeech="numeral"/>
+      <Sense id="L735820-S1" synset="wikidata-ru-L735820-S1" ili="wikidata-ru-L735820-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741198">
+      <Lemma writtenForm="против" partOfSpeech="preposition"/>
+      <Sense id="L741198-S1" synset="wikidata-ru-L741198-S1" ili="wikidata-ru-L741198-S1">
+        <Definition>прямо перед кем-либо (чем-либо)</Definition>
+      </Sense>
+      <Sense id="L741198-S2" synset="wikidata-ru-L741198-S2" ili="wikidata-ru-L741198-S2">
+        <Definition>навстречу, в обратном, противоположном направлении</Definition>
+      </Sense>
+      <Sense id="L741198-S3" synset="wikidata-ru-L741198-S3" ili="wikidata-ru-L741198-S3">
+        <Definition>вопреки, наперекор кому-либо (чему-либо)</Definition>
+      </Sense>
+      <Sense id="L741198-S4" synset="wikidata-ru-L741198-S4" ili="wikidata-ru-L741198-S4">
+        <Definition>для борьбы с кем-либо (чем-либо), противодействия чему-то</Definition>
+      </Sense>
+      <Sense id="L741198-S5" synset="wikidata-ru-L741198-S5" ili="wikidata-ru-L741198-S5">
+        <Definition>в сравнении, в сопоставлении с кем-либо (чем-либо)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1353374">
+      <Lemma writtenForm="только" partOfSpeech="conjunction"/>
+      <Sense id="L1353374-S1" synset="wikidata-ru-L1353374-S1" ili="wikidata-ru-L1353374-S1">
+        <Definition>со словами как, лишь, едва в их значении</Definition>
+      </Sense>
+      <Sense id="L1353374-S2" synset="wikidata-ru-L1353374-S2" ili="wikidata-ru-L1353374-S2">
+        <Definition>сейчас же, как…, сразу после того, как…, в тот момент, как…</Definition>
+      </Sense>
+      <Sense id="L1353374-S3" synset="wikidata-ru-L1353374-S3" ili="wikidata-ru-L1353374-S3">
+        <Definition>противительный союз, после слов &quot;но, однако, при условии&quot;</Definition>
+      </Sense>
+      <Sense id="L1353374-S4" synset="wikidata-ru-L1353374-S4" ili="wikidata-ru-L1353374-S4">
+        <Definition>противительный союз, со словами а, но, да</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L37633">
+      <Lemma writtenForm="тысяча" partOfSpeech="numeral"/>
+      <Sense id="L37633-S1" synset="wikidata-ru-L37633-S1" ili="l2263-s1">
+        <Definition>натуральное число между 999 и 1001, десять сотен</Definition>
+        <Example>Вы, я вижу, бескорыстно любите деньги. Скажите, какая сумма вам нравится? ― Пять тысяч, ― быстро ответил Балаганов.</Example>
+      </Sense>
+      <Sense id="L37633-S2" synset="wikidata-ru-L37633-S2" ili="wikidata-ru-L37633-S2">
+        <Definition>большое неопределённое кол-во</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L114909">
+      <Lemma writtenForm="кап" partOfSpeech="interjection"/>
+      <Sense id="L114909-S1" synset="wikidata-ru-L114909-S1" ili="wikidata-ru-L114909-S1">
+        <Definition>звук капающей воды</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L342774">
+      <Lemma writtenForm="двенадцать" partOfSpeech="numeral"/>
+      <Sense id="L342774-S1" synset="wikidata-ru-L342774-S1" ili="wikidata-ru-L342774-S1">
+        <Definition>натуральное число</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348649">
+      <Lemma writtenForm="ноль" partOfSpeech="numeral"/>
+      <Sense id="L348649-S1" synset="wikidata-ru-L348649-S1" ili="wikidata-ru-L348649-S1">
+        <Definition>число</Definition>
+      </Sense>
+      <Sense id="L348649-S2" synset="wikidata-ru-L348649-S2" ili="wikidata-ru-L348649-S2">
+        <Definition>полное ничто</Definition>
+      </Sense>
+      <Sense id="L348649-S3" synset="wikidata-ru-L348649-S3" ili="wikidata-ru-L348649-S3">
+        <Definition>цифра</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348955">
+      <Lemma writtenForm="третий" partOfSpeech="numeral"/>
+      <Sense id="L348955-S1" synset="wikidata-ru-L348955-S1" ili="wikidata-ru-L348955-S1">
+        <Definition>порядковое прилагательное, третий по порядку</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L409439">
+      <Lemma writtenForm="к" partOfSpeech="preposition"/>
+      <Sense id="L409439-S1" synset="wikidata-ru-L409439-S1" ili="wikidata-ru-L409439-S1">
+        <Definition>по направлению к, соприкасаясь с</Definition>
+      </Sense>
+      <Sense id="L409439-S2" synset="wikidata-ru-L409439-S2" ili="wikidata-ru-L409439-S2">
+        <Definition>обозначение принадлежности</Definition>
+      </Sense>
+      <Sense id="L409439-S3" synset="wikidata-ru-L409439-S3" ili="wikidata-ru-L409439-S3">
+        <Definition>до момента</Definition>
+      </Sense>
+      <Sense id="L409439-S4" synset="wikidata-ru-L409439-S4" ili="wikidata-ru-L409439-S4">
+        <Definition>обозначение цели</Definition>
+      </Sense>
+      <Sense id="L409439-S5" synset="wikidata-ru-L409439-S5" ili="wikidata-ru-L409439-S5">
+        <Definition>по отношению к</Definition>
+      </Sense>
+      <Sense id="L409439-S6" synset="wikidata-ru-L409439-S6" ili="wikidata-ru-L409439-S6">
+        <Definition>обозначение следствия</Definition>
+      </Sense>
+      <Sense id="L409439-S7" synset="wikidata-ru-L409439-S7" ili="wikidata-ru-L409439-S7">
+        <Definition>в вводных словосочетаниях: к счастью, к несчастью, к сожалению</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470665">
+      <Lemma writtenForm="Северный Ледовитый океан" partOfSpeech="phraseme"/>
+      <Sense id="L470665-S1" synset="wikidata-ru-L470665-S1" ili="wikidata-ru-L470665-S1">
+        <Definition>океан на Земле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470674">
+      <Lemma writtenForm="Южный океан" partOfSpeech="phraseme"/>
+      <Sense id="L470674-S1" synset="wikidata-ru-L470674-S1" ili="wikidata-ru-L470674-S1">
+        <Definition>океан на Земле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L525260">
+      <Lemma writtenForm="ли" partOfSpeech="grammatical particle"/>
+      <Sense id="L525260-S1" synset="wikidata-ru-L525260-S1" ili="wikidata-ru-L525260-S1">
+        <Definition>вопросительная частица</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L565862">
+      <Lemma writtenForm="также" partOfSpeech="conjunction"/>
+      <Sense id="L565862-S1" synset="wikidata-ru-L565862-S1" ili="wikidata-ru-L565862-S1">
+        <Definition>равным образом, в равной мере</Definition>
+      </Sense>
+      <Sense id="L565862-S2" synset="wikidata-ru-L565862-S2" ili="wikidata-ru-L565862-S2">
+        <Definition>в сочет с &quot;а&quot;, &quot;но&quot;, &quot;и&quot;  — образует сложные союзы с присоединительным значением</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578639">
+      <Lemma writtenForm="весь" partOfSpeech="pronominal adverb"/>
+      <Sense id="L578639-S1" synset="wikidata-ru-L578639-S1" ili="wikidata-ru-L578639-S1">
+        <Definition>целый, полный, без исключений</Definition>
+      </Sense>
+      <Sense id="L578639-S2" synset="wikidata-ru-L578639-S2" ili="wikidata-ru-L578639-S2">
+        <Definition>совершенно, целиком</Definition>
+      </Sense>
+      <Sense id="L578639-S3" synset="wikidata-ru-L578639-S3" ili="wikidata-ru-L578639-S3">
+        <Definition>(израсходовалось, кончилось) совсем</Definition>
+      </Sense>
+      <Sense id="L578639-S4" synset="wikidata-ru-L578639-S4" ili="wikidata-ru-L578639-S4">
+        <Definition>всё, что есть, целиком, без исключений</Definition>
+      </Sense>
+      <Sense id="L578639-S5" synset="wikidata-ru-L578639-S5" ili="wikidata-ru-L578639-S5">
+        <Definition>в сочетании со сравн. ст. прил. или нареч. образует превосходную степень</Definition>
+      </Sense>
+      <Sense id="L578639-S6" synset="wikidata-ru-L578639-S6" ili="wikidata-ru-L578639-S6">
+        <Definition>в полном составе, без исключения (о людях)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579902">
+      <Lemma writtenForm="этот" partOfSpeech="pro-form"/>
+      <Sense id="L579902-S1" synset="wikidata-ru-L579902-S1" ili="wikidata-ru-L579902-S1">
+        <Definition>данный, находящийся здесь, близко к говорящему или слушающему</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708172">
+      <Lemma writtenForm="через" partOfSpeech="preposition"/>
+      <Sense id="L708172-S1" synset="wikidata-ru-L708172-S1" ili="wikidata-ru-L708172-S1">
+        <Definition>сквозь, поперёк</Definition>
+      </Sense>
+      <Sense id="L708172-S2" synset="wikidata-ru-L708172-S2" ili="wikidata-ru-L708172-S2">
+        <Definition>поверх</Definition>
+      </Sense>
+      <Sense id="L708172-S3" synset="wikidata-ru-L708172-S3" ili="wikidata-ru-L708172-S3">
+        <Definition>по истечении времени</Definition>
+      </Sense>
+      <Sense id="L708172-S4" synset="wikidata-ru-L708172-S4" ili="wikidata-ru-L708172-S4">
+        <Definition>с помощью, посредством</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708173">
+      <Lemma writtenForm="затем" partOfSpeech="conjunction"/>
+      <Sense id="L708173-S1" synset="wikidata-ru-L708173-S1" ili="wikidata-ru-L708173-S1">
+        <Definition>после этого, потом</Definition>
+      </Sense>
+      <Sense id="L708173-S2" synset="wikidata-ru-L708173-S2" ili="wikidata-ru-L708173-S2">
+        <Definition>с этой целью</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1353377">
+      <Lemma writtenForm="ещё" partOfSpeech="conjunction"/>
+      <Sense id="L1353377-S1" synset="wikidata-ru-L1353377-S1" ili="wikidata-ru-L1353377-S1">
+        <Definition>в какой-то мере, хоть</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370759">
+      <Lemma writtenForm="над" partOfSpeech="preposition"/>
+      <Sense id="L1370759-S1" synset="wikidata-ru-L1370759-S1" ili="wikidata-ru-L1370759-S1">
+        <Definition>пространственное отношение - свыше, поверх</Definition>
+      </Sense>
+      <Sense id="L1370759-S2" synset="wikidata-ru-L1370759-S2" ili="wikidata-ru-L1370759-S2">
+        <Definition>обозначает направленность, нацеленность соответствующего действия на какой-то объект</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1379510">
+      <Lemma writtenForm="до" partOfSpeech="preposition"/>
+      <Sense id="L1379510-S1" synset="wikidata-ru-L1379510-S1" ili="wikidata-ru-L1379510-S1">
+        <Definition>употребляется для указания на расстояние между какими-нибудь пунктами, отделяющее один пункт от другого, на промежуток времени, отделяющий одно событие от другого или какое-нибудь событие от какого-нибудь момента</Definition>
+      </Sense>
+      <Sense id="L1379510-S2" synset="wikidata-ru-L1379510-S2" ili="wikidata-ru-L1379510-S2">
+        <Definition>употребляется для указания на пространственный предел чего-нибудь, на временный предел какого-нибудь действия</Definition>
+      </Sense>
+      <Sense id="L1379510-S3" synset="wikidata-ru-L1379510-S3" ili="wikidata-ru-L1379510-S3">
+        <Definition>прежде, раньше чего-нибудь / кого-нибудь</Definition>
+        <SenseRelation relType="similar" target="wikidata-ru-L1379504-S1"/>
+        <SenseRelation relType="similar" target="wikidata-ru-L1379504-S2"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L565042-S1"/>
+        <SenseRelation relType="antonym" target="wikidata-ru-L565042-S2"/>
+      </Sense>
+      <Sense id="L1379510-S4" synset="wikidata-ru-L1379510-S4" ili="wikidata-ru-L1379510-S4">
+        <Definition>употребляется для указания предела, степени какого-нибудь качества, действия</Definition>
+      </Sense>
+      <Sense id="L1379510-S5" synset="wikidata-ru-L1379510-S5" ili="wikidata-ru-L1379510-S5">
+        <Definition>употребляется для указания на какой-нибудь предел, как результат действия.</Definition>
+      </Sense>
+      <Sense id="L1379510-S6" synset="wikidata-ru-L1379510-S6" ili="wikidata-ru-L1379510-S6">
+        <Definition>употребляется для указания на количественный предел чего-нибудь</Definition>
+      </Sense>
+      <Sense id="L1379510-S7" synset="wikidata-ru-L1379510-S7" ili="wikidata-ru-L1379510-S7">
+        <Definition>указывает на кого-что-нибудь, в чем существует нужда, интерес, стремление</Definition>
+      </Sense>
+      <Sense id="L1379510-S8" synset="wikidata-ru-L1379510-S8" ili="wikidata-ru-L1379510-S8">
+        <Definition>употребляется для указания предметов, лиц, к к-рым имеется склонность, тяготение</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ru-L2124-S1" ili="wikidata-ru-L2124-S1">
+      <Definition>звук, издаваемый кукушкой</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L32930-S1" ili="wikidata-ru-L32930-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L32930-S2" ili="wikidata-ru-L32930-S2">
+      <Definition>цифра</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L59524-S1" ili="wikidata-ru-L59524-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1">
+      <Definition>помещённый внутрь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L183954-S2" ili="wikidata-ru-L183954-S2">
+      <Definition>имеющийся, содержащийся в ком-либо, чём-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L183954-S3" ili="wikidata-ru-L183954-S3">
+      <Definition>законченный, завершённый</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L238481-S1" ili="wikidata-ru-L238481-S1">
+      <Definition>указывает на объект рядом</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L238481-S2" ili="wikidata-ru-L238481-S2">
+      <Definition>указывает на приблизительное значение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245946-S1" ili="wikidata-ru-L245946-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245947-S1" ili="wikidata-ru-L245947-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L346749-S1" ili="wikidata-ru-L346749-S1">
+      <Definition>холодно</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L391713-S1" ili="wikidata-ru-L391713-S1">
+      <Definition>обозначает начальную точку движения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S1" ili="wikidata-ru-L409412-S1">
+      <Definition>указывает предмет, на поверхности которого происходит действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S2" ili="wikidata-ru-L409412-S2">
+      <Definition>указывает место или пространство, в пределах которого совершается действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S3" ili="wikidata-ru-L409412-S3">
+      <Definition>до (указывает на предмет, являющийся границей или пределом распространения действия)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S4" ili="wikidata-ru-L409412-S4">
+      <Definition>указывает предмет, на который направлено или обращено действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S5" ili="wikidata-ru-L409412-S5">
+      <Definition>указывает лицо или предмет, о которых думают, тоскуют, скорбят и т. п.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S6" ili="wikidata-ru-L409412-S6">
+      <Definition>из-за какой-либо причины (указывает на причину, источник чего-либо)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S7" ili="wikidata-ru-L409412-S7">
+      <Definition>после (указывает на временную или пространственную границу)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409412-S8" ili="wikidata-ru-L409412-S8">
+      <Definition>указывает на предмет, на который распространяется работа, влияние, действие, деятельность и т. п. субъекта</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447101-S1" ili="wikidata-ru-L447101-S1">
+      <Definition>подчёркивает высокую степень проявления признака, указывая на лицо, предмет, действие и прочее, на которые распространяется данный признак вопреки ожиданиям</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447101-S2" ili="wikidata-ru-L447101-S2">
+      <Definition>выделяет слово, которое свидетельствует об интенсивности какого-либо действия, состояния</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447101-S3" ili="wikidata-ru-L447101-S3">
+      <Definition>усиливает, эмоционально выделяет, подчёркивает следующее за ним слово</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447101-S4" ili="wikidata-ru-L447101-S4">
+      <Definition>подчёркивает, что действие или предмет вполне соответствуют чему-либо предварительно упомянутому</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470666-S1" ili="wikidata-ru-L470666-S1">
+      <Definition>океан на Земле</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L528356-S1" ili="wikidata-ru-L528356-S1">
+      <Definition>предупреждение об опасности</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S1" ili="wikidata-ru-L561182-S1">
+      <Definition>место позади</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S2" ili="wikidata-ru-L561182-S2">
+      <Definition>направление позади</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S3" ili="wikidata-ru-L561182-S3">
+      <Definition>место рядом с предметом, имеющим функциональное назначение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S4" ili="wikidata-ru-L561182-S4">
+      <Definition>направление на место рядом с предметом, имеющим функциональное назначение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S5" ili="wikidata-ru-L561182-S5">
+      <Definition>за пределы чего направлено действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S6" ili="wikidata-ru-L561182-S6">
+      <Definition>на расстоянии</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S7" ili="wikidata-ru-L561182-S7">
+      <Definition>в течение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S8" ili="wikidata-ru-L561182-S8">
+      <Definition>интервал времени до</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S9" ili="wikidata-ru-L561182-S9">
+      <Definition>указывает предмет, за который кусают или хватают</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S10" ili="wikidata-ru-L561182-S10">
+      <Definition>лицо или предмет, который вызывает чувство</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S11" ili="wikidata-ru-L561182-S11">
+      <Definition>указание на цель</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S12" ili="wikidata-ru-L561182-S12">
+      <Definition>указание предмета в обмен на что</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S13" ili="wikidata-ru-L561182-S13">
+      <Definition>лицо, от имени которого совершается действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S14" ili="wikidata-ru-L561182-S14">
+      <Definition>в качестве, заместо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S15" ili="wikidata-ru-L561182-S15">
+      <Definition>благотворствовать, быть в согласии</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S16" ili="wikidata-ru-L561182-S16">
+      <Definition>за пределами, дальше</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S17" ili="wikidata-ru-L561182-S17">
+      <Definition>после</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S18" ili="wikidata-ru-L561182-S18">
+      <Definition>во время</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L561182-S19" ili="wikidata-ru-L561182-S19">
+      <Definition>указание на цель или причину, из-за</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L625206-S1" ili="wikidata-ru-L625206-S1">
+      <Definition>календарная дата - первая в году</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L625206-S2" ili="wikidata-ru-L625206-S2">
+      <Definition>праздник начала года</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L679894-S1" ili="wikidata-ru-L679894-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L679898-S1" ili="wikidata-ru-L679898-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741187-S1" ili="wikidata-ru-L741187-S1">
+      <Definition>выражает приказ, требование</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1373410-S1" ili="wikidata-ru-L1373410-S1">
+      <Definition>обозначает действие, направленное на самого актора</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1398984-S1" ili="wikidata-ru-L1398984-S1">
+      <Definition>деепричастие от «рассказывать»</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2108-S1" ili="l1385-s1">
+      <Definition>соединительный союз</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2108-S3" ili="wikidata-ru-L2108-S3">
+      <Definition>логическая операция</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S1" ili="l2987-s1">
+      <Definition>внутрь (о направлении)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S2" ili="l2987-s2">
+      <Definition>внутри (о местонахождении)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S3" ili="wikidata-ru-L2109-S3">
+      <Definition>конечная точка движения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S4" ili="wikidata-ru-L2109-S4">
+      <Definition>на поверхность</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S5" ili="wikidata-ru-L2109-S5">
+      <Definition>через, сквозь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S6" ili="wikidata-ru-L2109-S6">
+      <Definition>похожий на</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S7" ili="wikidata-ru-L2109-S7">
+      <Definition>имеющий силу</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S8" ili="wikidata-ru-L2109-S8">
+      <Definition>с целью</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S9" ili="wikidata-ru-L2109-S9">
+      <Definition>при указании на внешний признак</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S10" ili="wikidata-ru-L2109-S10">
+      <Definition>способ действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S11" ili="wikidata-ru-L2109-S11">
+      <Definition>при указании на группу лиц или деятельность</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S12" ili="wikidata-ru-L2109-S12">
+      <Definition>при указании на результат превращения лица или предмета</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S13" ili="wikidata-ru-L2109-S13">
+      <Definition>при указании на внутреннее состояние</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S14" ili="wikidata-ru-L2109-S14">
+      <Definition>время совершения действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S15" ili="wikidata-ru-L2109-S15">
+      <Definition>на расстоянии</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S16" ili="wikidata-ru-L2109-S16">
+      <Definition>одетый или обутый во что-либо, измазанный чем-либо и т. п.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S17" ili="wikidata-ru-L2109-S17">
+      <Definition>вид деятельности</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S18" ili="wikidata-ru-L2109-S18">
+      <Definition>конкретное время или период</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S19" ili="wikidata-ru-L2109-S19">
+      <Definition>внутреннее состояние субъекта или отношение субъектов</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S20" ili="wikidata-ru-L2109-S20">
+      <Definition>область применения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S21" ili="wikidata-ru-L2109-S21">
+      <Definition>для</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2109-S22" ili="wikidata-ru-L2109-S22">
+      <Definition>в конструкциях вида &quot;Х в Х&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2122-S1" ili="wikidata-ru-L2122-S1">
+      <Definition>сопутствующее действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245943-S1" ili="wikidata-ru-L245943-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409420-S1" ili="wikidata-ru-L409420-S1">
+      <Definition>употребляется как вопросительный отклик, ответ на обращение или при переспросе нерасслышанного</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409420-S2" ili="wikidata-ru-L409420-S2">
+      <Definition>выражает удивление, недоумение, возмущение, негодование, насмешку, иронию, раздражение, упрёк и т. п.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409420-S3" ili="wikidata-ru-L409420-S3">
+      <Definition>употребляется для усиления вопроса (в том числе риторического)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409420-S4" ili="wikidata-ru-L409420-S4">
+      <Definition>народно-поэтическое; употребляется в начале стиха</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409467-S1" ili="wikidata-ru-L409467-S1">
+      <Definition>тот предмет, человек и т. п.; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным м. р. ед. ч.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409467-S2" ili="wikidata-ru-L409467-S2">
+      <Definition>местоимение третьего лица</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447104-S1" ili="wikidata-ru-L447104-S1">
+      <Definition>выражает несогласие со словами собеседника, возражение ему, увещание</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447104-S2" ili="wikidata-ru-L447104-S2">
+      <Definition>подчёркивает высокую степень, величину чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447105-S1" ili="wikidata-ru-L447105-S1">
+      <Definition>русская буква</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L448556-S1" ili="wikidata-ru-L448556-S1">
+      <Definition>употребляется при выражении эмоций</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470667-S1" ili="wikidata-ru-L470667-S1">
+      <Definition>океан на Земле</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L524571-S1" ili="wikidata-ru-L524571-S1">
+      <Definition>за вычетом, вычтя</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L524571-S2" ili="wikidata-ru-L524571-S2">
+      <Definition>меньше, ниже ноля</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L524571-S3" ili="wikidata-ru-L524571-S3">
+      <Definition>символ, используемый в математике</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582437-S1" ili="wikidata-ru-L582437-S1">
+      <Definition>это лицо женского пола или этот объект, ассоциируемый с женским родом; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным женского рода</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1">
+      <Definition>принадлежащий или относящийся к тому, что выражено третьим лицом женского рода</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S1" ili="wikidata-ru-L583362-S1">
+      <Definition>утвердительная частица для ответа</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S2" ili="wikidata-ru-L583362-S2">
+      <Definition>внутри речи для подчёркивания</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S3" ili="wikidata-ru-L583362-S3">
+      <Definition>в начале повествовательного предложения, глубокомысленно</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S4" ili="wikidata-ru-L583362-S4">
+      <Definition>в начале предложения, когда неожиданно вспомнилось</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S5" ili="wikidata-ru-L583362-S5">
+      <Definition>в качестве недоверия, возражения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S6" ili="wikidata-ru-L583362-S6">
+      <Definition>в конце вопроса для побуждения к ответу</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S7" ili="wikidata-ru-L583362-S7">
+      <Definition>как отклик на обращение или телефонный вызов</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L583362-S8" ili="wikidata-ru-L583362-S8">
+      <Definition>восклицательно-вопросительная реплика для выражения удивления, недоверия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L994333-S1" ili="wikidata-ru-L994333-S1">
+      <Definition>данный, находящийся там, далеко от говорящего</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L994333-S2" ili="wikidata-ru-L994333-S2">
+      <Definition>указывает на какой-л. предмет, лицо, выделяемые из ряда других</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L994333-S3" ili="wikidata-ru-L994333-S3">
+      <Definition>указывает на уже упоминавшееся в речи и уже известное</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L994333-S4" ili="wikidata-ru-L994333-S4">
+      <Definition>такой, который нужен или должен быть</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L997457-S1" ili="wikidata-ru-L997457-S1">
+      <Definition>внутри, в пределах</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L997457-S2" ili="wikidata-ru-L997457-S2">
+      <Definition>между началом и концом</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L997457-S3" ili="wikidata-ru-L997457-S3">
+      <Definition>в составе какого-то множества, в окружении других</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2110-S1" ili="wikidata-ru-L2110-S1">
+      <Definition>добавляется для отрицания слова</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2110-S2" ili="wikidata-ru-L2110-S2">
+      <Definition>применяется для придания неопределённости или предположительности</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2110-S3" ili="wikidata-ru-L2110-S3">
+      <Definition>применяется для указания неполноты действия или состояния</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2110-S4" ili="wikidata-ru-L2110-S4">
+      <Definition>применяется для указания ограниченного утверждения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2110-S5" ili="wikidata-ru-L2110-S5">
+      <Definition>применяется для указания утвердительности</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2115-S1" ili="wikidata-ru-L2115-S1">
+      <Definition>употребляется как категорическое решение окончить, прекратить, завершить что-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2115-S2" ili="wikidata-ru-L2115-S2">
+      <Definition> употребляется как констатация чьей-то наступившей кончины; умер, скончался </Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245941-S1" ili="wikidata-ru-L245941-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S1" ili="wikidata-ru-L409413-S1">
+      <Definition>употребляется для формирования вопроса, с помощью которого говорящий хочет получить информацию о предмете, признаке, действии</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S2" ili="wikidata-ru-L409413-S2">
+      <Definition>употребляется для формирования вопроса о состоянии, положении и т. п. кого-, чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S3" ili="wikidata-ru-L409413-S3">
+      <Definition>употребляется для формирования вопроса о причине действия; почему</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S4" ili="wikidata-ru-L409413-S4">
+      <Definition>употребляется для формирования вопроса о цели действия; зачем</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S5" ili="wikidata-ru-L409413-S5">
+      <Definition>употребляется для формирования вопроса о количестве; сколько</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S6" ili="wikidata-ru-L409413-S6">
+      <Definition>употребляется для формирования риторических вопросов и восклицательных предложений, в которых указывается на несущественность, неважность чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S7" ili="wikidata-ru-L409413-S7">
+      <Definition>всё без исключения, очень многое (в риторических вопросах и восклицательных предложениях с отрицанием)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S8" ili="wikidata-ru-L409413-S8">
+      <Definition>неизвестный говорящему или безразлично какой для него объект; что-нибудь, что-то</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409413-S9" ili="wikidata-ru-L409413-S9">
+      <Definition>употребляется для присоединения придаточного предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447749-S1" ili="wikidata-ru-L447749-S1">
+      <Definition>то же, что каким образом</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447749-S2" ili="wikidata-ru-L447749-S2">
+      <Definition>то же, что словно, будто</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447749-S3" ili="wikidata-ru-L447749-S3">
+      <Definition>то же, что в качестве</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447749-S4" ili="wikidata-ru-L447749-S4">
+      <Definition>то же что так как</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447749-S5" ili="wikidata-ru-L447749-S5">
+      <Definition>указывает на признак или действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470729-S1" ili="wikidata-ru-L470729-S1">
+      <Definition>новый вид на территории</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L528355-S1" ili="wikidata-ru-L528355-S1">
+      <Definition>выражение одобрения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L528355-S2" ili="wikidata-ru-L528355-S2">
+      <Definition>оценка ситуации как ужасной</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L592368-S1" ili="wikidata-ru-L592368-S1">
+      <Definition>слово приветствия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L618161-S1" ili="wikidata-ru-L618161-S1">
+      <Definition>выражает сильное удивление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L700615-S1" ili="wikidata-ru-L700615-S1">
+      <Definition>часть союза &quot;если...то&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L700615-S2" ili="wikidata-ru-L700615-S2">
+      <Definition>используется для чередования перечисляемых объектов или действий</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L701179-S1" ili="wikidata-ru-L701179-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L701187-S1" ili="wikidata-ru-L701187-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L704541-S1" ili="wikidata-ru-L704541-S1">
+      <Definition>команда прекратить движение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741202-S1" ili="wikidata-ru-L741202-S1">
+      <Definition>выражение несогласия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379504-S1" ili="wikidata-ru-L1379504-S1">
+      <Definition>до чего-нибудь, раньше чего-нибудь, за какое-нибудь время до чего-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379504-S2" ili="wikidata-ru-L1379504-S2">
+      <Definition>впереди, раньше кого-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2123-S1" ili="wikidata-ru-L2123-S1">
+      <Definition>звук, издаваемый кошкой</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S1" ili="wikidata-ru-L301818-S1">
+      <Definition>находясь ниже</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S2" ili="wikidata-ru-L301818-S2">
+      <Definition>в окрестности, недалеко</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S3" ili="wikidata-ru-L301818-S3">
+      <Definition>в зоне или периоде действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S4" ili="wikidata-ru-L301818-S4">
+      <Definition>приблизительно, ненамного меньше</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S5" ili="wikidata-ru-L301818-S5">
+      <Definition>незадолго до времени</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S6" ili="wikidata-ru-L301818-S6">
+      <Definition>указывает на предмет, для хранения, размещения, нахождения которого что-либо предназначено, используется</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S7" ili="wikidata-ru-L301818-S7">
+      <Definition>имитируя что-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S8" ili="wikidata-ru-L301818-S8">
+      <Definition>на фоне</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L301818-S9" ili="wikidata-ru-L301818-S9">
+      <Definition>указывает на непрямое, наклонное направление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S1" ili="wikidata-ru-L409332-S1">
+      <Definition>поверх, над</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S2" ili="wikidata-ru-L409332-S2">
+      <Definition>указывает объект или цель действия, движения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S3" ili="wikidata-ru-L409332-S3">
+      <Definition>(с некоторыми объектами) при указании направления</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S4" ili="wikidata-ru-L409332-S4">
+      <Definition>указание количества</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S5" ili="wikidata-ru-L409332-S5">
+      <Definition>при указании клиента, заказчика</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S6" ili="wikidata-ru-L409332-S6">
+      <Definition>объект действия, распространения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S7" ili="wikidata-ru-L409332-S7">
+      <Definition>указывает источник финансирования</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S8" ili="wikidata-ru-L409332-S8">
+      <Definition>(с некоторыми объектами) при указании места</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S9" ili="wikidata-ru-L409332-S9">
+      <Definition>указывает на объект, являющийся основой, важной составляющей какой-либо системы или субстанции</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S10" ili="wikidata-ru-L409332-S10">
+      <Definition>при указании времени</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S11" ili="wikidata-ru-L409332-S11">
+      <Definition>в сочетаниях вида Х на Х</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S12" ili="wikidata-ru-L409332-S12">
+      <Definition>употребляется при обозначении орудия или средства или орудия действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S13" ili="wikidata-ru-L409332-S13">
+      <Definition>при указании на средство, с помощью которого кто-, что-л. работает, действует, что-л. делается, производится</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409332-S14" ili="wikidata-ru-L409332-S14">
+      <Definition>при указании на средство, с помощью которого кто-, что-л. работает, действует, что-л. делается, производится</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409416-S1" ili="wikidata-ru-L409416-S1">
+      <Definition>изъяснительный; употребляется для присоединения придаточного предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409416-S2" ili="wikidata-ru-L409416-S2">
+      <Definition>употребляется для присоединения сравнительных оборотов</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409416-S3" ili="wikidata-ru-L409416-S3">
+      <Definition>употребляется для присоединения придаточного предложения, называющего явление, событие, факт и т. п., которые служат достаточным основанием для предположения или утверждения, излагаемых в главном предложении, одновременно выступая в качестве следствия по отношению к ним</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409416-S4" ili="wikidata-ru-L409416-S4">
+      <Definition>употребляется для присоединения придаточного предложения, действие которого происходит одновременно с действием главного предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S1" ili="wikidata-ru-L409443-S1">
+      <Definition>обозначение исходной точки передвижения предмета или информации</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S2" ili="wikidata-ru-L409443-S2">
+      <Definition>обозначение положения точки в пространстве по сравнению с исходной</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S3" ili="wikidata-ru-L409443-S3">
+      <Definition>в соединении с предлогом до (от — до) и другим существительным употребляется при обозначении границ какой-либо части пространства, протяжённости чего-либо, расстояния и т. п.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S4" ili="wikidata-ru-L409443-S4">
+      <Definition>обозначение момента времени, даты</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S5" ili="wikidata-ru-L409443-S5">
+      <Definition>в соединении с предлогом до (от — до) и другим существительным употребляется при обозначении границ какого-либо отрезка времени, периода</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S6" ili="wikidata-ru-L409443-S6">
+      <Definition>в соединении с числительным и предлогом до с другим числительным употребляется при обозначении величин, ограничивающих что-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S7" ili="wikidata-ru-L409443-S7">
+      <Definition>в соединении с предлогом до (от — до) и другим существительным или прилагательным употребляется при указании на полный охват всех предметов, свойств и т. п., начиная с данного и кончая каким-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S8" ili="wikidata-ru-L409443-S8">
+      <Definition>обозначение причины</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S9" ili="wikidata-ru-L409443-S9">
+      <Definition>обозначение средства против чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S10" ili="wikidata-ru-L409443-S10">
+      <Definition>обозначение соотношения части и целого</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S11" ili="wikidata-ru-L409443-S11">
+      <Definition>обозначение принадлежности продукта к производителю</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409443-S12" ili="wikidata-ru-L409443-S12">
+      <Definition>обозначение характера действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447102-S1" ili="wikidata-ru-L447102-S1">
+      <Definition>частица, используемая при выделении или при усилении значения слова или словосочетания, к которым относится</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L468160-S1" ili="wikidata-ru-L468160-S1">
+      <Definition>болезнь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470651-S1" ili="wikidata-ru-L470651-S1">
+      <Definition>падение концентрации озона</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470663-S1" ili="wikidata-ru-L470663-S1">
+      <Definition>поток заряженных частиц</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470717-S1" ili="wikidata-ru-L470717-S1">
+      <Definition>тёмная область на Солнце</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L476293-S1" ili="wikidata-ru-L476293-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579894-S1" ili="wikidata-ru-L579894-S1">
+      <Definition>употребляется при соотнесении однородных членов предложения или целых предложений (по значению взаимоисключающих или заменяющих друг друга), указывая на необходимость выбора между ними</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579894-S2" ili="wikidata-ru-L579894-S2">
+      <Definition>употребляется при введении слов и предложений, имеющих пояснительный характер, соответствуя по значению словам: то есть, иначе, иначе говоря</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579894-S3" ili="wikidata-ru-L579894-S3">
+      <Definition>употребляется при введении вставной конструкции, вводного предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579894-S4" ili="wikidata-ru-L579894-S4">
+      <Definition>употребляется при присоединении последнего члена перечисления, соответствуя по значению слов: и, а также</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579894-S5" ili="wikidata-ru-L579894-S5">
+      <Definition>употребляется при присоединении предложений, дополняющих предыдущее высказывание</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L640808-S1" ili="wikidata-ru-L640808-S1">
+      <Definition>продукт питания пчёл</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S1" ili="wikidata-ru-L708171-S1">
+      <Definition>нахождение чего-либо в пространстве, ограниченном двумя или несколькими объектами</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S2" ili="wikidata-ru-L708171-S2">
+      <Definition>указание на связь двух точек или двух предметов в пространстве: от … до …</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S3" ili="wikidata-ru-L708171-S3">
+      <Definition>обозначение промежутка времени, в который что-либо совершается</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S4" ili="wikidata-ru-L708171-S4">
+      <Definition>обозначение взаимосвязанных лиц (предметов или явлений)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S5" ili="wikidata-ru-L708171-S5">
+      <Definition>обозначение сравниваемых лиц (предметов или явлений)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S6" ili="wikidata-ru-L708171-S6">
+      <Definition>обозначение группы предметов, явлений, лиц, в пределах которой совершается распределение, разделение чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S7" ili="wikidata-ru-L708171-S7">
+      <Definition>в ситуации выбора: =из</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708171-S8" ili="wikidata-ru-L708171-S8">
+      <Definition>положение предмета среди других предметов; среди</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1144001-S1" ili="wikidata-ru-L1144001-S1">
+      <Definition>выражает сильную эмоцию</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353375-S1" ili="wikidata-ru-L1353375-S1">
+      <Definition>усилительная частица</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S1" ili="wikidata-ru-L1450783-S1">
+      <Definition>указывает на объект глагола: предмет, на который направлена мысль, речь, чувство, действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S2" ili="wikidata-ru-L1450783-S2">
+      <Definition>указывает, что действие одного предмета на другой приводит к их сближению, столкновению, соприкосновению</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S3" ili="wikidata-ru-L1450783-S3">
+      <Definition>указывает, что что-либо находятся рядом, вплотную с чем-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S4" ili="wikidata-ru-L1450783-S4">
+      <Definition>указывает место</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S5" ili="wikidata-ru-L1450783-S5">
+      <Definition>при обозначении времени, около которого или в пределах которого происходит действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S6" ili="wikidata-ru-L1450783-S6">
+      <Definition>указаывает на свойство какого-либо предмета, качество, признак</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1450783-S7" ili="wikidata-ru-L1450783-S7">
+      <Definition>при обозначении времени, около которого или в пределах которого происходит действие</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1547808-S1" ili="wikidata-ru-L1547808-S1">
+      <Definition>имеется возможность</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1547808-S2" ili="wikidata-ru-L1547808-S2">
+      <Definition>разрешено, дозволено</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2027-S1" ili="wikidata-ru-L2027-S1">
+      <Definition>местоимение первого лица</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2027-S2" ili="wikidata-ru-L2027-S2">
+      <Definition>личность</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2114-S1" ili="wikidata-ru-L2114-S1">
+      <Definition>употребляется при выражении противопоставления</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2114-S2" ili="wikidata-ru-L2114-S2">
+      <Definition> употребляется при подчёркивании, усилении значения (обычно в сочетании со сравнительной степенью прилагательных или наречий, а также с глаголами, обозначающими увеличение или уменьшение чего-либо)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1">
+      <Definition>о чувстве удовлетворения, удовольствия, радости и т. п., испытываемом кем-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L139473-S1" ili="wikidata-ru-L139473-S1">
+      <Definition>обращение к отцу</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245944-S1" ili="wikidata-ru-L245944-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245945-S1" ili="wikidata-ru-L245945-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L290215-S1" ili="wikidata-ru-L290215-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348650-S1" ili="wikidata-ru-L348650-S1">
+      <Definition>число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348650-S2" ili="wikidata-ru-L348650-S2">
+      <Definition>цифра</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470652-S1" ili="wikidata-ru-L470652-S1">
+      <Definition>падение концентрации озона</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470675-S1" ili="wikidata-ru-L470675-S1">
+      <Definition>океан на Земле</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470735-S1" ili="wikidata-ru-L470735-S1">
+      <Definition>газы, вызывающие парниковый эффект</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L500374-S1" ili="wikidata-ru-L500374-S1">
+      <Definition>противопоставительный союз</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582524-S1" ili="wikidata-ru-L582524-S1">
+      <Definition>указывает на (обычно ранее упомянутые) предметы (лица) во множественном числе, к которым говорящий не относит ни себя, ни адресатов высказывания</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582524-S2" ili="wikidata-ru-L582524-S2">
+      <Definition>именно те, а не другие; те самые</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582524-S3" ili="wikidata-ru-L582524-S3">
+      <Definition>с частицей вот приобретает указательный или усилительный характер</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L582524-S4" ili="wikidata-ru-L582524-S4">
+      <Definition>указывает на одно лицо, используется как уважительная форма называния</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L701178-S1" ili="wikidata-ru-L701178-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L701186-S1" ili="wikidata-ru-L701186-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L704932-S1" ili="wikidata-ru-L704932-S1">
+      <Definition>некоторое небольшое число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L735829-S1" ili="wikidata-ru-L735829-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741186-S1" ili="wikidata-ru-L741186-S1">
+      <Definition>присоединяет придаточное цели</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741186-S2" ili="wikidata-ru-L741186-S2">
+      <Definition>присоединяет придаточное с описанием возможной ситуаци</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1075598-S1" ili="wikidata-ru-L1075598-S1">
+      <Definition>выражает желание, со словом &quot;бы&quot; или &quot;б&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1075598-S2" ili="wikidata-ru-L1075598-S2">
+      <Definition>после вопросительных местоимений и местоименных наречий усиливает их выразительность</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1075598-S3" ili="wikidata-ru-L1075598-S3">
+      <Definition>усиление в риторическом вопросе</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1075598-S4" ili="wikidata-ru-L1075598-S4">
+      <Definition>исключительно</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1075598-S5" ili="wikidata-ru-L1075598-S5">
+      <Definition>выражает математическую необходимость в составе выражений</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1416330-S1" ili="wikidata-ru-L1416330-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245942-S1" ili="wikidata-ru-L245942-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245942-S2" ili="wikidata-ru-L245942-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245948-S1" ili="wikidata-ru-L245948-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409444-S1" ili="wikidata-ru-L409444-S1">
+      <Definition>то же, что вот</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L447103-S1" ili="wikidata-ru-L447103-S1">
+      <Definition>союз, используемый при присоединении целых предложений или отдельных членов предложения, развивающих, дополняющих или уточняющих ранее высказанную мысль</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1160718-S1" ili="wikidata-ru-L1160718-S1">
+      <Definition>выражает сопоставление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1160718-S2" ili="wikidata-ru-L1160718-S2">
+      <Definition>выражает противопоставление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422131-S1" ili="wikidata-ru-L1422131-S1">
+      <Definition>для ограничения, исключения: только, исключительно</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422131-S2" ili="wikidata-ru-L1422131-S2">
+      <Definition>употребляется в предложениях, выражающих пожелание</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S1" ili="wikidata-ru-L1422132-S1">
+      <Definition>для сослагательного наклонения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S2" ili="wikidata-ru-L1422132-S2">
+      <Definition>при обозначении предположительной или условно-предположительной возможности действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S3" ili="wikidata-ru-L1422132-S3">
+      <Definition>при обозначении различных оттенков желаемости действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S4" ili="wikidata-ru-L1422132-S4">
+      <Definition>указывает на вежливо-предупредительное пожелание кому-либо, совет, предложение</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S5" ili="wikidata-ru-L1422132-S5">
+      <Definition>употребляется при выражении опасения по поводу какого-либо нежелательного действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S6" ili="wikidata-ru-L1422132-S6">
+      <Definition>указывает на обусловленность действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422132-S7" ili="wikidata-ru-L1422132-S7">
+      <Definition>указывает на различные оттенки условности, предположительности, желаемости действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422133-S1" ili="wikidata-ru-L1422133-S1">
+      <Definition>употребляется для присоединения предложений или отдельных членов предложений, дополняющих, уточняющих высказанную мысль</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422133-S2" ili="wikidata-ru-L1422133-S2">
+      <Definition>употребляется для присоединения придаточных временных предложений</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422133-S3" ili="wikidata-ru-L1422133-S3">
+      <Definition>для присоединения придаточных предложений цели</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1422133-S4" ili="wikidata-ru-L1422133-S4">
+      <Definition>присоединяет предложение, выражающее пожелание</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L37632-S1" ili="wikidata-ru-L37632-S1">
+      <Definition>большое количество, значительное число кого-либо, чего-либ</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L245949-S1" ili="wikidata-ru-L245949-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L290216-S1" ili="wikidata-ru-L290216-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S1" ili="wikidata-ru-L409334-S1">
+      <Definition>указывает на место или объект, с которого что-либо удаляется, снимается</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S2" ili="wikidata-ru-L409334-S2">
+      <Definition>указывает на место, из которого что-либо исходит</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S3" ili="wikidata-ru-L409334-S3">
+      <Definition>в обозначении интервала или множества указывает на его начальную точку</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S4" ili="wikidata-ru-L409334-S4">
+      <Definition>обозначает совместность, сочетание</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S5" ili="wikidata-ru-L409334-S5">
+      <Definition>обозначает наличие, присутствие кого-нибудь или чего-нибудь, обладание кем-нибудь или чем-нибудь у лица или предмета, производящего какое-нибудь действие или испытывающего какое-нибудь состояние</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S6" ili="wikidata-ru-L409334-S6">
+      <Definition>употребляется для указания на лицо или предмет, наличие, присутствие которого является источником того или иного состояния, испытываемого кем-нибудь или чем-нибудь, или причиной действия, совершаемого кем-нибудь или чем-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S7" ili="wikidata-ru-L409334-S7">
+      <Definition>обозначает приблизительную меру</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S8" ili="wikidata-ru-L409334-S8">
+      <Definition>заменяет предлог из</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409334-S9" ili="wikidata-ru-L409334-S9">
+      <Definition>входит в состав сложных слов в качестве одного из элементов</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409445-S1" ili="wikidata-ru-L409445-S1">
+      <Definition>имея целью сделать что-то такое, что полезно или приятно другому человеку и чего этому человеку нормально хотеть</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409445-S2" ili="wikidata-ru-L409445-S2">
+      <Definition>описывает цель, предназначение чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409445-S3" ili="wikidata-ru-L409445-S3">
+      <Definition>обозначает субъект, на который направлено какое-либо действие или который является адресатом чего-либо либо воспринимает что-то</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409445-S4" ili="wikidata-ru-L409445-S4">
+      <Definition>указывает на сравнение свойств объекта со свойствами класса, к которому этот объект относится</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L448251-S1" ili="wikidata-ru-L448251-S1">
+      <Definition>при обращении к знакомому собеседнику</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L448251-S2" ili="wikidata-ru-L448251-S2">
+      <Definition>местоимение второго лица</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L468164-S1" ili="wikidata-ru-L468164-S1">
+      <Definition>диоксид углерода</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470713-S1" ili="wikidata-ru-L470713-S1">
+      <Definition>атмосферное явление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470727-S1" ili="wikidata-ru-L470727-S1">
+      <Definition>новый вид на территории</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L565042-S1" ili="wikidata-ru-L565042-S1">
+      <Definition>по окончании, позднее чего-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L565042-S2" ili="wikidata-ru-L565042-S2">
+      <Definition>по отъезду, уходу или смерти кого-либо</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L565042-S3" ili="wikidata-ru-L565042-S3">
+      <Definition>следуя за чем-либо в ряду</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579896-S1" ili="wikidata-ru-L579896-S1">
+      <Definition>разве, неужели (употр. в начале предложения с оттенком противопоставления чему-нибудь другому, возможному</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579897-S1" ili="wikidata-ru-L579897-S1">
+      <Definition>употребляется при подчёркивании, выделении того или иного члена предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579897-S2" ili="wikidata-ru-L579897-S2">
+      <Definition>употребляется при усилении значения вопросительного местоимения или наречия, входящего в состав вопросительного предложения</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579897-S3" ili="wikidata-ru-L579897-S3">
+      <Definition>употребляется на границе двух предложений, из которых второе содержит в себе истолкование, разъяснение первого</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579897-S4" ili="wikidata-ru-L579897-S4">
+      <Definition>употребляется при усилении выразительности, значимости всего высказывания или какой-либо его части</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L673489-S1" ili="wikidata-ru-L673489-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L735820-S1" ili="wikidata-ru-L735820-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741198-S1" ili="wikidata-ru-L741198-S1">
+      <Definition>прямо перед кем-либо (чем-либо)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741198-S2" ili="wikidata-ru-L741198-S2">
+      <Definition>навстречу, в обратном, противоположном направлении</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741198-S3" ili="wikidata-ru-L741198-S3">
+      <Definition>вопреки, наперекор кому-либо (чему-либо)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741198-S4" ili="wikidata-ru-L741198-S4">
+      <Definition>для борьбы с кем-либо (чем-либо), противодействия чему-то</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L741198-S5" ili="wikidata-ru-L741198-S5">
+      <Definition>в сравнении, в сопоставлении с кем-либо (чем-либо)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353374-S1" ili="wikidata-ru-L1353374-S1">
+      <Definition>со словами как, лишь, едва в их значении</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353374-S2" ili="wikidata-ru-L1353374-S2">
+      <Definition>сейчас же, как…, сразу после того, как…, в тот момент, как…</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353374-S3" ili="wikidata-ru-L1353374-S3">
+      <Definition>противительный союз, после слов &quot;но, однако, при условии&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353374-S4" ili="wikidata-ru-L1353374-S4">
+      <Definition>противительный союз, со словами а, но, да</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L37633-S1" ili="l2263-s1">
+      <Definition>натуральное число между 999 и 1001, десять сотен</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L37633-S2" ili="wikidata-ru-L37633-S2">
+      <Definition>большое неопределённое кол-во</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L114909-S1" ili="wikidata-ru-L114909-S1">
+      <Definition>звук капающей воды</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L342774-S1" ili="wikidata-ru-L342774-S1">
+      <Definition>натуральное число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348649-S1" ili="wikidata-ru-L348649-S1">
+      <Definition>число</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348649-S2" ili="wikidata-ru-L348649-S2">
+      <Definition>полное ничто</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348649-S3" ili="wikidata-ru-L348649-S3">
+      <Definition>цифра</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L348955-S1" ili="wikidata-ru-L348955-S1">
+      <Definition>порядковое прилагательное, третий по порядку</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S1" ili="wikidata-ru-L409439-S1">
+      <Definition>по направлению к, соприкасаясь с</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S2" ili="wikidata-ru-L409439-S2">
+      <Definition>обозначение принадлежности</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S3" ili="wikidata-ru-L409439-S3">
+      <Definition>до момента</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S4" ili="wikidata-ru-L409439-S4">
+      <Definition>обозначение цели</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S5" ili="wikidata-ru-L409439-S5">
+      <Definition>по отношению к</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S6" ili="wikidata-ru-L409439-S6">
+      <Definition>обозначение следствия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L409439-S7" ili="wikidata-ru-L409439-S7">
+      <Definition>в вводных словосочетаниях: к счастью, к несчастью, к сожалению</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470665-S1" ili="wikidata-ru-L470665-S1">
+      <Definition>океан на Земле</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L470674-S1" ili="wikidata-ru-L470674-S1">
+      <Definition>океан на Земле</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L525260-S1" ili="wikidata-ru-L525260-S1">
+      <Definition>вопросительная частица</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L565862-S1" ili="wikidata-ru-L565862-S1">
+      <Definition>равным образом, в равной мере</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L565862-S2" ili="wikidata-ru-L565862-S2">
+      <Definition>в сочет с &quot;а&quot;, &quot;но&quot;, &quot;и&quot;  — образует сложные союзы с присоединительным значением</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S1" ili="wikidata-ru-L578639-S1">
+      <Definition>целый, полный, без исключений</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S2" ili="wikidata-ru-L578639-S2">
+      <Definition>совершенно, целиком</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S3" ili="wikidata-ru-L578639-S3">
+      <Definition>(израсходовалось, кончилось) совсем</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S4" ili="wikidata-ru-L578639-S4">
+      <Definition>всё, что есть, целиком, без исключений</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S5" ili="wikidata-ru-L578639-S5">
+      <Definition>в сочетании со сравн. ст. прил. или нареч. образует превосходную степень</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L578639-S6" ili="wikidata-ru-L578639-S6">
+      <Definition>в полном составе, без исключения (о людях)</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L579902-S1" ili="wikidata-ru-L579902-S1">
+      <Definition>данный, находящийся здесь, близко к говорящему или слушающему</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708172-S1" ili="wikidata-ru-L708172-S1">
+      <Definition>сквозь, поперёк</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708172-S2" ili="wikidata-ru-L708172-S2">
+      <Definition>поверх</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708172-S3" ili="wikidata-ru-L708172-S3">
+      <Definition>по истечении времени</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708172-S4" ili="wikidata-ru-L708172-S4">
+      <Definition>с помощью, посредством</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708173-S1" ili="wikidata-ru-L708173-S1">
+      <Definition>после этого, потом</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L708173-S2" ili="wikidata-ru-L708173-S2">
+      <Definition>с этой целью</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1353377-S1" ili="wikidata-ru-L1353377-S1">
+      <Definition>в какой-то мере, хоть</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1370759-S1" ili="wikidata-ru-L1370759-S1">
+      <Definition>пространственное отношение - свыше, поверх</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1370759-S2" ili="wikidata-ru-L1370759-S2">
+      <Definition>обозначает направленность, нацеленность соответствующего действия на какой-то объект</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S1" ili="wikidata-ru-L1379510-S1">
+      <Definition>употребляется для указания на расстояние между какими-нибудь пунктами, отделяющее один пункт от другого, на промежуток времени, отделяющий одно событие от другого или какое-нибудь событие от какого-нибудь момента</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S2" ili="wikidata-ru-L1379510-S2">
+      <Definition>употребляется для указания на пространственный предел чего-нибудь, на временный предел какого-нибудь действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S3" ili="wikidata-ru-L1379510-S3">
+      <Definition>прежде, раньше чего-нибудь / кого-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S4" ili="wikidata-ru-L1379510-S4">
+      <Definition>употребляется для указания предела, степени какого-нибудь качества, действия</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S5" ili="wikidata-ru-L1379510-S5">
+      <Definition>употребляется для указания на какой-нибудь предел, как результат действия.</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S6" ili="wikidata-ru-L1379510-S6">
+      <Definition>употребляется для указания на количественный предел чего-нибудь</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S7" ili="wikidata-ru-L1379510-S7">
+      <Definition>указывает на кого-что-нибудь, в чем существует нужда, интерес, стремление</Definition>
+    </Synset>
+    <Synset id="wikidata-ru-L1379510-S8" ili="wikidata-ru-L1379510-S8">
+      <Definition>употребляется для указания предметов, лиц, к к-рым имеется склонность, тяготение</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

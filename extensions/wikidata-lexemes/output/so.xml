@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-so"
+                    label="Wikidata SO Lexemes Extension"
+                    language="so"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-so" version="1.4"/>
+    <LexicalEntry id="L691650">
+      <Lemma writtenForm="kow" partOfSpeech="numeral"/>
+      <Sense id="L691650-S1" synset="wikidata-so-L691650-S1" ili="wikidata-so-L691650-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1329226">
+      <Lemma writtenForm="wallaahi" partOfSpeech="interjection"/>
+      <Sense id="L1329226-S1" synset="wikidata-so-L1329226-S1" ili="wikidata-so-L1329226-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-so-L691650-S1" ili="wikidata-so-L691650-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-so-L1329226-S1" ili="wikidata-so-L1329226-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

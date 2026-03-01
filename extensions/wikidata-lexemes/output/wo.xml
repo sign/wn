@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-wo"
+                    label="Wikidata WO Lexemes Extension"
+                    language="wo"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-wo" version="1.4"/>
+    <LexicalEntry id="L1403739">
+      <Lemma writtenForm="yi" partOfSpeech="definite article"/>
+      <Sense id="L1403739-S1" synset="wikidata-wo-L1403739-S1" ili="wikidata-wo-L1403739-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1403744">
+      <Lemma writtenForm="y" partOfSpeech="linker"/>
+      <Sense id="L1403744-S1" synset="wikidata-wo-L1403744-S1" ili="wikidata-wo-L1403744-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-wo-L1403739-S1" ili="wikidata-wo-L1403739-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-wo-L1403744-S1" ili="wikidata-wo-L1403744-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-hr"
+                    label="Wikidata HR Lexemes Extension"
+                    language="hr"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-hr" version="1.4"/>
+    <LexicalEntry id="L58847">
+      <Lemma writtenForm="i" partOfSpeech="conjunction"/>
+      <Sense id="L58847-S1" synset="wikidata-hr-L58847-S1" ili="l1385-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L641130">
+      <Lemma writtenForm="od" partOfSpeech="preposition"/>
+      <Sense id="L641130-S1" synset="wikidata-hr-L641130-S1" ili="wikidata-hr-L641130-S1">
+        <Definition>priejdlog koji oznakuje početak i drugo</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L641131-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L641131">
+      <Lemma writtenForm="do" partOfSpeech="preposition"/>
+      <Sense id="L641131-S1" synset="wikidata-hr-L641131-S1" ili="wikidata-hr-L641131-S1">
+        <Definition>priejdlog koji oznakuje kraj; i drugo</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L641130-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036129">
+      <Lemma writtenForm="svoj" partOfSpeech="pronoun"/>
+      <Sense id="L1036129-S1" synset="wikidata-hr-L1036129-S1" ili="wikidata-hr-L1036129-S1">
+        <Definition>koji pripada samom sebi; vlastiti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1251795">
+      <Lemma writtenForm="osim" partOfSpeech="conjunction"/>
+      <Sense id="L1251795-S1" synset="wikidata-hr-L1251795-S1" ili="wikidata-hr-L1251795-S1">
+        <Definition>ali ne; bez; ne gledajući iznimku</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184852">
+      <Lemma writtenForm="ja" partOfSpeech="pronoun"/>
+      <Sense id="L184852-S1" synset="wikidata-hr-L184852-S1" ili="wikidata-hr-L184852-S1">
+        <Definition>osobna zamjenica za prvo lice jednine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644027">
+      <Lemma writtenForm="a" partOfSpeech="conjunction"/>
+      <Sense id="L644027-S1" synset="wikidata-hr-L644027-S1" ili="wikidata-hr-L644027-S1">
+        <Definition>veznik za oprečnost, suprotnost, pojačavanje i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692367">
+      <Lemma writtenForm="zbog" partOfSpeech="preposition"/>
+      <Sense id="L692367-S1" synset="wikidata-hr-L692367-S1" ili="wikidata-hr-L692367-S1">
+        <Definition>prijedlog koji oznaćuje uzrok ili narav i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701903">
+      <Lemma writtenForm="oko" partOfSpeech="preposition"/>
+      <Sense id="L701903-S1" synset="wikidata-hr-L701903-S1" ili="wikidata-hr-L701903-S1">
+        <Definition>prijedlog označajući uzrok, zazlog, obuhvačanje, u blizini, priblizno, itd.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736554">
+      <Lemma writtenForm="četrdeset" partOfSpeech="numeral"/>
+      <Sense id="L736554-S1" synset="wikidata-hr-L736554-S1" ili="wikidata-hr-L736554-S1">
+        <Definition>prirodni broj veći od trideset i devet; četiri puta deset; 40</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L746921">
+      <Lemma writtenForm="on / ona / ono" partOfSpeech="pronoun"/>
+      <Sense id="L746921-S1" synset="wikidata-hr-L746921-S1" ili="wikidata-hr-L746921-S1">
+        <Definition>osobna zamjenica za trečo lice jednine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L968821">
+      <Lemma writtenForm="sav" partOfSpeech="pronoun"/>
+      <Sense id="L968821-S1" synset="wikidata-hr-L968821-S1" ili="wikidata-hr-L968821-S1">
+        <Definition>bez iznimke; cio; čitav; kao ukopnost; potpunost</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184859">
+      <Lemma writtenForm="ti" partOfSpeech="pronoun"/>
+      <Sense id="L184859-S1" synset="wikidata-hr-L184859-S1" ili="l482-s1">
+        <Definition>osobna zamjenica za drugo lice jednine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L641758">
+      <Lemma writtenForm="četiri" partOfSpeech="numeral"/>
+      <Sense id="L641758-S1" synset="wikidata-hr-L641758-S1" ili="wikidata-hr-L641758-S1">
+        <Definition>prirodan broj između tri i pet; 4</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680433">
+      <Lemma writtenForm="zašto" partOfSpeech="conjunction"/>
+      <Sense id="L680433-S1" synset="wikidata-hr-L680433-S1" ili="wikidata-hr-L680433-S1">
+        <Definition>veznica koja označuje razlog, uzrok</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700190">
+      <Lemma writtenForm="kako" partOfSpeech="conjunction"/>
+      <Sense id="L700190-S1" synset="wikidata-hr-L700190-S1" ili="wikidata-hr-L700190-S1">
+        <Definition>veznik koji izriče način, izjavu, namjeru</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701283">
+      <Lemma writtenForm="četrnaest" partOfSpeech="numeral"/>
+      <Sense id="L701283-S1" synset="wikidata-hr-L701283-S1" ili="wikidata-hr-L701283-S1">
+        <Definition>prirodni broj između trinaest i petnaest; 14</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701288">
+      <Lemma writtenForm="jedanaest" partOfSpeech="numeral"/>
+      <Sense id="L701288-S1" synset="wikidata-hr-L701288-S1" ili="wikidata-hr-L701288-S1">
+        <Definition>prirodni broj između deset i dvanaest; 11</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701289">
+      <Lemma writtenForm="dvanaest" partOfSpeech="numeral"/>
+      <Sense id="L701289-S1" synset="wikidata-hr-L701289-S1" ili="wikidata-hr-L701289-S1">
+        <Definition>prirodni broj između jedanaest i trinaest; 12</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701290">
+      <Lemma writtenForm="trinaest" partOfSpeech="numeral"/>
+      <Sense id="L701290-S1" synset="wikidata-hr-L701290-S1" ili="wikidata-hr-L701290-S1">
+        <Definition>prirodni broj između dvanaest i četrnaest; 13</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701293">
+      <Lemma writtenForm="dvadeset" partOfSpeech="numeral"/>
+      <Sense id="L701293-S1" synset="wikidata-hr-L701293-S1" ili="wikidata-hr-L701293-S1">
+        <Definition>prirodni broj veći od devetnaest; deset i deset; 20</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L746923">
+      <Lemma writtenForm="oni / one / ona" partOfSpeech="pronoun"/>
+      <Sense id="L746923-S1" synset="wikidata-hr-L746923-S1" ili="wikidata-hr-L746923-S1">
+        <Definition>osobna zamjenica za trečo lice množine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L970710">
+      <Lemma writtenForm="no" partOfSpeech="conjunction"/>
+      <Sense id="L970710-S1" synset="wikidata-hr-L970710-S1" ili="wikidata-hr-L970710-S1">
+        <Definition>nego; od; uspoređujući</Definition>
+      </Sense>
+      <Sense id="L970710-S2" synset="wikidata-hr-L970710-S2" ili="wikidata-hr-L970710-S2">
+        <Definition>ali ne; bez; isključujući</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036359">
+      <Lemma writtenForm="među" partOfSpeech="preposition"/>
+      <Sense id="L1036359-S1" synset="wikidata-hr-L1036359-S1" ili="wikidata-hr-L1036359-S1">
+        <Definition>u prostoru ili vremenu kojo se proteže od jednog do drugog ili kojo dijele dvije ili više; između</Definition>
+        <SenseRelation relType="similar" target="wikidata-hr-L737994-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223252">
+      <Lemma writtenForm="izvan" partOfSpeech="preposition"/>
+      <Sense id="L1223252-S1" synset="wikidata-hr-L1223252-S1" ili="wikidata-hr-L1223252-S1">
+        <Definition>nešto šta nije unutar</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L1223254-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234416">
+      <Lemma writtenForm="prije" partOfSpeech="preposition"/>
+      <Sense id="L1234416-S1" synset="wikidata-hr-L1234416-S1" ili="wikidata-hr-L1234416-S1">
+        <Definition>vremenski ranije nego nešto drugo</Definition>
+      </Sense>
+      <Sense id="L1234416-S2" synset="wikidata-hr-L1234416-S2" ili="wikidata-hr-L1234416-S2">
+        <Definition>nešto po redu ispred drugoga</Definition>
+      </Sense>
+      <Sense id="L1234416-S3" synset="wikidata-hr-L1234416-S3" ili="wikidata-hr-L1234416-S3">
+        <Definition>da se otkas se nešto dogodilo prošlo toliko vremena</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321325">
+      <Lemma writtenForm="e" partOfSpeech="grammatical particle"/>
+      <Sense id="L1321325-S1" synset="wikidata-hr-L1321325-S1" ili="wikidata-hr-L1321325-S1">
+        <Definition>za pojačavanje nekog osjećanja</Definition>
+      </Sense>
+      <Sense id="L1321325-S2" synset="wikidata-hr-L1321325-S2" ili="wikidata-hr-L1321325-S2">
+        <Definition>u situaciji kad se tko čega sjeti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L639554">
+      <Lemma writtenForm="na" partOfSpeech="preposition"/>
+      <Sense id="L639554-S1" synset="wikidata-hr-L639554-S1" ili="wikidata-hr-L639554-S1">
+        <Definition>prijedlog koji oznakuje mjesto gdje se nešto stavlja ili nalazi, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L641757">
+      <Lemma writtenForm="tri" partOfSpeech="numeral"/>
+      <Sense id="L641757-S1" synset="wikidata-hr-L641757-S1" ili="wikidata-hr-L641757-S1">
+        <Definition>prirodan broj između dva i četiri; 3</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646368">
+      <Lemma writtenForm="iz" partOfSpeech="preposition"/>
+      <Sense id="L646368-S1" synset="wikidata-hr-L646368-S1" ili="wikidata-hr-L646368-S1">
+        <Definition>prijedlog koji oznakuje podrjetjlo, uzrok, od unutar čega, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L650605">
+      <Lemma writtenForm="koji" partOfSpeech="pronoun"/>
+      <Sense id="L650605-S1" synset="wikidata-hr-L650605-S1" ili="wikidata-hr-L650605-S1">
+        <Definition>zamjenica</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680452">
+      <Lemma writtenForm="što" partOfSpeech="pronoun"/>
+      <Sense id="L680452-S1" synset="wikidata-hr-L680452-S1" ili="l57-s1">
+        <Definition>upitna riječ za neponzantih stvari ili pojmova</Definition>
+      </Sense>
+      <Sense id="L680452-S2" synset="wikidata-hr-L680452-S2" ili="l3229-s1">
+        <Definition>ovisna riječ; ono kojo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L706595">
+      <Lemma writtenForm="samo" partOfSpeech="grammatical particle"/>
+      <Sense id="L706595-S1" synset="wikidata-hr-L706595-S1" ili="wikidata-hr-L706595-S1">
+        <Definition>jedino, isklučivo, ne više nego</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708002">
+      <Lemma writtenForm="po" partOfSpeech="preposition"/>
+      <Sense id="L708002-S1" synset="wikidata-hr-L708002-S1" ili="wikidata-hr-L708002-S1">
+        <Definition>prijelog koji oznaćuje svrhu, način, uzrok, porijeklo, korist, razdjelenost, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722024">
+      <Lemma writtenForm="dok" partOfSpeech="conjunction"/>
+      <Sense id="L722024-S1" synset="wikidata-hr-L722024-S1" ili="wikidata-hr-L722024-S1">
+        <Definition>označuje istodobnost</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737994">
+      <Lemma writtenForm="između" partOfSpeech="preposition"/>
+      <Sense id="L737994-S1" synset="wikidata-hr-L737994-S1" ili="wikidata-hr-L737994-S1">
+        <Definition>nešto šta se proteže od jednog do drugog</Definition>
+        <SenseRelation relType="similar" target="wikidata-hr-L1036359-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749558">
+      <Lemma writtenForm="mi" partOfSpeech="pronoun"/>
+      <Sense id="L749558-S1" synset="wikidata-hr-L749558-S1" ili="wikidata-hr-L749558-S1">
+        <Definition>zamjenica za skupinu osoba kojoj pripada i osoba koja govori; zamjenica prvo lice množine</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223254">
+      <Lemma writtenForm="unutar" partOfSpeech="preposition"/>
+      <Sense id="L1223254-S1" synset="wikidata-hr-L1223254-S1" ili="wikidata-hr-L1223254-S1">
+        <Definition>nalazi u čemu; ne izvan</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L1223252-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1225513">
+      <Lemma writtenForm="ispod" partOfSpeech="preposition"/>
+      <Sense id="L1225513-S1" synset="wikidata-hr-L1225513-S1" ili="l3370-s1">
+        <Definition>niše nego; prima dolje; manje vrijedno</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L1225514-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234415">
+      <Lemma writtenForm="poslije" partOfSpeech="conjunction"/>
+      <Sense id="L1234415-S1" synset="wikidata-hr-L1234415-S1" ili="wikidata-hr-L1234415-S1">
+        <Definition>nakon; kasnije; nešto šta se dešava bližju ili dublje u budućnost neko nešto drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625540">
+      <Lemma writtenForm="u" partOfSpeech="preposition"/>
+      <Sense id="L625540-S1" synset="wikidata-hr-L625540-S1" ili="wikidata-hr-L625540-S1">
+        <Definition>prijedlog koji oznakuje unutar čega ili prima čemu ili tog čega i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642036">
+      <Lemma writtenForm="za" partOfSpeech="preposition"/>
+      <Sense id="L642036-S1" synset="wikidata-hr-L642036-S1" ili="wikidata-hr-L642036-S1">
+        <Definition>priejdlog koji oznakuje razlog ili blizinu, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701286">
+      <Lemma writtenForm="sedamnaest" partOfSpeech="numeral"/>
+      <Sense id="L701286-S1" synset="wikidata-hr-L701286-S1" ili="wikidata-hr-L701286-S1">
+        <Definition>prirodni broj između šesnaest i osamnaest; 17</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701287">
+      <Lemma writtenForm="osamnaest" partOfSpeech="numeral"/>
+      <Sense id="L701287-S1" synset="wikidata-hr-L701287-S1" ili="wikidata-hr-L701287-S1">
+        <Definition>prirodni broj između sedamnaest i devetnaest; 18</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708001">
+      <Lemma writtenForm="po" partOfSpeech="grammatical particle"/>
+      <Sense id="L708001-S1" synset="wikidata-hr-L708001-S1" ili="wikidata-hr-L708001-S1">
+        <Definition>jedan od dva otprilike ista dijela; polovica; polovina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741987">
+      <Lemma writtenForm="jer" partOfSpeech="conjunction"/>
+      <Sense id="L741987-S1" synset="wikidata-hr-L741987-S1" ili="wikidata-hr-L741987-S1">
+        <Definition>zato; budući da; zbog toga; veznica koja dava razlog</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L940892">
+      <Lemma writtenForm="prvi" partOfSpeech="ordinal numeral"/>
+      <Sense id="L940892-S1" synset="wikidata-hr-L940892-S1" ili="wikidata-hr-L940892-S1">
+        <Definition>prema broju jedan; na početku nekog reda</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222535">
+      <Lemma writtenForm="ako" partOfSpeech="conjunction"/>
+      <Sense id="L1222535-S1" synset="wikidata-hr-L1222535-S1" ili="wikidata-hr-L1222535-S1">
+        <Definition>pod uvjetom da</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1225514">
+      <Lemma writtenForm="iznad" partOfSpeech="preposition"/>
+      <Sense id="L1225514-S1" synset="wikidata-hr-L1225514-S1" ili="l3232-s1">
+        <Definition>preko; više nego; više vrijedno; prima gore</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L1225513-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378276">
+      <Lemma writtenForm="ni" partOfSpeech="conjunction"/>
+      <Sense id="L1378276-S1" synset="wikidata-hr-L1378276-S1" ili="wikidata-hr-L1378276-S1">
+        <Definition>negacija u nabrajanju ili izlaganju; ne to, a i ne ovo; ne tako</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686">
+      <Lemma writtenForm="jedan" partOfSpeech="numeral"/>
+      <Sense id="L686-S1" synset="wikidata-hr-L686-S1" ili="wikidata-hr-L686-S1">
+        <Definition>prvi prirodan broj; 1</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1030">
+      <Lemma writtenForm="pet" partOfSpeech="numeral"/>
+      <Sense id="L1030-S1" synset="wikidata-hr-L1030-S1" ili="l333-s1">
+        <Definition>prirodni broj između četiri i šest; 5</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643152">
+      <Lemma writtenForm="s" partOfSpeech="preposition"/>
+      <Sense id="L643152-S1" synset="wikidata-hr-L643152-S1" ili="wikidata-hr-L643152-S1">
+        <Definition>priejdlog koji oznakuje da je nešto skupa, ili korišćeno, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643747">
+      <Lemma writtenForm="da" partOfSpeech="grammatical particle"/>
+      <Sense id="L643747-S1" synset="wikidata-hr-L643747-S1" ili="wikidata-hr-L643747-S1">
+        <Definition>potvrđivanje, odobravanje, isticanje</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L643749-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644028">
+      <Lemma writtenForm="ali" partOfSpeech="conjunction"/>
+      <Sense id="L644028-S1" synset="wikidata-hr-L644028-S1" ili="wikidata-hr-L644028-S1">
+        <Definition>veznica za suprotno, pojačanje ili neočekivano i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656145">
+      <Lemma writtenForm="devet" partOfSpeech="numeral"/>
+      <Sense id="L656145-S1" synset="wikidata-hr-L656145-S1" ili="wikidata-hr-L656145-S1">
+        <Definition>prirodni broj između osam i deset; 9</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L711870">
+      <Lemma writtenForm="kod" partOfSpeech="preposition"/>
+      <Sense id="L711870-S1" synset="wikidata-hr-L711870-S1" ili="wikidata-hr-L711870-S1">
+        <Definition>označuje da se nalazi ili zbiva blizu nečega itd.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737992">
+      <Lemma writtenForm="tijekom" partOfSpeech="preposition"/>
+      <Sense id="L737992-S1" synset="wikidata-hr-L737992-S1" ili="wikidata-hr-L737992-S1">
+        <Definition>u isto virjeme kao nešto drugo, ili dijelom tega vremena</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740440">
+      <Lemma writtenForm="pa" partOfSpeech="conjunction"/>
+      <Sense id="L740440-S1" synset="wikidata-hr-L740440-S1" ili="wikidata-hr-L740440-S1">
+        <Definition>veznica za vrijeme ili razlog; radi tega; jer; i onda; svejedno; i ako</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223582">
+      <Lemma writtenForm="nad" partOfSpeech="preposition"/>
+      <Sense id="L1223582-S1" synset="wikidata-hr-L1223582-S1" ili="wikidata-hr-L1223582-S1">
+        <Definition>preko; iznad; više nego</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L737985-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687">
+      <Lemma writtenForm="dva" partOfSpeech="numeral"/>
+      <Sense id="L687-S1" synset="wikidata-hr-L687-S1" ili="wikidata-hr-L687-S1">
+        <Definition>prirodan broj između jedan i tri; 2</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625541">
+      <Lemma writtenForm="se" partOfSpeech="pronoun"/>
+      <Sense id="L625541-S1" synset="wikidata-hr-L625541-S1" ili="wikidata-hr-L625541-S1">
+        <Definition>povratna zamjenica</Definition>
+      </Sense>
+      <Sense id="L625541-S2" synset="wikidata-hr-L625541-S2" ili="wikidata-hr-L625541-S2">
+        <Definition>koristi se da markira pasiv</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643748">
+      <Lemma writtenForm="da" partOfSpeech="conjunction"/>
+      <Sense id="L643748-S1" synset="wikidata-hr-L643748-S1" ili="wikidata-hr-L643748-S1">
+        <Definition>veznica za namjeru, vrijeme, odnos, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643749">
+      <Lemma writtenForm="ne" partOfSpeech="grammatical particle"/>
+      <Sense id="L643749-S1" synset="wikidata-hr-L643749-S1" ili="wikidata-hr-L643749-S1">
+        <Definition>odricanje, negiranje, protivnost, i drugo</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L643747-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646366">
+      <Lemma writtenForm="kao" partOfSpeech="conjunction"/>
+      <Sense id="L646366-S1" synset="wikidata-hr-L646366-S1" ili="wikidata-hr-L646366-S1">
+        <Definition>veznica koja izriče istovjetnost ili sličnost</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656085">
+      <Lemma writtenForm="ili" partOfSpeech="conjunction"/>
+      <Sense id="L656085-S1" synset="wikidata-hr-L656085-S1" ili="wikidata-hr-L656085-S1">
+        <Definition>veznica koja označuje izbor između više mogućnosti</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656143">
+      <Lemma writtenForm="sedam" partOfSpeech="numeral"/>
+      <Sense id="L656143-S1" synset="wikidata-hr-L656143-S1" ili="wikidata-hr-L656143-S1">
+        <Definition>7; prirodni broj između šest i osam</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656148">
+      <Lemma writtenForm="deset" partOfSpeech="numeral"/>
+      <Sense id="L656148-S1" synset="wikidata-hr-L656148-S1" ili="wikidata-hr-L656148-S1">
+        <Definition>prirodni broj između devet i jedanaest; 10</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L657412">
+      <Lemma writtenForm="nakon" partOfSpeech="preposition"/>
+      <Sense id="L657412-S1" synset="wikidata-hr-L657412-S1" ili="wikidata-hr-L657412-S1">
+        <Definition>prijedlog koji oznakuje poslije vrijemenski nećeg ili nekog</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691263">
+      <Lemma writtenForm="taj" partOfSpeech="pronoun"/>
+      <Sense id="L691263-S1" synset="wikidata-hr-L691263-S1" ili="wikidata-hr-L691263-S1">
+        <Definition>pokazna zamjenica</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737985">
+      <Lemma writtenForm="pod" partOfSpeech="preposition"/>
+      <Sense id="L737985-S1" synset="wikidata-hr-L737985-S1" ili="wikidata-hr-L737985-S1">
+        <Definition>prijelog oznaćujući pravac prima doli (prima podu), i drugo</Definition>
+        <SenseRelation relType="antonym" target="wikidata-hr-L1223582-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737999">
+      <Lemma writtenForm="vrh" partOfSpeech="preposition"/>
+      <Sense id="L737999-S1" synset="wikidata-hr-L737999-S1" ili="wikidata-hr-L737999-S1">
+        <Definition>iznad; povrh; više; preko nešto</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036741">
+      <Lemma writtenForm="kroz" partOfSpeech="preposition"/>
+      <Sense id="L1036741-S1" synset="wikidata-hr-L1036741-S1" ili="wikidata-hr-L1036741-S1">
+        <Definition>od jedne do druge strane bez da se ide okolo</Definition>
+      </Sense>
+      <Sense id="L1036741-S2" synset="wikidata-hr-L1036741-S2" ili="wikidata-hr-L1036741-S2">
+        <Definition>tijekom; u toku; u neko vrijeme</Definition>
+      </Sense>
+      <Sense id="L1036741-S3" synset="wikidata-hr-L1036741-S3" ili="wikidata-hr-L1036741-S3">
+        <Definition>u matematici, ime razlomačke crte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1037097">
+      <Lemma writtenForm="preko" partOfSpeech="preposition"/>
+      <Sense id="L1037097-S1" synset="wikidata-hr-L1037097-S1" ili="wikidata-hr-L1037097-S1">
+        <Definition>naviše; da drugoj strani; više nego</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234414">
+      <Lemma writtenForm="poslije" partOfSpeech="preposition"/>
+      <Sense id="L1234414-S1" synset="wikidata-hr-L1234414-S1" ili="wikidata-hr-L1234414-S1">
+        <Definition>nakon; kasnije; nešto šta se dešava bližju ili dublje u budućnost neko nešto drugo</Definition>
+      </Sense>
+      <Sense id="L1234414-S2" synset="wikidata-hr-L1234414-S2" ili="wikidata-hr-L1234414-S2">
+        <Definition>u nekom redoslijedu nakon nešto drugog; odmah do nijega</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235034">
+      <Lemma writtenForm="drugi" partOfSpeech="ordinal numeral"/>
+      <Sense id="L1235034-S1" synset="wikidata-hr-L1235034-S1" ili="wikidata-hr-L1235034-S1">
+        <Definition>prema broju dva; poslije prvog nekog reda</Definition>
+      </Sense>
+      <Sense id="L1235034-S2" synset="wikidata-hr-L1235034-S2" ili="wikidata-hr-L1235034-S2">
+        <Definition>ne ovi</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656142">
+      <Lemma writtenForm="šest" partOfSpeech="numeral"/>
+      <Sense id="L656142-S1" synset="wikidata-hr-L656142-S1" ili="wikidata-hr-L656142-S1">
+        <Definition>prirodni broj između pet i sedam; 6</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L656144">
+      <Lemma writtenForm="osam" partOfSpeech="numeral"/>
+      <Sense id="L656144-S1" synset="wikidata-hr-L656144-S1" ili="wikidata-hr-L656144-S1">
+        <Definition>prirodni broj između sedam i devet; 8</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L680370">
+      <Lemma writtenForm="o" partOfSpeech="preposition"/>
+      <Sense id="L680370-S1" synset="wikidata-hr-L680370-S1" ili="wikidata-hr-L680370-S1">
+        <Definition>prijedlog koji oznakuje vezanost, ovisnost, predmet, i drugo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691630">
+      <Lemma writtenForm="prema" partOfSpeech="preposition"/>
+      <Sense id="L691630-S1" synset="wikidata-hr-L691630-S1" ili="wikidata-hr-L691630-S1">
+        <Definition>prijedlog koji oznakuje pravac, smjer, protivnost, blizinu, itd.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701284">
+      <Lemma writtenForm="šesnaest" partOfSpeech="numeral"/>
+      <Sense id="L701284-S1" synset="wikidata-hr-L701284-S1" ili="wikidata-hr-L701284-S1">
+        <Definition>prirodni broj između petnaest i sedamnaest; 16</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701291">
+      <Lemma writtenForm="petnaest" partOfSpeech="numeral"/>
+      <Sense id="L701291-S1" synset="wikidata-hr-L701291-S1" ili="wikidata-hr-L701291-S1">
+        <Definition>prirodni broj između četrnaest i šesnaest; 15</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701292">
+      <Lemma writtenForm="devetnaest" partOfSpeech="numeral"/>
+      <Sense id="L701292-S1" synset="wikidata-hr-L701292-S1" ili="wikidata-hr-L701292-S1">
+        <Definition>prirodni broj između osamnaest i dvadeset; 19</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L725867">
+      <Lemma writtenForm="uz" partOfSpeech="preposition"/>
+      <Sense id="L725867-S1" synset="wikidata-hr-L725867-S1" ili="wikidata-hr-L725867-S1">
+        <Definition>prijedlog označujući prima gori, ili blizinu, i slično</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736538">
+      <Lemma writtenForm="trideset" partOfSpeech="numeral"/>
+      <Sense id="L736538-S1" synset="wikidata-hr-L736538-S1" ili="wikidata-hr-L736538-S1">
+        <Definition>prirodni broj veći od dvadeset i devet; tri puta deset; 30</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740437">
+      <Lemma writtenForm="kad" partOfSpeech="conjunction"/>
+      <Sense id="L740437-S1" synset="wikidata-hr-L740437-S1" ili="wikidata-hr-L740437-S1">
+        <Definition>veznica koja izriče vrijeme, uzrok, uvjet</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L750023">
+      <Lemma writtenForm="protiv" partOfSpeech="preposition"/>
+      <Sense id="L750023-S1" synset="wikidata-hr-L750023-S1" ili="wikidata-hr-L750023-S1">
+        <Definition>obratno nećeg drugog</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992169">
+      <Lemma writtenForm="već" partOfSpeech="conjunction"/>
+      <Sense id="L992169-S1" synset="wikidata-hr-L992169-S1" ili="wikidata-hr-L992169-S1">
+        <Definition>nego; veže dvije frase koje se ne sklapaju</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1010843">
+      <Lemma writtenForm="iako" partOfSpeech="conjunction"/>
+      <Sense id="L1010843-S1" synset="wikidata-hr-L1010843-S1" ili="wikidata-hr-L1010843-S1">
+        <Definition>mada; premda; makar; da; i pored toga što; nešto šta je drukčije nego šta se očekuje</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1011283">
+      <Lemma writtenForm="nego" partOfSpeech="conjunction"/>
+      <Sense id="L1011283-S1" synset="wikidata-hr-L1011283-S1" ili="wikidata-hr-L1011283-S1">
+        <Definition>od; usporedujući; komparativ</Definition>
+      </Sense>
+      <Sense id="L1011283-S2" synset="wikidata-hr-L1011283-S2" ili="wikidata-hr-L1011283-S2">
+        <Definition>već; ali; osim; iznimka ili druga tema</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1464494">
+      <Lemma writtenForm="Sandi" partOfSpeech="given name"/>
+      <Sense id="L1464494-S1" synset="wikidata-hr-L1464494-S1" ili="wikidata-hr-L1464494-S1">
+        <Definition>ime</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-hr-L58847-S1" ili="l1385-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L641130-S1" ili="wikidata-hr-L641130-S1">
+      <Definition>priejdlog koji oznakuje početak i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L641131-S1" ili="wikidata-hr-L641131-S1">
+      <Definition>priejdlog koji oznakuje kraj; i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1036129-S1" ili="wikidata-hr-L1036129-S1">
+      <Definition>koji pripada samom sebi; vlastiti</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1251795-S1" ili="wikidata-hr-L1251795-S1">
+      <Definition>ali ne; bez; ne gledajući iznimku</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L184852-S1" ili="wikidata-hr-L184852-S1">
+      <Definition>osobna zamjenica za prvo lice jednine</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L644027-S1" ili="wikidata-hr-L644027-S1">
+      <Definition>veznik za oprečnost, suprotnost, pojačavanje i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L692367-S1" ili="wikidata-hr-L692367-S1">
+      <Definition>prijedlog koji oznaćuje uzrok ili narav i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701903-S1" ili="wikidata-hr-L701903-S1">
+      <Definition>prijedlog označajući uzrok, zazlog, obuhvačanje, u blizini, priblizno, itd.</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L736554-S1" ili="wikidata-hr-L736554-S1">
+      <Definition>prirodni broj veći od trideset i devet; četiri puta deset; 40</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L746921-S1" ili="wikidata-hr-L746921-S1">
+      <Definition>osobna zamjenica za trečo lice jednine</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L968821-S1" ili="wikidata-hr-L968821-S1">
+      <Definition>bez iznimke; cio; čitav; kao ukopnost; potpunost</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L184859-S1" ili="l482-s1">
+      <Definition>osobna zamjenica za drugo lice jednine</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L641758-S1" ili="wikidata-hr-L641758-S1">
+      <Definition>prirodan broj između tri i pet; 4</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L680433-S1" ili="wikidata-hr-L680433-S1">
+      <Definition>veznica koja označuje razlog, uzrok</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L700190-S1" ili="wikidata-hr-L700190-S1">
+      <Definition>veznik koji izriče način, izjavu, namjeru</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701283-S1" ili="wikidata-hr-L701283-S1">
+      <Definition>prirodni broj između trinaest i petnaest; 14</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701288-S1" ili="wikidata-hr-L701288-S1">
+      <Definition>prirodni broj između deset i dvanaest; 11</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701289-S1" ili="wikidata-hr-L701289-S1">
+      <Definition>prirodni broj između jedanaest i trinaest; 12</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701290-S1" ili="wikidata-hr-L701290-S1">
+      <Definition>prirodni broj između dvanaest i četrnaest; 13</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701293-S1" ili="wikidata-hr-L701293-S1">
+      <Definition>prirodni broj veći od devetnaest; deset i deset; 20</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L746923-S1" ili="wikidata-hr-L746923-S1">
+      <Definition>osobna zamjenica za trečo lice množine</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L970710-S1" ili="wikidata-hr-L970710-S1">
+      <Definition>nego; od; uspoređujući</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L970710-S2" ili="wikidata-hr-L970710-S2">
+      <Definition>ali ne; bez; isključujući</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1036359-S1" ili="wikidata-hr-L1036359-S1">
+      <Definition>u prostoru ili vremenu kojo se proteže od jednog do drugog ili kojo dijele dvije ili više; između</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1223252-S1" ili="wikidata-hr-L1223252-S1">
+      <Definition>nešto šta nije unutar</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234416-S1" ili="wikidata-hr-L1234416-S1">
+      <Definition>vremenski ranije nego nešto drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234416-S2" ili="wikidata-hr-L1234416-S2">
+      <Definition>nešto po redu ispred drugoga</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234416-S3" ili="wikidata-hr-L1234416-S3">
+      <Definition>da se otkas se nešto dogodilo prošlo toliko vremena</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1321325-S1" ili="wikidata-hr-L1321325-S1">
+      <Definition>za pojačavanje nekog osjećanja</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1321325-S2" ili="wikidata-hr-L1321325-S2">
+      <Definition>u situaciji kad se tko čega sjeti</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L639554-S1" ili="wikidata-hr-L639554-S1">
+      <Definition>prijedlog koji oznakuje mjesto gdje se nešto stavlja ili nalazi, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L641757-S1" ili="wikidata-hr-L641757-S1">
+      <Definition>prirodan broj između dva i četiri; 3</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L646368-S1" ili="wikidata-hr-L646368-S1">
+      <Definition>prijedlog koji oznakuje podrjetjlo, uzrok, od unutar čega, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L650605-S1" ili="wikidata-hr-L650605-S1">
+      <Definition>zamjenica</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L680452-S1" ili="l57-s1">
+      <Definition>upitna riječ za neponzantih stvari ili pojmova</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L680452-S2" ili="l3229-s1">
+      <Definition>ovisna riječ; ono kojo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L706595-S1" ili="wikidata-hr-L706595-S1">
+      <Definition>jedino, isklučivo, ne više nego</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L708002-S1" ili="wikidata-hr-L708002-S1">
+      <Definition>prijelog koji oznaćuje svrhu, način, uzrok, porijeklo, korist, razdjelenost, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L722024-S1" ili="wikidata-hr-L722024-S1">
+      <Definition>označuje istodobnost</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L737994-S1" ili="wikidata-hr-L737994-S1">
+      <Definition>nešto šta se proteže od jednog do drugog</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L749558-S1" ili="wikidata-hr-L749558-S1">
+      <Definition>zamjenica za skupinu osoba kojoj pripada i osoba koja govori; zamjenica prvo lice množine</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1223254-S1" ili="wikidata-hr-L1223254-S1">
+      <Definition>nalazi u čemu; ne izvan</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1225513-S1" ili="l3370-s1">
+      <Definition>niše nego; prima dolje; manje vrijedno</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234415-S1" ili="wikidata-hr-L1234415-S1">
+      <Definition>nakon; kasnije; nešto šta se dešava bližju ili dublje u budućnost neko nešto drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L625540-S1" ili="wikidata-hr-L625540-S1">
+      <Definition>prijedlog koji oznakuje unutar čega ili prima čemu ili tog čega i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L642036-S1" ili="wikidata-hr-L642036-S1">
+      <Definition>priejdlog koji oznakuje razlog ili blizinu, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701286-S1" ili="wikidata-hr-L701286-S1">
+      <Definition>prirodni broj između šesnaest i osamnaest; 17</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701287-S1" ili="wikidata-hr-L701287-S1">
+      <Definition>prirodni broj između sedamnaest i devetnaest; 18</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L708001-S1" ili="wikidata-hr-L708001-S1">
+      <Definition>jedan od dva otprilike ista dijela; polovica; polovina</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L741987-S1" ili="wikidata-hr-L741987-S1">
+      <Definition>zato; budući da; zbog toga; veznica koja dava razlog</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L940892-S1" ili="wikidata-hr-L940892-S1">
+      <Definition>prema broju jedan; na početku nekog reda</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1222535-S1" ili="wikidata-hr-L1222535-S1">
+      <Definition>pod uvjetom da</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1225514-S1" ili="l3232-s1">
+      <Definition>preko; više nego; više vrijedno; prima gore</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1378276-S1" ili="wikidata-hr-L1378276-S1">
+      <Definition>negacija u nabrajanju ili izlaganju; ne to, a i ne ovo; ne tako</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L686-S1" ili="wikidata-hr-L686-S1">
+      <Definition>prvi prirodan broj; 1</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1030-S1" ili="l333-s1">
+      <Definition>prirodni broj između četiri i šest; 5</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L643152-S1" ili="wikidata-hr-L643152-S1">
+      <Definition>priejdlog koji oznakuje da je nešto skupa, ili korišćeno, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L643747-S1" ili="wikidata-hr-L643747-S1">
+      <Definition>potvrđivanje, odobravanje, isticanje</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L644028-S1" ili="wikidata-hr-L644028-S1">
+      <Definition>veznica za suprotno, pojačanje ili neočekivano i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656145-S1" ili="wikidata-hr-L656145-S1">
+      <Definition>prirodni broj između osam i deset; 9</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L711870-S1" ili="wikidata-hr-L711870-S1">
+      <Definition>označuje da se nalazi ili zbiva blizu nečega itd.</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L737992-S1" ili="wikidata-hr-L737992-S1">
+      <Definition>u isto virjeme kao nešto drugo, ili dijelom tega vremena</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L740440-S1" ili="wikidata-hr-L740440-S1">
+      <Definition>veznica za vrijeme ili razlog; radi tega; jer; i onda; svejedno; i ako</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1223582-S1" ili="wikidata-hr-L1223582-S1">
+      <Definition>preko; iznad; više nego</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L687-S1" ili="wikidata-hr-L687-S1">
+      <Definition>prirodan broj između jedan i tri; 2</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L625541-S1" ili="wikidata-hr-L625541-S1">
+      <Definition>povratna zamjenica</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L625541-S2" ili="wikidata-hr-L625541-S2">
+      <Definition>koristi se da markira pasiv</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L643748-S1" ili="wikidata-hr-L643748-S1">
+      <Definition>veznica za namjeru, vrijeme, odnos, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L643749-S1" ili="wikidata-hr-L643749-S1">
+      <Definition>odricanje, negiranje, protivnost, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L646366-S1" ili="wikidata-hr-L646366-S1">
+      <Definition>veznica koja izriče istovjetnost ili sličnost</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656085-S1" ili="wikidata-hr-L656085-S1">
+      <Definition>veznica koja označuje izbor između više mogućnosti</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656143-S1" ili="wikidata-hr-L656143-S1">
+      <Definition>7; prirodni broj između šest i osam</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656148-S1" ili="wikidata-hr-L656148-S1">
+      <Definition>prirodni broj između devet i jedanaest; 10</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L657412-S1" ili="wikidata-hr-L657412-S1">
+      <Definition>prijedlog koji oznakuje poslije vrijemenski nećeg ili nekog</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L691263-S1" ili="wikidata-hr-L691263-S1">
+      <Definition>pokazna zamjenica</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L737985-S1" ili="wikidata-hr-L737985-S1">
+      <Definition>prijelog oznaćujući pravac prima doli (prima podu), i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L737999-S1" ili="wikidata-hr-L737999-S1">
+      <Definition>iznad; povrh; više; preko nešto</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1036741-S1" ili="wikidata-hr-L1036741-S1">
+      <Definition>od jedne do druge strane bez da se ide okolo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1036741-S2" ili="wikidata-hr-L1036741-S2">
+      <Definition>tijekom; u toku; u neko vrijeme</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1036741-S3" ili="wikidata-hr-L1036741-S3">
+      <Definition>u matematici, ime razlomačke crte</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1037097-S1" ili="wikidata-hr-L1037097-S1">
+      <Definition>naviše; da drugoj strani; više nego</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234414-S1" ili="wikidata-hr-L1234414-S1">
+      <Definition>nakon; kasnije; nešto šta se dešava bližju ili dublje u budućnost neko nešto drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1234414-S2" ili="wikidata-hr-L1234414-S2">
+      <Definition>u nekom redoslijedu nakon nešto drugog; odmah do nijega</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1235034-S1" ili="wikidata-hr-L1235034-S1">
+      <Definition>prema broju dva; poslije prvog nekog reda</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1235034-S2" ili="wikidata-hr-L1235034-S2">
+      <Definition>ne ovi</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656142-S1" ili="wikidata-hr-L656142-S1">
+      <Definition>prirodni broj između pet i sedam; 6</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L656144-S1" ili="wikidata-hr-L656144-S1">
+      <Definition>prirodni broj između sedam i devet; 8</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L680370-S1" ili="wikidata-hr-L680370-S1">
+      <Definition>prijedlog koji oznakuje vezanost, ovisnost, predmet, i drugo</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L691630-S1" ili="wikidata-hr-L691630-S1">
+      <Definition>prijedlog koji oznakuje pravac, smjer, protivnost, blizinu, itd.</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701284-S1" ili="wikidata-hr-L701284-S1">
+      <Definition>prirodni broj između petnaest i sedamnaest; 16</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701291-S1" ili="wikidata-hr-L701291-S1">
+      <Definition>prirodni broj između četrnaest i šesnaest; 15</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L701292-S1" ili="wikidata-hr-L701292-S1">
+      <Definition>prirodni broj između osamnaest i dvadeset; 19</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L725867-S1" ili="wikidata-hr-L725867-S1">
+      <Definition>prijedlog označujući prima gori, ili blizinu, i slično</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L736538-S1" ili="wikidata-hr-L736538-S1">
+      <Definition>prirodni broj veći od dvadeset i devet; tri puta deset; 30</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L740437-S1" ili="wikidata-hr-L740437-S1">
+      <Definition>veznica koja izriče vrijeme, uzrok, uvjet</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L750023-S1" ili="wikidata-hr-L750023-S1">
+      <Definition>obratno nećeg drugog</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L992169-S1" ili="wikidata-hr-L992169-S1">
+      <Definition>nego; veže dvije frase koje se ne sklapaju</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1010843-S1" ili="wikidata-hr-L1010843-S1">
+      <Definition>mada; premda; makar; da; i pored toga što; nešto šta je drukčije nego šta se očekuje</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1011283-S1" ili="wikidata-hr-L1011283-S1">
+      <Definition>od; usporedujući; komparativ</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1011283-S2" ili="wikidata-hr-L1011283-S2">
+      <Definition>već; ali; osim; iznimka ili druga tema</Definition>
+    </Synset>
+    <Synset id="wikidata-hr-L1464494-S1" ili="wikidata-hr-L1464494-S1">
+      <Definition>ime</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

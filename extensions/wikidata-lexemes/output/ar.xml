@@ -1,0 +1,4446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ar"
+                    label="Wikidata AR Lexemes Extension"
+                    language="ar"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ar" version="1.4"/>
+    <LexicalEntry id="L5004">
+      <Lemma writtenForm="ب ك ي" partOfSpeech="root"/>
+      <Sense id="L5004-S1" synset="wikidata-ar-L5004-S1" ili="wikidata-ar-L5004-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5007">
+      <Lemma writtenForm="ء م ن" partOfSpeech="root"/>
+      <Sense id="L5007-S1" synset="wikidata-ar-L5007-S1" ili="wikidata-ar-L5007-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5011">
+      <Lemma writtenForm="ث ب ت" partOfSpeech="root"/>
+      <Sense id="L5011-S1" synset="wikidata-ar-L5011-S1" ili="wikidata-ar-L5011-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5011-S2" synset="wikidata-ar-L5011-S2" ili="wikidata-ar-L5011-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5011-S3" synset="wikidata-ar-L5011-S3" ili="wikidata-ar-L5011-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5309">
+      <Lemma writtenForm="س ب ع‎" partOfSpeech="root"/>
+      <Sense id="L5309-S1" synset="wikidata-ar-L5309-S1" ili="wikidata-ar-L5309-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L7883">
+      <Lemma writtenForm="أَنَا" partOfSpeech="personal pronoun"/>
+      <Sense id="L7883-S1" synset="wikidata-ar-L7883-S1" ili="wikidata-ar-L7883-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35601">
+      <Lemma writtenForm="بَلْ" partOfSpeech="conjunction"/>
+      <Sense id="L35601-S1" synset="wikidata-ar-L35601-S1" ili="wikidata-ar-L35601-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35603">
+      <Lemma writtenForm="مِنْ" partOfSpeech="preposition"/>
+      <Sense id="L35603-S1" synset="wikidata-ar-L35603-S1" ili="wikidata-ar-L35603-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240496">
+      <Lemma writtenForm="ء ب و" partOfSpeech="root"/>
+      <Sense id="L240496-S1" synset="wikidata-ar-L240496-S1" ili="wikidata-ar-L240496-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240496-S2" synset="wikidata-ar-L240496-S2" ili="wikidata-ar-L240496-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240511">
+      <Lemma writtenForm="ء ث ل" partOfSpeech="root"/>
+      <Sense id="L240511-S1" synset="wikidata-ar-L240511-S1" ili="wikidata-ar-L240511-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240511-S2" synset="wikidata-ar-L240511-S2" ili="wikidata-ar-L240511-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240538">
+      <Lemma writtenForm="ء ذ ن" partOfSpeech="root"/>
+      <Sense id="L240538-S1" synset="wikidata-ar-L240538-S1" ili="wikidata-ar-L240538-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240538-S2" synset="wikidata-ar-L240538-S2" ili="wikidata-ar-L240538-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240538-S3" synset="wikidata-ar-L240538-S3" ili="wikidata-ar-L240538-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240541">
+      <Lemma writtenForm="ء ر ث" partOfSpeech="root"/>
+      <Sense id="L240541-S1" synset="wikidata-ar-L240541-S1" ili="wikidata-ar-L240541-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240541-S2" synset="wikidata-ar-L240541-S2" ili="wikidata-ar-L240541-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240650">
+      <Lemma writtenForm="ء م م" partOfSpeech="root"/>
+      <Sense id="L240650-S1" synset="wikidata-ar-L240650-S1" ili="wikidata-ar-L240650-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S2" synset="wikidata-ar-L240650-S2" ili="wikidata-ar-L240650-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S3" synset="wikidata-ar-L240650-S3" ili="wikidata-ar-L240650-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S4" synset="wikidata-ar-L240650-S4" ili="wikidata-ar-L240650-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S5" synset="wikidata-ar-L240650-S5" ili="wikidata-ar-L240650-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S6" synset="wikidata-ar-L240650-S6" ili="wikidata-ar-L240650-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S7" synset="wikidata-ar-L240650-S7" ili="wikidata-ar-L240650-S7">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S8" synset="wikidata-ar-L240650-S8" ili="wikidata-ar-L240650-S8">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S9" synset="wikidata-ar-L240650-S9" ili="wikidata-ar-L240650-S9">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S10" synset="wikidata-ar-L240650-S10" ili="wikidata-ar-L240650-S10">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S11" synset="wikidata-ar-L240650-S11" ili="wikidata-ar-L240650-S11">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240650-S12" synset="wikidata-ar-L240650-S12" ili="wikidata-ar-L240650-S12">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240656">
+      <Lemma writtenForm="ء ن ث" partOfSpeech="root"/>
+      <Sense id="L240656-S1" synset="wikidata-ar-L240656-S1" ili="wikidata-ar-L240656-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240665">
+      <Lemma writtenForm="ء ن ي" partOfSpeech="root"/>
+      <Sense id="L240665-S1" synset="wikidata-ar-L240665-S1" ili="wikidata-ar-L240665-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240665-S2" synset="wikidata-ar-L240665-S2" ili="wikidata-ar-L240665-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243389">
+      <Lemma writtenForm="ب ث ث" partOfSpeech="root"/>
+      <Sense id="L243389-S1" synset="wikidata-ar-L243389-S1" ili="wikidata-ar-L243389-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243389-S2" synset="wikidata-ar-L243389-S2" ili="wikidata-ar-L243389-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243390">
+      <Lemma writtenForm="ب ث ر" partOfSpeech="root"/>
+      <Sense id="L243390-S1" synset="wikidata-ar-L243390-S1" ili="wikidata-ar-L243390-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243422">
+      <Lemma writtenForm="ب د ء" partOfSpeech="root"/>
+      <Sense id="L243422-S1" synset="wikidata-ar-L243422-S1" ili="wikidata-ar-L243422-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243516">
+      <Lemma writtenForm="ب ط ل" partOfSpeech="root"/>
+      <Sense id="L243516-S1" synset="wikidata-ar-L243516-S1" ili="wikidata-ar-L243516-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243516-S2" synset="wikidata-ar-L243516-S2" ili="wikidata-ar-L243516-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243516-S3" synset="wikidata-ar-L243516-S3" ili="wikidata-ar-L243516-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243521">
+      <Lemma writtenForm="ب ع ث" partOfSpeech="root"/>
+      <Sense id="L243521-S1" synset="wikidata-ar-L243521-S1" ili="wikidata-ar-L243521-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243521-S2" synset="wikidata-ar-L243521-S2" ili="wikidata-ar-L243521-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243571">
+      <Lemma writtenForm="ب ل د" partOfSpeech="root"/>
+      <Sense id="L243571-S1" synset="wikidata-ar-L243571-S1" ili="wikidata-ar-L243571-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243571-S2" synset="wikidata-ar-L243571-S2" ili="wikidata-ar-L243571-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243664">
+      <Lemma writtenForm="ت ب ر" partOfSpeech="root"/>
+      <Sense id="L243664-S1" synset="wikidata-ar-L243664-S1" ili="wikidata-ar-L243664-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243731">
+      <Lemma writtenForm="ت م م" partOfSpeech="root"/>
+      <Sense id="L243731-S1" synset="wikidata-ar-L243731-S1" ili="wikidata-ar-L243731-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244057">
+      <Lemma writtenForm="ج م ع" partOfSpeech="root"/>
+      <Sense id="L244057-S1" synset="wikidata-ar-L244057-S1" ili="wikidata-ar-L244057-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244057-S2" synset="wikidata-ar-L244057-S2" ili="wikidata-ar-L244057-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244058">
+      <Lemma writtenForm="ج م ل" partOfSpeech="root"/>
+      <Sense id="L244058-S1" synset="wikidata-ar-L244058-S1" ili="wikidata-ar-L244058-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244058-S2" synset="wikidata-ar-L244058-S2" ili="wikidata-ar-L244058-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244058-S3" synset="wikidata-ar-L244058-S3" ili="wikidata-ar-L244058-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244059">
+      <Lemma writtenForm="ج م م" partOfSpeech="root"/>
+      <Sense id="L244059-S1" synset="wikidata-ar-L244059-S1" ili="wikidata-ar-L244059-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248694">
+      <Lemma writtenForm="ح د م" partOfSpeech="root"/>
+      <Sense id="L248694-S1" synset="wikidata-ar-L248694-S1" ili="wikidata-ar-L248694-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248711">
+      <Lemma writtenForm="ح ر ر" partOfSpeech="root"/>
+      <Sense id="L248711-S1" synset="wikidata-ar-L248711-S1" ili="wikidata-ar-L248711-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248733">
+      <Lemma writtenForm="ح ز و" partOfSpeech="root"/>
+      <Sense id="L248733-S1" synset="wikidata-ar-L248733-S1" ili="wikidata-ar-L248733-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ar-L248734-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248735">
+      <Lemma writtenForm="ح س د" partOfSpeech="root"/>
+      <Sense id="L248735-S1" synset="wikidata-ar-L248735-S1" ili="wikidata-ar-L248735-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233456">
+      <Lemma writtenForm="ذِي" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1233456-S1" synset="wikidata-ar-L1233456-S1" ili="wikidata-ar-L1233456-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233459">
+      <Lemma writtenForm="ح ل و" partOfSpeech="root"/>
+      <Sense id="L1233459-S1" synset="wikidata-ar-L1233459-S1" ili="wikidata-ar-L1233459-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1249772">
+      <Lemma writtenForm="ع م ل" partOfSpeech="root"/>
+      <Sense id="L1249772-S1" synset="wikidata-ar-L1249772-S1" ili="wikidata-ar-L1249772-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321107">
+      <Lemma writtenForm="أَيّ" partOfSpeech="interrogative word"/>
+      <Sense id="L1321107-S1" synset="wikidata-ar-L1321107-S1" ili="wikidata-ar-L1321107-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321115">
+      <Lemma writtenForm="كَيْفَ" partOfSpeech="interrogative word"/>
+      <Sense id="L1321115-S1" synset="wikidata-ar-L1321115-S1" ili="wikidata-ar-L1321115-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321116">
+      <Lemma writtenForm="أَيْنَ" partOfSpeech="interrogative word"/>
+      <Sense id="L1321116-S1" synset="wikidata-ar-L1321116-S1" ili="wikidata-ar-L1321116-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1343445">
+      <Lemma writtenForm="ص ب ب" partOfSpeech="root"/>
+      <Sense id="L1343445-S1" synset="wikidata-ar-L1343445-S1" ili="wikidata-ar-L1343445-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1343445-S2" synset="wikidata-ar-L1343445-S2" ili="wikidata-ar-L1343445-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365053">
+      <Lemma writtenForm="د ل ل" partOfSpeech="root"/>
+      <Sense id="L1365053-S1" synset="wikidata-ar-L1365053-S1" ili="wikidata-ar-L1365053-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365068">
+      <Lemma writtenForm="م س ك" partOfSpeech="root"/>
+      <Sense id="L1365068-S1" synset="wikidata-ar-L1365068-S1" ili="wikidata-ar-L1365068-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365079">
+      <Lemma writtenForm="د ر س" partOfSpeech="root"/>
+      <Sense id="L1365079-S1" synset="wikidata-ar-L1365079-S1" ili="wikidata-ar-L1365079-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368018">
+      <Lemma writtenForm="ع و ذ" partOfSpeech="root"/>
+      <Sense id="L1368018-S1" synset="wikidata-ar-L1368018-S1" ili="wikidata-ar-L1368018-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368405">
+      <Lemma writtenForm="ط و س" partOfSpeech="root"/>
+      <Sense id="L1368405-S1" synset="wikidata-ar-L1368405-S1" ili="wikidata-ar-L1368405-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368405-S2" synset="wikidata-ar-L1368405-S2" ili="wikidata-ar-L1368405-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368405-S3" synset="wikidata-ar-L1368405-S3" ili="wikidata-ar-L1368405-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368405-S4" synset="wikidata-ar-L1368405-S4" ili="wikidata-ar-L1368405-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368472">
+      <Lemma writtenForm="ق ت ل" partOfSpeech="root"/>
+      <Sense id="L1368472-S1" synset="wikidata-ar-L1368472-S1" ili="wikidata-ar-L1368472-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369171">
+      <Lemma writtenForm="ك ل م" partOfSpeech="root"/>
+      <Sense id="L1369171-S1" synset="wikidata-ar-L1369171-S1" ili="wikidata-ar-L1369171-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369182">
+      <Lemma writtenForm="ظ ل ل" partOfSpeech="root"/>
+      <Sense id="L1369182-S1" synset="wikidata-ar-L1369182-S1" ili="wikidata-ar-L1369182-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369182-S2" synset="wikidata-ar-L1369182-S2" ili="wikidata-ar-L1369182-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370530">
+      <Lemma writtenForm="و ز ر" partOfSpeech="root"/>
+      <Sense id="L1370530-S1" synset="wikidata-ar-L1370530-S1" ili="wikidata-ar-L1370530-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370530-S2" synset="wikidata-ar-L1370530-S2" ili="wikidata-ar-L1370530-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370544">
+      <Lemma writtenForm="ش ع ب" partOfSpeech="root"/>
+      <Sense id="L1370544-S1" synset="wikidata-ar-L1370544-S1" ili="wikidata-ar-L1370544-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370544-S2" synset="wikidata-ar-L1370544-S2" ili="wikidata-ar-L1370544-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371670">
+      <Lemma writtenForm="ش ر ف" partOfSpeech="root"/>
+      <Sense id="L1371670-S1" synset="wikidata-ar-L1371670-S1" ili="wikidata-ar-L1371670-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372745">
+      <Lemma writtenForm="س و د" partOfSpeech="root"/>
+      <Sense id="L1372745-S1" synset="wikidata-ar-L1372745-S1" ili="wikidata-ar-L1372745-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1372745-S2" synset="wikidata-ar-L1372745-S2" ili="wikidata-ar-L1372745-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422439">
+      <Lemma writtenForm="يَا" partOfSpeech="interjection"/>
+      <Sense id="L1422439-S1" synset="wikidata-ar-L1422439-S1" ili="wikidata-ar-L1422439-S1">
+        <Definition>(حرف نداء للبعيد حقيقةً أو حُكْمًا)</Definition>
+      </Sense>
+      <Sense id="L1422439-S2" synset="wikidata-ar-L1422439-S2" ili="wikidata-ar-L1422439-S2">
+        <Definition>(حرف نداء للاستغاثة)</Definition>
+      </Sense>
+      <Sense id="L1422439-S3" synset="wikidata-ar-L1422439-S3" ili="wikidata-ar-L1422439-S3">
+        <Definition>(حرف نداء للتعجُّب أو الشّفقة)</Definition>
+      </Sense>
+      <Sense id="L1422439-S4" synset="wikidata-ar-L1422439-S4" ili="wikidata-ar-L1422439-S4">
+        <Definition>(حرف نداء للاستفهام)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1463230">
+      <Lemma writtenForm="إنْ" partOfSpeech="conjunction"/>
+      <Sense id="L1463230-S1" synset="wikidata-ar-L1463230-S1" ili="wikidata-ar-L1463230-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473286">
+      <Lemma writtenForm="أَمَامَ" partOfSpeech="preposition"/>
+      <Sense id="L1473286-S1" synset="wikidata-ar-L1473286-S1" ili="wikidata-ar-L1473286-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473291">
+      <Lemma writtenForm="لَنْ" partOfSpeech="negative particle"/>
+      <Sense id="L1473291-S1" synset="wikidata-ar-L1473291-S1" ili="wikidata-ar-L1473291-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548523">
+      <Lemma writtenForm="ع ص ع ص" partOfSpeech="root"/>
+      <Sense id="L1548523-S1" synset="wikidata-ar-L1548523-S1" ili="wikidata-ar-L1548523-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548757">
+      <Lemma writtenForm="ط ي ي" partOfSpeech="root"/>
+      <Sense id="L1548757-S1" synset="wikidata-ar-L1548757-S1" ili="wikidata-ar-L1548757-S1">
+        <Definition>(الطّايَةُ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548758">
+      <Lemma writtenForm="ط ي ء" partOfSpeech="root"/>
+      <Sense id="L1548758-S1" synset="wikidata-ar-L1548758-S1" ili="wikidata-ar-L1548758-S1">
+        <Definition>(الطَيِّئ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5006">
+      <Lemma writtenForm="ء ت ي" partOfSpeech="root"/>
+      <Sense id="L5006-S1" synset="wikidata-ar-L5006-S1" ili="wikidata-ar-L5006-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5006-S2" synset="wikidata-ar-L5006-S2" ili="wikidata-ar-L5006-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35612">
+      <Lemma writtenForm="كَ" partOfSpeech="preposition"/>
+      <Sense id="L35612-S1" synset="wikidata-ar-L35612-S1" ili="wikidata-ar-L35612-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43465">
+      <Lemma writtenForm="سِتَّةَ عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43465-S1" synset="wikidata-ar-L43465-S1" ili="wikidata-ar-L43465-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240480">
+      <Lemma writtenForm="ء ب ث" partOfSpeech="root"/>
+      <Sense id="L240480-S1" synset="wikidata-ar-L240480-S1" ili="wikidata-ar-L240480-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ar-L240513-S1"/>
+      </Sense>
+      <Sense id="L240480-S2" synset="wikidata-ar-L240480-S2" ili="wikidata-ar-L240480-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240491">
+      <Lemma writtenForm="ء ب ق" partOfSpeech="root"/>
+      <Sense id="L240491-S1" synset="wikidata-ar-L240491-S1" ili="wikidata-ar-L240491-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240513">
+      <Lemma writtenForm="ء ث و" partOfSpeech="root"/>
+      <Sense id="L240513-S1" synset="wikidata-ar-L240513-S1" ili="wikidata-ar-L240513-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ar-L240480-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240571">
+      <Lemma writtenForm="ء س د" partOfSpeech="root"/>
+      <Sense id="L240571-S1" synset="wikidata-ar-L240571-S1" ili="wikidata-ar-L240571-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240571-S2" synset="wikidata-ar-L240571-S2" ili="wikidata-ar-L240571-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243394">
+      <Lemma writtenForm="ب ث و" partOfSpeech="root"/>
+      <Sense id="L243394-S1" synset="wikidata-ar-L243394-S1" ili="wikidata-ar-L243394-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243650">
+      <Lemma writtenForm="ب ي ض" partOfSpeech="root"/>
+      <Sense id="L243650-S1" synset="wikidata-ar-L243650-S1" ili="wikidata-ar-L243650-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243931">
+      <Lemma writtenForm="ج د د" partOfSpeech="root"/>
+      <Sense id="L243931-S1" synset="wikidata-ar-L243931-S1" ili="wikidata-ar-L243931-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243986">
+      <Lemma writtenForm="ج س م" partOfSpeech="root"/>
+      <Sense id="L243986-S1" synset="wikidata-ar-L243986-S1" ili="wikidata-ar-L243986-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243996">
+      <Lemma writtenForm="ج ص ص" partOfSpeech="root"/>
+      <Sense id="L243996-S1" synset="wikidata-ar-L243996-S1" ili="wikidata-ar-L243996-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244096">
+      <Lemma writtenForm="ج و ر" partOfSpeech="root"/>
+      <Sense id="L244096-S1" synset="wikidata-ar-L244096-S1" ili="wikidata-ar-L244096-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244096-S2" synset="wikidata-ar-L244096-S2" ili="wikidata-ar-L244096-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248664">
+      <Lemma writtenForm="ح ت م" partOfSpeech="root"/>
+      <Sense id="L248664-S1" synset="wikidata-ar-L248664-S1" ili="wikidata-ar-L248664-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248692">
+      <Lemma writtenForm="ح د ق" partOfSpeech="root"/>
+      <Sense id="L248692-S1" synset="wikidata-ar-L248692-S1" ili="wikidata-ar-L248692-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248692-S2" synset="wikidata-ar-L248692-S2" ili="wikidata-ar-L248692-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248692-S3" synset="wikidata-ar-L248692-S3" ili="wikidata-ar-L248692-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248692-S4" synset="wikidata-ar-L248692-S4" ili="wikidata-ar-L248692-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248732">
+      <Lemma writtenForm="ح ز ن" partOfSpeech="root"/>
+      <Sense id="L248732-S1" synset="wikidata-ar-L248732-S1" ili="wikidata-ar-L248732-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L710804">
+      <Lemma writtenForm="ف ع ل" partOfSpeech="root"/>
+      <Sense id="L710804-S1" synset="wikidata-ar-L710804-S1" ili="wikidata-ar-L710804-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133343">
+      <Lemma writtenForm="ح و ل" partOfSpeech="root"/>
+      <Sense id="L1133343-S1" synset="wikidata-ar-L1133343-S1" ili="wikidata-ar-L1133343-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1133343-S2" synset="wikidata-ar-L1133343-S2" ili="wikidata-ar-L1133343-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1133343-S3" synset="wikidata-ar-L1133343-S3" ili="wikidata-ar-L1133343-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1133343-S4" synset="wikidata-ar-L1133343-S4" ili="wikidata-ar-L1133343-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161298">
+      <Lemma writtenForm="ط ر ح" partOfSpeech="root"/>
+      <Sense id="L1161298-S1" synset="wikidata-ar-L1161298-S1" ili="wikidata-ar-L1161298-S1">
+        <Definition>(ألقى)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1226772">
+      <Lemma writtenForm="ل ف ظ" partOfSpeech="root"/>
+      <Sense id="L1226772-S1" synset="wikidata-ar-L1226772-S1" ili="wikidata-ar-L1226772-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233453">
+      <Lemma writtenForm="إِلَّا" partOfSpeech="conjunction"/>
+      <Sense id="L1233453-S1" synset="wikidata-ar-L1233453-S1" ili="wikidata-ar-L1233453-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321117">
+      <Lemma writtenForm="لِئَلَّا" partOfSpeech="function word"/>
+      <Sense id="L1321117-S1" synset="wikidata-ar-L1321117-S1" ili="wikidata-ar-L1321117-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1357670">
+      <Lemma writtenForm="د ر ه م" partOfSpeech="root"/>
+      <Sense id="L1357670-S1" synset="wikidata-ar-L1357670-S1" ili="wikidata-ar-L1357670-S1">
+        <Definition>(درهم)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365066">
+      <Lemma writtenForm="خ ب ر" partOfSpeech="root"/>
+      <Sense id="L1365066-S1" synset="wikidata-ar-L1365066-S1" ili="wikidata-ar-L1365066-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368013">
+      <Lemma writtenForm="ع ر ف" partOfSpeech="root"/>
+      <Sense id="L1368013-S1" synset="wikidata-ar-L1368013-S1" ili="wikidata-ar-L1368013-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368021">
+      <Lemma writtenForm="ح ك م" partOfSpeech="root"/>
+      <Sense id="L1368021-S1" synset="wikidata-ar-L1368021-S1" ili="wikidata-ar-L1368021-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368025">
+      <Lemma writtenForm="خ ل و" partOfSpeech="root"/>
+      <Sense id="L1368025-S1" synset="wikidata-ar-L1368025-S1" ili="wikidata-ar-L1368025-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368030">
+      <Lemma writtenForm="د و ر" partOfSpeech="root"/>
+      <Sense id="L1368030-S1" synset="wikidata-ar-L1368030-S1" ili="wikidata-ar-L1368030-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368030-S2" synset="wikidata-ar-L1368030-S2" ili="wikidata-ar-L1368030-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368030-S3" synset="wikidata-ar-L1368030-S3" ili="wikidata-ar-L1368030-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368033">
+      <Lemma writtenForm="د ي ن" partOfSpeech="root"/>
+      <Sense id="L1368033-S1" synset="wikidata-ar-L1368033-S1" ili="wikidata-ar-L1368033-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368033-S2" synset="wikidata-ar-L1368033-S2" ili="wikidata-ar-L1368033-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368033-S3" synset="wikidata-ar-L1368033-S3" ili="wikidata-ar-L1368033-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368033-S4" synset="wikidata-ar-L1368033-S4" ili="wikidata-ar-L1368033-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368393">
+      <Lemma writtenForm="ش ج ر" partOfSpeech="root"/>
+      <Sense id="L1368393-S1" synset="wikidata-ar-L1368393-S1" ili="wikidata-ar-L1368393-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368393-S2" synset="wikidata-ar-L1368393-S2" ili="wikidata-ar-L1368393-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368470">
+      <Lemma writtenForm="ق ن ط ر" partOfSpeech="root"/>
+      <Sense id="L1368470-S1" synset="wikidata-ar-L1368470-S1" ili="wikidata-ar-L1368470-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369170">
+      <Lemma writtenForm="ك ر م" partOfSpeech="root"/>
+      <Sense id="L1369170-S1" synset="wikidata-ar-L1369170-S1" ili="wikidata-ar-L1369170-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369261">
+      <Lemma writtenForm="ش ه ر" partOfSpeech="root"/>
+      <Sense id="L1369261-S1" synset="wikidata-ar-L1369261-S1" ili="wikidata-ar-L1369261-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370054">
+      <Lemma writtenForm="ق و ي" partOfSpeech="root"/>
+      <Sense id="L1370054-S1" synset="wikidata-ar-L1370054-S1" ili="wikidata-ar-L1370054-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370054-S2" synset="wikidata-ar-L1370054-S2" ili="wikidata-ar-L1370054-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370056">
+      <Lemma writtenForm="خِلَالَ" partOfSpeech="preposition"/>
+      <Sense id="L1370056-S1" synset="wikidata-ar-L1370056-S1" ili="wikidata-ar-L1370056-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370733">
+      <Lemma writtenForm="و ج ه" partOfSpeech="root"/>
+      <Sense id="L1370733-S1" synset="wikidata-ar-L1370733-S1" ili="wikidata-ar-L1370733-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370733-S2" synset="wikidata-ar-L1370733-S2" ili="wikidata-ar-L1370733-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370733-S3" synset="wikidata-ar-L1370733-S3" ili="wikidata-ar-L1370733-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370733-S4" synset="wikidata-ar-L1370733-S4" ili="wikidata-ar-L1370733-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372441">
+      <Lemma writtenForm="ط ي ب" partOfSpeech="root"/>
+      <Sense id="L1372441-S1" synset="wikidata-ar-L1372441-S1" ili="wikidata-ar-L1372441-S1">
+        <Definition>طاب</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372825">
+      <Lemma writtenForm="ه م م" partOfSpeech="root"/>
+      <Sense id="L1372825-S1" synset="wikidata-ar-L1372825-S1" ili="wikidata-ar-L1372825-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1372825-S2" synset="wikidata-ar-L1372825-S2" ili="wikidata-ar-L1372825-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1385266">
+      <Lemma writtenForm="ذ ن ب" partOfSpeech="root"/>
+      <Sense id="L1385266-S1" synset="wikidata-ar-L1385266-S1" ili="wikidata-ar-L1385266-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404925">
+      <Lemma writtenForm="هُ" partOfSpeech="object pronoun"/>
+      <Sense id="L1404925-S1" synset="wikidata-ar-L1404925-S1" ili="wikidata-ar-L1404925-S1">
+        <Definition>(ضمير متَّصل للمفرد المذكر الغائب)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409092">
+      <Lemma writtenForm="س ن ب ل" partOfSpeech="root"/>
+      <Sense id="L1409092-S1" synset="wikidata-ar-L1409092-S1" ili="wikidata-ar-L1409092-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409385">
+      <Lemma writtenForm="ف ل ف ل" partOfSpeech="root"/>
+      <Sense id="L1409385-S1" synset="wikidata-ar-L1409385-S1" ili="wikidata-ar-L1409385-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422429">
+      <Lemma writtenForm="ي و م" partOfSpeech="root"/>
+      <Sense id="L1422429-S1" synset="wikidata-ar-L1422429-S1" ili="wikidata-ar-L1422429-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1462490">
+      <Lemma writtenForm="أَنْتَ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1462490-S1" synset="wikidata-ar-L1462490-S1" ili="wikidata-ar-L1462490-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548517">
+      <Lemma writtenForm="ح ء ء" partOfSpeech="root"/>
+      <Sense id="L1548517-S1" synset="wikidata-ar-L1548517-S1" ili="wikidata-ar-L1548517-S1">
+        <Definition>(حاء)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1549001">
+      <Lemma writtenForm="ق ن ر" partOfSpeech="root"/>
+      <Sense id="L1549001-S1" synset="wikidata-ar-L1549001-S1" ili="wikidata-ar-L1549001-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1550323">
+      <Lemma writtenForm="ت ل س" partOfSpeech="root"/>
+      <Sense id="L1550323-S1" synset="wikidata-ar-L1550323-S1" ili="wikidata-ar-L1550323-S1">
+        <Definition>(التِّلِّيسَةُ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5314">
+      <Lemma writtenForm="خ ت ن" partOfSpeech="root"/>
+      <Sense id="L5314-S1" synset="wikidata-ar-L5314-S1" ili="wikidata-ar-L5314-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5316">
+      <Lemma writtenForm="خ د ر" partOfSpeech="root"/>
+      <Sense id="L5316-S1" synset="wikidata-ar-L5316-S1" ili="wikidata-ar-L5316-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L12112">
+      <Lemma writtenForm="ح س ب" partOfSpeech="root"/>
+      <Sense id="L12112-S1" synset="wikidata-ar-L12112-S1" ili="wikidata-ar-L12112-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L12112-S2" synset="wikidata-ar-L12112-S2" ili="wikidata-ar-L12112-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35596">
+      <Lemma writtenForm="وَ" partOfSpeech="conjunction"/>
+      <Sense id="L35596-S1" synset="wikidata-ar-L35596-S1" ili="wikidata-ar-L35596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240497">
+      <Lemma writtenForm="ء ب ي" partOfSpeech="root"/>
+      <Sense id="L240497-S1" synset="wikidata-ar-L240497-S1" ili="wikidata-ar-L240497-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240509">
+      <Lemma writtenForm="ء ث ر" partOfSpeech="root"/>
+      <Sense id="L240509-S1" synset="wikidata-ar-L240509-S1" ili="wikidata-ar-L240509-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240509-S2" synset="wikidata-ar-L240509-S2" ili="wikidata-ar-L240509-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240509-S3" synset="wikidata-ar-L240509-S3" ili="wikidata-ar-L240509-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240509-S4" synset="wikidata-ar-L240509-S4" ili="wikidata-ar-L240509-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240527">
+      <Lemma writtenForm="ء خ ر" partOfSpeech="root"/>
+      <Sense id="L240527-S1" synset="wikidata-ar-L240527-S1" ili="wikidata-ar-L240527-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240527-S2" synset="wikidata-ar-L240527-S2" ili="wikidata-ar-L240527-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240527-S3" synset="wikidata-ar-L240527-S3" ili="wikidata-ar-L240527-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240529">
+      <Lemma writtenForm="ء د ب" partOfSpeech="root"/>
+      <Sense id="L240529-S1" synset="wikidata-ar-L240529-S1" ili="wikidata-ar-L240529-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240621">
+      <Lemma writtenForm="ء ك ل" partOfSpeech="root"/>
+      <Sense id="L240621-S1" synset="wikidata-ar-L240621-S1" ili="wikidata-ar-L240621-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240621-S2" synset="wikidata-ar-L240621-S2" ili="wikidata-ar-L240621-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240637">
+      <Lemma writtenForm="ء ل ه" partOfSpeech="root"/>
+      <Sense id="L240637-S1" synset="wikidata-ar-L240637-S1" ili="wikidata-ar-L240637-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243517">
+      <Lemma writtenForm="ب ط ن" partOfSpeech="root"/>
+      <Sense id="L243517-S1" synset="wikidata-ar-L243517-S1" ili="wikidata-ar-L243517-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243517-S2" synset="wikidata-ar-L243517-S2" ili="wikidata-ar-L243517-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243517-S3" synset="wikidata-ar-L243517-S3" ili="wikidata-ar-L243517-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243738">
+      <Lemma writtenForm="ت ه م" partOfSpeech="root"/>
+      <Sense id="L243738-S1" synset="wikidata-ar-L243738-S1" ili="wikidata-ar-L243738-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243839">
+      <Lemma writtenForm="ث ل ث" partOfSpeech="root"/>
+      <Sense id="L243839-S1" synset="wikidata-ar-L243839-S1" ili="wikidata-ar-L243839-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248642">
+      <Lemma writtenForm="ح ب ب" partOfSpeech="root"/>
+      <Sense id="L248642-S1" synset="wikidata-ar-L248642-S1" ili="wikidata-ar-L248642-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248642-S2" synset="wikidata-ar-L248642-S2" ili="wikidata-ar-L248642-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248642-S3" synset="wikidata-ar-L248642-S3" ili="wikidata-ar-L248642-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248642-S4" synset="wikidata-ar-L248642-S4" ili="wikidata-ar-L248642-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012574">
+      <Lemma writtenForm="ك س ر" partOfSpeech="root"/>
+      <Sense id="L1012574-S1" synset="wikidata-ar-L1012574-S1" ili="wikidata-ar-L1012574-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1232404">
+      <Lemma writtenForm="ح ف ظ" partOfSpeech="root"/>
+      <Sense id="L1232404-S1" synset="wikidata-ar-L1232404-S1" ili="wikidata-ar-L1232404-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1232404-S2" synset="wikidata-ar-L1232404-S2" ili="wikidata-ar-L1232404-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233487">
+      <Lemma writtenForm="خ ل د" partOfSpeech="root"/>
+      <Sense id="L1233487-S1" synset="wikidata-ar-L1233487-S1" ili="wikidata-ar-L1233487-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1233487-S2" synset="wikidata-ar-L1233487-S2" ili="wikidata-ar-L1233487-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233488">
+      <Lemma writtenForm="د ب ب" partOfSpeech="root"/>
+      <Sense id="L1233488-S1" synset="wikidata-ar-L1233488-S1" ili="wikidata-ar-L1233488-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233724">
+      <Lemma writtenForm="ح ل ب" partOfSpeech="root"/>
+      <Sense id="L1233724-S1" synset="wikidata-ar-L1233724-S1" ili="wikidata-ar-L1233724-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1234077">
+      <Lemma writtenForm="ن و ر" partOfSpeech="root"/>
+      <Sense id="L1234077-S1" synset="wikidata-ar-L1234077-S1" ili="wikidata-ar-L1234077-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1358268">
+      <Lemma writtenForm="ه و ي" partOfSpeech="root"/>
+      <Sense id="L1358268-S1" synset="wikidata-ar-L1358268-S1" ili="wikidata-ar-L1358268-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1358268-S2" synset="wikidata-ar-L1358268-S2" ili="wikidata-ar-L1358268-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365057">
+      <Lemma writtenForm="س ك ر" partOfSpeech="root"/>
+      <Sense id="L1365057-S1" synset="wikidata-ar-L1365057-S1" ili="wikidata-ar-L1365057-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1365057-S2" synset="wikidata-ar-L1365057-S2" ili="wikidata-ar-L1365057-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1365057-S3" synset="wikidata-ar-L1365057-S3" ili="wikidata-ar-L1365057-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1367964">
+      <Lemma writtenForm="ف ط س" partOfSpeech="root"/>
+      <Sense id="L1367964-S1" synset="wikidata-ar-L1367964-S1" ili="wikidata-ar-L1367964-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367964-S2" synset="wikidata-ar-L1367964-S2" ili="wikidata-ar-L1367964-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367964-S3" synset="wikidata-ar-L1367964-S3" ili="wikidata-ar-L1367964-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367964-S4" synset="wikidata-ar-L1367964-S4" ili="wikidata-ar-L1367964-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368020">
+      <Lemma writtenForm="ج م ه ر" partOfSpeech="root"/>
+      <Sense id="L1368020-S1" synset="wikidata-ar-L1368020-S1" ili="wikidata-ar-L1368020-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368022">
+      <Lemma writtenForm="ح م ل" partOfSpeech="root"/>
+      <Sense id="L1368022-S1" synset="wikidata-ar-L1368022-S1" ili="wikidata-ar-L1368022-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368028">
+      <Lemma writtenForm="د ع م" partOfSpeech="root"/>
+      <Sense id="L1368028-S1" synset="wikidata-ar-L1368028-S1" ili="wikidata-ar-L1368028-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371669">
+      <Lemma writtenForm="ن ص ف" partOfSpeech="root"/>
+      <Sense id="L1371669-S1" synset="wikidata-ar-L1371669-S1" ili="wikidata-ar-L1371669-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1371669-S2" synset="wikidata-ar-L1371669-S2" ili="wikidata-ar-L1371669-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372449">
+      <Lemma writtenForm="ن س ب" partOfSpeech="root"/>
+      <Sense id="L1372449-S1" synset="wikidata-ar-L1372449-S1" ili="wikidata-ar-L1372449-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1374032">
+      <Lemma writtenForm="خ ل ف" partOfSpeech="root"/>
+      <Sense id="L1374032-S1" synset="wikidata-ar-L1374032-S1" ili="wikidata-ar-L1374032-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1374032-S2" synset="wikidata-ar-L1374032-S2" ili="wikidata-ar-L1374032-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1374032-S3" synset="wikidata-ar-L1374032-S3" ili="wikidata-ar-L1374032-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1374032-S4" synset="wikidata-ar-L1374032-S4" ili="wikidata-ar-L1374032-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410541">
+      <Lemma writtenForm="د ع و" partOfSpeech="root"/>
+      <Sense id="L1410541-S1" synset="wikidata-ar-L1410541-S1" ili="wikidata-ar-L1410541-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1410541-S2" synset="wikidata-ar-L1410541-S2" ili="wikidata-ar-L1410541-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422427">
+      <Lemma writtenForm="الَّذِي" partOfSpeech="relative pronoun"/>
+      <Sense id="L1422427-S1" synset="wikidata-ar-L1422427-S1" ili="wikidata-ar-L1422427-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422431">
+      <Lemma writtenForm="لَمْ" partOfSpeech="negative particle"/>
+      <Sense id="L1422431-S1" synset="wikidata-ar-L1422431-S1" ili="wikidata-ar-L1422431-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422434">
+      <Lemma writtenForm="مَا" partOfSpeech="relative pronoun"/>
+      <Sense id="L1422434-S1" synset="wikidata-ar-L1422434-S1" ili="wikidata-ar-L1422434-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422441">
+      <Lemma writtenForm="قَدْ" partOfSpeech="grammatical particle"/>
+      <Sense id="L1422441-S1" synset="wikidata-ar-L1422441-S1" ili="wikidata-ar-L1422441-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451564">
+      <Lemma writtenForm="ت ن ب ل" partOfSpeech="root"/>
+      <Sense id="L1451564-S1" synset="wikidata-ar-L1451564-S1" ili="wikidata-ar-L1451564-S1">
+        <Definition>(والتِّنْبالُ ، والتِّنْبالَةُ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1453686">
+      <Lemma writtenForm="غَيْر" partOfSpeech="negative particle"/>
+      <Sense id="L1453686-S1" synset="wikidata-ar-L1453686-S1" ili="wikidata-ar-L1453686-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1463435">
+      <Lemma writtenForm="دُونَ" partOfSpeech="preposition"/>
+      <Sense id="L1463435-S1" synset="wikidata-ar-L1463435-S1" ili="wikidata-ar-L1463435-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473292">
+      <Lemma writtenForm="عِنْدَمَا" partOfSpeech="conjunction"/>
+      <Sense id="L1473292-S1" synset="wikidata-ar-L1473292-S1" ili="wikidata-ar-L1473292-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1508210">
+      <Lemma writtenForm="ذ و" partOfSpeech="root"/>
+      <Sense id="L1508210-S1" synset="wikidata-ar-L1508210-S1" ili="wikidata-ar-L1508210-S1">
+        <Definition>(ذُو؛ أُولُو؛ صاحِب)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548336">
+      <Lemma writtenForm="نَقْشَة" partOfSpeech="root"/>
+      <Sense id="L1548336-S1" synset="wikidata-ar-L1548336-S1" ili="wikidata-ar-L1548336-S1">
+        <Definition>علامة سَكّ‌، دَمْغَة</Definition>
+      </Sense>
+      <Sense id="L1548336-S2" synset="wikidata-ar-L1548336-S2" ili="wikidata-ar-L1548336-S2">
+        <Definition>حَفْر</Definition>
+      </Sense>
+      <Sense id="L1548336-S3" synset="wikidata-ar-L1548336-S3" ili="wikidata-ar-L1548336-S3">
+        <Definition>زَخْرفة</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548520">
+      <Lemma writtenForm="ق ل و ظ" partOfSpeech="root"/>
+      <Sense id="L1548520-S1" synset="wikidata-ar-L1548520-S1" ili="wikidata-ar-L1548520-S1">
+        <Definition>(قَلاووظ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548535">
+      <Lemma writtenForm="ش ك ش" partOfSpeech="root"/>
+      <Sense id="L1548535-S1" synset="wikidata-ar-L1548535-S1" ili="wikidata-ar-L1548535-S1">
+        <Definition>(شَاكُوش)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2288">
+      <Lemma writtenForm="ال" partOfSpeech="definite article"/>
+      <Sense id="L2288-S1" synset="wikidata-ar-L2288-S1" ili="wikidata-ar-L2288-S1">
+        <Definition>أداة التعريف في اللغة العربية</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2452">
+      <Lemma writtenForm="فِي" partOfSpeech="preposition"/>
+      <Sense id="L2452-S1" synset="wikidata-ar-L2452-S1" ili="wikidata-ar-L2452-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5009">
+      <Lemma writtenForm="ب ح ث" partOfSpeech="root"/>
+      <Sense id="L5009-S1" synset="wikidata-ar-L5009-S1" ili="wikidata-ar-L5009-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5009-S2" synset="wikidata-ar-L5009-S2" ili="wikidata-ar-L5009-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35597">
+      <Lemma writtenForm="فَ" partOfSpeech="conjunction"/>
+      <Sense id="L35597-S1" synset="wikidata-ar-L35597-S1" ili="wikidata-ar-L35597-S1">
+        <Definition>(حرف عطف يفيد الترتيب)</Definition>
+      </Sense>
+      <Sense id="L35597-S2" synset="wikidata-ar-L35597-S2" ili="wikidata-ar-L35597-S2">
+        <Definition>(حرف عطف يفيد التعقيب)</Definition>
+      </Sense>
+      <Sense id="L35597-S3" synset="wikidata-ar-L35597-S3" ili="wikidata-ar-L35597-S3">
+        <Definition>(حرف عطف يفيد السببيَّة)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35613">
+      <Lemma writtenForm="بِ" partOfSpeech="preposition"/>
+      <Sense id="L35613-S1" synset="wikidata-ar-L35613-S1" ili="wikidata-ar-L35613-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43463">
+      <Lemma writtenForm="أَرْبَعَةَ عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43463-S1" synset="wikidata-ar-L43463-S1" ili="wikidata-ar-L43463-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240478">
+      <Lemma writtenForm="ء ب ب" partOfSpeech="root"/>
+      <Sense id="L240478-S1" synset="wikidata-ar-L240478-S1" ili="wikidata-ar-L240478-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240588">
+      <Lemma writtenForm="ء ص ر" partOfSpeech="root"/>
+      <Sense id="L240588-S1" synset="wikidata-ar-L240588-S1" ili="wikidata-ar-L240588-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240588-S2" synset="wikidata-ar-L240588-S2" ili="wikidata-ar-L240588-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240658">
+      <Lemma writtenForm="ء ن س" partOfSpeech="root"/>
+      <Sense id="L240658-S1" synset="wikidata-ar-L240658-S1" ili="wikidata-ar-L240658-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240667">
+      <Lemma writtenForm="ء ه ل" partOfSpeech="root"/>
+      <Sense id="L240667-S1" synset="wikidata-ar-L240667-S1" ili="wikidata-ar-L240667-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240678">
+      <Lemma writtenForm="ء و ل" partOfSpeech="root"/>
+      <Sense id="L240678-S1" synset="wikidata-ar-L240678-S1" ili="wikidata-ar-L240678-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240678-S2" synset="wikidata-ar-L240678-S2" ili="wikidata-ar-L240678-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240678-S3" synset="wikidata-ar-L240678-S3" ili="wikidata-ar-L240678-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240678-S4" synset="wikidata-ar-L240678-S4" ili="wikidata-ar-L240678-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243391">
+      <Lemma writtenForm="ب ث ط" partOfSpeech="root"/>
+      <Sense id="L243391-S1" synset="wikidata-ar-L243391-S1" ili="wikidata-ar-L243391-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243514">
+      <Lemma writtenForm="ب ط ط" partOfSpeech="root"/>
+      <Sense id="L243514-S1" synset="wikidata-ar-L243514-S1" ili="wikidata-ar-L243514-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243514-S2" synset="wikidata-ar-L243514-S2" ili="wikidata-ar-L243514-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243535">
+      <Lemma writtenForm="ب غ ث" partOfSpeech="root"/>
+      <Sense id="L243535-S1" synset="wikidata-ar-L243535-S1" ili="wikidata-ar-L243535-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243654">
+      <Lemma writtenForm="ب ي ن" partOfSpeech="root"/>
+      <Sense id="L243654-S1" synset="wikidata-ar-L243654-S1" ili="wikidata-ar-L243654-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243654-S2" synset="wikidata-ar-L243654-S2" ili="wikidata-ar-L243654-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243957">
+      <Lemma writtenForm="ج ر ر" partOfSpeech="root"/>
+      <Sense id="L243957-S1" synset="wikidata-ar-L243957-S1" ili="wikidata-ar-L243957-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244089">
+      <Lemma writtenForm="ج و ب" partOfSpeech="root"/>
+      <Sense id="L244089-S1" synset="wikidata-ar-L244089-S1" ili="wikidata-ar-L244089-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244089-S2" synset="wikidata-ar-L244089-S2" ili="wikidata-ar-L244089-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244097">
+      <Lemma writtenForm="ج و ز" partOfSpeech="root"/>
+      <Sense id="L244097-S1" synset="wikidata-ar-L244097-S1" ili="wikidata-ar-L244097-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244097-S2" synset="wikidata-ar-L244097-S2" ili="wikidata-ar-L244097-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248689">
+      <Lemma writtenForm="ح د د" partOfSpeech="root"/>
+      <Sense id="L248689-S1" synset="wikidata-ar-L248689-S1" ili="wikidata-ar-L248689-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248689-S2" synset="wikidata-ar-L248689-S2" ili="wikidata-ar-L248689-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248689-S3" synset="wikidata-ar-L248689-S3" ili="wikidata-ar-L248689-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248689-S4" synset="wikidata-ar-L248689-S4" ili="wikidata-ar-L248689-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248719">
+      <Lemma writtenForm="ح ر ك" partOfSpeech="root"/>
+      <Sense id="L248719-S1" synset="wikidata-ar-L248719-S1" ili="wikidata-ar-L248719-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248734">
+      <Lemma writtenForm="ح ز ي" partOfSpeech="root"/>
+      <Sense id="L248734-S1" synset="wikidata-ar-L248734-S1" ili="wikidata-ar-L248734-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ar-L248733-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012573">
+      <Lemma writtenForm="س ر ق‎" partOfSpeech="root"/>
+      <Sense id="L1012573-S1" synset="wikidata-ar-L1012573-S1" ili="wikidata-ar-L1012573-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1081695">
+      <Lemma writtenForm="ل ب ن" partOfSpeech="root"/>
+      <Sense id="L1081695-S1" synset="wikidata-ar-L1081695-S1" ili="wikidata-ar-L1081695-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1157099">
+      <Lemma writtenForm="مِئَة" partOfSpeech="numeral"/>
+      <Sense id="L1157099-S1" synset="wikidata-ar-L1157099-S1" ili="wikidata-ar-L1157099-S1">
+        <Definition>عدد</Definition>
+      </Sense>
+      <Sense id="L1157099-S2" synset="wikidata-ar-L1157099-S2" ili="wikidata-ar-L1157099-S2">
+        <Definition>عدد يساوي عشر عشرات، وهو عدد أصليّ بعد تسعة وتسعين</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1191157">
+      <Lemma writtenForm="ق ل ن س" partOfSpeech="root"/>
+      <Sense id="L1191157-S1" synset="wikidata-ar-L1191157-S1" ili="wikidata-ar-L1191157-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1191157-S2" synset="wikidata-ar-L1191157-S2" ili="wikidata-ar-L1191157-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217784">
+      <Lemma writtenForm="و ح د" partOfSpeech="root"/>
+      <Sense id="L1217784-S1" synset="wikidata-ar-L1217784-S1" ili="wikidata-ar-L1217784-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1232401">
+      <Lemma writtenForm="إِذَا" partOfSpeech="nominal"/>
+      <Sense id="L1232401-S1" synset="wikidata-ar-L1232401-S1" ili="wikidata-ar-L1232401-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233475">
+      <Lemma writtenForm="ل ي ل" partOfSpeech="root"/>
+      <Sense id="L1233475-S1" synset="wikidata-ar-L1233475-S1" ili="wikidata-ar-L1233475-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235326">
+      <Lemma writtenForm="ح م ر" partOfSpeech="root"/>
+      <Sense id="L1235326-S1" synset="wikidata-ar-L1235326-S1" ili="wikidata-ar-L1235326-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1235326-S2" synset="wikidata-ar-L1235326-S2" ili="wikidata-ar-L1235326-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1249773">
+      <Lemma writtenForm="ع ق ل" partOfSpeech="root"/>
+      <Sense id="L1249773-S1" synset="wikidata-ar-L1249773-S1" ili="wikidata-ar-L1249773-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333915">
+      <Lemma writtenForm="أَنْ" partOfSpeech="function word"/>
+      <Sense id="L1333915-S1" synset="wikidata-ar-L1333915-S1" ili="wikidata-ar-L1333915-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1357663">
+      <Lemma writtenForm="و ق ت" partOfSpeech="root"/>
+      <Sense id="L1357663-S1" synset="wikidata-ar-L1357663-S1" ili="wikidata-ar-L1357663-S1">
+        <Definition>(وقت)</Definition>
+      </Sense>
+      <Sense id="L1357663-S2" synset="wikidata-ar-L1357663-S2" ili="wikidata-ar-L1357663-S2">
+        <Definition>(تعيين)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365058">
+      <Lemma writtenForm="ش ر ك" partOfSpeech="root"/>
+      <Sense id="L1365058-S1" synset="wikidata-ar-L1365058-S1" ili="wikidata-ar-L1365058-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1365058-S2" synset="wikidata-ar-L1365058-S2" ili="wikidata-ar-L1365058-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365077">
+      <Lemma writtenForm="خ ب ز" partOfSpeech="root"/>
+      <Sense id="L1365077-S1" synset="wikidata-ar-L1365077-S1" ili="wikidata-ar-L1365077-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369178">
+      <Lemma writtenForm="ل ح ي" partOfSpeech="root"/>
+      <Sense id="L1369178-S1" synset="wikidata-ar-L1369178-S1" ili="wikidata-ar-L1369178-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370541">
+      <Lemma writtenForm="ق ل ب" partOfSpeech="root"/>
+      <Sense id="L1370541-S1" synset="wikidata-ar-L1370541-S1" ili="wikidata-ar-L1370541-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370541-S2" synset="wikidata-ar-L1370541-S2" ili="wikidata-ar-L1370541-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404915">
+      <Lemma writtenForm="ع ل ي" partOfSpeech="root"/>
+      <Sense id="L1404915-S1" synset="wikidata-ar-L1404915-S1" ili="wikidata-ar-L1404915-S1">
+        <Definition>(عالي، مرتفع؛ صعود، ارتفاع)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404933">
+      <Lemma writtenForm="لَا" partOfSpeech="negative particle"/>
+      <Sense id="L1404933-S1" synset="wikidata-ar-L1404933-S1" ili="wikidata-ar-L1404933-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1404933-S2" synset="wikidata-ar-L1404933-S2" ili="wikidata-ar-L1404933-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407908">
+      <Lemma writtenForm="ر د ن" partOfSpeech="root"/>
+      <Sense id="L1407908-S1" synset="wikidata-ar-L1407908-S1" ili="wikidata-ar-L1407908-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S2" synset="wikidata-ar-L1407908-S2" ili="wikidata-ar-L1407908-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S3" synset="wikidata-ar-L1407908-S3" ili="wikidata-ar-L1407908-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S4" synset="wikidata-ar-L1407908-S4" ili="wikidata-ar-L1407908-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S5" synset="wikidata-ar-L1407908-S5" ili="wikidata-ar-L1407908-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S6" synset="wikidata-ar-L1407908-S6" ili="wikidata-ar-L1407908-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S7" synset="wikidata-ar-L1407908-S7" ili="wikidata-ar-L1407908-S7">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S8" synset="wikidata-ar-L1407908-S8" ili="wikidata-ar-L1407908-S8">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407908-S9" synset="wikidata-ar-L1407908-S9" ili="wikidata-ar-L1407908-S9">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407915">
+      <Lemma writtenForm="ط ل س" partOfSpeech="root"/>
+      <Sense id="L1407915-S1" synset="wikidata-ar-L1407915-S1" ili="wikidata-ar-L1407915-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S2" synset="wikidata-ar-L1407915-S2" ili="wikidata-ar-L1407915-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S3" synset="wikidata-ar-L1407915-S3" ili="wikidata-ar-L1407915-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S4" synset="wikidata-ar-L1407915-S4" ili="wikidata-ar-L1407915-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S5" synset="wikidata-ar-L1407915-S5" ili="wikidata-ar-L1407915-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S6" synset="wikidata-ar-L1407915-S6" ili="wikidata-ar-L1407915-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407915-S7" synset="wikidata-ar-L1407915-S7" ili="wikidata-ar-L1407915-S7">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411674">
+      <Lemma writtenForm="ع ق د" partOfSpeech="root"/>
+      <Sense id="L1411674-S1" synset="wikidata-ar-L1411674-S1" ili="wikidata-ar-L1411674-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1411674-S2" synset="wikidata-ar-L1411674-S2" ili="wikidata-ar-L1411674-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1412640">
+      <Lemma writtenForm="م ر ت ك" partOfSpeech="root"/>
+      <Sense id="L1412640-S1" synset="wikidata-ar-L1412640-S1" ili="wikidata-ar-L1412640-S1">
+        <Definition>(الْمَرْتَكُ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1414205">
+      <Lemma writtenForm="س ك ن" partOfSpeech="root"/>
+      <Sense id="L1414205-S1" synset="wikidata-ar-L1414205-S1" ili="wikidata-ar-L1414205-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1414205-S2" synset="wikidata-ar-L1414205-S2" ili="wikidata-ar-L1414205-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1414205-S3" synset="wikidata-ar-L1414205-S3" ili="wikidata-ar-L1414205-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1414205-S4" synset="wikidata-ar-L1414205-S4" ili="wikidata-ar-L1414205-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1421012">
+      <Lemma writtenForm="ن خ ب" partOfSpeech="root"/>
+      <Sense id="L1421012-S1" synset="wikidata-ar-L1421012-S1" ili="wikidata-ar-L1421012-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1421012-S2" synset="wikidata-ar-L1421012-S2" ili="wikidata-ar-L1421012-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1421012-S3" synset="wikidata-ar-L1421012-S3" ili="wikidata-ar-L1421012-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422420">
+      <Lemma writtenForm="الَّتِي" partOfSpeech="relative pronoun"/>
+      <Sense id="L1422420-S1" synset="wikidata-ar-L1422420-S1" ili="wikidata-ar-L1422420-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422437">
+      <Lemma writtenForm="بَعْدَ" partOfSpeech="preposition"/>
+      <Sense id="L1422437-S1" synset="wikidata-ar-L1422437-S1" ili="wikidata-ar-L1422437-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422443">
+      <Lemma writtenForm="عِنْدَ" partOfSpeech="preposition"/>
+      <Sense id="L1422443-S1" synset="wikidata-ar-L1422443-S1" ili="wikidata-ar-L1422443-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451500">
+      <Lemma writtenForm="ز ر ف" partOfSpeech="root"/>
+      <Sense id="L1451500-S1" synset="wikidata-ar-L1451500-S1" ili="wikidata-ar-L1451500-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1451500-S2" synset="wikidata-ar-L1451500-S2" ili="wikidata-ar-L1451500-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451523">
+      <Lemma writtenForm="غ و ر" partOfSpeech="root"/>
+      <Sense id="L1451523-S1" synset="wikidata-ar-L1451523-S1" ili="wikidata-ar-L1451523-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1451523-S2" synset="wikidata-ar-L1451523-S2" ili="wikidata-ar-L1451523-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451566">
+      <Lemma writtenForm="ب ن د ر" partOfSpeech="root"/>
+      <Sense id="L1451566-S1" synset="wikidata-ar-L1451566-S1" ili="wikidata-ar-L1451566-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1463377">
+      <Lemma writtenForm="قَبْل" partOfSpeech="preposition"/>
+      <Sense id="L1463377-S1" synset="wikidata-ar-L1463377-S1" ili="wikidata-ar-L1463377-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1463423">
+      <Lemma writtenForm="لَوْ" partOfSpeech="conjunction"/>
+      <Sense id="L1463423-S1" synset="wikidata-ar-L1463423-S1" ili="wikidata-ar-L1463423-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1468544">
+      <Lemma writtenForm="و ك ء" partOfSpeech="root"/>
+      <Sense id="L1468544-S1" synset="wikidata-ar-L1468544-S1" ili="wikidata-ar-L1468544-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1522765">
+      <Lemma writtenForm="ء ص ط ب ل" partOfSpeech="root"/>
+      <Sense id="L1522765-S1" synset="wikidata-ar-L1522765-S1" ili="wikidata-ar-L1522765-S1">
+        <Definition>(إِصْطَبْل)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2308">
+      <Lemma writtenForm="ك ت ب" partOfSpeech="root"/>
+      <Sense id="L2308-S1" synset="wikidata-ar-L2308-S1" ili="wikidata-ar-L2308-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5311">
+      <Lemma writtenForm="س ن ن" partOfSpeech="root"/>
+      <Sense id="L5311-S1" synset="wikidata-ar-L5311-S1" ili="wikidata-ar-L5311-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35604">
+      <Lemma writtenForm="إِلَىٰ" partOfSpeech="preposition"/>
+      <Sense id="L35604-S1" synset="wikidata-ar-L35604-S1" ili="wikidata-ar-L35604-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35606">
+      <Lemma writtenForm="عَنْ" partOfSpeech="preposition"/>
+      <Sense id="L35606-S1" synset="wikidata-ar-L35606-S1" ili="wikidata-ar-L35606-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43460">
+      <Lemma writtenForm="أَحَدَ عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43460-S1" synset="wikidata-ar-L43460-S1" ili="wikidata-ar-L43460-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43461">
+      <Lemma writtenForm="اِثْنَا عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43461-S1" synset="wikidata-ar-L43461-S1" ili="wikidata-ar-L43461-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240474">
+      <Lemma writtenForm="ح م د" partOfSpeech="root"/>
+      <Sense id="L240474-S1" synset="wikidata-ar-L240474-S1" ili="wikidata-ar-L240474-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240483">
+      <Lemma writtenForm="ء ب د" partOfSpeech="root"/>
+      <Sense id="L240483-S1" synset="wikidata-ar-L240483-S1" ili="wikidata-ar-L240483-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240493">
+      <Lemma writtenForm="ء ب ل" partOfSpeech="root"/>
+      <Sense id="L240493-S1" synset="wikidata-ar-L240493-S1" ili="wikidata-ar-L240493-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240493-S2" synset="wikidata-ar-L240493-S2" ili="wikidata-ar-L240493-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240566">
+      <Lemma writtenForm="ء ز ل" partOfSpeech="root"/>
+      <Sense id="L240566-S1" synset="wikidata-ar-L240566-S1" ili="wikidata-ar-L240566-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240566-S2" synset="wikidata-ar-L240566-S2" ili="wikidata-ar-L240566-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240573">
+      <Lemma writtenForm="ء س س" partOfSpeech="root"/>
+      <Sense id="L240573-S1" synset="wikidata-ar-L240573-S1" ili="wikidata-ar-L240573-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240590">
+      <Lemma writtenForm="ء ص ل" partOfSpeech="root"/>
+      <Sense id="L240590-S1" synset="wikidata-ar-L240590-S1" ili="wikidata-ar-L240590-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240590-S2" synset="wikidata-ar-L240590-S2" ili="wikidata-ar-L240590-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240644">
+      <Lemma writtenForm="ء م ر" partOfSpeech="root"/>
+      <Sense id="L240644-S1" synset="wikidata-ar-L240644-S1" ili="wikidata-ar-L240644-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240644-S2" synset="wikidata-ar-L240644-S2" ili="wikidata-ar-L240644-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240644-S3" synset="wikidata-ar-L240644-S3" ili="wikidata-ar-L240644-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240644-S4" synset="wikidata-ar-L240644-S4" ili="wikidata-ar-L240644-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243665">
+      <Lemma writtenForm="ت ب ع" partOfSpeech="root"/>
+      <Sense id="L243665-S1" synset="wikidata-ar-L243665-S1" ili="wikidata-ar-L243665-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L705777">
+      <Lemma writtenForm="س ه ل‎" partOfSpeech="root"/>
+      <Sense id="L705777-S1" synset="wikidata-ar-L705777-S1" ili="wikidata-ar-L705777-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L705777-S2" synset="wikidata-ar-L705777-S2" ili="wikidata-ar-L705777-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L705777-S3" synset="wikidata-ar-L705777-S3" ili="wikidata-ar-L705777-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012576">
+      <Lemma writtenForm="ر ك ب‎" partOfSpeech="root"/>
+      <Sense id="L1012576-S1" synset="wikidata-ar-L1012576-S1" ili="wikidata-ar-L1012576-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1162054">
+      <Lemma writtenForm="م ه ر" partOfSpeech="root"/>
+      <Sense id="L1162054-S1" synset="wikidata-ar-L1162054-S1" ili="wikidata-ar-L1162054-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1162054-S2" synset="wikidata-ar-L1162054-S2" ili="wikidata-ar-L1162054-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1162054-S3" synset="wikidata-ar-L1162054-S3" ili="wikidata-ar-L1162054-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1162054-S4" synset="wikidata-ar-L1162054-S4" ili="wikidata-ar-L1162054-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222968">
+      <Lemma writtenForm="ض ي ف" partOfSpeech="root"/>
+      <Sense id="L1222968-S1" synset="wikidata-ar-L1222968-S1" ili="wikidata-ar-L1222968-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233688">
+      <Lemma writtenForm="ظ ه ر" partOfSpeech="root"/>
+      <Sense id="L1233688-S1" synset="wikidata-ar-L1233688-S1" ili="wikidata-ar-L1233688-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1233688-S2" synset="wikidata-ar-L1233688-S2" ili="wikidata-ar-L1233688-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1233688-S3" synset="wikidata-ar-L1233688-S3" ili="wikidata-ar-L1233688-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233737">
+      <Lemma writtenForm="ص ر ف" partOfSpeech="root"/>
+      <Sense id="L1233737-S1" synset="wikidata-ar-L1233737-S1" ili="wikidata-ar-L1233737-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1233737-S2" synset="wikidata-ar-L1233737-S2" ili="wikidata-ar-L1233737-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1248789">
+      <Lemma writtenForm="ع ز ز" partOfSpeech="root"/>
+      <Sense id="L1248789-S1" synset="wikidata-ar-L1248789-S1" ili="wikidata-ar-L1248789-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1256027">
+      <Lemma writtenForm="س ب ب" partOfSpeech="root"/>
+      <Sense id="L1256027-S1" synset="wikidata-ar-L1256027-S1" ili="wikidata-ar-L1256027-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1256027-S2" synset="wikidata-ar-L1256027-S2" ili="wikidata-ar-L1256027-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1256027-S3" synset="wikidata-ar-L1256027-S3" ili="wikidata-ar-L1256027-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1256027-S4" synset="wikidata-ar-L1256027-S4" ili="wikidata-ar-L1256027-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1259879">
+      <Lemma writtenForm="ن" partOfSpeech="modal particle"/>
+      <Sense id="L1259879-S1" synset="wikidata-ar-L1259879-S1" ili="wikidata-ar-L1259879-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1358152">
+      <Lemma writtenForm="و ض ع" partOfSpeech="root"/>
+      <Sense id="L1358152-S1" synset="wikidata-ar-L1358152-S1" ili="wikidata-ar-L1358152-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1358152-S2" synset="wikidata-ar-L1358152-S2" ili="wikidata-ar-L1358152-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1358152-S3" synset="wikidata-ar-L1358152-S3" ili="wikidata-ar-L1358152-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1358155">
+      <Lemma writtenForm="ع ر ص" partOfSpeech="root"/>
+      <Sense id="L1358155-S1" synset="wikidata-ar-L1358155-S1" ili="wikidata-ar-L1358155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365061">
+      <Lemma writtenForm="ع ل م" partOfSpeech="root"/>
+      <Sense id="L1365061-S1" synset="wikidata-ar-L1365061-S1" ili="wikidata-ar-L1365061-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1367988">
+      <Lemma writtenForm="س و م" partOfSpeech="root"/>
+      <Sense id="L1367988-S1" synset="wikidata-ar-L1367988-S1" ili="wikidata-ar-L1367988-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367988-S2" synset="wikidata-ar-L1367988-S2" ili="wikidata-ar-L1367988-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367988-S3" synset="wikidata-ar-L1367988-S3" ili="wikidata-ar-L1367988-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1367988-S4" synset="wikidata-ar-L1367988-S4" ili="wikidata-ar-L1367988-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368017">
+      <Lemma writtenForm="ع م ر" partOfSpeech="root"/>
+      <Sense id="L1368017-S1" synset="wikidata-ar-L1368017-S1" ili="wikidata-ar-L1368017-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368017-S2" synset="wikidata-ar-L1368017-S2" ili="wikidata-ar-L1368017-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368381">
+      <Lemma writtenForm="ر ه ن" partOfSpeech="root"/>
+      <Sense id="L1368381-S1" synset="wikidata-ar-L1368381-S1" ili="wikidata-ar-L1368381-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368384">
+      <Lemma writtenForm="س ح ل" partOfSpeech="root"/>
+      <Sense id="L1368384-S1" synset="wikidata-ar-L1368384-S1" ili="wikidata-ar-L1368384-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368433">
+      <Lemma writtenForm="ع ش ق" partOfSpeech="root"/>
+      <Sense id="L1368433-S1" synset="wikidata-ar-L1368433-S1" ili="wikidata-ar-L1368433-S1">
+        <Definition>(عِشْق)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369166">
+      <Lemma writtenForm="ك ل ب" partOfSpeech="root"/>
+      <Sense id="L1369166-S1" synset="wikidata-ar-L1369166-S1" ili="wikidata-ar-L1369166-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369179">
+      <Lemma writtenForm="ط ر ق" partOfSpeech="root"/>
+      <Sense id="L1369179-S1" synset="wikidata-ar-L1369179-S1" ili="wikidata-ar-L1369179-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369285">
+      <Lemma writtenForm="ع ب د" partOfSpeech="root"/>
+      <Sense id="L1369285-S1" synset="wikidata-ar-L1369285-S1" ili="wikidata-ar-L1369285-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369285-S2" synset="wikidata-ar-L1369285-S2" ili="wikidata-ar-L1369285-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372424">
+      <Lemma writtenForm="ش ك ل" partOfSpeech="root"/>
+      <Sense id="L1372424-S1" synset="wikidata-ar-L1372424-S1" ili="wikidata-ar-L1372424-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372437">
+      <Lemma writtenForm="و ط ن" partOfSpeech="root"/>
+      <Sense id="L1372437-S1" synset="wikidata-ar-L1372437-S1" ili="wikidata-ar-L1372437-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372438">
+      <Lemma writtenForm="م د ن" partOfSpeech="root"/>
+      <Sense id="L1372438-S1" synset="wikidata-ar-L1372438-S1" ili="wikidata-ar-L1372438-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1420615">
+      <Lemma writtenForm="ذٰلِكَ" partOfSpeech="determiner"/>
+      <Sense id="L1420615-S1" synset="wikidata-ar-L1420615-S1" ili="wikidata-ar-L1420615-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422423">
+      <Lemma writtenForm="هُوَ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1422423-S1" synset="wikidata-ar-L1422423-S1" ili="l485-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422436">
+      <Lemma writtenForm="هِيَ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1422436-S1" synset="wikidata-ar-L1422436-S1" ili="l484-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451565">
+      <Lemma writtenForm="خ م س" partOfSpeech="root"/>
+      <Sense id="L1451565-S1" synset="wikidata-ar-L1451565-S1" ili="wikidata-ar-L1451565-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1462491">
+      <Lemma writtenForm="أَنْتِ" partOfSpeech="personal pronoun"/>
+      <Sense id="L1462491-S1" synset="wikidata-ar-L1462491-S1" ili="wikidata-ar-L1462491-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1531767">
+      <Lemma writtenForm="ج ث ل ق" partOfSpeech="root"/>
+      <Sense id="L1531767-S1" synset="wikidata-ar-L1531767-S1" ili="wikidata-ar-L1531767-S1">
+        <Definition>(الجَاثَلِيق)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548521">
+      <Lemma writtenForm="ط ن ب ر" partOfSpeech="root"/>
+      <Sense id="L1548521-S1" synset="wikidata-ar-L1548521-S1" ili="wikidata-ar-L1548521-S1">
+        <Definition>(دُنْبَهْ بَرَّهْ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1549729">
+      <Lemma writtenForm="رُوَيْدًا رُوَيْدًا" partOfSpeech="adverbial locution"/>
+      <Sense id="L1549729-S1" synset="wikidata-ar-L1549729-S1" ili="wikidata-ar-L1549729-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5315">
+      <Lemma writtenForm="خ ج ل" partOfSpeech="root"/>
+      <Sense id="L5315-S1" synset="wikidata-ar-L5315-S1" ili="wikidata-ar-L5315-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5315-S2" synset="wikidata-ar-L5315-S2" ili="wikidata-ar-L5315-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L5315-S3" synset="wikidata-ar-L5315-S3" ili="wikidata-ar-L5315-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35595">
+      <Lemma writtenForm="حَتَّى" partOfSpeech="preposition"/>
+      <Sense id="L35595-S1" synset="wikidata-ar-L35595-S1" ili="wikidata-ar-L35595-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L35595-S2" synset="wikidata-ar-L35595-S2" ili="wikidata-ar-L35595-S2">
+        <Definition>ظرف ويشترط فيه أن يُسبق بنفي</Definition>
+      </Sense>
+      <Sense id="L35595-S3" synset="wikidata-ar-L35595-S3" ili="wikidata-ar-L35595-S3">
+        <Definition>حرفُ جَرٍّ يَدُلُّ على الاِنْتِهاءِ، أَيِ انْتِهاءِ الغايَةِ الزَّمَنِيَّةِ</Definition>
+      </Sense>
+      <Sense id="L35595-S5" synset="wikidata-ar-L35595-S5" ili="wikidata-ar-L35595-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L35595-S6" synset="wikidata-ar-L35595-S6" ili="wikidata-ar-L35595-S6">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35607">
+      <Lemma writtenForm="عَلَى" partOfSpeech="preposition"/>
+      <Sense id="L35607-S1" synset="wikidata-ar-L35607-S1" ili="wikidata-ar-L35607-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ar-L35611-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35608">
+      <Lemma writtenForm="مُذْ" partOfSpeech="preposition"/>
+      <Sense id="L35608-S1" synset="wikidata-ar-L35608-S1" ili="wikidata-ar-L35608-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35610">
+      <Lemma writtenForm="مُنْذُ" partOfSpeech="conjunction"/>
+      <Sense id="L35610-S1" synset="wikidata-ar-L35610-S1" ili="wikidata-ar-L35610-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43471">
+      <Lemma writtenForm="اِثْنَانِ" partOfSpeech="numeral"/>
+      <Sense id="L43471-S1" synset="wikidata-ar-L43471-S1" ili="wikidata-ar-L43471-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240507">
+      <Lemma writtenForm="ء ث ء" partOfSpeech="root"/>
+      <Sense id="L240507-S1" synset="wikidata-ar-L240507-S1" ili="wikidata-ar-L240507-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240508">
+      <Lemma writtenForm="ء ث ث" partOfSpeech="root"/>
+      <Sense id="L240508-S1" synset="wikidata-ar-L240508-S1" ili="wikidata-ar-L240508-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240543">
+      <Lemma writtenForm="ء ر خ" partOfSpeech="root"/>
+      <Sense id="L240543-S1" synset="wikidata-ar-L240543-S1" ili="wikidata-ar-L240543-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243388">
+      <Lemma writtenForm="ب ث ء" partOfSpeech="root"/>
+      <Sense id="L243388-S1" synset="wikidata-ar-L243388-S1" ili="wikidata-ar-L243388-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243392">
+      <Lemma writtenForm="ب ث ع" partOfSpeech="root"/>
+      <Sense id="L243392-S1" synset="wikidata-ar-L243392-S1" ili="wikidata-ar-L243392-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243392-S2" synset="wikidata-ar-L243392-S2" ili="wikidata-ar-L243392-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243393">
+      <Lemma writtenForm="ب ث ق" partOfSpeech="root"/>
+      <Sense id="L243393-S1" synset="wikidata-ar-L243393-S1" ili="wikidata-ar-L243393-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243523">
+      <Lemma writtenForm="ب ع د" partOfSpeech="root"/>
+      <Sense id="L243523-S1" synset="wikidata-ar-L243523-S1" ili="wikidata-ar-L243523-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243523-S2" synset="wikidata-ar-L243523-S2" ili="wikidata-ar-L243523-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243523-S3" synset="wikidata-ar-L243523-S3" ili="wikidata-ar-L243523-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243579">
+      <Lemma writtenForm="ب ل غ" partOfSpeech="root"/>
+      <Sense id="L243579-S1" synset="wikidata-ar-L243579-S1" ili="wikidata-ar-L243579-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243579-S2" synset="wikidata-ar-L243579-S2" ili="wikidata-ar-L243579-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243663">
+      <Lemma writtenForm="ت ب ب" partOfSpeech="root"/>
+      <Sense id="L243663-S1" synset="wikidata-ar-L243663-S1" ili="wikidata-ar-L243663-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243690">
+      <Lemma writtenForm="ت س ع" partOfSpeech="root"/>
+      <Sense id="L243690-S1" synset="wikidata-ar-L243690-S1" ili="wikidata-ar-L243690-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243971">
+      <Lemma writtenForm="ج ر ي" partOfSpeech="root"/>
+      <Sense id="L243971-S1" synset="wikidata-ar-L243971-S1" ili="wikidata-ar-L243971-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243971-S2" synset="wikidata-ar-L243971-S2" ili="wikidata-ar-L243971-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244062">
+      <Lemma writtenForm="ج ن ب" partOfSpeech="root"/>
+      <Sense id="L244062-S1" synset="wikidata-ar-L244062-S1" ili="wikidata-ar-L244062-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L244062-S2" synset="wikidata-ar-L244062-S2" ili="wikidata-ar-L244062-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L244078">
+      <Lemma writtenForm="ج ه ز" partOfSpeech="root"/>
+      <Sense id="L244078-S1" synset="wikidata-ar-L244078-S1" ili="wikidata-ar-L244078-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248715">
+      <Lemma writtenForm="ح ر ص" partOfSpeech="root"/>
+      <Sense id="L248715-S1" synset="wikidata-ar-L248715-S1" ili="wikidata-ar-L248715-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248715-S2" synset="wikidata-ar-L248715-S2" ili="wikidata-ar-L248715-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097496">
+      <Lemma writtenForm="ع و د" partOfSpeech="root"/>
+      <Sense id="L1097496-S1" synset="wikidata-ar-L1097496-S1" ili="wikidata-ar-L1097496-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133516">
+      <Lemma writtenForm="ص و ف" partOfSpeech="root"/>
+      <Sense id="L1133516-S1" synset="wikidata-ar-L1133516-S1" ili="wikidata-ar-L1133516-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1232402">
+      <Lemma writtenForm="إِذًا" partOfSpeech="concessive conjunction"/>
+      <Sense id="L1232402-S1" synset="wikidata-ar-L1232402-S1" ili="wikidata-ar-L1232402-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233374">
+      <Lemma writtenForm="ق د س" partOfSpeech="root"/>
+      <Sense id="L1233374-S1" synset="wikidata-ar-L1233374-S1" ili="wikidata-ar-L1233374-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233471">
+      <Lemma writtenForm="د خ ل" partOfSpeech="root"/>
+      <Sense id="L1233471-S1" synset="wikidata-ar-L1233471-S1" ili="wikidata-ar-L1233471-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1233471-S2" synset="wikidata-ar-L1233471-S2" ili="wikidata-ar-L1233471-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233667">
+      <Lemma writtenForm="ض ف د ع" partOfSpeech="root"/>
+      <Sense id="L1233667-S1" synset="wikidata-ar-L1233667-S1" ili="wikidata-ar-L1233667-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321099">
+      <Lemma writtenForm="مَعَ" partOfSpeech="preposition"/>
+      <Sense id="L1321099-S1" synset="wikidata-ar-L1321099-S1" ili="l2991-s1">
+        <Definition>مرتبط أو مرافق</Definition>
+      </Sense>
+      <Sense id="L1321099-S2" synset="wikidata-ar-L1321099-S2" ili="wikidata-ar-L1321099-S2">
+        <Definition>يوجدان في ارتباط وثيق</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321112">
+      <Lemma writtenForm="مَا" partOfSpeech="interrogative word"/>
+      <Sense id="L1321112-S1" synset="wikidata-ar-L1321112-S1" ili="wikidata-ar-L1321112-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1338813">
+      <Lemma writtenForm="ش ي ء" partOfSpeech="root"/>
+      <Sense id="L1338813-S1" synset="wikidata-ar-L1338813-S1" ili="wikidata-ar-L1338813-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1338813-S2" synset="wikidata-ar-L1338813-S2" ili="wikidata-ar-L1338813-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1339611">
+      <Lemma writtenForm="ص ح ب" partOfSpeech="root"/>
+      <Sense id="L1339611-S1" synset="wikidata-ar-L1339611-S1" ili="wikidata-ar-L1339611-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1339611-S2" synset="wikidata-ar-L1339611-S2" ili="wikidata-ar-L1339611-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1342493">
+      <Lemma writtenForm="ح ص ل" partOfSpeech="root"/>
+      <Sense id="L1342493-S1" synset="wikidata-ar-L1342493-S1" ili="wikidata-ar-L1342493-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1342493-S2" synset="wikidata-ar-L1342493-S2" ili="wikidata-ar-L1342493-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1367968">
+      <Lemma writtenForm="ع ك س" partOfSpeech="root"/>
+      <Sense id="L1367968-S1" synset="wikidata-ar-L1367968-S1" ili="wikidata-ar-L1367968-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368024">
+      <Lemma writtenForm="خ ل ل" partOfSpeech="root"/>
+      <Sense id="L1368024-S1" synset="wikidata-ar-L1368024-S1" ili="wikidata-ar-L1368024-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1368024-S2" synset="wikidata-ar-L1368024-S2" ili="wikidata-ar-L1368024-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370537">
+      <Lemma writtenForm="ق و م" partOfSpeech="root"/>
+      <Sense id="L1370537-S1" synset="wikidata-ar-L1370537-S1" ili="wikidata-ar-L1370537-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1370537-S2" synset="wikidata-ar-L1370537-S2" ili="wikidata-ar-L1370537-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371665">
+      <Lemma writtenForm="ن ظ م" partOfSpeech="root"/>
+      <Sense id="L1371665-S1" synset="wikidata-ar-L1371665-S1" ili="wikidata-ar-L1371665-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372427">
+      <Lemma writtenForm="خ ص ص" partOfSpeech="root"/>
+      <Sense id="L1372427-S1" synset="wikidata-ar-L1372427-S1" ili="wikidata-ar-L1372427-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372447">
+      <Lemma writtenForm="س م ع" partOfSpeech="root"/>
+      <Sense id="L1372447-S1" synset="wikidata-ar-L1372447-S1" ili="wikidata-ar-L1372447-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404932">
+      <Lemma writtenForm="ص ل و" partOfSpeech="root"/>
+      <Sense id="L1404932-S1" synset="wikidata-ar-L1404932-S1" ili="wikidata-ar-L1404932-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1404932-S2" synset="wikidata-ar-L1404932-S2" ili="wikidata-ar-L1404932-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410539">
+      <Lemma writtenForm="د ر ي" partOfSpeech="root"/>
+      <Sense id="L1410539-S1" synset="wikidata-ar-L1410539-S1" ili="wikidata-ar-L1410539-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422433">
+      <Lemma writtenForm="إِنَّ" partOfSpeech="conjunction"/>
+      <Sense id="L1422433-S1" synset="wikidata-ar-L1422433-S1" ili="wikidata-ar-L1422433-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1422433-S2" synset="wikidata-ar-L1422433-S2" ili="wikidata-ar-L1422433-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422435">
+      <Lemma writtenForm="بَيْنَ" partOfSpeech="preposition"/>
+      <Sense id="L1422435-S1" synset="wikidata-ar-L1422435-S1" ili="wikidata-ar-L1422435-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1450422">
+      <Lemma writtenForm="ع ن ب ر" partOfSpeech="root"/>
+      <Sense id="L1450422-S1" synset="wikidata-ar-L1450422-S1" ili="wikidata-ar-L1450422-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451503">
+      <Lemma writtenForm="ر ه ج" partOfSpeech="root"/>
+      <Sense id="L1451503-S1" synset="wikidata-ar-L1451503-S1" ili="wikidata-ar-L1451503-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451525">
+      <Lemma writtenForm="س ل ح ف" partOfSpeech="root"/>
+      <Sense id="L1451525-S1" synset="wikidata-ar-L1451525-S1" ili="wikidata-ar-L1451525-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1453694">
+      <Lemma writtenForm="ن ف س" partOfSpeech="root"/>
+      <Sense id="L1453694-S1" synset="wikidata-ar-L1453694-S1" ili="wikidata-ar-L1453694-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1453694-S2" synset="wikidata-ar-L1453694-S2" ili="wikidata-ar-L1453694-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1474029">
+      <Lemma writtenForm="ط ه" partOfSpeech="root"/>
+      <Sense id="L1474029-S1" synset="wikidata-ar-L1474029-S1" ili="wikidata-ar-L1474029-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35593">
+      <Lemma writtenForm="لَا" partOfSpeech="conjunction"/>
+      <Sense id="L35593-S1" synset="wikidata-ar-L35593-S1" ili="wikidata-ar-L35593-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35599">
+      <Lemma writtenForm="أَوْ" partOfSpeech="grammatical particle"/>
+      <Sense id="L35599-S1" synset="wikidata-ar-L35599-S1" ili="wikidata-ar-L35599-S1">
+        <Definition>حرف ربط يربط بين جملتين أو كلمتين</Definition>
+      </Sense>
+      <Sense id="L35599-S2" synset="wikidata-ar-L35599-S2" ili="wikidata-ar-L35599-S2">
+        <Definition>حرف استثناء يستثني كلمة</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35600">
+      <Lemma writtenForm="أَمْ" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L35600-S1" synset="wikidata-ar-L35600-S1" ili="wikidata-ar-L35600-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43470">
+      <Lemma writtenForm="وَاحِدٌ وَعِشْرُونَ" partOfSpeech="numeral"/>
+      <Sense id="L43470-S1" synset="wikidata-ar-L43470-S1" ili="wikidata-ar-L43470-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240490">
+      <Lemma writtenForm="ء ب ط" partOfSpeech="root"/>
+      <Sense id="L240490-S1" synset="wikidata-ar-L240490-S1" ili="wikidata-ar-L240490-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240490-S2" synset="wikidata-ar-L240490-S2" ili="wikidata-ar-L240490-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240512">
+      <Lemma writtenForm="ء ث م" partOfSpeech="root"/>
+      <Sense id="L240512-S1" synset="wikidata-ar-L240512-S1" ili="wikidata-ar-L240512-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240663">
+      <Lemma writtenForm="ء ن ن" partOfSpeech="root"/>
+      <Sense id="L240663-S1" synset="wikidata-ar-L240663-S1" ili="wikidata-ar-L240663-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240663-S2" synset="wikidata-ar-L240663-S2" ili="wikidata-ar-L240663-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240663-S3" synset="wikidata-ar-L240663-S3" ili="wikidata-ar-L240663-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243407">
+      <Lemma writtenForm="ب ح ر" partOfSpeech="root"/>
+      <Sense id="L243407-S1" synset="wikidata-ar-L243407-S1" ili="wikidata-ar-L243407-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243445">
+      <Lemma writtenForm="ب ر ء" partOfSpeech="root"/>
+      <Sense id="L243445-S1" synset="wikidata-ar-L243445-S1" ili="wikidata-ar-L243445-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243445-S2" synset="wikidata-ar-L243445-S2" ili="wikidata-ar-L243445-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243445-S3" synset="wikidata-ar-L243445-S3" ili="wikidata-ar-L243445-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243445-S4" synset="wikidata-ar-L243445-S4" ili="wikidata-ar-L243445-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243461">
+      <Lemma writtenForm="ب ر ق" partOfSpeech="root"/>
+      <Sense id="L243461-S1" synset="wikidata-ar-L243461-S1" ili="wikidata-ar-L243461-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243485">
+      <Lemma writtenForm="ب س م" partOfSpeech="root"/>
+      <Sense id="L243485-S1" synset="wikidata-ar-L243485-S1" ili="wikidata-ar-L243485-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243556">
+      <Lemma writtenForm="ب ق ي" partOfSpeech="root"/>
+      <Sense id="L243556-S1" synset="wikidata-ar-L243556-S1" ili="wikidata-ar-L243556-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L248720">
+      <Lemma writtenForm="ح ر م" partOfSpeech="root"/>
+      <Sense id="L248720-S5" synset="wikidata-ar-L248720-S5" ili="wikidata-ar-L248720-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L248720-S6" synset="wikidata-ar-L248720-S6" ili="wikidata-ar-L248720-S6">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L710805">
+      <Lemma writtenForm="ش ذ ذ" partOfSpeech="root"/>
+      <Sense id="L710805-S1" synset="wikidata-ar-L710805-S1" ili="wikidata-ar-L710805-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093232">
+      <Lemma writtenForm="ع و ر" partOfSpeech="root"/>
+      <Sense id="L1093232-S1" synset="wikidata-ar-L1093232-S1" ili="wikidata-ar-L1093232-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1093232-S2" synset="wikidata-ar-L1093232-S2" ili="wikidata-ar-L1093232-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133522">
+      <Lemma writtenForm="ذ ك ر" partOfSpeech="root"/>
+      <Sense id="L1133522-S1" synset="wikidata-ar-L1133522-S1" ili="wikidata-ar-L1133522-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1133522-S2" synset="wikidata-ar-L1133522-S2" ili="wikidata-ar-L1133522-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233454">
+      <Lemma writtenForm="ٱلَّذِي" partOfSpeech="resumptive pronoun"/>
+      <Sense id="L1233454-S1" synset="wikidata-ar-L1233454-S1" ili="wikidata-ar-L1233454-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1321113">
+      <Lemma writtenForm="لِمَ" partOfSpeech="preposition"/>
+      <Sense id="L1321113-S1" synset="wikidata-ar-L1321113-S1" ili="wikidata-ar-L1321113-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1323791">
+      <Lemma writtenForm="ح س س" partOfSpeech="root"/>
+      <Sense id="L1323791-S1" synset="wikidata-ar-L1323791-S1" ili="wikidata-ar-L1323791-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1323791-S2" synset="wikidata-ar-L1323791-S2" ili="wikidata-ar-L1323791-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1323791-S3" synset="wikidata-ar-L1323791-S3" ili="wikidata-ar-L1323791-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1365070">
+      <Lemma writtenForm="ش ه د" partOfSpeech="root"/>
+      <Sense id="L1365070-S1" synset="wikidata-ar-L1365070-S1" ili="wikidata-ar-L1365070-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368377">
+      <Lemma writtenForm="ر ء س" partOfSpeech="root"/>
+      <Sense id="L1368377-S1" synset="wikidata-ar-L1368377-S1" ili="wikidata-ar-L1368377-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368404">
+      <Lemma writtenForm="ص ف ر" partOfSpeech="root"/>
+      <Sense id="L1368404-S1" synset="wikidata-ar-L1368404-S1" ili="wikidata-ar-L1368404-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368453">
+      <Lemma writtenForm="ق ط ط" partOfSpeech="root"/>
+      <Sense id="L1368453-S1" synset="wikidata-ar-L1368453-S1" ili="wikidata-ar-L1368453-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369224">
+      <Lemma writtenForm="م ل ك" partOfSpeech="root"/>
+      <Sense id="L1369224-S1" synset="wikidata-ar-L1369224-S1" ili="wikidata-ar-L1369224-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369224-S2" synset="wikidata-ar-L1369224-S2" ili="wikidata-ar-L1369224-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369224-S3" synset="wikidata-ar-L1369224-S3" ili="wikidata-ar-L1369224-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369228">
+      <Lemma writtenForm="ص د ر" partOfSpeech="root"/>
+      <Sense id="L1369228-S1" synset="wikidata-ar-L1369228-S1" ili="wikidata-ar-L1369228-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369228-S2" synset="wikidata-ar-L1369228-S2" ili="wikidata-ar-L1369228-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369228-S3" synset="wikidata-ar-L1369228-S3" ili="wikidata-ar-L1369228-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369286">
+      <Lemma writtenForm="ك ب ر" partOfSpeech="root"/>
+      <Sense id="L1369286-S1" synset="wikidata-ar-L1369286-S1" ili="wikidata-ar-L1369286-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369286-S2" synset="wikidata-ar-L1369286-S2" ili="wikidata-ar-L1369286-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369286-S3" synset="wikidata-ar-L1369286-S3" ili="wikidata-ar-L1369286-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1369286-S4" synset="wikidata-ar-L1369286-S4" ili="wikidata-ar-L1369286-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370525">
+      <Lemma writtenForm="ح ي ي" partOfSpeech="root"/>
+      <Sense id="L1370525-S1" synset="wikidata-ar-L1370525-S1" ili="wikidata-ar-L1370525-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371668">
+      <Lemma writtenForm="ر و د" partOfSpeech="root"/>
+      <Sense id="L1371668-S1" synset="wikidata-ar-L1371668-S1" ili="wikidata-ar-L1371668-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1376627">
+      <Lemma writtenForm="ق ص د" partOfSpeech="root"/>
+      <Sense id="L1376627-S1" synset="wikidata-ar-L1376627-S1" ili="wikidata-ar-L1376627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411677">
+      <Lemma writtenForm="ع ل ن" partOfSpeech="root"/>
+      <Sense id="L1411677-S1" synset="wikidata-ar-L1411677-S1" ili="wikidata-ar-L1411677-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1451521">
+      <Lemma writtenForm="خ ط م" partOfSpeech="root"/>
+      <Sense id="L1451521-S1" synset="wikidata-ar-L1451521-S1" ili="wikidata-ar-L1451521-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1451521-S2" synset="wikidata-ar-L1451521-S2" ili="wikidata-ar-L1451521-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1453688">
+      <Lemma writtenForm="غ ي ر" partOfSpeech="root"/>
+      <Sense id="L1453688-S1" synset="wikidata-ar-L1453688-S1" ili="wikidata-ar-L1453688-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1462487">
+      <Lemma writtenForm="أنتم" partOfSpeech="personal pronoun"/>
+      <Sense id="L1462487-S1" synset="wikidata-ar-L1462487-S1" ili="wikidata-ar-L1462487-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1463228">
+      <Lemma writtenForm="لِأنَّ" partOfSpeech="conjunction"/>
+      <Sense id="L1463228-S1" synset="wikidata-ar-L1463228-S1" ili="wikidata-ar-L1463228-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1471734">
+      <Lemma writtenForm="الَّذِينَ" partOfSpeech="relative pronoun"/>
+      <Sense id="L1471734-S1" synset="wikidata-ar-L1471734-S1" ili="wikidata-ar-L1471734-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1504614">
+      <Lemma writtenForm="ي و س ف" partOfSpeech="root"/>
+      <Sense id="L1504614-S1" synset="wikidata-ar-L1504614-S1" ili="wikidata-ar-L1504614-S1">
+        <Definition>(يُوسُف)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1549503">
+      <Lemma writtenForm="إِنْ" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L1549503-S1" synset="wikidata-ar-L1549503-S1" ili="wikidata-ar-L1549503-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L7892">
+      <Lemma writtenForm="هٰذَا" partOfSpeech="determiner"/>
+      <Sense id="L7892-S1" synset="wikidata-ar-L7892-S1" ili="wikidata-ar-L7892-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35611">
+      <Lemma writtenForm="لِ" partOfSpeech="preposition"/>
+      <Sense id="L35611-S1" synset="wikidata-ar-L35611-S1" ili="wikidata-ar-L35611-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ar-L35607-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43462">
+      <Lemma writtenForm="ثَلَاثَةَ عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43462-S1" synset="wikidata-ar-L43462-S1" ili="wikidata-ar-L43462-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43466">
+      <Lemma writtenForm="سَبْعَةَ عَشَرَ" partOfSpeech="numeral"/>
+      <Sense id="L43466-S1" synset="wikidata-ar-L43466-S1" ili="wikidata-ar-L43466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43467">
+      <Lemma writtenForm="ثَمَانِيَةَ عَشَر" partOfSpeech="numeral"/>
+      <Sense id="L43467-S1" synset="wikidata-ar-L43467-S1" ili="wikidata-ar-L43467-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L43469">
+      <Lemma writtenForm="عِشْرُونَ" partOfSpeech="numeral"/>
+      <Sense id="L43469-S1" synset="wikidata-ar-L43469-S1" ili="wikidata-ar-L43469-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240510">
+      <Lemma writtenForm="ء ث ف" partOfSpeech="root"/>
+      <Sense id="L240510-S1" synset="wikidata-ar-L240510-S1" ili="wikidata-ar-L240510-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240510-S2" synset="wikidata-ar-L240510-S2" ili="wikidata-ar-L240510-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L240510-S3" synset="wikidata-ar-L240510-S3" ili="wikidata-ar-L240510-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L240514">
+      <Lemma writtenForm="ء ث ي" partOfSpeech="root"/>
+      <Sense id="L240514-S1" synset="wikidata-ar-L240514-S1" ili="wikidata-ar-L240514-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243642">
+      <Lemma writtenForm="ب ي ب" partOfSpeech="root"/>
+      <Sense id="L243642-S1" synset="wikidata-ar-L243642-S1" ili="wikidata-ar-L243642-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243643">
+      <Lemma writtenForm="ب ي ت" partOfSpeech="root"/>
+      <Sense id="L243643-S1" synset="wikidata-ar-L243643-S1" ili="wikidata-ar-L243643-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243669">
+      <Lemma writtenForm="ت ج ر" partOfSpeech="root"/>
+      <Sense id="L243669-S1" synset="wikidata-ar-L243669-S1" ili="wikidata-ar-L243669-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243858">
+      <Lemma writtenForm="ث م ن" partOfSpeech="root"/>
+      <Sense id="L243858-S1" synset="wikidata-ar-L243858-S1" ili="wikidata-ar-L243858-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243858-S2" synset="wikidata-ar-L243858-S2" ili="wikidata-ar-L243858-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L243862">
+      <Lemma writtenForm="ث ن ي" partOfSpeech="root"/>
+      <Sense id="L243862-S1" synset="wikidata-ar-L243862-S1" ili="wikidata-ar-L243862-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243862-S2" synset="wikidata-ar-L243862-S2" ili="wikidata-ar-L243862-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243862-S3" synset="wikidata-ar-L243862-S3" ili="wikidata-ar-L243862-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L243862-S4" synset="wikidata-ar-L243862-S4" ili="wikidata-ar-L243862-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1157108">
+      <Lemma writtenForm="ثُمُن" partOfSpeech="number"/>
+      <Sense id="L1157108-S1" synset="wikidata-ar-L1157108-S1" ili="wikidata-ar-L1157108-S1">
+        <Definition>الجزء الواحد من الثُّمْنُ ثمانية والجمع : أثمانٌ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215988">
+      <Lemma writtenForm="ش ر ب" partOfSpeech="root"/>
+      <Sense id="L1215988-S1" synset="wikidata-ar-L1215988-S1" ili="wikidata-ar-L1215988-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319588">
+      <Lemma writtenForm="ش م ع" partOfSpeech="root"/>
+      <Sense id="L1319588-S1" synset="wikidata-ar-L1319588-S1" ili="wikidata-ar-L1319588-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1319588-S2" synset="wikidata-ar-L1319588-S2" ili="wikidata-ar-L1319588-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1348925">
+      <Lemma writtenForm="م ي ع" partOfSpeech="root"/>
+      <Sense id="L1348925-S1" synset="wikidata-ar-L1348925-S1" ili="wikidata-ar-L1348925-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1357674">
+      <Lemma writtenForm="س ن و" partOfSpeech="root"/>
+      <Sense id="L1357674-S1" synset="wikidata-ar-L1357674-S1" ili="wikidata-ar-L1357674-S1">
+        <Definition>(سنة)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1357676">
+      <Lemma writtenForm="ق س م" partOfSpeech="root"/>
+      <Sense id="L1357676-S1" synset="wikidata-ar-L1357676-S1" ili="wikidata-ar-L1357676-S1">
+        <Definition>(قَسَم)</Definition>
+      </Sense>
+      <Sense id="L1357676-S2" synset="wikidata-ar-L1357676-S2" ili="wikidata-ar-L1357676-S2">
+        <Definition>(تقسيم، توزيع)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369230">
+      <Lemma writtenForm="ل ي ث" partOfSpeech="root"/>
+      <Sense id="L1369230-S1" synset="wikidata-ar-L1369230-S1" ili="wikidata-ar-L1369230-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1369287">
+      <Lemma writtenForm="ف ر د" partOfSpeech="root"/>
+      <Sense id="L1369287-S1" synset="wikidata-ar-L1369287-S1" ili="wikidata-ar-L1369287-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1372822">
+      <Lemma writtenForm="و ق ع" partOfSpeech="root"/>
+      <Sense id="L1372822-S1" synset="wikidata-ar-L1372822-S1" ili="wikidata-ar-L1372822-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1372822-S2" synset="wikidata-ar-L1372822-S2" ili="wikidata-ar-L1372822-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404917">
+      <Lemma writtenForm="عَلَى كُلِّ حَال" partOfSpeech="prepositional locution"/>
+      <Sense id="L1404917-S1" synset="wikidata-ar-L1404917-S1" ili="wikidata-ar-L1404917-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1412546">
+      <Lemma writtenForm="ف ل ذ" partOfSpeech="root"/>
+      <Sense id="L1412546-S1" synset="wikidata-ar-L1412546-S1" ili="wikidata-ar-L1412546-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1412546-S2" synset="wikidata-ar-L1412546-S2" ili="wikidata-ar-L1412546-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422442">
+      <Lemma writtenForm="ع ن د" partOfSpeech="root"/>
+      <Sense id="L1422442-S1" synset="wikidata-ar-L1422442-S1" ili="wikidata-ar-L1422442-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1422442-S2" synset="wikidata-ar-L1422442-S2" ili="wikidata-ar-L1422442-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473281">
+      <Lemma writtenForm="حَوْلَ" partOfSpeech="preposition"/>
+      <Sense id="L1473281-S1" synset="wikidata-ar-L1473281-S1" ili="wikidata-ar-L1473281-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1547724">
+      <Lemma writtenForm="ج ه ن م" partOfSpeech="root"/>
+      <Sense id="L1547724-S1" synset="wikidata-ar-L1547724-S1" ili="wikidata-ar-L1547724-S1">
+        <Definition>(جَهَنَّم)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548519">
+      <Lemma writtenForm="د ب ل و م" partOfSpeech="root"/>
+      <Sense id="L1548519-S1" synset="wikidata-ar-L1548519-S1" ili="wikidata-ar-L1548519-S1">
+        <Definition>(دبلوم، دبلومة)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ar-L5004-S1" ili="wikidata-ar-L5004-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5007-S1" ili="wikidata-ar-L5007-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5011-S1" ili="wikidata-ar-L5011-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5011-S2" ili="wikidata-ar-L5011-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5011-S3" ili="wikidata-ar-L5011-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5309-S1" ili="wikidata-ar-L5309-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L7883-S1" ili="wikidata-ar-L7883-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35601-S1" ili="wikidata-ar-L35601-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35603-S1" ili="wikidata-ar-L35603-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240496-S1" ili="wikidata-ar-L240496-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240496-S2" ili="wikidata-ar-L240496-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240511-S1" ili="wikidata-ar-L240511-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240511-S2" ili="wikidata-ar-L240511-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240538-S1" ili="wikidata-ar-L240538-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240538-S2" ili="wikidata-ar-L240538-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240538-S3" ili="wikidata-ar-L240538-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240541-S1" ili="wikidata-ar-L240541-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240541-S2" ili="wikidata-ar-L240541-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S1" ili="wikidata-ar-L240650-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S2" ili="wikidata-ar-L240650-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S3" ili="wikidata-ar-L240650-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S4" ili="wikidata-ar-L240650-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S5" ili="wikidata-ar-L240650-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S6" ili="wikidata-ar-L240650-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S7" ili="wikidata-ar-L240650-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S8" ili="wikidata-ar-L240650-S8">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S9" ili="wikidata-ar-L240650-S9">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S10" ili="wikidata-ar-L240650-S10">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S11" ili="wikidata-ar-L240650-S11">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240650-S12" ili="wikidata-ar-L240650-S12">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240656-S1" ili="wikidata-ar-L240656-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240665-S1" ili="wikidata-ar-L240665-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240665-S2" ili="wikidata-ar-L240665-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243389-S1" ili="wikidata-ar-L243389-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243389-S2" ili="wikidata-ar-L243389-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243390-S1" ili="wikidata-ar-L243390-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243422-S1" ili="wikidata-ar-L243422-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243516-S1" ili="wikidata-ar-L243516-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243516-S2" ili="wikidata-ar-L243516-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243516-S3" ili="wikidata-ar-L243516-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243521-S1" ili="wikidata-ar-L243521-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243521-S2" ili="wikidata-ar-L243521-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243571-S1" ili="wikidata-ar-L243571-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243571-S2" ili="wikidata-ar-L243571-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243664-S1" ili="wikidata-ar-L243664-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243731-S1" ili="wikidata-ar-L243731-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244057-S1" ili="wikidata-ar-L244057-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244057-S2" ili="wikidata-ar-L244057-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244058-S1" ili="wikidata-ar-L244058-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244058-S2" ili="wikidata-ar-L244058-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244058-S3" ili="wikidata-ar-L244058-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244059-S1" ili="wikidata-ar-L244059-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248694-S1" ili="wikidata-ar-L248694-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248711-S1" ili="wikidata-ar-L248711-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248733-S1" ili="wikidata-ar-L248733-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248735-S1" ili="wikidata-ar-L248735-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233456-S1" ili="wikidata-ar-L1233456-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233459-S1" ili="wikidata-ar-L1233459-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1249772-S1" ili="wikidata-ar-L1249772-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321107-S1" ili="wikidata-ar-L1321107-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321115-S1" ili="wikidata-ar-L1321115-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321116-S1" ili="wikidata-ar-L1321116-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1343445-S1" ili="wikidata-ar-L1343445-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1343445-S2" ili="wikidata-ar-L1343445-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365053-S1" ili="wikidata-ar-L1365053-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365068-S1" ili="wikidata-ar-L1365068-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365079-S1" ili="wikidata-ar-L1365079-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368018-S1" ili="wikidata-ar-L1368018-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368405-S1" ili="wikidata-ar-L1368405-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368405-S2" ili="wikidata-ar-L1368405-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368405-S3" ili="wikidata-ar-L1368405-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368405-S4" ili="wikidata-ar-L1368405-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368472-S1" ili="wikidata-ar-L1368472-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369171-S1" ili="wikidata-ar-L1369171-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369182-S1" ili="wikidata-ar-L1369182-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369182-S2" ili="wikidata-ar-L1369182-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370530-S1" ili="wikidata-ar-L1370530-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370530-S2" ili="wikidata-ar-L1370530-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370544-S1" ili="wikidata-ar-L1370544-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370544-S2" ili="wikidata-ar-L1370544-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1371670-S1" ili="wikidata-ar-L1371670-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372745-S1" ili="wikidata-ar-L1372745-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372745-S2" ili="wikidata-ar-L1372745-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422439-S1" ili="wikidata-ar-L1422439-S1">
+      <Definition>(حرف نداء للبعيد حقيقةً أو حُكْمًا)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422439-S2" ili="wikidata-ar-L1422439-S2">
+      <Definition>(حرف نداء للاستغاثة)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422439-S3" ili="wikidata-ar-L1422439-S3">
+      <Definition>(حرف نداء للتعجُّب أو الشّفقة)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422439-S4" ili="wikidata-ar-L1422439-S4">
+      <Definition>(حرف نداء للاستفهام)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1463230-S1" ili="wikidata-ar-L1463230-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1473286-S1" ili="wikidata-ar-L1473286-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1473291-S1" ili="wikidata-ar-L1473291-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548523-S1" ili="wikidata-ar-L1548523-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548757-S1" ili="wikidata-ar-L1548757-S1">
+      <Definition>(الطّايَةُ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548758-S1" ili="wikidata-ar-L1548758-S1">
+      <Definition>(الطَيِّئ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5006-S1" ili="wikidata-ar-L5006-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5006-S2" ili="wikidata-ar-L5006-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35612-S1" ili="wikidata-ar-L35612-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43465-S1" ili="wikidata-ar-L43465-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240480-S1" ili="wikidata-ar-L240480-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240480-S2" ili="wikidata-ar-L240480-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240491-S1" ili="wikidata-ar-L240491-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240513-S1" ili="wikidata-ar-L240513-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240571-S1" ili="wikidata-ar-L240571-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240571-S2" ili="wikidata-ar-L240571-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243394-S1" ili="wikidata-ar-L243394-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243650-S1" ili="wikidata-ar-L243650-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243931-S1" ili="wikidata-ar-L243931-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243986-S1" ili="wikidata-ar-L243986-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243996-S1" ili="wikidata-ar-L243996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244096-S1" ili="wikidata-ar-L244096-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244096-S2" ili="wikidata-ar-L244096-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248664-S1" ili="wikidata-ar-L248664-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248692-S1" ili="wikidata-ar-L248692-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248692-S2" ili="wikidata-ar-L248692-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248692-S3" ili="wikidata-ar-L248692-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248692-S4" ili="wikidata-ar-L248692-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248732-S1" ili="wikidata-ar-L248732-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L710804-S1" ili="wikidata-ar-L710804-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133343-S1" ili="wikidata-ar-L1133343-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133343-S2" ili="wikidata-ar-L1133343-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133343-S3" ili="wikidata-ar-L1133343-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133343-S4" ili="wikidata-ar-L1133343-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1161298-S1" ili="wikidata-ar-L1161298-S1">
+      <Definition>(ألقى)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1226772-S1" ili="wikidata-ar-L1226772-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233453-S1" ili="wikidata-ar-L1233453-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321117-S1" ili="wikidata-ar-L1321117-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357670-S1" ili="wikidata-ar-L1357670-S1">
+      <Definition>(درهم)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365066-S1" ili="wikidata-ar-L1365066-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368013-S1" ili="wikidata-ar-L1368013-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368021-S1" ili="wikidata-ar-L1368021-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368025-S1" ili="wikidata-ar-L1368025-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368030-S1" ili="wikidata-ar-L1368030-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368030-S2" ili="wikidata-ar-L1368030-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368030-S3" ili="wikidata-ar-L1368030-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368033-S1" ili="wikidata-ar-L1368033-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368033-S2" ili="wikidata-ar-L1368033-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368033-S3" ili="wikidata-ar-L1368033-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368033-S4" ili="wikidata-ar-L1368033-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368393-S1" ili="wikidata-ar-L1368393-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368393-S2" ili="wikidata-ar-L1368393-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368470-S1" ili="wikidata-ar-L1368470-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369170-S1" ili="wikidata-ar-L1369170-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369261-S1" ili="wikidata-ar-L1369261-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370054-S1" ili="wikidata-ar-L1370054-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370054-S2" ili="wikidata-ar-L1370054-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370056-S1" ili="wikidata-ar-L1370056-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370733-S1" ili="wikidata-ar-L1370733-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370733-S2" ili="wikidata-ar-L1370733-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370733-S3" ili="wikidata-ar-L1370733-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370733-S4" ili="wikidata-ar-L1370733-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372441-S1" ili="wikidata-ar-L1372441-S1">
+      <Definition>طاب</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372825-S1" ili="wikidata-ar-L1372825-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372825-S2" ili="wikidata-ar-L1372825-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1385266-S1" ili="wikidata-ar-L1385266-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404925-S1" ili="wikidata-ar-L1404925-S1">
+      <Definition>(ضمير متَّصل للمفرد المذكر الغائب)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1409092-S1" ili="wikidata-ar-L1409092-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1409385-S1" ili="wikidata-ar-L1409385-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422429-S1" ili="wikidata-ar-L1422429-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1462490-S1" ili="wikidata-ar-L1462490-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548517-S1" ili="wikidata-ar-L1548517-S1">
+      <Definition>(حاء)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1549001-S1" ili="wikidata-ar-L1549001-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1550323-S1" ili="wikidata-ar-L1550323-S1">
+      <Definition>(التِّلِّيسَةُ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5314-S1" ili="wikidata-ar-L5314-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5316-S1" ili="wikidata-ar-L5316-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L12112-S1" ili="wikidata-ar-L12112-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L12112-S2" ili="wikidata-ar-L12112-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35596-S1" ili="wikidata-ar-L35596-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240497-S1" ili="wikidata-ar-L240497-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240509-S1" ili="wikidata-ar-L240509-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240509-S2" ili="wikidata-ar-L240509-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240509-S3" ili="wikidata-ar-L240509-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240509-S4" ili="wikidata-ar-L240509-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240527-S1" ili="wikidata-ar-L240527-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240527-S2" ili="wikidata-ar-L240527-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240527-S3" ili="wikidata-ar-L240527-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240529-S1" ili="wikidata-ar-L240529-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240621-S1" ili="wikidata-ar-L240621-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240621-S2" ili="wikidata-ar-L240621-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240637-S1" ili="wikidata-ar-L240637-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243517-S1" ili="wikidata-ar-L243517-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243517-S2" ili="wikidata-ar-L243517-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243517-S3" ili="wikidata-ar-L243517-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243738-S1" ili="wikidata-ar-L243738-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243839-S1" ili="wikidata-ar-L243839-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248642-S1" ili="wikidata-ar-L248642-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248642-S2" ili="wikidata-ar-L248642-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248642-S3" ili="wikidata-ar-L248642-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248642-S4" ili="wikidata-ar-L248642-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1012574-S1" ili="wikidata-ar-L1012574-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1232404-S1" ili="wikidata-ar-L1232404-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1232404-S2" ili="wikidata-ar-L1232404-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233487-S1" ili="wikidata-ar-L1233487-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233487-S2" ili="wikidata-ar-L1233487-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233488-S1" ili="wikidata-ar-L1233488-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233724-S1" ili="wikidata-ar-L1233724-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1234077-S1" ili="wikidata-ar-L1234077-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358268-S1" ili="wikidata-ar-L1358268-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358268-S2" ili="wikidata-ar-L1358268-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365057-S1" ili="wikidata-ar-L1365057-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365057-S2" ili="wikidata-ar-L1365057-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365057-S3" ili="wikidata-ar-L1365057-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367964-S1" ili="wikidata-ar-L1367964-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367964-S2" ili="wikidata-ar-L1367964-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367964-S3" ili="wikidata-ar-L1367964-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367964-S4" ili="wikidata-ar-L1367964-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368020-S1" ili="wikidata-ar-L1368020-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368022-S1" ili="wikidata-ar-L1368022-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368028-S1" ili="wikidata-ar-L1368028-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1371669-S1" ili="wikidata-ar-L1371669-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1371669-S2" ili="wikidata-ar-L1371669-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372449-S1" ili="wikidata-ar-L1372449-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1374032-S1" ili="wikidata-ar-L1374032-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1374032-S2" ili="wikidata-ar-L1374032-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1374032-S3" ili="wikidata-ar-L1374032-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1374032-S4" ili="wikidata-ar-L1374032-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1410541-S1" ili="wikidata-ar-L1410541-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1410541-S2" ili="wikidata-ar-L1410541-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422427-S1" ili="wikidata-ar-L1422427-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422431-S1" ili="wikidata-ar-L1422431-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422434-S1" ili="wikidata-ar-L1422434-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422441-S1" ili="wikidata-ar-L1422441-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451564-S1" ili="wikidata-ar-L1451564-S1">
+      <Definition>(والتِّنْبالُ ، والتِّنْبالَةُ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1453686-S1" ili="wikidata-ar-L1453686-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1463435-S1" ili="wikidata-ar-L1463435-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1473292-S1" ili="wikidata-ar-L1473292-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1508210-S1" ili="wikidata-ar-L1508210-S1">
+      <Definition>(ذُو؛ أُولُو؛ صاحِب)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548336-S1" ili="wikidata-ar-L1548336-S1">
+      <Definition>علامة سَكّ‌، دَمْغَة</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548336-S2" ili="wikidata-ar-L1548336-S2">
+      <Definition>حَفْر</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548336-S3" ili="wikidata-ar-L1548336-S3">
+      <Definition>زَخْرفة</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548520-S1" ili="wikidata-ar-L1548520-S1">
+      <Definition>(قَلاووظ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548535-S1" ili="wikidata-ar-L1548535-S1">
+      <Definition>(شَاكُوش)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L2288-S1" ili="wikidata-ar-L2288-S1">
+      <Definition>أداة التعريف في اللغة العربية</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L2452-S1" ili="wikidata-ar-L2452-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5009-S1" ili="wikidata-ar-L5009-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5009-S2" ili="wikidata-ar-L5009-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35597-S1" ili="wikidata-ar-L35597-S1">
+      <Definition>(حرف عطف يفيد الترتيب)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35597-S2" ili="wikidata-ar-L35597-S2">
+      <Definition>(حرف عطف يفيد التعقيب)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35597-S3" ili="wikidata-ar-L35597-S3">
+      <Definition>(حرف عطف يفيد السببيَّة)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35613-S1" ili="wikidata-ar-L35613-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43463-S1" ili="wikidata-ar-L43463-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240478-S1" ili="wikidata-ar-L240478-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240588-S1" ili="wikidata-ar-L240588-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240588-S2" ili="wikidata-ar-L240588-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240658-S1" ili="wikidata-ar-L240658-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240667-S1" ili="wikidata-ar-L240667-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240678-S1" ili="wikidata-ar-L240678-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240678-S2" ili="wikidata-ar-L240678-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240678-S3" ili="wikidata-ar-L240678-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240678-S4" ili="wikidata-ar-L240678-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243391-S1" ili="wikidata-ar-L243391-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243514-S1" ili="wikidata-ar-L243514-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243514-S2" ili="wikidata-ar-L243514-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243535-S1" ili="wikidata-ar-L243535-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243654-S1" ili="wikidata-ar-L243654-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243654-S2" ili="wikidata-ar-L243654-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243957-S1" ili="wikidata-ar-L243957-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244089-S1" ili="wikidata-ar-L244089-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244089-S2" ili="wikidata-ar-L244089-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244097-S1" ili="wikidata-ar-L244097-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244097-S2" ili="wikidata-ar-L244097-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248689-S1" ili="wikidata-ar-L248689-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248689-S2" ili="wikidata-ar-L248689-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248689-S3" ili="wikidata-ar-L248689-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248689-S4" ili="wikidata-ar-L248689-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248719-S1" ili="wikidata-ar-L248719-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248734-S1" ili="wikidata-ar-L248734-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1012573-S1" ili="wikidata-ar-L1012573-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1081695-S1" ili="wikidata-ar-L1081695-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1157099-S1" ili="wikidata-ar-L1157099-S1">
+      <Definition>عدد</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1157099-S2" ili="wikidata-ar-L1157099-S2">
+      <Definition>عدد يساوي عشر عشرات، وهو عدد أصليّ بعد تسعة وتسعين</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1191157-S1" ili="wikidata-ar-L1191157-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1191157-S2" ili="wikidata-ar-L1191157-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1217784-S1" ili="wikidata-ar-L1217784-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1232401-S1" ili="wikidata-ar-L1232401-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233475-S1" ili="wikidata-ar-L1233475-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1235326-S1" ili="wikidata-ar-L1235326-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1235326-S2" ili="wikidata-ar-L1235326-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1249773-S1" ili="wikidata-ar-L1249773-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1333915-S1" ili="wikidata-ar-L1333915-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357663-S1" ili="wikidata-ar-L1357663-S1">
+      <Definition>(وقت)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357663-S2" ili="wikidata-ar-L1357663-S2">
+      <Definition>(تعيين)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365058-S1" ili="wikidata-ar-L1365058-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365058-S2" ili="wikidata-ar-L1365058-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365077-S1" ili="wikidata-ar-L1365077-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369178-S1" ili="wikidata-ar-L1369178-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370541-S1" ili="wikidata-ar-L1370541-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370541-S2" ili="wikidata-ar-L1370541-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404915-S1" ili="wikidata-ar-L1404915-S1">
+      <Definition>(عالي، مرتفع؛ صعود، ارتفاع)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404933-S1" ili="wikidata-ar-L1404933-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404933-S2" ili="wikidata-ar-L1404933-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S1" ili="wikidata-ar-L1407908-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S2" ili="wikidata-ar-L1407908-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S3" ili="wikidata-ar-L1407908-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S4" ili="wikidata-ar-L1407908-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S5" ili="wikidata-ar-L1407908-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S6" ili="wikidata-ar-L1407908-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S7" ili="wikidata-ar-L1407908-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S8" ili="wikidata-ar-L1407908-S8">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407908-S9" ili="wikidata-ar-L1407908-S9">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S1" ili="wikidata-ar-L1407915-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S2" ili="wikidata-ar-L1407915-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S3" ili="wikidata-ar-L1407915-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S4" ili="wikidata-ar-L1407915-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S5" ili="wikidata-ar-L1407915-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S6" ili="wikidata-ar-L1407915-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1407915-S7" ili="wikidata-ar-L1407915-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1411674-S1" ili="wikidata-ar-L1411674-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1411674-S2" ili="wikidata-ar-L1411674-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1412640-S1" ili="wikidata-ar-L1412640-S1">
+      <Definition>(الْمَرْتَكُ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1414205-S1" ili="wikidata-ar-L1414205-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1414205-S2" ili="wikidata-ar-L1414205-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1414205-S3" ili="wikidata-ar-L1414205-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1414205-S4" ili="wikidata-ar-L1414205-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1421012-S1" ili="wikidata-ar-L1421012-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1421012-S2" ili="wikidata-ar-L1421012-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1421012-S3" ili="wikidata-ar-L1421012-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422420-S1" ili="wikidata-ar-L1422420-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422437-S1" ili="wikidata-ar-L1422437-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422443-S1" ili="wikidata-ar-L1422443-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451500-S1" ili="wikidata-ar-L1451500-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451500-S2" ili="wikidata-ar-L1451500-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451523-S1" ili="wikidata-ar-L1451523-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451523-S2" ili="wikidata-ar-L1451523-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451566-S1" ili="wikidata-ar-L1451566-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1463377-S1" ili="wikidata-ar-L1463377-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1463423-S1" ili="wikidata-ar-L1463423-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1468544-S1" ili="wikidata-ar-L1468544-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1522765-S1" ili="wikidata-ar-L1522765-S1">
+      <Definition>(إِصْطَبْل)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L2308-S1" ili="wikidata-ar-L2308-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5311-S1" ili="wikidata-ar-L5311-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35604-S1" ili="wikidata-ar-L35604-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35606-S1" ili="wikidata-ar-L35606-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43460-S1" ili="wikidata-ar-L43460-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43461-S1" ili="wikidata-ar-L43461-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240474-S1" ili="wikidata-ar-L240474-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240483-S1" ili="wikidata-ar-L240483-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240493-S1" ili="wikidata-ar-L240493-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240493-S2" ili="wikidata-ar-L240493-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240566-S1" ili="wikidata-ar-L240566-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240566-S2" ili="wikidata-ar-L240566-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240573-S1" ili="wikidata-ar-L240573-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240590-S1" ili="wikidata-ar-L240590-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240590-S2" ili="wikidata-ar-L240590-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240644-S1" ili="wikidata-ar-L240644-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240644-S2" ili="wikidata-ar-L240644-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240644-S3" ili="wikidata-ar-L240644-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240644-S4" ili="wikidata-ar-L240644-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243665-S1" ili="wikidata-ar-L243665-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L705777-S1" ili="wikidata-ar-L705777-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L705777-S2" ili="wikidata-ar-L705777-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L705777-S3" ili="wikidata-ar-L705777-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1012576-S1" ili="wikidata-ar-L1012576-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1162054-S1" ili="wikidata-ar-L1162054-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1162054-S2" ili="wikidata-ar-L1162054-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1162054-S3" ili="wikidata-ar-L1162054-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1162054-S4" ili="wikidata-ar-L1162054-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1222968-S1" ili="wikidata-ar-L1222968-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233688-S1" ili="wikidata-ar-L1233688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233688-S2" ili="wikidata-ar-L1233688-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233688-S3" ili="wikidata-ar-L1233688-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233737-S1" ili="wikidata-ar-L1233737-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233737-S2" ili="wikidata-ar-L1233737-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1248789-S1" ili="wikidata-ar-L1248789-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1256027-S1" ili="wikidata-ar-L1256027-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1256027-S2" ili="wikidata-ar-L1256027-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1256027-S3" ili="wikidata-ar-L1256027-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1256027-S4" ili="wikidata-ar-L1256027-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1259879-S1" ili="wikidata-ar-L1259879-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358152-S1" ili="wikidata-ar-L1358152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358152-S2" ili="wikidata-ar-L1358152-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358152-S3" ili="wikidata-ar-L1358152-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1358155-S1" ili="wikidata-ar-L1358155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365061-S1" ili="wikidata-ar-L1365061-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367988-S1" ili="wikidata-ar-L1367988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367988-S2" ili="wikidata-ar-L1367988-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367988-S3" ili="wikidata-ar-L1367988-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367988-S4" ili="wikidata-ar-L1367988-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368017-S1" ili="wikidata-ar-L1368017-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368017-S2" ili="wikidata-ar-L1368017-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368381-S1" ili="wikidata-ar-L1368381-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368384-S1" ili="wikidata-ar-L1368384-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368433-S1" ili="wikidata-ar-L1368433-S1">
+      <Definition>(عِشْق)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369166-S1" ili="wikidata-ar-L1369166-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369179-S1" ili="wikidata-ar-L1369179-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369285-S1" ili="wikidata-ar-L1369285-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369285-S2" ili="wikidata-ar-L1369285-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372424-S1" ili="wikidata-ar-L1372424-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372437-S1" ili="wikidata-ar-L1372437-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372438-S1" ili="wikidata-ar-L1372438-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1420615-S1" ili="wikidata-ar-L1420615-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422423-S1" ili="l485-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422436-S1" ili="l484-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451565-S1" ili="wikidata-ar-L1451565-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1462491-S1" ili="wikidata-ar-L1462491-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1531767-S1" ili="wikidata-ar-L1531767-S1">
+      <Definition>(الجَاثَلِيق)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548521-S1" ili="wikidata-ar-L1548521-S1">
+      <Definition>(دُنْبَهْ بَرَّهْ)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1549729-S1" ili="wikidata-ar-L1549729-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5315-S1" ili="wikidata-ar-L5315-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5315-S2" ili="wikidata-ar-L5315-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L5315-S3" ili="wikidata-ar-L5315-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35595-S1" ili="wikidata-ar-L35595-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35595-S2" ili="wikidata-ar-L35595-S2">
+      <Definition>ظرف ويشترط فيه أن يُسبق بنفي</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35595-S3" ili="wikidata-ar-L35595-S3">
+      <Definition>حرفُ جَرٍّ يَدُلُّ على الاِنْتِهاءِ، أَيِ انْتِهاءِ الغايَةِ الزَّمَنِيَّةِ</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35595-S5" ili="wikidata-ar-L35595-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35595-S6" ili="wikidata-ar-L35595-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35607-S1" ili="wikidata-ar-L35607-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35608-S1" ili="wikidata-ar-L35608-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35610-S1" ili="wikidata-ar-L35610-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43471-S1" ili="wikidata-ar-L43471-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240507-S1" ili="wikidata-ar-L240507-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240508-S1" ili="wikidata-ar-L240508-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240543-S1" ili="wikidata-ar-L240543-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243388-S1" ili="wikidata-ar-L243388-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243392-S1" ili="wikidata-ar-L243392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243392-S2" ili="wikidata-ar-L243392-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243393-S1" ili="wikidata-ar-L243393-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243523-S1" ili="wikidata-ar-L243523-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243523-S2" ili="wikidata-ar-L243523-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243523-S3" ili="wikidata-ar-L243523-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243579-S1" ili="wikidata-ar-L243579-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243579-S2" ili="wikidata-ar-L243579-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243663-S1" ili="wikidata-ar-L243663-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243690-S1" ili="wikidata-ar-L243690-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243971-S1" ili="wikidata-ar-L243971-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243971-S2" ili="wikidata-ar-L243971-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244062-S1" ili="wikidata-ar-L244062-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244062-S2" ili="wikidata-ar-L244062-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L244078-S1" ili="wikidata-ar-L244078-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248715-S1" ili="wikidata-ar-L248715-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248715-S2" ili="wikidata-ar-L248715-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1097496-S1" ili="wikidata-ar-L1097496-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133516-S1" ili="wikidata-ar-L1133516-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1232402-S1" ili="wikidata-ar-L1232402-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233374-S1" ili="wikidata-ar-L1233374-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233471-S1" ili="wikidata-ar-L1233471-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233471-S2" ili="wikidata-ar-L1233471-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233667-S1" ili="wikidata-ar-L1233667-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321099-S1" ili="l2991-s1">
+      <Definition>مرتبط أو مرافق</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321099-S2" ili="wikidata-ar-L1321099-S2">
+      <Definition>يوجدان في ارتباط وثيق</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321112-S1" ili="wikidata-ar-L1321112-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1338813-S1" ili="wikidata-ar-L1338813-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1338813-S2" ili="wikidata-ar-L1338813-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1339611-S1" ili="wikidata-ar-L1339611-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1339611-S2" ili="wikidata-ar-L1339611-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1342493-S1" ili="wikidata-ar-L1342493-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1342493-S2" ili="wikidata-ar-L1342493-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1367968-S1" ili="wikidata-ar-L1367968-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368024-S1" ili="wikidata-ar-L1368024-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368024-S2" ili="wikidata-ar-L1368024-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370537-S1" ili="wikidata-ar-L1370537-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370537-S2" ili="wikidata-ar-L1370537-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1371665-S1" ili="wikidata-ar-L1371665-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372427-S1" ili="wikidata-ar-L1372427-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372447-S1" ili="wikidata-ar-L1372447-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404932-S1" ili="wikidata-ar-L1404932-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404932-S2" ili="wikidata-ar-L1404932-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1410539-S1" ili="wikidata-ar-L1410539-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422433-S1" ili="wikidata-ar-L1422433-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422433-S2" ili="wikidata-ar-L1422433-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422435-S1" ili="wikidata-ar-L1422435-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1450422-S1" ili="wikidata-ar-L1450422-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451503-S1" ili="wikidata-ar-L1451503-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451525-S1" ili="wikidata-ar-L1451525-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1453694-S1" ili="wikidata-ar-L1453694-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1453694-S2" ili="wikidata-ar-L1453694-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1474029-S1" ili="wikidata-ar-L1474029-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35593-S1" ili="wikidata-ar-L35593-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35599-S1" ili="wikidata-ar-L35599-S1">
+      <Definition>حرف ربط يربط بين جملتين أو كلمتين</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35599-S2" ili="wikidata-ar-L35599-S2">
+      <Definition>حرف استثناء يستثني كلمة</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35600-S1" ili="wikidata-ar-L35600-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43470-S1" ili="wikidata-ar-L43470-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240490-S1" ili="wikidata-ar-L240490-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240490-S2" ili="wikidata-ar-L240490-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240512-S1" ili="wikidata-ar-L240512-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240663-S1" ili="wikidata-ar-L240663-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240663-S2" ili="wikidata-ar-L240663-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240663-S3" ili="wikidata-ar-L240663-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243407-S1" ili="wikidata-ar-L243407-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243445-S1" ili="wikidata-ar-L243445-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243445-S2" ili="wikidata-ar-L243445-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243445-S3" ili="wikidata-ar-L243445-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243445-S4" ili="wikidata-ar-L243445-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243461-S1" ili="wikidata-ar-L243461-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243485-S1" ili="wikidata-ar-L243485-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243556-S1" ili="wikidata-ar-L243556-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248720-S5" ili="wikidata-ar-L248720-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L248720-S6" ili="wikidata-ar-L248720-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L710805-S1" ili="wikidata-ar-L710805-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1093232-S1" ili="wikidata-ar-L1093232-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1093232-S2" ili="wikidata-ar-L1093232-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133522-S1" ili="wikidata-ar-L1133522-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1133522-S2" ili="wikidata-ar-L1133522-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1233454-S1" ili="wikidata-ar-L1233454-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1321113-S1" ili="wikidata-ar-L1321113-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1323791-S1" ili="wikidata-ar-L1323791-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1323791-S2" ili="wikidata-ar-L1323791-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1323791-S3" ili="wikidata-ar-L1323791-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1365070-S1" ili="wikidata-ar-L1365070-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368377-S1" ili="wikidata-ar-L1368377-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368404-S1" ili="wikidata-ar-L1368404-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1368453-S1" ili="wikidata-ar-L1368453-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369224-S1" ili="wikidata-ar-L1369224-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369224-S2" ili="wikidata-ar-L1369224-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369224-S3" ili="wikidata-ar-L1369224-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369228-S1" ili="wikidata-ar-L1369228-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369228-S2" ili="wikidata-ar-L1369228-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369228-S3" ili="wikidata-ar-L1369228-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369286-S1" ili="wikidata-ar-L1369286-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369286-S2" ili="wikidata-ar-L1369286-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369286-S3" ili="wikidata-ar-L1369286-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369286-S4" ili="wikidata-ar-L1369286-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1370525-S1" ili="wikidata-ar-L1370525-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1371668-S1" ili="wikidata-ar-L1371668-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1376627-S1" ili="wikidata-ar-L1376627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1411677-S1" ili="wikidata-ar-L1411677-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451521-S1" ili="wikidata-ar-L1451521-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1451521-S2" ili="wikidata-ar-L1451521-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1453688-S1" ili="wikidata-ar-L1453688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1462487-S1" ili="wikidata-ar-L1462487-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1463228-S1" ili="wikidata-ar-L1463228-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1471734-S1" ili="wikidata-ar-L1471734-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1504614-S1" ili="wikidata-ar-L1504614-S1">
+      <Definition>(يُوسُف)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1549503-S1" ili="wikidata-ar-L1549503-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L7892-S1" ili="wikidata-ar-L7892-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L35611-S1" ili="wikidata-ar-L35611-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43462-S1" ili="wikidata-ar-L43462-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43466-S1" ili="wikidata-ar-L43466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43467-S1" ili="wikidata-ar-L43467-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L43469-S1" ili="wikidata-ar-L43469-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240510-S1" ili="wikidata-ar-L240510-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240510-S2" ili="wikidata-ar-L240510-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240510-S3" ili="wikidata-ar-L240510-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L240514-S1" ili="wikidata-ar-L240514-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243642-S1" ili="wikidata-ar-L243642-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243643-S1" ili="wikidata-ar-L243643-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243669-S1" ili="wikidata-ar-L243669-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243858-S1" ili="wikidata-ar-L243858-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243858-S2" ili="wikidata-ar-L243858-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243862-S1" ili="wikidata-ar-L243862-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243862-S2" ili="wikidata-ar-L243862-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243862-S3" ili="wikidata-ar-L243862-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L243862-S4" ili="wikidata-ar-L243862-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1157108-S1" ili="wikidata-ar-L1157108-S1">
+      <Definition>الجزء الواحد من الثُّمْنُ ثمانية والجمع : أثمانٌ</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1215988-S1" ili="wikidata-ar-L1215988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1319588-S1" ili="wikidata-ar-L1319588-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1319588-S2" ili="wikidata-ar-L1319588-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1348925-S1" ili="wikidata-ar-L1348925-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357674-S1" ili="wikidata-ar-L1357674-S1">
+      <Definition>(سنة)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357676-S1" ili="wikidata-ar-L1357676-S1">
+      <Definition>(قَسَم)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1357676-S2" ili="wikidata-ar-L1357676-S2">
+      <Definition>(تقسيم، توزيع)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369230-S1" ili="wikidata-ar-L1369230-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1369287-S1" ili="wikidata-ar-L1369287-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372822-S1" ili="wikidata-ar-L1372822-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1372822-S2" ili="wikidata-ar-L1372822-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1404917-S1" ili="wikidata-ar-L1404917-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1412546-S1" ili="wikidata-ar-L1412546-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1412546-S2" ili="wikidata-ar-L1412546-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422442-S1" ili="wikidata-ar-L1422442-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1422442-S2" ili="wikidata-ar-L1422442-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1473281-S1" ili="wikidata-ar-L1473281-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1547724-S1" ili="wikidata-ar-L1547724-S1">
+      <Definition>(جَهَنَّم)</Definition>
+    </Synset>
+    <Synset id="wikidata-ar-L1548519-S1" ili="wikidata-ar-L1548519-S1">
+      <Definition>(دبلوم، دبلومة)</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

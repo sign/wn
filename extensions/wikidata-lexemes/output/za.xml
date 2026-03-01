@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-za"
+                    label="Wikidata ZA Lexemes Extension"
+                    language="za"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-za" version="1.4"/>
+    <LexicalEntry id="L408385">
+      <Lemma writtenForm="bet" partOfSpeech="numeral"/>
+      <Sense id="L408385-S1" synset="wikidata-za-L408385-S1" ili="wikidata-za-L408385-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408468">
+      <Lemma writtenForm="dou" partOfSpeech="personal pronoun"/>
+      <Sense id="L408468-S1" synset="wikidata-za-L408468-S1" ili="wikidata-za-L408468-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408377">
+      <Lemma writtenForm="it" partOfSpeech="numeral"/>
+      <Sense id="L408377-S1" synset="wikidata-za-L408377-S1" ili="wikidata-za-L408377-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408380">
+      <Lemma writtenForm="ngeih" partOfSpeech="numeral"/>
+      <Sense id="L408380-S1" synset="wikidata-za-L408380-S1" ili="wikidata-za-L408380-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408383">
+      <Lemma writtenForm="seiq" partOfSpeech="numeral"/>
+      <Sense id="L408383-S1" synset="wikidata-za-L408383-S1" ili="wikidata-za-L408383-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408384">
+      <Lemma writtenForm="caet" partOfSpeech="numeral"/>
+      <Sense id="L408384-S1" synset="wikidata-za-L408384-S1" ili="wikidata-za-L408384-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408386">
+      <Lemma writtenForm="gouj" partOfSpeech="numeral"/>
+      <Sense id="L408386-S1" synset="wikidata-za-L408386-S1" ili="wikidata-za-L408386-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408392">
+      <Lemma writtenForm="cien" partOfSpeech="numeral"/>
+      <Sense id="L408392-S1" synset="wikidata-za-L408392-S1" ili="wikidata-za-L408392-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408470">
+      <Lemma writtenForm="sou" partOfSpeech="personal pronoun"/>
+      <Sense id="L408470-S1" synset="wikidata-za-L408470-S1" ili="wikidata-za-L408470-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408471">
+      <Lemma writtenForm="gyoengqde" partOfSpeech="personal pronoun"/>
+      <Sense id="L408471-S1" synset="wikidata-za-L408471-S1" ili="wikidata-za-L408471-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408382">
+      <Lemma writtenForm="sam" partOfSpeech="numeral"/>
+      <Sense id="L408382-S1" synset="wikidata-za-L408382-S1" ili="wikidata-za-L408382-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408388">
+      <Lemma writtenForm="haj" partOfSpeech="numeral"/>
+      <Sense id="L408388-S1" synset="wikidata-za-L408388-S1" ili="wikidata-za-L408388-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408391">
+      <Lemma writtenForm="bak" partOfSpeech="numeral"/>
+      <Sense id="L408391-S1" synset="wikidata-za-L408391-S1" ili="wikidata-za-L408391-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408469">
+      <Lemma writtenForm="raeuz" partOfSpeech="personal pronoun"/>
+      <Sense id="L408469-S1" synset="wikidata-za-L408469-S1" ili="wikidata-za-L408469-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408467">
+      <Lemma writtenForm="de" partOfSpeech="personal pronoun"/>
+      <Sense id="L408467-S1" synset="wikidata-za-L408467-S1" ili="wikidata-za-L408467-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408390">
+      <Lemma writtenForm="roek" partOfSpeech="numeral"/>
+      <Sense id="L408390-S1" synset="wikidata-za-L408390-S1" ili="wikidata-za-L408390-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408466">
+      <Lemma writtenForm="mwngz" partOfSpeech="personal pronoun"/>
+      <Sense id="L408466-S1" synset="wikidata-za-L408466-S1" ili="wikidata-za-L408466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408387">
+      <Lemma writtenForm="cib" partOfSpeech="numeral"/>
+      <Sense id="L408387-S1" synset="wikidata-za-L408387-S1" ili="wikidata-za-L408387-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408393">
+      <Lemma writtenForm="fanh" partOfSpeech="numeral"/>
+      <Sense id="L408393-S1" synset="wikidata-za-L408393-S1" ili="wikidata-za-L408393-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408465">
+      <Lemma writtenForm="gou" partOfSpeech="personal pronoun"/>
+      <Sense id="L408465-S1" synset="wikidata-za-L408465-S1" ili="wikidata-za-L408465-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408378">
+      <Lemma writtenForm="ndeu" partOfSpeech="numeral"/>
+      <Sense id="L408378-S1" synset="wikidata-za-L408378-S1" ili="wikidata-za-L408378-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408379">
+      <Lemma writtenForm="lingz" partOfSpeech="numeral"/>
+      <Sense id="L408379-S1" synset="wikidata-za-L408379-S1" ili="wikidata-za-L408379-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408381">
+      <Lemma writtenForm="song" partOfSpeech="numeral"/>
+      <Sense id="L408381-S1" synset="wikidata-za-L408381-S1" ili="wikidata-za-L408381-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408389">
+      <Lemma writtenForm="loeg" partOfSpeech="numeral"/>
+      <Sense id="L408389-S1" synset="wikidata-za-L408389-S1" ili="wikidata-za-L408389-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408472">
+      <Lemma writtenForm="ik" partOfSpeech="numeral"/>
+      <Sense id="L408472-S1" synset="wikidata-za-L408472-S1" ili="wikidata-za-L408472-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-za-L408385-S1" ili="wikidata-za-L408385-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408468-S1" ili="wikidata-za-L408468-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408377-S1" ili="wikidata-za-L408377-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408380-S1" ili="wikidata-za-L408380-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408383-S1" ili="wikidata-za-L408383-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408384-S1" ili="wikidata-za-L408384-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408386-S1" ili="wikidata-za-L408386-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408392-S1" ili="wikidata-za-L408392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408470-S1" ili="wikidata-za-L408470-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408471-S1" ili="wikidata-za-L408471-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408382-S1" ili="wikidata-za-L408382-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408388-S1" ili="wikidata-za-L408388-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408391-S1" ili="wikidata-za-L408391-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408469-S1" ili="wikidata-za-L408469-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408467-S1" ili="wikidata-za-L408467-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408390-S1" ili="wikidata-za-L408390-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408466-S1" ili="wikidata-za-L408466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408387-S1" ili="wikidata-za-L408387-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408393-S1" ili="wikidata-za-L408393-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408465-S1" ili="wikidata-za-L408465-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408378-S1" ili="wikidata-za-L408378-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408379-S1" ili="wikidata-za-L408379-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408381-S1" ili="wikidata-za-L408381-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408389-S1" ili="wikidata-za-L408389-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-za-L408472-S1" ili="wikidata-za-L408472-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-mh"
+                    label="Wikidata MH Lexemes Extension"
+                    language="mh"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-mh" version="1.4"/>
+    <LexicalEntry id="L1368090">
+      <Lemma writtenForm="mi" partOfSpeech="possessive pronoun"/>
+      <Sense id="L1368090-S1" synset="wikidata-mh-L1368090-S1" ili="wikidata-mh-L1368090-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1368089">
+      <Lemma writtenForm="m̧" partOfSpeech="possessive pronoun"/>
+      <Sense id="L1368089-S1" synset="wikidata-mh-L1368089-S1" ili="wikidata-mh-L1368089-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L299261">
+      <Lemma writtenForm="an iiō" partOfSpeech="syntagma"/>
+      <Sense id="L299261-S1" synset="wikidata-mh-L299261-S1" ili="wikidata-mh-L299261-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-mh-L1368090-S1" ili="wikidata-mh-L1368090-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mh-L1368089-S1" ili="wikidata-mh-L1368089-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mh-L299261-S1" ili="wikidata-mh-L299261-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

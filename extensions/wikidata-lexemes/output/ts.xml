@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ts"
+                    label="Wikidata TS Lexemes Extension"
+                    language="ts"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ts" version="1.4"/>
+    <LexicalEntry id="L700304">
+      <Lemma writtenForm="mahewu" partOfSpeech="mass noun"/>
+      <Sense id="L700304-S1" synset="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

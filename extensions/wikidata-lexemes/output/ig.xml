@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ig"
+                    label="Wikidata IG Lexemes Extension"
+                    language="ig"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ig" version="1.4"/>
+    <LexicalEntry id="L611723">
+      <Lemma writtenForm="mwakpo" partOfSpeech="gerund"/>
+      <Sense id="L611723-S1" synset="wikidata-ig-L611723-S1" ili="wikidata-ig-L611723-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L611723-S2" synset="wikidata-ig-L611723-S2" ili="wikidata-ig-L611723-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614062">
+      <Lemma writtenForm="ndi" partOfSpeech="pronoun"/>
+      <Sense id="L614062-S1" synset="wikidata-ig-L614062-S1" ili="wikidata-ig-L614062-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L614062-S2" synset="wikidata-ig-L614062-S2" ili="wikidata-ig-L614062-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L614062-S3" synset="wikidata-ig-L614062-S3" ili="wikidata-ig-L614062-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616861">
+      <Lemma writtenForm="Mgbochi" partOfSpeech="gerund"/>
+      <Sense id="L616861-S1" synset="wikidata-ig-L616861-S1" ili="wikidata-ig-L616861-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618896">
+      <Lemma writtenForm="-go" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618896-S1" synset="wikidata-ig-L618896-S1" ili="wikidata-ig-L618896-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618898">
+      <Lemma writtenForm="-kọ" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618898-S1" synset="wikidata-ig-L618898-S1" ili="wikidata-ig-L618898-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618903">
+      <Lemma writtenForm="-la" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618903-S1" synset="wikidata-ig-L618903-S1" ili="wikidata-ig-L618903-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622279">
+      <Lemma writtenForm="ya na" partOfSpeech="preposition"/>
+      <Sense id="L622279-S1" synset="wikidata-ig-L622279-S1" ili="wikidata-ig-L622279-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L622279-S2" synset="wikidata-ig-L622279-S2" ili="wikidata-ig-L622279-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623157">
+      <Lemma writtenForm="ị" partOfSpeech="pronoun"/>
+      <Sense id="L623157-S1" synset="wikidata-ig-L623157-S1" ili="wikidata-ig-L623157-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624244">
+      <Lemma writtenForm="mere" partOfSpeech="past tense"/>
+      <Sense id="L624244-S1" synset="wikidata-ig-L624244-S1" ili="wikidata-ig-L624244-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640203">
+      <Lemma writtenForm="na" partOfSpeech="preposition"/>
+      <Sense id="L640203-S1" synset="wikidata-ig-L640203-S1" ili="wikidata-ig-L640203-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642983">
+      <Lemma writtenForm="abụọ" partOfSpeech="numeral"/>
+      <Sense id="L642983-S1" synset="wikidata-ig-L642983-S1" ili="wikidata-ig-L642983-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643900">
+      <Lemma writtenForm="otu" partOfSpeech="conjunction"/>
+      <Sense id="L643900-S1" synset="wikidata-ig-L643900-S1" ili="wikidata-ig-L643900-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700297">
+      <Lemma writtenForm="gọ" partOfSpeech="active"/>
+      <Sense id="L700297-S1" synset="wikidata-ig-L700297-S1" ili="wikidata-ig-L700297-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712442">
+      <Lemma writtenForm="mgbe ọ bụla" partOfSpeech="conjunction"/>
+      <Sense id="L712442-S1" synset="wikidata-ig-L712442-S1" ili="wikidata-ig-L712442-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712498">
+      <Lemma writtenForm="nke o jị abu" partOfSpeech="conjunction"/>
+      <Sense id="L712498-S1" synset="wikidata-ig-L712498-S1" ili="wikidata-ig-L712498-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L715841">
+      <Lemma writtenForm="dabere na" partOfSpeech="adverbial phrase"/>
+      <Sense id="L715841-S1" synset="wikidata-ig-L715841-S1" ili="wikidata-ig-L715841-S1">
+        <Definition>dabere na</Definition>
+      </Sense>
+      <Sense id="L715841-S2" synset="wikidata-ig-L715841-S2" ili="wikidata-ig-L715841-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L716847">
+      <Lemma writtenForm="afọ otu" partOfSpeech="compound noun"/>
+      <Sense id="L716847-S1" synset="wikidata-ig-L716847-S1" ili="wikidata-ig-L716847-S1">
+        <Definition>afọ otu</Definition>
+      </Sense>
+      <Sense id="L716847-S2" synset="wikidata-ig-L716847-S2" ili="wikidata-ig-L716847-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747357">
+      <Lemma writtenForm="ùgbòrò" partOfSpeech="quantifier"/>
+      <Sense id="L747357-S1" synset="wikidata-ig-L747357-S1" ili="wikidata-ig-L747357-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747359">
+      <Lemma writtenForm="gwọ̄" partOfSpeech="passive verb"/>
+      <Sense id="L747359-S1" synset="wikidata-ig-L747359-S1" ili="wikidata-ig-L747359-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L747359-S2" synset="wikidata-ig-L747359-S2" ili="wikidata-ig-L747359-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747369">
+      <Lemma writtenForm="dọ" partOfSpeech="passive verb"/>
+      <Sense id="L747369-S1" synset="wikidata-ig-L747369-S1" ili="wikidata-ig-L747369-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019341">
+      <Lemma writtenForm="òfè" partOfSpeech="preposition"/>
+      <Sense id="L1019341-S1" synset="wikidata-ig-L1019341-S1" ili="wikidata-ig-L1019341-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215617">
+      <Lemma writtenForm="nari abuo na ano" partOfSpeech="numeral"/>
+      <Sense id="L1215617-S1" synset="wikidata-ig-L1215617-S1" ili="wikidata-ig-L1215617-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1326765">
+      <Lemma writtenForm="ndị kwere ekwe" partOfSpeech="pronoun"/>
+      <Sense id="L1326765-S1" synset="wikidata-ig-L1326765-S1" ili="wikidata-ig-L1326765-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1326765-S2" synset="wikidata-ig-L1326765-S2" ili="wikidata-ig-L1326765-S2">
+        <Definition>ndị kwere ekwe</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L611780">
+      <Lemma writtenForm="Banyere" partOfSpeech="preposition"/>
+      <Sense id="L611780-S1" synset="wikidata-ig-L611780-S1" ili="wikidata-ig-L611780-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614681">
+      <Lemma writtenForm="mụ" partOfSpeech="pronoun"/>
+      <Sense id="L614681-S1" synset="wikidata-ig-L614681-S1" ili="wikidata-ig-L614681-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618184">
+      <Lemma writtenForm="biko" partOfSpeech="interjection"/>
+      <Sense id="L618184-S2" synset="wikidata-ig-L618184-S2" ili="wikidata-ig-L618184-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623581">
+      <Lemma writtenForm="Mgbe" partOfSpeech="preposition"/>
+      <Sense id="L623581-S1" synset="wikidata-ig-L623581-S1" ili="wikidata-ig-L623581-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643891">
+      <Lemma writtenForm="-ta" partOfSpeech="extensional suffix"/>
+      <Sense id="L643891-S1" synset="wikidata-ig-L643891-S1" ili="wikidata-ig-L643891-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L643891-S2" synset="wikidata-ig-L643891-S2" ili="wikidata-ig-L643891-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L643891-S3" synset="wikidata-ig-L643891-S3" ili="wikidata-ig-L643891-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722373">
+      <Lemma writtenForm="onwem" partOfSpeech="pronoun"/>
+      <Sense id="L722373-S1" synset="wikidata-ig-L722373-S1" ili="wikidata-ig-L722373-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L723687">
+      <Lemma writtenForm="Ogu iri na ise" partOfSpeech="numeral"/>
+      <Sense id="L723687-S1" synset="wikidata-ig-L723687-S1" ili="wikidata-ig-L723687-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739918">
+      <Lemma writtenForm="ìmèriìmè" partOfSpeech="quantifier"/>
+      <Sense id="L739918-S1" synset="wikidata-ig-L739918-S1" ili="wikidata-ig-L739918-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1011633">
+      <Lemma writtenForm="à" partOfSpeech="demonstrative"/>
+      <Sense id="L1011633-S1" synset="wikidata-ig-L1011633-S1" ili="wikidata-ig-L1011633-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1011633-S3" synset="wikidata-ig-L1011633-S3" ili="wikidata-ig-L1011633-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018388">
+      <Lemma writtenForm="kà" partOfSpeech="conjunction"/>
+      <Sense id="L1018388-S1" synset="wikidata-ig-L1018388-S1" ili="wikidata-ig-L1018388-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215640">
+      <Lemma writtenForm="nari abuo na abuo" partOfSpeech="numeral"/>
+      <Sense id="L1215640-S1" synset="wikidata-ig-L1215640-S1" ili="wikidata-ig-L1215640-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215643">
+      <Lemma writtenForm="iri isii na ise" partOfSpeech="numeral"/>
+      <Sense id="L1215643-S1" synset="wikidata-ig-L1215643-S1" ili="wikidata-ig-L1215643-S1">
+        <Definition>Iri isii na ise</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215644">
+      <Lemma writtenForm="nari abuo na otu" partOfSpeech="numeral"/>
+      <Sense id="L1215644-S1" synset="wikidata-ig-L1215644-S1" ili="wikidata-ig-L1215644-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215701">
+      <Lemma writtenForm="nari abuo na asaa" partOfSpeech="numeral"/>
+      <Sense id="L1215701-S1" synset="wikidata-ig-L1215701-S1" ili="wikidata-ig-L1215701-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614401">
+      <Lemma writtenForm="ọ" partOfSpeech="pronoun"/>
+      <Sense id="L614401-S4" synset="wikidata-ig-L614401-S4" ili="wikidata-ig-L614401-S4">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614674">
+      <Lemma writtenForm="anyị" partOfSpeech="pronoun"/>
+      <Sense id="L614674-S1" synset="wikidata-ig-L614674-S1" ili="wikidata-ig-L614674-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614684">
+      <Lemma writtenForm="gị" partOfSpeech="pronoun"/>
+      <Sense id="L614684-S1" synset="wikidata-ig-L614684-S1" ili="wikidata-ig-L614684-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618900">
+      <Lemma writtenForm="-ri" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618900-S1" synset="wikidata-ig-L618900-S1" ili="wikidata-ig-L618900-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618908">
+      <Lemma writtenForm="-ghị" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618908-S1" synset="wikidata-ig-L618908-S1" ili="wikidata-ig-L618908-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L710815">
+      <Lemma writtenForm="ṅsùsù ọnụ" partOfSpeech="nominalized verb"/>
+      <Sense id="L710815-S1" synset="wikidata-ig-L710815-S1" ili="wikidata-ig-L710815-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747365">
+      <Lemma writtenForm="gbā ākā" partOfSpeech="passive verb"/>
+      <Sense id="L747365-S1" synset="wikidata-ig-L747365-S1" ili="wikidata-ig-L747365-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747366">
+      <Lemma writtenForm="mā ākwụ̄kwọ̄" partOfSpeech="passive verb"/>
+      <Sense id="L747366-S1" synset="wikidata-ig-L747366-S1" ili="wikidata-ig-L747366-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747368">
+      <Lemma writtenForm="nwụ" partOfSpeech="passive verb"/>
+      <Sense id="L747368-S1" synset="wikidata-ig-L747368-S1" ili="wikidata-ig-L747368-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748104">
+      <Lemma writtenForm="ànyịnwà" partOfSpeech="pronoun"/>
+      <Sense id="L748104-S1" synset="wikidata-ig-L748104-S1" ili="wikidata-ig-L748104-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018338">
+      <Lemma writtenForm="ùgbòròòle" partOfSpeech="interrogative"/>
+      <Sense id="L1018338-S1" synset="wikidata-ig-L1018338-S1" ili="wikidata-ig-L1018338-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018479">
+      <Lemma writtenForm="bikō" partOfSpeech="interjection"/>
+      <Sense id="L1018479-S1" synset="wikidata-ig-L1018479-S1" ili="wikidata-ig-L1018479-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019484">
+      <Lemma writtenForm="mbà" partOfSpeech="interjection"/>
+      <Sense id="L1019484-S1" synset="wikidata-ig-L1019484-S1" ili="wikidata-ig-L1019484-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215573">
+      <Lemma writtenForm="ịrị iteghete na anọ" partOfSpeech="numeral"/>
+      <Sense id="L1215573-S1" synset="wikidata-ig-L1215573-S1" ili="wikidata-ig-L1215573-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L594255">
+      <Lemma writtenForm="daalu" partOfSpeech="interjection"/>
+      <Sense id="L594255-S1" synset="wikidata-ig-L594255-S1" ili="wikidata-ig-L594255-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614071">
+      <Lemma writtenForm="Ịgba nkwụ" partOfSpeech="infinitive"/>
+      <Sense id="L614071-S1" synset="wikidata-ig-L614071-S1" ili="wikidata-ig-L614071-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614688">
+      <Lemma writtenForm="ma" partOfSpeech="conjunction"/>
+      <Sense id="L614688-S1" synset="wikidata-ig-L614688-S1" ili="wikidata-ig-L614688-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L617740">
+      <Lemma writtenForm="m" partOfSpeech="pronoun"/>
+      <Sense id="L617740-S1" synset="wikidata-ig-L617740-S1" ili="wikidata-ig-L617740-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622621">
+      <Lemma writtenForm="n&apos;etiti" partOfSpeech="preposition"/>
+      <Sense id="L622621-S1" synset="wikidata-ig-L622621-S1" ili="wikidata-ig-L622621-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L622621-S2" synset="wikidata-ig-L622621-S2" ili="wikidata-ig-L622621-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623772">
+      <Lemma writtenForm="ihe" partOfSpeech="pronoun"/>
+      <Sense id="L623772-S1" synset="wikidata-ig-L623772-S1" ili="wikidata-ig-L623772-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624005">
+      <Lemma writtenForm="onye ọ bụla" partOfSpeech="pronoun"/>
+      <Sense id="L624005-S1" synset="wikidata-ig-L624005-S1" ili="wikidata-ig-L624005-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L624005-S2" synset="wikidata-ig-L624005-S2" ili="wikidata-ig-L624005-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L624005-S3" synset="wikidata-ig-L624005-S3" ili="wikidata-ig-L624005-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624296">
+      <Lemma writtenForm="gafee" partOfSpeech="preposition"/>
+      <Sense id="L624296-S1" synset="wikidata-ig-L624296-S1" ili="wikidata-ig-L624296-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692323">
+      <Lemma writtenForm="dákwàsà" partOfSpeech="active"/>
+      <Sense id="L692323-S1" synset="wikidata-ig-L692323-S1" ili="wikidata-ig-L692323-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712465">
+      <Lemma writtenForm="n&apos;agbayeghi" partOfSpeech="conjunction"/>
+      <Sense id="L712465-S1" synset="wikidata-ig-L712465-S1" ili="wikidata-ig-L712465-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722425">
+      <Lemma writtenForm="arụkwaghịm" partOfSpeech="pronoun"/>
+      <Sense id="L722425-S1" synset="wikidata-ig-L722425-S1" ili="wikidata-ig-L722425-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737813">
+      <Lemma writtenForm="hị āhị̄" partOfSpeech="passive verb"/>
+      <Sense id="L737813-S1" synset="wikidata-ig-L737813-S1" ili="wikidata-ig-L737813-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748101">
+      <Lemma writtenForm="nọ̀" partOfSpeech="passive verb"/>
+      <Sense id="L748101-S1" synset="wikidata-ig-L748101-S1" ili="wikidata-ig-L748101-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748103">
+      <Lemma writtenForm="ànyị" partOfSpeech="pronoun"/>
+      <Sense id="L748103-S1" synset="wikidata-ig-L748103-S1" ili="wikidata-ig-L748103-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1014001">
+      <Lemma writtenForm="oo" partOfSpeech="interjection"/>
+      <Sense id="L1014001-S1" synset="wikidata-ig-L1014001-S1" ili="wikidata-ig-L1014001-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1014001-S2" synset="wikidata-ig-L1014001-S2" ili="wikidata-ig-L1014001-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018477">
+      <Lemma writtenForm="doo" partOfSpeech="interjection"/>
+      <Sense id="L1018477-S1" synset="wikidata-ig-L1018477-S1" ili="wikidata-ig-L1018477-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019529">
+      <Lemma writtenForm="òle" partOfSpeech="interrogative"/>
+      <Sense id="L1019529-S1" synset="wikidata-ig-L1019529-S1" ili="wikidata-ig-L1019529-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215579">
+      <Lemma writtenForm="iri itoolu na ise" partOfSpeech="numeral"/>
+      <Sense id="L1215579-S1" synset="wikidata-ig-L1215579-S1" ili="wikidata-ig-L1215579-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215589">
+      <Lemma writtenForm="iri itoolu na isii" partOfSpeech="numeral"/>
+      <Sense id="L1215589-S1" synset="wikidata-ig-L1215589-S1" ili="wikidata-ig-L1215589-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215651">
+      <Lemma writtenForm="iri itoolu na itoolu" partOfSpeech="numeral"/>
+      <Sense id="L1215651-S1" synset="wikidata-ig-L1215651-S1" ili="wikidata-ig-L1215651-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616289">
+      <Lemma writtenForm="na" partOfSpeech="grammatical particle"/>
+      <Sense id="L616289-S1" synset="wikidata-ig-L616289-S1" ili="wikidata-ig-L616289-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616869">
+      <Lemma writtenForm="Gbásàrá" partOfSpeech="preposition"/>
+      <Sense id="L616869-S1" synset="wikidata-ig-L616869-S1" ili="wikidata-ig-L616869-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624249">
+      <Lemma writtenForm="mgbe ole" partOfSpeech="conjunction"/>
+      <Sense id="L624249-S1" synset="wikidata-ig-L624249-S1" ili="wikidata-ig-L624249-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712534">
+      <Lemma writtenForm="n&apos;ime" partOfSpeech="preposition"/>
+      <Sense id="L712534-S1" synset="wikidata-ig-L712534-S1" ili="wikidata-ig-L712534-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747364">
+      <Lemma writtenForm="hā" partOfSpeech="passive verb"/>
+      <Sense id="L747364-S1" synset="wikidata-ig-L747364-S1" ili="wikidata-ig-L747364-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747370">
+      <Lemma writtenForm="ǹkè àbụọ̄" partOfSpeech="quantifier"/>
+      <Sense id="L747370-S1" synset="wikidata-ig-L747370-S1" ili="wikidata-ig-L747370-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748105">
+      <Lemma writtenForm="ànyị" partOfSpeech="pronoun"/>
+      <Sense id="L748105-S1" synset="wikidata-ig-L748105-S1" ili="wikidata-ig-L748105-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018492">
+      <Lemma writtenForm="dịkà" partOfSpeech="conjunction"/>
+      <Sense id="L1018492-S1" synset="wikidata-ig-L1018492-S1" ili="wikidata-ig-L1018492-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019088">
+      <Lemma writtenForm="gba aka" partOfSpeech="passive verb"/>
+      <Sense id="L1019088-S1" synset="wikidata-ig-L1019088-S1" ili="wikidata-ig-L1019088-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019487">
+      <Lemma writtenForm="eē" partOfSpeech="interjection"/>
+      <Sense id="L1019487-S1" synset="wikidata-ig-L1019487-S1" ili="wikidata-ig-L1019487-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215656">
+      <Lemma writtenForm="Iri ise na isii" partOfSpeech="numeral"/>
+      <Sense id="L1215656-S1" synset="wikidata-ig-L1215656-S1" ili="wikidata-ig-L1215656-S1">
+        <Definition>Sixty-six</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215705">
+      <Lemma writtenForm="nari abuo na asato" partOfSpeech="numeral"/>
+      <Sense id="L1215705-S1" synset="wikidata-ig-L1215705-S1" ili="wikidata-ig-L1215705-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1460486">
+      <Lemma writtenForm="sọọsọ" partOfSpeech="definite determiner"/>
+      <Sense id="L1460486-S1" synset="wikidata-ig-L1460486-S1" ili="wikidata-ig-L1460486-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579435">
+      <Lemma writtenForm="nke" partOfSpeech="pronoun"/>
+      <Sense id="L579435-S1" synset="wikidata-ig-L579435-S1" ili="wikidata-ig-L579435-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614683">
+      <Lemma writtenForm="ya" partOfSpeech="pronoun"/>
+      <Sense id="L614683-S1" synset="wikidata-ig-L614683-S1" ili="wikidata-ig-L614683-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618891">
+      <Lemma writtenForm="-bu" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618891-S1" synset="wikidata-ig-L618891-S1" ili="wikidata-ig-L618891-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622228">
+      <Lemma writtenForm="onwe" partOfSpeech="pronoun"/>
+      <Sense id="L622228-S2" synset="wikidata-ig-L622228-S2" ili="wikidata-ig-L622228-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623146">
+      <Lemma writtenForm="n&apos;elu" partOfSpeech="preposition"/>
+      <Sense id="L623146-S1" synset="wikidata-ig-L623146-S1" ili="wikidata-ig-L623146-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624076">
+      <Lemma writtenForm="n&apos;ihi na" partOfSpeech="conjunction"/>
+      <Sense id="L624076-S1" synset="wikidata-ig-L624076-S1" ili="wikidata-ig-L624076-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643944">
+      <Lemma writtenForm="ka" partOfSpeech="conjunction"/>
+      <Sense id="L643944-S1" synset="wikidata-ig-L643944-S1" ili="wikidata-ig-L643944-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L643944-S2" synset="wikidata-ig-L643944-S2" ili="wikidata-ig-L643944-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L643944-S3" synset="wikidata-ig-L643944-S3" ili="wikidata-ig-L643944-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646355">
+      <Lemma writtenForm="tupu" partOfSpeech="conjunction"/>
+      <Sense id="L646355-S1" synset="wikidata-ig-L646355-S1" ili="wikidata-ig-L646355-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708447">
+      <Lemma writtenForm="nwanne m nwokè" partOfSpeech="pronoun"/>
+      <Sense id="L708447-S1" synset="wikidata-ig-L708447-S1" ili="wikidata-ig-L708447-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712401">
+      <Lemma writtenForm="na-akpote" partOfSpeech="present participle"/>
+      <Sense id="L712401-S1" synset="wikidata-ig-L712401-S1" ili="wikidata-ig-L712401-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712478">
+      <Lemma writtenForm="ọ bughi" partOfSpeech="conjunction"/>
+      <Sense id="L712478-S1" synset="wikidata-ig-L712478-S1" ili="wikidata-ig-L712478-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L713909">
+      <Lemma writtenForm="mmiri na-ezo ụbọchị" partOfSpeech="adverbial phrase"/>
+      <Sense id="L713909-S1" synset="wikidata-ig-L713909-S1" ili="wikidata-ig-L713909-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L713909-S2" synset="wikidata-ig-L713909-S2" ili="wikidata-ig-L713909-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L723874">
+      <Lemma writtenForm="Ngabiga" partOfSpeech="preposition"/>
+      <Sense id="L723874-S1" synset="wikidata-ig-L723874-S1" ili="wikidata-ig-L723874-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739913">
+      <Lemma writtenForm="ọọ̄" partOfSpeech="pronoun"/>
+      <Sense id="L739913-S1" synset="wikidata-ig-L739913-S1" ili="wikidata-ig-L739913-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748100">
+      <Lemma writtenForm="bu" partOfSpeech="passive verb"/>
+      <Sense id="L748100-S1" synset="wikidata-ig-L748100-S1" ili="wikidata-ig-L748100-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018332">
+      <Lemma writtenForm="dàgà" partOfSpeech="conjunction"/>
+      <Sense id="L1018332-S1" synset="wikidata-ig-L1018332-S1" ili="wikidata-ig-L1018332-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018486">
+      <Lemma writtenForm="kà" partOfSpeech="interjection"/>
+      <Sense id="L1018486-S1" synset="wikidata-ig-L1018486-S1" ili="wikidata-ig-L1018486-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1018486-S2" synset="wikidata-ig-L1018486-S2" ili="wikidata-ig-L1018486-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215609">
+      <Lemma writtenForm="nari abuo na ise" partOfSpeech="numeral"/>
+      <Sense id="L1215609-S1" synset="wikidata-ig-L1215609-S1" ili="wikidata-ig-L1215609-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215658">
+      <Lemma writtenForm="iri itoolu na asato" partOfSpeech="numeral"/>
+      <Sense id="L1215658-S1" synset="wikidata-ig-L1215658-S1" ili="wikidata-ig-L1215658-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614407">
+      <Lemma writtenForm="mgbada" partOfSpeech="preposition"/>
+      <Sense id="L614407-S1" synset="wikidata-ig-L614407-S1" ili="wikidata-ig-L614407-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623702">
+      <Lemma writtenForm="nedụ" partOfSpeech="interjection"/>
+      <Sense id="L623702-S1" synset="wikidata-ig-L623702-S1" ili="wikidata-ig-L623702-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L623702-S2" synset="wikidata-ig-L623702-S2" ili="wikidata-ig-L623702-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624190">
+      <Lemma writtenForm="gbaa" partOfSpeech="imperative form"/>
+      <Sense id="L624190-S1" synset="wikidata-ig-L624190-S1" ili="wikidata-ig-L624190-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643902">
+      <Lemma writtenForm="na" partOfSpeech="auxiliary verb"/>
+      <Sense id="L643902-S1" synset="wikidata-ig-L643902-S1" ili="wikidata-ig-L643902-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L716875">
+      <Lemma writtenForm="dị nsọ" partOfSpeech="pronoun"/>
+      <Sense id="L716875-S1" synset="wikidata-ig-L716875-S1" ili="wikidata-ig-L716875-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L716875-S2" synset="wikidata-ig-L716875-S2" ili="wikidata-ig-L716875-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739912">
+      <Lemma writtenForm="chị ìnyèmè" partOfSpeech="passive verb"/>
+      <Sense id="L739912-S1" synset="wikidata-ig-L739912-S1" ili="wikidata-ig-L739912-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L739914">
+      <Lemma writtenForm="nà" partOfSpeech="preposition"/>
+      <Sense id="L739914-S1" synset="wikidata-ig-L739914-S1" ili="wikidata-ig-L739914-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747358">
+      <Lemma writtenForm="òlenòòlē" partOfSpeech="quantifier"/>
+      <Sense id="L747358-S1" synset="wikidata-ig-L747358-S1" ili="wikidata-ig-L747358-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747362">
+      <Lemma writtenForm="yì" partOfSpeech="passive verb"/>
+      <Sense id="L747362-S1" synset="wikidata-ig-L747362-S1" ili="wikidata-ig-L747362-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747363">
+      <Lemma writtenForm="kwò" partOfSpeech="passive verb"/>
+      <Sense id="L747363-S1" synset="wikidata-ig-L747363-S1" ili="wikidata-ig-L747363-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019442">
+      <Lemma writtenForm="kem̀gbè" partOfSpeech="interjection"/>
+      <Sense id="L1019442-S1" synset="wikidata-ig-L1019442-S1" ili="wikidata-ig-L1019442-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215626">
+      <Lemma writtenForm="nari abuo na ato" partOfSpeech="numeral"/>
+      <Sense id="L1215626-S1" synset="wikidata-ig-L1215626-S1" ili="wikidata-ig-L1215626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215633">
+      <Lemma writtenForm="iri isii na ano" partOfSpeech="numeral"/>
+      <Sense id="L1215633-S1" synset="wikidata-ig-L1215633-S1" ili="wikidata-ig-L1215633-S1">
+        <Definition>Sixty-four</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215665">
+      <Lemma writtenForm="iri itoolu na asaa" partOfSpeech="numeral"/>
+      <Sense id="L1215665-S1" synset="wikidata-ig-L1215665-S1" ili="wikidata-ig-L1215665-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614066">
+      <Lemma writtenForm="unu" partOfSpeech="pronoun"/>
+      <Sense id="L614066-S1" synset="wikidata-ig-L614066-S1" ili="wikidata-ig-L614066-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L614673">
+      <Lemma writtenForm="ha" partOfSpeech="pronoun"/>
+      <Sense id="L614673-S1" synset="wikidata-ig-L614673-S1" ili="wikidata-ig-L614673-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616288">
+      <Lemma writtenForm="na" partOfSpeech="conjunction"/>
+      <Sense id="L616288-S1" synset="wikidata-ig-L616288-S1" ili="wikidata-ig-L616288-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L616288-S2" synset="wikidata-ig-L616288-S2" ili="wikidata-ig-L616288-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616864">
+      <Lemma writtenForm="Ọgịga" partOfSpeech="gerund"/>
+      <Sense id="L616864-S1" synset="wikidata-ig-L616864-S1" ili="wikidata-ig-L616864-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L616864-S2" synset="wikidata-ig-L616864-S2" ili="wikidata-ig-L616864-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616981">
+      <Lemma writtenForm="n&apos;okpuru" partOfSpeech="preposition"/>
+      <Sense id="L616981-S2" synset="wikidata-ig-L616981-S2" ili="wikidata-ig-L616981-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618883">
+      <Lemma writtenForm="-a" partOfSpeech="inflectional suffix"/>
+      <Sense id="L618883-S1" synset="wikidata-ig-L618883-S1" ili="wikidata-ig-L618883-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622360">
+      <Lemma writtenForm="Anụ ụlọ" partOfSpeech="pronoun"/>
+      <Sense id="L622360-S1" synset="wikidata-ig-L622360-S1" ili="wikidata-ig-L622360-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L622360-S2" synset="wikidata-ig-L622360-S2" ili="wikidata-ig-L622360-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622647">
+      <Lemma writtenForm="gbasara" partOfSpeech="preposition"/>
+      <Sense id="L622647-S1" synset="wikidata-ig-L622647-S1" ili="wikidata-ig-L622647-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622996">
+      <Lemma writtenForm="Ndi ahụ" partOfSpeech="pronoun"/>
+      <Sense id="L622996-S1" synset="wikidata-ig-L622996-S1" ili="wikidata-ig-L622996-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L622996-S2" synset="wikidata-ig-L622996-S2" ili="wikidata-ig-L622996-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L623436">
+      <Lemma writtenForm="ịkpọ" partOfSpeech="infinitive"/>
+      <Sense id="L623436-S1" synset="wikidata-ig-L623436-S1" ili="wikidata-ig-L623436-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624086">
+      <Lemma writtenForm="ozugbo" partOfSpeech="conjunction"/>
+      <Sense id="L624086-S1" synset="wikidata-ig-L624086-S1" ili="wikidata-ig-L624086-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640143">
+      <Lemma writtenForm="e" partOfSpeech="pronoun"/>
+      <Sense id="L640143-S1" synset="wikidata-ig-L640143-S1" ili="wikidata-ig-L640143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643903">
+      <Lemma writtenForm="ka" partOfSpeech="auxiliary verb"/>
+      <Sense id="L643903-S1" synset="wikidata-ig-L643903-S1" ili="wikidata-ig-L643903-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646356">
+      <Lemma writtenForm="kama" partOfSpeech="conjunction"/>
+      <Sense id="L646356-S1" synset="wikidata-ig-L646356-S1" ili="wikidata-ig-L646356-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700215">
+      <Lemma writtenForm="nọ̀dò" partOfSpeech="passive verb"/>
+      <Sense id="L700215-S1" synset="wikidata-ig-L700215-S1" ili="wikidata-ig-L700215-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L712543">
+      <Lemma writtenForm="n&apos;ofe" partOfSpeech="preposition"/>
+      <Sense id="L712543-S1" synset="wikidata-ig-L712543-S1" ili="wikidata-ig-L712543-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747367">
+      <Lemma writtenForm="dọ̄" partOfSpeech="passive verb"/>
+      <Sense id="L747367-S1" synset="wikidata-ig-L747367-S1" ili="wikidata-ig-L747367-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1018466">
+      <Lemma writtenForm="godu" partOfSpeech="interjection"/>
+      <Sense id="L1018466-S1" synset="wikidata-ig-L1018466-S1" ili="wikidata-ig-L1018466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215583">
+      <Lemma writtenForm="unu onwe unu" partOfSpeech="pronoun"/>
+      <Sense id="L1215583-S1" synset="wikidata-ig-L1215583-S1" ili="wikidata-ig-L1215583-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1215596">
+      <Lemma writtenForm="nari abuo na isii" partOfSpeech="numeral"/>
+      <Sense id="L1215596-S1" synset="wikidata-ig-L1215596-S1" ili="wikidata-ig-L1215596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ig-L611723-S1" ili="wikidata-ig-L611723-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L611723-S2" ili="wikidata-ig-L611723-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614062-S1" ili="wikidata-ig-L614062-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614062-S2" ili="wikidata-ig-L614062-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614062-S3" ili="wikidata-ig-L614062-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616861-S1" ili="wikidata-ig-L616861-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618896-S1" ili="wikidata-ig-L618896-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618898-S1" ili="wikidata-ig-L618898-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618903-S1" ili="wikidata-ig-L618903-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622279-S1" ili="wikidata-ig-L622279-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622279-S2" ili="wikidata-ig-L622279-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623157-S1" ili="wikidata-ig-L623157-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624244-S1" ili="wikidata-ig-L624244-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L640203-S1" ili="wikidata-ig-L640203-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L642983-S1" ili="wikidata-ig-L642983-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643900-S1" ili="wikidata-ig-L643900-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L700297-S1" ili="wikidata-ig-L700297-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712442-S1" ili="wikidata-ig-L712442-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712498-S1" ili="wikidata-ig-L712498-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L715841-S1" ili="wikidata-ig-L715841-S1">
+      <Definition>dabere na</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L715841-S2" ili="wikidata-ig-L715841-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L716847-S1" ili="wikidata-ig-L716847-S1">
+      <Definition>afọ otu</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L716847-S2" ili="wikidata-ig-L716847-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747357-S1" ili="wikidata-ig-L747357-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747359-S1" ili="wikidata-ig-L747359-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747359-S2" ili="wikidata-ig-L747359-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747369-S1" ili="wikidata-ig-L747369-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019341-S1" ili="wikidata-ig-L1019341-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215617-S1" ili="wikidata-ig-L1215617-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1326765-S1" ili="wikidata-ig-L1326765-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1326765-S2" ili="wikidata-ig-L1326765-S2">
+      <Definition>ndị kwere ekwe</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L611780-S1" ili="wikidata-ig-L611780-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614681-S1" ili="wikidata-ig-L614681-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618184-S2" ili="wikidata-ig-L618184-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623581-S1" ili="wikidata-ig-L623581-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643891-S1" ili="wikidata-ig-L643891-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643891-S2" ili="wikidata-ig-L643891-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643891-S3" ili="wikidata-ig-L643891-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L722373-S1" ili="wikidata-ig-L722373-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L723687-S1" ili="wikidata-ig-L723687-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L739918-S1" ili="wikidata-ig-L739918-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1011633-S1" ili="wikidata-ig-L1011633-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1011633-S3" ili="wikidata-ig-L1011633-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018388-S1" ili="wikidata-ig-L1018388-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215640-S1" ili="wikidata-ig-L1215640-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215643-S1" ili="wikidata-ig-L1215643-S1">
+      <Definition>Iri isii na ise</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215644-S1" ili="wikidata-ig-L1215644-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215701-S1" ili="wikidata-ig-L1215701-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614401-S4" ili="wikidata-ig-L614401-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614674-S1" ili="wikidata-ig-L614674-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614684-S1" ili="wikidata-ig-L614684-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618900-S1" ili="wikidata-ig-L618900-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618908-S1" ili="wikidata-ig-L618908-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L710815-S1" ili="wikidata-ig-L710815-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747365-S1" ili="wikidata-ig-L747365-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747366-S1" ili="wikidata-ig-L747366-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747368-S1" ili="wikidata-ig-L747368-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L748104-S1" ili="wikidata-ig-L748104-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018338-S1" ili="wikidata-ig-L1018338-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018479-S1" ili="wikidata-ig-L1018479-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019484-S1" ili="wikidata-ig-L1019484-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215573-S1" ili="wikidata-ig-L1215573-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L594255-S1" ili="wikidata-ig-L594255-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614071-S1" ili="wikidata-ig-L614071-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614688-S1" ili="wikidata-ig-L614688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L617740-S1" ili="wikidata-ig-L617740-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622621-S1" ili="wikidata-ig-L622621-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622621-S2" ili="wikidata-ig-L622621-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623772-S1" ili="wikidata-ig-L623772-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624005-S1" ili="wikidata-ig-L624005-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624005-S2" ili="wikidata-ig-L624005-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624005-S3" ili="wikidata-ig-L624005-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624296-S1" ili="wikidata-ig-L624296-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L692323-S1" ili="wikidata-ig-L692323-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712465-S1" ili="wikidata-ig-L712465-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L722425-S1" ili="wikidata-ig-L722425-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L737813-S1" ili="wikidata-ig-L737813-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L748101-S1" ili="wikidata-ig-L748101-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L748103-S1" ili="wikidata-ig-L748103-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1014001-S1" ili="wikidata-ig-L1014001-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1014001-S2" ili="wikidata-ig-L1014001-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018477-S1" ili="wikidata-ig-L1018477-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019529-S1" ili="wikidata-ig-L1019529-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215579-S1" ili="wikidata-ig-L1215579-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215589-S1" ili="wikidata-ig-L1215589-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215651-S1" ili="wikidata-ig-L1215651-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616289-S1" ili="wikidata-ig-L616289-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616869-S1" ili="wikidata-ig-L616869-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624249-S1" ili="wikidata-ig-L624249-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712534-S1" ili="wikidata-ig-L712534-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747364-S1" ili="wikidata-ig-L747364-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747370-S1" ili="wikidata-ig-L747370-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L748105-S1" ili="wikidata-ig-L748105-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018492-S1" ili="wikidata-ig-L1018492-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019088-S1" ili="wikidata-ig-L1019088-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019487-S1" ili="wikidata-ig-L1019487-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215656-S1" ili="wikidata-ig-L1215656-S1">
+      <Definition>Sixty-six</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215705-S1" ili="wikidata-ig-L1215705-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1460486-S1" ili="wikidata-ig-L1460486-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L579435-S1" ili="wikidata-ig-L579435-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614683-S1" ili="wikidata-ig-L614683-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618891-S1" ili="wikidata-ig-L618891-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622228-S2" ili="wikidata-ig-L622228-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623146-S1" ili="wikidata-ig-L623146-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624076-S1" ili="wikidata-ig-L624076-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643944-S1" ili="wikidata-ig-L643944-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643944-S2" ili="wikidata-ig-L643944-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643944-S3" ili="wikidata-ig-L643944-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L646355-S1" ili="wikidata-ig-L646355-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L708447-S1" ili="wikidata-ig-L708447-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712401-S1" ili="wikidata-ig-L712401-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712478-S1" ili="wikidata-ig-L712478-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L713909-S1" ili="wikidata-ig-L713909-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L713909-S2" ili="wikidata-ig-L713909-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L723874-S1" ili="wikidata-ig-L723874-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L739913-S1" ili="wikidata-ig-L739913-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L748100-S1" ili="wikidata-ig-L748100-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018332-S1" ili="wikidata-ig-L1018332-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018486-S1" ili="wikidata-ig-L1018486-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018486-S2" ili="wikidata-ig-L1018486-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215609-S1" ili="wikidata-ig-L1215609-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215658-S1" ili="wikidata-ig-L1215658-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614407-S1" ili="wikidata-ig-L614407-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623702-S1" ili="wikidata-ig-L623702-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623702-S2" ili="wikidata-ig-L623702-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624190-S1" ili="wikidata-ig-L624190-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643902-S1" ili="wikidata-ig-L643902-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L716875-S1" ili="wikidata-ig-L716875-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L716875-S2" ili="wikidata-ig-L716875-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L739912-S1" ili="wikidata-ig-L739912-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L739914-S1" ili="wikidata-ig-L739914-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747358-S1" ili="wikidata-ig-L747358-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747362-S1" ili="wikidata-ig-L747362-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747363-S1" ili="wikidata-ig-L747363-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1019442-S1" ili="wikidata-ig-L1019442-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215626-S1" ili="wikidata-ig-L1215626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215633-S1" ili="wikidata-ig-L1215633-S1">
+      <Definition>Sixty-four</Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215665-S1" ili="wikidata-ig-L1215665-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614066-S1" ili="wikidata-ig-L614066-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L614673-S1" ili="wikidata-ig-L614673-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616288-S1" ili="wikidata-ig-L616288-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616288-S2" ili="wikidata-ig-L616288-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616864-S1" ili="wikidata-ig-L616864-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616864-S2" ili="wikidata-ig-L616864-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L616981-S2" ili="wikidata-ig-L616981-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L618883-S1" ili="wikidata-ig-L618883-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622360-S1" ili="wikidata-ig-L622360-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622360-S2" ili="wikidata-ig-L622360-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622647-S1" ili="wikidata-ig-L622647-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622996-S1" ili="wikidata-ig-L622996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L622996-S2" ili="wikidata-ig-L622996-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L623436-S1" ili="wikidata-ig-L623436-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L624086-S1" ili="wikidata-ig-L624086-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L640143-S1" ili="wikidata-ig-L640143-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L643903-S1" ili="wikidata-ig-L643903-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L646356-S1" ili="wikidata-ig-L646356-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L700215-S1" ili="wikidata-ig-L700215-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L712543-S1" ili="wikidata-ig-L712543-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L747367-S1" ili="wikidata-ig-L747367-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1018466-S1" ili="wikidata-ig-L1018466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215583-S1" ili="wikidata-ig-L1215583-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ig-L1215596-S1" ili="wikidata-ig-L1215596-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,3126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-fr"
+                    label="Wikidata FR Lexemes Extension"
+                    language="fr"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-fr" version="1.4"/>
+    <LexicalEntry id="L9172">
+      <Lemma writtenForm="six" partOfSpeech="numeral"/>
+      <Sense id="L9172-S1" synset="wikidata-fr-L9172-S1" ili="wikidata-fr-L9172-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9173">
+      <Lemma writtenForm="huit" partOfSpeech="numeral"/>
+      <Sense id="L9173-S2" synset="wikidata-fr-L9173-S2" ili="wikidata-fr-L9173-S2">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9179">
+      <Lemma writtenForm="quatorze" partOfSpeech="numeral"/>
+      <Sense id="L9179-S1" synset="wikidata-fr-L9179-S1" ili="wikidata-fr-L9179-S1">
+        <Definition>nombre cardinal entre treize et quinze</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9220">
+      <Lemma writtenForm="avec" partOfSpeech="preposition"/>
+      <Sense id="L9220-S1" synset="wikidata-fr-L9220-S1" ili="wikidata-fr-L9220-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9286">
+      <Lemma writtenForm="leur" partOfSpeech="possessive determiner"/>
+      <Sense id="L9286-S1" synset="wikidata-fr-L9286-S1" ili="wikidata-fr-L9286-S1">
+        <Definition>adjectif possessif 3ème personne pluriel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9401">
+      <Lemma writtenForm="sur" partOfSpeech="preposition"/>
+      <Sense id="L9401-S1" synset="wikidata-fr-L9401-S1" ili="wikidata-fr-L9401-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10053">
+      <Lemma writtenForm="adieu" partOfSpeech="interjection"/>
+      <Sense id="L10053-S1" synset="wikidata-fr-L10053-S1" ili="wikidata-fr-L10053-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10349">
+      <Lemma writtenForm="sans" partOfSpeech="preposition"/>
+      <Sense id="L10349-S1" synset="wikidata-fr-L10349-S1" ili="l5211-s1">
+        <Definition>dénué de</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11184">
+      <Lemma writtenForm="devant" partOfSpeech="preposition"/>
+      <Sense id="L11184-S1" synset="wikidata-fr-L11184-S1" ili="wikidata-fr-L11184-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11200">
+      <Lemma writtenForm="cent mille" partOfSpeech="numeral"/>
+      <Sense id="L11200-S1" synset="wikidata-fr-L11200-S1" ili="wikidata-fr-L11200-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11909">
+      <Lemma writtenForm="d&apos;accord" partOfSpeech="interjection"/>
+      <Sense id="L11909-S1" synset="wikidata-fr-L11909-S1" ili="wikidata-fr-L11909-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13990">
+      <Lemma writtenForm="trente-et-un" partOfSpeech="numeral"/>
+      <Sense id="L13990-S1" synset="wikidata-fr-L13990-S1" ili="wikidata-fr-L13990-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13995">
+      <Lemma writtenForm="trente-six" partOfSpeech="numeral"/>
+      <Sense id="L13995-S1" synset="wikidata-fr-L13995-S1" ili="wikidata-fr-L13995-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14000">
+      <Lemma writtenForm="quarante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14000-S1" synset="wikidata-fr-L14000-S1" ili="wikidata-fr-L14000-S1">
+        <Definition>nombre 42</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14026">
+      <Lemma writtenForm="soixante-et-onze" partOfSpeech="numeral"/>
+      <Sense id="L14026-S1" synset="wikidata-fr-L14026-S1" ili="wikidata-fr-L14026-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14039">
+      <Lemma writtenForm="septante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14039-S1" synset="wikidata-fr-L14039-S1" ili="wikidata-fr-L14039-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14040">
+      <Lemma writtenForm="septante-six" partOfSpeech="numeral"/>
+      <Sense id="L14040-S1" synset="wikidata-fr-L14040-S1" ili="wikidata-fr-L14040-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14049">
+      <Lemma writtenForm="quatre-vingt-sept" partOfSpeech="numeral"/>
+      <Sense id="L14049-S1" synset="wikidata-fr-L14049-S1" ili="wikidata-fr-L14049-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14050">
+      <Lemma writtenForm="quatre-vingt-huit" partOfSpeech="numeral"/>
+      <Sense id="L14050-S1" synset="wikidata-fr-L14050-S1" ili="wikidata-fr-L14050-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14054">
+      <Lemma writtenForm="quatre-vingt-douze" partOfSpeech="numeral"/>
+      <Sense id="L14054-S1" synset="wikidata-fr-L14054-S1" ili="wikidata-fr-L14054-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14057">
+      <Lemma writtenForm="quatre-vingt-seize" partOfSpeech="numeral"/>
+      <Sense id="L14057-S1" synset="wikidata-fr-L14057-S1" ili="wikidata-fr-L14057-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14062">
+      <Lemma writtenForm="huitante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L14062-S1" synset="wikidata-fr-L14062-S1" ili="wikidata-fr-L14062-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15359">
+      <Lemma writtenForm="deuxième" partOfSpeech="numeral"/>
+      <Sense id="L15359-S1" synset="wikidata-fr-L15359-S1" ili="wikidata-fr-L15359-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L16466">
+      <Lemma writtenForm="à travers" partOfSpeech="prepositional locution"/>
+      <Sense id="L16466-S1" synset="wikidata-fr-L16466-S1" ili="wikidata-fr-L16466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L16516">
+      <Lemma writtenForm="quantième" partOfSpeech="numeral"/>
+      <Sense id="L16516-S1" synset="wikidata-fr-L16516-S1" ili="wikidata-fr-L16516-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17220">
+      <Lemma writtenForm="dixième" partOfSpeech="numeral"/>
+      <Sense id="L17220-S1" synset="wikidata-fr-L17220-S1" ili="wikidata-fr-L17220-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17656">
+      <Lemma writtenForm="treizième" partOfSpeech="numeral"/>
+      <Sense id="L17656-S1" synset="wikidata-fr-L17656-S1" ili="wikidata-fr-L17656-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18553">
+      <Lemma writtenForm="onzième" partOfSpeech="numeral"/>
+      <Sense id="L18553-S1" synset="wikidata-fr-L18553-S1" ili="wikidata-fr-L18553-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18556">
+      <Lemma writtenForm="seizième" partOfSpeech="numeral"/>
+      <Sense id="L18556-S1" synset="wikidata-fr-L18556-S1" ili="wikidata-fr-L18556-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18571">
+      <Lemma writtenForm="trente-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18571-S1" synset="wikidata-fr-L18571-S1" ili="wikidata-fr-L18571-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18582">
+      <Lemma writtenForm="quarante-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18582-S1" synset="wikidata-fr-L18582-S1" ili="wikidata-fr-L18582-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18586">
+      <Lemma writtenForm="quarante-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18586-S1" synset="wikidata-fr-L18586-S1" ili="wikidata-fr-L18586-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18594">
+      <Lemma writtenForm="cinquante-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18594-S1" synset="wikidata-fr-L18594-S1" ili="wikidata-fr-L18594-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18601">
+      <Lemma writtenForm="soixante-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18601-S1" synset="wikidata-fr-L18601-S1" ili="wikidata-fr-L18601-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18602">
+      <Lemma writtenForm="soixante-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18602-S1" synset="wikidata-fr-L18602-S1" ili="wikidata-fr-L18602-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18608">
+      <Lemma writtenForm="soixante-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18608-S1" synset="wikidata-fr-L18608-S1" ili="wikidata-fr-L18608-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18615">
+      <Lemma writtenForm="septante-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18615-S1" synset="wikidata-fr-L18615-S1" ili="wikidata-fr-L18615-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18640">
+      <Lemma writtenForm="centième" partOfSpeech="numeral"/>
+      <Sense id="L18640-S1" synset="wikidata-fr-L18640-S1" ili="wikidata-fr-L18640-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48416">
+      <Lemma writtenForm="zéro" partOfSpeech="numeral"/>
+      <Sense id="L48416-S1" synset="wikidata-fr-L48416-S1" ili="l8883-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L796">
+      <Lemma writtenForm="à droite" partOfSpeech="adverbial locution"/>
+      <Sense id="L796-S1" synset="wikidata-fr-L796-S1" ili="wikidata-fr-L796-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1720">
+      <Lemma writtenForm="comment" partOfSpeech="interrogative word"/>
+      <Sense id="L1720-S1" synset="wikidata-fr-L1720-S1" ili="wikidata-fr-L1720-S1">
+        <Definition>adverbe interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1721">
+      <Lemma writtenForm="quand" partOfSpeech="interrogative word"/>
+      <Sense id="L1721-S1" synset="wikidata-fr-L1721-S1" ili="wikidata-fr-L1721-S1">
+        <Definition>adverbe interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2117">
+      <Lemma writtenForm="ou" partOfSpeech="conjunction"/>
+      <Sense id="L2117-S1" synset="wikidata-fr-L2117-S1" ili="wikidata-fr-L2117-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2627">
+      <Lemma writtenForm="en même temps" partOfSpeech="adverbial locution"/>
+      <Sense id="L2627-S1" synset="wikidata-fr-L2627-S1" ili="wikidata-fr-L2627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9138">
+      <Lemma writtenForm="à peine" partOfSpeech="adverbial locution"/>
+      <Sense id="L9138-S1" synset="wikidata-fr-L9138-S1" ili="wikidata-fr-L9138-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9170">
+      <Lemma writtenForm="quatre" partOfSpeech="numeral"/>
+      <Sense id="L9170-S1" synset="wikidata-fr-L9170-S1" ili="wikidata-fr-L9170-S1">
+        <Definition>nombre cardinal entre trois et cinq</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9174">
+      <Lemma writtenForm="neuf" partOfSpeech="numeral"/>
+      <Sense id="L9174-S1" synset="wikidata-fr-L9174-S1" ili="wikidata-fr-L9174-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9174-S2" synset="wikidata-fr-L9174-S2" ili="wikidata-fr-L9174-S2">
+        <Definition>le nombre 9</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9358">
+      <Lemma writtenForm="en dépit de" partOfSpeech="prepositional locution"/>
+      <Sense id="L9358-S1" synset="wikidata-fr-L9358-S1" ili="wikidata-fr-L9358-S1">
+        <Definition>malgré</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9379">
+      <Lemma writtenForm="par" partOfSpeech="preposition"/>
+      <Sense id="L9379-S1" synset="wikidata-fr-L9379-S1" ili="wikidata-fr-L9379-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9435">
+      <Lemma writtenForm="elles" partOfSpeech="personal pronoun"/>
+      <Sense id="L9435-S1" synset="wikidata-fr-L9435-S1" ili="wikidata-fr-L9435-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10627">
+      <Lemma writtenForm="de suite" partOfSpeech="adverbial locution"/>
+      <Sense id="L10627-S1" synset="wikidata-fr-L10627-S1" ili="wikidata-fr-L10627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11155">
+      <Lemma writtenForm="dessus" partOfSpeech="preposition"/>
+      <Sense id="L11155-S1" synset="wikidata-fr-L11155-S1" ili="wikidata-fr-L11155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13980">
+      <Lemma writtenForm="septante" partOfSpeech="numeral"/>
+      <Sense id="L13980-S1" synset="wikidata-fr-L13980-S1" ili="wikidata-fr-L13980-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13984">
+      <Lemma writtenForm="quatre-vingt-dix" partOfSpeech="numeral"/>
+      <Sense id="L13984-S1" synset="wikidata-fr-L13984-S1" ili="wikidata-fr-L13984-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13988">
+      <Lemma writtenForm="vingt-six" partOfSpeech="numeral"/>
+      <Sense id="L13988-S1" synset="wikidata-fr-L13988-S1" ili="wikidata-fr-L13988-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13998">
+      <Lemma writtenForm="trente-neuf" partOfSpeech="numeral"/>
+      <Sense id="L13998-S1" synset="wikidata-fr-L13998-S1" ili="wikidata-fr-L13998-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14019">
+      <Lemma writtenForm="soixante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14019-S1" synset="wikidata-fr-L14019-S1" ili="wikidata-fr-L14019-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14022">
+      <Lemma writtenForm="soixante-six" partOfSpeech="numeral"/>
+      <Sense id="L14022-S1" synset="wikidata-fr-L14022-S1" ili="wikidata-fr-L14022-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14029">
+      <Lemma writtenForm="soixante-quatorze" partOfSpeech="numeral"/>
+      <Sense id="L14029-S1" synset="wikidata-fr-L14029-S1" ili="wikidata-fr-L14029-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14034">
+      <Lemma writtenForm="soixante-dix-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14034-S1" synset="wikidata-fr-L14034-S1" ili="wikidata-fr-L14034-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14042">
+      <Lemma writtenForm="septante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14042-S1" synset="wikidata-fr-L14042-S1" ili="wikidata-fr-L14042-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14051">
+      <Lemma writtenForm="quatre-vingt-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14051-S1" synset="wikidata-fr-L14051-S1" ili="wikidata-fr-L14051-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14055">
+      <Lemma writtenForm="quatre-vingt-treize" partOfSpeech="numeral"/>
+      <Sense id="L14055-S1" synset="wikidata-fr-L14055-S1" ili="wikidata-fr-L14055-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14066">
+      <Lemma writtenForm="huitante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14066-S1" synset="wikidata-fr-L14066-S1" ili="wikidata-fr-L14066-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L16490">
+      <Lemma writtenForm="sixième" partOfSpeech="numeral"/>
+      <Sense id="L16490-S1" synset="wikidata-fr-L16490-S1" ili="wikidata-fr-L16490-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18549">
+      <Lemma writtenForm="zéroième" partOfSpeech="numeral"/>
+      <Sense id="L18549-S1" synset="wikidata-fr-L18549-S1" ili="wikidata-fr-L18549-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18554">
+      <Lemma writtenForm="douzième" partOfSpeech="numeral"/>
+      <Sense id="L18554-S1" synset="wikidata-fr-L18554-S1" ili="wikidata-fr-L18554-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18555">
+      <Lemma writtenForm="quatorzième" partOfSpeech="numeral"/>
+      <Sense id="L18555-S1" synset="wikidata-fr-L18555-S1" ili="wikidata-fr-L18555-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18561">
+      <Lemma writtenForm="vingt-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18561-S1" synset="wikidata-fr-L18561-S1" ili="wikidata-fr-L18561-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18562">
+      <Lemma writtenForm="vingt-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18562-S1" synset="wikidata-fr-L18562-S1" ili="wikidata-fr-L18562-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18570">
+      <Lemma writtenForm="trentième" partOfSpeech="numeral"/>
+      <Sense id="L18570-S1" synset="wikidata-fr-L18570-S1" ili="wikidata-fr-L18570-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18575">
+      <Lemma writtenForm="trente-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18575-S1" synset="wikidata-fr-L18575-S1" ili="wikidata-fr-L18575-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18581">
+      <Lemma writtenForm="quarante-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18581-S1" synset="wikidata-fr-L18581-S1" ili="wikidata-fr-L18581-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18589">
+      <Lemma writtenForm="quarante-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18589-S1" synset="wikidata-fr-L18589-S1" ili="wikidata-fr-L18589-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18596">
+      <Lemma writtenForm="cinquante-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18596-S1" synset="wikidata-fr-L18596-S1" ili="wikidata-fr-L18596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18607">
+      <Lemma writtenForm="soixante-septième" partOfSpeech="numeral"/>
+      <Sense id="L18607-S1" synset="wikidata-fr-L18607-S1" ili="wikidata-fr-L18607-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18618">
+      <Lemma writtenForm="septante-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18618-S1" synset="wikidata-fr-L18618-S1" ili="wikidata-fr-L18618-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18622">
+      <Lemma writtenForm="quatre-vingt-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18622-S1" synset="wikidata-fr-L18622-S1" ili="wikidata-fr-L18622-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18625">
+      <Lemma writtenForm="quatre-vingt-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18625-S1" synset="wikidata-fr-L18625-S1" ili="wikidata-fr-L18625-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18628">
+      <Lemma writtenForm="quatre-vingt-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18628-S1" synset="wikidata-fr-L18628-S1" ili="wikidata-fr-L18628-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18630">
+      <Lemma writtenForm="nonantième" partOfSpeech="numeral"/>
+      <Sense id="L18630-S1" synset="wikidata-fr-L18630-S1" ili="wikidata-fr-L18630-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18631">
+      <Lemma writtenForm="nonante-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18631-S1" synset="wikidata-fr-L18631-S1" ili="wikidata-fr-L18631-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L19234">
+      <Lemma writtenForm="´" partOfSpeech="diacritic"/>
+      <Sense id="L19234-S1" synset="wikidata-fr-L19234-S1" ili="wikidata-fr-L19234-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L19236">
+      <Lemma writtenForm="¸" partOfSpeech="diacritic"/>
+      <Sense id="L19236-S1" synset="wikidata-fr-L19236-S1" ili="wikidata-fr-L19236-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L296505">
+      <Lemma writtenForm="al" partOfSpeech="personal pronoun"/>
+      <Sense id="L296505-S1" synset="wikidata-fr-L296505-S1" ili="wikidata-fr-L296505-S1">
+        <Definition>pronom utilisé sans distinction de genre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L738267">
+      <Lemma writtenForm="a posteriori" partOfSpeech="adverbial locution"/>
+      <Sense id="L738267-S1" synset="wikidata-fr-L738267-S1" ili="wikidata-fr-L738267-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L738268">
+      <Lemma writtenForm="a contrario" partOfSpeech="adverbial locution"/>
+      <Sense id="L738268-S1" synset="wikidata-fr-L738268-S1" ili="wikidata-fr-L738268-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411963">
+      <Lemma writtenForm="à la tâche" partOfSpeech="adverbial locution"/>
+      <Sense id="L1411963-S1" synset="wikidata-fr-L1411963-S1" ili="wikidata-fr-L1411963-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1508816">
+      <Lemma writtenForm="abats" partOfSpeech="plurale tantum"/>
+      <Sense id="L1508816-S1" synset="wikidata-fr-L1508816-S1" ili="wikidata-fr-L1508816-S1">
+        <Definition>parties comestibles des animaux de boucherie, autres que la viande musculaire – souvent les organes internes</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L95">
+      <Lemma writtenForm="quatre-vingt-quinze" partOfSpeech="numeral"/>
+      <Sense id="L95-S1" synset="wikidata-fr-L95-S1" ili="wikidata-fr-L95-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1719">
+      <Lemma writtenForm="quoi" partOfSpeech="interrogative word"/>
+      <Sense id="L1719-S1" synset="wikidata-fr-L1719-S1" ili="wikidata-fr-L1719-S1">
+        <Definition>pronom interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1722">
+      <Lemma writtenForm="où" partOfSpeech="interrogative word"/>
+      <Sense id="L1722-S1" synset="wikidata-fr-L1722-S1" ili="wikidata-fr-L1722-S1">
+        <Definition>adverbe interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1723">
+      <Lemma writtenForm="pourquoi" partOfSpeech="interrogative word"/>
+      <Sense id="L1723-S1" synset="wikidata-fr-L1723-S1" ili="wikidata-fr-L1723-S1">
+        <Definition>adverbe interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9091">
+      <Lemma writtenForm="mon" partOfSpeech="possessive determiner"/>
+      <Sense id="L9091-S1" synset="wikidata-fr-L9091-S1" ili="wikidata-fr-L9091-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9099">
+      <Lemma writtenForm="ton" partOfSpeech="possessive determiner"/>
+      <Sense id="L9099-S1" synset="wikidata-fr-L9099-S1" ili="wikidata-fr-L9099-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9135">
+      <Lemma writtenForm="qui" partOfSpeech="pronoun"/>
+      <Sense id="L9135-S1" synset="wikidata-fr-L9135-S1" ili="wikidata-fr-L9135-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9168">
+      <Lemma writtenForm="deux" partOfSpeech="numeral"/>
+      <Sense id="L9168-S1" synset="wikidata-fr-L9168-S1" ili="l329-s1">
+        <Definition>nombre cardinal entre un et trois, 2</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9169">
+      <Lemma writtenForm="trois" partOfSpeech="numeral"/>
+      <Sense id="L9169-S1" synset="wikidata-fr-L9169-S1" ili="wikidata-fr-L9169-S1">
+        <Definition>nombre cardinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9175">
+      <Lemma writtenForm="dix" partOfSpeech="numeral"/>
+      <Sense id="L9175-S1" synset="wikidata-fr-L9175-S1" ili="wikidata-fr-L9175-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9175-S2" synset="wikidata-fr-L9175-S2" ili="wikidata-fr-L9175-S2">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9177">
+      <Lemma writtenForm="douze" partOfSpeech="numeral"/>
+      <Sense id="L9177-S1" synset="wikidata-fr-L9177-S1" ili="wikidata-fr-L9177-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9177-S2" synset="wikidata-fr-L9177-S2" ili="wikidata-fr-L9177-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9188">
+      <Lemma writtenForm="elle" partOfSpeech="personal pronoun"/>
+      <Sense id="L9188-S1" synset="wikidata-fr-L9188-S1" ili="wikidata-fr-L9188-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9203">
+      <Lemma writtenForm="ce" partOfSpeech="demonstrative adjective"/>
+      <Sense id="L9203-S1" synset="wikidata-fr-L9203-S1" ili="wikidata-fr-L9203-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9288">
+      <Lemma writtenForm="nous" partOfSpeech="personal pronoun"/>
+      <Sense id="L9288-S1" synset="wikidata-fr-L9288-S1" ili="l483-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9290">
+      <Lemma writtenForm="ils" partOfSpeech="personal pronoun"/>
+      <Sense id="L9290-S1" synset="wikidata-fr-L9290-S1" ili="wikidata-fr-L9290-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9735">
+      <Lemma writtenForm="un peu" partOfSpeech="adverbial locution"/>
+      <Sense id="L9735-S1" synset="wikidata-fr-L9735-S1" ili="wikidata-fr-L9735-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10021">
+      <Lemma writtenForm="au milieu de" partOfSpeech="prepositional locution"/>
+      <Sense id="L10021-S1" synset="wikidata-fr-L10021-S1" ili="wikidata-fr-L10021-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10080">
+      <Lemma writtenForm="quatre-vingt-six" partOfSpeech="numeral"/>
+      <Sense id="L10080-S1" synset="wikidata-fr-L10080-S1" ili="wikidata-fr-L10080-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11618">
+      <Lemma writtenForm="merci" partOfSpeech="interjection"/>
+      <Sense id="L11618-S1" synset="wikidata-fr-L11618-S1" ili="wikidata-fr-L11618-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13981">
+      <Lemma writtenForm="soixante" partOfSpeech="numeral"/>
+      <Sense id="L13981-S1" synset="wikidata-fr-L13981-S1" ili="wikidata-fr-L13981-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13985">
+      <Lemma writtenForm="vingt-neuf" partOfSpeech="numeral"/>
+      <Sense id="L13985-S1" synset="wikidata-fr-L13985-S1" ili="wikidata-fr-L13985-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13989">
+      <Lemma writtenForm="vingt-trois" partOfSpeech="numeral"/>
+      <Sense id="L13989-S1" synset="wikidata-fr-L13989-S1" ili="wikidata-fr-L13989-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13992">
+      <Lemma writtenForm="trente-trois" partOfSpeech="numeral"/>
+      <Sense id="L13992-S1" synset="wikidata-fr-L13992-S1" ili="wikidata-fr-L13992-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13993">
+      <Lemma writtenForm="trente-quatre" partOfSpeech="numeral"/>
+      <Sense id="L13993-S1" synset="wikidata-fr-L13993-S1" ili="wikidata-fr-L13993-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14014">
+      <Lemma writtenForm="cinquante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14014-S1" synset="wikidata-fr-L14014-S1" ili="wikidata-fr-L14014-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14017">
+      <Lemma writtenForm="soixante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L14017-S1" synset="wikidata-fr-L14017-S1" ili="wikidata-fr-L14017-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14024">
+      <Lemma writtenForm="soixante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14024-S1" synset="wikidata-fr-L14024-S1" ili="wikidata-fr-L14024-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14030">
+      <Lemma writtenForm="soixante-quinze" partOfSpeech="numeral"/>
+      <Sense id="L14030-S1" synset="wikidata-fr-L14030-S1" ili="wikidata-fr-L14030-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14033">
+      <Lemma writtenForm="soixante-dix-huit" partOfSpeech="numeral"/>
+      <Sense id="L14033-S1" synset="wikidata-fr-L14033-S1" ili="wikidata-fr-L14033-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14063">
+      <Lemma writtenForm="huitante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14063-S1" synset="wikidata-fr-L14063-S1" ili="wikidata-fr-L14063-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14064">
+      <Lemma writtenForm="huitante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14064-S1" synset="wikidata-fr-L14064-S1" ili="wikidata-fr-L14064-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14067">
+      <Lemma writtenForm="huitante-six" partOfSpeech="numeral"/>
+      <Sense id="L14067-S1" synset="wikidata-fr-L14067-S1" ili="wikidata-fr-L14067-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14069">
+      <Lemma writtenForm="huitante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14069-S1" synset="wikidata-fr-L14069-S1" ili="wikidata-fr-L14069-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14071">
+      <Lemma writtenForm="nonante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L14071-S1" synset="wikidata-fr-L14071-S1" ili="wikidata-fr-L14071-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14076">
+      <Lemma writtenForm="nonante-six" partOfSpeech="numeral"/>
+      <Sense id="L14076-S1" synset="wikidata-fr-L14076-S1" ili="wikidata-fr-L14076-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14079">
+      <Lemma writtenForm="nonante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14079-S1" synset="wikidata-fr-L14079-S1" ili="wikidata-fr-L14079-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15026">
+      <Lemma writtenForm="aucun" partOfSpeech="indefinite adjective"/>
+      <Sense id="L15026-S1" synset="wikidata-fr-L15026-S1" ili="wikidata-fr-L15026-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15467">
+      <Lemma writtenForm="troisième" partOfSpeech="numeral"/>
+      <Sense id="L15467-S1" synset="wikidata-fr-L15467-S1" ili="wikidata-fr-L15467-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17658">
+      <Lemma writtenForm="septième" partOfSpeech="numeral"/>
+      <Sense id="L17658-S1" synset="wikidata-fr-L17658-S1" ili="wikidata-fr-L17658-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18551">
+      <Lemma writtenForm="huitième" partOfSpeech="numeral"/>
+      <Sense id="L18551-S1" synset="wikidata-fr-L18551-S1" ili="wikidata-fr-L18551-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18557">
+      <Lemma writtenForm="dix-septième" partOfSpeech="numeral"/>
+      <Sense id="L18557-S1" synset="wikidata-fr-L18557-S1" ili="wikidata-fr-L18557-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18558">
+      <Lemma writtenForm="dix-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18558-S1" synset="wikidata-fr-L18558-S1" ili="wikidata-fr-L18558-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18560">
+      <Lemma writtenForm="vingtième" partOfSpeech="numeral"/>
+      <Sense id="L18560-S1" synset="wikidata-fr-L18560-S1" ili="wikidata-fr-L18560-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18572">
+      <Lemma writtenForm="trente-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18572-S1" synset="wikidata-fr-L18572-S1" ili="wikidata-fr-L18572-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18597">
+      <Lemma writtenForm="cinquante-septième" partOfSpeech="numeral"/>
+      <Sense id="L18597-S1" synset="wikidata-fr-L18597-S1" ili="wikidata-fr-L18597-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18600">
+      <Lemma writtenForm="soixantième" partOfSpeech="numeral"/>
+      <Sense id="L18600-S1" synset="wikidata-fr-L18600-S1" ili="wikidata-fr-L18600-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18606">
+      <Lemma writtenForm="soixante-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18606-S1" synset="wikidata-fr-L18606-S1" ili="wikidata-fr-L18606-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18611">
+      <Lemma writtenForm="septante-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18611-S1" synset="wikidata-fr-L18611-S1" ili="wikidata-fr-L18611-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18634">
+      <Lemma writtenForm="nonante-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18634-S1" synset="wikidata-fr-L18634-S1" ili="wikidata-fr-L18634-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18636">
+      <Lemma writtenForm="nonante-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18636-S1" synset="wikidata-fr-L18636-S1" ili="wikidata-fr-L18636-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18639">
+      <Lemma writtenForm="nonante-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18639-S1" synset="wikidata-fr-L18639-S1" ili="wikidata-fr-L18639-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18773">
+      <Lemma writtenForm="outre" partOfSpeech="preposition"/>
+      <Sense id="L18773-S1" synset="wikidata-fr-L18773-S1" ili="wikidata-fr-L18773-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18774">
+      <Lemma writtenForm="via" partOfSpeech="preposition"/>
+      <Sense id="L18774-S1" synset="wikidata-fr-L18774-S1" ili="l8964-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L250373">
+      <Lemma writtenForm="iel" partOfSpeech="personal pronoun"/>
+      <Sense id="L250373-S1" synset="wikidata-fr-L250373-S1" ili="l371-s1">
+        <Definition>pronom utilisé sans distinction de genre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691744">
+      <Lemma writtenForm="youpi" partOfSpeech="interjection"/>
+      <Sense id="L691744-S1" synset="wikidata-fr-L691744-S1" ili="wikidata-fr-L691744-S1">
+        <Definition>cri de joie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L709330">
+      <Lemma writtenForm="à gauche" partOfSpeech="adverbial locution"/>
+      <Sense id="L709330-S1" synset="wikidata-fr-L709330-S1" ili="wikidata-fr-L709330-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1508829">
+      <Lemma writtenForm="abdominaux" partOfSpeech="plurale tantum"/>
+      <Sense id="L1508829-S1" synset="wikidata-fr-L1508829-S1" ili="wikidata-fr-L1508829-S1">
+        <Definition>muscles constituant les parois antérieures et latérales de l&apos;abdomen</Definition>
+      </Sense>
+      <Sense id="L1508829-S2" synset="wikidata-fr-L1508829-S2" ili="wikidata-fr-L1508829-S2">
+        <Definition>exercices de gymnastique conçus pour renforcer les muscles de l&apos;abdomen</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L699">
+      <Lemma writtenForm="sept" partOfSpeech="numeral"/>
+      <Sense id="L699-S2" synset="wikidata-fr-L699-S2" ili="wikidata-fr-L699-S2">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1724">
+      <Lemma writtenForm="combien" partOfSpeech="interrogative word"/>
+      <Sense id="L1724-S1" synset="wikidata-fr-L1724-S1" ili="wikidata-fr-L1724-S1">
+        <Definition>adverbe interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2118">
+      <Lemma writtenForm="et" partOfSpeech="conjunction"/>
+      <Sense id="L2118-S1" synset="wikidata-fr-L2118-S1" ili="wikidata-fr-L2118-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9111">
+      <Lemma writtenForm="un" partOfSpeech="indefinite article"/>
+      <Sense id="L9111-S1" synset="wikidata-fr-L9111-S1" ili="l2767-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9167">
+      <Lemma writtenForm="un" partOfSpeech="numeral"/>
+      <Sense id="L9167-S1" synset="wikidata-fr-L9167-S1" ili="l327-s1">
+        <Definition>nombre cardinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9259">
+      <Lemma writtenForm="mille" partOfSpeech="numeral"/>
+      <Sense id="L9259-S1" synset="wikidata-fr-L9259-S1" ili="wikidata-fr-L9259-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9259-S2" synset="wikidata-fr-L9259-S2" ili="wikidata-fr-L9259-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9261">
+      <Lemma writtenForm="mais" partOfSpeech="conjunction"/>
+      <Sense id="L9261-S1" synset="wikidata-fr-L9261-S1" ili="wikidata-fr-L9261-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10087">
+      <Lemma writtenForm="quatre-vingt-deux" partOfSpeech="numeral"/>
+      <Sense id="L10087-S1" synset="wikidata-fr-L10087-S1" ili="wikidata-fr-L10087-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L12659">
+      <Lemma writtenForm="vingt-huit" partOfSpeech="numeral"/>
+      <Sense id="L12659-S1" synset="wikidata-fr-L12659-S1" ili="wikidata-fr-L12659-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13975">
+      <Lemma writtenForm="cinquante" partOfSpeech="numeral"/>
+      <Sense id="L13975-S1" synset="wikidata-fr-L13975-S1" ili="wikidata-fr-L13975-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13976">
+      <Lemma writtenForm="huitante" partOfSpeech="numeral"/>
+      <Sense id="L13976-S1" synset="wikidata-fr-L13976-S1" ili="wikidata-fr-L13976-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13979">
+      <Lemma writtenForm="quarante" partOfSpeech="numeral"/>
+      <Sense id="L13979-S1" synset="wikidata-fr-L13979-S1" ili="wikidata-fr-L13979-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13982">
+      <Lemma writtenForm="trente" partOfSpeech="numeral"/>
+      <Sense id="L13982-S1" synset="wikidata-fr-L13982-S1" ili="wikidata-fr-L13982-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14001">
+      <Lemma writtenForm="quarante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14001-S1" synset="wikidata-fr-L14001-S1" ili="wikidata-fr-L14001-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14002">
+      <Lemma writtenForm="quarante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14002-S1" synset="wikidata-fr-L14002-S1" ili="wikidata-fr-L14002-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14008">
+      <Lemma writtenForm="cinquante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L14008-S1" synset="wikidata-fr-L14008-S1" ili="wikidata-fr-L14008-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14013">
+      <Lemma writtenForm="cinquante-six" partOfSpeech="numeral"/>
+      <Sense id="L14013-S1" synset="wikidata-fr-L14013-S1" ili="wikidata-fr-L14013-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14015">
+      <Lemma writtenForm="cinquante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14015-S1" synset="wikidata-fr-L14015-S1" ili="wikidata-fr-L14015-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14038">
+      <Lemma writtenForm="septante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14038-S1" synset="wikidata-fr-L14038-S1" ili="wikidata-fr-L14038-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14041">
+      <Lemma writtenForm="septante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14041-S1" synset="wikidata-fr-L14041-S1" ili="wikidata-fr-L14041-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14044">
+      <Lemma writtenForm="quatre-vingt-un" partOfSpeech="numeral"/>
+      <Sense id="L14044-S1" synset="wikidata-fr-L14044-S1" ili="wikidata-fr-L14044-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14052">
+      <Lemma writtenForm="quatre-vingt-onze" partOfSpeech="numeral"/>
+      <Sense id="L14052-S1" synset="wikidata-fr-L14052-S1" ili="wikidata-fr-L14052-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14058">
+      <Lemma writtenForm="quatre-vingt-dix-sept" partOfSpeech="numeral"/>
+      <Sense id="L14058-S1" synset="wikidata-fr-L14058-S1" ili="wikidata-fr-L14058-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14065">
+      <Lemma writtenForm="huitante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14065-S1" synset="wikidata-fr-L14065-S1" ili="wikidata-fr-L14065-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14073">
+      <Lemma writtenForm="nonante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14073-S1" synset="wikidata-fr-L14073-S1" ili="wikidata-fr-L14073-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14074">
+      <Lemma writtenForm="nonante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14074-S1" synset="wikidata-fr-L14074-S1" ili="wikidata-fr-L14074-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14077">
+      <Lemma writtenForm="nonante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14077-S1" synset="wikidata-fr-L14077-S1" ili="wikidata-fr-L14077-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18620">
+      <Lemma writtenForm="quatre-vingtième" partOfSpeech="numeral"/>
+      <Sense id="L18620-S1" synset="wikidata-fr-L18620-S1" ili="wikidata-fr-L18620-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18621">
+      <Lemma writtenForm="quatre-vingt-unième" partOfSpeech="numeral"/>
+      <Sense id="L18621-S1" synset="wikidata-fr-L18621-S1" ili="wikidata-fr-L18621-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18623">
+      <Lemma writtenForm="quatre-vingt-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18623-S1" synset="wikidata-fr-L18623-S1" ili="wikidata-fr-L18623-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18627">
+      <Lemma writtenForm="quatre-vingt-septième" partOfSpeech="numeral"/>
+      <Sense id="L18627-S1" synset="wikidata-fr-L18627-S1" ili="wikidata-fr-L18627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L19238">
+      <Lemma writtenForm="¨" partOfSpeech="diacritic"/>
+      <Sense id="L19238-S1" synset="wikidata-fr-L19238-S1" ili="wikidata-fr-L19238-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L24356">
+      <Lemma writtenForm="wow" partOfSpeech="interjection"/>
+      <Sense id="L24356-S1" synset="wikidata-fr-L24356-S1" ili="wikidata-fr-L24356-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578966">
+      <Lemma writtenForm="à distance" partOfSpeech="adverbial locution"/>
+      <Sense id="L578966-S1" synset="wikidata-fr-L578966-S1" ili="wikidata-fr-L578966-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L738269">
+      <Lemma writtenForm="a fortiori" partOfSpeech="adverbial locution"/>
+      <Sense id="L738269-S1" synset="wikidata-fr-L738269-S1" ili="wikidata-fr-L738269-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1405721">
+      <Lemma writtenForm="dites donc" partOfSpeech="interjection"/>
+      <Sense id="L1405721-S1" synset="wikidata-fr-L1405721-S1" ili="wikidata-fr-L1405721-S1">
+        <Definition>pour appeler l&apos;attention</Definition>
+      </Sense>
+      <Sense id="L1405721-S2" synset="wikidata-fr-L1405721-S2" ili="wikidata-fr-L1405721-S2">
+        <Definition>exclamation de surprise</Definition>
+      </Sense>
+      <Sense id="L1405721-S3" synset="wikidata-fr-L1405721-S3" ili="wikidata-fr-L1405721-S3">
+        <Definition>formule d&apos;adresse hostile, outragée, d&apos;opposition</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9094">
+      <Lemma writtenForm="je" partOfSpeech="personal pronoun"/>
+      <Sense id="L9094-S1" synset="wikidata-fr-L9094-S1" ili="wikidata-fr-L9094-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9127">
+      <Lemma writtenForm="d&apos;ailleurs" partOfSpeech="adverbial locution"/>
+      <Sense id="L9127-S1" synset="wikidata-fr-L9127-S1" ili="wikidata-fr-L9127-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9158">
+      <Lemma writtenForm="tout" partOfSpeech="pronoun"/>
+      <Sense id="L9158-S1" synset="wikidata-fr-L9158-S1" ili="wikidata-fr-L9158-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9159">
+      <Lemma writtenForm="se" partOfSpeech="pronoun"/>
+      <Sense id="L9159-S1" synset="wikidata-fr-L9159-S1" ili="wikidata-fr-L9159-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9161">
+      <Lemma writtenForm="à merveille" partOfSpeech="adverbial locution"/>
+      <Sense id="L9161-S1" synset="wikidata-fr-L9161-S1" ili="wikidata-fr-L9161-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9171">
+      <Lemma writtenForm="cinq" partOfSpeech="numeral"/>
+      <Sense id="L9171-S1" synset="wikidata-fr-L9171-S1" ili="wikidata-fr-L9171-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9180">
+      <Lemma writtenForm="quinze" partOfSpeech="numeral"/>
+      <Sense id="L9180-S1" synset="wikidata-fr-L9180-S1" ili="wikidata-fr-L9180-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9180-S2" synset="wikidata-fr-L9180-S2" ili="wikidata-fr-L9180-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9181">
+      <Lemma writtenForm="seize" partOfSpeech="numeral"/>
+      <Sense id="L9181-S1" synset="wikidata-fr-L9181-S1" ili="wikidata-fr-L9181-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9181-S2" synset="wikidata-fr-L9181-S2" ili="wikidata-fr-L9181-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9227">
+      <Lemma writtenForm="son" partOfSpeech="possessive determiner"/>
+      <Sense id="L9227-S1" synset="wikidata-fr-L9227-S1" ili="wikidata-fr-L9227-S1">
+        <Definition>déterminant possessif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9442">
+      <Lemma writtenForm="vingt" partOfSpeech="numeral"/>
+      <Sense id="L9442-S1" synset="wikidata-fr-L9442-S1" ili="l20-s1">
+        <Definition>nombre cardinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10466">
+      <Lemma writtenForm="dix-huit" partOfSpeech="numeral"/>
+      <Sense id="L10466-S2" synset="wikidata-fr-L10466-S2" ili="wikidata-fr-L10466-S2">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10469">
+      <Lemma writtenForm="vingt-deux" partOfSpeech="numeral"/>
+      <Sense id="L10469-S1" synset="wikidata-fr-L10469-S1" ili="wikidata-fr-L10469-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13987">
+      <Lemma writtenForm="vingt-sept" partOfSpeech="numeral"/>
+      <Sense id="L13987-S1" synset="wikidata-fr-L13987-S1" ili="wikidata-fr-L13987-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13994">
+      <Lemma writtenForm="trente-cinq" partOfSpeech="numeral"/>
+      <Sense id="L13994-S1" synset="wikidata-fr-L13994-S1" ili="wikidata-fr-L13994-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13997">
+      <Lemma writtenForm="trente-huit" partOfSpeech="numeral"/>
+      <Sense id="L13997-S1" synset="wikidata-fr-L13997-S1" ili="wikidata-fr-L13997-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14004">
+      <Lemma writtenForm="quarante-six" partOfSpeech="numeral"/>
+      <Sense id="L14004-S1" synset="wikidata-fr-L14004-S1" ili="wikidata-fr-L14004-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14007">
+      <Lemma writtenForm="quarante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14007-S1" synset="wikidata-fr-L14007-S1" ili="wikidata-fr-L14007-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14009">
+      <Lemma writtenForm="cinquante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14009-S1" synset="wikidata-fr-L14009-S1" ili="wikidata-fr-L14009-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14016">
+      <Lemma writtenForm="cinquante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14016-S1" synset="wikidata-fr-L14016-S1" ili="wikidata-fr-L14016-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14036">
+      <Lemma writtenForm="septante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14036-S1" synset="wikidata-fr-L14036-S1" ili="wikidata-fr-L14036-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14043">
+      <Lemma writtenForm="septante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14043-S1" synset="wikidata-fr-L14043-S1" ili="wikidata-fr-L14043-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14078">
+      <Lemma writtenForm="nonante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14078-S1" synset="wikidata-fr-L14078-S1" ili="wikidata-fr-L14078-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17657">
+      <Lemma writtenForm="cinquième" partOfSpeech="numeral"/>
+      <Sense id="L17657-S1" synset="wikidata-fr-L17657-S1" ili="wikidata-fr-L17657-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18552">
+      <Lemma writtenForm="neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18552-S1" synset="wikidata-fr-L18552-S1" ili="wikidata-fr-L18552-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18568">
+      <Lemma writtenForm="vingt-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18568-S1" synset="wikidata-fr-L18568-S1" ili="wikidata-fr-L18568-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18579">
+      <Lemma writtenForm="trente-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18579-S1" synset="wikidata-fr-L18579-S1" ili="wikidata-fr-L18579-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18580">
+      <Lemma writtenForm="quarantième" partOfSpeech="numeral"/>
+      <Sense id="L18580-S1" synset="wikidata-fr-L18580-S1" ili="wikidata-fr-L18580-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18587">
+      <Lemma writtenForm="quarante-septième" partOfSpeech="numeral"/>
+      <Sense id="L18587-S1" synset="wikidata-fr-L18587-S1" ili="wikidata-fr-L18587-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18592">
+      <Lemma writtenForm="cinquante-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18592-S1" synset="wikidata-fr-L18592-S1" ili="wikidata-fr-L18592-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18593">
+      <Lemma writtenForm="cinquante-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18593-S1" synset="wikidata-fr-L18593-S1" ili="wikidata-fr-L18593-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18603">
+      <Lemma writtenForm="soixante-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18603-S1" synset="wikidata-fr-L18603-S1" ili="wikidata-fr-L18603-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18605">
+      <Lemma writtenForm="soixante-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18605-S1" synset="wikidata-fr-L18605-S1" ili="wikidata-fr-L18605-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18612">
+      <Lemma writtenForm="septante-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18612-S1" synset="wikidata-fr-L18612-S1" ili="wikidata-fr-L18612-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18616">
+      <Lemma writtenForm="septante-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18616-S1" synset="wikidata-fr-L18616-S1" ili="wikidata-fr-L18616-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18629">
+      <Lemma writtenForm="quatre-vingt-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18629-S1" synset="wikidata-fr-L18629-S1" ili="wikidata-fr-L18629-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18635">
+      <Lemma writtenForm="nonante-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18635-S1" synset="wikidata-fr-L18635-S1" ili="wikidata-fr-L18635-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18637">
+      <Lemma writtenForm="nonante-septième" partOfSpeech="numeral"/>
+      <Sense id="L18637-S1" synset="wikidata-fr-L18637-S1" ili="wikidata-fr-L18637-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21572">
+      <Lemma writtenForm="quatre-vingt-dixième" partOfSpeech="numeral"/>
+      <Sense id="L21572-S1" synset="wikidata-fr-L21572-S1" ili="wikidata-fr-L21572-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476219">
+      <Lemma writtenForm="bonne nuit" partOfSpeech="interjection"/>
+      <Sense id="L476219-S1" synset="wikidata-fr-L476219-S1" ili="l476215-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640141">
+      <Lemma writtenForm="salut" partOfSpeech="interjection"/>
+      <Sense id="L640141-S1" synset="wikidata-fr-L640141-S1" ili="wikidata-fr-L640141-S1">
+        <Definition>formule de salutation utilisée lorsqu’on rencontre quelqu’un</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L940447">
+      <Lemma writtenForm="alla turca" partOfSpeech="adverbial locution"/>
+      <Sense id="L940447-S1" synset="wikidata-fr-L940447-S1" ili="wikidata-fr-L940447-S1">
+        <Definition>notation musicale et genre musical du XVIIe au XIXe siècles</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1521040">
+      <Lemma writtenForm="vitraux" partOfSpeech="plurale tantum"/>
+      <Sense id="L1521040-S1" synset="wikidata-fr-L1521040-S1" ili="wikidata-fr-L1521040-S1">
+        <Definition>panneaux de verre coloré décoratif, souvent en assemblage</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2926">
+      <Lemma writtenForm="on" partOfSpeech="personal pronoun"/>
+      <Sense id="L2926-S1" synset="wikidata-fr-L2926-S1" ili="l38519-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9096">
+      <Lemma writtenForm="tu" partOfSpeech="personal pronoun"/>
+      <Sense id="L9096-S1" synset="wikidata-fr-L9096-S1" ili="wikidata-fr-L9096-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9257">
+      <Lemma writtenForm="il" partOfSpeech="personal pronoun"/>
+      <Sense id="L9257-S1" synset="wikidata-fr-L9257-S1" ili="l485-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9393">
+      <Lemma writtenForm="vingt-cinq" partOfSpeech="numeral"/>
+      <Sense id="L9393-S1" synset="wikidata-fr-L9393-S1" ili="wikidata-fr-L9393-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9417">
+      <Lemma writtenForm="premier" partOfSpeech="numeral"/>
+      <Sense id="L9417-S1" synset="wikidata-fr-L9417-S1" ili="wikidata-fr-L9417-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10116">
+      <Lemma writtenForm="dix-sept" partOfSpeech="numeral"/>
+      <Sense id="L10116-S1" synset="wikidata-fr-L10116-S1" ili="wikidata-fr-L10116-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L10116-S2" synset="wikidata-fr-L10116-S2" ili="wikidata-fr-L10116-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10324">
+      <Lemma writtenForm="à côté de" partOfSpeech="prepositional locution"/>
+      <Sense id="L10324-S1" synset="wikidata-fr-L10324-S1" ili="wikidata-fr-L10324-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L10324-S2" synset="wikidata-fr-L10324-S2" ili="wikidata-fr-L10324-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10467">
+      <Lemma writtenForm="dix-neuf" partOfSpeech="numeral"/>
+      <Sense id="L10467-S1" synset="wikidata-fr-L10467-S1" ili="wikidata-fr-L10467-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L10467-S2" synset="wikidata-fr-L10467-S2" ili="wikidata-fr-L10467-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10584">
+      <Lemma writtenForm="d&apos;abord" partOfSpeech="adverbial locution"/>
+      <Sense id="L10584-S1" synset="wikidata-fr-L10584-S1" ili="wikidata-fr-L10584-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11306">
+      <Lemma writtenForm="contre" partOfSpeech="preposition"/>
+      <Sense id="L11306-S1" synset="wikidata-fr-L11306-S1" ili="wikidata-fr-L11306-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13155">
+      <Lemma writtenForm="derrière" partOfSpeech="preposition"/>
+      <Sense id="L13155-S1" synset="wikidata-fr-L13155-S1" ili="wikidata-fr-L13155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13375">
+      <Lemma writtenForm="avant" partOfSpeech="preposition"/>
+      <Sense id="L13375-S1" synset="wikidata-fr-L13375-S1" ili="wikidata-fr-L13375-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13983">
+      <Lemma writtenForm="soixante-dix" partOfSpeech="numeral"/>
+      <Sense id="L13983-S1" synset="wikidata-fr-L13983-S1" ili="wikidata-fr-L13983-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14018">
+      <Lemma writtenForm="soixante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14018-S1" synset="wikidata-fr-L14018-S1" ili="wikidata-fr-L14018-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14031">
+      <Lemma writtenForm="soixante-seize" partOfSpeech="numeral"/>
+      <Sense id="L14031-S1" synset="wikidata-fr-L14031-S1" ili="wikidata-fr-L14031-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14035">
+      <Lemma writtenForm="septante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L14035-S1" synset="wikidata-fr-L14035-S1" ili="wikidata-fr-L14035-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14045">
+      <Lemma writtenForm="quatre-vingt-trois" partOfSpeech="numeral"/>
+      <Sense id="L14045-S1" synset="wikidata-fr-L14045-S1" ili="wikidata-fr-L14045-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14048">
+      <Lemma writtenForm="quatre-vingt-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14048-S1" synset="wikidata-fr-L14048-S1" ili="wikidata-fr-L14048-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14056">
+      <Lemma writtenForm="quatre-vingt-quatorze" partOfSpeech="numeral"/>
+      <Sense id="L14056-S1" synset="wikidata-fr-L14056-S1" ili="wikidata-fr-L14056-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14059">
+      <Lemma writtenForm="quatre-vingt-dix-huit" partOfSpeech="numeral"/>
+      <Sense id="L14059-S1" synset="wikidata-fr-L14059-S1" ili="wikidata-fr-L14059-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14072">
+      <Lemma writtenForm="nonante-deux" partOfSpeech="numeral"/>
+      <Sense id="L14072-S1" synset="wikidata-fr-L14072-S1" ili="wikidata-fr-L14072-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18563">
+      <Lemma writtenForm="vingt-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18563-S1" synset="wikidata-fr-L18563-S1" ili="wikidata-fr-L18563-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18565">
+      <Lemma writtenForm="vingt-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18565-S1" synset="wikidata-fr-L18565-S1" ili="wikidata-fr-L18565-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18569">
+      <Lemma writtenForm="vingt-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18569-S1" synset="wikidata-fr-L18569-S1" ili="wikidata-fr-L18569-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18573">
+      <Lemma writtenForm="trente-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18573-S1" synset="wikidata-fr-L18573-S1" ili="wikidata-fr-L18573-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18576">
+      <Lemma writtenForm="trente-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18576-S1" synset="wikidata-fr-L18576-S1" ili="wikidata-fr-L18576-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18577">
+      <Lemma writtenForm="trente-septième" partOfSpeech="numeral"/>
+      <Sense id="L18577-S1" synset="wikidata-fr-L18577-S1" ili="wikidata-fr-L18577-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18595">
+      <Lemma writtenForm="cinquante-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18595-S1" synset="wikidata-fr-L18595-S1" ili="wikidata-fr-L18595-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18598">
+      <Lemma writtenForm="cinquante-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18598-S1" synset="wikidata-fr-L18598-S1" ili="wikidata-fr-L18598-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18604">
+      <Lemma writtenForm="soixante-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18604-S1" synset="wikidata-fr-L18604-S1" ili="wikidata-fr-L18604-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18617">
+      <Lemma writtenForm="septante-septième" partOfSpeech="numeral"/>
+      <Sense id="L18617-S1" synset="wikidata-fr-L18617-S1" ili="wikidata-fr-L18617-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18619">
+      <Lemma writtenForm="septante-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18619-S1" synset="wikidata-fr-L18619-S1" ili="wikidata-fr-L18619-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18633">
+      <Lemma writtenForm="nonante-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18633-S1" synset="wikidata-fr-L18633-S1" ili="wikidata-fr-L18633-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L19235">
+      <Lemma writtenForm="`" partOfSpeech="diacritic"/>
+      <Sense id="L19235-S1" synset="wikidata-fr-L19235-S1" ili="wikidata-fr-L19235-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1718">
+      <Lemma writtenForm="qui" partOfSpeech="interrogative word"/>
+      <Sense id="L1718-S1" synset="wikidata-fr-L1718-S1" ili="wikidata-fr-L1718-S1">
+        <Definition>pronom interrogatif</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2379">
+      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Sense id="L2379-S2" synset="wikidata-fr-L2379-S2" ili="wikidata-fr-L2379-S2">
+        <Definition>préposition pour marquer l&apos;appartenance, la possession</Definition>
+      </Sense>
+      <Sense id="L2379-S3" synset="wikidata-fr-L2379-S3" ili="wikidata-fr-L2379-S3">
+        <Definition>particule dans les noms de famille français</Definition>
+        <Example>Madame de Crussol vint lundi à Saint-Germain</Example>
+      </Sense>
+      <Sense id="L2379-S4" synset="wikidata-fr-L2379-S4" ili="wikidata-fr-L2379-S4">
+        <Definition>préposition pour marquer la provenance ou l&apos;origine</Definition>
+        <Example>La recette nous vient de Suisse.</Example>
+      </Sense>
+      <Sense id="L2379-S5" synset="wikidata-fr-L2379-S5" ili="wikidata-fr-L2379-S5">
+        <Definition>particule verbale</Definition>
+      </Sense>
+      <Sense id="L2379-S6" synset="wikidata-fr-L2379-S6" ili="wikidata-fr-L2379-S6">
+        <Definition>pour marquer une quantité</Definition>
+        <Example>une Société mathématique qui compte près de trois cents membres</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9178">
+      <Lemma writtenForm="treize" partOfSpeech="numeral"/>
+      <Sense id="L9178-S1" synset="wikidata-fr-L9178-S1" ili="wikidata-fr-L9178-S1">
+        <Definition>nombre cardinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9198">
+      <Lemma writtenForm="donc" partOfSpeech="conjunction"/>
+      <Sense id="L9198-S1" synset="wikidata-fr-L9198-S1" ili="wikidata-fr-L9198-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9386">
+      <Lemma writtenForm="pendant" partOfSpeech="preposition"/>
+      <Sense id="L9386-S1" synset="wikidata-fr-L9386-S1" ili="wikidata-fr-L9386-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10014">
+      <Lemma writtenForm="tout le monde" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L10014-S1" synset="wikidata-fr-L10014-S1" ili="wikidata-fr-L10014-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10468">
+      <Lemma writtenForm="vingt-et-un" partOfSpeech="numeral"/>
+      <Sense id="L10468-S1" synset="wikidata-fr-L10468-S1" ili="wikidata-fr-L10468-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10500">
+      <Lemma writtenForm="quatre-vingt" partOfSpeech="numeral"/>
+      <Sense id="L10500-S1" synset="wikidata-fr-L10500-S1" ili="wikidata-fr-L10500-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10650">
+      <Lemma writtenForm="quelqu&apos;un" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L10650-S1" synset="wikidata-fr-L10650-S1" ili="wikidata-fr-L10650-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L12095">
+      <Lemma writtenForm="à cause de" partOfSpeech="prepositional locution"/>
+      <Sense id="L12095-S1" synset="wikidata-fr-L12095-S1" ili="wikidata-fr-L12095-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13143">
+      <Lemma writtenForm="en avant" partOfSpeech="adverbial locution"/>
+      <Sense id="L13143-S1" synset="wikidata-fr-L13143-S1" ili="wikidata-fr-L13143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13986">
+      <Lemma writtenForm="vingt-quatre" partOfSpeech="numeral"/>
+      <Sense id="L13986-S1" synset="wikidata-fr-L13986-S1" ili="wikidata-fr-L13986-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13991">
+      <Lemma writtenForm="trente-deux" partOfSpeech="numeral"/>
+      <Sense id="L13991-S1" synset="wikidata-fr-L13991-S1" ili="wikidata-fr-L13991-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13996">
+      <Lemma writtenForm="trente-sept" partOfSpeech="numeral"/>
+      <Sense id="L13996-S1" synset="wikidata-fr-L13996-S1" ili="wikidata-fr-L13996-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13999">
+      <Lemma writtenForm="quarante-et-un" partOfSpeech="numeral"/>
+      <Sense id="L13999-S1" synset="wikidata-fr-L13999-S1" ili="wikidata-fr-L13999-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14005">
+      <Lemma writtenForm="quarante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14005-S1" synset="wikidata-fr-L14005-S1" ili="wikidata-fr-L14005-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14006">
+      <Lemma writtenForm="quarante-huit" partOfSpeech="numeral"/>
+      <Sense id="L14006-S1" synset="wikidata-fr-L14006-S1" ili="wikidata-fr-L14006-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14011">
+      <Lemma writtenForm="cinquante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14011-S1" synset="wikidata-fr-L14011-S1" ili="wikidata-fr-L14011-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14023">
+      <Lemma writtenForm="soixante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14023-S1" synset="wikidata-fr-L14023-S1" ili="wikidata-fr-L14023-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14025">
+      <Lemma writtenForm="soixante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14025-S1" synset="wikidata-fr-L14025-S1" ili="wikidata-fr-L14025-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14032">
+      <Lemma writtenForm="soixante-dix-sept" partOfSpeech="numeral"/>
+      <Sense id="L14032-S1" synset="wikidata-fr-L14032-S1" ili="wikidata-fr-L14032-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14037">
+      <Lemma writtenForm="septante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14037-S1" synset="wikidata-fr-L14037-S1" ili="wikidata-fr-L14037-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14060">
+      <Lemma writtenForm="quatre-vingt-dix-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14060-S1" synset="wikidata-fr-L14060-S1" ili="wikidata-fr-L14060-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14070">
+      <Lemma writtenForm="huitante-neuf" partOfSpeech="numeral"/>
+      <Sense id="L14070-S1" synset="wikidata-fr-L14070-S1" ili="wikidata-fr-L14070-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14075">
+      <Lemma writtenForm="nonante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14075-S1" synset="wikidata-fr-L14075-S1" ili="wikidata-fr-L14075-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15559">
+      <Lemma writtenForm="à demi-voix" partOfSpeech="adverbial locution"/>
+      <Sense id="L15559-S1" synset="wikidata-fr-L15559-S1" ili="wikidata-fr-L15559-S1">
+        <Definition>à voix basse</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L17655">
+      <Lemma writtenForm="quinzième" partOfSpeech="numeral"/>
+      <Sense id="L17655-S1" synset="wikidata-fr-L17655-S1" ili="wikidata-fr-L17655-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18567">
+      <Lemma writtenForm="vingt-septième" partOfSpeech="numeral"/>
+      <Sense id="L18567-S1" synset="wikidata-fr-L18567-S1" ili="wikidata-fr-L18567-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18584">
+      <Lemma writtenForm="quarante-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18584-S1" synset="wikidata-fr-L18584-S1" ili="wikidata-fr-L18584-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18588">
+      <Lemma writtenForm="quarante-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18588-S1" synset="wikidata-fr-L18588-S1" ili="wikidata-fr-L18588-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18590">
+      <Lemma writtenForm="cinquantième" partOfSpeech="numeral"/>
+      <Sense id="L18590-S1" synset="wikidata-fr-L18590-S1" ili="wikidata-fr-L18590-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18591">
+      <Lemma writtenForm="cinquante-et-unième" partOfSpeech="numeral"/>
+      <Sense id="L18591-S1" synset="wikidata-fr-L18591-S1" ili="wikidata-fr-L18591-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18599">
+      <Lemma writtenForm="cinquante-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18599-S1" synset="wikidata-fr-L18599-S1" ili="wikidata-fr-L18599-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18613">
+      <Lemma writtenForm="septante-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18613-S1" synset="wikidata-fr-L18613-S1" ili="wikidata-fr-L18613-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18614">
+      <Lemma writtenForm="septante-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18614-S1" synset="wikidata-fr-L18614-S1" ili="wikidata-fr-L18614-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18632">
+      <Lemma writtenForm="nonante-deuxième" partOfSpeech="numeral"/>
+      <Sense id="L18632-S1" synset="wikidata-fr-L18632-S1" ili="wikidata-fr-L18632-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18638">
+      <Lemma writtenForm="nonante-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18638-S1" synset="wikidata-fr-L18638-S1" ili="wikidata-fr-L18638-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57949">
+      <Lemma writtenForm="cent-quatre-vingt-dix" partOfSpeech="numeral"/>
+      <Sense id="L57949-S1" synset="wikidata-fr-L57949-S1" ili="wikidata-fr-L57949-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1232738">
+      <Lemma writtenForm="Canapé" partOfSpeech="family name"/>
+      <Sense id="L1232738-S1" synset="wikidata-fr-L1232738-S1" ili="wikidata-fr-L1232738-S1">
+        <Definition>nom de famille</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L176">
+      <Lemma writtenForm="cent-septante-six" partOfSpeech="numeral"/>
+      <Sense id="L176-S1" synset="wikidata-fr-L176-S1" ili="wikidata-fr-L176-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2770">
+      <Lemma writtenForm="le" partOfSpeech="definite article"/>
+      <Sense id="L2770-S1" synset="wikidata-fr-L2770-S1" ili="wikidata-fr-L2770-S1">
+        <Definition>articile défini</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9123">
+      <Lemma writtenForm="car" partOfSpeech="conjunction"/>
+      <Sense id="L9123-S1" synset="wikidata-fr-L9123-S1" ili="wikidata-fr-L9123-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9176">
+      <Lemma writtenForm="onze" partOfSpeech="numeral"/>
+      <Sense id="L9176-S1" synset="wikidata-fr-L9176-S1" ili="wikidata-fr-L9176-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9176-S2" synset="wikidata-fr-L9176-S2" ili="wikidata-fr-L9176-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9289">
+      <Lemma writtenForm="vous" partOfSpeech="personal pronoun"/>
+      <Sense id="L9289-S1" synset="wikidata-fr-L9289-S1" ili="wikidata-fr-L9289-S1">
+        <Definition>pronom de la deuxième personne du pluriel</Definition>
+      </Sense>
+      <Sense id="L9289-S2" synset="wikidata-fr-L9289-S2" ili="wikidata-fr-L9289-S2">
+        <Definition>Pronom d&apos;addresse formelle</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L9319">
+      <Lemma writtenForm="cent" partOfSpeech="numeral"/>
+      <Sense id="L9319-S1" synset="wikidata-fr-L9319-S1" ili="wikidata-fr-L9319-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L9319-S2" synset="wikidata-fr-L9319-S2" ili="wikidata-fr-L9319-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10017">
+      <Lemma writtenForm="tout" partOfSpeech="indefinite adjective"/>
+      <Sense id="L10017-S2" synset="wikidata-fr-L10017-S2" ili="wikidata-fr-L10017-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10477">
+      <Lemma writtenForm="personne" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L10477-S1" synset="wikidata-fr-L10477-S1" ili="wikidata-fr-L10477-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L12000">
+      <Lemma writtenForm="lui-même" partOfSpeech="personal pronoun"/>
+      <Sense id="L12000-S1" synset="wikidata-fr-L12000-S1" ili="wikidata-fr-L12000-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L13977">
+      <Lemma writtenForm="nonante" partOfSpeech="numeral"/>
+      <Sense id="L13977-S1" synset="wikidata-fr-L13977-S1" ili="wikidata-fr-L13977-S1">
+        <Definition>nombre entier naturel</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14003">
+      <Lemma writtenForm="quarante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14003-S1" synset="wikidata-fr-L14003-S1" ili="wikidata-fr-L14003-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14010">
+      <Lemma writtenForm="cinquante-trois" partOfSpeech="numeral"/>
+      <Sense id="L14010-S1" synset="wikidata-fr-L14010-S1" ili="wikidata-fr-L14010-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14012">
+      <Lemma writtenForm="cinquante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14012-S1" synset="wikidata-fr-L14012-S1" ili="wikidata-fr-L14012-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14020">
+      <Lemma writtenForm="soixante-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14020-S1" synset="wikidata-fr-L14020-S1" ili="wikidata-fr-L14020-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14021">
+      <Lemma writtenForm="soixante-cinq" partOfSpeech="numeral"/>
+      <Sense id="L14021-S1" synset="wikidata-fr-L14021-S1" ili="wikidata-fr-L14021-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14027">
+      <Lemma writtenForm="soixante-douze" partOfSpeech="numeral"/>
+      <Sense id="L14027-S1" synset="wikidata-fr-L14027-S1" ili="wikidata-fr-L14027-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14028">
+      <Lemma writtenForm="soixante-treize" partOfSpeech="numeral"/>
+      <Sense id="L14028-S1" synset="wikidata-fr-L14028-S1" ili="wikidata-fr-L14028-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14046">
+      <Lemma writtenForm="quatre-vingt-quatre" partOfSpeech="numeral"/>
+      <Sense id="L14046-S1" synset="wikidata-fr-L14046-S1" ili="wikidata-fr-L14046-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14068">
+      <Lemma writtenForm="huitante-sept" partOfSpeech="numeral"/>
+      <Sense id="L14068-S1" synset="wikidata-fr-L14068-S1" ili="wikidata-fr-L14068-S1">
+        <Definition>nombre</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15016">
+      <Lemma writtenForm="aucun" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L15016-S1" synset="wikidata-fr-L15016-S1" ili="wikidata-fr-L15016-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18550">
+      <Lemma writtenForm="quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18550-S1" synset="wikidata-fr-L18550-S1" ili="wikidata-fr-L18550-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18559">
+      <Lemma writtenForm="dix-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18559-S1" synset="wikidata-fr-L18559-S1" ili="wikidata-fr-L18559-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18564">
+      <Lemma writtenForm="vingt-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18564-S1" synset="wikidata-fr-L18564-S1" ili="wikidata-fr-L18564-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18566">
+      <Lemma writtenForm="vingt-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18566-S1" synset="wikidata-fr-L18566-S1" ili="wikidata-fr-L18566-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18574">
+      <Lemma writtenForm="trente-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18574-S1" synset="wikidata-fr-L18574-S1" ili="wikidata-fr-L18574-S1">
+        <Definition>nombre ordinal</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18578">
+      <Lemma writtenForm="trente-huitième" partOfSpeech="numeral"/>
+      <Sense id="L18578-S1" synset="wikidata-fr-L18578-S1" ili="wikidata-fr-L18578-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18583">
+      <Lemma writtenForm="quarante-troisième" partOfSpeech="numeral"/>
+      <Sense id="L18583-S1" synset="wikidata-fr-L18583-S1" ili="wikidata-fr-L18583-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18585">
+      <Lemma writtenForm="quarante-cinquième" partOfSpeech="numeral"/>
+      <Sense id="L18585-S1" synset="wikidata-fr-L18585-S1" ili="wikidata-fr-L18585-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18609">
+      <Lemma writtenForm="soixante-neuvième" partOfSpeech="numeral"/>
+      <Sense id="L18609-S1" synset="wikidata-fr-L18609-S1" ili="wikidata-fr-L18609-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18610">
+      <Lemma writtenForm="septantième" partOfSpeech="numeral"/>
+      <Sense id="L18610-S1" synset="wikidata-fr-L18610-S1" ili="wikidata-fr-L18610-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18624">
+      <Lemma writtenForm="quatre-vingt-quatrième" partOfSpeech="numeral"/>
+      <Sense id="L18624-S1" synset="wikidata-fr-L18624-S1" ili="wikidata-fr-L18624-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L18626">
+      <Lemma writtenForm="quatre-vingt-sixième" partOfSpeech="numeral"/>
+      <Sense id="L18626-S1" synset="wikidata-fr-L18626-S1" ili="wikidata-fr-L18626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L19237">
+      <Lemma writtenForm="ˆ" partOfSpeech="diacritic"/>
+      <Sense id="L19237-S1" synset="wikidata-fr-L19237-S1" ili="wikidata-fr-L19237-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L25474">
+      <Lemma writtenForm="ad hoc" partOfSpeech="adverbial locution"/>
+      <Sense id="L25474-S1" synset="wikidata-fr-L25474-S1" ili="wikidata-fr-L25474-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26227">
+      <Lemma writtenForm="allô" partOfSpeech="interjection"/>
+      <Sense id="L26227-S1" synset="wikidata-fr-L26227-S1" ili="wikidata-fr-L26227-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1325189">
+      <Lemma writtenForm="a cappella" partOfSpeech="locution"/>
+      <Sense id="L1325189-S1" synset="wikidata-fr-L1325189-S1" ili="wikidata-fr-L1325189-S1">
+        <Definition>musique vocale sans instrument</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-fr-L9172-S1" ili="wikidata-fr-L9172-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9173-S2" ili="wikidata-fr-L9173-S2">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9179-S1" ili="wikidata-fr-L9179-S1">
+      <Definition>nombre cardinal entre treize et quinze</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9220-S1" ili="wikidata-fr-L9220-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9286-S1" ili="wikidata-fr-L9286-S1">
+      <Definition>adjectif possessif 3ème personne pluriel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9401-S1" ili="wikidata-fr-L9401-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10053-S1" ili="wikidata-fr-L10053-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10349-S1" ili="l5211-s1">
+      <Definition>dénué de</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11184-S1" ili="wikidata-fr-L11184-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11200-S1" ili="wikidata-fr-L11200-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11909-S1" ili="wikidata-fr-L11909-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13990-S1" ili="wikidata-fr-L13990-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13995-S1" ili="wikidata-fr-L13995-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14000-S1" ili="wikidata-fr-L14000-S1">
+      <Definition>nombre 42</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14026-S1" ili="wikidata-fr-L14026-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14039-S1" ili="wikidata-fr-L14039-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14040-S1" ili="wikidata-fr-L14040-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14049-S1" ili="wikidata-fr-L14049-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14050-S1" ili="wikidata-fr-L14050-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14054-S1" ili="wikidata-fr-L14054-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14057-S1" ili="wikidata-fr-L14057-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14062-S1" ili="wikidata-fr-L14062-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L15359-S1" ili="wikidata-fr-L15359-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L16466-S1" ili="wikidata-fr-L16466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L16516-S1" ili="wikidata-fr-L16516-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L17220-S1" ili="wikidata-fr-L17220-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L17656-S1" ili="wikidata-fr-L17656-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18553-S1" ili="wikidata-fr-L18553-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18556-S1" ili="wikidata-fr-L18556-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18571-S1" ili="wikidata-fr-L18571-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18582-S1" ili="wikidata-fr-L18582-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18586-S1" ili="wikidata-fr-L18586-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18594-S1" ili="wikidata-fr-L18594-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18601-S1" ili="wikidata-fr-L18601-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18602-S1" ili="wikidata-fr-L18602-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18608-S1" ili="wikidata-fr-L18608-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18615-S1" ili="wikidata-fr-L18615-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18640-S1" ili="wikidata-fr-L18640-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L48416-S1" ili="l8883-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L796-S1" ili="wikidata-fr-L796-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1720-S1" ili="wikidata-fr-L1720-S1">
+      <Definition>adverbe interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1721-S1" ili="wikidata-fr-L1721-S1">
+      <Definition>adverbe interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2117-S1" ili="wikidata-fr-L2117-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2627-S1" ili="wikidata-fr-L2627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9138-S1" ili="wikidata-fr-L9138-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9170-S1" ili="wikidata-fr-L9170-S1">
+      <Definition>nombre cardinal entre trois et cinq</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9174-S1" ili="wikidata-fr-L9174-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9174-S2" ili="wikidata-fr-L9174-S2">
+      <Definition>le nombre 9</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9358-S1" ili="wikidata-fr-L9358-S1">
+      <Definition>malgré</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9379-S1" ili="wikidata-fr-L9379-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9435-S1" ili="wikidata-fr-L9435-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10627-S1" ili="wikidata-fr-L10627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11155-S1" ili="wikidata-fr-L11155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13980-S1" ili="wikidata-fr-L13980-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13984-S1" ili="wikidata-fr-L13984-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13988-S1" ili="wikidata-fr-L13988-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13998-S1" ili="wikidata-fr-L13998-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14019-S1" ili="wikidata-fr-L14019-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14022-S1" ili="wikidata-fr-L14022-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14029-S1" ili="wikidata-fr-L14029-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14034-S1" ili="wikidata-fr-L14034-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14042-S1" ili="wikidata-fr-L14042-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14051-S1" ili="wikidata-fr-L14051-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14055-S1" ili="wikidata-fr-L14055-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14066-S1" ili="wikidata-fr-L14066-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L16490-S1" ili="wikidata-fr-L16490-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18549-S1" ili="wikidata-fr-L18549-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18554-S1" ili="wikidata-fr-L18554-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18555-S1" ili="wikidata-fr-L18555-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18561-S1" ili="wikidata-fr-L18561-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18562-S1" ili="wikidata-fr-L18562-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18570-S1" ili="wikidata-fr-L18570-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18575-S1" ili="wikidata-fr-L18575-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18581-S1" ili="wikidata-fr-L18581-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18589-S1" ili="wikidata-fr-L18589-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18596-S1" ili="wikidata-fr-L18596-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18607-S1" ili="wikidata-fr-L18607-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18618-S1" ili="wikidata-fr-L18618-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18622-S1" ili="wikidata-fr-L18622-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18625-S1" ili="wikidata-fr-L18625-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18628-S1" ili="wikidata-fr-L18628-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18630-S1" ili="wikidata-fr-L18630-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18631-S1" ili="wikidata-fr-L18631-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L19234-S1" ili="wikidata-fr-L19234-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L19236-S1" ili="wikidata-fr-L19236-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L296505-S1" ili="wikidata-fr-L296505-S1">
+      <Definition>pronom utilisé sans distinction de genre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L738267-S1" ili="wikidata-fr-L738267-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L738268-S1" ili="wikidata-fr-L738268-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1411963-S1" ili="wikidata-fr-L1411963-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1508816-S1" ili="wikidata-fr-L1508816-S1">
+      <Definition>parties comestibles des animaux de boucherie, autres que la viande musculaire – souvent les organes internes</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L95-S1" ili="wikidata-fr-L95-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1719-S1" ili="wikidata-fr-L1719-S1">
+      <Definition>pronom interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1722-S1" ili="wikidata-fr-L1722-S1">
+      <Definition>adverbe interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1723-S1" ili="wikidata-fr-L1723-S1">
+      <Definition>adverbe interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9091-S1" ili="wikidata-fr-L9091-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9099-S1" ili="wikidata-fr-L9099-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9135-S1" ili="wikidata-fr-L9135-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9168-S1" ili="l329-s1">
+      <Definition>nombre cardinal entre un et trois, 2</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9169-S1" ili="wikidata-fr-L9169-S1">
+      <Definition>nombre cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9175-S1" ili="wikidata-fr-L9175-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9175-S2" ili="wikidata-fr-L9175-S2">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9177-S1" ili="wikidata-fr-L9177-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9177-S2" ili="wikidata-fr-L9177-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9188-S1" ili="wikidata-fr-L9188-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9203-S1" ili="wikidata-fr-L9203-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9288-S1" ili="l483-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9290-S1" ili="wikidata-fr-L9290-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9735-S1" ili="wikidata-fr-L9735-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10021-S1" ili="wikidata-fr-L10021-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10080-S1" ili="wikidata-fr-L10080-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11618-S1" ili="wikidata-fr-L11618-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13981-S1" ili="wikidata-fr-L13981-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13985-S1" ili="wikidata-fr-L13985-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13989-S1" ili="wikidata-fr-L13989-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13992-S1" ili="wikidata-fr-L13992-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13993-S1" ili="wikidata-fr-L13993-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14014-S1" ili="wikidata-fr-L14014-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14017-S1" ili="wikidata-fr-L14017-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14024-S1" ili="wikidata-fr-L14024-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14030-S1" ili="wikidata-fr-L14030-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14033-S1" ili="wikidata-fr-L14033-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14063-S1" ili="wikidata-fr-L14063-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14064-S1" ili="wikidata-fr-L14064-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14067-S1" ili="wikidata-fr-L14067-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14069-S1" ili="wikidata-fr-L14069-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14071-S1" ili="wikidata-fr-L14071-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14076-S1" ili="wikidata-fr-L14076-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14079-S1" ili="wikidata-fr-L14079-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L15026-S1" ili="wikidata-fr-L15026-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L15467-S1" ili="wikidata-fr-L15467-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L17658-S1" ili="wikidata-fr-L17658-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18551-S1" ili="wikidata-fr-L18551-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18557-S1" ili="wikidata-fr-L18557-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18558-S1" ili="wikidata-fr-L18558-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18560-S1" ili="wikidata-fr-L18560-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18572-S1" ili="wikidata-fr-L18572-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18597-S1" ili="wikidata-fr-L18597-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18600-S1" ili="wikidata-fr-L18600-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18606-S1" ili="wikidata-fr-L18606-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18611-S1" ili="wikidata-fr-L18611-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18634-S1" ili="wikidata-fr-L18634-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18636-S1" ili="wikidata-fr-L18636-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18639-S1" ili="wikidata-fr-L18639-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18773-S1" ili="wikidata-fr-L18773-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18774-S1" ili="l8964-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L250373-S1" ili="l371-s1">
+      <Definition>pronom utilisé sans distinction de genre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L691744-S1" ili="wikidata-fr-L691744-S1">
+      <Definition>cri de joie</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L709330-S1" ili="wikidata-fr-L709330-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1508829-S1" ili="wikidata-fr-L1508829-S1">
+      <Definition>muscles constituant les parois antérieures et latérales de l&apos;abdomen</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1508829-S2" ili="wikidata-fr-L1508829-S2">
+      <Definition>exercices de gymnastique conçus pour renforcer les muscles de l&apos;abdomen</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L699-S2" ili="wikidata-fr-L699-S2">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1724-S1" ili="wikidata-fr-L1724-S1">
+      <Definition>adverbe interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2118-S1" ili="wikidata-fr-L2118-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9111-S1" ili="l2767-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9167-S1" ili="l327-s1">
+      <Definition>nombre cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9259-S1" ili="wikidata-fr-L9259-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9259-S2" ili="wikidata-fr-L9259-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9261-S1" ili="wikidata-fr-L9261-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10087-S1" ili="wikidata-fr-L10087-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L12659-S1" ili="wikidata-fr-L12659-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13975-S1" ili="wikidata-fr-L13975-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13976-S1" ili="wikidata-fr-L13976-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13979-S1" ili="wikidata-fr-L13979-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13982-S1" ili="wikidata-fr-L13982-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14001-S1" ili="wikidata-fr-L14001-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14002-S1" ili="wikidata-fr-L14002-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14008-S1" ili="wikidata-fr-L14008-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14013-S1" ili="wikidata-fr-L14013-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14015-S1" ili="wikidata-fr-L14015-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14038-S1" ili="wikidata-fr-L14038-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14041-S1" ili="wikidata-fr-L14041-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14044-S1" ili="wikidata-fr-L14044-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14052-S1" ili="wikidata-fr-L14052-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14058-S1" ili="wikidata-fr-L14058-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14065-S1" ili="wikidata-fr-L14065-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14073-S1" ili="wikidata-fr-L14073-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14074-S1" ili="wikidata-fr-L14074-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14077-S1" ili="wikidata-fr-L14077-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18620-S1" ili="wikidata-fr-L18620-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18621-S1" ili="wikidata-fr-L18621-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18623-S1" ili="wikidata-fr-L18623-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18627-S1" ili="wikidata-fr-L18627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L19238-S1" ili="wikidata-fr-L19238-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L24356-S1" ili="wikidata-fr-L24356-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L578966-S1" ili="wikidata-fr-L578966-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L738269-S1" ili="wikidata-fr-L738269-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1405721-S1" ili="wikidata-fr-L1405721-S1">
+      <Definition>pour appeler l&apos;attention</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1405721-S2" ili="wikidata-fr-L1405721-S2">
+      <Definition>exclamation de surprise</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1405721-S3" ili="wikidata-fr-L1405721-S3">
+      <Definition>formule d&apos;adresse hostile, outragée, d&apos;opposition</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9094-S1" ili="wikidata-fr-L9094-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9127-S1" ili="wikidata-fr-L9127-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9158-S1" ili="wikidata-fr-L9158-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9159-S1" ili="wikidata-fr-L9159-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9161-S1" ili="wikidata-fr-L9161-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9171-S1" ili="wikidata-fr-L9171-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9180-S1" ili="wikidata-fr-L9180-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9180-S2" ili="wikidata-fr-L9180-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9181-S1" ili="wikidata-fr-L9181-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9181-S2" ili="wikidata-fr-L9181-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9227-S1" ili="wikidata-fr-L9227-S1">
+      <Definition>déterminant possessif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9442-S1" ili="l20-s1">
+      <Definition>nombre cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10466-S2" ili="wikidata-fr-L10466-S2">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10469-S1" ili="wikidata-fr-L10469-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13987-S1" ili="wikidata-fr-L13987-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13994-S1" ili="wikidata-fr-L13994-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13997-S1" ili="wikidata-fr-L13997-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14004-S1" ili="wikidata-fr-L14004-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14007-S1" ili="wikidata-fr-L14007-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14009-S1" ili="wikidata-fr-L14009-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14016-S1" ili="wikidata-fr-L14016-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14036-S1" ili="wikidata-fr-L14036-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14043-S1" ili="wikidata-fr-L14043-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14078-S1" ili="wikidata-fr-L14078-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L17657-S1" ili="wikidata-fr-L17657-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18552-S1" ili="wikidata-fr-L18552-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18568-S1" ili="wikidata-fr-L18568-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18579-S1" ili="wikidata-fr-L18579-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18580-S1" ili="wikidata-fr-L18580-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18587-S1" ili="wikidata-fr-L18587-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18592-S1" ili="wikidata-fr-L18592-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18593-S1" ili="wikidata-fr-L18593-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18603-S1" ili="wikidata-fr-L18603-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18605-S1" ili="wikidata-fr-L18605-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18612-S1" ili="wikidata-fr-L18612-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18616-S1" ili="wikidata-fr-L18616-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18629-S1" ili="wikidata-fr-L18629-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18635-S1" ili="wikidata-fr-L18635-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18637-S1" ili="wikidata-fr-L18637-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L21572-S1" ili="wikidata-fr-L21572-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L476219-S1" ili="l476215-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L640141-S1" ili="wikidata-fr-L640141-S1">
+      <Definition>formule de salutation utilisée lorsqu’on rencontre quelqu’un</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L940447-S1" ili="wikidata-fr-L940447-S1">
+      <Definition>notation musicale et genre musical du XVIIe au XIXe siècles</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1521040-S1" ili="wikidata-fr-L1521040-S1">
+      <Definition>panneaux de verre coloré décoratif, souvent en assemblage</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2926-S1" ili="l38519-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9096-S1" ili="wikidata-fr-L9096-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9257-S1" ili="l485-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9393-S1" ili="wikidata-fr-L9393-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9417-S1" ili="wikidata-fr-L9417-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10116-S1" ili="wikidata-fr-L10116-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10116-S2" ili="wikidata-fr-L10116-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10324-S1" ili="wikidata-fr-L10324-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10324-S2" ili="wikidata-fr-L10324-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10467-S1" ili="wikidata-fr-L10467-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10467-S2" ili="wikidata-fr-L10467-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10584-S1" ili="wikidata-fr-L10584-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L11306-S1" ili="wikidata-fr-L11306-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13155-S1" ili="wikidata-fr-L13155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13375-S1" ili="wikidata-fr-L13375-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13983-S1" ili="wikidata-fr-L13983-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14018-S1" ili="wikidata-fr-L14018-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14031-S1" ili="wikidata-fr-L14031-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14035-S1" ili="wikidata-fr-L14035-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14045-S1" ili="wikidata-fr-L14045-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14048-S1" ili="wikidata-fr-L14048-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14056-S1" ili="wikidata-fr-L14056-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14059-S1" ili="wikidata-fr-L14059-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14072-S1" ili="wikidata-fr-L14072-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18563-S1" ili="wikidata-fr-L18563-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18565-S1" ili="wikidata-fr-L18565-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18569-S1" ili="wikidata-fr-L18569-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18573-S1" ili="wikidata-fr-L18573-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18576-S1" ili="wikidata-fr-L18576-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18577-S1" ili="wikidata-fr-L18577-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18595-S1" ili="wikidata-fr-L18595-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18598-S1" ili="wikidata-fr-L18598-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18604-S1" ili="wikidata-fr-L18604-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18617-S1" ili="wikidata-fr-L18617-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18619-S1" ili="wikidata-fr-L18619-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18633-S1" ili="wikidata-fr-L18633-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L19235-S1" ili="wikidata-fr-L19235-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1718-S1" ili="wikidata-fr-L1718-S1">
+      <Definition>pronom interrogatif</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2379-S2" ili="wikidata-fr-L2379-S2">
+      <Definition>préposition pour marquer l&apos;appartenance, la possession</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2379-S3" ili="wikidata-fr-L2379-S3">
+      <Definition>particule dans les noms de famille français</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2379-S4" ili="wikidata-fr-L2379-S4">
+      <Definition>préposition pour marquer la provenance ou l&apos;origine</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2379-S5" ili="wikidata-fr-L2379-S5">
+      <Definition>particule verbale</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2379-S6" ili="wikidata-fr-L2379-S6">
+      <Definition>pour marquer une quantité</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9178-S1" ili="wikidata-fr-L9178-S1">
+      <Definition>nombre cardinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9198-S1" ili="wikidata-fr-L9198-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9386-S1" ili="wikidata-fr-L9386-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10014-S1" ili="wikidata-fr-L10014-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10468-S1" ili="wikidata-fr-L10468-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10500-S1" ili="wikidata-fr-L10500-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10650-S1" ili="wikidata-fr-L10650-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L12095-S1" ili="wikidata-fr-L12095-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13143-S1" ili="wikidata-fr-L13143-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13986-S1" ili="wikidata-fr-L13986-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13991-S1" ili="wikidata-fr-L13991-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13996-S1" ili="wikidata-fr-L13996-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13999-S1" ili="wikidata-fr-L13999-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14005-S1" ili="wikidata-fr-L14005-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14006-S1" ili="wikidata-fr-L14006-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14011-S1" ili="wikidata-fr-L14011-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14023-S1" ili="wikidata-fr-L14023-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14025-S1" ili="wikidata-fr-L14025-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14032-S1" ili="wikidata-fr-L14032-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14037-S1" ili="wikidata-fr-L14037-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14060-S1" ili="wikidata-fr-L14060-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14070-S1" ili="wikidata-fr-L14070-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14075-S1" ili="wikidata-fr-L14075-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L15559-S1" ili="wikidata-fr-L15559-S1">
+      <Definition>à voix basse</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L17655-S1" ili="wikidata-fr-L17655-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18567-S1" ili="wikidata-fr-L18567-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18584-S1" ili="wikidata-fr-L18584-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18588-S1" ili="wikidata-fr-L18588-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18590-S1" ili="wikidata-fr-L18590-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18591-S1" ili="wikidata-fr-L18591-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18599-S1" ili="wikidata-fr-L18599-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18613-S1" ili="wikidata-fr-L18613-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18614-S1" ili="wikidata-fr-L18614-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18632-S1" ili="wikidata-fr-L18632-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18638-S1" ili="wikidata-fr-L18638-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L57949-S1" ili="wikidata-fr-L57949-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1232738-S1" ili="wikidata-fr-L1232738-S1">
+      <Definition>nom de famille</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L176-S1" ili="wikidata-fr-L176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L2770-S1" ili="wikidata-fr-L2770-S1">
+      <Definition>articile défini</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9123-S1" ili="wikidata-fr-L9123-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9176-S1" ili="wikidata-fr-L9176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9176-S2" ili="wikidata-fr-L9176-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9289-S1" ili="wikidata-fr-L9289-S1">
+      <Definition>pronom de la deuxième personne du pluriel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9289-S2" ili="wikidata-fr-L9289-S2">
+      <Definition>Pronom d&apos;addresse formelle</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9319-S1" ili="wikidata-fr-L9319-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L9319-S2" ili="wikidata-fr-L9319-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10017-S2" ili="wikidata-fr-L10017-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L10477-S1" ili="wikidata-fr-L10477-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L12000-S1" ili="wikidata-fr-L12000-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L13977-S1" ili="wikidata-fr-L13977-S1">
+      <Definition>nombre entier naturel</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14003-S1" ili="wikidata-fr-L14003-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14010-S1" ili="wikidata-fr-L14010-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14012-S1" ili="wikidata-fr-L14012-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14020-S1" ili="wikidata-fr-L14020-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14021-S1" ili="wikidata-fr-L14021-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14027-S1" ili="wikidata-fr-L14027-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14028-S1" ili="wikidata-fr-L14028-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14046-S1" ili="wikidata-fr-L14046-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L14068-S1" ili="wikidata-fr-L14068-S1">
+      <Definition>nombre</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L15016-S1" ili="wikidata-fr-L15016-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18550-S1" ili="wikidata-fr-L18550-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18559-S1" ili="wikidata-fr-L18559-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18564-S1" ili="wikidata-fr-L18564-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18566-S1" ili="wikidata-fr-L18566-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18574-S1" ili="wikidata-fr-L18574-S1">
+      <Definition>nombre ordinal</Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18578-S1" ili="wikidata-fr-L18578-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18583-S1" ili="wikidata-fr-L18583-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18585-S1" ili="wikidata-fr-L18585-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18609-S1" ili="wikidata-fr-L18609-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18610-S1" ili="wikidata-fr-L18610-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18624-S1" ili="wikidata-fr-L18624-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L18626-S1" ili="wikidata-fr-L18626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L19237-S1" ili="wikidata-fr-L19237-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L25474-S1" ili="wikidata-fr-L25474-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L26227-S1" ili="wikidata-fr-L26227-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fr-L1325189-S1" ili="wikidata-fr-L1325189-S1">
+      <Definition>musique vocale sans instrument</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-th"
+                    label="Wikidata TH Lexemes Extension"
+                    language="th"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-th" version="1.4"/>
+    <LexicalEntry id="L418016">
+      <Lemma writtenForm="ของ" partOfSpeech="preposition"/>
+      <Sense id="L418016-S1" synset="wikidata-th-L418016-S1" ili="l2986-s3">
+        <Definition>แห่ง (ใช้สำหรับนำหน้านามที่เป็นผู้ครอบครอง)</Definition>
+        <SenseRelation relType="similar" target="wikidata-th-L451359-S1"/>
+        <SenseRelation relType="similar" target="wikidata-th-L451360-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L451359">
+      <Lemma writtenForm="ใน" partOfSpeech="preposition"/>
+      <Sense id="L451359-S1" synset="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1">
+        <Definition>แห่ง, ของ</Definition>
+        <Example>พระราชนิพนธ์ในพระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว</Example>
+        <SenseRelation relType="similar" target="wikidata-th-L418016-S1"/>
+        <SenseRelation relType="similar" target="wikidata-th-L451360-S1"/>
+      </Sense>
+      <Sense id="L451359-S2" synset="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L451360">
+      <Lemma writtenForm="แห่ง" partOfSpeech="preposition"/>
+      <Sense id="L451360-S1" synset="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-th-L418016-S1"/>
+        <SenseRelation relType="similar" target="wikidata-th-L451359-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692524">
+      <Lemma writtenForm="หนึ่ง" partOfSpeech="numeral"/>
+      <Sense id="L692524-S1" synset="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-th-L418016-S1" ili="l2986-s3">
+      <Definition>แห่ง (ใช้สำหรับนำหน้านามที่เป็นผู้ครอบครอง)</Definition>
+    </Synset>
+    <Synset id="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1">
+      <Definition>แห่ง, ของ</Definition>
+    </Synset>
+    <Synset id="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

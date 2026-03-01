@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-en"
+                    label="Wikidata EN Lexemes Extension"
+                    language="en"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-en" version="1.4"/>
+    <LexicalEntry id="L13">
+      <Lemma writtenForm="thirteen" partOfSpeech="determiner"/>
+      <Sense id="L13-S1" synset="wikidata-en-L13-S1" ili="l13-s1">
+        <Definition>number between 12 and 14</Definition>
+        <Example>article thirteen (13) of the Constitution of Louisiana</Example>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-en-L13-S1" ili="l13-s1">
+      <Definition>number between 12 and 14</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-he"
+                    label="Wikidata HE Lexemes Extension"
+                    language="he"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-he" version="1.4"/>
+    <LexicalEntry id="L7396">
+      <Lemma writtenForm="ה" partOfSpeech="definite article"/>
+      <Sense id="L7396-S1" synset="wikidata-he-L7396-S1" ili="wikidata-he-L7396-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483531">
+      <Lemma writtenForm="על" partOfSpeech="preposition"/>
+      <Sense id="L483531-S1" synset="wikidata-he-L483531-S1" ili="l2260-s1">
+        <Definition>מעל, גבוה יותר מדבר אחר</Definition>
+      </Sense>
+      <Sense id="L483531-S2" synset="wikidata-he-L483531-S2" ili="l2459-s1">
+        <Definition>בעניין של דבר כלשהו, בנוגע לדבר כלשהו</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492156">
+      <Lemma writtenForm="לפיכך" partOfSpeech="conjunction"/>
+      <Sense id="L492156-S1" synset="wikidata-he-L492156-S1" ili="wikidata-he-L492156-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492222">
+      <Lemma writtenForm="עשרה" partOfSpeech="numeral"/>
+      <Sense id="L492222-S1" synset="wikidata-he-L492222-S1" ili="wikidata-he-L492222-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642010">
+      <Lemma writtenForm="חבל על הזמן" partOfSpeech="interjection"/>
+      <Sense id="L642010-S1" synset="wikidata-he-L642010-S1" ili="wikidata-he-L642010-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L642010-S2" synset="wikidata-he-L642010-S2" ili="wikidata-he-L642010-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L718716">
+      <Lemma writtenForm="ו" partOfSpeech="conjunction"/>
+      <Sense id="L718716-S1" synset="wikidata-he-L718716-S1" ili="wikidata-he-L718716-S1">
+        <Definition>מילת קישור</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320375">
+      <Lemma writtenForm="גלי" partOfSpeech="root"/>
+      <Sense id="L1320375-S1" synset="wikidata-he-L1320375-S1" ili="wikidata-he-L1320375-S1">
+        <Definition>חשף, מצא, פתח</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320634">
+      <Lemma writtenForm="ברך" partOfSpeech="root"/>
+      <Sense id="L1320634-S1" synset="wikidata-he-L1320634-S1" ili="wikidata-he-L1320634-S1">
+        <Definition>תכונה טובה, הודיה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1381103">
+      <Lemma writtenForm="אחר" partOfSpeech="preposition"/>
+      <Sense id="L1381103-S1" synset="wikidata-he-L1381103-S1" ili="wikidata-he-L1381103-S1">
+        <Definition>אחרי, לאחר</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483507">
+      <Lemma writtenForm="היא" partOfSpeech="pronoun"/>
+      <Sense id="L483507-S1" synset="wikidata-he-L483507-S1" ili="l484-s1">
+        <Definition>כינוי גוף שלישי יחידה נקבה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L489654">
+      <Lemma writtenForm="תשע" partOfSpeech="numeral"/>
+      <Sense id="L489654-S1" synset="wikidata-he-L489654-S1" ili="wikidata-he-L489654-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491804">
+      <Lemma writtenForm="אחת" partOfSpeech="numeral"/>
+      <Sense id="L491804-S1" synset="wikidata-he-L491804-S1" ili="wikidata-he-L491804-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492151">
+      <Lemma writtenForm="כ״כ" partOfSpeech="conjunction"/>
+      <Sense id="L492151-S1" synset="wikidata-he-L492151-S1" ili="wikidata-he-L492151-S1">
+        <Definition>כל כך</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492182">
+      <Lemma writtenForm="יאללה" partOfSpeech="interjection"/>
+      <Sense id="L492182-S1" synset="wikidata-he-L492182-S1" ili="wikidata-he-L492182-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492193">
+      <Lemma writtenForm="תנצב״ה" partOfSpeech="interjection"/>
+      <Sense id="L492193-S1" synset="wikidata-he-L492193-S1" ili="wikidata-he-L492193-S1">
+        <Definition>נוסח בקשה יהודי על נשמות נפטרים</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492195">
+      <Lemma writtenForm="אנה" partOfSpeech="interrogative word"/>
+      <Sense id="L492195-S1" synset="wikidata-he-L492195-S1" ili="wikidata-he-L492195-S1">
+        <Definition>(Анна) שם פרטי של אישה (Anna)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492260">
+      <Lemma writtenForm="או" partOfSpeech="conjunction"/>
+      <Sense id="L492260-S1" synset="wikidata-he-L492260-S1" ili="wikidata-he-L492260-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L719306">
+      <Lemma writtenForm="ש" partOfSpeech="conjunction"/>
+      <Sense id="L719306-S1" synset="wikidata-he-L719306-S1" ili="wikidata-he-L719306-S1">
+        <Definition>אשר</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1227155">
+      <Lemma writtenForm="חלילה" partOfSpeech="interjection"/>
+      <Sense id="L1227155-S1" synset="wikidata-he-L1227155-S1" ili="wikidata-he-L1227155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319984">
+      <Lemma writtenForm="ל" partOfSpeech="preposition"/>
+      <Sense id="L1319984-S1" synset="wikidata-he-L1319984-S1" ili="wikidata-he-L1319984-S1">
+        <Definition>מציינת כיוון של פעולה – הליכה אל עבר מקום, מתן דבר למישהו וכיו״ב</Definition>
+      </Sense>
+      <Sense id="L1319984-S2" synset="wikidata-he-L1319984-S2" ili="wikidata-he-L1319984-S2">
+        <Definition>תחילית שנוספת לצורת מקור הפועל לשם יצירת שם הפועל</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320765">
+      <Lemma writtenForm="חרם" partOfSpeech="root"/>
+      <Sense id="L1320765-S1" synset="wikidata-he-L1320765-S1" ili="wikidata-he-L1320765-S1">
+        <Definition>הפרדה, הקדשה, נידוי</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320772">
+      <Lemma writtenForm="כבד" partOfSpeech="root"/>
+      <Sense id="L1320772-S1" synset="wikidata-he-L1320772-S1" ili="wikidata-he-L1320772-S1">
+        <Definition>רב־משקל, ראוי להערכה, שמן</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370749">
+      <Lemma writtenForm="חתימה טובה" partOfSpeech="interjection"/>
+      <Sense id="L1370749-S1" synset="wikidata-he-L1370749-S1" ili="wikidata-he-L1370749-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L64764">
+      <Lemma writtenForm="האם" partOfSpeech="interrogative word"/>
+      <Sense id="L64764-S1" synset="wikidata-he-L64764-S1" ili="wikidata-he-L64764-S1">
+        <Definition>מילת שאלה הפותחת שאלות כן-לא</Definition>
+        <SenseRelation relType="similar" target="wikidata-he-L692577-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491962">
+      <Lemma writtenForm="עם" partOfSpeech="preposition"/>
+      <Sense id="L491962-S1" synset="wikidata-he-L491962-S1" ili="wikidata-he-L491962-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492126">
+      <Lemma writtenForm="מעין" partOfSpeech="preposition"/>
+      <Sense id="L492126-S1" synset="wikidata-he-L492126-S1" ili="wikidata-he-L492126-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492199">
+      <Lemma writtenForm="למה" partOfSpeech="interrogative word"/>
+      <Sense id="L492199-S1" synset="wikidata-he-L492199-S1" ili="wikidata-he-L492199-S1">
+        <Definition>מדוע, בשל איזו סיבה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492263">
+      <Lemma writtenForm="אן" partOfSpeech="interrogative word"/>
+      <Sense id="L492263-S1" synset="wikidata-he-L492263-S1" ili="wikidata-he-L492263-S1">
+        <Definition>איפה</Definition>
+      </Sense>
+      <Sense id="L492263-S2" synset="wikidata-he-L492263-S2" ili="wikidata-he-L492263-S2">
+        <Definition>לאן</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320401">
+      <Lemma writtenForm="נגה" partOfSpeech="root"/>
+      <Sense id="L1320401-S1" synset="wikidata-he-L1320401-S1" ili="wikidata-he-L1320401-S1">
+        <Definition>אור, זוהר, זריחה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320629">
+      <Lemma writtenForm="ש־ל־ם" partOfSpeech="root"/>
+      <Sense id="L1320629-S1" synset="wikidata-he-L1320629-S1" ili="wikidata-he-L1320629-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1379962">
+      <Lemma writtenForm="אבל" partOfSpeech="conjunction"/>
+      <Sense id="L1379962-S1" synset="wikidata-he-L1379962-S1" ili="wikidata-he-L1379962-S1">
+        <Definition>מילת קישור מנגדת – אך, אולם</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491791">
+      <Lemma writtenForm="אבוי" partOfSpeech="interjection"/>
+      <Sense id="L491791-S1" synset="wikidata-he-L491791-S1" ili="wikidata-he-L491791-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491842">
+      <Lemma writtenForm="ארבע" partOfSpeech="numeral"/>
+      <Sense id="L491842-S1" synset="wikidata-he-L491842-S1" ili="wikidata-he-L491842-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491918">
+      <Lemma writtenForm="חמש" partOfSpeech="numeral"/>
+      <Sense id="L491918-S1" synset="wikidata-he-L491918-S1" ili="wikidata-he-L491918-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492158">
+      <Lemma writtenForm="גם" partOfSpeech="conjunction"/>
+      <Sense id="L492158-S1" synset="wikidata-he-L492158-S1" ili="wikidata-he-L492158-S1">
+        <Definition>עוד, בנוסף, אף, כמו־כן</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492273">
+      <Lemma writtenForm="שלוש" partOfSpeech="numeral"/>
+      <Sense id="L492273-S1" synset="wikidata-he-L492273-S1" ili="wikidata-he-L492273-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319817">
+      <Lemma writtenForm="בלי" partOfSpeech="preposition"/>
+      <Sense id="L1319817-S1" synset="wikidata-he-L1319817-S1" ili="l5211-s1">
+        <Definition>מילת יחס המציינת מחסור בדבר; ללא, בלא</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320636">
+      <Lemma writtenForm="חמד" partOfSpeech="root"/>
+      <Sense id="L1320636-S1" synset="wikidata-he-L1320636-S1" ili="wikidata-he-L1320636-S1">
+        <Definition>חיובי, יפה, נחשק</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320773">
+      <Lemma writtenForm="כפר" partOfSpeech="root"/>
+      <Sense id="L1320773-S1" synset="wikidata-he-L1320773-S1" ili="wikidata-he-L1320773-S1">
+        <Definition>מחילה, חיפוי, רחמים</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320774">
+      <Lemma writtenForm="כפר" partOfSpeech="root"/>
+      <Sense id="L1320774-S1" synset="wikidata-he-L1320774-S1" ili="wikidata-he-L1320774-S1">
+        <Definition>מרידה, חשיבה או פעולה שמנוגדת לסמכות כלשהי, למשל דתית או מדעית</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320775">
+      <Lemma writtenForm="כפר" partOfSpeech="root"/>
+      <Sense id="L1320775-S1" synset="wikidata-he-L1320775-S1" ili="wikidata-he-L1320775-S1">
+        <Definition>סוג יישוב, בדרך־כלל קטן, בעל אופי חקלאי ולא עירוני</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L206995">
+      <Lemma writtenForm="ההוא" partOfSpeech="pronoun"/>
+      <Sense id="L206995-S1" synset="wikidata-he-L206995-S1" ili="wikidata-he-L206995-S1">
+        <Definition>האחד שדובר עליו לא מזמן, אבל רחוק יותר מ„הזה”</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491794">
+      <Lemma writtenForm="אודות" partOfSpeech="preposition"/>
+      <Sense id="L491794-S1" synset="wikidata-he-L491794-S1" ili="wikidata-he-L491794-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491968">
+      <Lemma writtenForm="שבע" partOfSpeech="numeral"/>
+      <Sense id="L491968-S1" synset="wikidata-he-L491968-S1" ili="wikidata-he-L491968-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492275">
+      <Lemma writtenForm="שמונה" partOfSpeech="numeral"/>
+      <Sense id="L492275-S1" synset="wikidata-he-L492275-S1" ili="wikidata-he-L492275-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492277">
+      <Lemma writtenForm="שתיים" partOfSpeech="numeral"/>
+      <Sense id="L492277-S1" synset="wikidata-he-L492277-S1" ili="wikidata-he-L492277-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692577">
+      <Lemma writtenForm="ה" partOfSpeech="interrogative word"/>
+      <Sense id="L692577-S1" synset="wikidata-he-L692577-S1" ili="wikidata-he-L692577-S1">
+        <Definition>האם</Definition>
+        <SenseRelation relType="similar" target="wikidata-he-L64764-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320635">
+      <Lemma writtenForm="ברך" partOfSpeech="root"/>
+      <Sense id="L1320635-S1" synset="wikidata-he-L1320635-S1" ili="wikidata-he-L1320635-S1">
+        <Definition>הקיפול באמצע הרגל</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1323883">
+      <Lemma writtenForm="אבד" partOfSpeech="root"/>
+      <Sense id="L1323883-S1" synset="wikidata-he-L1323883-S1" ili="wikidata-he-L1323883-S1">
+        <Definition>נעלם, נמצא במקום לא ידוע</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1348294">
+      <Lemma writtenForm="את" partOfSpeech="preposition"/>
+      <Sense id="L1348294-S1" synset="wikidata-he-L1348294-S1" ili="wikidata-he-L1348294-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1381104">
+      <Lemma writtenForm="לאחר" partOfSpeech="preposition"/>
+      <Sense id="L1381104-S1" synset="wikidata-he-L1381104-S1" ili="wikidata-he-L1381104-S1">
+        <Definition>אחרי, אחר</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L212495">
+      <Lemma writtenForm="לפי" partOfSpeech="preposition"/>
+      <Sense id="L212495-S2" synset="wikidata-he-L212495-S2" ili="wikidata-he-L212495-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491836">
+      <Lemma writtenForm="אצל" partOfSpeech="preposition"/>
+      <Sense id="L491836-S1" synset="wikidata-he-L491836-S1" ili="wikidata-he-L491836-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491963">
+      <Lemma writtenForm="עשר" partOfSpeech="numeral"/>
+      <Sense id="L491963-S1" synset="wikidata-he-L491963-S1" ili="wikidata-he-L491963-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492121">
+      <Lemma writtenForm="אך" partOfSpeech="preposition"/>
+      <Sense id="L492121-S1" synset="wikidata-he-L492121-S1" ili="wikidata-he-L492121-S1">
+        <Definition>מילת קישור מנגדת – אבל, אולם</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492142">
+      <Lemma writtenForm="אני" partOfSpeech="pronoun"/>
+      <Sense id="L492142-S1" synset="wikidata-he-L492142-S1" ili="wikidata-he-L492142-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L707675">
+      <Lemma writtenForm="כאשר" partOfSpeech="conjunction"/>
+      <Sense id="L707675-S1" synset="wikidata-he-L707675-S1" ili="wikidata-he-L707675-S1">
+        <Definition>תיאור זמן שבו משהו מתקיים או מתרחש</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L718736">
+      <Lemma writtenForm="ב" partOfSpeech="preposition"/>
+      <Sense id="L718736-S1" synset="wikidata-he-L718736-S1" ili="l2987-s1">
+        <Definition>מלת יחס: בתוך, בפנים</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320633">
+      <Lemma writtenForm="ציר" partOfSpeech="root"/>
+      <Sense id="L1320633-S1" synset="wikidata-he-L1320633-S1" ili="wikidata-he-L1320633-S1">
+        <Definition>קו שמחבר חלקים מסתובבים במכונה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1459959">
+      <Lemma writtenForm="כ־פ־ף" partOfSpeech="root"/>
+      <Sense id="L1459959-S1" synset="wikidata-he-L1459959-S1" ili="wikidata-he-L1459959-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1459959-S2" synset="wikidata-he-L1459959-S2" ili="wikidata-he-L1459959-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1459959-S3" synset="wikidata-he-L1459959-S3" ili="wikidata-he-L1459959-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491805">
+      <Lemma writtenForm="אחרי" partOfSpeech="preposition"/>
+      <Sense id="L491805-S1" synset="wikidata-he-L491805-S1" ili="wikidata-he-L491805-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492094">
+      <Lemma writtenForm="זה" partOfSpeech="determiner"/>
+      <Sense id="L492094-S1" synset="wikidata-he-L492094-S1" ili="wikidata-he-L492094-S1">
+        <Definition>כינוי רמז</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492181">
+      <Lemma writtenForm="ואללה" partOfSpeech="interjection"/>
+      <Sense id="L492181-S1" synset="wikidata-he-L492181-S1" ili="wikidata-he-L492181-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492262">
+      <Lemma writtenForm="אם" partOfSpeech="conjunction"/>
+      <Sense id="L492262-S1" synset="wikidata-he-L492262-S1" ili="wikidata-he-L492262-S1">
+        <Definition>מילת קישור לפסוקיות תנאי</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319753">
+      <Lemma writtenForm="ללא" partOfSpeech="preposition"/>
+      <Sense id="L1319753-S1" synset="wikidata-he-L1319753-S1" ili="l5211-s1">
+        <Definition>מילת יחס המציינת מחסור בדבר; בלי, בלא</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319818">
+      <Lemma writtenForm="בלא" partOfSpeech="preposition"/>
+      <Sense id="L1319818-S1" synset="wikidata-he-L1319818-S1" ili="l5211-s1">
+        <Definition>מילת יחס המציינת מחסור בדבר; ללא, בלי</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370745">
+      <Lemma writtenForm="גמר חתימה טובה" partOfSpeech="interjection"/>
+      <Sense id="L1370745-S1" synset="wikidata-he-L1370745-S1" ili="wikidata-he-L1370745-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483496">
+      <Lemma writtenForm="הוא" partOfSpeech="pronoun"/>
+      <Sense id="L483496-S1" synset="wikidata-he-L483496-S1" ili="l485-s1">
+        <Definition>כינוי גוף שלישי יחיד זכר</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L491554">
+      <Lemma writtenForm="זצ״ל" partOfSpeech="interjection"/>
+      <Sense id="L491554-S1" synset="wikidata-he-L491554-S1" ili="wikidata-he-L491554-S1">
+        <Definition>זכר צדיק לברכה</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L492278">
+      <Lemma writtenForm="שש" partOfSpeech="numeral"/>
+      <Sense id="L492278-S1" synset="wikidata-he-L492278-S1" ili="wikidata-he-L492278-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L707946">
+      <Lemma writtenForm="כינויי הקניין" partOfSpeech="enclitic"/>
+      <Sense id="L707946-S1" synset="wikidata-he-L707946-S1" ili="wikidata-he-L707946-S1">
+        <Definition>כינויי הקניין הנצמדים לשם עצם</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1320597">
+      <Lemma writtenForm="כתב" partOfSpeech="root"/>
+      <Sense id="L1320597-S1" synset="wikidata-he-L1320597-S1" ili="wikidata-he-L1320597-S1">
+        <Definition>רישום, עשיית אותיות</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1375371">
+      <Lemma writtenForm="אינשאללה" partOfSpeech="interjection"/>
+      <Sense id="L1375371-S1" synset="wikidata-he-L1375371-S1" ili="wikidata-he-L1375371-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1467143">
+      <Lemma writtenForm="ח־ב־ר" partOfSpeech="root"/>
+      <Sense id="L1467143-S1" synset="wikidata-he-L1467143-S1" ili="wikidata-he-L1467143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-he-L7396-S1" ili="wikidata-he-L7396-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L483531-S1" ili="l2260-s1">
+      <Definition>מעל, גבוה יותר מדבר אחר</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L483531-S2" ili="l2459-s1">
+      <Definition>בעניין של דבר כלשהו, בנוגע לדבר כלשהו</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492156-S1" ili="wikidata-he-L492156-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492222-S1" ili="wikidata-he-L492222-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L642010-S1" ili="wikidata-he-L642010-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L642010-S2" ili="wikidata-he-L642010-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L718716-S1" ili="wikidata-he-L718716-S1">
+      <Definition>מילת קישור</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320375-S1" ili="wikidata-he-L1320375-S1">
+      <Definition>חשף, מצא, פתח</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320634-S1" ili="wikidata-he-L1320634-S1">
+      <Definition>תכונה טובה, הודיה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1381103-S1" ili="wikidata-he-L1381103-S1">
+      <Definition>אחרי, לאחר</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L483507-S1" ili="l484-s1">
+      <Definition>כינוי גוף שלישי יחידה נקבה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L489654-S1" ili="wikidata-he-L489654-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491804-S1" ili="wikidata-he-L491804-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492151-S1" ili="wikidata-he-L492151-S1">
+      <Definition>כל כך</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492182-S1" ili="wikidata-he-L492182-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492193-S1" ili="wikidata-he-L492193-S1">
+      <Definition>נוסח בקשה יהודי על נשמות נפטרים</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492195-S1" ili="wikidata-he-L492195-S1">
+      <Definition>(Анна) שם פרטי של אישה (Anna)</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492260-S1" ili="wikidata-he-L492260-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L719306-S1" ili="wikidata-he-L719306-S1">
+      <Definition>אשר</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1227155-S1" ili="wikidata-he-L1227155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1319984-S1" ili="wikidata-he-L1319984-S1">
+      <Definition>מציינת כיוון של פעולה – הליכה אל עבר מקום, מתן דבר למישהו וכיו״ב</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1319984-S2" ili="wikidata-he-L1319984-S2">
+      <Definition>תחילית שנוספת לצורת מקור הפועל לשם יצירת שם הפועל</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320765-S1" ili="wikidata-he-L1320765-S1">
+      <Definition>הפרדה, הקדשה, נידוי</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320772-S1" ili="wikidata-he-L1320772-S1">
+      <Definition>רב־משקל, ראוי להערכה, שמן</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1370749-S1" ili="wikidata-he-L1370749-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L64764-S1" ili="wikidata-he-L64764-S1">
+      <Definition>מילת שאלה הפותחת שאלות כן-לא</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491962-S1" ili="wikidata-he-L491962-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492126-S1" ili="wikidata-he-L492126-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492199-S1" ili="wikidata-he-L492199-S1">
+      <Definition>מדוע, בשל איזו סיבה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492263-S1" ili="wikidata-he-L492263-S1">
+      <Definition>איפה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492263-S2" ili="wikidata-he-L492263-S2">
+      <Definition>לאן</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320401-S1" ili="wikidata-he-L1320401-S1">
+      <Definition>אור, זוהר, זריחה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320629-S1" ili="wikidata-he-L1320629-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1379962-S1" ili="wikidata-he-L1379962-S1">
+      <Definition>מילת קישור מנגדת – אך, אולם</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491791-S1" ili="wikidata-he-L491791-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491842-S1" ili="wikidata-he-L491842-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491918-S1" ili="wikidata-he-L491918-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492158-S1" ili="wikidata-he-L492158-S1">
+      <Definition>עוד, בנוסף, אף, כמו־כן</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492273-S1" ili="wikidata-he-L492273-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1319817-S1" ili="l5211-s1">
+      <Definition>מילת יחס המציינת מחסור בדבר; ללא, בלא</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320636-S1" ili="wikidata-he-L1320636-S1">
+      <Definition>חיובי, יפה, נחשק</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320773-S1" ili="wikidata-he-L1320773-S1">
+      <Definition>מחילה, חיפוי, רחמים</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320774-S1" ili="wikidata-he-L1320774-S1">
+      <Definition>מרידה, חשיבה או פעולה שמנוגדת לסמכות כלשהי, למשל דתית או מדעית</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320775-S1" ili="wikidata-he-L1320775-S1">
+      <Definition>סוג יישוב, בדרך־כלל קטן, בעל אופי חקלאי ולא עירוני</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L206995-S1" ili="wikidata-he-L206995-S1">
+      <Definition>האחד שדובר עליו לא מזמן, אבל רחוק יותר מ„הזה”</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491794-S1" ili="wikidata-he-L491794-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491968-S1" ili="wikidata-he-L491968-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492275-S1" ili="wikidata-he-L492275-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492277-S1" ili="wikidata-he-L492277-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L692577-S1" ili="wikidata-he-L692577-S1">
+      <Definition>האם</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320635-S1" ili="wikidata-he-L1320635-S1">
+      <Definition>הקיפול באמצע הרגל</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1323883-S1" ili="wikidata-he-L1323883-S1">
+      <Definition>נעלם, נמצא במקום לא ידוע</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1348294-S1" ili="wikidata-he-L1348294-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1381104-S1" ili="wikidata-he-L1381104-S1">
+      <Definition>אחרי, אחר</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L212495-S2" ili="wikidata-he-L212495-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491836-S1" ili="wikidata-he-L491836-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491963-S1" ili="wikidata-he-L491963-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492121-S1" ili="wikidata-he-L492121-S1">
+      <Definition>מילת קישור מנגדת – אבל, אולם</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492142-S1" ili="wikidata-he-L492142-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L707675-S1" ili="wikidata-he-L707675-S1">
+      <Definition>תיאור זמן שבו משהו מתקיים או מתרחש</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L718736-S1" ili="l2987-s1">
+      <Definition>מלת יחס: בתוך, בפנים</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320633-S1" ili="wikidata-he-L1320633-S1">
+      <Definition>קו שמחבר חלקים מסתובבים במכונה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1459959-S1" ili="wikidata-he-L1459959-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1459959-S2" ili="wikidata-he-L1459959-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1459959-S3" ili="wikidata-he-L1459959-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491805-S1" ili="wikidata-he-L491805-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492094-S1" ili="wikidata-he-L492094-S1">
+      <Definition>כינוי רמז</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492181-S1" ili="wikidata-he-L492181-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492262-S1" ili="wikidata-he-L492262-S1">
+      <Definition>מילת קישור לפסוקיות תנאי</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1319753-S1" ili="l5211-s1">
+      <Definition>מילת יחס המציינת מחסור בדבר; בלי, בלא</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1319818-S1" ili="l5211-s1">
+      <Definition>מילת יחס המציינת מחסור בדבר; ללא, בלי</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1370745-S1" ili="wikidata-he-L1370745-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L483496-S1" ili="l485-s1">
+      <Definition>כינוי גוף שלישי יחיד זכר</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L491554-S1" ili="wikidata-he-L491554-S1">
+      <Definition>זכר צדיק לברכה</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L492278-S1" ili="wikidata-he-L492278-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L707946-S1" ili="wikidata-he-L707946-S1">
+      <Definition>כינויי הקניין הנצמדים לשם עצם</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1320597-S1" ili="wikidata-he-L1320597-S1">
+      <Definition>רישום, עשיית אותיות</Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1375371-S1" ili="wikidata-he-L1375371-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-he-L1467143-S1" ili="wikidata-he-L1467143-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

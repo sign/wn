@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-lv"
+                    label="Wikidata LV Lexemes Extension"
+                    language="lv"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-lv" version="1.4"/>
+    <LexicalEntry id="L465212">
+      <Lemma writtenForm="un" partOfSpeech="conjunction"/>
+      <Sense id="L465212-S1" synset="wikidata-lv-L465212-S1" ili="l1385-s1">
+        <Definition>sasaista vārdus un teikuma daļas</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684431">
+      <Lemma writtenForm="viens" partOfSpeech="numeral"/>
+      <Sense id="L684431-S1" synset="wikidata-lv-L684431-S1" ili="wikidata-lv-L684431-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138157">
+      <Lemma writtenForm="ā" partOfSpeech="interjection"/>
+      <Sense id="L1138157-S1" synset="wikidata-lv-L1138157-S1" ili="wikidata-lv-L1138157-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1138157-S2" synset="wikidata-lv-L1138157-S2" ili="wikidata-lv-L1138157-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941799">
+      <Lemma writtenForm="es" partOfSpeech="personal pronoun"/>
+      <Sense id="L941799-S1" synset="wikidata-lv-L941799-S1" ili="wikidata-lv-L941799-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138159">
+      <Lemma writtenForm="abi" partOfSpeech="pronoun"/>
+      <Sense id="L1138159-S1" synset="wikidata-lv-L1138159-S1" ili="wikidata-lv-L1138159-S1">
+        <Definition>viens un otrs</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1138161">
+      <Lemma writtenForm="abas" partOfSpeech="pronoun"/>
+      <Sense id="L1138161-S1" synset="wikidata-lv-L1138161-S1" ili="wikidata-lv-L1138161-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L465213">
+      <Lemma writtenForm="bet" partOfSpeech="conjunction"/>
+      <Sense id="L465213-S1" synset="wikidata-lv-L465213-S1" ili="wikidata-lv-L465213-S1">
+        <Definition>saista vienlīdzīgus teikuma locekļus, norādot uz nozīmju pretstatu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-lv-L465212-S1" ili="l1385-s1">
+      <Definition>sasaista vārdus un teikuma daļas</Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L684431-S1" ili="wikidata-lv-L684431-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L1138157-S1" ili="wikidata-lv-L1138157-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L1138157-S2" ili="wikidata-lv-L1138157-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L941799-S1" ili="wikidata-lv-L941799-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L1138159-S1" ili="wikidata-lv-L1138159-S1">
+      <Definition>viens un otrs</Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L1138161-S1" ili="wikidata-lv-L1138161-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-lv-L465213-S1" ili="wikidata-lv-L465213-S1">
+      <Definition>saista vienlīdzīgus teikuma locekļus, norādot uz nozīmju pretstatu</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

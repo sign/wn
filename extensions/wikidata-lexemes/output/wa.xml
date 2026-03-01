@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-wa"
+                    label="Wikidata WA Lexemes Extension"
+                    language="wa"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-wa" version="1.4"/>
+    <LexicalEntry id="L941922">
+      <Lemma writtenForm="dji" partOfSpeech="personal pronoun"/>
+      <Sense id="L941922-S1" synset="wikidata-wa-L941922-S1" ili="wikidata-wa-L941922-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-wa-L941922-S1" ili="wikidata-wa-L941922-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

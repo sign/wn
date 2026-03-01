@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ca"
+                    label="Wikidata CA Lexemes Extension"
+                    language="ca"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ca" version="1.4"/>
+    <LexicalEntry id="L1548006">
+      <Lemma writtenForm="ai" partOfSpeech="interjection"/>
+      <Sense id="L1548006-S1" synset="wikidata-ca-L1548006-S1" ili="wikidata-ca-L1548006-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548010">
+      <Lemma writtenForm="al·leluia" partOfSpeech="interjection"/>
+      <Sense id="L1548010-S1" synset="wikidata-ca-L1548010-S1" ili="wikidata-ca-L1548010-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L7410">
+      <Lemma writtenForm="el" partOfSpeech="definite article"/>
+      <Sense id="L7410-S1" synset="wikidata-ca-L7410-S1" ili="wikidata-ca-L7410-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691002">
+      <Lemma writtenForm="elli" partOfSpeech="personal pronoun"/>
+      <Sense id="L691002-S1" synset="wikidata-ca-L691002-S1" ili="l371-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941903">
+      <Lemma writtenForm="jo" partOfSpeech="personal pronoun"/>
+      <Sense id="L941903-S1" synset="wikidata-ca-L941903-S1" ili="wikidata-ca-L941903-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548007">
+      <Lemma writtenForm="aire" partOfSpeech="interjection"/>
+      <Sense id="L1548007-S1" synset="wikidata-ca-L1548007-S1" ili="wikidata-ca-L1548007-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548008">
+      <Lemma writtenForm="alça" partOfSpeech="interjection"/>
+      <Sense id="L1548008-S1" synset="wikidata-ca-L1548008-S1" ili="wikidata-ca-L1548008-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548016">
+      <Lemma writtenForm="apa" partOfSpeech="interjection"/>
+      <Sense id="L1548016-S1" synset="wikidata-ca-L1548016-S1" ili="wikidata-ca-L1548016-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548019">
+      <Lemma writtenForm="atenció" partOfSpeech="interjection"/>
+      <Sense id="L1548019-S1" synset="wikidata-ca-L1548019-S1" ili="wikidata-ca-L1548019-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548030">
+      <Lemma writtenForm="bub-bub" partOfSpeech="interjection"/>
+      <Sense id="L1548030-S1" synset="wikidata-ca-L1548030-S1" ili="wikidata-ca-L1548030-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548031">
+      <Lemma writtenForm="bufa" partOfSpeech="interjection"/>
+      <Sense id="L1548031-S1" synset="wikidata-ca-L1548031-S1" ili="wikidata-ca-L1548031-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548043">
+      <Lemma writtenForm="coi" partOfSpeech="interjection"/>
+      <Sense id="L1548043-S1" synset="wikidata-ca-L1548043-S1" ili="wikidata-ca-L1548043-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548043-S2" synset="wikidata-ca-L1548043-S2" ili="wikidata-ca-L1548043-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548044">
+      <Lemma writtenForm="colló" partOfSpeech="interjection"/>
+      <Sense id="L1548044-S1" synset="wikidata-ca-L1548044-S1" ili="wikidata-ca-L1548044-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548086">
+      <Lemma writtenForm="hòstia" partOfSpeech="interjection"/>
+      <Sense id="L1548086-S1" synset="wikidata-ca-L1548086-S1" ili="wikidata-ca-L1548086-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941905">
+      <Lemma writtenForm="nosaltres" partOfSpeech="personal pronoun"/>
+      <Sense id="L941905-S1" synset="wikidata-ca-L941905-S1" ili="wikidata-ca-L941905-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548058">
+      <Lemma writtenForm="eh" partOfSpeech="interjection"/>
+      <Sense id="L1548058-S1" synset="wikidata-ca-L1548058-S1" ili="wikidata-ca-L1548058-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548059">
+      <Lemma writtenForm="ehem" partOfSpeech="interjection"/>
+      <Sense id="L1548059-S1" synset="wikidata-ca-L1548059-S1" ili="wikidata-ca-L1548059-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548081">
+      <Lemma writtenForm="hala" partOfSpeech="interjection"/>
+      <Sense id="L1548081-S1" synset="wikidata-ca-L1548081-S1" ili="wikidata-ca-L1548081-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548081-S2" synset="wikidata-ca-L1548081-S2" ili="wikidata-ca-L1548081-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548088">
+      <Lemma writtenForm="hurra" partOfSpeech="interjection"/>
+      <Sense id="L1548088-S1" synset="wikidata-ca-L1548088-S1" ili="wikidata-ca-L1548088-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548089">
+      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Sense id="L1548089-S1" synset="wikidata-ca-L1548089-S1" ili="wikidata-ca-L1548089-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691445">
+      <Lemma writtenForm="ell" partOfSpeech="personal pronoun"/>
+      <Sense id="L691445-S1" synset="wikidata-ca-L691445-S1" ili="wikidata-ca-L691445-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548017">
+      <Lemma writtenForm="arri" partOfSpeech="interjection"/>
+      <Sense id="L1548017-S1" synset="wikidata-ca-L1548017-S1" ili="wikidata-ca-L1548017-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548035">
+      <Lemma writtenForm="caram" partOfSpeech="interjection"/>
+      <Sense id="L1548035-S1" synset="wikidata-ca-L1548035-S1" ili="wikidata-ca-L1548035-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548035-S2" synset="wikidata-ca-L1548035-S2" ili="wikidata-ca-L1548035-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548036">
+      <Lemma writtenForm="carat" partOfSpeech="interjection"/>
+      <Sense id="L1548036-S1" synset="wikidata-ca-L1548036-S1" ili="wikidata-ca-L1548036-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548070">
+      <Lemma writtenForm="eureka" partOfSpeech="interjection"/>
+      <Sense id="L1548070-S1" synset="wikidata-ca-L1548070-S1" ili="wikidata-ca-L1548070-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548078">
+      <Lemma writtenForm="fotre" partOfSpeech="interjection"/>
+      <Sense id="L1548078-S1" synset="wikidata-ca-L1548078-S1" ili="wikidata-ca-L1548078-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548078-S2" synset="wikidata-ca-L1548078-S2" ili="wikidata-ca-L1548078-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548092">
+      <Lemma writtenForm="jesús" partOfSpeech="interjection"/>
+      <Sense id="L1548092-S1" synset="wikidata-ca-L1548092-S1" ili="wikidata-ca-L1548092-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548092-S2" synset="wikidata-ca-L1548092-S2" ili="wikidata-ca-L1548092-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548104">
+      <Lemma writtenForm="ning-ning" partOfSpeech="interjection"/>
+      <Sense id="L1548104-S1" synset="wikidata-ca-L1548104-S1" ili="wikidata-ca-L1548104-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548125">
+      <Lemma writtenForm="paf" partOfSpeech="interjection"/>
+      <Sense id="L1548125-S1" synset="wikidata-ca-L1548125-S1" ili="wikidata-ca-L1548125-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2777">
+      <Lemma writtenForm="i" partOfSpeech="conjunction"/>
+      <Sense id="L2777-S1" synset="wikidata-ca-L2777-S1" ili="wikidata-ca-L2777-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548084">
+      <Lemma writtenForm="home" partOfSpeech="interjection"/>
+      <Sense id="L1548084-S1" synset="wikidata-ca-L1548084-S1" ili="wikidata-ca-L1548084-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548084-S2" synset="wikidata-ca-L1548084-S2" ili="wikidata-ca-L1548084-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941904">
+      <Lemma writtenForm="tu" partOfSpeech="personal pronoun"/>
+      <Sense id="L941904-S1" synset="wikidata-ca-L941904-S1" ili="wikidata-ca-L941904-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548003">
+      <Lemma writtenForm="adeu" partOfSpeech="interjection"/>
+      <Sense id="L1548003-S1" synset="wikidata-ca-L1548003-S1" ili="wikidata-ca-L1548003-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548004">
+      <Lemma writtenForm="adeu-siau" partOfSpeech="interjection"/>
+      <Sense id="L1548004-S1" synset="wikidata-ca-L1548004-S1" ili="wikidata-ca-L1548004-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548011">
+      <Lemma writtenForm="alto" partOfSpeech="interjection"/>
+      <Sense id="L1548011-S1" synset="wikidata-ca-L1548011-S1" ili="wikidata-ca-L1548011-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548029">
+      <Lemma writtenForm="bravo" partOfSpeech="interjection"/>
+      <Sense id="L1548029-S1" synset="wikidata-ca-L1548029-S1" ili="wikidata-ca-L1548029-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548046">
+      <Lemma writtenForm="compte" partOfSpeech="interjection"/>
+      <Sense id="L1548046-S1" synset="wikidata-ca-L1548046-S1" ili="wikidata-ca-L1548046-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722959">
+      <Lemma writtenForm="el" partOfSpeech="personal pronoun"/>
+      <Sense id="L722959-S1" synset="wikidata-ca-L722959-S1" ili="wikidata-ca-L722959-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548005">
+      <Lemma writtenForm="ah" partOfSpeech="interjection"/>
+      <Sense id="L1548005-S1" synset="wikidata-ca-L1548005-S1" ili="wikidata-ca-L1548005-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548009">
+      <Lemma writtenForm="alerta" partOfSpeech="interjection"/>
+      <Sense id="L1548009-S1" synset="wikidata-ca-L1548009-S1" ili="wikidata-ca-L1548009-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548048">
+      <Lemma writtenForm="cony" partOfSpeech="interjection"/>
+      <Sense id="L1548048-S1" synset="wikidata-ca-L1548048-S1" ili="wikidata-ca-L1548048-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1548048-S2" synset="wikidata-ca-L1548048-S2" ili="wikidata-ca-L1548048-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548080">
+      <Lemma writtenForm="ha" partOfSpeech="interjection"/>
+      <Sense id="L1548080-S1" synset="wikidata-ca-L1548080-S1" ili="wikidata-ca-L1548080-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548083">
+      <Lemma writtenForm="hola" partOfSpeech="interjection"/>
+      <Sense id="L1548083-S1" synset="wikidata-ca-L1548083-S1" ili="wikidata-ca-L1548083-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548085">
+      <Lemma writtenForm="hosanna" partOfSpeech="interjection"/>
+      <Sense id="L1548085-S1" synset="wikidata-ca-L1548085-S1" ili="wikidata-ca-L1548085-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548116">
+      <Lemma writtenForm="oh" partOfSpeech="interjection"/>
+      <Sense id="L1548116-S1" synset="wikidata-ca-L1548116-S1" ili="wikidata-ca-L1548116-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548117">
+      <Lemma writtenForm="oi" partOfSpeech="interjection"/>
+      <Sense id="L1548117-S1" synset="wikidata-ca-L1548117-S1" ili="wikidata-ca-L1548117-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691419">
+      <Lemma writtenForm="ella" partOfSpeech="personal pronoun"/>
+      <Sense id="L691419-S1" synset="wikidata-ca-L691419-S1" ili="l484-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L721993">
+      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Sense id="L721993-S1" synset="wikidata-ca-L721993-S1" ili="wikidata-ca-L721993-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1548067">
+      <Lemma writtenForm="ep" partOfSpeech="interjection"/>
+      <Sense id="L1548067-S1" synset="wikidata-ca-L1548067-S1" ili="wikidata-ca-L1548067-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ca-L1548006-S1" ili="wikidata-ca-L1548006-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548010-S1" ili="wikidata-ca-L1548010-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L7410-S1" ili="wikidata-ca-L7410-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L691002-S1" ili="l371-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L941903-S1" ili="wikidata-ca-L941903-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548007-S1" ili="wikidata-ca-L1548007-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548008-S1" ili="wikidata-ca-L1548008-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548016-S1" ili="wikidata-ca-L1548016-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548019-S1" ili="wikidata-ca-L1548019-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548030-S1" ili="wikidata-ca-L1548030-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548031-S1" ili="wikidata-ca-L1548031-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548043-S1" ili="wikidata-ca-L1548043-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548043-S2" ili="wikidata-ca-L1548043-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548044-S1" ili="wikidata-ca-L1548044-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548086-S1" ili="wikidata-ca-L1548086-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L941905-S1" ili="wikidata-ca-L941905-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548058-S1" ili="wikidata-ca-L1548058-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548059-S1" ili="wikidata-ca-L1548059-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548081-S1" ili="wikidata-ca-L1548081-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548081-S2" ili="wikidata-ca-L1548081-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548088-S1" ili="wikidata-ca-L1548088-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548089-S1" ili="wikidata-ca-L1548089-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L691445-S1" ili="wikidata-ca-L691445-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548017-S1" ili="wikidata-ca-L1548017-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548035-S1" ili="wikidata-ca-L1548035-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548035-S2" ili="wikidata-ca-L1548035-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548036-S1" ili="wikidata-ca-L1548036-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548070-S1" ili="wikidata-ca-L1548070-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548078-S1" ili="wikidata-ca-L1548078-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548078-S2" ili="wikidata-ca-L1548078-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548092-S1" ili="wikidata-ca-L1548092-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548092-S2" ili="wikidata-ca-L1548092-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548104-S1" ili="wikidata-ca-L1548104-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548125-S1" ili="wikidata-ca-L1548125-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L2777-S1" ili="wikidata-ca-L2777-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548084-S1" ili="wikidata-ca-L1548084-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548084-S2" ili="wikidata-ca-L1548084-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L941904-S1" ili="wikidata-ca-L941904-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548003-S1" ili="wikidata-ca-L1548003-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548004-S1" ili="wikidata-ca-L1548004-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548011-S1" ili="wikidata-ca-L1548011-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548029-S1" ili="wikidata-ca-L1548029-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548046-S1" ili="wikidata-ca-L1548046-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L722959-S1" ili="wikidata-ca-L722959-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548005-S1" ili="wikidata-ca-L1548005-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548009-S1" ili="wikidata-ca-L1548009-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548048-S1" ili="wikidata-ca-L1548048-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548048-S2" ili="wikidata-ca-L1548048-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548080-S1" ili="wikidata-ca-L1548080-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548083-S1" ili="wikidata-ca-L1548083-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548085-S1" ili="wikidata-ca-L1548085-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548116-S1" ili="wikidata-ca-L1548116-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548117-S1" ili="wikidata-ca-L1548117-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L691419-S1" ili="l484-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L721993-S1" ili="wikidata-ca-L721993-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ca-L1548067-S1" ili="wikidata-ca-L1548067-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

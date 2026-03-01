@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-dz"
+                    label="Wikidata DZ Lexemes Extension"
+                    language="dz"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-dz" version="1.4"/>
+    <LexicalEntry id="L1327626">
+      <Lemma writtenForm="ཁྱོད་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327626-S1" synset="wikidata-dz-L1327626-S1" ili="wikidata-dz-L1327626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327628">
+      <Lemma writtenForm="མོ་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327628-S1" synset="wikidata-dz-L1327628-S1" ili="wikidata-dz-L1327628-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727363">
+      <Lemma writtenForm="གཅིག" partOfSpeech="numeral"/>
+      <Sense id="L727363-S1" synset="wikidata-dz-L727363-S1" ili="wikidata-dz-L727363-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327627">
+      <Lemma writtenForm="ཁ་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327627-S1" synset="wikidata-dz-L1327627-S1" ili="wikidata-dz-L1327627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327625">
+      <Lemma writtenForm="ང་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327625-S1" synset="wikidata-dz-L1327625-S1" ili="wikidata-dz-L1327625-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327629">
+      <Lemma writtenForm="ང་བཅས་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327629-S1" synset="wikidata-dz-L1327629-S1" ili="wikidata-dz-L1327629-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327631">
+      <Lemma writtenForm="ཁོང་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327631-S1" synset="wikidata-dz-L1327631-S1" ili="wikidata-dz-L1327631-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327630">
+      <Lemma writtenForm="ཁྱེད་" partOfSpeech="personal pronoun"/>
+      <Sense id="L1327630-S1" synset="wikidata-dz-L1327630-S1" ili="wikidata-dz-L1327630-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-dz-L1327626-S1" ili="wikidata-dz-L1327626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327628-S1" ili="wikidata-dz-L1327628-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L727363-S1" ili="wikidata-dz-L727363-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327627-S1" ili="wikidata-dz-L1327627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327625-S1" ili="wikidata-dz-L1327625-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327629-S1" ili="wikidata-dz-L1327629-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327631-S1" ili="wikidata-dz-L1327631-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-dz-L1327630-S1" ili="wikidata-dz-L1327630-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

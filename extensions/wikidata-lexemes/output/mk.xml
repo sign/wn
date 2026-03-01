@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-mk"
+                    label="Wikidata MK Lexemes Extension"
+                    language="mk"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-mk" version="1.4"/>
+    <LexicalEntry id="L713746">
+      <Lemma writtenForm="а" partOfSpeech="grammatical particle"/>
+      <Sense id="L713746-S1" synset="wikidata-mk-L713746-S1" ili="wikidata-mk-L713746-S1">
+        <Definition>На почетокот на реченица, за воведување нова мисла што директно не се надоврзува на претходно кажаното</Definition>
+      </Sense>
+      <Sense id="L713746-S2" synset="wikidata-mk-L713746-S2" ili="wikidata-mk-L713746-S2">
+        <Definition>На почеток на реторичко прашање</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L713747">
+      <Lemma writtenForm="а" partOfSpeech="conjunction"/>
+      <Sense id="L713747-S1" synset="wikidata-mk-L713747-S1" ili="wikidata-mk-L713747-S1">
+        <Definition>За поврзување зборовни состави и реченици што се содржински сопоставени.</Definition>
+      </Sense>
+      <Sense id="L713747-S2" synset="wikidata-mk-L713747-S2" ili="wikidata-mk-L713747-S2">
+        <Definition>За поврзување зборовни состави или реченици што се надоврзуваат содржински.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-mk-L713746-S1" ili="wikidata-mk-L713746-S1">
+      <Definition>На почетокот на реченица, за воведување нова мисла што директно не се надоврзува на претходно кажаното</Definition>
+    </Synset>
+    <Synset id="wikidata-mk-L713746-S2" ili="wikidata-mk-L713746-S2">
+      <Definition>На почеток на реторичко прашање</Definition>
+    </Synset>
+    <Synset id="wikidata-mk-L713747-S1" ili="wikidata-mk-L713747-S1">
+      <Definition>За поврзување зборовни состави и реченици што се содржински сопоставени.</Definition>
+    </Synset>
+    <Synset id="wikidata-mk-L713747-S2" ili="wikidata-mk-L713747-S2">
+      <Definition>За поврзување зборовни состави или реченици што се надоврзуваат содржински.</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

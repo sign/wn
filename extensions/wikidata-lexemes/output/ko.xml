@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ko"
+                    label="Wikidata KO Lexemes Extension"
+                    language="ko"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ko" version="1.4"/>
+    <LexicalEntry id="L765">
+      <Lemma writtenForm="우리" partOfSpeech="pronoun"/>
+      <Sense id="L765-S2" synset="wikidata-ko-L765-S2" ili="wikidata-ko-L765-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L406981">
+      <Lemma writtenForm="네" partOfSpeech="interjection"/>
+      <Sense id="L406981-S1" synset="wikidata-ko-L406981-S1" ili="wikidata-ko-L406981-S1">
+        <Definition>불변화사</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741731">
+      <Lemma writtenForm="나" partOfSpeech="grammatical particle"/>
+      <Sense id="L741731-S1" synset="wikidata-ko-L741731-S1" ili="wikidata-ko-L741731-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741731-S2" synset="wikidata-ko-L741731-S2" ili="wikidata-ko-L741731-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742647">
+      <Lemma writtenForm="십" partOfSpeech="numeral"/>
+      <Sense id="L742647-S1" synset="wikidata-ko-L742647-S1" ili="wikidata-ko-L742647-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747172">
+      <Lemma writtenForm="더" partOfSpeech="infix"/>
+      <Sense id="L747172-S1" synset="wikidata-ko-L747172-S1" ili="wikidata-ko-L747172-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L880764">
+      <Lemma writtenForm="새" partOfSpeech="determiner"/>
+      <Sense id="L880764-S1" synset="wikidata-ko-L880764-S1" ili="wikidata-ko-L880764-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992196">
+      <Lemma writtenForm="예순" partOfSpeech="numeral"/>
+      <Sense id="L992196-S1" synset="wikidata-ko-L992196-S1" ili="wikidata-ko-L992196-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992199">
+      <Lemma writtenForm="마흔" partOfSpeech="numeral"/>
+      <Sense id="L992199-S1" synset="wikidata-ko-L992199-S1" ili="wikidata-ko-L992199-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L992177-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013842">
+      <Lemma writtenForm="에서" partOfSpeech="grammatical particle"/>
+      <Sense id="L1013842-S1" synset="wikidata-ko-L1013842-S1" ili="wikidata-ko-L1013842-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013842-S2" synset="wikidata-ko-L1013842-S2" ili="wikidata-ko-L1013842-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013842-S3" synset="wikidata-ko-L1013842-S3" ili="wikidata-ko-L1013842-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013842-S4" synset="wikidata-ko-L1013842-S4" ili="wikidata-ko-L1013842-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013842-S5" synset="wikidata-ko-L1013842-S5" ili="wikidata-ko-L1013842-S5">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1478084">
+      <Lemma writtenForm="산업적" partOfSpeech="determiner"/>
+      <Sense id="L1478084-S1" synset="wikidata-ko-L1478084-S1" ili="wikidata-ko-L1478084-S1">
+        <Definition>산업에 관한</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1478095">
+      <Lemma writtenForm="험난" partOfSpeech="root"/>
+      <Sense id="L1478095-S1" synset="wikidata-ko-L1478095-S1" ili="wikidata-ko-L1478095-S1">
+        <Definition>(&apos;험난하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1478565">
+      <Lemma writtenForm="다감" partOfSpeech="root"/>
+      <Sense id="L1478565-S1" synset="wikidata-ko-L1478565-S1" ili="wikidata-ko-L1478565-S1">
+        <Definition>(&apos;다감하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482281">
+      <Lemma writtenForm="솔직" partOfSpeech="root"/>
+      <Sense id="L1482281-S1" synset="wikidata-ko-L1482281-S1" ili="wikidata-ko-L1482281-S1">
+        <Definition>(&apos;솔직하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482745">
+      <Lemma writtenForm="흔쾌" partOfSpeech="root"/>
+      <Sense id="L1482745-S1" synset="wikidata-ko-L1482745-S1" ili="wikidata-ko-L1482745-S1">
+        <Definition>(&apos;흔쾌하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490383">
+      <Lemma writtenForm="각렴" partOfSpeech="root"/>
+      <Sense id="L1490383-S1" synset="wikidata-ko-L1490383-S1" ili="wikidata-ko-L1490383-S1">
+        <Definition>(&apos;각렴하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490667">
+      <Lemma writtenForm="덕후" partOfSpeech="root"/>
+      <Sense id="L1490667-S1" synset="wikidata-ko-L1490667-S1" ili="wikidata-ko-L1490667-S1">
+        <Definition>(&apos;덕후하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494906">
+      <Lemma writtenForm="극진" partOfSpeech="root"/>
+      <Sense id="L1494906-S1" synset="wikidata-ko-L1494906-S1" ili="wikidata-ko-L1494906-S1">
+        <Definition>&apos;극진하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494926">
+      <Lemma writtenForm="극친" partOfSpeech="root"/>
+      <Sense id="L1494926-S1" synset="wikidata-ko-L1494926-S1" ili="wikidata-ko-L1494926-S1">
+        <Definition>&apos;극친하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L404581">
+      <Lemma writtenForm="마리" partOfSpeech="classifier"/>
+      <Sense id="L404581-S1" synset="wikidata-ko-L404581-S1" ili="wikidata-ko-L404581-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742651">
+      <Lemma writtenForm="조" partOfSpeech="numeral"/>
+      <Sense id="L742651-S1" synset="wikidata-ko-L742651-S1" ili="wikidata-ko-L742651-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745330">
+      <Lemma writtenForm="저" partOfSpeech="pronoun"/>
+      <Sense id="L745330-S1" synset="wikidata-ko-L745330-S1" ili="wikidata-ko-L745330-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745334">
+      <Lemma writtenForm="저" partOfSpeech="pronoun"/>
+      <Sense id="L745334-S1" synset="wikidata-ko-L745334-S1" ili="wikidata-ko-L745334-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748823">
+      <Lemma writtenForm="오" partOfSpeech="infix"/>
+      <Sense id="L748823-S1" synset="wikidata-ko-L748823-S1" ili="wikidata-ko-L748823-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992178">
+      <Lemma writtenForm="삼십" partOfSpeech="numeral"/>
+      <Sense id="L992178-S1" synset="wikidata-ko-L992178-S1" ili="wikidata-ko-L992178-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992183">
+      <Lemma writtenForm="셋" partOfSpeech="numeral"/>
+      <Sense id="L992183-S1" synset="wikidata-ko-L992183-S1" ili="wikidata-ko-L992183-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992195">
+      <Lemma writtenForm="쉰" partOfSpeech="numeral"/>
+      <Sense id="L992195-S1" synset="wikidata-ko-L992195-S1" ili="wikidata-ko-L992195-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479992">
+      <Lemma writtenForm="괴악적" partOfSpeech="determiner"/>
+      <Sense id="L1479992-S1" synset="wikidata-ko-L1479992-S1" ili="wikidata-ko-L1479992-S1">
+        <Definition>이상야릇하고 흉악한</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482297">
+      <Lemma writtenForm="교교" partOfSpeech="root"/>
+      <Sense id="L1482297-S1" synset="wikidata-ko-L1482297-S1" ili="wikidata-ko-L1482297-S1">
+        <Definition>(&apos;교교하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1492141">
+      <Lemma writtenForm="울창" partOfSpeech="root"/>
+      <Sense id="L1492141-S1" synset="wikidata-ko-L1492141-S1" ili="wikidata-ko-L1492141-S1">
+        <Definition>(&apos;울창하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L131">
+      <Lemma writtenForm="이" partOfSpeech="determiner"/>
+      <Sense id="L131-S2" synset="wikidata-ko-L131-S2" ili="wikidata-ko-L131-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L131-S3" synset="wikidata-ko-L131-S3" ili="wikidata-ko-L131-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L743798">
+      <Lemma writtenForm="인간적" partOfSpeech="determiner"/>
+      <Sense id="L743798-S1" synset="wikidata-ko-L743798-S1" ili="wikidata-ko-L743798-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748866">
+      <Lemma writtenForm="가다" partOfSpeech="auxiliary verb"/>
+      <Sense id="L748866-S1" synset="wikidata-ko-L748866-S1" ili="wikidata-ko-L748866-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992184">
+      <Lemma writtenForm="넷" partOfSpeech="numeral"/>
+      <Sense id="L992184-S1" synset="wikidata-ko-L992184-S1" ili="wikidata-ko-L992184-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012187">
+      <Lemma writtenForm="버리다" partOfSpeech="auxiliary verb"/>
+      <Sense id="L1012187-S1" synset="wikidata-ko-L1012187-S1" ili="wikidata-ko-L1012187-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1474687">
+      <Lemma writtenForm="비습" partOfSpeech="root"/>
+      <Sense id="L1474687-S1" synset="wikidata-ko-L1474687-S1" ili="wikidata-ko-L1474687-S1">
+        <Definition>(&apos;비습하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1477683">
+      <Lemma writtenForm="감명적" partOfSpeech="determiner"/>
+      <Sense id="L1477683-S1" synset="wikidata-ko-L1477683-S1" ili="wikidata-ko-L1477683-S1">
+        <Definition>감격하여 마음에 깊이 새겨지는</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479987">
+      <Lemma writtenForm="괴악" partOfSpeech="root"/>
+      <Sense id="L1479987-S1" synset="wikidata-ko-L1479987-S1" ili="wikidata-ko-L1479987-S1">
+        <Definition>(&apos;괴악하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494930">
+      <Lemma writtenForm="기민" partOfSpeech="root"/>
+      <Sense id="L1494930-S1" synset="wikidata-ko-L1494930-S1" ili="wikidata-ko-L1494930-S1">
+        <Definition>&apos;기민하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L246">
+      <Lemma writtenForm="나" partOfSpeech="pronoun"/>
+      <Sense id="L246-S1" synset="wikidata-ko-L246-S1" ili="wikidata-ko-L246-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L254">
+      <Lemma writtenForm="그" partOfSpeech="determiner"/>
+      <Sense id="L254-S1" synset="wikidata-ko-L254-S1" ili="wikidata-ko-L254-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L254-S2" synset="wikidata-ko-L254-S2" ili="wikidata-ko-L254-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L701012">
+      <Lemma writtenForm="하나" partOfSpeech="numeral"/>
+      <Sense id="L701012-S1" synset="wikidata-ko-L701012-S1" ili="wikidata-ko-L701012-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742574">
+      <Lemma writtenForm="일" partOfSpeech="numeral"/>
+      <Sense id="L742574-S1" synset="wikidata-ko-L742574-S1" ili="wikidata-ko-L742574-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742821">
+      <Lemma writtenForm="었" partOfSpeech="infix"/>
+      <Sense id="L742821-S1" synset="wikidata-ko-L742821-S1" ili="wikidata-ko-L742821-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L742821-S2" synset="wikidata-ko-L742821-S2" ili="wikidata-ko-L742821-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742826">
+      <Lemma writtenForm="었었" partOfSpeech="infix"/>
+      <Sense id="L742826-S1" synset="wikidata-ko-L742826-S1" ili="wikidata-ko-L742826-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745344">
+      <Lemma writtenForm="이" partOfSpeech="pronoun"/>
+      <Sense id="L745344-S1" synset="wikidata-ko-L745344-S1" ili="wikidata-ko-L745344-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L745344-S2" synset="wikidata-ko-L745344-S2" ili="wikidata-ko-L745344-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745354">
+      <Lemma writtenForm="자네" partOfSpeech="pronoun"/>
+      <Sense id="L745354-S1" synset="wikidata-ko-L745354-S1" ili="wikidata-ko-L745354-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747234">
+      <Lemma writtenForm="안녕" partOfSpeech="interjection"/>
+      <Sense id="L747234-S1" synset="wikidata-ko-L747234-S1" ili="wikidata-ko-L747234-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992176">
+      <Lemma writtenForm="구십" partOfSpeech="numeral"/>
+      <Sense id="L992176-S1" synset="wikidata-ko-L992176-S1" ili="wikidata-ko-L992176-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992177">
+      <Lemma writtenForm="사십" partOfSpeech="numeral"/>
+      <Sense id="L992177-S1" synset="wikidata-ko-L992177-S1" ili="wikidata-ko-L992177-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L992199-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992190">
+      <Lemma writtenForm="아흔" partOfSpeech="numeral"/>
+      <Sense id="L992190-S1" synset="wikidata-ko-L992190-S1" ili="wikidata-ko-L992190-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992191">
+      <Lemma writtenForm="열" partOfSpeech="numeral"/>
+      <Sense id="L992191-S1" synset="wikidata-ko-L992191-S1" ili="wikidata-ko-L992191-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992201">
+      <Lemma writtenForm="육십" partOfSpeech="numeral"/>
+      <Sense id="L992201-S1" synset="wikidata-ko-L992201-S1" ili="wikidata-ko-L992201-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1474688">
+      <Lemma writtenForm="비습" partOfSpeech="root"/>
+      <Sense id="L1474688-S1" synset="wikidata-ko-L1474688-S1" ili="wikidata-ko-L1474688-S1">
+        <Definition>(&apos;비습하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1477134">
+      <Lemma writtenForm="위허" partOfSpeech="root"/>
+      <Sense id="L1477134-S1" synset="wikidata-ko-L1477134-S1" ili="wikidata-ko-L1477134-S1">
+        <Definition>(&apos;위허하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479868">
+      <Lemma writtenForm="투철" partOfSpeech="root"/>
+      <Sense id="L1479868-S1" synset="wikidata-ko-L1479868-S1" ili="wikidata-ko-L1479868-S1">
+        <Definition>(&apos;투철하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479871">
+      <Lemma writtenForm="가괴" partOfSpeech="root"/>
+      <Sense id="L1479871-S1" synset="wikidata-ko-L1479871-S1" ili="wikidata-ko-L1479871-S1">
+        <Definition>(&apos;가괴하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479874">
+      <Lemma writtenForm="과분" partOfSpeech="root"/>
+      <Sense id="L1479874-S1" synset="wikidata-ko-L1479874-S1" ili="wikidata-ko-L1479874-S1">
+        <Definition>(&apos;과분하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482284">
+      <Lemma writtenForm="흥미진진" partOfSpeech="root"/>
+      <Sense id="L1482284-S1" synset="wikidata-ko-L1482284-S1" ili="wikidata-ko-L1482284-S1">
+        <Definition>(&apos;흥미진진하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482290">
+      <Lemma writtenForm="강퍅" partOfSpeech="root"/>
+      <Sense id="L1482290-S1" synset="wikidata-ko-L1482290-S1" ili="wikidata-ko-L1482290-S1">
+        <Definition>(&apos;강퍅하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482749">
+      <Lemma writtenForm="흉흉" partOfSpeech="root"/>
+      <Sense id="L1482749-S1" synset="wikidata-ko-L1482749-S1" ili="wikidata-ko-L1482749-S1">
+        <Definition>(&apos;흉흉하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482752">
+      <Lemma writtenForm="요긴" partOfSpeech="root"/>
+      <Sense id="L1482752-S1" synset="wikidata-ko-L1482752-S1" ili="wikidata-ko-L1482752-S1">
+        <Definition>(&apos;요긴하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L49">
+      <Lemma writtenForm="고전적" partOfSpeech="determiner"/>
+      <Sense id="L49-S1" synset="wikidata-ko-L49-S1" ili="wikidata-ko-L49-S1">
+        <Definition>옛날의 의식이나 법식을 따르는, 또는 그런 것</Definition>
+      </Sense>
+      <Sense id="L49-S2" synset="wikidata-ko-L49-S2" ili="wikidata-ko-L49-S2">
+        <Definition>고전이 될 만한 내용과 의의를 가지는, 또는 그런 것</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L64">
+      <Lemma writtenForm="게" partOfSpeech="postposition"/>
+      <Sense id="L64-S1" synset="wikidata-ko-L64-S1" ili="wikidata-ko-L64-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L86">
+      <Lemma writtenForm="가만" partOfSpeech="interjection"/>
+      <Sense id="L86-S1" synset="wikidata-ko-L86-S1" ili="wikidata-ko-L86-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L406980">
+      <Lemma writtenForm="아니요" partOfSpeech="interjection"/>
+      <Sense id="L406980-S1" synset="wikidata-ko-L406980-S1" ili="wikidata-ko-L406980-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740754">
+      <Lemma writtenForm="의" partOfSpeech="grammatical particle"/>
+      <Sense id="L740754-S1" synset="wikidata-ko-L740754-S1" ili="wikidata-ko-L740754-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742358">
+      <Lemma writtenForm="이요" partOfSpeech="grammatical particle"/>
+      <Sense id="L742358-S1" synset="wikidata-ko-L742358-S1" ili="wikidata-ko-L742358-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742641">
+      <Lemma writtenForm="육" partOfSpeech="numeral"/>
+      <Sense id="L742641-S1" synset="wikidata-ko-L742641-S1" ili="wikidata-ko-L742641-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742649">
+      <Lemma writtenForm="만" partOfSpeech="numeral"/>
+      <Sense id="L742649-S1" synset="wikidata-ko-L742649-S1" ili="wikidata-ko-L742649-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L743823">
+      <Lemma writtenForm="에" partOfSpeech="grammatical particle"/>
+      <Sense id="L743823-S1" synset="wikidata-ko-L743823-S1" ili="wikidata-ko-L743823-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S2" synset="wikidata-ko-L743823-S2" ili="wikidata-ko-L743823-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S3" synset="wikidata-ko-L743823-S3" ili="wikidata-ko-L743823-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S4" synset="wikidata-ko-L743823-S4" ili="wikidata-ko-L743823-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S5" synset="wikidata-ko-L743823-S5" ili="wikidata-ko-L743823-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S6" synset="wikidata-ko-L743823-S6" ili="wikidata-ko-L743823-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L743823-S7" synset="wikidata-ko-L743823-S7" ili="wikidata-ko-L743823-S7">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745369">
+      <Lemma writtenForm="저희" partOfSpeech="pronoun"/>
+      <Sense id="L745369-S1" synset="wikidata-ko-L745369-S1" ili="wikidata-ko-L745369-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747175">
+      <Lemma writtenForm="리" partOfSpeech="infix"/>
+      <Sense id="L747175-S1" synset="wikidata-ko-L747175-S1" ili="wikidata-ko-L747175-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L747175-S2" synset="wikidata-ko-L747175-S2" ili="wikidata-ko-L747175-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747178">
+      <Lemma writtenForm="어" partOfSpeech="affix"/>
+      <Sense id="L747178-S1" synset="wikidata-ko-L747178-S1" ili="wikidata-ko-L747178-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L747178-S2" synset="wikidata-ko-L747178-S2" ili="wikidata-ko-L747178-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L747178-S3" synset="wikidata-ko-L747178-S3" ili="wikidata-ko-L747178-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992182">
+      <Lemma writtenForm="둘" partOfSpeech="numeral"/>
+      <Sense id="L992182-S1" synset="wikidata-ko-L992182-S1" ili="wikidata-ko-L992182-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992187">
+      <Lemma writtenForm="일곱" partOfSpeech="numeral"/>
+      <Sense id="L992187-S1" synset="wikidata-ko-L992187-S1" ili="wikidata-ko-L992187-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992188">
+      <Lemma writtenForm="여덟" partOfSpeech="numeral"/>
+      <Sense id="L992188-S1" synset="wikidata-ko-L992188-S1" ili="wikidata-ko-L992188-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013835">
+      <Lemma writtenForm="에다" partOfSpeech="grammatical particle"/>
+      <Sense id="L1013835-S1" synset="wikidata-ko-L1013835-S1" ili="wikidata-ko-L1013835-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013839-S1"/>
+      </Sense>
+      <Sense id="L1013835-S2" synset="wikidata-ko-L1013835-S2" ili="wikidata-ko-L1013835-S2">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013839-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327869">
+      <Lemma writtenForm="명" partOfSpeech="classifier"/>
+      <Sense id="L1327869-S1" synset="wikidata-ko-L1327869-S1" ili="wikidata-ko-L1327869-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473585">
+      <Lemma writtenForm="망" partOfSpeech="root"/>
+      <Sense id="L1473585-S1" synset="wikidata-ko-L1473585-S1" ili="wikidata-ko-L1473585-S1">
+        <Definition>(&apos;망하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473774">
+      <Lemma writtenForm="기절" partOfSpeech="root"/>
+      <Sense id="L1473774-S1" synset="wikidata-ko-L1473774-S1" ili="wikidata-ko-L1473774-S1">
+        <Definition>(&apos;기절하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479878">
+      <Lemma writtenForm="광범" partOfSpeech="root"/>
+      <Sense id="L1479878-S2" synset="wikidata-ko-L1479878-S2" ili="wikidata-ko-L1479878-S2">
+        <Definition>(&apos;광범하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490398">
+      <Lemma writtenForm="가랄" partOfSpeech="root"/>
+      <Sense id="L1490398-S1" synset="wikidata-ko-L1490398-S1" ili="wikidata-ko-L1490398-S1">
+        <Definition>(&apos;가랄하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494560">
+      <Lemma writtenForm="군졸" partOfSpeech="root"/>
+      <Sense id="L1494560-S1" synset="wikidata-ko-L1494560-S1" ili="wikidata-ko-L1494560-S1">
+        <Definition>&apos;군졸하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494958">
+      <Lemma writtenForm="굉렬" partOfSpeech="root"/>
+      <Sense id="L1494958-S1" synset="wikidata-ko-L1494958-S1" ili="wikidata-ko-L1494958-S1">
+        <Definition>&apos;굉렬하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740747">
+      <Lemma writtenForm="을" partOfSpeech="grammatical particle"/>
+      <Sense id="L740747-S1" synset="wikidata-ko-L740747-S1" ili="wikidata-ko-L740747-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L740747-S2" synset="wikidata-ko-L740747-S2" ili="wikidata-ko-L740747-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742643">
+      <Lemma writtenForm="칠" partOfSpeech="numeral"/>
+      <Sense id="L742643-S1" synset="wikidata-ko-L742643-S1" ili="wikidata-ko-L742643-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742820">
+      <Lemma writtenForm="겠" partOfSpeech="infix"/>
+      <Sense id="L742820-S1" synset="wikidata-ko-L742820-S1" ili="wikidata-ko-L742820-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745345">
+      <Lemma writtenForm="그" partOfSpeech="pronoun"/>
+      <Sense id="L745345-S1" synset="wikidata-ko-L745345-S1" ili="wikidata-ko-L745345-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L745345-S2" synset="wikidata-ko-L745345-S2" ili="wikidata-ko-L745345-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L748850">
+      <Lemma writtenForm="사오" partOfSpeech="infix"/>
+      <Sense id="L748850-S1" synset="wikidata-ko-L748850-S1" ili="wikidata-ko-L748850-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992181">
+      <Lemma writtenForm="첫째" partOfSpeech="numeral"/>
+      <Sense id="L992181-S1" synset="wikidata-ko-L992181-S1" ili="wikidata-ko-L992181-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992185">
+      <Lemma writtenForm="다섯" partOfSpeech="numeral"/>
+      <Sense id="L992185-S1" synset="wikidata-ko-L992185-S1" ili="wikidata-ko-L992185-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992197">
+      <Lemma writtenForm="일흔" partOfSpeech="numeral"/>
+      <Sense id="L992197-S1" synset="wikidata-ko-L992197-S1" ili="wikidata-ko-L992197-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992202">
+      <Lemma writtenForm="이십" partOfSpeech="numeral"/>
+      <Sense id="L992202-S1" synset="wikidata-ko-L992202-S1" ili="wikidata-ko-L992202-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L994868">
+      <Lemma writtenForm="가열" partOfSpeech="root"/>
+      <Sense id="L994868-S1" synset="wikidata-ko-L994868-S1" ili="wikidata-ko-L994868-S1">
+        <Definition>(&apos;가열하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1473158">
+      <Lemma writtenForm="수" partOfSpeech="root"/>
+      <Sense id="L1473158-S1" synset="wikidata-ko-L1473158-S1" ili="wikidata-ko-L1473158-S1">
+        <Definition>(나무의 의미를 더하는 한자어 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482296">
+      <Lemma writtenForm="교교" partOfSpeech="root"/>
+      <Sense id="L1482296-S1" synset="wikidata-ko-L1482296-S1" ili="wikidata-ko-L1482296-S1">
+        <Definition>(&apos;교교하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482681">
+      <Lemma writtenForm="긴요" partOfSpeech="root"/>
+      <Sense id="L1482681-S1" synset="wikidata-ko-L1482681-S1" ili="wikidata-ko-L1482681-S1">
+        <Definition>(&apos;긴요하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490369">
+      <Lemma writtenForm="경쾌" partOfSpeech="root"/>
+      <Sense id="L1490369-S1" synset="wikidata-ko-L1490369-S1" ili="wikidata-ko-L1490369-S1">
+        <Definition>(&apos;경쾌하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L719342">
+      <Lemma writtenForm="있다" partOfSpeech="auxiliary verb"/>
+      <Sense id="L719342-S1" synset="wikidata-ko-L719342-S1" ili="wikidata-ko-L719342-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L719342-S2" synset="wikidata-ko-L719342-S2" ili="wikidata-ko-L719342-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742357">
+      <Lemma writtenForm="요" partOfSpeech="grammatical particle"/>
+      <Sense id="L742357-S1" synset="wikidata-ko-L742357-S1" ili="wikidata-ko-L742357-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742365">
+      <Lemma writtenForm="시" partOfSpeech="infix"/>
+      <Sense id="L742365-S1" synset="wikidata-ko-L742365-S1" ili="wikidata-ko-L742365-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742650">
+      <Lemma writtenForm="억" partOfSpeech="numeral"/>
+      <Sense id="L742650-S1" synset="wikidata-ko-L742650-S1" ili="wikidata-ko-L742650-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745338">
+      <Lemma writtenForm="저" partOfSpeech="pronoun"/>
+      <Sense id="L745338-S1" synset="wikidata-ko-L745338-S1" ili="wikidata-ko-L745338-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745339">
+      <Lemma writtenForm="저" partOfSpeech="determiner"/>
+      <Sense id="L745339-S1" synset="wikidata-ko-L745339-S1" ili="wikidata-ko-L745339-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747169">
+      <Lemma writtenForm="이다" partOfSpeech="grammatical particle"/>
+      <Sense id="L747169-S1" synset="wikidata-ko-L747169-S1" ili="wikidata-ko-L747169-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992179">
+      <Lemma writtenForm="오십" partOfSpeech="numeral"/>
+      <Sense id="L992179-S1" synset="wikidata-ko-L992179-S1" ili="wikidata-ko-L992179-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992186">
+      <Lemma writtenForm="여섯" partOfSpeech="numeral"/>
+      <Sense id="L992186-S1" synset="wikidata-ko-L992186-S1" ili="wikidata-ko-L992186-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992193">
+      <Lemma writtenForm="서른" partOfSpeech="numeral"/>
+      <Sense id="L992193-S1" synset="wikidata-ko-L992193-S1" ili="wikidata-ko-L992193-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992203">
+      <Lemma writtenForm="칠십" partOfSpeech="numeral"/>
+      <Sense id="L992203-S1" synset="wikidata-ko-L992203-S1" ili="wikidata-ko-L992203-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L994869">
+      <Lemma writtenForm="가열" partOfSpeech="root"/>
+      <Sense id="L994869-S1" synset="wikidata-ko-L994869-S1" ili="wikidata-ko-L994869-S1">
+        <Definition>(&apos;가열하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013851">
+      <Lemma writtenForm="한테" partOfSpeech="grammatical particle"/>
+      <Sense id="L1013851-S1" synset="wikidata-ko-L1013851-S1" ili="wikidata-ko-L1013851-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013850-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1482684">
+      <Lemma writtenForm="굉활" partOfSpeech="root"/>
+      <Sense id="L1482684-S1" synset="wikidata-ko-L1482684-S1" ili="wikidata-ko-L1482684-S1">
+        <Definition>(&apos;굉활하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490391">
+      <Lemma writtenForm="광활" partOfSpeech="root"/>
+      <Sense id="L1490391-S1" synset="wikidata-ko-L1490391-S1" ili="wikidata-ko-L1490391-S1">
+        <Definition>(&apos;광활하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L83">
+      <Lemma writtenForm="극" partOfSpeech="numeral"/>
+      <Sense id="L83-S1" synset="wikidata-ko-L83-S1" ili="wikidata-ko-L83-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L14167">
+      <Lemma writtenForm="너희" partOfSpeech="pronoun"/>
+      <Sense id="L14167-S1" synset="wikidata-ko-L14167-S1" ili="wikidata-ko-L14167-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L221414">
+      <Lemma writtenForm="백" partOfSpeech="numeral"/>
+      <Sense id="L221414-S1" synset="wikidata-ko-L221414-S1" ili="wikidata-ko-L221414-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740723">
+      <Lemma writtenForm="이" partOfSpeech="grammatical particle"/>
+      <Sense id="L740723-S1" synset="wikidata-ko-L740723-S1" ili="wikidata-ko-L740723-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L740723-S2" synset="wikidata-ko-L740723-S2" ili="wikidata-ko-L740723-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741729">
+      <Lemma writtenForm="아무" partOfSpeech="pronoun"/>
+      <Sense id="L741729-S1" synset="wikidata-ko-L741729-S1" ili="wikidata-ko-L741729-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742583">
+      <Lemma writtenForm="이" partOfSpeech="numeral"/>
+      <Sense id="L742583-S1" synset="wikidata-ko-L742583-S1" ili="wikidata-ko-L742583-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742586">
+      <Lemma writtenForm="삼" partOfSpeech="numeral"/>
+      <Sense id="L742586-S1" synset="wikidata-ko-L742586-S1" ili="wikidata-ko-L742586-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742587">
+      <Lemma writtenForm="사" partOfSpeech="numeral"/>
+      <Sense id="L742587-S1" synset="wikidata-ko-L742587-S1" ili="wikidata-ko-L742587-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742639">
+      <Lemma writtenForm="오" partOfSpeech="numeral"/>
+      <Sense id="L742639-S1" synset="wikidata-ko-L742639-S1" ili="wikidata-ko-L742639-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742644">
+      <Lemma writtenForm="팔" partOfSpeech="numeral"/>
+      <Sense id="L742644-S1" synset="wikidata-ko-L742644-S1" ili="wikidata-ko-L742644-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742645">
+      <Lemma writtenForm="구" partOfSpeech="numeral"/>
+      <Sense id="L742645-S1" synset="wikidata-ko-L742645-S1" ili="wikidata-ko-L742645-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742648">
+      <Lemma writtenForm="천" partOfSpeech="numeral"/>
+      <Sense id="L742648-S1" synset="wikidata-ko-L742648-S1" ili="wikidata-ko-L742648-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L743811">
+      <Lemma writtenForm="에는" partOfSpeech="grammatical particle"/>
+      <Sense id="L743811-S1" synset="wikidata-ko-L743811-S1" ili="wikidata-ko-L743811-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745351">
+      <Lemma writtenForm="그녀" partOfSpeech="pronoun"/>
+      <Sense id="L745351-S1" synset="wikidata-ko-L745351-S1" ili="wikidata-ko-L745351-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745366">
+      <Lemma writtenForm="그대" partOfSpeech="pronoun"/>
+      <Sense id="L745366-S1" synset="wikidata-ko-L745366-S1" ili="wikidata-ko-L745366-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L745367">
+      <Lemma writtenForm="당신" partOfSpeech="pronoun"/>
+      <Sense id="L745367-S1" synset="wikidata-ko-L745367-S1" ili="wikidata-ko-L745367-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992180">
+      <Lemma writtenForm="팔십" partOfSpeech="numeral"/>
+      <Sense id="L992180-S1" synset="wikidata-ko-L992180-S1" ili="wikidata-ko-L992180-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992189">
+      <Lemma writtenForm="아홉" partOfSpeech="numeral"/>
+      <Sense id="L992189-S1" synset="wikidata-ko-L992189-S1" ili="wikidata-ko-L992189-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992192">
+      <Lemma writtenForm="스물" partOfSpeech="numeral"/>
+      <Sense id="L992192-S1" synset="wikidata-ko-L992192-S1" ili="wikidata-ko-L992192-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L992198">
+      <Lemma writtenForm="여든" partOfSpeech="numeral"/>
+      <Sense id="L992198-S1" synset="wikidata-ko-L992198-S1" ili="wikidata-ko-L992198-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L994866">
+      <Lemma writtenForm="가세" partOfSpeech="root"/>
+      <Sense id="L994866-S1" synset="wikidata-ko-L994866-S1" ili="wikidata-ko-L994866-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013839">
+      <Lemma writtenForm="에다가" partOfSpeech="grammatical particle"/>
+      <Sense id="L1013839-S1" synset="wikidata-ko-L1013839-S1" ili="wikidata-ko-L1013839-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013835-S1"/>
+      </Sense>
+      <Sense id="L1013839-S2" synset="wikidata-ko-L1013839-S2" ili="wikidata-ko-L1013839-S2">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013835-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013850">
+      <Lemma writtenForm="에게" partOfSpeech="grammatical particle"/>
+      <Sense id="L1013850-S1" synset="wikidata-ko-L1013850-S1" ili="wikidata-ko-L1013850-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ko-L1013851-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1220261">
+      <Lemma writtenForm="어서" partOfSpeech="affix"/>
+      <Sense id="L1220261-S1" synset="wikidata-ko-L1220261-S1" ili="wikidata-ko-L1220261-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1220261-S2" synset="wikidata-ko-L1220261-S2" ili="wikidata-ko-L1220261-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1220261-S3" synset="wikidata-ko-L1220261-S3" ili="wikidata-ko-L1220261-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327870">
+      <Lemma writtenForm="분" partOfSpeech="classifier"/>
+      <Sense id="L1327870-S1" synset="wikidata-ko-L1327870-S1" ili="wikidata-ko-L1327870-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1327870-S2" synset="wikidata-ko-L1327870-S2" ili="wikidata-ko-L1327870-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1478555">
+      <Lemma writtenForm="초췌" partOfSpeech="root"/>
+      <Sense id="L1478555-S1" synset="wikidata-ko-L1478555-S1" ili="wikidata-ko-L1478555-S1">
+        <Definition>(&apos;초췌하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1478569">
+      <Lemma writtenForm="굉장" partOfSpeech="root"/>
+      <Sense id="L1478569-S1" synset="wikidata-ko-L1478569-S1" ili="wikidata-ko-L1478569-S1">
+        <Definition>(&apos;굉장하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1479995">
+      <Lemma writtenForm="근독" partOfSpeech="root"/>
+      <Sense id="L1479995-S1" synset="wikidata-ko-L1479995-S1" ili="wikidata-ko-L1479995-S1">
+        <Definition>(&apos;근독하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1480517">
+      <Lemma writtenForm="공몽" partOfSpeech="root"/>
+      <Sense id="L1480517-S1" synset="wikidata-ko-L1480517-S1" ili="wikidata-ko-L1480517-S1">
+        <Definition>(&apos;공몽하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490379">
+      <Lemma writtenForm="걸오" partOfSpeech="root"/>
+      <Sense id="L1490379-S1" synset="wikidata-ko-L1490379-S1" ili="wikidata-ko-L1490379-S1">
+        <Definition>(&apos;걸오하다&apos;의 어근)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1493028">
+      <Lemma writtenForm="극묘" partOfSpeech="root"/>
+      <Sense id="L1493028-S1" synset="wikidata-ko-L1493028-S1" ili="wikidata-ko-L1493028-S1">
+        <Definition>&apos;극묘하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1494923">
+      <Lemma writtenForm="긍엄" partOfSpeech="root"/>
+      <Sense id="L1494923-S1" synset="wikidata-ko-L1494923-S1" ili="wikidata-ko-L1494923-S1">
+        <Definition>&apos;긍엄하다&apos;의 어근</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ko-L765-S2" ili="wikidata-ko-L765-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L406981-S1" ili="wikidata-ko-L406981-S1">
+      <Definition>불변화사</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L741731-S1" ili="wikidata-ko-L741731-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L741731-S2" ili="wikidata-ko-L741731-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742647-S1" ili="wikidata-ko-L742647-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747172-S1" ili="wikidata-ko-L747172-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L880764-S1" ili="wikidata-ko-L880764-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992196-S1" ili="wikidata-ko-L992196-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992199-S1" ili="wikidata-ko-L992199-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013842-S1" ili="wikidata-ko-L1013842-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013842-S2" ili="wikidata-ko-L1013842-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013842-S3" ili="wikidata-ko-L1013842-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013842-S4" ili="wikidata-ko-L1013842-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013842-S5" ili="wikidata-ko-L1013842-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1478084-S1" ili="wikidata-ko-L1478084-S1">
+      <Definition>산업에 관한</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1478095-S1" ili="wikidata-ko-L1478095-S1">
+      <Definition>(&apos;험난하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1478565-S1" ili="wikidata-ko-L1478565-S1">
+      <Definition>(&apos;다감하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482281-S1" ili="wikidata-ko-L1482281-S1">
+      <Definition>(&apos;솔직하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482745-S1" ili="wikidata-ko-L1482745-S1">
+      <Definition>(&apos;흔쾌하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490383-S1" ili="wikidata-ko-L1490383-S1">
+      <Definition>(&apos;각렴하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490667-S1" ili="wikidata-ko-L1490667-S1">
+      <Definition>(&apos;덕후하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494906-S1" ili="wikidata-ko-L1494906-S1">
+      <Definition>&apos;극진하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494926-S1" ili="wikidata-ko-L1494926-S1">
+      <Definition>&apos;극친하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L404581-S1" ili="wikidata-ko-L404581-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742651-S1" ili="wikidata-ko-L742651-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745330-S1" ili="wikidata-ko-L745330-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745334-S1" ili="wikidata-ko-L745334-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L748823-S1" ili="wikidata-ko-L748823-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992178-S1" ili="wikidata-ko-L992178-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992183-S1" ili="wikidata-ko-L992183-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992195-S1" ili="wikidata-ko-L992195-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479992-S1" ili="wikidata-ko-L1479992-S1">
+      <Definition>이상야릇하고 흉악한</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482297-S1" ili="wikidata-ko-L1482297-S1">
+      <Definition>(&apos;교교하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1492141-S1" ili="wikidata-ko-L1492141-S1">
+      <Definition>(&apos;울창하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L131-S2" ili="wikidata-ko-L131-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L131-S3" ili="wikidata-ko-L131-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743798-S1" ili="wikidata-ko-L743798-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L748866-S1" ili="wikidata-ko-L748866-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992184-S1" ili="wikidata-ko-L992184-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1012187-S1" ili="wikidata-ko-L1012187-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1474687-S1" ili="wikidata-ko-L1474687-S1">
+      <Definition>(&apos;비습하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1477683-S1" ili="wikidata-ko-L1477683-S1">
+      <Definition>감격하여 마음에 깊이 새겨지는</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479987-S1" ili="wikidata-ko-L1479987-S1">
+      <Definition>(&apos;괴악하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494930-S1" ili="wikidata-ko-L1494930-S1">
+      <Definition>&apos;기민하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L246-S1" ili="wikidata-ko-L246-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L254-S1" ili="wikidata-ko-L254-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L254-S2" ili="wikidata-ko-L254-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L701012-S1" ili="wikidata-ko-L701012-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742574-S1" ili="wikidata-ko-L742574-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742821-S1" ili="wikidata-ko-L742821-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742821-S2" ili="wikidata-ko-L742821-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742826-S1" ili="wikidata-ko-L742826-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745344-S1" ili="wikidata-ko-L745344-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745344-S2" ili="wikidata-ko-L745344-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745354-S1" ili="wikidata-ko-L745354-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747234-S1" ili="wikidata-ko-L747234-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992176-S1" ili="wikidata-ko-L992176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992177-S1" ili="wikidata-ko-L992177-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992190-S1" ili="wikidata-ko-L992190-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992191-S1" ili="wikidata-ko-L992191-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992201-S1" ili="wikidata-ko-L992201-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1474688-S1" ili="wikidata-ko-L1474688-S1">
+      <Definition>(&apos;비습하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1477134-S1" ili="wikidata-ko-L1477134-S1">
+      <Definition>(&apos;위허하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479868-S1" ili="wikidata-ko-L1479868-S1">
+      <Definition>(&apos;투철하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479871-S1" ili="wikidata-ko-L1479871-S1">
+      <Definition>(&apos;가괴하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479874-S1" ili="wikidata-ko-L1479874-S1">
+      <Definition>(&apos;과분하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482284-S1" ili="wikidata-ko-L1482284-S1">
+      <Definition>(&apos;흥미진진하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482290-S1" ili="wikidata-ko-L1482290-S1">
+      <Definition>(&apos;강퍅하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482749-S1" ili="wikidata-ko-L1482749-S1">
+      <Definition>(&apos;흉흉하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482752-S1" ili="wikidata-ko-L1482752-S1">
+      <Definition>(&apos;요긴하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L49-S1" ili="wikidata-ko-L49-S1">
+      <Definition>옛날의 의식이나 법식을 따르는, 또는 그런 것</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L49-S2" ili="wikidata-ko-L49-S2">
+      <Definition>고전이 될 만한 내용과 의의를 가지는, 또는 그런 것</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L64-S1" ili="wikidata-ko-L64-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L86-S1" ili="wikidata-ko-L86-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L406980-S1" ili="wikidata-ko-L406980-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L740754-S1" ili="wikidata-ko-L740754-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742358-S1" ili="wikidata-ko-L742358-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742641-S1" ili="wikidata-ko-L742641-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742649-S1" ili="wikidata-ko-L742649-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S1" ili="wikidata-ko-L743823-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S2" ili="wikidata-ko-L743823-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S3" ili="wikidata-ko-L743823-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S4" ili="wikidata-ko-L743823-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S5" ili="wikidata-ko-L743823-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S6" ili="wikidata-ko-L743823-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743823-S7" ili="wikidata-ko-L743823-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745369-S1" ili="wikidata-ko-L745369-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747175-S1" ili="wikidata-ko-L747175-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747175-S2" ili="wikidata-ko-L747175-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747178-S1" ili="wikidata-ko-L747178-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747178-S2" ili="wikidata-ko-L747178-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747178-S3" ili="wikidata-ko-L747178-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992182-S1" ili="wikidata-ko-L992182-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992187-S1" ili="wikidata-ko-L992187-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992188-S1" ili="wikidata-ko-L992188-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013835-S1" ili="wikidata-ko-L1013835-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013835-S2" ili="wikidata-ko-L1013835-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1327869-S1" ili="wikidata-ko-L1327869-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1473585-S1" ili="wikidata-ko-L1473585-S1">
+      <Definition>(&apos;망하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1473774-S1" ili="wikidata-ko-L1473774-S1">
+      <Definition>(&apos;기절하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479878-S2" ili="wikidata-ko-L1479878-S2">
+      <Definition>(&apos;광범하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490398-S1" ili="wikidata-ko-L1490398-S1">
+      <Definition>(&apos;가랄하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494560-S1" ili="wikidata-ko-L1494560-S1">
+      <Definition>&apos;군졸하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494958-S1" ili="wikidata-ko-L1494958-S1">
+      <Definition>&apos;굉렬하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L740747-S1" ili="wikidata-ko-L740747-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L740747-S2" ili="wikidata-ko-L740747-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742643-S1" ili="wikidata-ko-L742643-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742820-S1" ili="wikidata-ko-L742820-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745345-S1" ili="wikidata-ko-L745345-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745345-S2" ili="wikidata-ko-L745345-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L748850-S1" ili="wikidata-ko-L748850-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992181-S1" ili="wikidata-ko-L992181-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992185-S1" ili="wikidata-ko-L992185-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992197-S1" ili="wikidata-ko-L992197-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992202-S1" ili="wikidata-ko-L992202-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L994868-S1" ili="wikidata-ko-L994868-S1">
+      <Definition>(&apos;가열하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1473158-S1" ili="wikidata-ko-L1473158-S1">
+      <Definition>(나무의 의미를 더하는 한자어 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482296-S1" ili="wikidata-ko-L1482296-S1">
+      <Definition>(&apos;교교하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482681-S1" ili="wikidata-ko-L1482681-S1">
+      <Definition>(&apos;긴요하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490369-S1" ili="wikidata-ko-L1490369-S1">
+      <Definition>(&apos;경쾌하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L719342-S1" ili="wikidata-ko-L719342-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L719342-S2" ili="wikidata-ko-L719342-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742357-S1" ili="wikidata-ko-L742357-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742365-S1" ili="wikidata-ko-L742365-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742650-S1" ili="wikidata-ko-L742650-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745338-S1" ili="wikidata-ko-L745338-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745339-S1" ili="wikidata-ko-L745339-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L747169-S1" ili="wikidata-ko-L747169-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992179-S1" ili="wikidata-ko-L992179-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992186-S1" ili="wikidata-ko-L992186-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992193-S1" ili="wikidata-ko-L992193-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992203-S1" ili="wikidata-ko-L992203-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L994869-S1" ili="wikidata-ko-L994869-S1">
+      <Definition>(&apos;가열하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013851-S1" ili="wikidata-ko-L1013851-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1482684-S1" ili="wikidata-ko-L1482684-S1">
+      <Definition>(&apos;굉활하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490391-S1" ili="wikidata-ko-L1490391-S1">
+      <Definition>(&apos;광활하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L83-S1" ili="wikidata-ko-L83-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L14167-S1" ili="wikidata-ko-L14167-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L221414-S1" ili="wikidata-ko-L221414-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L740723-S1" ili="wikidata-ko-L740723-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L740723-S2" ili="wikidata-ko-L740723-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L741729-S1" ili="wikidata-ko-L741729-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742583-S1" ili="wikidata-ko-L742583-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742586-S1" ili="wikidata-ko-L742586-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742587-S1" ili="wikidata-ko-L742587-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742639-S1" ili="wikidata-ko-L742639-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742644-S1" ili="wikidata-ko-L742644-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742645-S1" ili="wikidata-ko-L742645-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L742648-S1" ili="wikidata-ko-L742648-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L743811-S1" ili="wikidata-ko-L743811-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745351-S1" ili="wikidata-ko-L745351-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745366-S1" ili="wikidata-ko-L745366-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L745367-S1" ili="wikidata-ko-L745367-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992180-S1" ili="wikidata-ko-L992180-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992189-S1" ili="wikidata-ko-L992189-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992192-S1" ili="wikidata-ko-L992192-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L992198-S1" ili="wikidata-ko-L992198-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L994866-S1" ili="wikidata-ko-L994866-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013839-S1" ili="wikidata-ko-L1013839-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013839-S2" ili="wikidata-ko-L1013839-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1013850-S1" ili="wikidata-ko-L1013850-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1220261-S1" ili="wikidata-ko-L1220261-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1220261-S2" ili="wikidata-ko-L1220261-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1220261-S3" ili="wikidata-ko-L1220261-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1327870-S1" ili="wikidata-ko-L1327870-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1327870-S2" ili="wikidata-ko-L1327870-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1478555-S1" ili="wikidata-ko-L1478555-S1">
+      <Definition>(&apos;초췌하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1478569-S1" ili="wikidata-ko-L1478569-S1">
+      <Definition>(&apos;굉장하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1479995-S1" ili="wikidata-ko-L1479995-S1">
+      <Definition>(&apos;근독하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1480517-S1" ili="wikidata-ko-L1480517-S1">
+      <Definition>(&apos;공몽하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1490379-S1" ili="wikidata-ko-L1490379-S1">
+      <Definition>(&apos;걸오하다&apos;의 어근)</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1493028-S1" ili="wikidata-ko-L1493028-S1">
+      <Definition>&apos;극묘하다&apos;의 어근</Definition>
+    </Synset>
+    <Synset id="wikidata-ko-L1494923-S1" ili="wikidata-ko-L1494923-S1">
+      <Definition>&apos;긍엄하다&apos;의 어근</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

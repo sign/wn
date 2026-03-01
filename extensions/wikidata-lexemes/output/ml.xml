@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ml"
+                    label="Wikidata ML Lexemes Extension"
+                    language="ml"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ml" version="1.4"/>
+    <LexicalEntry id="L2391">
+      <Lemma writtenForm="നാല്" partOfSpeech="numeral"/>
+      <Sense id="L2391-S1" synset="wikidata-ml-L2391-S1" ili="l332-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2392">
+      <Lemma writtenForm="അഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L2392-S1" synset="wikidata-ml-L2392-S1" ili="l333-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2395">
+      <Lemma writtenForm="എട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L2395-S1" synset="wikidata-ml-L2395-S1" ili="l336-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2398">
+      <Lemma writtenForm="ഇരുപത്" partOfSpeech="numeral"/>
+      <Sense id="L2398-S1" synset="wikidata-ml-L2398-S1" ili="wikidata-ml-L2398-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2404">
+      <Lemma writtenForm="എൺപത്" partOfSpeech="numeral"/>
+      <Sense id="L2404-S1" synset="wikidata-ml-L2404-S1" ili="wikidata-ml-L2404-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2407">
+      <Lemma writtenForm="പതിനൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L2407-S1" synset="wikidata-ml-L2407-S1" ili="wikidata-ml-L2407-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2439">
+      <Lemma writtenForm="ഞങ്ങൾ" partOfSpeech="pronoun"/>
+      <Sense id="L2439-S1" synset="wikidata-ml-L2439-S1" ili="l483-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L30579">
+      <Lemma writtenForm="ശൂന്യം" partOfSpeech="numeral"/>
+      <Sense id="L30579-S1" synset="wikidata-ml-L30579-S1" ili="wikidata-ml-L30579-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L412848">
+      <Lemma writtenForm="പരസ്പരം" partOfSpeech="pronoun"/>
+      <Sense id="L412848-S1" synset="wikidata-ml-L412848-S1" ili="wikidata-ml-L412848-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L551211">
+      <Lemma writtenForm="എൻ" partOfSpeech="pronoun"/>
+      <Sense id="L551211-S1" synset="wikidata-ml-L551211-S1" ili="wikidata-ml-L551211-S1">
+        <Definition>ഞാൻ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L551227">
+      <Lemma writtenForm="പക്ഷേ" partOfSpeech="grammatical particle"/>
+      <Sense id="L551227-S1" synset="wikidata-ml-L551227-S1" ili="wikidata-ml-L551227-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562660">
+      <Lemma writtenForm="ഇവ" partOfSpeech="determiner"/>
+      <Sense id="L562660-S1" synset="wikidata-ml-L562660-S1" ili="wikidata-ml-L562660-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578410">
+      <Lemma writtenForm="മുതൽ" partOfSpeech="postposition"/>
+      <Sense id="L578410-S1" synset="wikidata-ml-L578410-S1" ili="wikidata-ml-L578410-S1">
+        <Definition>തൊട്ട്, തുടങ്ങി</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579655">
+      <Lemma writtenForm="എങ്കിലും" partOfSpeech="grammatical particle"/>
+      <Sense id="L579655-S1" synset="wikidata-ml-L579655-S1" ili="wikidata-ml-L579655-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579656">
+      <Lemma writtenForm="ഓളം" partOfSpeech="grammatical particle"/>
+      <Sense id="L579656-S1" synset="wikidata-ml-L579656-S1" ili="wikidata-ml-L579656-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579724">
+      <Lemma writtenForm="കുറച്ച്" partOfSpeech="pronoun"/>
+      <Sense id="L579724-S1" synset="wikidata-ml-L579724-S1" ili="wikidata-ml-L579724-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583927">
+      <Lemma writtenForm="എല്ലാ" partOfSpeech="determiner"/>
+      <Sense id="L583927-S1" synset="wikidata-ml-L583927-S1" ili="wikidata-ml-L583927-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593018">
+      <Lemma writtenForm="പോരേ" partOfSpeech="grammatical particle"/>
+      <Sense id="L593018-S1" synset="wikidata-ml-L593018-S1" ili="wikidata-ml-L593018-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L611809">
+      <Lemma writtenForm="കൂടാതെ" partOfSpeech="conjunction"/>
+      <Sense id="L611809-S1" synset="wikidata-ml-L611809-S1" ili="wikidata-ml-L611809-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616859">
+      <Lemma writtenForm="എന്നത്" partOfSpeech="grammatical particle"/>
+      <Sense id="L616859-S1" synset="wikidata-ml-L616859-S1" ili="wikidata-ml-L616859-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679096">
+      <Lemma writtenForm="തൊണ്ണൂറ്റാറ്" partOfSpeech="numeral"/>
+      <Sense id="L679096-S1" synset="wikidata-ml-L679096-S1" ili="wikidata-ml-L679096-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679144">
+      <Lemma writtenForm="നാല്പത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679144-S1" synset="wikidata-ml-L679144-S1" ili="wikidata-ml-L679144-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679145">
+      <Lemma writtenForm="നാല്പത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679145-S1" synset="wikidata-ml-L679145-S1" ili="wikidata-ml-L679145-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679147">
+      <Lemma writtenForm="നാൽപ്പത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679147-S1" synset="wikidata-ml-L679147-S1" ili="wikidata-ml-L679147-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679158">
+      <Lemma writtenForm="അമ്പത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679158-S1" synset="wikidata-ml-L679158-S1" ili="wikidata-ml-L679158-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679159">
+      <Lemma writtenForm="അമ്പത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679159-S1" synset="wikidata-ml-L679159-S1" ili="wikidata-ml-L679159-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679161">
+      <Lemma writtenForm="അറുപത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679161-S1" synset="wikidata-ml-L679161-S1" ili="wikidata-ml-L679161-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679178">
+      <Lemma writtenForm="എഴുപത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679178-S1" synset="wikidata-ml-L679178-S1" ili="wikidata-ml-L679178-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679181">
+      <Lemma writtenForm="എൺപത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679181-S1" synset="wikidata-ml-L679181-S1" ili="wikidata-ml-L679181-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679184">
+      <Lemma writtenForm="എൺപത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679184-S1" synset="wikidata-ml-L679184-S1" ili="wikidata-ml-L679184-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2389">
+      <Lemma writtenForm="രണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L2389-S1" synset="wikidata-ml-L2389-S1" ili="l329-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2396">
+      <Lemma writtenForm="ഒൻപത്" partOfSpeech="numeral"/>
+      <Sense id="L2396-S1" synset="wikidata-ml-L2396-S1" ili="l337-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2406">
+      <Lemma writtenForm="നൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2406-S1" synset="wikidata-ml-L2406-S1" ili="l4138-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2412">
+      <Lemma writtenForm="പതിനാറ്" partOfSpeech="numeral"/>
+      <Sense id="L2412-S1" synset="wikidata-ml-L2412-S1" ili="wikidata-ml-L2412-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2426">
+      <Lemma writtenForm="തൊള്ളായിരം" partOfSpeech="numeral"/>
+      <Sense id="L2426-S1" synset="wikidata-ml-L2426-S1" ili="wikidata-ml-L2426-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2440">
+      <Lemma writtenForm="നിങ്ങൾ" partOfSpeech="pronoun"/>
+      <Sense id="L2440-S1" synset="wikidata-ml-L2440-S1" ili="wikidata-ml-L2440-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2444">
+      <Lemma writtenForm="അവൻ" partOfSpeech="personal pronoun"/>
+      <Sense id="L2444-S1" synset="wikidata-ml-L2444-S1" ili="l485-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300690">
+      <Lemma writtenForm="താൻ" partOfSpeech="pronoun"/>
+      <Sense id="L300690-S1" synset="wikidata-ml-L300690-S1" ili="wikidata-ml-L300690-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L2438-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L413259">
+      <Lemma writtenForm="അവ" partOfSpeech="determiner"/>
+      <Sense id="L413259-S1" synset="wikidata-ml-L413259-S1" ili="wikidata-ml-L413259-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L506127">
+      <Lemma writtenForm="നൂറായിരം" partOfSpeech="numeral"/>
+      <Sense id="L506127-S1" synset="wikidata-ml-L506127-S1" ili="wikidata-ml-L506127-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562662">
+      <Lemma writtenForm="ആ" partOfSpeech="grammatical particle"/>
+      <Sense id="L562662-S1" synset="wikidata-ml-L562662-S1" ili="wikidata-ml-L562662-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578461">
+      <Lemma writtenForm="ഇയാൾ" partOfSpeech="pronoun"/>
+      <Sense id="L578461-S1" synset="wikidata-ml-L578461-S1" ili="wikidata-ml-L578461-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L527810-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579696">
+      <Lemma writtenForm="പറ്റി" partOfSpeech="postposition"/>
+      <Sense id="L579696-S1" synset="wikidata-ml-L579696-S1" ili="wikidata-ml-L579696-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L579697-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580439">
+      <Lemma writtenForm="എന്ന" partOfSpeech="postposition"/>
+      <Sense id="L580439-S1" synset="wikidata-ml-L580439-S1" ili="wikidata-ml-L580439-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580441">
+      <Lemma writtenForm="മറ്റ്" partOfSpeech="grammatical particle"/>
+      <Sense id="L580441-S1" synset="wikidata-ml-L580441-S1" ili="wikidata-ml-L580441-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L580442-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580442">
+      <Lemma writtenForm="വേറെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L580442-S1" synset="wikidata-ml-L580442-S1" ili="wikidata-ml-L580442-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L580441-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679099">
+      <Lemma writtenForm="തൊണ്ണൂറ്റൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679099-S1" synset="wikidata-ml-L679099-S1" ili="wikidata-ml-L679099-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679135">
+      <Lemma writtenForm="മുപ്പത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679135-S1" synset="wikidata-ml-L679135-S1" ili="wikidata-ml-L679135-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679142">
+      <Lemma writtenForm="നാല്പത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679142-S1" synset="wikidata-ml-L679142-S1" ili="wikidata-ml-L679142-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679157">
+      <Lemma writtenForm="അമ്പത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679157-S1" synset="wikidata-ml-L679157-S1" ili="wikidata-ml-L679157-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679162">
+      <Lemma writtenForm="അറുപത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679162-S1" synset="wikidata-ml-L679162-S1" ili="wikidata-ml-L679162-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679165">
+      <Lemma writtenForm="അറുപത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679165-S1" synset="wikidata-ml-L679165-S1" ili="wikidata-ml-L679165-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679168">
+      <Lemma writtenForm="അറുപത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679168-S1" synset="wikidata-ml-L679168-S1" ili="wikidata-ml-L679168-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679173">
+      <Lemma writtenForm="എഴുപത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679173-S1" synset="wikidata-ml-L679173-S1" ili="wikidata-ml-L679173-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679179">
+      <Lemma writtenForm="എഴുപത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679179-S1" synset="wikidata-ml-L679179-S1" ili="wikidata-ml-L679179-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679186">
+      <Lemma writtenForm="എൺപത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679186-S1" synset="wikidata-ml-L679186-S1" ili="wikidata-ml-L679186-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687130">
+      <Lemma writtenForm="രഹിത" partOfSpeech="postposition"/>
+      <Sense id="L687130-S1" synset="wikidata-ml-L687130-S1" ili="wikidata-ml-L687130-S1">
+        <Definition>വിമുക്ത</Definition>
+      </Sense>
+      <Sense id="L687130-S2" synset="wikidata-ml-L687130-S2" ili="wikidata-ml-L687130-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689505">
+      <Lemma writtenForm="ലേശം" partOfSpeech="determiner"/>
+      <Sense id="L689505-S1" synset="wikidata-ml-L689505-S1" ili="wikidata-ml-L689505-S1">
+        <Definition>അല്പം; കുറച്ച്</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1132044">
+      <Lemma writtenForm="ചുവടെ" partOfSpeech="preposition"/>
+      <Sense id="L1132044-S1" synset="wikidata-ml-L1132044-S1" ili="wikidata-ml-L1132044-S1">
+        <Definition>താഴെ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2393">
+      <Lemma writtenForm="ആറ്" partOfSpeech="numeral"/>
+      <Sense id="L2393-S1" synset="wikidata-ml-L2393-S1" ili="l334-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2409">
+      <Lemma writtenForm="പതിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L2409-S1" synset="wikidata-ml-L2409-S1" ili="wikidata-ml-L2409-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2438">
+      <Lemma writtenForm="നീ" partOfSpeech="pronoun"/>
+      <Sense id="L2438-S1" synset="wikidata-ml-L2438-S1" ili="l482-s1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L300690-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300678">
+      <Lemma writtenForm="ഈ" partOfSpeech="determiner"/>
+      <Sense id="L300678-S2" synset="wikidata-ml-L300678-S2" ili="wikidata-ml-L300678-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458631">
+      <Lemma writtenForm="ഹാർഡി-രാമാനുജൻ സംഖ്യ" partOfSpeech="numeral"/>
+      <Sense id="L458631-S1" synset="wikidata-ml-L458631-S1" ili="wikidata-ml-L458631-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L470364">
+      <Lemma writtenForm="അവര്‍" partOfSpeech="pronoun"/>
+      <Sense id="L470364-S1" synset="wikidata-ml-L470364-S1" ili="wikidata-ml-L470364-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479461">
+      <Lemma writtenForm="നന്ദി" partOfSpeech="interjection"/>
+      <Sense id="L479461-S1" synset="wikidata-ml-L479461-S1" ili="l579678-s1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L479461-S2" synset="wikidata-ml-L479461-S2" ili="wikidata-ml-L479461-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L527810">
+      <Lemma writtenForm="അയാൾ" partOfSpeech="pronoun"/>
+      <Sense id="L527810-S1" synset="wikidata-ml-L527810-S1" ili="wikidata-ml-L527810-S1">
+        <Definition>ആ ആൾ, ആ മനുഷ്യൻ</Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L578461-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L529529">
+      <Lemma writtenForm="തുടങ്ങി" partOfSpeech="postposition"/>
+      <Sense id="L529529-S1" synset="wikidata-ml-L529529-S1" ili="wikidata-ml-L529529-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562659">
+      <Lemma writtenForm="തുടങ്ങിയ" partOfSpeech="determiner"/>
+      <Sense id="L562659-S1" synset="wikidata-ml-L562659-S1" ili="wikidata-ml-L562659-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562661">
+      <Lemma writtenForm="ആ" partOfSpeech="determiner"/>
+      <Sense id="L562661-S1" synset="wikidata-ml-L562661-S1" ili="wikidata-ml-L562661-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578459">
+      <Lemma writtenForm="അതെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L578459-S1" synset="wikidata-ml-L578459-S1" ili="wikidata-ml-L578459-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L673519-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578460">
+      <Lemma writtenForm="അത്" partOfSpeech="determiner"/>
+      <Sense id="L578460-S1" synset="wikidata-ml-L578460-S1" ili="l3229-s1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L547840-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579658">
+      <Lemma writtenForm="കൊണ്ട്" partOfSpeech="grammatical particle"/>
+      <Sense id="L579658-S1" synset="wikidata-ml-L579658-S1" ili="wikidata-ml-L579658-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L579658-S2" synset="wikidata-ml-L579658-S2" ili="wikidata-ml-L579658-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579688">
+      <Lemma writtenForm="ഇങ്ങനെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L579688-S1" synset="wikidata-ml-L579688-S1" ili="wikidata-ml-L579688-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L579687-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579697">
+      <Lemma writtenForm="കുറിച്ച്" partOfSpeech="postposition"/>
+      <Sense id="L579697-S1" synset="wikidata-ml-L579697-S1" ili="wikidata-ml-L579697-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L579696-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580204">
+      <Lemma writtenForm="സഹസ്രം" partOfSpeech="numeral"/>
+      <Sense id="L580204-S1" synset="wikidata-ml-L580204-S1" ili="wikidata-ml-L580204-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L2416-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580921">
+      <Lemma writtenForm="എന്നത്തെ" partOfSpeech="determiner"/>
+      <Sense id="L580921-S1" synset="wikidata-ml-L580921-S1" ili="wikidata-ml-L580921-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L580921-S2" synset="wikidata-ml-L580921-S2" ili="wikidata-ml-L580921-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583883">
+      <Lemma writtenForm="പിന്നെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L583883-S1" synset="wikidata-ml-L583883-S1" ili="wikidata-ml-L583883-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L584473">
+      <Lemma writtenForm="അരുത്" partOfSpeech="interjection"/>
+      <Sense id="L584473-S1" synset="wikidata-ml-L584473-S1" ili="wikidata-ml-L584473-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592412">
+      <Lemma writtenForm="ഏറെ" partOfSpeech="determiner"/>
+      <Sense id="L592412-S1" synset="wikidata-ml-L592412-S1" ili="wikidata-ml-L592412-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592448">
+      <Lemma writtenForm="കുറെ" partOfSpeech="preposition"/>
+      <Sense id="L592448-S1" synset="wikidata-ml-L592448-S1" ili="wikidata-ml-L592448-S1">
+        <Definition>അല്പം</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593992">
+      <Lemma writtenForm="പല" partOfSpeech="determiner"/>
+      <Sense id="L593992-S1" synset="wikidata-ml-L593992-S1" ili="wikidata-ml-L593992-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679101">
+      <Lemma writtenForm="നൂറ്റൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679101-S1" synset="wikidata-ml-L679101-S1" ili="wikidata-ml-L679101-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679130">
+      <Lemma writtenForm="മുപ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679130-S1" synset="wikidata-ml-L679130-S1" ili="wikidata-ml-L679130-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679133">
+      <Lemma writtenForm="മുപ്പത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679133-S1" synset="wikidata-ml-L679133-S1" ili="wikidata-ml-L679133-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679137">
+      <Lemma writtenForm="മുപ്പത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679137-S1" synset="wikidata-ml-L679137-S1" ili="wikidata-ml-L679137-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679141">
+      <Lemma writtenForm="നാല്പത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679141-S1" synset="wikidata-ml-L679141-S1" ili="wikidata-ml-L679141-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679146">
+      <Lemma writtenForm="നാൽപ്പത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679146-S1" synset="wikidata-ml-L679146-S1" ili="wikidata-ml-L679146-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679148">
+      <Lemma writtenForm="നാൽപ്പത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679148-S1" synset="wikidata-ml-L679148-S1" ili="wikidata-ml-L679148-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679152">
+      <Lemma writtenForm="അമ്പത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679152-S1" synset="wikidata-ml-L679152-S1" ili="wikidata-ml-L679152-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679172">
+      <Lemma writtenForm="എഴുപത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679172-S1" synset="wikidata-ml-L679172-S1" ili="wikidata-ml-L679172-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679175">
+      <Lemma writtenForm="എഴുപത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679175-S1" synset="wikidata-ml-L679175-S1" ili="wikidata-ml-L679175-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679198">
+      <Lemma writtenForm="ഇരുപത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679198-S1" synset="wikidata-ml-L679198-S1" ili="wikidata-ml-L679198-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2397">
+      <Lemma writtenForm="പത്ത്" partOfSpeech="numeral"/>
+      <Sense id="L2397-S1" synset="wikidata-ml-L2397-S1" ili="l338-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2401">
+      <Lemma writtenForm="അൻപത്" partOfSpeech="numeral"/>
+      <Sense id="L2401-S1" synset="wikidata-ml-L2401-S1" ili="wikidata-ml-L2401-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2417">
+      <Lemma writtenForm="ദശലക്ഷം" partOfSpeech="numeral"/>
+      <Sense id="L2417-S1" synset="wikidata-ml-L2417-S1" ili="wikidata-ml-L2417-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2423">
+      <Lemma writtenForm="അറുനൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2423-S1" synset="wikidata-ml-L2423-S1" ili="wikidata-ml-L2423-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2437">
+      <Lemma writtenForm="ഞാൻ" partOfSpeech="pronoun"/>
+      <Sense id="L2437-S1" synset="wikidata-ml-L2437-S1" ili="l487-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300680">
+      <Lemma writtenForm="ധൂളി" partOfSpeech="numeral"/>
+      <Sense id="L300680-S1" synset="wikidata-ml-L300680-S1" ili="wikidata-ml-L300680-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300683">
+      <Lemma writtenForm="ചങ്ക്" partOfSpeech="numeral"/>
+      <Sense id="L300683-S1" synset="wikidata-ml-L300683-S1" ili="wikidata-ml-L300683-S1">
+        <Definition>ശതകോടി</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458625">
+      <Lemma writtenForm="൧" partOfSpeech="numeral"/>
+      <Sense id="L458625-S1" synset="wikidata-ml-L458625-S1" ili="wikidata-ml-L458625-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458633">
+      <Lemma writtenForm="൦" partOfSpeech="numeral"/>
+      <Sense id="L458633-S1" synset="wikidata-ml-L458633-S1" ili="wikidata-ml-L458633-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562658">
+      <Lemma writtenForm="എല്ലാം" partOfSpeech="determiner"/>
+      <Sense id="L562658-S1" synset="wikidata-ml-L562658-S1" ili="wikidata-ml-L562658-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578369">
+      <Lemma writtenForm="അദ്ദേഹം" partOfSpeech="pronoun"/>
+      <Sense id="L578369-S1" synset="wikidata-ml-L578369-S1" ili="wikidata-ml-L578369-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580208">
+      <Lemma writtenForm="കോടി" partOfSpeech="numeral"/>
+      <Sense id="L580208-S1" synset="wikidata-ml-L580208-S1" ili="wikidata-ml-L580208-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583830">
+      <Lemma writtenForm="പ്രാവശ്യം" partOfSpeech="grammatical particle"/>
+      <Sense id="L583830-S1" synset="wikidata-ml-L583830-S1" ili="wikidata-ml-L583830-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L583831-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592413">
+      <Lemma writtenForm="ഏറെക്കുറെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L592413-S1" synset="wikidata-ml-L592413-S1" ili="wikidata-ml-L592413-S1">
+        <Definition>ഏതാണ്ട്, ഒട്ടൊക്കെ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L611807">
+      <Lemma writtenForm="ഒപ്പം" partOfSpeech="conjunction"/>
+      <Sense id="L611807-S1" synset="wikidata-ml-L611807-S1" ili="wikidata-ml-L611807-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616846">
+      <Lemma writtenForm="ഒന്നുകിൽ" partOfSpeech="grammatical particle"/>
+      <Sense id="L616846-S1" synset="wikidata-ml-L616846-S1" ili="wikidata-ml-L616846-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673519">
+      <Lemma writtenForm="ആണ്" partOfSpeech="grammatical particle"/>
+      <Sense id="L673519-S1" synset="wikidata-ml-L673519-S1" ili="wikidata-ml-L673519-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L578459-S1"/>
+      </Sense>
+      <Sense id="L673519-S2" synset="wikidata-ml-L673519-S2" ili="wikidata-ml-L673519-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679091">
+      <Lemma writtenForm="തൊണ്ണൂറ്റൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679091-S1" synset="wikidata-ml-L679091-S1" ili="wikidata-ml-L679091-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679123">
+      <Lemma writtenForm="ഇരുപത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679123-S1" synset="wikidata-ml-L679123-S1" ili="wikidata-ml-L679123-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679139">
+      <Lemma writtenForm="മുപ്പത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679139-S1" synset="wikidata-ml-L679139-S1" ili="wikidata-ml-L679139-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679151">
+      <Lemma writtenForm="അമ്പത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679151-S1" synset="wikidata-ml-L679151-S1" ili="wikidata-ml-L679151-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679163">
+      <Lemma writtenForm="അറുപത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679163-S1" synset="wikidata-ml-L679163-S1" ili="wikidata-ml-L679163-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679164">
+      <Lemma writtenForm="അറുപത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679164-S1" synset="wikidata-ml-L679164-S1" ili="wikidata-ml-L679164-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679176">
+      <Lemma writtenForm="എഴുപത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679176-S1" synset="wikidata-ml-L679176-S1" ili="wikidata-ml-L679176-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679189">
+      <Lemma writtenForm="എൺപത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679189-S1" synset="wikidata-ml-L679189-S1" ili="wikidata-ml-L679189-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679190">
+      <Lemma writtenForm="ഇരുന്നൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L679190-S1" synset="wikidata-ml-L679190-S1" ili="wikidata-ml-L679190-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2388">
+      <Lemma writtenForm="ഒന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L2388-S1" synset="wikidata-ml-L2388-S1" ili="l327-s1">
+        <Definition>1, സംഖ്യ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2390">
+      <Lemma writtenForm="മൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L2390-S1" synset="wikidata-ml-L2390-S1" ili="l330-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2394">
+      <Lemma writtenForm="ഏഴ്" partOfSpeech="numeral"/>
+      <Sense id="L2394-S1" synset="wikidata-ml-L2394-S1" ili="l335-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2403">
+      <Lemma writtenForm="എഴുപത്" partOfSpeech="numeral"/>
+      <Sense id="L2403-S1" synset="wikidata-ml-L2403-S1" ili="wikidata-ml-L2403-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2418">
+      <Lemma writtenForm="ശതകോടി" partOfSpeech="numeral"/>
+      <Sense id="L2418-S1" synset="wikidata-ml-L2418-S1" ili="wikidata-ml-L2418-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2422">
+      <Lemma writtenForm="അഞ്ഞൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2422-S1" synset="wikidata-ml-L2422-S1" ili="wikidata-ml-L2422-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2424">
+      <Lemma writtenForm="എഴുനൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2424-S1" synset="wikidata-ml-L2424-S1" ili="wikidata-ml-L2424-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2425">
+      <Lemma writtenForm="എണ്ണൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2425-S1" synset="wikidata-ml-L2425-S1" ili="wikidata-ml-L2425-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2445">
+      <Lemma writtenForm="അവൽ" partOfSpeech="pronoun"/>
+      <Sense id="L2445-S1" synset="wikidata-ml-L2445-S1" ili="wikidata-ml-L2445-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300679">
+      <Lemma writtenForm="കാനം" partOfSpeech="numeral"/>
+      <Sense id="L300679-S1" synset="wikidata-ml-L300679-S1" ili="wikidata-ml-L300679-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300682">
+      <Lemma writtenForm="ലക്ഷം" partOfSpeech="numeral"/>
+      <Sense id="L300682-S1" synset="wikidata-ml-L300682-S1" ili="wikidata-ml-L300682-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300706">
+      <Lemma writtenForm="എങ്ങനെ" partOfSpeech="interrogative word"/>
+      <Sense id="L300706-S1" synset="wikidata-ml-L300706-S1" ili="wikidata-ml-L300706-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L469615">
+      <Lemma writtenForm="അവള്‍" partOfSpeech="personal pronoun"/>
+      <Sense id="L469615-S1" synset="wikidata-ml-L469615-S1" ili="l484-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L551228">
+      <Lemma writtenForm="പക്ഷെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L551228-S1" synset="wikidata-ml-L551228-S1" ili="wikidata-ml-L551228-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579652">
+      <Lemma writtenForm="മാത്രം" partOfSpeech="grammatical particle"/>
+      <Sense id="L579652-S1" synset="wikidata-ml-L579652-S1" ili="wikidata-ml-L579652-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579654">
+      <Lemma writtenForm="ഉം" partOfSpeech="grammatical particle"/>
+      <Sense id="L579654-S1" synset="wikidata-ml-L579654-S1" ili="wikidata-ml-L579654-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579693">
+      <Lemma writtenForm="വരെ" partOfSpeech="postposition"/>
+      <Sense id="L579693-S1" synset="wikidata-ml-L579693-S1" ili="wikidata-ml-L579693-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580920">
+      <Lemma writtenForm="എന്ന്" partOfSpeech="postposition"/>
+      <Sense id="L580920-S1" synset="wikidata-ml-L580920-S1" ili="wikidata-ml-L580920-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583888">
+      <Lemma writtenForm="എവർ" partOfSpeech="determiner"/>
+      <Sense id="L583888-S1" synset="wikidata-ml-L583888-S1" ili="wikidata-ml-L583888-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583893">
+      <Lemma writtenForm="നിന്ന്" partOfSpeech="grammatical particle"/>
+      <Sense id="L583893-S1" synset="wikidata-ml-L583893-S1" ili="wikidata-ml-L583893-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L616845">
+      <Lemma writtenForm="എന്നാൽ" partOfSpeech="grammatical particle"/>
+      <Sense id="L616845-S1" synset="wikidata-ml-L616845-S1" ili="wikidata-ml-L616845-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679094">
+      <Lemma writtenForm="തൊണ്ണൂറ്റിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679094-S1" synset="wikidata-ml-L679094-S1" ili="wikidata-ml-L679094-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679126">
+      <Lemma writtenForm="ഇരുപത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679126-S1" synset="wikidata-ml-L679126-S1" ili="wikidata-ml-L679126-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679134">
+      <Lemma writtenForm="മുപ്പത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679134-S1" synset="wikidata-ml-L679134-S1" ili="wikidata-ml-L679134-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679136">
+      <Lemma writtenForm="മുപ്പത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679136-S1" synset="wikidata-ml-L679136-S1" ili="wikidata-ml-L679136-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679138">
+      <Lemma writtenForm="മുപ്പത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679138-S1" synset="wikidata-ml-L679138-S1" ili="wikidata-ml-L679138-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679169">
+      <Lemma writtenForm="അറുപത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679169-S1" synset="wikidata-ml-L679169-S1" ili="wikidata-ml-L679169-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116228">
+      <Lemma writtenForm="അടുത്ത്" partOfSpeech="postposition"/>
+      <Sense id="L1116228-S1" synset="wikidata-ml-L1116228-S1" ili="wikidata-ml-L1116228-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1130641">
+      <Lemma writtenForm="മുഖേന" partOfSpeech="postposition"/>
+      <Sense id="L1130641-S1" synset="wikidata-ml-L1130641-S1" ili="wikidata-ml-L1130641-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2400">
+      <Lemma writtenForm="നാല്പത്" partOfSpeech="numeral"/>
+      <Sense id="L2400-S1" synset="wikidata-ml-L2400-S1" ili="wikidata-ml-L2400-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2419">
+      <Lemma writtenForm="ഇരുനൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2419-S1" synset="wikidata-ml-L2419-S1" ili="wikidata-ml-L2419-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L30578">
+      <Lemma writtenForm="പൂജ്യം" partOfSpeech="numeral"/>
+      <Sense id="L30578-S1" synset="wikidata-ml-L30578-S1" ili="wikidata-ml-L30578-S1">
+        <Definition>സംഖ്യ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300688">
+      <Lemma writtenForm="ആ" partOfSpeech="pronoun"/>
+      <Sense id="L300688-S1" synset="wikidata-ml-L300688-S1" ili="wikidata-ml-L300688-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300705">
+      <Lemma writtenForm="എത്ര" partOfSpeech="interrogative word"/>
+      <Sense id="L300705-S1" synset="wikidata-ml-L300705-S1" ili="wikidata-ml-L300705-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L300705-S2" synset="wikidata-ml-L300705-S2" ili="wikidata-ml-L300705-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300708">
+      <Lemma writtenForm="അഥവാ" partOfSpeech="conjunction"/>
+      <Sense id="L300708-S1" synset="wikidata-ml-L300708-S1" ili="wikidata-ml-L300708-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458626">
+      <Lemma writtenForm="൰" partOfSpeech="numeral"/>
+      <Sense id="L458626-S1" synset="wikidata-ml-L458626-S1" ili="wikidata-ml-L458626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458628">
+      <Lemma writtenForm="മില്യൺ" partOfSpeech="numeral"/>
+      <Sense id="L458628-S1" synset="wikidata-ml-L458628-S1" ili="wikidata-ml-L458628-S1">
+        <Definition>ദശലക്ഷം</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458629">
+      <Lemma writtenForm="൲" partOfSpeech="numeral"/>
+      <Sense id="L458629-S1" synset="wikidata-ml-L458629-S1" ili="wikidata-ml-L458629-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458632">
+      <Lemma writtenForm="ആയിരം കോടി" partOfSpeech="numeral"/>
+      <Sense id="L458632-S1" synset="wikidata-ml-L458632-S1" ili="wikidata-ml-L458632-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L547840">
+      <Lemma writtenForm="ഇത്" partOfSpeech="determiner"/>
+      <Sense id="L547840-S1" synset="wikidata-ml-L547840-S1" ili="l2994-s1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L578460-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L556712">
+      <Lemma writtenForm="ഒരു" partOfSpeech="numeral"/>
+      <Sense id="L556712-S1" synset="wikidata-ml-L556712-S1" ili="wikidata-ml-L556712-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579653">
+      <Lemma writtenForm="തോറും" partOfSpeech="grammatical particle"/>
+      <Sense id="L579653-S1" synset="wikidata-ml-L579653-S1" ili="wikidata-ml-L579653-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579680">
+      <Lemma writtenForm="നമസ്തേ" partOfSpeech="interjection"/>
+      <Sense id="L579680-S1" synset="wikidata-ml-L579680-S1" ili="wikidata-ml-L579680-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579681">
+      <Lemma writtenForm="നമസ്കാരം" partOfSpeech="interjection"/>
+      <Sense id="L579681-S1" synset="wikidata-ml-L579681-S1" ili="wikidata-ml-L579681-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579996">
+      <Lemma writtenForm="അത്ര" partOfSpeech="grammatical particle"/>
+      <Sense id="L579996-S1" synset="wikidata-ml-L579996-S1" ili="wikidata-ml-L579996-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580364">
+      <Lemma writtenForm="അല്ലെങ്കിൽ" partOfSpeech="conjunction"/>
+      <Sense id="L580364-S1" synset="wikidata-ml-L580364-S1" ili="wikidata-ml-L580364-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L580364-S2" synset="wikidata-ml-L580364-S2" ili="l333928-s2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580919">
+      <Lemma writtenForm="എന്ന്" partOfSpeech="grammatical particle"/>
+      <Sense id="L580919-S1" synset="wikidata-ml-L580919-S1" ili="wikidata-ml-L580919-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L580919-S2" synset="wikidata-ml-L580919-S2" ili="wikidata-ml-L580919-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583884">
+      <Lemma writtenForm="പിന്നെ" partOfSpeech="interjection"/>
+      <Sense id="L583884-S1" synset="wikidata-ml-L583884-S1" ili="wikidata-ml-L583884-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583889">
+      <Lemma writtenForm="എവൻ" partOfSpeech="determiner"/>
+      <Sense id="L583889-S1" synset="wikidata-ml-L583889-S1" ili="wikidata-ml-L583889-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L583890-S1"/>
+      </Sense>
+      <Sense id="L583889-S2" synset="wikidata-ml-L583889-S2" ili="wikidata-ml-L583889-S2">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L583890-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673513">
+      <Lemma writtenForm="ഇല്ല" partOfSpeech="grammatical particle"/>
+      <Sense id="L673513-S1" synset="wikidata-ml-L673513-S1" ili="wikidata-ml-L673513-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679095">
+      <Lemma writtenForm="തൊണ്ണൂറ്റഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679095-S1" synset="wikidata-ml-L679095-S1" ili="wikidata-ml-L679095-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679097">
+      <Lemma writtenForm="തൊണ്ണൂറ്റേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679097-S1" synset="wikidata-ml-L679097-S1" ili="wikidata-ml-L679097-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679124">
+      <Lemma writtenForm="ഇരുപത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679124-S1" synset="wikidata-ml-L679124-S1" ili="wikidata-ml-L679124-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679143">
+      <Lemma writtenForm="നാല്പത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679143-S1" synset="wikidata-ml-L679143-S1" ili="wikidata-ml-L679143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679150">
+      <Lemma writtenForm="നൂറ്റമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679150-S1" synset="wikidata-ml-L679150-S1" ili="wikidata-ml-L679150-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679155">
+      <Lemma writtenForm="അമ്പത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679155-S1" synset="wikidata-ml-L679155-S1" ili="wikidata-ml-L679155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679167">
+      <Lemma writtenForm="അറുപത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679167-S1" synset="wikidata-ml-L679167-S1" ili="wikidata-ml-L679167-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679183">
+      <Lemma writtenForm="എൺപത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679183-S1" synset="wikidata-ml-L679183-S1" ili="wikidata-ml-L679183-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679185">
+      <Lemma writtenForm="എൺപത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679185-S1" synset="wikidata-ml-L679185-S1" ili="wikidata-ml-L679185-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679199">
+      <Lemma writtenForm="പത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679199-S1" synset="wikidata-ml-L679199-S1" ili="wikidata-ml-L679199-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687132">
+      <Lemma writtenForm="വിമുക്ത" partOfSpeech="postposition"/>
+      <Sense id="L687132-S1" synset="wikidata-ml-L687132-S1" ili="wikidata-ml-L687132-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116227">
+      <Lemma writtenForm="പക്കം" partOfSpeech="postposition"/>
+      <Sense id="L1116227-S1" synset="wikidata-ml-L1116227-S1" ili="wikidata-ml-L1116227-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1132045">
+      <Lemma writtenForm="താഴെ" partOfSpeech="preposition"/>
+      <Sense id="L1132045-S1" synset="wikidata-ml-L1132045-S1" ili="wikidata-ml-L1132045-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2399">
+      <Lemma writtenForm="മുപ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L2399-S1" synset="wikidata-ml-L2399-S1" ili="wikidata-ml-L2399-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2405">
+      <Lemma writtenForm="തൊണ്ണൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2405-S1" synset="wikidata-ml-L2405-S1" ili="wikidata-ml-L2405-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2408">
+      <Lemma writtenForm="പന്ത്രണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L2408-S1" synset="wikidata-ml-L2408-S1" ili="wikidata-ml-L2408-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2411">
+      <Lemma writtenForm="പതിനഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L2411-S1" synset="wikidata-ml-L2411-S1" ili="wikidata-ml-L2411-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2414">
+      <Lemma writtenForm="പതിനെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L2414-S1" synset="wikidata-ml-L2414-S1" ili="wikidata-ml-L2414-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2415">
+      <Lemma writtenForm="പത്തൊൻപത്" partOfSpeech="numeral"/>
+      <Sense id="L2415-S1" synset="wikidata-ml-L2415-S1" ili="wikidata-ml-L2415-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2421">
+      <Lemma writtenForm="നാനൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2421-S1" synset="wikidata-ml-L2421-S1" ili="wikidata-ml-L2421-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300691">
+      <Lemma writtenForm="നമ്മൾ" partOfSpeech="pronoun"/>
+      <Sense id="L300691-S1" synset="wikidata-ml-L300691-S1" ili="wikidata-ml-L300691-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L467066">
+      <Lemma writtenForm="ഇവൻ" partOfSpeech="pronoun"/>
+      <Sense id="L467066-S1" synset="wikidata-ml-L467066-S1" ili="wikidata-ml-L467066-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578371">
+      <Lemma writtenForm="നിന്ന്" partOfSpeech="postposition"/>
+      <Sense id="L578371-S1" synset="wikidata-ml-L578371-S1" ili="wikidata-ml-L578371-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L578411">
+      <Lemma writtenForm="തൊട്ട്" partOfSpeech="postposition"/>
+      <Sense id="L578411-S1" synset="wikidata-ml-L578411-S1" ili="wikidata-ml-L578411-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579705">
+      <Lemma writtenForm="സുപ്രഭാതം" partOfSpeech="interjection"/>
+      <Sense id="L579705-S1" synset="wikidata-ml-L579705-S1" ili="l310592-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579995">
+      <Lemma writtenForm="ധാരാളം" partOfSpeech="determiner"/>
+      <Sense id="L579995-S1" synset="wikidata-ml-L579995-S1" ili="wikidata-ml-L579995-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583831">
+      <Lemma writtenForm="തവണ" partOfSpeech="grammatical particle"/>
+      <Sense id="L583831-S1" synset="wikidata-ml-L583831-S1" ili="wikidata-ml-L583831-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L583830-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583880">
+      <Lemma writtenForm="തന്നെ" partOfSpeech="interjection"/>
+      <Sense id="L583880-S1" synset="wikidata-ml-L583880-S1" ili="wikidata-ml-L583880-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583887">
+      <Lemma writtenForm="ഏത്" partOfSpeech="determiner"/>
+      <Sense id="L583887-S1" synset="wikidata-ml-L583887-S1" ili="wikidata-ml-L583887-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L583887-S2" synset="wikidata-ml-L583887-S2" ili="wikidata-ml-L583887-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679098">
+      <Lemma writtenForm="തൊണ്ണൂറ്റെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679098-S1" synset="wikidata-ml-L679098-S1" ili="wikidata-ml-L679098-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679125">
+      <Lemma writtenForm="ഇരുപത്തഞ്ച്" partOfSpeech="numeral"/>
+      <Sense id="L679125-S1" synset="wikidata-ml-L679125-S1" ili="wikidata-ml-L679125-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679127">
+      <Lemma writtenForm="ഇരുപത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679127-S1" synset="wikidata-ml-L679127-S1" ili="wikidata-ml-L679127-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679129">
+      <Lemma writtenForm="ഇരുപത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679129-S1" synset="wikidata-ml-L679129-S1" ili="wikidata-ml-L679129-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679131">
+      <Lemma writtenForm="മുപ്പത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679131-S1" synset="wikidata-ml-L679131-S1" ili="wikidata-ml-L679131-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679132">
+      <Lemma writtenForm="മുപ്പത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679132-S1" synset="wikidata-ml-L679132-S1" ili="wikidata-ml-L679132-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679154">
+      <Lemma writtenForm="അമ്പത്തിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L679154-S1" synset="wikidata-ml-L679154-S1" ili="wikidata-ml-L679154-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679156">
+      <Lemma writtenForm="അമ്പത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679156-S1" synset="wikidata-ml-L679156-S1" ili="wikidata-ml-L679156-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679166">
+      <Lemma writtenForm="അറുപത്താറ്" partOfSpeech="numeral"/>
+      <Sense id="L679166-S1" synset="wikidata-ml-L679166-S1" ili="wikidata-ml-L679166-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679171">
+      <Lemma writtenForm="എഴുപത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679171-S1" synset="wikidata-ml-L679171-S1" ili="wikidata-ml-L679171-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679187">
+      <Lemma writtenForm="എൺപത്തേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L679187-S1" synset="wikidata-ml-L679187-S1" ili="wikidata-ml-L679187-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679188">
+      <Lemma writtenForm="എൺപത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679188-S1" synset="wikidata-ml-L679188-S1" ili="wikidata-ml-L679188-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679197">
+      <Lemma writtenForm="ഇരുപത്തൊന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679197-S1" synset="wikidata-ml-L679197-S1" ili="wikidata-ml-L679197-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689694">
+      <Lemma writtenForm="അരികിൽ" partOfSpeech="postposition"/>
+      <Sense id="L689694-S1" synset="wikidata-ml-L689694-S1" ili="wikidata-ml-L689694-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L689694-S2" synset="wikidata-ml-L689694-S2" ili="wikidata-ml-L689694-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117766">
+      <Lemma writtenForm="പുറത്ത്" partOfSpeech="postposition"/>
+      <Sense id="L1117766-S1" synset="wikidata-ml-L1117766-S1" ili="l4155-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2402">
+      <Lemma writtenForm="അറുപത്" partOfSpeech="numeral"/>
+      <Sense id="L2402-S1" synset="wikidata-ml-L2402-S1" ili="wikidata-ml-L2402-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2410">
+      <Lemma writtenForm="പതിനാല്" partOfSpeech="numeral"/>
+      <Sense id="L2410-S1" synset="wikidata-ml-L2410-S1" ili="wikidata-ml-L2410-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2413">
+      <Lemma writtenForm="പതിനേഴ്" partOfSpeech="numeral"/>
+      <Sense id="L2413-S1" synset="wikidata-ml-L2413-S1" ili="wikidata-ml-L2413-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2416">
+      <Lemma writtenForm="ആയിരം" partOfSpeech="numeral"/>
+      <Sense id="L2416-S1" synset="wikidata-ml-L2416-S1" ili="l2263-s1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L580204-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2420">
+      <Lemma writtenForm="മുന്നൂറ്" partOfSpeech="numeral"/>
+      <Sense id="L2420-S1" synset="wikidata-ml-L2420-S1" ili="wikidata-ml-L2420-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300681">
+      <Lemma writtenForm="വെള്ളം" partOfSpeech="numeral"/>
+      <Sense id="L300681-S1" synset="wikidata-ml-L300681-S1" ili="wikidata-ml-L300681-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L300681-S2" synset="wikidata-ml-L300681-S2" ili="wikidata-ml-L300681-S2">
+        <Definition>(പഴയ) 10&lt;sup&gt;23&lt;/sup&gt;, നൂറു നൂറായിരം മഹൗഘം</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300689">
+      <Lemma writtenForm="താങ്കൾ" partOfSpeech="pronoun"/>
+      <Sense id="L300689-S1" synset="wikidata-ml-L300689-S1" ili="wikidata-ml-L300689-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L300707">
+      <Lemma writtenForm="ആര്" partOfSpeech="interrogative word"/>
+      <Sense id="L300707-S1" synset="wikidata-ml-L300707-S1" ili="wikidata-ml-L300707-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458627">
+      <Lemma writtenForm="൱" partOfSpeech="numeral"/>
+      <Sense id="L458627-S1" synset="wikidata-ml-L458627-S1" ili="wikidata-ml-L458627-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458630">
+      <Lemma writtenForm="രാമാനുജൻ സംഖ്യ" partOfSpeech="numeral"/>
+      <Sense id="L458630-S1" synset="wikidata-ml-L458630-S1" ili="wikidata-ml-L458630-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L562882">
+      <Lemma writtenForm="വല്ല" partOfSpeech="determiner"/>
+      <Sense id="L562882-S1" synset="wikidata-ml-L562882-S1" ili="wikidata-ml-L562882-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579657">
+      <Lemma writtenForm="വേണ്ടി" partOfSpeech="grammatical particle"/>
+      <Sense id="L579657-S1" synset="wikidata-ml-L579657-S1" ili="wikidata-ml-L579657-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579687">
+      <Lemma writtenForm="അങ്ങനെ" partOfSpeech="grammatical particle"/>
+      <Sense id="L579687-S1" synset="wikidata-ml-L579687-S1" ili="wikidata-ml-L579687-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L579688-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579725">
+      <Lemma writtenForm="കുറച്ച്" partOfSpeech="determiner"/>
+      <Sense id="L579725-S1" synset="wikidata-ml-L579725-S1" ili="wikidata-ml-L579725-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580012">
+      <Lemma writtenForm="പോലെ" partOfSpeech="postposition"/>
+      <Sense id="L580012-S1" synset="wikidata-ml-L580012-S1" ili="l45034-s1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L591276-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583890">
+      <Lemma writtenForm="എവൾ" partOfSpeech="determiner"/>
+      <Sense id="L583890-S1" synset="wikidata-ml-L583890-S1" ili="wikidata-ml-L583890-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L583889-S1"/>
+      </Sense>
+      <Sense id="L583890-S2" synset="wikidata-ml-L583890-S2" ili="wikidata-ml-L583890-S2">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-ml-L583889-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L583896">
+      <Lemma writtenForm="ഉണ്ട്" partOfSpeech="grammatical particle"/>
+      <Sense id="L583896-S1" synset="wikidata-ml-L583896-S1" ili="wikidata-ml-L583896-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L591276">
+      <Lemma writtenForm="കൂട്ട്" partOfSpeech="postposition"/>
+      <Sense id="L591276-S1" synset="wikidata-ml-L591276-S1" ili="l45034-s1">
+        <Definition>പോലെ, മാതിരി</Definition>
+        <SenseRelation relType="similar" target="wikidata-ml-L580012-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L591277">
+      <Lemma writtenForm="മാതിരി" partOfSpeech="postposition"/>
+      <Sense id="L591277-S1" synset="wikidata-ml-L591277-S1" ili="wikidata-ml-L591277-S1">
+        <Definition>പോലെ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592035">
+      <Lemma writtenForm="ചുരുക്കം" partOfSpeech="determiner"/>
+      <Sense id="L592035-S1" synset="wikidata-ml-L592035-S1" ili="wikidata-ml-L592035-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L611808">
+      <Lemma writtenForm="കൂടെ" partOfSpeech="conjunction"/>
+      <Sense id="L611808-S1" synset="wikidata-ml-L611808-S1" ili="wikidata-ml-L611808-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673509">
+      <Lemma writtenForm="അടുത്ത" partOfSpeech="postposition"/>
+      <Sense id="L673509-S1" synset="wikidata-ml-L673509-S1" ili="wikidata-ml-L673509-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L673509-S2" synset="wikidata-ml-L673509-S2" ili="wikidata-ml-L673509-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673512">
+      <Lemma writtenForm="അല്ല" partOfSpeech="grammatical particle"/>
+      <Sense id="L673512-S1" synset="wikidata-ml-L673512-S1" ili="wikidata-ml-L673512-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679093">
+      <Lemma writtenForm="തൊണ്ണൂറ്റിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679093-S1" synset="wikidata-ml-L679093-S1" ili="wikidata-ml-L679093-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679128">
+      <Lemma writtenForm="ഇരുപത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679128-S1" synset="wikidata-ml-L679128-S1" ili="wikidata-ml-L679128-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679149">
+      <Lemma writtenForm="നാൽപ്പത്തൊമ്പത്" partOfSpeech="numeral"/>
+      <Sense id="L679149-S1" synset="wikidata-ml-L679149-S1" ili="wikidata-ml-L679149-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679153">
+      <Lemma writtenForm="അമ്പത്തിമൂന്ന്" partOfSpeech="numeral"/>
+      <Sense id="L679153-S1" synset="wikidata-ml-L679153-S1" ili="wikidata-ml-L679153-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679177">
+      <Lemma writtenForm="എഴുപത്തെട്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679177-S1" synset="wikidata-ml-L679177-S1" ili="wikidata-ml-L679177-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679182">
+      <Lemma writtenForm="എൺപത്തിരണ്ട്" partOfSpeech="numeral"/>
+      <Sense id="L679182-S1" synset="wikidata-ml-L679182-S1" ili="wikidata-ml-L679182-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688238">
+      <Lemma writtenForm="സമീപത്തെ" partOfSpeech="postposition"/>
+      <Sense id="L688238-S1" synset="wikidata-ml-L688238-S1" ili="wikidata-ml-L688238-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1132046">
+      <Lemma writtenForm="മുകളിൽ" partOfSpeech="preposition"/>
+      <Sense id="L1132046-S1" synset="wikidata-ml-L1132046-S1" ili="wikidata-ml-L1132046-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ml-L2391-S1" ili="l332-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2392-S1" ili="l333-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2395-S1" ili="l336-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2398-S1" ili="wikidata-ml-L2398-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2404-S1" ili="wikidata-ml-L2404-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2407-S1" ili="wikidata-ml-L2407-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2439-S1" ili="l483-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L30579-S1" ili="wikidata-ml-L30579-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L412848-S1" ili="wikidata-ml-L412848-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L551211-S1" ili="wikidata-ml-L551211-S1">
+      <Definition>ഞാൻ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L551227-S1" ili="wikidata-ml-L551227-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562660-S1" ili="wikidata-ml-L562660-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578410-S1" ili="wikidata-ml-L578410-S1">
+      <Definition>തൊട്ട്, തുടങ്ങി</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579655-S1" ili="wikidata-ml-L579655-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579656-S1" ili="wikidata-ml-L579656-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579724-S1" ili="wikidata-ml-L579724-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583927-S1" ili="wikidata-ml-L583927-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L593018-S1" ili="wikidata-ml-L593018-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L611809-S1" ili="wikidata-ml-L611809-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L616859-S1" ili="wikidata-ml-L616859-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679096-S1" ili="wikidata-ml-L679096-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679144-S1" ili="wikidata-ml-L679144-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679145-S1" ili="wikidata-ml-L679145-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679147-S1" ili="wikidata-ml-L679147-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679158-S1" ili="wikidata-ml-L679158-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679159-S1" ili="wikidata-ml-L679159-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679161-S1" ili="wikidata-ml-L679161-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679178-S1" ili="wikidata-ml-L679178-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679181-S1" ili="wikidata-ml-L679181-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679184-S1" ili="wikidata-ml-L679184-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2389-S1" ili="l329-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2396-S1" ili="l337-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2406-S1" ili="l4138-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2412-S1" ili="wikidata-ml-L2412-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2426-S1" ili="wikidata-ml-L2426-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2440-S1" ili="wikidata-ml-L2440-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2444-S1" ili="l485-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300690-S1" ili="wikidata-ml-L300690-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L413259-S1" ili="wikidata-ml-L413259-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L506127-S1" ili="wikidata-ml-L506127-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562662-S1" ili="wikidata-ml-L562662-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578461-S1" ili="wikidata-ml-L578461-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579696-S1" ili="wikidata-ml-L579696-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580439-S1" ili="wikidata-ml-L580439-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580441-S1" ili="wikidata-ml-L580441-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580442-S1" ili="wikidata-ml-L580442-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679099-S1" ili="wikidata-ml-L679099-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679135-S1" ili="wikidata-ml-L679135-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679142-S1" ili="wikidata-ml-L679142-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679157-S1" ili="wikidata-ml-L679157-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679162-S1" ili="wikidata-ml-L679162-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679165-S1" ili="wikidata-ml-L679165-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679168-S1" ili="wikidata-ml-L679168-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679173-S1" ili="wikidata-ml-L679173-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679179-S1" ili="wikidata-ml-L679179-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679186-S1" ili="wikidata-ml-L679186-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L687130-S1" ili="wikidata-ml-L687130-S1">
+      <Definition>വിമുക്ത</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L687130-S2" ili="wikidata-ml-L687130-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L689505-S1" ili="wikidata-ml-L689505-S1">
+      <Definition>അല്പം; കുറച്ച്</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1132044-S1" ili="wikidata-ml-L1132044-S1">
+      <Definition>താഴെ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2393-S1" ili="l334-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2409-S1" ili="wikidata-ml-L2409-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2438-S1" ili="l482-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300678-S2" ili="wikidata-ml-L300678-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458631-S1" ili="wikidata-ml-L458631-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L470364-S1" ili="wikidata-ml-L470364-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L479461-S1" ili="l579678-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L479461-S2" ili="wikidata-ml-L479461-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L527810-S1" ili="wikidata-ml-L527810-S1">
+      <Definition>ആ ആൾ, ആ മനുഷ്യൻ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L529529-S1" ili="wikidata-ml-L529529-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562659-S1" ili="wikidata-ml-L562659-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562661-S1" ili="wikidata-ml-L562661-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578459-S1" ili="wikidata-ml-L578459-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578460-S1" ili="l3229-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579658-S1" ili="wikidata-ml-L579658-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579658-S2" ili="wikidata-ml-L579658-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579688-S1" ili="wikidata-ml-L579688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579697-S1" ili="wikidata-ml-L579697-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580204-S1" ili="wikidata-ml-L580204-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580921-S1" ili="wikidata-ml-L580921-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580921-S2" ili="wikidata-ml-L580921-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583883-S1" ili="wikidata-ml-L583883-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L584473-S1" ili="wikidata-ml-L584473-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L592412-S1" ili="wikidata-ml-L592412-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L592448-S1" ili="wikidata-ml-L592448-S1">
+      <Definition>അല്പം</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L593992-S1" ili="wikidata-ml-L593992-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679101-S1" ili="wikidata-ml-L679101-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679130-S1" ili="wikidata-ml-L679130-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679133-S1" ili="wikidata-ml-L679133-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679137-S1" ili="wikidata-ml-L679137-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679141-S1" ili="wikidata-ml-L679141-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679146-S1" ili="wikidata-ml-L679146-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679148-S1" ili="wikidata-ml-L679148-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679152-S1" ili="wikidata-ml-L679152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679172-S1" ili="wikidata-ml-L679172-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679175-S1" ili="wikidata-ml-L679175-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679198-S1" ili="wikidata-ml-L679198-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2397-S1" ili="l338-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2401-S1" ili="wikidata-ml-L2401-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2417-S1" ili="wikidata-ml-L2417-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2423-S1" ili="wikidata-ml-L2423-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2437-S1" ili="l487-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300680-S1" ili="wikidata-ml-L300680-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300683-S1" ili="wikidata-ml-L300683-S1">
+      <Definition>ശതകോടി</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458625-S1" ili="wikidata-ml-L458625-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458633-S1" ili="wikidata-ml-L458633-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562658-S1" ili="wikidata-ml-L562658-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578369-S1" ili="wikidata-ml-L578369-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580208-S1" ili="wikidata-ml-L580208-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583830-S1" ili="wikidata-ml-L583830-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L592413-S1" ili="wikidata-ml-L592413-S1">
+      <Definition>ഏതാണ്ട്, ഒട്ടൊക്കെ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L611807-S1" ili="wikidata-ml-L611807-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L616846-S1" ili="wikidata-ml-L616846-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673519-S1" ili="wikidata-ml-L673519-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673519-S2" ili="wikidata-ml-L673519-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679091-S1" ili="wikidata-ml-L679091-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679123-S1" ili="wikidata-ml-L679123-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679139-S1" ili="wikidata-ml-L679139-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679151-S1" ili="wikidata-ml-L679151-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679163-S1" ili="wikidata-ml-L679163-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679164-S1" ili="wikidata-ml-L679164-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679176-S1" ili="wikidata-ml-L679176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679189-S1" ili="wikidata-ml-L679189-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679190-S1" ili="wikidata-ml-L679190-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2388-S1" ili="l327-s1">
+      <Definition>1, സംഖ്യ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2390-S1" ili="l330-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2394-S1" ili="l335-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2403-S1" ili="wikidata-ml-L2403-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2418-S1" ili="wikidata-ml-L2418-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2422-S1" ili="wikidata-ml-L2422-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2424-S1" ili="wikidata-ml-L2424-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2425-S1" ili="wikidata-ml-L2425-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2445-S1" ili="wikidata-ml-L2445-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300679-S1" ili="wikidata-ml-L300679-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300682-S1" ili="wikidata-ml-L300682-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300706-S1" ili="wikidata-ml-L300706-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L469615-S1" ili="l484-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L551228-S1" ili="wikidata-ml-L551228-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579652-S1" ili="wikidata-ml-L579652-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579654-S1" ili="wikidata-ml-L579654-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579693-S1" ili="wikidata-ml-L579693-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580920-S1" ili="wikidata-ml-L580920-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583888-S1" ili="wikidata-ml-L583888-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583893-S1" ili="wikidata-ml-L583893-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L616845-S1" ili="wikidata-ml-L616845-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679094-S1" ili="wikidata-ml-L679094-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679126-S1" ili="wikidata-ml-L679126-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679134-S1" ili="wikidata-ml-L679134-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679136-S1" ili="wikidata-ml-L679136-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679138-S1" ili="wikidata-ml-L679138-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679169-S1" ili="wikidata-ml-L679169-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1116228-S1" ili="wikidata-ml-L1116228-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1130641-S1" ili="wikidata-ml-L1130641-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2400-S1" ili="wikidata-ml-L2400-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2419-S1" ili="wikidata-ml-L2419-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L30578-S1" ili="wikidata-ml-L30578-S1">
+      <Definition>സംഖ്യ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300688-S1" ili="wikidata-ml-L300688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300705-S1" ili="wikidata-ml-L300705-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300705-S2" ili="wikidata-ml-L300705-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300708-S1" ili="wikidata-ml-L300708-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458626-S1" ili="wikidata-ml-L458626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458628-S1" ili="wikidata-ml-L458628-S1">
+      <Definition>ദശലക്ഷം</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458629-S1" ili="wikidata-ml-L458629-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458632-S1" ili="wikidata-ml-L458632-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L547840-S1" ili="l2994-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L556712-S1" ili="wikidata-ml-L556712-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579653-S1" ili="wikidata-ml-L579653-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579680-S1" ili="wikidata-ml-L579680-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579681-S1" ili="wikidata-ml-L579681-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579996-S1" ili="wikidata-ml-L579996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580364-S1" ili="wikidata-ml-L580364-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580364-S2" ili="l333928-s2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580919-S1" ili="wikidata-ml-L580919-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580919-S2" ili="wikidata-ml-L580919-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583884-S1" ili="wikidata-ml-L583884-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583889-S1" ili="wikidata-ml-L583889-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583889-S2" ili="wikidata-ml-L583889-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673513-S1" ili="wikidata-ml-L673513-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679095-S1" ili="wikidata-ml-L679095-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679097-S1" ili="wikidata-ml-L679097-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679124-S1" ili="wikidata-ml-L679124-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679143-S1" ili="wikidata-ml-L679143-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679150-S1" ili="wikidata-ml-L679150-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679155-S1" ili="wikidata-ml-L679155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679167-S1" ili="wikidata-ml-L679167-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679183-S1" ili="wikidata-ml-L679183-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679185-S1" ili="wikidata-ml-L679185-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679199-S1" ili="wikidata-ml-L679199-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L687132-S1" ili="wikidata-ml-L687132-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1116227-S1" ili="wikidata-ml-L1116227-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1132045-S1" ili="wikidata-ml-L1132045-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2399-S1" ili="wikidata-ml-L2399-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2405-S1" ili="wikidata-ml-L2405-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2408-S1" ili="wikidata-ml-L2408-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2411-S1" ili="wikidata-ml-L2411-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2414-S1" ili="wikidata-ml-L2414-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2415-S1" ili="wikidata-ml-L2415-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2421-S1" ili="wikidata-ml-L2421-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300691-S1" ili="wikidata-ml-L300691-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L467066-S1" ili="wikidata-ml-L467066-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578371-S1" ili="wikidata-ml-L578371-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L578411-S1" ili="wikidata-ml-L578411-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579705-S1" ili="l310592-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579995-S1" ili="wikidata-ml-L579995-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583831-S1" ili="wikidata-ml-L583831-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583880-S1" ili="wikidata-ml-L583880-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583887-S1" ili="wikidata-ml-L583887-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583887-S2" ili="wikidata-ml-L583887-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679098-S1" ili="wikidata-ml-L679098-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679125-S1" ili="wikidata-ml-L679125-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679127-S1" ili="wikidata-ml-L679127-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679129-S1" ili="wikidata-ml-L679129-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679131-S1" ili="wikidata-ml-L679131-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679132-S1" ili="wikidata-ml-L679132-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679154-S1" ili="wikidata-ml-L679154-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679156-S1" ili="wikidata-ml-L679156-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679166-S1" ili="wikidata-ml-L679166-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679171-S1" ili="wikidata-ml-L679171-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679187-S1" ili="wikidata-ml-L679187-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679188-S1" ili="wikidata-ml-L679188-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679197-S1" ili="wikidata-ml-L679197-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L689694-S1" ili="wikidata-ml-L689694-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L689694-S2" ili="wikidata-ml-L689694-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1117766-S1" ili="l4155-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2402-S1" ili="wikidata-ml-L2402-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2410-S1" ili="wikidata-ml-L2410-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2413-S1" ili="wikidata-ml-L2413-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2416-S1" ili="l2263-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L2420-S1" ili="wikidata-ml-L2420-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300681-S1" ili="wikidata-ml-L300681-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300681-S2" ili="wikidata-ml-L300681-S2">
+      <Definition>(പഴയ) 10&lt;sup&gt;23&lt;/sup&gt;, നൂറു നൂറായിരം മഹൗഘം</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300689-S1" ili="wikidata-ml-L300689-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L300707-S1" ili="wikidata-ml-L300707-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458627-S1" ili="wikidata-ml-L458627-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L458630-S1" ili="wikidata-ml-L458630-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L562882-S1" ili="wikidata-ml-L562882-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579657-S1" ili="wikidata-ml-L579657-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579687-S1" ili="wikidata-ml-L579687-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L579725-S1" ili="wikidata-ml-L579725-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L580012-S1" ili="l45034-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583890-S1" ili="wikidata-ml-L583890-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583890-S2" ili="wikidata-ml-L583890-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L583896-S1" ili="wikidata-ml-L583896-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L591276-S1" ili="l45034-s1">
+      <Definition>പോലെ, മാതിരി</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L591277-S1" ili="wikidata-ml-L591277-S1">
+      <Definition>പോലെ</Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L592035-S1" ili="wikidata-ml-L592035-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L611808-S1" ili="wikidata-ml-L611808-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673509-S1" ili="wikidata-ml-L673509-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673509-S2" ili="wikidata-ml-L673509-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L673512-S1" ili="wikidata-ml-L673512-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679093-S1" ili="wikidata-ml-L679093-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679128-S1" ili="wikidata-ml-L679128-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679149-S1" ili="wikidata-ml-L679149-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679153-S1" ili="wikidata-ml-L679153-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679177-S1" ili="wikidata-ml-L679177-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L679182-S1" ili="wikidata-ml-L679182-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L688238-S1" ili="wikidata-ml-L688238-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ml-L1132046-S1" ili="wikidata-ml-L1132046-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

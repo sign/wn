@@ -1,0 +1,2090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-es"
+                    label="Wikidata ES Lexemes Extension"
+                    language="es"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-es" version="1.4"/>
+    <LexicalEntry id="L11720">
+      <Lemma writtenForm="un" partOfSpeech="indefinite article"/>
+      <Sense id="L11720-S1" synset="wikidata-es-L11720-S1" ili="wikidata-es-L11720-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11739">
+      <Lemma writtenForm="desde" partOfSpeech="preposition"/>
+      <Sense id="L11739-S1" synset="wikidata-es-L11739-S1" ili="wikidata-es-L11739-S1">
+        <Definition>Preposición que indica el origen o inicio de una actividad, tanto en sentido locativo, como cronológico.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11741">
+      <Lemma writtenForm="en" partOfSpeech="preposition"/>
+      <Sense id="L11741-S1" synset="wikidata-es-L11741-S1" ili="wikidata-es-L11741-S1">
+        <Definition>circunstancia bajo la cual algo se realiza</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11744">
+      <Lemma writtenForm="hasta" partOfSpeech="preposition"/>
+      <Sense id="L11744-S1" synset="wikidata-es-L11744-S1" ili="wikidata-es-L11744-S1">
+        <Definition>indica el fin o término de una actividad en sentido locativo</Definition>
+        <Example>Se extiende desde el océano Glacial Ártico hasta el Antártico.</Example>
+      </Sense>
+      <Sense id="L11744-S2" synset="wikidata-es-L11744-S2" ili="wikidata-es-L11744-S2">
+        <Definition>indica el fin o término de una actividad en sentido cronológico</Definition>
+        <Example>Se mantuvo activo publicando artículos hasta su muerte.</Example>
+      </Sense>
+      <Sense id="L11744-S3" synset="wikidata-es-L11744-S3" ili="wikidata-es-L11744-S3">
+        <Definition>indica el fin o término de una actividad en sentido cuantitativo</Definition>
+        <Example>Los motores de gasolina abarcaban hasta 2 litros.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L45673">
+      <Lemma writtenForm="elle" partOfSpeech="personal pronoun"/>
+      <Sense id="L45673-S1" synset="wikidata-es-L45673-S1" ili="l371-s1">
+        <Definition>tercera persona neutral</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57024">
+      <Lemma writtenForm="por el contrario" partOfSpeech="adverbial locution"/>
+      <Sense id="L57024-S1" synset="wikidata-es-L57024-S1" ili="wikidata-es-L57024-S1">
+        <Definition>de forma opuesta</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57025-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57025">
+      <Lemma writtenForm="por lo contrario" partOfSpeech="adverbial locution"/>
+      <Sense id="L57025-S1" synset="wikidata-es-L57025-S1" ili="wikidata-es-L57025-S1">
+        <Definition>de forma opuesta</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57024-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57206">
+      <Lemma writtenForm="apenas si" partOfSpeech="adverbial locution"/>
+      <Sense id="L57206-S1" synset="wikidata-es-L57206-S1" ili="wikidata-es-L57206-S1">
+        <Definition>casi no</Definition>
+        <Example>Apenas si podía mantenerse en pie.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57860">
+      <Lemma writtenForm="entre tanto" partOfSpeech="adverbial locution"/>
+      <Sense id="L57860-S1" synset="wikidata-es-L57860-S1" ili="wikidata-es-L57860-S1">
+        <Definition>al mismo tiempo que</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57882">
+      <Lemma writtenForm="así como así" partOfSpeech="adverbial locution"/>
+      <Sense id="L57882-S1" synset="wikidata-es-L57882-S1" ili="wikidata-es-L57882-S1">
+        <Definition>de cualquier manera</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57903">
+      <Lemma writtenForm="menos" partOfSpeech="conjunction"/>
+      <Sense id="L57903-S1" synset="wikidata-es-L57903-S1" ili="wikidata-es-L57903-S1">
+        <Definition>introduce una excepción</Definition>
+        <Example>Estoy siempre en Madrid, menos en las vacaciones.</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L57007-S1"/>
+      </Sense>
+      <Sense id="L57903-S2" synset="wikidata-es-L57903-S2" ili="wikidata-es-L57903-S2">
+        <Definition>en la operación aritmética de la resta indica sustracción</Definition>
+        <Example>Tres menos dos son uno.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58030">
+      <Lemma writtenForm="a su vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58030-S1" synset="wikidata-es-L58030-S1" ili="wikidata-es-L58030-S1">
+        <Definition>por su parte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58032">
+      <Lemma writtenForm="a tu vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58032-S1" synset="wikidata-es-L58032-S1" ili="wikidata-es-L58032-S1">
+        <Definition>por tu parte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58033">
+      <Lemma writtenForm="a veces" partOfSpeech="adverbial locution"/>
+      <Sense id="L58033-S1" synset="wikidata-es-L58033-S1" ili="wikidata-es-L58033-S1">
+        <Definition>en algunos casos</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58053">
+      <Lemma writtenForm="fuera de tiempo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58053-S1" synset="wikidata-es-L58053-S1" ili="wikidata-es-L58053-S1">
+        <Definition>de forma intempestiva</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58054-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58225">
+      <Lemma writtenForm="a lo lejos" partOfSpeech="adverbial locution"/>
+      <Sense id="L58225-S1" synset="wikidata-es-L58225-S1" ili="wikidata-es-L58225-S1">
+        <Definition>a gran distancia</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58226-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58228-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1133389-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58275">
+      <Lemma writtenForm="en general" partOfSpeech="adverbial locution"/>
+      <Sense id="L58275-S1" synset="wikidata-es-L58275-S1" ili="wikidata-es-L58275-S1">
+        <Definition>de forma general</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58276-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L651850">
+      <Lemma writtenForm="aquende" partOfSpeech="preposition"/>
+      <Sense id="L651850-S1" synset="wikidata-es-L651850-S1" ili="wikidata-es-L651850-S1">
+        <Definition>este lado de; la parte más cercana de; delante de</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L929102">
+      <Lemma writtenForm="empero" partOfSpeech="conjunction"/>
+      <Sense id="L929102-S1" synset="wikidata-es-L929102-S1" ili="wikidata-es-L929102-S1">
+        <Definition>introduce una frase que contradice o contrasta con lo antecedente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133162">
+      <Lemma writtenForm="esotro" partOfSpeech="pronoun"/>
+      <Sense id="L1133162-S1" synset="wikidata-es-L1133162-S1" ili="wikidata-es-L1133162-S1">
+        <Definition>ese otro</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188155">
+      <Lemma writtenForm="en cuanto" partOfSpeech="prepositional locution"/>
+      <Sense id="L1188155-S1" synset="wikidata-es-L1188155-S1" ili="wikidata-es-L1188155-S1">
+        <Definition>con la condición o función de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57207-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233181">
+      <Lemma writtenForm="miércale" partOfSpeech="interjection"/>
+      <Sense id="L1233181-S1" synset="wikidata-es-L1233181-S1" ili="wikidata-es-L1233181-S1">
+        <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1233182-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233175-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233179-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233182">
+      <Lemma writtenForm="mierda" partOfSpeech="interjection"/>
+      <Sense id="L1233182-S1" synset="wikidata-es-L1233182-S1" ili="wikidata-es-L1233182-S1">
+        <Definition>se usa para expresar ira, frustración o desagrado</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1233175-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233179-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233181-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411934">
+      <Lemma writtenForm="vamos" partOfSpeech="interjection"/>
+      <Sense id="L1411934-S1" synset="wikidata-es-L1411934-S1" ili="wikidata-es-L1411934-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11728">
+      <Lemma writtenForm="cabe" partOfSpeech="preposition"/>
+      <Sense id="L11728-S1" synset="wikidata-es-L11728-S1" ili="wikidata-es-L11728-S1">
+        <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L651865-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11768">
+      <Lemma writtenForm="vía" partOfSpeech="preposition"/>
+      <Sense id="L11768-S1" synset="wikidata-es-L11768-S1" ili="l8964-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40971">
+      <Lemma writtenForm="que" partOfSpeech="conjunction"/>
+      <Sense id="L40971-S1" synset="wikidata-es-L40971-S1" ili="wikidata-es-L40971-S1">
+        <Definition>palabra que introduce una oración subordinada sustantiva</Definition>
+        <Example>Es necesario que estudie.</Example>
+      </Sense>
+      <Sense id="L40971-S2" synset="wikidata-es-L40971-S2" ili="wikidata-es-L40971-S2">
+        <Definition>elemento de frases comparativas</Definition>
+        <Example>Su casa es más grande que la mía.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L55951">
+      <Lemma writtenForm="yo" partOfSpeech="personal pronoun"/>
+      <Sense id="L55951-S1" synset="wikidata-es-L55951-S1" ili="l487-s1">
+        <Definition>pronombre personal en primera persona del singular</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56586">
+      <Lemma writtenForm="porque" partOfSpeech="conjunction"/>
+      <Sense id="L56586-S1" synset="wikidata-es-L56586-S1" ili="wikidata-es-L56586-S1">
+        <Definition>a causa de</Definition>
+      </Sense>
+      <Sense id="L56586-S2" synset="wikidata-es-L56586-S2" ili="wikidata-es-L56586-S2">
+        <Definition>para que</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56597">
+      <Lemma writtenForm="nosotros" partOfSpeech="personal pronoun"/>
+      <Sense id="L56597-S1" synset="wikidata-es-L56597-S1" ili="wikidata-es-L56597-S1">
+        <Definition>pronombre personal en primera personal plural</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56999">
+      <Lemma writtenForm="vosotros" partOfSpeech="personal pronoun"/>
+      <Sense id="L56999-S1" synset="wikidata-es-L56999-S1" ili="wikidata-es-L56999-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57009">
+      <Lemma writtenForm="aunque" partOfSpeech="conjunction"/>
+      <Sense id="L57009-S1" synset="wikidata-es-L57009-S1" ili="wikidata-es-L57009-S1">
+        <Definition>introduce un impedimento</Definition>
+      </Sense>
+      <Sense id="L57009-S2" synset="wikidata-es-L57009-S2" ili="wikidata-es-L57009-S2">
+        <Definition>pero; usada para contraponer algo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57020">
+      <Lemma writtenForm="a cambio de" partOfSpeech="prepositional locution"/>
+      <Sense id="L57020-S1" synset="wikidata-es-L57020-S1" ili="wikidata-es-L57020-S1">
+        <Definition>en vez de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57021-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L57022-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57023">
+      <Lemma writtenForm="al contrario" partOfSpeech="adverbial locution"/>
+      <Sense id="L57023-S1" synset="wikidata-es-L57023-S1" ili="wikidata-es-L57023-S1">
+        <Definition>de forma opuesta</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57205">
+      <Lemma writtenForm="en cuanto" partOfSpeech="adverbial locution"/>
+      <Sense id="L57205-S1" synset="wikidata-es-L57205-S1" ili="wikidata-es-L57205-S1">
+        <Definition>inmediatamente después</Definition>
+        <Example>En cuanto deje de llover, saldré a comprar.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57344">
+      <Lemma writtenForm="de por vida" partOfSpeech="adverbial locution"/>
+      <Sense id="L57344-S1" synset="wikidata-es-L57344-S1" ili="wikidata-es-L57344-S1">
+        <Definition>durante toda una vida</Definition>
+        <Example>Mantuvo su promesa de por vida.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57819">
+      <Lemma writtenForm="por lo tanto" partOfSpeech="adverbial locution"/>
+      <Sense id="L57819-S1" synset="wikidata-es-L57819-S1" ili="wikidata-es-L57819-S1">
+        <Definition>en consecuencia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58031">
+      <Lemma writtenForm="a mi vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58031-S1" synset="wikidata-es-L58031-S1" ili="wikidata-es-L58031-S1">
+        <Definition>por mi parte</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58057">
+      <Lemma writtenForm="en contra" partOfSpeech="adverbial locution"/>
+      <Sense id="L58057-S1" synset="wikidata-es-L58057-S1" ili="wikidata-es-L58057-S1">
+        <Definition>opuesto a algo o alguien</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58231">
+      <Lemma writtenForm="antes" partOfSpeech="conjunction"/>
+      <Sense id="L58231-S1" synset="wikidata-es-L58231-S1" ili="wikidata-es-L58231-S1">
+        <Definition>por el contrario; introduce una idea o frase que contradice y se prefiere a otra previa</Definition>
+        <Example>No temo los peligros, antes los busco.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L227971">
+      <Lemma writtenForm="de facto" partOfSpeech="adverbial locution"/>
+      <Sense id="L227971-S1" synset="wikidata-es-L227971-S1" ili="wikidata-es-L227971-S1">
+        <Definition>que ocurre en la vida real, aunque no esté legislado</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303609">
+      <Lemma writtenForm="ella" partOfSpeech="personal pronoun"/>
+      <Sense id="L303609-S1" synset="wikidata-es-L303609-S1" ili="l484-s1">
+        <Definition>pronombre en tercera persona femenina</Definition>
+        <Example>Ella comentó que el mayor miedo que tenia se hizo realidad cuando contrajo el virus mientras vendía comida.</Example>
+        <Example>Ella comentó sobre las historias, los mitos y las cosmovisiones de los pueblos indígenas de la Amazonía y sus vínculos con las luchas por la autodeterminación y la preservación de los territorios ancestrales.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L584572">
+      <Lemma writtenForm="debajo de" partOfSpeech="prepositional locution"/>
+      <Sense id="L584572-S1" synset="wikidata-es-L584572-S1" ili="wikidata-es-L584572-S1">
+        <Definition>indica una posición inferior</Definition>
+        <Example>Debajo de nuestra ventana está el jardín</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L11724-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L619485">
+      <Lemma writtenForm="sanseacabó" partOfSpeech="interjection"/>
+      <Sense id="L619485-S1" synset="wikidata-es-L619485-S1" ili="wikidata-es-L619485-S1">
+        <Definition>expresión con la que se da término a un tema o discusión</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643999">
+      <Lemma writtenForm="guerra" partOfSpeech="interjection"/>
+      <Sense id="L643999-S1" synset="wikidata-es-L643999-S1" ili="wikidata-es-L643999-S1">
+        <Definition>voz o grito usado para llamar o animar al combate</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646358">
+      <Lemma writtenForm="quien" partOfSpeech="pronoun"/>
+      <Sense id="L646358-S1" synset="wikidata-es-L646358-S1" ili="wikidata-es-L646358-S1">
+        <Definition>el cual; los cuales; hace referencia a una persona o personas ya referidas anteriormente</Definition>
+        <Example>El actual arzobispo, quien fue entronizado en la catedral de la ciudad.</Example>
+        <Example>En 1648 llegaron los primeros pobladores, quienes le dieron su actual nombre.</Example>
+      </Sense>
+      <Sense id="L646358-S2" synset="wikidata-es-L646358-S2" ili="wikidata-es-L646358-S2">
+        <Definition>hace referencia a una persona o personas de forma general, sin haber sido referidas anteriormente</Definition>
+        <Example>Deben revisarse correctamente o de lo contrario quien salga electo no tendrá ninguna legitimidad.</Example>
+      </Sense>
+      <Sense id="L646358-S3" synset="wikidata-es-L646358-S3" ili="wikidata-es-L646358-S3">
+        <Definition>nadie que; alguien que</Definition>
+        <Example>No consiguió encontrar quien le entendiera.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673471">
+      <Lemma writtenForm="cómo" partOfSpeech="interjection"/>
+      <Sense id="L673471-S1" synset="wikidata-es-L673471-S1" ili="wikidata-es-L673471-S1">
+        <Definition>invita a repetir lo dicho o a explicarlo</Definition>
+      </Sense>
+      <Sense id="L673471-S2" synset="wikidata-es-L673471-S2" ili="wikidata-es-L673471-S2">
+        <Definition>indica enfado</Definition>
+      </Sense>
+      <Sense id="L673471-S3" synset="wikidata-es-L673471-S3" ili="wikidata-es-L673471-S3">
+        <Definition>indica asombro o sorpresa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737780">
+      <Lemma writtenForm="al suavetón" partOfSpeech="adverbial locution"/>
+      <Sense id="L737780-S1" synset="wikidata-es-L737780-S1" ili="wikidata-es-L737780-S1">
+        <Definition>de forma suave</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741574">
+      <Lemma writtenForm="a la mujeriega" partOfSpeech="adverbial locution"/>
+      <Sense id="L741574-S1" synset="wikidata-es-L741574-S1" ili="wikidata-es-L741574-S1">
+        <Definition>forma de montar a caballo, con ambas piernas hacia el mismo lado del animal</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L741577-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L744418">
+      <Lemma writtenForm="en voz alta" partOfSpeech="adverbial locution"/>
+      <Sense id="L744418-S1" synset="wikidata-es-L744418-S1" ili="wikidata-es-L744418-S1">
+        <Definition>de forma audible, lo suficientemente fuerte para que otras personas puedan oír claramente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L755116">
+      <Lemma writtenForm="aquí" partOfSpeech="interjection"/>
+      <Sense id="L755116-S1" synset="wikidata-es-L755116-S1" ili="wikidata-es-L755116-S1">
+        <Definition>se usa para pedir socorro</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1156886">
+      <Lemma writtenForm="chao" partOfSpeech="interjection"/>
+      <Sense id="L1156886-S1" synset="wikidata-es-L1156886-S1" ili="wikidata-es-L1156886-S1">
+        <Definition>utilizado para despedirse</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1156891-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1156891">
+      <Lemma writtenForm="chau" partOfSpeech="interjection"/>
+      <Sense id="L1156891-S1" synset="wikidata-es-L1156891-S1" ili="wikidata-es-L1156891-S1">
+        <Definition>utilizado para despedirse</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1156886-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410269">
+      <Lemma writtenForm="ay" partOfSpeech="interjection"/>
+      <Sense id="L1410269-S1" synset="wikidata-es-L1410269-S1" ili="wikidata-es-L1410269-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11724">
+      <Lemma writtenForm="bajo" partOfSpeech="preposition"/>
+      <Sense id="L11724-S1" synset="wikidata-es-L11724-S1" ili="wikidata-es-L11724-S1">
+        <Definition>indica una posición inferior</Definition>
+        <Example>Bajo nuestra ventana está el jardín</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L584572-S1"/>
+      </Sense>
+      <Sense id="L11724-S2" synset="wikidata-es-L11724-S2" ili="wikidata-es-L11724-S2">
+        <Definition>indica subordinación o dependiencia</Definition>
+        <Example>Las tropas bajo su mando</Example>
+      </Sense>
+      <Sense id="L11724-S3" synset="wikidata-es-L11724-S3" ili="wikidata-es-L11724-S3">
+        <Definition>indica la ubicación dentro de un periodo de tiempo</Definition>
+        <Example>Bajo la última dinastía de los faraones</Example>
+      </Sense>
+      <Sense id="L11724-S4" synset="wikidata-es-L11724-S4" ili="wikidata-es-L11724-S4">
+        <Definition>indica inclusión dentro de un grupo</Definition>
+        <Example>Bajo las diversas formas de la esgrima, prefiero el florete por su velocidad</Example>
+      </Sense>
+      <Sense id="L11724-S5" synset="wikidata-es-L11724-S5" ili="wikidata-es-L11724-S5">
+        <Definition>indica ocultamiento</Definition>
+        <Example>Bajo su disfraz de mendigo, salió el rey a conocer la opinión de Bagdad</Example>
+      </Sense>
+      <Sense id="L11724-S6" synset="wikidata-es-L11724-S6" ili="wikidata-es-L11724-S6">
+        <Definition>indica una opinión o punto de vista</Definition>
+        <Example>Bajo nuestro punto de vista</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11733">
+      <Lemma writtenForm="contra" partOfSpeech="preposition"/>
+      <Sense id="L11733-S1" synset="wikidata-es-L11733-S1" ili="wikidata-es-L11733-S1">
+        <Definition>indica oposición</Definition>
+      </Sense>
+      <Sense id="L11733-S2" synset="wikidata-es-L11733-S2" ili="wikidata-es-L11733-S2">
+        <Definition>indica la dirección del movimiento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11743">
+      <Lemma writtenForm="hacia" partOfSpeech="preposition"/>
+      <Sense id="L11743-S1" synset="wikidata-es-L11743-S1" ili="wikidata-es-L11743-S1">
+        <Definition>indica la dirección del movimiento con relación a su destino aparente o real</Definition>
+        <Example>El avión despega y se eleva hacia el cielo.</Example>
+      </Sense>
+      <Sense id="L11743-S2" synset="wikidata-es-L11743-S2" ili="wikidata-es-L11743-S2">
+        <Definition>indica la orientación</Definition>
+        <Example>En la ventana que está hacia el norte.</Example>
+      </Sense>
+      <Sense id="L11743-S3" synset="wikidata-es-L11743-S3" ili="wikidata-es-L11743-S3">
+        <Definition>cerca de; alrededor de; indica proximidad espacial</Definition>
+        <Example>Hicimos un alto en nuestro viaje, hacia el kilómetro 50 de la autovía.</Example>
+      </Sense>
+      <Sense id="L11743-S4" synset="wikidata-es-L11743-S4" ili="wikidata-es-L11743-S4">
+        <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+        <Example>Aquí se come hacia las cinco de la tarde.</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L651860-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40976">
+      <Lemma writtenForm="cuando" partOfSpeech="preposition"/>
+      <Sense id="L40976-S1" synset="wikidata-es-L40976-S1" ili="wikidata-es-L40976-S1">
+        <Definition>indica el tiempo en oraciones sin verbo</Definition>
+        <Example>Cuando joven, tenía buena memoria.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L55954">
+      <Lemma writtenForm="pero" partOfSpeech="conjunction"/>
+      <Sense id="L55954-S1" synset="wikidata-es-L55954-S1" ili="wikidata-es-L55954-S1">
+        <Definition>introduce una contraposición</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57067-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57008">
+      <Lemma writtenForm="conque" partOfSpeech="conjunction"/>
+      <Sense id="L57008-S1" synset="wikidata-es-L57008-S1" ili="wikidata-es-L57008-S1">
+        <Definition>se usa para introducir una oración que expresa la conclusión o consecuencia de lo antedicho</Definition>
+      </Sense>
+      <Sense id="L57008-S2" synset="wikidata-es-L57008-S2" ili="wikidata-es-L57008-S2">
+        <Definition>se usa para expresar sorpresa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57014">
+      <Lemma writtenForm="mientras" partOfSpeech="conjunction"/>
+      <Sense id="L57014-S1" synset="wikidata-es-L57014-S1" ili="wikidata-es-L57014-S1">
+        <Definition>al mismo tiempo que</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57018-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57018">
+      <Lemma writtenForm="mientras tanto" partOfSpeech="adverbial locution"/>
+      <Sense id="L57018-S1" synset="wikidata-es-L57018-S1" ili="wikidata-es-L57018-S1">
+        <Definition>al mismo tiempo que</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57014-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57067">
+      <Lemma writtenForm="mas" partOfSpeech="conjunction"/>
+      <Sense id="L57067-S1" synset="wikidata-es-L57067-S1" ili="wikidata-es-L57067-S1">
+        <Definition>introduce una contraposición</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L55954-S1"/>
+      </Sense>
+      <Sense id="L57067-S2" synset="wikidata-es-L57067-S2" ili="wikidata-es-L57067-S2">
+        <Definition>para añadir elementos a una declaración</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57068-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57909">
+      <Lemma writtenForm="más o menos" partOfSpeech="adverbial locution"/>
+      <Sense id="L57909-S1" synset="wikidata-es-L57909-S1" ili="wikidata-es-L57909-S1">
+        <Definition>aproximadamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58036">
+      <Lemma writtenForm="de vez en cuando" partOfSpeech="adverbial locution"/>
+      <Sense id="L58036-S1" synset="wikidata-es-L58036-S1" ili="wikidata-es-L58036-S1">
+        <Definition>algunas veces</Definition>
+      </Sense>
+      <Sense id="L58036-S2" synset="wikidata-es-L58036-S2" ili="wikidata-es-L58036-S2">
+        <Definition>cada cierto tiempo</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58037-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58039">
+      <Lemma writtenForm="tal vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58039-S1" synset="wikidata-es-L58039-S1" ili="wikidata-es-L58039-S1">
+        <Definition>quizás</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58054">
+      <Lemma writtenForm="sin tiempo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58054-S1" synset="wikidata-es-L58054-S1" ili="wikidata-es-L58054-S1">
+        <Definition>de forma intempestiva</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58053-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58060">
+      <Lemma writtenForm="ahora mismo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58060-S1" synset="wikidata-es-L58060-S1" ili="wikidata-es-L58060-S1">
+        <Definition>de forma inmediata</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58058-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58228">
+      <Lemma writtenForm="desde lejos" partOfSpeech="adverbial locution"/>
+      <Sense id="L58228-S1" synset="wikidata-es-L58228-S1" ili="wikidata-es-L58228-S1">
+        <Definition>a gran distancia</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58226-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58225-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1133389-S1"/>
+      </Sense>
+      <Sense id="L58228-S2" synset="wikidata-es-L58228-S2" ili="wikidata-es-L58228-S2">
+        <Definition>evidentemente</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58226-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1133389-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58241">
+      <Lemma writtenForm="de cualquier manera" partOfSpeech="adverbial locution"/>
+      <Sense id="L58241-S1" synset="wikidata-es-L58241-S1" ili="wikidata-es-L58241-S1">
+        <Definition>sin cuidado</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58253-S1"/>
+      </Sense>
+      <Sense id="L58241-S2" synset="wikidata-es-L58241-S2" ili="wikidata-es-L58241-S2">
+        <Definition>en cualquier caso</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58253-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58257-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58253">
+      <Lemma writtenForm="de cualquier forma" partOfSpeech="adverbial locution"/>
+      <Sense id="L58253-S1" synset="wikidata-es-L58253-S1" ili="wikidata-es-L58253-S1">
+        <Definition>sin cuidado</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58241-S1"/>
+      </Sense>
+      <Sense id="L58253-S2" synset="wikidata-es-L58253-S2" ili="wikidata-es-L58253-S2">
+        <Definition>en cualquier caso</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58241-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58257-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58400">
+      <Lemma writtenForm="por igual" partOfSpeech="adverbial locution"/>
+      <Sense id="L58400-S1" synset="wikidata-es-L58400-S1" ili="wikidata-es-L58400-S1">
+        <Definition>de forma igual</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L622351">
+      <Lemma writtenForm="por si las moscas" partOfSpeech="adverbial locution"/>
+      <Sense id="L622351-S1" synset="wikidata-es-L622351-S1" ili="wikidata-es-L622351-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692468">
+      <Lemma writtenForm="oh" partOfSpeech="interjection"/>
+      <Sense id="L692468-S1" synset="wikidata-es-L692468-S1" ili="wikidata-es-L692468-S1">
+        <Definition>se emplea para expresar sorpresa, dolor, desaprobación, etc.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737076">
+      <Lemma writtenForm="a trancas y barrancas" partOfSpeech="adverbial locution"/>
+      <Sense id="L737076-S1" synset="wikidata-es-L737076-S1" ili="wikidata-es-L737076-S1">
+        <Definition>con grandes dificultades y obstáculos</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1081133">
+      <Lemma writtenForm="érase una vez" partOfSpeech="fixed expression"/>
+      <Sense id="L1081133-S1" synset="wikidata-es-L1081133-S1" ili="wikidata-es-L1081133-S1">
+        <Definition>frase común utilizada para introducir una narración de acontecimientos pasados, normalmente en cuentos de hadas y cuentos populares.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1186979">
+      <Lemma writtenForm="cerca de" partOfSpeech="adverbial locution"/>
+      <Sense id="L1186979-S1" synset="wikidata-es-L1186979-S1" ili="wikidata-es-L1186979-S1">
+        <Definition>casi</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1348133">
+      <Lemma writtenForm="ello" partOfSpeech="personal pronoun"/>
+      <Sense id="L1348133-S1" synset="wikidata-es-L1348133-S1" ili="wikidata-es-L1348133-S1">
+        <Definition>pronombre personal, tercera persona singular neutra</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2776">
+      <Lemma writtenForm="y" partOfSpeech="conjunction"/>
+      <Sense id="L2776-S1" synset="wikidata-es-L2776-S1" ili="wikidata-es-L2776-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11730">
+      <Lemma writtenForm="con" partOfSpeech="preposition"/>
+      <Sense id="L11730-S1" synset="wikidata-es-L11730-S1" ili="wikidata-es-L11730-S1">
+        <Definition>indica el medio empleado para hacer algo</Definition>
+        <Example>Comer con cuchillo y tenedor</Example>
+      </Sense>
+      <Sense id="L11730-S2" synset="wikidata-es-L11730-S2" ili="wikidata-es-L11730-S2">
+        <Definition>en compañía de</Definition>
+        <Example>Antonio está con Felipe</Example>
+      </Sense>
+      <Sense id="L11730-S3" synset="wikidata-es-L11730-S3" ili="wikidata-es-L11730-S3">
+        <Definition>combinado con un infinitivo actúa como gerundio</Definition>
+        <Example>Con pelearse no se arregla nada</Example>
+      </Sense>
+      <Sense id="L11730-S4" synset="wikidata-es-L11730-S4" ili="wikidata-es-L11730-S4">
+        <Definition>a pesar de, indica un contrasentido o contraposición</Definition>
+        <Example>Con llevar tantos años en la empresa, aun no lo ascienden</Example>
+      </Sense>
+      <Sense id="L11730-S5" synset="wikidata-es-L11730-S5" ili="wikidata-es-L11730-S5">
+        <Definition>contenido o adherencia</Definition>
+        <Example>Una moto con un sidecar</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11749">
+      <Lemma writtenForm="según" partOfSpeech="preposition"/>
+      <Sense id="L11749-S1" synset="wikidata-es-L11749-S1" ili="wikidata-es-L11749-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40745">
+      <Lemma writtenForm="poco" partOfSpeech="pronoun"/>
+      <Sense id="L40745-S1" synset="wikidata-es-L40745-S1" ili="wikidata-es-L40745-S1">
+        <Definition>cantidad o número escaso</Definition>
+        <Example>Vinieron pocos de sus compañeros de clase.</Example>
+      </Sense>
+      <Sense id="L40745-S2" synset="wikidata-es-L40745-S2" ili="wikidata-es-L40745-S2">
+        <Definition>cantidad insuficiente</Definition>
+        <Example>No fueron pocas las oportunidades que tuvo en la vida.</Example>
+      </Sense>
+      <Sense id="L40745-S3" synset="wikidata-es-L40745-S3" ili="wikidata-es-L40745-S3">
+        <Definition>pocas personas</Definition>
+        <Example>Hoy en día, pocos confían en los políticos.</Example>
+      </Sense>
+      <Sense id="L40745-S4" synset="wikidata-es-L40745-S4" ili="wikidata-es-L40745-S4">
+        <Definition>pocas cosas</Definition>
+        <Example>Poco de lo que dijo tenía sentido.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40970">
+      <Lemma writtenForm="que" partOfSpeech="pronoun"/>
+      <Sense id="L40970-S1" synset="wikidata-es-L40970-S1" ili="wikidata-es-L40970-S1">
+        <Definition>palabra que introduce una oración relativa y conecta a un antecedente</Definition>
+        <Example>Compró la casa que quería</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L40978">
+      <Lemma writtenForm="o" partOfSpeech="conjunction"/>
+      <Sense id="L40978-S1" synset="wikidata-es-L40978-S1" ili="wikidata-es-L40978-S1">
+        <Definition>indica diferencia, separación o alternativa</Definition>
+        <Example>Ganar o perder</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57007">
+      <Lemma writtenForm="excepto" partOfSpeech="conjunction"/>
+      <Sense id="L57007-S1" synset="wikidata-es-L57007-S1" ili="wikidata-es-L57007-S1">
+        <Definition>introduce una excepción</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57903-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57355">
+      <Lemma writtenForm="se" partOfSpeech="reflexive personal pronoun"/>
+      <Sense id="L57355-S1" synset="wikidata-es-L57355-S1" ili="wikidata-es-L57355-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57879">
+      <Lemma writtenForm="tan pronto como" partOfSpeech="adverbial locution"/>
+      <Sense id="L57879-S1" synset="wikidata-es-L57879-S1" ili="wikidata-es-L57879-S1">
+        <Definition>inmediatamente después de que</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57878-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1182201-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57897">
+      <Lemma writtenForm="de la noche a la mañana" partOfSpeech="adverbial locution"/>
+      <Sense id="L57897-S1" synset="wikidata-es-L57897-S1" ili="wikidata-es-L57897-S1">
+        <Definition>de pronto</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58029">
+      <Lemma writtenForm="a la vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58029-S1" synset="wikidata-es-L58029-S1" ili="wikidata-es-L58029-S1">
+        <Definition>de forma simultánea</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58045-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58038">
+      <Lemma writtenForm="otra vez" partOfSpeech="adverbial locution"/>
+      <Sense id="L58038-S1" synset="wikidata-es-L58038-S1" ili="wikidata-es-L58038-S1">
+        <Definition>de forma reiterada</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58045">
+      <Lemma writtenForm="al mismo tiempo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58045-S1" synset="wikidata-es-L58045-S1" ili="wikidata-es-L58045-S1">
+        <Definition>de forma simultánea</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58029-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58048">
+      <Lemma writtenForm="antes de tiempo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58048-S1" synset="wikidata-es-L58048-S1" ili="wikidata-es-L58048-S1">
+        <Definition>de forma prematura</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58056">
+      <Lemma writtenForm="por lo bajo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58056-S1" synset="wikidata-es-L58056-S1" ili="wikidata-es-L58056-S1">
+        <Definition>en voz baja</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58058">
+      <Lemma writtenForm="desde ya" partOfSpeech="adverbial locution"/>
+      <Sense id="L58058-S1" synset="wikidata-es-L58058-S1" ili="wikidata-es-L58058-S1">
+        <Definition>de forma inmediata</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58060-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L227969">
+      <Lemma writtenForm="ipso facto" partOfSpeech="adverbial locution"/>
+      <Sense id="L227969-S1" synset="wikidata-es-L227969-S1" ili="wikidata-es-L227969-S1">
+        <Definition>en el acto, en ese mismo momento</Definition>
+      </Sense>
+      <Sense id="L227969-S2" synset="wikidata-es-L227969-S2" ili="wikidata-es-L227969-S2">
+        <Definition>por el hecho mismo</Definition>
+      </Sense>
+      <Sense id="L227969-S3" synset="wikidata-es-L227969-S3" ili="wikidata-es-L227969-S3">
+        <Definition>que se impone la pena en el momento mismo del delito</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L227970">
+      <Lemma writtenForm="ex cátedra" partOfSpeech="adverbial locution"/>
+      <Sense id="L227970-S1" synset="wikidata-es-L227970-S1" ili="wikidata-es-L227970-S1">
+        <Definition>que se habla en tono grandilocuente</Definition>
+      </Sense>
+      <Sense id="L227970-S2" synset="wikidata-es-L227970-S2" ili="wikidata-es-L227970-S2">
+        <Definition>que se dice como persona de autoridad</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346257">
+      <Lemma writtenForm="antes de ayer" partOfSpeech="adverbial locution"/>
+      <Sense id="L346257-S1" synset="wikidata-es-L346257-S1" ili="wikidata-es-L346257-S1">
+        <Definition>anteayer, en el día anterior a ayer</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L588335">
+      <Lemma writtenForm="pasado mañana" partOfSpeech="adverbial locution"/>
+      <Sense id="L588335-S1" synset="wikidata-es-L588335-S1" ili="wikidata-es-L588335-S1">
+        <Definition>en el día posterior al de mañana</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L711974">
+      <Lemma writtenForm="entre semana" partOfSpeech="adverbial locution"/>
+      <Sense id="L711974-S1" synset="wikidata-es-L711974-S1" ili="wikidata-es-L711974-S1">
+        <Definition>en cualquiera de los días comprendidos entre el lunes y el viernes, ambos incluidos</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747299">
+      <Lemma writtenForm="a proporción" partOfSpeech="adverbial locution"/>
+      <Sense id="L747299-S1" synset="wikidata-es-L747299-S1" ili="wikidata-es-L747299-S1">
+        <Definition>de forma proporcional</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1096266">
+      <Lemma writtenForm="par" partOfSpeech="preposition"/>
+      <Sense id="L1096266-S1" synset="wikidata-es-L1096266-S1" ili="wikidata-es-L1096266-S1">
+        <Definition>variante de la preposición &quot;por&quot;, utilizada en fórmulas de juramento</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1132789">
+      <Lemma writtenForm="be" partOfSpeech="onomatopoeia"/>
+      <Sense id="L1132789-S1" synset="wikidata-es-L1132789-S1" ili="wikidata-es-L1132789-S1">
+        <Definition>voz emitida por la oveja o el cordero</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1166147">
+      <Lemma writtenForm="hito en hito" partOfSpeech="adverbial locution"/>
+      <Sense id="L1166147-S1" synset="wikidata-es-L1166147-S1" ili="wikidata-es-L1166147-S1">
+        <Definition>fijamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1182201">
+      <Lemma writtenForm="así que" partOfSpeech="adverbial locution"/>
+      <Sense id="L1182201-S1" synset="wikidata-es-L1182201-S1" ili="wikidata-es-L1182201-S1">
+        <Definition>inmediatamente después de que</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57879-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L57878-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L2783">
+      <Lemma writtenForm="u" partOfSpeech="conjunction"/>
+      <Sense id="L2783-S1" synset="wikidata-es-L2783-S1" ili="wikidata-es-L2783-S1">
+        <Definition>conjunción disyuntiva usada sólo frente a las palabras comenzadas por el fonema /o/</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11737">
+      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Sense id="L11737-S1" synset="wikidata-es-L11737-S1" ili="wikidata-es-L11737-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L11737-S2" synset="wikidata-es-L11737-S2" ili="wikidata-es-L11737-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11742">
+      <Lemma writtenForm="entre" partOfSpeech="preposition"/>
+      <Sense id="L11742-S1" synset="wikidata-es-L11742-S1" ili="wikidata-es-L11742-S1">
+        <Definition>en medio de, indica ubicación en medio de otras cosas</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56588">
+      <Lemma writtenForm="mi" partOfSpeech="possessive determiner"/>
+      <Sense id="L56588-S2" synset="wikidata-es-L56588-S2" ili="wikidata-es-L56588-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56677">
+      <Lemma writtenForm="él" partOfSpeech="personal pronoun"/>
+      <Sense id="L56677-S2" synset="wikidata-es-L56677-S2" ili="l485-s1">
+        <Definition>pronombre personal, tercera persona singular masculina</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56926">
+      <Lemma writtenForm="así mismo" partOfSpeech="adverbial locution"/>
+      <Sense id="L56926-S1" synset="wikidata-es-L56926-S1" ili="wikidata-es-L56926-S1">
+        <Definition>también</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57346">
+      <Lemma writtenForm="en vida" partOfSpeech="adverbial locution"/>
+      <Sense id="L57346-S1" synset="wikidata-es-L57346-S1" ili="wikidata-es-L57346-S1">
+        <Definition>mientras estuvo con vida</Definition>
+        <Example>No se arrepintió de nada en vida.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57884">
+      <Lemma writtenForm="así pues" partOfSpeech="adverbial locution"/>
+      <Sense id="L57884-S1" synset="wikidata-es-L57884-S1" ili="wikidata-es-L57884-S1">
+        <Definition>en consecuencia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57887">
+      <Lemma writtenForm="por siempre" partOfSpeech="adverbial locution"/>
+      <Sense id="L57887-S1" synset="wikidata-es-L57887-S1" ili="wikidata-es-L57887-S1">
+        <Definition>eternamente, indefinidamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58028">
+      <Lemma writtenForm="tal cual" partOfSpeech="adverbial locution"/>
+      <Sense id="L58028-S1" synset="wikidata-es-L58028-S1" ili="wikidata-es-L58028-S1">
+        <Definition>así</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58037">
+      <Lemma writtenForm="de tiempo en tiempo" partOfSpeech="adverbial locution"/>
+      <Sense id="L58037-S1" synset="wikidata-es-L58037-S1" ili="wikidata-es-L58037-S1">
+        <Definition>cada cierto tiempo</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58036-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58223">
+      <Lemma writtenForm="lejos de" partOfSpeech="prepositional locution"/>
+      <Sense id="L58223-S1" synset="wikidata-es-L58223-S1" ili="wikidata-es-L58223-S1">
+        <Definition>en vez de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57021-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L57022-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58226">
+      <Lemma writtenForm="de lejos" partOfSpeech="adverbial locution"/>
+      <Sense id="L58226-S1" synset="wikidata-es-L58226-S1" ili="wikidata-es-L58226-S1">
+        <Definition>a gran distancia</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58225-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58228-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1133389-S1"/>
+      </Sense>
+      <Sense id="L58226-S2" synset="wikidata-es-L58226-S2" ili="wikidata-es-L58226-S2">
+        <Definition>evidentemente</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58228-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1133389-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58242">
+      <Lemma writtenForm="de esa manera" partOfSpeech="adverbial locution"/>
+      <Sense id="L58242-S1" synset="wikidata-es-L58242-S1" ili="wikidata-es-L58242-S1">
+        <Definition>así</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58246">
+      <Lemma writtenForm="de ninguna manera" partOfSpeech="adverbial locution"/>
+      <Sense id="L58246-S1" synset="wikidata-es-L58246-S1" ili="wikidata-es-L58246-S1">
+        <Definition>indica una negación categórica</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58256-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L407006">
+      <Lemma writtenForm="hola" partOfSpeech="interjection"/>
+      <Sense id="L407006-S1" synset="wikidata-es-L407006-S1" ili="wikidata-es-L407006-S1">
+        <Definition>expresión de saludo utilizada entre dos o más personas de trato familiar, sin importar el momento del día ni las circunstancias</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L651872">
+      <Lemma writtenForm="escontra" partOfSpeech="preposition"/>
+      <Sense id="L651872-S1" synset="wikidata-es-L651872-S1" ili="wikidata-es-L651872-S1">
+        <Definition>con destino a; en dirección a; hacia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741577">
+      <Lemma writtenForm="a mujeriegas" partOfSpeech="adverbial locution"/>
+      <Sense id="L741577-S1" synset="wikidata-es-L741577-S1" ili="wikidata-es-L741577-S1">
+        <Definition>forma de montar a caballo, con ambas piernas hacia el mismo lado del animal</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L741574-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741580">
+      <Lemma writtenForm="a horcajadas" partOfSpeech="adverbial locution"/>
+      <Sense id="L741580-S1" synset="wikidata-es-L741580-S1" ili="wikidata-es-L741580-S1">
+        <Definition>forma de montar a caballo, con una pierna a cada lado del animal</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1406154-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119138">
+      <Lemma writtenForm="a cascoporro" partOfSpeech="adverbial locution"/>
+      <Sense id="L1119138-S1" synset="wikidata-es-L1119138-S1" ili="wikidata-es-L1119138-S1">
+        <Definition>en exceso, con abundancia innecesaria</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1152556">
+      <Lemma writtenForm="de recio" partOfSpeech="adverbial locution"/>
+      <Sense id="L1152556-S1" synset="wikidata-es-L1152556-S1" ili="wikidata-es-L1152556-S1">
+        <Definition>de forma recia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1220702">
+      <Lemma writtenForm="porfi" partOfSpeech="interjection"/>
+      <Sense id="L1220702-S1" synset="wikidata-es-L1220702-S1" ili="wikidata-es-L1220702-S1">
+        <Definition>por favor</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1406154">
+      <Lemma writtenForm="a horcajadillas" partOfSpeech="adverbial locution"/>
+      <Sense id="L1406154-S1" synset="wikidata-es-L1406154-S1" ili="wikidata-es-L1406154-S1">
+        <Definition>forma de montar a caballo, con una pierna a cada lado del animal</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L741580-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1531686">
+      <Lemma writtenForm="so" partOfSpeech="interjection"/>
+      <Sense id="L1531686-S1" synset="wikidata-es-L1531686-S1" ili="wikidata-es-L1531686-S1">
+        <Definition>usado para detener los caballos</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11754">
+      <Lemma writtenForm="mediante" partOfSpeech="preposition"/>
+      <Sense id="L11754-S1" synset="wikidata-es-L11754-S1" ili="wikidata-es-L11754-S1">
+        <Definition>indica el procedimiento o la forma como se hace algo</Definition>
+        <Example>Se le extrajo su tumor mediante una cirugía.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11756">
+      <Lemma writtenForm="sin" partOfSpeech="preposition"/>
+      <Sense id="L11756-S1" synset="wikidata-es-L11756-S1" ili="wikidata-es-L11756-S1">
+        <Definition>indica la ausencia, carencia o falta de algo</Definition>
+        <Example>Me he quedado sin ánimo para competir.</Example>
+      </Sense>
+      <Sense id="L11756-S2" synset="wikidata-es-L11756-S2" ili="wikidata-es-L11756-S2">
+        <Definition>indica exclusión</Definition>
+        <Example>Fuimos todos, sin nuestras esposas.</Example>
+      </Sense>
+      <Sense id="L11756-S3" synset="wikidata-es-L11756-S3" ili="wikidata-es-L11756-S3">
+        <Definition>indica negación delante de un verbo en infinitivo, equivalente a &quot;no&quot; delante del gerundio</Definition>
+        <Example>Sin haber descansado.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57019">
+      <Lemma writtenForm="en cambio" partOfSpeech="adverbial locution"/>
+      <Sense id="L57019-S1" synset="wikidata-es-L57019-S1" ili="wikidata-es-L57019-S1">
+        <Definition>por el contrario</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57022">
+      <Lemma writtenForm="en vez de" partOfSpeech="prepositional locution"/>
+      <Sense id="L57022-S1" synset="wikidata-es-L57022-S1" ili="wikidata-es-L57022-S1">
+        <Definition>en lugar de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57021-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L57020-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58223-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57026">
+      <Lemma writtenForm="por completo" partOfSpeech="adverbial locution"/>
+      <Sense id="L57026-S1" synset="wikidata-es-L57026-S1" ili="wikidata-es-L57026-S1">
+        <Definition>completamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57031">
+      <Lemma writtenForm="por ejemplo" partOfSpeech="adverbial locution"/>
+      <Sense id="L57031-S1" synset="wikidata-es-L57031-S1" ili="wikidata-es-L57031-S1">
+        <Definition>introduce un ejemplo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57068">
+      <Lemma writtenForm="sino" partOfSpeech="conjunction"/>
+      <Sense id="L57068-S1" synset="wikidata-es-L57068-S1" ili="wikidata-es-L57068-S1">
+        <Definition>para contraponer una afirmación tras una negación</Definition>
+        <Example>No fue culpa de Pedro, sino de Manuel</Example>
+      </Sense>
+      <Sense id="L57068-S2" synset="wikidata-es-L57068-S2" ili="wikidata-es-L57068-S2">
+        <Definition>para añadir elementos a una declaración</Definition>
+        <Example>No solo fue cortés, sino también amable y servicial.</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L57067-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57352">
+      <Lemma writtenForm="te" partOfSpeech="personal pronoun"/>
+      <Sense id="L57352-S1" synset="wikidata-es-L57352-S1" ili="wikidata-es-L57352-S1">
+        <Definition>designa a la persona a quién se dirige el hablante o enunciador de la frase, es decir, a la segunda persona del singular, usado cuando tiene función de dativo o acusativo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57354">
+      <Lemma writtenForm="me" partOfSpeech="personal pronoun"/>
+      <Sense id="L57354-S1" synset="wikidata-es-L57354-S1" ili="wikidata-es-L57354-S1">
+        <Definition>designa al hablante o enunciador como sujeto de la frase, es decir, a la primera persona del singular, usado cuando tiene función de dativo o acusativo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57817">
+      <Lemma writtenForm="tanto" partOfSpeech="conjunction"/>
+      <Sense id="L57817-S1" synset="wikidata-es-L57817-S1" ili="wikidata-es-L57817-S1">
+        <Definition>inicia una coordinación copulativa</Definition>
+        <Example>Tanto el perro como el gato esperaban ser alimentados.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58064">
+      <Lemma writtenForm="a pesar de" partOfSpeech="prepositional locution"/>
+      <Sense id="L58064-S1" synset="wikidata-es-L58064-S1" ili="wikidata-es-L58064-S1">
+        <Definition>con oposición de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58065-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58257">
+      <Lemma writtenForm="de todas formas" partOfSpeech="adverbial locution"/>
+      <Sense id="L58257-S1" synset="wikidata-es-L58257-S1" ili="wikidata-es-L58257-S1">
+        <Definition>en cualquier caso</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58241-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58253-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58276">
+      <Lemma writtenForm="por lo general" partOfSpeech="adverbial locution"/>
+      <Sense id="L58276-S1" synset="wikidata-es-L58276-S1" ili="wikidata-es-L58276-S1">
+        <Definition>de forma general</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58275-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L651860">
+      <Lemma writtenForm="circa" partOfSpeech="preposition"/>
+      <Sense id="L651860-S1" synset="wikidata-es-L651860-S1" ili="wikidata-es-L651860-S1">
+        <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+        <Example>La institución fue abolida circa 1453 y restaurada en junio de 1655.</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L11743-S4"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L651865">
+      <Lemma writtenForm="cabo" partOfSpeech="preposition"/>
+      <Sense id="L651865-S1" synset="wikidata-es-L651865-S1" ili="wikidata-es-L651865-S1">
+        <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L11728-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L735253">
+      <Lemma writtenForm="pesia" partOfSpeech="interjection"/>
+      <Sense id="L735253-S1" synset="wikidata-es-L735253-S1" ili="wikidata-es-L735253-S1">
+        <Definition>expresa malestar, inquietud, disgusto o enojo</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1118805">
+      <Lemma writtenForm="de un tirón" partOfSpeech="adverbial locution"/>
+      <Sense id="L1118805-S1" synset="wikidata-es-L1118805-S1" ili="wikidata-es-L1118805-S1">
+        <Definition>de una vez, de golpe</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1186980">
+      <Lemma writtenForm="si acaso" partOfSpeech="adverbial locution"/>
+      <Sense id="L1186980-S1" synset="wikidata-es-L1186980-S1" ili="wikidata-es-L1186980-S1">
+        <Definition>cuando más; a lo más</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1550831">
+      <Lemma writtenForm="alcazar" partOfSpeech="location"/>
+      <Sense id="L1550831-S2" synset="wikidata-es-L1550831-S2" ili="wikidata-es-L1550831-S2">
+        <Definition>palace</Definition>
+      </Sense>
+      <Sense id="L1550831-S3" synset="wikidata-es-L1550831-S3" ili="wikidata-es-L1550831-S3">
+        <Definition>castle</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11721">
+      <Lemma writtenForm="ante" partOfSpeech="preposition"/>
+      <Sense id="L11721-S1" synset="wikidata-es-L11721-S1" ili="wikidata-es-L11721-S1">
+        <Definition>delante de; frente a</Definition>
+        <Example>El partido debía enfrentar a los Países Bajos ante Francia.</Example>
+      </Sense>
+      <Sense id="L11721-S2" synset="wikidata-es-L11721-S2" ili="wikidata-es-L11721-S2">
+        <Definition>en presencia de</Definition>
+        <Example>Tengo que comparecer ante el juez.</Example>
+      </Sense>
+      <Sense id="L11721-S3" synset="wikidata-es-L11721-S3" ili="wikidata-es-L11721-S3">
+        <Definition>comparado con</Definition>
+        <Example>El conflicto bélico no fue tan violento ante los anteriores.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56595">
+      <Lemma writtenForm="así" partOfSpeech="conjunction"/>
+      <Sense id="L56595-S1" synset="wikidata-es-L56595-S1" ili="wikidata-es-L56595-S1">
+        <Definition>aunque</Definition>
+      </Sense>
+      <Sense id="L56595-S2" synset="wikidata-es-L56595-S2" ili="wikidata-es-L56595-S2">
+        <Definition>o</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56599">
+      <Lemma writtenForm="tú" partOfSpeech="personal pronoun"/>
+      <Sense id="L56599-S1" synset="wikidata-es-L56599-S1" ili="wikidata-es-L56599-S1">
+        <Definition>pronombre personal en segunda persona singular</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56997">
+      <Lemma writtenForm="usted" partOfSpeech="pronoun"/>
+      <Sense id="L56997-S1" synset="wikidata-es-L56997-S1" ili="wikidata-es-L56997-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57006">
+      <Lemma writtenForm="salvo" partOfSpeech="conjunction"/>
+      <Sense id="L57006-S1" synset="wikidata-es-L57006-S1" ili="wikidata-es-L57006-S1">
+        <Definition>excepto</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57021">
+      <Lemma writtenForm="en lugar de" partOfSpeech="prepositional locution"/>
+      <Sense id="L57021-S1" synset="wikidata-es-L57021-S1" ili="wikidata-es-L57021-S1">
+        <Definition>en vez de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57020-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L57022-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58223-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57207">
+      <Lemma writtenForm="en calidad de" partOfSpeech="prepositional locution"/>
+      <Sense id="L57207-S1" synset="wikidata-es-L57207-S1" ili="wikidata-es-L57207-S1">
+        <Definition>con la condición o función de</Definition>
+        <Example>En calidad de presidente, dirimió la disputa.</Example>
+        <SenseRelation relType="similar" target="wikidata-es-L1188155-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57821">
+      <Lemma writtenForm="lo" partOfSpeech="personal pronoun"/>
+      <Sense id="L57821-S1" synset="wikidata-es-L57821-S1" ili="wikidata-es-L57821-S1">
+        <Definition>refiere al objeto directo de tercera persona cuando éste ya es conocido</Definition>
+        <Example>Yo bebo agua -&gt; Yo la bebí.</Example>
+        <Example>Come el bocadillo en tu descanso -&gt; Cómelo en tu descanso.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57876">
+      <Lemma writtenForm="así" partOfSpeech="interjection"/>
+      <Sense id="L57876-S1" synset="wikidata-es-L57876-S1" ili="wikidata-es-L57876-S1">
+        <Definition>expresa deseo de que algo suceda</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57877-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57878">
+      <Lemma writtenForm="así como" partOfSpeech="adverbial locution"/>
+      <Sense id="L57878-S2" synset="wikidata-es-L57878-S2" ili="wikidata-es-L57878-S2">
+        <Definition>inmediatamente después de que</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57879-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1182201-S1"/>
+      </Sense>
+      <Sense id="L57878-S3" synset="wikidata-es-L57878-S3" ili="wikidata-es-L57878-S3">
+        <Definition>introduce una comparación</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57886">
+      <Lemma writtenForm="para siempre" partOfSpeech="adverbial locution"/>
+      <Sense id="L57886-S1" synset="wikidata-es-L57886-S1" ili="wikidata-es-L57886-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58219">
+      <Lemma writtenForm="cerca de" partOfSpeech="prepositional locution"/>
+      <Sense id="L58219-S1" synset="wikidata-es-L58219-S1" ili="wikidata-es-L58219-S1">
+        <Definition>próximo a</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58227">
+      <Lemma writtenForm="ni de lejos" partOfSpeech="adverbial locution"/>
+      <Sense id="L58227-S1" synset="wikidata-es-L58227-S1" ili="wikidata-es-L58227-S1">
+        <Definition>de ninguna manera</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58256">
+      <Lemma writtenForm="de ninguna forma" partOfSpeech="adverbial locution"/>
+      <Sense id="L58256-S1" synset="wikidata-es-L58256-S1" ili="wikidata-es-L58256-S1">
+        <Definition>indica una negación categórica</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58246-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58269">
+      <Lemma writtenForm="nada más" partOfSpeech="adverbial locution"/>
+      <Sense id="L58269-S1" synset="wikidata-es-L58269-S1" ili="wikidata-es-L58269-S1">
+        <Definition>solamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620213">
+      <Lemma writtenForm="del" partOfSpeech="prenominal adjective"/>
+      <Sense id="L620213-S1" synset="wikidata-es-L620213-S1" ili="wikidata-es-L620213-S1">
+        <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642323">
+      <Lemma writtenForm="luego" partOfSpeech="conjunction"/>
+      <Sense id="L642323-S1" synset="wikidata-es-L642323-S1" ili="wikidata-es-L642323-S1">
+        <Definition>conjunción consecutiva; entonces; por tanto; por consiguiente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L717959">
+      <Lemma writtenForm="za" partOfSpeech="interjection"/>
+      <Sense id="L717959-S1" synset="wikidata-es-L717959-S1" ili="wikidata-es-L717959-S1">
+        <Definition>voz que se usa para espantar a algunos animales, como a un perro o a un gato</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727552">
+      <Lemma writtenForm="en lontananza" partOfSpeech="adverbial locution"/>
+      <Sense id="L727552-S1" synset="wikidata-es-L727552-S1" ili="wikidata-es-L727552-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L755292">
+      <Lemma writtenForm="quién" partOfSpeech="pronoun"/>
+      <Sense id="L755292-S1" synset="wikidata-es-L755292-S1" ili="wikidata-es-L755292-S1">
+        <Definition>qué o cuál persona</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133389">
+      <Lemma writtenForm="de muy lejos" partOfSpeech="adverbial locution"/>
+      <Sense id="L1133389-S1" synset="wikidata-es-L1133389-S1" ili="wikidata-es-L1133389-S1">
+        <Definition>a gran distancia</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58226-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58228-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58225-S1"/>
+      </Sense>
+      <Sense id="L1133389-S2" synset="wikidata-es-L1133389-S2" ili="wikidata-es-L1133389-S2">
+        <Definition>evidentemente</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58226-S2"/>
+        <SenseRelation relType="similar" target="wikidata-es-L58228-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233175">
+      <Lemma writtenForm="miércoles" partOfSpeech="interjection"/>
+      <Sense id="L1233175-S1" synset="wikidata-es-L1233175-S1" ili="wikidata-es-L1233175-S1">
+        <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1233182-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233179-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233181-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233179">
+      <Lemma writtenForm="miéchica" partOfSpeech="interjection"/>
+      <Sense id="L1233179-S1" synset="wikidata-es-L1233179-S1" ili="wikidata-es-L1233179-S1">
+        <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L1233182-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233175-S1"/>
+        <SenseRelation relType="similar" target="wikidata-es-L1233181-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409245">
+      <Lemma writtenForm="a sinrazón" partOfSpeech="adverbial locution"/>
+      <Sense id="L1409245-S1" synset="wikidata-es-L1409245-S1" ili="wikidata-es-L1409245-S1">
+        <Definition>de forma injusta</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11718">
+      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Sense id="L11718-S1" synset="wikidata-es-L11718-S1" ili="wikidata-es-L11718-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11719">
+      <Lemma writtenForm="el" partOfSpeech="definite article"/>
+      <Sense id="L11719-S1" synset="wikidata-es-L11719-S1" ili="wikidata-es-L11719-S1">
+        <Definition>artículo determinante</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L11758">
+      <Lemma writtenForm="so" partOfSpeech="preposition"/>
+      <Sense id="L11758-S1" synset="wikidata-es-L11758-S1" ili="wikidata-es-L11758-S1">
+        <Definition>debajo de</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56575">
+      <Lemma writtenForm="si" partOfSpeech="conjunction"/>
+      <Sense id="L56575-S1" synset="wikidata-es-L56575-S1" ili="wikidata-es-L56575-S1">
+        <Definition>introduce una condición o suposición</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L56578">
+      <Lemma writtenForm="pues" partOfSpeech="conjunction"/>
+      <Sense id="L56578-S1" synset="wikidata-es-L56578-S1" ili="wikidata-es-L56578-S1">
+        <Definition>indica causalidad</Definition>
+      </Sense>
+      <Sense id="L56578-S2" synset="wikidata-es-L56578-S2" ili="wikidata-es-L56578-S2">
+        <Definition>señala continuación</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57877">
+      <Lemma writtenForm="ojalá" partOfSpeech="interjection"/>
+      <Sense id="L57877-S1" synset="wikidata-es-L57877-S1" ili="wikidata-es-L57877-S1">
+        <Definition>expresa deseo de que algo suceda</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L57876-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58065">
+      <Lemma writtenForm="después de" partOfSpeech="prepositional locution"/>
+      <Sense id="L58065-S1" synset="wikidata-es-L58065-S1" ili="wikidata-es-L58065-S1">
+        <Definition>con oposición de</Definition>
+        <SenseRelation relType="similar" target="wikidata-es-L58064-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58264">
+      <Lemma writtenForm="nadie" partOfSpeech="pronoun"/>
+      <Sense id="L58264-S1" synset="wikidata-es-L58264-S1" ili="wikidata-es-L58264-S1">
+        <Definition>ninguna persona</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L650606">
+      <Lemma writtenForm="hombre" partOfSpeech="interjection"/>
+      <Sense id="L650606-S1" synset="wikidata-es-L650606-S1" ili="wikidata-es-L650606-S1">
+        <Definition>interjección que expresa sorpresa o contrariedad</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1166148">
+      <Lemma writtenForm="soslayo" partOfSpeech="adverbial locution"/>
+      <Sense id="L1166148-S1" synset="wikidata-es-L1166148-S1" ili="wikidata-es-L1166148-S1">
+        <Definition>oblicuamente</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1220701">
+      <Lemma writtenForm="porfa" partOfSpeech="interjection"/>
+      <Sense id="L1220701-S1" synset="wikidata-es-L1220701-S1" ili="wikidata-es-L1220701-S1">
+        <Definition>por favor</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233073">
+      <Lemma writtenForm="en exceso" partOfSpeech="adverbial locution"/>
+      <Sense id="L1233073-S1" synset="wikidata-es-L1233073-S1" ili="wikidata-es-L1233073-S1">
+        <Definition>de forma excesiva</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-es-L11720-S1" ili="wikidata-es-L11720-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11739-S1" ili="wikidata-es-L11739-S1">
+      <Definition>Preposición que indica el origen o inicio de una actividad, tanto en sentido locativo, como cronológico.</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11741-S1" ili="wikidata-es-L11741-S1">
+      <Definition>circunstancia bajo la cual algo se realiza</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11744-S1" ili="wikidata-es-L11744-S1">
+      <Definition>indica el fin o término de una actividad en sentido locativo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11744-S2" ili="wikidata-es-L11744-S2">
+      <Definition>indica el fin o término de una actividad en sentido cronológico</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11744-S3" ili="wikidata-es-L11744-S3">
+      <Definition>indica el fin o término de una actividad en sentido cuantitativo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L45673-S1" ili="l371-s1">
+      <Definition>tercera persona neutral</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57024-S1" ili="wikidata-es-L57024-S1">
+      <Definition>de forma opuesta</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57025-S1" ili="wikidata-es-L57025-S1">
+      <Definition>de forma opuesta</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57206-S1" ili="wikidata-es-L57206-S1">
+      <Definition>casi no</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57860-S1" ili="wikidata-es-L57860-S1">
+      <Definition>al mismo tiempo que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57882-S1" ili="wikidata-es-L57882-S1">
+      <Definition>de cualquier manera</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57903-S1" ili="wikidata-es-L57903-S1">
+      <Definition>introduce una excepción</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57903-S2" ili="wikidata-es-L57903-S2">
+      <Definition>en la operación aritmética de la resta indica sustracción</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58030-S1" ili="wikidata-es-L58030-S1">
+      <Definition>por su parte</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58032-S1" ili="wikidata-es-L58032-S1">
+      <Definition>por tu parte</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58033-S1" ili="wikidata-es-L58033-S1">
+      <Definition>en algunos casos</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58053-S1" ili="wikidata-es-L58053-S1">
+      <Definition>de forma intempestiva</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58225-S1" ili="wikidata-es-L58225-S1">
+      <Definition>a gran distancia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58275-S1" ili="wikidata-es-L58275-S1">
+      <Definition>de forma general</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L651850-S1" ili="wikidata-es-L651850-S1">
+      <Definition>este lado de; la parte más cercana de; delante de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L929102-S1" ili="wikidata-es-L929102-S1">
+      <Definition>introduce una frase que contradice o contrasta con lo antecedente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1133162-S1" ili="wikidata-es-L1133162-S1">
+      <Definition>ese otro</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1188155-S1" ili="wikidata-es-L1188155-S1">
+      <Definition>con la condición o función de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1233181-S1" ili="wikidata-es-L1233181-S1">
+      <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1233182-S1" ili="wikidata-es-L1233182-S1">
+      <Definition>se usa para expresar ira, frustración o desagrado</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1411934-S1" ili="wikidata-es-L1411934-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11728-S1" ili="wikidata-es-L11728-S1">
+      <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11768-S1" ili="l8964-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40971-S1" ili="wikidata-es-L40971-S1">
+      <Definition>palabra que introduce una oración subordinada sustantiva</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40971-S2" ili="wikidata-es-L40971-S2">
+      <Definition>elemento de frases comparativas</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L55951-S1" ili="l487-s1">
+      <Definition>pronombre personal en primera persona del singular</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56586-S1" ili="wikidata-es-L56586-S1">
+      <Definition>a causa de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56586-S2" ili="wikidata-es-L56586-S2">
+      <Definition>para que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56597-S1" ili="wikidata-es-L56597-S1">
+      <Definition>pronombre personal en primera personal plural</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56999-S1" ili="wikidata-es-L56999-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57009-S1" ili="wikidata-es-L57009-S1">
+      <Definition>introduce un impedimento</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57009-S2" ili="wikidata-es-L57009-S2">
+      <Definition>pero; usada para contraponer algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57020-S1" ili="wikidata-es-L57020-S1">
+      <Definition>en vez de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57023-S1" ili="wikidata-es-L57023-S1">
+      <Definition>de forma opuesta</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57205-S1" ili="wikidata-es-L57205-S1">
+      <Definition>inmediatamente después</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57344-S1" ili="wikidata-es-L57344-S1">
+      <Definition>durante toda una vida</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57819-S1" ili="wikidata-es-L57819-S1">
+      <Definition>en consecuencia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58031-S1" ili="wikidata-es-L58031-S1">
+      <Definition>por mi parte</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58057-S1" ili="wikidata-es-L58057-S1">
+      <Definition>opuesto a algo o alguien</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58231-S1" ili="wikidata-es-L58231-S1">
+      <Definition>por el contrario; introduce una idea o frase que contradice y se prefiere a otra previa</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227971-S1" ili="wikidata-es-L227971-S1">
+      <Definition>que ocurre en la vida real, aunque no esté legislado</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L303609-S1" ili="l484-s1">
+      <Definition>pronombre en tercera persona femenina</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L584572-S1" ili="wikidata-es-L584572-S1">
+      <Definition>indica una posición inferior</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L619485-S1" ili="wikidata-es-L619485-S1">
+      <Definition>expresión con la que se da término a un tema o discusión</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L643999-S1" ili="wikidata-es-L643999-S1">
+      <Definition>voz o grito usado para llamar o animar al combate</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L646358-S1" ili="wikidata-es-L646358-S1">
+      <Definition>el cual; los cuales; hace referencia a una persona o personas ya referidas anteriormente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L646358-S2" ili="wikidata-es-L646358-S2">
+      <Definition>hace referencia a una persona o personas de forma general, sin haber sido referidas anteriormente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L646358-S3" ili="wikidata-es-L646358-S3">
+      <Definition>nadie que; alguien que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L673471-S1" ili="wikidata-es-L673471-S1">
+      <Definition>invita a repetir lo dicho o a explicarlo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L673471-S2" ili="wikidata-es-L673471-S2">
+      <Definition>indica enfado</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L673471-S3" ili="wikidata-es-L673471-S3">
+      <Definition>indica asombro o sorpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L737780-S1" ili="wikidata-es-L737780-S1">
+      <Definition>de forma suave</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L741574-S1" ili="wikidata-es-L741574-S1">
+      <Definition>forma de montar a caballo, con ambas piernas hacia el mismo lado del animal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L744418-S1" ili="wikidata-es-L744418-S1">
+      <Definition>de forma audible, lo suficientemente fuerte para que otras personas puedan oír claramente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L755116-S1" ili="wikidata-es-L755116-S1">
+      <Definition>se usa para pedir socorro</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1156886-S1" ili="wikidata-es-L1156886-S1">
+      <Definition>utilizado para despedirse</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1156891-S1" ili="wikidata-es-L1156891-S1">
+      <Definition>utilizado para despedirse</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1410269-S1" ili="wikidata-es-L1410269-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S1" ili="wikidata-es-L11724-S1">
+      <Definition>indica una posición inferior</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S2" ili="wikidata-es-L11724-S2">
+      <Definition>indica subordinación o dependiencia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S3" ili="wikidata-es-L11724-S3">
+      <Definition>indica la ubicación dentro de un periodo de tiempo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S4" ili="wikidata-es-L11724-S4">
+      <Definition>indica inclusión dentro de un grupo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S5" ili="wikidata-es-L11724-S5">
+      <Definition>indica ocultamiento</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11724-S6" ili="wikidata-es-L11724-S6">
+      <Definition>indica una opinión o punto de vista</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11733-S1" ili="wikidata-es-L11733-S1">
+      <Definition>indica oposición</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11733-S2" ili="wikidata-es-L11733-S2">
+      <Definition>indica la dirección del movimiento</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11743-S1" ili="wikidata-es-L11743-S1">
+      <Definition>indica la dirección del movimiento con relación a su destino aparente o real</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11743-S2" ili="wikidata-es-L11743-S2">
+      <Definition>indica la orientación</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11743-S3" ili="wikidata-es-L11743-S3">
+      <Definition>cerca de; alrededor de; indica proximidad espacial</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11743-S4" ili="wikidata-es-L11743-S4">
+      <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40976-S1" ili="wikidata-es-L40976-S1">
+      <Definition>indica el tiempo en oraciones sin verbo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L55954-S1" ili="wikidata-es-L55954-S1">
+      <Definition>introduce una contraposición</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57008-S1" ili="wikidata-es-L57008-S1">
+      <Definition>se usa para introducir una oración que expresa la conclusión o consecuencia de lo antedicho</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57008-S2" ili="wikidata-es-L57008-S2">
+      <Definition>se usa para expresar sorpresa</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57014-S1" ili="wikidata-es-L57014-S1">
+      <Definition>al mismo tiempo que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57018-S1" ili="wikidata-es-L57018-S1">
+      <Definition>al mismo tiempo que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57067-S1" ili="wikidata-es-L57067-S1">
+      <Definition>introduce una contraposición</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57067-S2" ili="wikidata-es-L57067-S2">
+      <Definition>para añadir elementos a una declaración</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57909-S1" ili="wikidata-es-L57909-S1">
+      <Definition>aproximadamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58036-S1" ili="wikidata-es-L58036-S1">
+      <Definition>algunas veces</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58036-S2" ili="wikidata-es-L58036-S2">
+      <Definition>cada cierto tiempo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58039-S1" ili="wikidata-es-L58039-S1">
+      <Definition>quizás</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58054-S1" ili="wikidata-es-L58054-S1">
+      <Definition>de forma intempestiva</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58060-S1" ili="wikidata-es-L58060-S1">
+      <Definition>de forma inmediata</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58228-S1" ili="wikidata-es-L58228-S1">
+      <Definition>a gran distancia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58228-S2" ili="wikidata-es-L58228-S2">
+      <Definition>evidentemente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58241-S1" ili="wikidata-es-L58241-S1">
+      <Definition>sin cuidado</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58241-S2" ili="wikidata-es-L58241-S2">
+      <Definition>en cualquier caso</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58253-S1" ili="wikidata-es-L58253-S1">
+      <Definition>sin cuidado</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58253-S2" ili="wikidata-es-L58253-S2">
+      <Definition>en cualquier caso</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58400-S1" ili="wikidata-es-L58400-S1">
+      <Definition>de forma igual</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L622351-S1" ili="wikidata-es-L622351-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L692468-S1" ili="wikidata-es-L692468-S1">
+      <Definition>se emplea para expresar sorpresa, dolor, desaprobación, etc.</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L737076-S1" ili="wikidata-es-L737076-S1">
+      <Definition>con grandes dificultades y obstáculos</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1081133-S1" ili="wikidata-es-L1081133-S1">
+      <Definition>frase común utilizada para introducir una narración de acontecimientos pasados, normalmente en cuentos de hadas y cuentos populares.</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1186979-S1" ili="wikidata-es-L1186979-S1">
+      <Definition>casi</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1348133-S1" ili="wikidata-es-L1348133-S1">
+      <Definition>pronombre personal, tercera persona singular neutra</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L2776-S1" ili="wikidata-es-L2776-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11730-S1" ili="wikidata-es-L11730-S1">
+      <Definition>indica el medio empleado para hacer algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11730-S2" ili="wikidata-es-L11730-S2">
+      <Definition>en compañía de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11730-S3" ili="wikidata-es-L11730-S3">
+      <Definition>combinado con un infinitivo actúa como gerundio</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11730-S4" ili="wikidata-es-L11730-S4">
+      <Definition>a pesar de, indica un contrasentido o contraposición</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11730-S5" ili="wikidata-es-L11730-S5">
+      <Definition>contenido o adherencia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11749-S1" ili="wikidata-es-L11749-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40745-S1" ili="wikidata-es-L40745-S1">
+      <Definition>cantidad o número escaso</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40745-S2" ili="wikidata-es-L40745-S2">
+      <Definition>cantidad insuficiente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40745-S3" ili="wikidata-es-L40745-S3">
+      <Definition>pocas personas</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40745-S4" ili="wikidata-es-L40745-S4">
+      <Definition>pocas cosas</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40970-S1" ili="wikidata-es-L40970-S1">
+      <Definition>palabra que introduce una oración relativa y conecta a un antecedente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L40978-S1" ili="wikidata-es-L40978-S1">
+      <Definition>indica diferencia, separación o alternativa</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57007-S1" ili="wikidata-es-L57007-S1">
+      <Definition>introduce una excepción</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57355-S1" ili="wikidata-es-L57355-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57879-S1" ili="wikidata-es-L57879-S1">
+      <Definition>inmediatamente después de que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57897-S1" ili="wikidata-es-L57897-S1">
+      <Definition>de pronto</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58029-S1" ili="wikidata-es-L58029-S1">
+      <Definition>de forma simultánea</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58038-S1" ili="wikidata-es-L58038-S1">
+      <Definition>de forma reiterada</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58045-S1" ili="wikidata-es-L58045-S1">
+      <Definition>de forma simultánea</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58048-S1" ili="wikidata-es-L58048-S1">
+      <Definition>de forma prematura</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58056-S1" ili="wikidata-es-L58056-S1">
+      <Definition>en voz baja</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58058-S1" ili="wikidata-es-L58058-S1">
+      <Definition>de forma inmediata</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227969-S1" ili="wikidata-es-L227969-S1">
+      <Definition>en el acto, en ese mismo momento</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227969-S2" ili="wikidata-es-L227969-S2">
+      <Definition>por el hecho mismo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227969-S3" ili="wikidata-es-L227969-S3">
+      <Definition>que se impone la pena en el momento mismo del delito</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227970-S1" ili="wikidata-es-L227970-S1">
+      <Definition>que se habla en tono grandilocuente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L227970-S2" ili="wikidata-es-L227970-S2">
+      <Definition>que se dice como persona de autoridad</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L346257-S1" ili="wikidata-es-L346257-S1">
+      <Definition>anteayer, en el día anterior a ayer</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L588335-S1" ili="wikidata-es-L588335-S1">
+      <Definition>en el día posterior al de mañana</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L711974-S1" ili="wikidata-es-L711974-S1">
+      <Definition>en cualquiera de los días comprendidos entre el lunes y el viernes, ambos incluidos</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L747299-S1" ili="wikidata-es-L747299-S1">
+      <Definition>de forma proporcional</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1096266-S1" ili="wikidata-es-L1096266-S1">
+      <Definition>variante de la preposición &quot;por&quot;, utilizada en fórmulas de juramento</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1132789-S1" ili="wikidata-es-L1132789-S1">
+      <Definition>voz emitida por la oveja o el cordero</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1166147-S1" ili="wikidata-es-L1166147-S1">
+      <Definition>fijamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1182201-S1" ili="wikidata-es-L1182201-S1">
+      <Definition>inmediatamente después de que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L2783-S1" ili="wikidata-es-L2783-S1">
+      <Definition>conjunción disyuntiva usada sólo frente a las palabras comenzadas por el fonema /o/</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11737-S1" ili="wikidata-es-L11737-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11737-S2" ili="wikidata-es-L11737-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11742-S1" ili="wikidata-es-L11742-S1">
+      <Definition>en medio de, indica ubicación en medio de otras cosas</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56588-S2" ili="wikidata-es-L56588-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56677-S2" ili="l485-s1">
+      <Definition>pronombre personal, tercera persona singular masculina</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56926-S1" ili="wikidata-es-L56926-S1">
+      <Definition>también</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57346-S1" ili="wikidata-es-L57346-S1">
+      <Definition>mientras estuvo con vida</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57884-S1" ili="wikidata-es-L57884-S1">
+      <Definition>en consecuencia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57887-S1" ili="wikidata-es-L57887-S1">
+      <Definition>eternamente, indefinidamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58028-S1" ili="wikidata-es-L58028-S1">
+      <Definition>así</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58037-S1" ili="wikidata-es-L58037-S1">
+      <Definition>cada cierto tiempo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58223-S1" ili="wikidata-es-L58223-S1">
+      <Definition>en vez de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58226-S1" ili="wikidata-es-L58226-S1">
+      <Definition>a gran distancia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58226-S2" ili="wikidata-es-L58226-S2">
+      <Definition>evidentemente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58242-S1" ili="wikidata-es-L58242-S1">
+      <Definition>así</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58246-S1" ili="wikidata-es-L58246-S1">
+      <Definition>indica una negación categórica</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L407006-S1" ili="wikidata-es-L407006-S1">
+      <Definition>expresión de saludo utilizada entre dos o más personas de trato familiar, sin importar el momento del día ni las circunstancias</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L651872-S1" ili="wikidata-es-L651872-S1">
+      <Definition>con destino a; en dirección a; hacia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L741577-S1" ili="wikidata-es-L741577-S1">
+      <Definition>forma de montar a caballo, con ambas piernas hacia el mismo lado del animal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L741580-S1" ili="wikidata-es-L741580-S1">
+      <Definition>forma de montar a caballo, con una pierna a cada lado del animal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1119138-S1" ili="wikidata-es-L1119138-S1">
+      <Definition>en exceso, con abundancia innecesaria</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1152556-S1" ili="wikidata-es-L1152556-S1">
+      <Definition>de forma recia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1220702-S1" ili="wikidata-es-L1220702-S1">
+      <Definition>por favor</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1406154-S1" ili="wikidata-es-L1406154-S1">
+      <Definition>forma de montar a caballo, con una pierna a cada lado del animal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1531686-S1" ili="wikidata-es-L1531686-S1">
+      <Definition>usado para detener los caballos</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11754-S1" ili="wikidata-es-L11754-S1">
+      <Definition>indica el procedimiento o la forma como se hace algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11756-S1" ili="wikidata-es-L11756-S1">
+      <Definition>indica la ausencia, carencia o falta de algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11756-S2" ili="wikidata-es-L11756-S2">
+      <Definition>indica exclusión</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11756-S3" ili="wikidata-es-L11756-S3">
+      <Definition>indica negación delante de un verbo en infinitivo, equivalente a &quot;no&quot; delante del gerundio</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57019-S1" ili="wikidata-es-L57019-S1">
+      <Definition>por el contrario</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57022-S1" ili="wikidata-es-L57022-S1">
+      <Definition>en lugar de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57026-S1" ili="wikidata-es-L57026-S1">
+      <Definition>completamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57031-S1" ili="wikidata-es-L57031-S1">
+      <Definition>introduce un ejemplo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57068-S1" ili="wikidata-es-L57068-S1">
+      <Definition>para contraponer una afirmación tras una negación</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57068-S2" ili="wikidata-es-L57068-S2">
+      <Definition>para añadir elementos a una declaración</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57352-S1" ili="wikidata-es-L57352-S1">
+      <Definition>designa a la persona a quién se dirige el hablante o enunciador de la frase, es decir, a la segunda persona del singular, usado cuando tiene función de dativo o acusativo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57354-S1" ili="wikidata-es-L57354-S1">
+      <Definition>designa al hablante o enunciador como sujeto de la frase, es decir, a la primera persona del singular, usado cuando tiene función de dativo o acusativo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57817-S1" ili="wikidata-es-L57817-S1">
+      <Definition>inicia una coordinación copulativa</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58064-S1" ili="wikidata-es-L58064-S1">
+      <Definition>con oposición de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58257-S1" ili="wikidata-es-L58257-S1">
+      <Definition>en cualquier caso</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58276-S1" ili="wikidata-es-L58276-S1">
+      <Definition>de forma general</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L651860-S1" ili="wikidata-es-L651860-S1">
+      <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L651865-S1" ili="wikidata-es-L651865-S1">
+      <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L735253-S1" ili="wikidata-es-L735253-S1">
+      <Definition>expresa malestar, inquietud, disgusto o enojo</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1118805-S1" ili="wikidata-es-L1118805-S1">
+      <Definition>de una vez, de golpe</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1186980-S1" ili="wikidata-es-L1186980-S1">
+      <Definition>cuando más; a lo más</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1550831-S2" ili="wikidata-es-L1550831-S2">
+      <Definition>palace</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1550831-S3" ili="wikidata-es-L1550831-S3">
+      <Definition>castle</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11721-S1" ili="wikidata-es-L11721-S1">
+      <Definition>delante de; frente a</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11721-S2" ili="wikidata-es-L11721-S2">
+      <Definition>en presencia de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11721-S3" ili="wikidata-es-L11721-S3">
+      <Definition>comparado con</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56595-S1" ili="wikidata-es-L56595-S1">
+      <Definition>aunque</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56595-S2" ili="wikidata-es-L56595-S2">
+      <Definition>o</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56599-S1" ili="wikidata-es-L56599-S1">
+      <Definition>pronombre personal en segunda persona singular</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56997-S1" ili="wikidata-es-L56997-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57006-S1" ili="wikidata-es-L57006-S1">
+      <Definition>excepto</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57021-S1" ili="wikidata-es-L57021-S1">
+      <Definition>en vez de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57207-S1" ili="wikidata-es-L57207-S1">
+      <Definition>con la condición o función de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57821-S1" ili="wikidata-es-L57821-S1">
+      <Definition>refiere al objeto directo de tercera persona cuando éste ya es conocido</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57876-S1" ili="wikidata-es-L57876-S1">
+      <Definition>expresa deseo de que algo suceda</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57878-S2" ili="wikidata-es-L57878-S2">
+      <Definition>inmediatamente después de que</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57878-S3" ili="wikidata-es-L57878-S3">
+      <Definition>introduce una comparación</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57886-S1" ili="wikidata-es-L57886-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58219-S1" ili="wikidata-es-L58219-S1">
+      <Definition>próximo a</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58227-S1" ili="wikidata-es-L58227-S1">
+      <Definition>de ninguna manera</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58256-S1" ili="wikidata-es-L58256-S1">
+      <Definition>indica una negación categórica</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58269-S1" ili="wikidata-es-L58269-S1">
+      <Definition>solamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L620213-S1" ili="wikidata-es-L620213-S1">
+      <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L642323-S1" ili="wikidata-es-L642323-S1">
+      <Definition>conjunción consecutiva; entonces; por tanto; por consiguiente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L717959-S1" ili="wikidata-es-L717959-S1">
+      <Definition>voz que se usa para espantar a algunos animales, como a un perro o a un gato</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L727552-S1" ili="wikidata-es-L727552-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L755292-S1" ili="wikidata-es-L755292-S1">
+      <Definition>qué o cuál persona</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1133389-S1" ili="wikidata-es-L1133389-S1">
+      <Definition>a gran distancia</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1133389-S2" ili="wikidata-es-L1133389-S2">
+      <Definition>evidentemente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1233175-S1" ili="wikidata-es-L1233175-S1">
+      <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1233179-S1" ili="wikidata-es-L1233179-S1">
+      <Definition>se usa para expresar ira, frustración o desagrado, pero evitando decir la palabra malsonante &quot;mierda&quot;</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1409245-S1" ili="wikidata-es-L1409245-S1">
+      <Definition>de forma injusta</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11718-S1" ili="wikidata-es-L11718-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11719-S1" ili="wikidata-es-L11719-S1">
+      <Definition>artículo determinante</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L11758-S1" ili="wikidata-es-L11758-S1">
+      <Definition>debajo de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56575-S1" ili="wikidata-es-L56575-S1">
+      <Definition>introduce una condición o suposición</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56578-S1" ili="wikidata-es-L56578-S1">
+      <Definition>indica causalidad</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L56578-S2" ili="wikidata-es-L56578-S2">
+      <Definition>señala continuación</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L57877-S1" ili="wikidata-es-L57877-S1">
+      <Definition>expresa deseo de que algo suceda</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58065-S1" ili="wikidata-es-L58065-S1">
+      <Definition>con oposición de</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L58264-S1" ili="wikidata-es-L58264-S1">
+      <Definition>ninguna persona</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L650606-S1" ili="wikidata-es-L650606-S1">
+      <Definition>interjección que expresa sorpresa o contrariedad</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1166148-S1" ili="wikidata-es-L1166148-S1">
+      <Definition>oblicuamente</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1220701-S1" ili="wikidata-es-L1220701-S1">
+      <Definition>por favor</Definition>
+    </Synset>
+    <Synset id="wikidata-es-L1233073-S1" ili="wikidata-es-L1233073-S1">
+      <Definition>de forma excesiva</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

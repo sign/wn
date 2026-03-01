@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ps"
+                    label="Wikidata PS Lexemes Extension"
+                    language="ps"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ps" version="1.4"/>
+    <LexicalEntry id="L1012607">
+      <Lemma writtenForm="‍ټ" partOfSpeech="affix"/>
+      <Sense id="L1012607-S1" synset="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1090471">
+      <Lemma writtenForm="په" partOfSpeech="ambiposition"/>
+      <Sense id="L1090471-S1" synset="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1090471-S2" synset="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235444">
+      <Lemma writtenForm="د" partOfSpeech="ambiposition"/>
+      <Sense id="L1235444-S1" synset="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235448">
+      <Lemma writtenForm="تر" partOfSpeech="ambiposition"/>
+      <Sense id="L1235448-S1" synset="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1235448-S2" synset="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235447">
+      <Lemma writtenForm="بې" partOfSpeech="preposition"/>
+      <Sense id="L1235447-S1" synset="wikidata-ps-L1235447-S1" ili="wikidata-ps-L1235447-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235446">
+      <Lemma writtenForm="له" partOfSpeech="ambiposition"/>
+      <Sense id="L1235446-S1" synset="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235450">
+      <Lemma writtenForm="لکه" partOfSpeech="preposition"/>
+      <Sense id="L1235450-S1" synset="wikidata-ps-L1235450-S1" ili="wikidata-ps-L1235450-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235451">
+      <Lemma writtenForm="ته" partOfSpeech="postposition"/>
+      <Sense id="L1235451-S1" synset="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1235451-S2" synset="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L709027">
+      <Lemma writtenForm="يو" partOfSpeech="numeral"/>
+      <Sense id="L709027-S1" synset="wikidata-ps-L709027-S1" ili="wikidata-ps-L709027-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235447-S1" ili="wikidata-ps-L1235447-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235450-S1" ili="wikidata-ps-L1235450-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ps-L709027-S1" ili="wikidata-ps-L709027-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

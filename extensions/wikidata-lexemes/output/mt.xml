@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-mt"
+                    label="Wikidata MT Lexemes Extension"
+                    language="mt"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-mt" version="1.4"/>
+    <LexicalEntry id="L473425">
+      <Lemma writtenForm="li" partOfSpeech="resumptive pronoun"/>
+      <Sense id="L473425-S1" synset="wikidata-mt-L473425-S1" ili="wikidata-mt-L473425-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473995">
+      <Lemma writtenForm="ġo" partOfSpeech="preposition"/>
+      <Sense id="L473995-S1" synset="wikidata-mt-L473995-S1" ili="wikidata-mt-L473995-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-mt-L473996-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473996">
+      <Lemma writtenForm="fi" partOfSpeech="preposition"/>
+      <Sense id="L473996-S1" synset="wikidata-mt-L473996-S1" ili="wikidata-mt-L473996-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-mt-L473995-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473997">
+      <Lemma writtenForm="ħdejn" partOfSpeech="preposition"/>
+      <Sense id="L473997-S1" synset="wikidata-mt-L473997-S1" ili="wikidata-mt-L473997-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474004">
+      <Lemma writtenForm="ħlief" partOfSpeech="preposition"/>
+      <Sense id="L474004-S1" synset="wikidata-mt-L474004-S1" ili="wikidata-mt-L474004-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474019">
+      <Lemma writtenForm="bħala" partOfSpeech="preposition"/>
+      <Sense id="L474019-S1" synset="wikidata-mt-L474019-S1" ili="wikidata-mt-L474019-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1248628">
+      <Lemma writtenForm="biex" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1248628-S1" synset="wikidata-mt-L1248628-S1" ili="wikidata-mt-L1248628-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1316695">
+      <Lemma writtenForm="w-ħ-r" partOfSpeech="root"/>
+      <Sense id="L1316695-S1" synset="wikidata-mt-L1316695-S1" ili="wikidata-mt-L1316695-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1316695-S2" synset="wikidata-mt-L1316695-S2" ili="wikidata-mt-L1316695-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1316695-S3" synset="wikidata-mt-L1316695-S3" ili="wikidata-mt-L1316695-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26538">
+      <Lemma writtenForm="tlieta" partOfSpeech="numeral"/>
+      <Sense id="L26538-S1" synset="wikidata-mt-L26538-S1" ili="wikidata-mt-L26538-S1">
+        <Definition>in-numru kardinali tlieta</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26540">
+      <Lemma writtenForm="erbgħa" partOfSpeech="numeral"/>
+      <Sense id="L26540-S1" synset="wikidata-mt-L26540-S1" ili="wikidata-mt-L26540-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26578">
+      <Lemma writtenForm="disgħa" partOfSpeech="numeral"/>
+      <Sense id="L26578-S1" synset="wikidata-mt-L26578-S1" ili="wikidata-mt-L26578-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473979">
+      <Lemma writtenForm="għal" partOfSpeech="preposition"/>
+      <Sense id="L473979-S1" synset="wikidata-mt-L473979-S1" ili="wikidata-mt-L473979-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L473979-S2" synset="wikidata-mt-L473979-S2" ili="wikidata-mt-L473979-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473992">
+      <Lemma writtenForm="bla" partOfSpeech="preposition"/>
+      <Sense id="L473992-S1" synset="wikidata-mt-L473992-S1" ili="wikidata-mt-L473992-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474000">
+      <Lemma writtenForm="quddiem" partOfSpeech="preposition"/>
+      <Sense id="L474000-S1" synset="wikidata-mt-L474000-S1" ili="wikidata-mt-L474000-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474002">
+      <Lemma writtenForm="sakemm" partOfSpeech="preposition"/>
+      <Sense id="L474002-S1" synset="wikidata-mt-L474002-S1" ili="wikidata-mt-L474002-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474092">
+      <Lemma writtenForm="bi" partOfSpeech="preposition"/>
+      <Sense id="L474092-S1" synset="wikidata-mt-L474092-S1" ili="wikidata-mt-L474092-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474277">
+      <Lemma writtenForm="ħ-d-m" partOfSpeech="root"/>
+      <Sense id="L474277-S1" synset="wikidata-mt-L474277-S1" ili="wikidata-mt-L474277-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319007">
+      <Lemma writtenForm="b-q-t" partOfSpeech="root"/>
+      <Sense id="L1319007-S1" synset="wikidata-mt-L1319007-S1" ili="wikidata-mt-L1319007-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404916">
+      <Lemma writtenForm="għ-l-j" partOfSpeech="root"/>
+      <Sense id="L1404916-S1" synset="wikidata-mt-L1404916-S1" ili="wikidata-mt-L1404916-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26533">
+      <Lemma writtenForm="tnejn" partOfSpeech="numeral"/>
+      <Sense id="L26533-S1" synset="wikidata-mt-L26533-S1" ili="wikidata-mt-L26533-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26554">
+      <Lemma writtenForm="sitta" partOfSpeech="numeral"/>
+      <Sense id="L26554-S1" synset="wikidata-mt-L26554-S1" ili="wikidata-mt-L26554-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26936">
+      <Lemma writtenForm="erbatax" partOfSpeech="numeral"/>
+      <Sense id="L26936-S1" synset="wikidata-mt-L26936-S1" ili="wikidata-mt-L26936-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473427">
+      <Lemma writtenForm="meta" partOfSpeech="conjunction"/>
+      <Sense id="L473427-S1" synset="wikidata-mt-L473427-S1" ili="wikidata-mt-L473427-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473432">
+      <Lemma writtenForm="għax" partOfSpeech="conjunction"/>
+      <Sense id="L473432-S1" synset="wikidata-mt-L473432-S1" ili="wikidata-mt-L473432-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473972">
+      <Lemma writtenForm="minn" partOfSpeech="preposition"/>
+      <Sense id="L473972-S1" synset="wikidata-mt-L473972-S1" ili="wikidata-mt-L473972-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473977">
+      <Lemma writtenForm="maʼ" partOfSpeech="preposition"/>
+      <Sense id="L473977-S1" synset="wikidata-mt-L473977-S1" ili="wikidata-mt-L473977-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473985">
+      <Lemma writtenForm="kontra" partOfSpeech="preposition"/>
+      <Sense id="L473985-S1" synset="wikidata-mt-L473985-S1" ili="wikidata-mt-L473985-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473989">
+      <Lemma writtenForm="taħt" partOfSpeech="preposition"/>
+      <Sense id="L473989-S1" synset="wikidata-mt-L473989-S1" ili="wikidata-mt-L473989-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473998">
+      <Lemma writtenForm="mingħajr" partOfSpeech="preposition"/>
+      <Sense id="L473998-S1" synset="wikidata-mt-L473998-S1" ili="wikidata-mt-L473998-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012430">
+      <Lemma writtenForm="r-k-b" partOfSpeech="root"/>
+      <Sense id="L1012430-S1" synset="wikidata-mt-L1012430-S1" ili="wikidata-mt-L1012430-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1037361">
+      <Lemma writtenForm="sabiex" partOfSpeech="conjunction"/>
+      <Sense id="L1037361-S1" synset="wikidata-mt-L1037361-S1" ili="wikidata-mt-L1037361-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133517">
+      <Lemma writtenForm="s-w-f" partOfSpeech="root"/>
+      <Sense id="L1133517-S1" synset="wikidata-mt-L1133517-S1" ili="wikidata-mt-L1133517-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1244587">
+      <Lemma writtenForm="s-w-d" partOfSpeech="root"/>
+      <Sense id="L1244587-S1" synset="wikidata-mt-L1244587-S1" ili="wikidata-mt-L1244587-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1248900">
+      <Lemma writtenForm="qalb" partOfSpeech="preposition"/>
+      <Sense id="L1248900-S1" synset="wikidata-mt-L1248900-S1" ili="wikidata-mt-L1248900-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1248900-S2" synset="wikidata-mt-L1248900-S2" ili="wikidata-mt-L1248900-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L25087">
+      <Lemma writtenForm="k-t-b" partOfSpeech="root"/>
+      <Sense id="L25087-S1" synset="wikidata-mt-L25087-S1" ili="wikidata-mt-L25087-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26539">
+      <Lemma writtenForm="ħamsa" partOfSpeech="numeral"/>
+      <Sense id="L26539-S1" synset="wikidata-mt-L26539-S1" ili="wikidata-mt-L26539-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26943">
+      <Lemma writtenForm="sbatax" partOfSpeech="numeral"/>
+      <Sense id="L26943-S1" synset="wikidata-mt-L26943-S1" ili="wikidata-mt-L26943-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473434">
+      <Lemma writtenForm="iżda" partOfSpeech="conjunction"/>
+      <Sense id="L473434-S1" synset="wikidata-mt-L473434-S1" ili="wikidata-mt-L473434-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473440">
+      <Lemma writtenForm="kemm" partOfSpeech="conjunction"/>
+      <Sense id="L473440-S1" synset="wikidata-mt-L473440-S1" ili="wikidata-mt-L473440-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473987">
+      <Lemma writtenForm="qabel" partOfSpeech="preposition"/>
+      <Sense id="L473987-S1" synset="wikidata-mt-L473987-S1" ili="wikidata-mt-L473987-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473994">
+      <Lemma writtenForm="fost" partOfSpeech="preposition"/>
+      <Sense id="L473994-S1" synset="wikidata-mt-L473994-S1" ili="wikidata-mt-L473994-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474001">
+      <Lemma writtenForm="sa" partOfSpeech="preposition"/>
+      <Sense id="L474001-S1" synset="wikidata-mt-L474001-S1" ili="wikidata-mt-L474001-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012426">
+      <Lemma writtenForm="k-s-r" partOfSpeech="root"/>
+      <Sense id="L1012426-S1" synset="wikidata-mt-L1012426-S1" ili="wikidata-mt-L1012426-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013950">
+      <Lemma writtenForm="b-d-b-d" partOfSpeech="root"/>
+      <Sense id="L1013950-S1" synset="wikidata-mt-L1013950-S1" ili="wikidata-mt-L1013950-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013950-S2" synset="wikidata-mt-L1013950-S2" ili="wikidata-mt-L1013950-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1013950-S3" synset="wikidata-mt-L1013950-S3" ili="wikidata-mt-L1013950-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093516">
+      <Lemma writtenForm="s-n-n" partOfSpeech="root"/>
+      <Sense id="L1093516-S1" synset="wikidata-mt-L1093516-S1" ili="wikidata-mt-L1093516-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133344">
+      <Lemma writtenForm="ħ-w-l" partOfSpeech="root"/>
+      <Sense id="L1133344-S1" synset="wikidata-mt-L1133344-S1" ili="wikidata-mt-L1133344-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1318929">
+      <Lemma writtenForm="x-r-b" partOfSpeech="root"/>
+      <Sense id="L1318929-S1" synset="wikidata-mt-L1318929-S1" ili="wikidata-mt-L1318929-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26532">
+      <Lemma writtenForm="wieħed" partOfSpeech="numeral"/>
+      <Sense id="L26532-S1" synset="wikidata-mt-L26532-S1" ili="wikidata-mt-L26532-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26559">
+      <Lemma writtenForm="sebgħa" partOfSpeech="numeral"/>
+      <Sense id="L26559-S1" synset="wikidata-mt-L26559-S1" ili="wikidata-mt-L26559-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26931">
+      <Lemma writtenForm="ħdax" partOfSpeech="numeral"/>
+      <Sense id="L26931-S1" synset="wikidata-mt-L26931-S1" ili="wikidata-mt-L26931-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26939">
+      <Lemma writtenForm="ħmistax" partOfSpeech="numeral"/>
+      <Sense id="L26939-S1" synset="wikidata-mt-L26939-S1" ili="wikidata-mt-L26939-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473423">
+      <Lemma writtenForm="jew" partOfSpeech="conjunction"/>
+      <Sense id="L473423-S1" synset="wikidata-mt-L473423-S1" ili="wikidata-mt-L473423-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473430">
+      <Lemma writtenForm="imma" partOfSpeech="conjunction"/>
+      <Sense id="L473430-S1" synset="wikidata-mt-L473430-S1" ili="wikidata-mt-L473430-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473435">
+      <Lemma writtenForm="jekk" partOfSpeech="conjunction"/>
+      <Sense id="L473435-S1" synset="wikidata-mt-L473435-S1" ili="wikidata-mt-L473435-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473980">
+      <Lemma writtenForm="bħal" partOfSpeech="preposition"/>
+      <Sense id="L473980-S1" synset="wikidata-mt-L473980-S1" ili="wikidata-mt-L473980-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473983">
+      <Lemma writtenForm="bejn" partOfSpeech="preposition"/>
+      <Sense id="L473983-S1" synset="wikidata-mt-L473983-S1" ili="wikidata-mt-L473983-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473988">
+      <Lemma writtenForm="lejn" partOfSpeech="preposition"/>
+      <Sense id="L473988-S1" synset="wikidata-mt-L473988-S1" ili="wikidata-mt-L473988-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473993">
+      <Lemma writtenForm="daqs" partOfSpeech="preposition"/>
+      <Sense id="L473993-S1" synset="wikidata-mt-L473993-S1" ili="wikidata-mt-L473993-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474016">
+      <Lemma writtenForm="matul" partOfSpeech="preposition"/>
+      <Sense id="L474016-S1" synset="wikidata-mt-L474016-S1" ili="wikidata-mt-L474016-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036701">
+      <Lemma writtenForm="k-j-f" partOfSpeech="root"/>
+      <Sense id="L1036701-S1" synset="wikidata-mt-L1036701-S1" ili="wikidata-mt-L1036701-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1036701-S2" synset="wikidata-mt-L1036701-S2" ili="wikidata-mt-L1036701-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036704">
+      <Lemma writtenForm="k-m-m" partOfSpeech="root"/>
+      <Sense id="L1036704-S1" synset="wikidata-mt-L1036704-S1" ili="wikidata-mt-L1036704-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1310466">
+      <Lemma writtenForm="b-q-għ" partOfSpeech="root"/>
+      <Sense id="L1310466-S1" synset="wikidata-mt-L1310466-S1" ili="wikidata-mt-L1310466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26580">
+      <Lemma writtenForm="għaxra" partOfSpeech="numeral"/>
+      <Sense id="L26580-S1" synset="wikidata-mt-L26580-S1" ili="wikidata-mt-L26580-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26945">
+      <Lemma writtenForm="tmintax" partOfSpeech="numeral"/>
+      <Sense id="L26945-S1" synset="wikidata-mt-L26945-S1" ili="wikidata-mt-L26945-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L314589">
+      <Lemma writtenForm="il-" partOfSpeech="definite article"/>
+      <Sense id="L314589-S1" synset="wikidata-mt-L314589-S1" ili="wikidata-mt-L314589-S1">
+        <Definition>artiklu definit</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473421">
+      <Lemma writtenForm="u" partOfSpeech="conjunction"/>
+      <Sense id="L473421-S1" synset="wikidata-mt-L473421-S1" ili="wikidata-mt-L473421-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473431">
+      <Lemma writtenForm="biex" partOfSpeech="conjunction"/>
+      <Sense id="L473431-S1" synset="wikidata-mt-L473431-S1" ili="wikidata-mt-L473431-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1248629">
+      <Lemma writtenForm="meta" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1248629-S1" synset="wikidata-mt-L1248629-S1" ili="wikidata-mt-L1248629-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26941">
+      <Lemma writtenForm="sittax" partOfSpeech="numeral"/>
+      <Sense id="L26941-S1" synset="wikidata-mt-L26941-S1" ili="wikidata-mt-L26941-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473990">
+      <Lemma writtenForm="barra" partOfSpeech="preposition"/>
+      <Sense id="L473990-S1" synset="wikidata-mt-L473990-S1" ili="wikidata-mt-L473990-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473991">
+      <Lemma writtenForm="waqt" partOfSpeech="preposition"/>
+      <Sense id="L473991-S1" synset="wikidata-mt-L473991-S1" ili="wikidata-mt-L473991-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474276">
+      <Lemma writtenForm="għ-m-l" partOfSpeech="root"/>
+      <Sense id="L474276-S1" synset="wikidata-mt-L474276-S1" ili="wikidata-mt-L474276-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474279">
+      <Lemma writtenForm="k-w-n" partOfSpeech="root"/>
+      <Sense id="L474279-S1" synset="wikidata-mt-L474279-S1" ili="wikidata-mt-L474279-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1012412">
+      <Lemma writtenForm="s-r-q" partOfSpeech="root"/>
+      <Sense id="L1012412-S1" synset="wikidata-mt-L1012412-S1" ili="wikidata-mt-L1012412-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093240">
+      <Lemma writtenForm="għ-w-r" partOfSpeech="root"/>
+      <Sense id="L1093240-S1" synset="wikidata-mt-L1093240-S1" ili="wikidata-mt-L1093240-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1217785">
+      <Lemma writtenForm="w-ħ-d" partOfSpeech="root"/>
+      <Sense id="L1217785-S1" synset="wikidata-mt-L1217785-S1" ili="wikidata-mt-L1217785-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1233728">
+      <Lemma writtenForm="ħ-l-b" partOfSpeech="root"/>
+      <Sense id="L1233728-S1" synset="wikidata-mt-L1233728-S1" ili="wikidata-mt-L1233728-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1244595">
+      <Lemma writtenForm="x-j-ħ" partOfSpeech="root"/>
+      <Sense id="L1244595-S1" synset="wikidata-mt-L1244595-S1" ili="wikidata-mt-L1244595-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26576">
+      <Lemma writtenForm="tmienja" partOfSpeech="numeral"/>
+      <Sense id="L26576-S1" synset="wikidata-mt-L26576-S1" ili="wikidata-mt-L26576-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26933">
+      <Lemma writtenForm="tnax" partOfSpeech="numeral"/>
+      <Sense id="L26933-S1" synset="wikidata-mt-L26933-S1" ili="wikidata-mt-L26933-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26934">
+      <Lemma writtenForm="tlettax" partOfSpeech="numeral"/>
+      <Sense id="L26934-S1" synset="wikidata-mt-L26934-S1" ili="wikidata-mt-L26934-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26947">
+      <Lemma writtenForm="dsatax" partOfSpeech="numeral"/>
+      <Sense id="L26947-S1" synset="wikidata-mt-L26947-S1" ili="wikidata-mt-L26947-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L26949">
+      <Lemma writtenForm="għoxrin" partOfSpeech="numeral"/>
+      <Sense id="L26949-S1" synset="wikidata-mt-L26949-S1" ili="wikidata-mt-L26949-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473441">
+      <Lemma writtenForm="fejn" partOfSpeech="conjunction"/>
+      <Sense id="L473441-S1" synset="wikidata-mt-L473441-S1" ili="wikidata-mt-L473441-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473973">
+      <Lemma writtenForm="fuq" partOfSpeech="preposition"/>
+      <Sense id="L473973-S1" synset="wikidata-mt-L473973-S1" ili="wikidata-mt-L473973-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L473973-S2" synset="wikidata-mt-L473973-S2" ili="wikidata-mt-L473973-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473975">
+      <Lemma writtenForm="taʼ" partOfSpeech="preposition"/>
+      <Sense id="L473975-S1" synset="wikidata-mt-L473975-S1" ili="wikidata-mt-L473975-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473981">
+      <Lemma writtenForm="lil" partOfSpeech="preposition"/>
+      <Sense id="L473981-S1" synset="wikidata-mt-L473981-S1" ili="wikidata-mt-L473981-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473999">
+      <Lemma writtenForm="qrib" partOfSpeech="preposition"/>
+      <Sense id="L473999-S1" synset="wikidata-mt-L473999-S1" ili="wikidata-mt-L473999-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L474003">
+      <Lemma writtenForm="tul" partOfSpeech="preposition"/>
+      <Sense id="L474003-S1" synset="wikidata-mt-L474003-S1" ili="wikidata-mt-L474003-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036697">
+      <Lemma writtenForm="h-m-m" partOfSpeech="root"/>
+      <Sense id="L1036697-S1" synset="wikidata-mt-L1036697-S1" ili="wikidata-mt-L1036697-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1036697-S2" synset="wikidata-mt-L1036697-S2" ili="wikidata-mt-L1036697-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093522">
+      <Lemma writtenForm="ħ-s-b" partOfSpeech="root"/>
+      <Sense id="L1093522-S1" synset="wikidata-mt-L1093522-S1" ili="wikidata-mt-L1093522-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1093523">
+      <Lemma writtenForm="ħ-t-n" partOfSpeech="root"/>
+      <Sense id="L1093523-S1" synset="wikidata-mt-L1093523-S1" ili="wikidata-mt-L1093523-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-mt-L473425-S1" ili="wikidata-mt-L473425-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473995-S1" ili="wikidata-mt-L473995-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473996-S1" ili="wikidata-mt-L473996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473997-S1" ili="wikidata-mt-L473997-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474004-S1" ili="wikidata-mt-L474004-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474019-S1" ili="wikidata-mt-L474019-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1248628-S1" ili="wikidata-mt-L1248628-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1316695-S1" ili="wikidata-mt-L1316695-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1316695-S2" ili="wikidata-mt-L1316695-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1316695-S3" ili="wikidata-mt-L1316695-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26538-S1" ili="wikidata-mt-L26538-S1">
+      <Definition>in-numru kardinali tlieta</Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26540-S1" ili="wikidata-mt-L26540-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26578-S1" ili="wikidata-mt-L26578-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473979-S1" ili="wikidata-mt-L473979-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473979-S2" ili="wikidata-mt-L473979-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473992-S1" ili="wikidata-mt-L473992-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474000-S1" ili="wikidata-mt-L474000-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474002-S1" ili="wikidata-mt-L474002-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474092-S1" ili="wikidata-mt-L474092-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474277-S1" ili="wikidata-mt-L474277-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1319007-S1" ili="wikidata-mt-L1319007-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1404916-S1" ili="wikidata-mt-L1404916-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26533-S1" ili="wikidata-mt-L26533-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26554-S1" ili="wikidata-mt-L26554-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26936-S1" ili="wikidata-mt-L26936-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473427-S1" ili="wikidata-mt-L473427-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473432-S1" ili="wikidata-mt-L473432-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473972-S1" ili="wikidata-mt-L473972-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473977-S1" ili="wikidata-mt-L473977-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473985-S1" ili="wikidata-mt-L473985-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473989-S1" ili="wikidata-mt-L473989-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473998-S1" ili="wikidata-mt-L473998-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1012430-S1" ili="wikidata-mt-L1012430-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1037361-S1" ili="wikidata-mt-L1037361-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1133517-S1" ili="wikidata-mt-L1133517-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1244587-S1" ili="wikidata-mt-L1244587-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1248900-S1" ili="wikidata-mt-L1248900-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1248900-S2" ili="wikidata-mt-L1248900-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L25087-S1" ili="wikidata-mt-L25087-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26539-S1" ili="wikidata-mt-L26539-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26943-S1" ili="wikidata-mt-L26943-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473434-S1" ili="wikidata-mt-L473434-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473440-S1" ili="wikidata-mt-L473440-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473987-S1" ili="wikidata-mt-L473987-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473994-S1" ili="wikidata-mt-L473994-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474001-S1" ili="wikidata-mt-L474001-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1012426-S1" ili="wikidata-mt-L1012426-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1013950-S1" ili="wikidata-mt-L1013950-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1013950-S2" ili="wikidata-mt-L1013950-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1013950-S3" ili="wikidata-mt-L1013950-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1093516-S1" ili="wikidata-mt-L1093516-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1133344-S1" ili="wikidata-mt-L1133344-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1318929-S1" ili="wikidata-mt-L1318929-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26532-S1" ili="wikidata-mt-L26532-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26559-S1" ili="wikidata-mt-L26559-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26931-S1" ili="wikidata-mt-L26931-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26939-S1" ili="wikidata-mt-L26939-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473423-S1" ili="wikidata-mt-L473423-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473430-S1" ili="wikidata-mt-L473430-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473435-S1" ili="wikidata-mt-L473435-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473980-S1" ili="wikidata-mt-L473980-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473983-S1" ili="wikidata-mt-L473983-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473988-S1" ili="wikidata-mt-L473988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473993-S1" ili="wikidata-mt-L473993-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474016-S1" ili="wikidata-mt-L474016-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1036701-S1" ili="wikidata-mt-L1036701-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1036701-S2" ili="wikidata-mt-L1036701-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1036704-S1" ili="wikidata-mt-L1036704-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1310466-S1" ili="wikidata-mt-L1310466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26580-S1" ili="wikidata-mt-L26580-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26945-S1" ili="wikidata-mt-L26945-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L314589-S1" ili="wikidata-mt-L314589-S1">
+      <Definition>artiklu definit</Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473421-S1" ili="wikidata-mt-L473421-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473431-S1" ili="wikidata-mt-L473431-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1248629-S1" ili="wikidata-mt-L1248629-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26941-S1" ili="wikidata-mt-L26941-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473990-S1" ili="wikidata-mt-L473990-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473991-S1" ili="wikidata-mt-L473991-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474276-S1" ili="wikidata-mt-L474276-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474279-S1" ili="wikidata-mt-L474279-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1012412-S1" ili="wikidata-mt-L1012412-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1093240-S1" ili="wikidata-mt-L1093240-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1217785-S1" ili="wikidata-mt-L1217785-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1233728-S1" ili="wikidata-mt-L1233728-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1244595-S1" ili="wikidata-mt-L1244595-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26576-S1" ili="wikidata-mt-L26576-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26933-S1" ili="wikidata-mt-L26933-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26934-S1" ili="wikidata-mt-L26934-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26947-S1" ili="wikidata-mt-L26947-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L26949-S1" ili="wikidata-mt-L26949-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473441-S1" ili="wikidata-mt-L473441-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473973-S1" ili="wikidata-mt-L473973-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473973-S2" ili="wikidata-mt-L473973-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473975-S1" ili="wikidata-mt-L473975-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473981-S1" ili="wikidata-mt-L473981-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L473999-S1" ili="wikidata-mt-L473999-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L474003-S1" ili="wikidata-mt-L474003-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1036697-S1" ili="wikidata-mt-L1036697-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1036697-S2" ili="wikidata-mt-L1036697-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1093522-S1" ili="wikidata-mt-L1093522-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mt-L1093523-S1" ili="wikidata-mt-L1093523-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-uk"
+                    label="Wikidata UK Lexemes Extension"
+                    language="uk"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-uk" version="1.4"/>
+    <LexicalEntry id="L1224904">
+      <Lemma writtenForm="десять" partOfSpeech="numeral"/>
+      <Sense id="L1224904-S1" synset="wikidata-uk-L1224904-S1" ili="wikidata-uk-L1224904-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L413947">
+      <Lemma writtenForm="й" partOfSpeech="conjunction"/>
+      <Sense id="L413947-S1" synset="wikidata-uk-L413947-S1" ili="l1385-s1">
+        <Definition>простий єднальний сполучник сурядності</Definition>
+        <SenseRelation relType="similar" target="wikidata-uk-L413084-S1"/>
+      </Sense>
+      <Sense id="L413947-S2" synset="wikidata-uk-L413947-S2" ili="wikidata-uk-L413947-S2">
+        <Definition>символ Юнікоду</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1091447">
+      <Lemma writtenForm="він" partOfSpeech="personal pronoun"/>
+      <Sense id="L1091447-S1" synset="wikidata-uk-L1091447-S1" ili="l485-s1">
+        <Definition>позначає предмет мовлення, виражений іменником чоловічого роду однини в попередньому реченні або після цього займенника</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333211">
+      <Lemma writtenForm="ви" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333211-S1" synset="wikidata-uk-L1333211-S1" ili="wikidata-uk-L1333211-S1">
+        <Definition>двоє чи багато осіб, до яких звертаються</Definition>
+      </Sense>
+      <Sense id="L1333211-S2" synset="wikidata-uk-L1333211-S2" ili="wikidata-uk-L1333211-S2">
+        <Definition>особа, до якої ввічливо звертаються</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333226">
+      <Lemma writtenForm="воно" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333226-S1" synset="wikidata-uk-L1333226-S1" ili="wikidata-uk-L1333226-S1">
+        <Definition>позначає предмет мовлення, виражений іменником середнього роду однини в попередньому реченні або після цього займенника</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L31546">
+      <Lemma writtenForm="ніхто" partOfSpeech="pronoun"/>
+      <Sense id="L31546-S1" synset="wikidata-uk-L31546-S1" ili="wikidata-uk-L31546-S1">
+        <Definition>відсутність когось</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L10906">
+      <Lemma writtenForm="Ковальчук" partOfSpeech="family name"/>
+      <Sense id="L10906-S1" synset="wikidata-uk-L10906-S1" ili="wikidata-uk-L10906-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333228">
+      <Lemma writtenForm="ми" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333228-S1" synset="wikidata-uk-L1333228-S1" ili="l483-s1">
+        <Definition>двоє чи багато осіб разом із мовцем</Definition>
+      </Sense>
+      <Sense id="L1333228-S2" synset="wikidata-uk-L1333228-S2" ili="l483-s3">
+        <Definition>мовець про себе</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333229">
+      <Lemma writtenForm="я" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333229-S1" synset="wikidata-uk-L1333229-S1" ili="l487-s1">
+        <Definition>мовець про себе</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L713750">
+      <Lemma writtenForm="в" partOfSpeech="preposition"/>
+      <Sense id="L713750-S1" synset="wikidata-uk-L713750-S1" ili="wikidata-uk-L713750-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L713750-S2" synset="wikidata-uk-L713750-S2" ili="wikidata-uk-L713750-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333155">
+      <Lemma writtenForm="вони" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333155-S1" synset="wikidata-uk-L1333155-S1" ili="l371-s2">
+        <Definition>позначає предмет мовлення, виражений іменником у множині до або після цього займенника</Definition>
+      </Sense>
+      <Sense id="L1333155-S2" synset="wikidata-uk-L1333155-S2" ili="wikidata-uk-L1333155-S2">
+        <Definition>одна особа будь-якої статі, до якої виражається пошана</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1490646">
+      <Lemma writtenForm="Чмих" partOfSpeech="family name"/>
+      <Sense id="L1490646-S1" synset="wikidata-uk-L1490646-S1" ili="wikidata-uk-L1490646-S1">
+        <Definition>українське прізвище</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333212">
+      <Lemma writtenForm="ти" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333212-S1" synset="wikidata-uk-L1333212-S1" ili="wikidata-uk-L1333212-S1">
+        <Definition>особа, до якої звертаються</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L48417">
+      <Lemma writtenForm="нуль" partOfSpeech="numeral"/>
+      <Sense id="L48417-S1" synset="wikidata-uk-L48417-S1" ili="l8883-s1">
+        <Definition>число, що означає 0</Definition>
+      </Sense>
+      <Sense id="L48417-S2" synset="wikidata-uk-L48417-S2" ili="wikidata-uk-L48417-S2">
+        <Definition>рік</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333156">
+      <Lemma writtenForm="вона" partOfSpeech="personal pronoun"/>
+      <Sense id="L1333156-S1" synset="wikidata-uk-L1333156-S1" ili="l484-s1">
+        <Definition>позначає предмет мовлення, виражений іменником жіночого роду однини в попередньому реченні або після цього займенника</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L31592">
+      <Lemma writtenForm="один" partOfSpeech="numeral"/>
+      <Sense id="L31592-S1" synset="wikidata-uk-L31592-S1" ili="l327-s1">
+        <Definition>числівник, що означає число 1</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L413084">
+      <Lemma writtenForm="і" partOfSpeech="conjunction"/>
+      <Sense id="L413084-S1" synset="wikidata-uk-L413084-S1" ili="l1385-s1">
+        <Definition>простий єднальний сполучник сурядності</Definition>
+        <SenseRelation relType="similar" target="wikidata-uk-L413947-S1"/>
+      </Sense>
+      <Sense id="L413084-S2" synset="wikidata-uk-L413084-S2" ili="wikidata-uk-L413084-S2">
+        <Definition>символ Юнікоду</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-uk-L1224904-S1" ili="wikidata-uk-L1224904-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L413947-S1" ili="l1385-s1">
+      <Definition>простий єднальний сполучник сурядності</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L413947-S2" ili="wikidata-uk-L413947-S2">
+      <Definition>символ Юнікоду</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1091447-S1" ili="l485-s1">
+      <Definition>позначає предмет мовлення, виражений іменником чоловічого роду однини в попередньому реченні або після цього займенника</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333211-S1" ili="wikidata-uk-L1333211-S1">
+      <Definition>двоє чи багато осіб, до яких звертаються</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333211-S2" ili="wikidata-uk-L1333211-S2">
+      <Definition>особа, до якої ввічливо звертаються</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333226-S1" ili="wikidata-uk-L1333226-S1">
+      <Definition>позначає предмет мовлення, виражений іменником середнього роду однини в попередньому реченні або після цього займенника</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L31546-S1" ili="wikidata-uk-L31546-S1">
+      <Definition>відсутність когось</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L10906-S1" ili="wikidata-uk-L10906-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333228-S1" ili="l483-s1">
+      <Definition>двоє чи багато осіб разом із мовцем</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333228-S2" ili="l483-s3">
+      <Definition>мовець про себе</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333229-S1" ili="l487-s1">
+      <Definition>мовець про себе</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L713750-S1" ili="wikidata-uk-L713750-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L713750-S2" ili="wikidata-uk-L713750-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333155-S1" ili="l371-s2">
+      <Definition>позначає предмет мовлення, виражений іменником у множині до або після цього займенника</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333155-S2" ili="wikidata-uk-L1333155-S2">
+      <Definition>одна особа будь-якої статі, до якої виражається пошана</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1490646-S1" ili="wikidata-uk-L1490646-S1">
+      <Definition>українське прізвище</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333212-S1" ili="wikidata-uk-L1333212-S1">
+      <Definition>особа, до якої звертаються</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L48417-S1" ili="l8883-s1">
+      <Definition>число, що означає 0</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L48417-S2" ili="wikidata-uk-L48417-S2">
+      <Definition>рік</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L1333156-S1" ili="l484-s1">
+      <Definition>позначає предмет мовлення, виражений іменником жіночого роду однини в попередньому реченні або після цього займенника</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L31592-S1" ili="l327-s1">
+      <Definition>числівник, що означає число 1</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L413084-S1" ili="l1385-s1">
+      <Definition>простий єднальний сполучник сурядності</Definition>
+    </Synset>
+    <Synset id="wikidata-uk-L413084-S2" ili="wikidata-uk-L413084-S2">
+      <Definition>символ Юнікоду</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

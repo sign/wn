@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-zu"
+                    label="Wikidata ZU Lexemes Extension"
+                    language="zu"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-zu" version="1.4"/>
+    <LexicalEntry id="L677327">
+      <Lemma writtenForm="wena" partOfSpeech="pronoun"/>
+      <Sense id="L677327-S1" synset="wikidata-zu-L677327-S1" ili="wikidata-zu-L677327-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L732472">
+      <Lemma writtenForm="ngaki" partOfSpeech="true adjective"/>
+      <Sense id="L732472-S1" synset="wikidata-zu-L732472-S1" ili="wikidata-zu-L732472-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736566">
+      <Lemma writtenForm="mnandi" partOfSpeech="relative adjective"/>
+      <Sense id="L736566-S1" synset="wikidata-zu-L736566-S1" ili="wikidata-zu-L736566-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736571">
+      <Lemma writtenForm="lo" partOfSpeech="pronoun"/>
+      <Sense id="L736571-S1" synset="wikidata-zu-L736571-S1" ili="wikidata-zu-L736571-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741477">
+      <Lemma writtenForm="fishane" partOfSpeech="true adjective"/>
+      <Sense id="L741477-S1" synset="wikidata-zu-L741477-S1" ili="wikidata-zu-L741477-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741482">
+      <Lemma writtenForm="ningi" partOfSpeech="true adjective"/>
+      <Sense id="L741482-S1" synset="wikidata-zu-L741482-S1" ili="wikidata-zu-L741482-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L732280">
+      <Lemma writtenForm="angi" partOfSpeech="proclitic"/>
+      <Sense id="L732280-S1" synset="wikidata-zu-L732280-S1" ili="wikidata-zu-L732280-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740300">
+      <Lemma writtenForm="nke" partOfSpeech="determiner"/>
+      <Sense id="L740300-S1" synset="wikidata-zu-L740300-S1" ili="wikidata-zu-L740300-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689510">
+      <Lemma writtenForm="umu" partOfSpeech="proclitic"/>
+      <Sense id="L689510-S1" synset="wikidata-zu-L689510-S1" ili="wikidata-zu-L689510-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700299">
+      <Lemma writtenForm="na" partOfSpeech="conjunction"/>
+      <Sense id="L700299-S1" synset="wikidata-zu-L700299-S1" ili="wikidata-zu-L700299-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740188">
+      <Lemma writtenForm="banzi" partOfSpeech="relative adjective"/>
+      <Sense id="L740188-S1" synset="wikidata-zu-L740188-S1" ili="wikidata-zu-L740188-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740294">
+      <Lemma writtenForm="zo" partOfSpeech="mesoclitic"/>
+      <Sense id="L740294-S1" synset="wikidata-zu-L740294-S1" ili="wikidata-zu-L740294-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740297">
+      <Lemma writtenForm="yo" partOfSpeech="mesoclitic"/>
+      <Sense id="L740297-S1" synset="wikidata-zu-L740297-S1" ili="wikidata-zu-L740297-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741478">
+      <Lemma writtenForm="khulu" partOfSpeech="true adjective"/>
+      <Sense id="L741478-S1" synset="wikidata-zu-L741478-S1" ili="wikidata-zu-L741478-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741478-S2" synset="wikidata-zu-L741478-S2" ili="wikidata-zu-L741478-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741479">
+      <Lemma writtenForm="bi" partOfSpeech="true adjective"/>
+      <Sense id="L741479-S1" synset="wikidata-zu-L741479-S1" ili="wikidata-zu-L741479-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741479-S2" synset="wikidata-zu-L741479-S2" ili="wikidata-zu-L741479-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741479-S3" synset="wikidata-zu-L741479-S3" ili="wikidata-zu-L741479-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741485">
+      <Lemma writtenForm="ne" partOfSpeech="true adjective"/>
+      <Sense id="L741485-S1" synset="wikidata-zu-L741485-S1" ili="wikidata-zu-L741485-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737304">
+      <Lemma writtenForm="mnyama" partOfSpeech="relative adjective"/>
+      <Sense id="L737304-S1" synset="wikidata-zu-L737304-S1" ili="wikidata-zu-L737304-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L677329">
+      <Lemma writtenForm="ncane" partOfSpeech="true adjective"/>
+      <Sense id="L677329-S1" synset="wikidata-zu-L677329-S1" ili="wikidata-zu-L677329-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L677329-S2" synset="wikidata-zu-L677329-S2" ili="wikidata-zu-L677329-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L677329-S3" synset="wikidata-zu-L677329-S3" ili="wikidata-zu-L677329-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L705896">
+      <Lemma writtenForm="de" partOfSpeech="true adjective"/>
+      <Sense id="L705896-S1" synset="wikidata-zu-L705896-S1" ili="wikidata-zu-L705896-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L705896-S2" synset="wikidata-zu-L705896-S2" ili="wikidata-zu-L705896-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L705896-S3" synset="wikidata-zu-L705896-S3" ili="wikidata-zu-L705896-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L731135">
+      <Lemma writtenForm="manzi" partOfSpeech="relative adjective"/>
+      <Sense id="L731135-S1" synset="wikidata-zu-L731135-S1" ili="wikidata-zu-L731135-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736562">
+      <Lemma writtenForm="ni" partOfSpeech="enclitic"/>
+      <Sense id="L736562-S1" synset="wikidata-zu-L736562-S1" ili="wikidata-zu-L736562-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741480">
+      <Lemma writtenForm="hle" partOfSpeech="true adjective"/>
+      <Sense id="L741480-S1" synset="wikidata-zu-L741480-S1" ili="wikidata-zu-L741480-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741480-S2" synset="wikidata-zu-L741480-S2" ili="wikidata-zu-L741480-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741481">
+      <Lemma writtenForm="sha" partOfSpeech="true adjective"/>
+      <Sense id="L741481-S1" synset="wikidata-zu-L741481-S1" ili="wikidata-zu-L741481-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L741481-S2" synset="wikidata-zu-L741481-S2" ili="wikidata-zu-L741481-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741486">
+      <Lemma writtenForm="hlanu" partOfSpeech="true adjective"/>
+      <Sense id="L741486-S1" synset="wikidata-zu-L741486-S1" ili="wikidata-zu-L741486-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L677331">
+      <Lemma writtenForm="dala" partOfSpeech="true adjective"/>
+      <Sense id="L677331-S1" synset="wikidata-zu-L677331-S1" ili="wikidata-zu-L677331-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L688517">
+      <Lemma writtenForm="engi" partOfSpeech="proclitic"/>
+      <Sense id="L688517-S1" synset="wikidata-zu-L688517-S1" ili="wikidata-zu-L688517-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L731129">
+      <Lemma writtenForm="mu" partOfSpeech="proclitic"/>
+      <Sense id="L731129-S1" synset="wikidata-zu-L731129-S1" ili="wikidata-zu-L731129-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L731131">
+      <Lemma writtenForm="duma" partOfSpeech="relative adjective"/>
+      <Sense id="L731131-S1" synset="wikidata-zu-L731131-S1" ili="wikidata-zu-L731131-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L736568">
+      <Lemma writtenForm="njenga" partOfSpeech="proclitic"/>
+      <Sense id="L736568-S1" synset="wikidata-zu-L736568-S1" ili="wikidata-zu-L736568-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L737301">
+      <Lemma writtenForm="mina" partOfSpeech="pronoun"/>
+      <Sense id="L737301-S1" synset="wikidata-zu-L737301-S1" ili="wikidata-zu-L737301-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740039">
+      <Lemma writtenForm="om" partOfSpeech="proclitic"/>
+      <Sense id="L740039-S1" synset="wikidata-zu-L740039-S1" ili="wikidata-zu-L740039-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741483">
+      <Lemma writtenForm="bili" partOfSpeech="true adjective"/>
+      <Sense id="L741483-S1" synset="wikidata-zu-L741483-S1" ili="wikidata-zu-L741483-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741484">
+      <Lemma writtenForm="thathu" partOfSpeech="true adjective"/>
+      <Sense id="L741484-S1" synset="wikidata-zu-L741484-S1" ili="wikidata-zu-L741484-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L731133">
+      <Lemma writtenForm="ngi" partOfSpeech="proclitic"/>
+      <Sense id="L731133-S1" synset="wikidata-zu-L731133-S1" ili="wikidata-zu-L731133-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L740299">
+      <Lemma writtenForm="nga" partOfSpeech="proclitic"/>
+      <Sense id="L740299-S1" synset="wikidata-zu-L740299-S1" ili="wikidata-zu-L740299-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-zu-L677327-S1" ili="wikidata-zu-L677327-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L732472-S1" ili="wikidata-zu-L732472-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L736566-S1" ili="wikidata-zu-L736566-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L736571-S1" ili="wikidata-zu-L736571-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741477-S1" ili="wikidata-zu-L741477-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741482-S1" ili="wikidata-zu-L741482-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L732280-S1" ili="wikidata-zu-L732280-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740300-S1" ili="wikidata-zu-L740300-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L689510-S1" ili="wikidata-zu-L689510-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L700299-S1" ili="wikidata-zu-L700299-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740188-S1" ili="wikidata-zu-L740188-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740294-S1" ili="wikidata-zu-L740294-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740297-S1" ili="wikidata-zu-L740297-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741478-S1" ili="wikidata-zu-L741478-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741478-S2" ili="wikidata-zu-L741478-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741479-S1" ili="wikidata-zu-L741479-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741479-S2" ili="wikidata-zu-L741479-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741479-S3" ili="wikidata-zu-L741479-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741485-S1" ili="wikidata-zu-L741485-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L737304-S1" ili="wikidata-zu-L737304-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L677329-S1" ili="wikidata-zu-L677329-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L677329-S2" ili="wikidata-zu-L677329-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L677329-S3" ili="wikidata-zu-L677329-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L705896-S1" ili="wikidata-zu-L705896-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L705896-S2" ili="wikidata-zu-L705896-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L705896-S3" ili="wikidata-zu-L705896-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L731135-S1" ili="wikidata-zu-L731135-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L736562-S1" ili="wikidata-zu-L736562-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741480-S1" ili="wikidata-zu-L741480-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741480-S2" ili="wikidata-zu-L741480-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741481-S1" ili="wikidata-zu-L741481-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741481-S2" ili="wikidata-zu-L741481-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741486-S1" ili="wikidata-zu-L741486-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L677331-S1" ili="wikidata-zu-L677331-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L688517-S1" ili="wikidata-zu-L688517-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L731129-S1" ili="wikidata-zu-L731129-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L731131-S1" ili="wikidata-zu-L731131-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L736568-S1" ili="wikidata-zu-L736568-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L737301-S1" ili="wikidata-zu-L737301-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740039-S1" ili="wikidata-zu-L740039-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741483-S1" ili="wikidata-zu-L741483-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L741484-S1" ili="wikidata-zu-L741484-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L731133-S1" ili="wikidata-zu-L731133-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-zu-L740299-S1" ili="wikidata-zu-L740299-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

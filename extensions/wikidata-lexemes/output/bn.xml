@@ -1,0 +1,2783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-bn"
+                    label="Wikidata BN Lexemes Extension"
+                    language="bn"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-bn" version="1.4"/>
+    <LexicalEntry id="L60058">
+      <Lemma writtenForm="আপনি" partOfSpeech="personal pronoun"/>
+      <Sense id="L60058-S1" synset="wikidata-bn-L60058-S1" ili="wikidata-bn-L60058-S1">
+        <Definition>সম্ভ্রমার্থে সম্বোধিত ব্যক্তি</Definition>
+      </Sense>
+      <Sense id="L60058-S2" synset="wikidata-bn-L60058-S2" ili="wikidata-bn-L60058-S2">
+        <Definition>স্বয়ং</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303226">
+      <Lemma writtenForm="দুই" partOfSpeech="numeral"/>
+      <Sense id="L303226-S1" synset="wikidata-bn-L303226-S1" ili="wikidata-bn-L303226-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303232">
+      <Lemma writtenForm="আট" partOfSpeech="numeral"/>
+      <Sense id="L303232-S1" synset="wikidata-bn-L303232-S1" ili="wikidata-bn-L303232-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303234">
+      <Lemma writtenForm="দশ" partOfSpeech="numeral"/>
+      <Sense id="L303234-S1" synset="wikidata-bn-L303234-S1" ili="wikidata-bn-L303234-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303238">
+      <Lemma writtenForm="চৌদ্দ" partOfSpeech="numeral"/>
+      <Sense id="L303238-S1" synset="wikidata-bn-L303238-S1" ili="wikidata-bn-L303238-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303239">
+      <Lemma writtenForm="পনেরো" partOfSpeech="numeral"/>
+      <Sense id="L303239-S1" synset="wikidata-bn-L303239-S1" ili="wikidata-bn-L303239-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303246">
+      <Lemma writtenForm="বাইশ" partOfSpeech="numeral"/>
+      <Sense id="L303246-S1" synset="wikidata-bn-L303246-S1" ili="wikidata-bn-L303246-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303266">
+      <Lemma writtenForm="বিয়াল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303266-S1" synset="wikidata-bn-L303266-S1" ili="wikidata-bn-L303266-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303276">
+      <Lemma writtenForm="বাহান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303276-S1" synset="wikidata-bn-L303276-S1" ili="wikidata-bn-L303276-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫২)</Definition>
+        <Example>দেখুন, প্রায় বাহান্ন বছর পরেও সেদিনের কথা আমার কেমন মনে আছে।</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303292">
+      <Lemma writtenForm="আটষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303292-S1" synset="wikidata-bn-L303292-S1" ili="wikidata-bn-L303292-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303310">
+      <Lemma writtenForm="ছিয়াশি" partOfSpeech="numeral"/>
+      <Sense id="L303310-S1" synset="wikidata-bn-L303310-S1" ili="wikidata-bn-L303310-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303313">
+      <Lemma writtenForm="উননব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303313-S1" synset="wikidata-bn-L303313-S1" ili="wikidata-bn-L303313-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303314">
+      <Lemma writtenForm="নব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303314-S1" synset="wikidata-bn-L303314-S1" ili="wikidata-bn-L303314-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310474">
+      <Lemma writtenForm="হ্যাঁ" partOfSpeech="interjection"/>
+      <Sense id="L310474-S1" synset="wikidata-bn-L310474-S1" ili="l43974-s1">
+        <Definition>সম্মতিসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310520-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310479">
+      <Lemma writtenForm="হো" partOfSpeech="interjection"/>
+      <Sense id="L310479-S1" synset="wikidata-bn-L310479-S1" ili="wikidata-bn-L310479-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310480">
+      <Lemma writtenForm="হৈ" partOfSpeech="interjection"/>
+      <Sense id="L310480-S1" synset="wikidata-bn-L310480-S1" ili="wikidata-bn-L310480-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310482">
+      <Lemma writtenForm="হ্যাদে" partOfSpeech="interjection"/>
+      <Sense id="L310482-S1" synset="wikidata-bn-L310482-S1" ili="wikidata-bn-L310482-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310481-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310490">
+      <Lemma writtenForm="হুস্‌হুস্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310490-S1" synset="wikidata-bn-L310490-S1" ili="wikidata-bn-L310490-S1">
+        <Definition>অনুকার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310553">
+      <Lemma writtenForm="হতোস্মি" partOfSpeech="interjection"/>
+      <Sense id="L310553-S1" synset="wikidata-bn-L310553-S1" ili="wikidata-bn-L310553-S1">
+        <Definition>মারা পড়লাম</Definition>
+        <Example>এমন সময় বুকের মধ্যে হৃৎপিণ্ডটা যেন হঠাৎ আছাড় খাইয়া “হা হতোস্মি” করিয়া পড়িয়া গেল।</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310559">
+      <Lemma writtenForm="হইয়া" partOfSpeech="postposition"/>
+      <Sense id="L310559-S1" synset="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1">
+        <Definition>প্রতিনিধি স্বরূপ</Definition>
+      </Sense>
+      <Sense id="L310559-S2" synset="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2">
+        <Definition>মধ্য দিয়ে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310568">
+      <Lemma writtenForm="ওমা" partOfSpeech="interjection"/>
+      <Sense id="L310568-S1" synset="wikidata-bn-L310568-S1" ili="wikidata-bn-L310568-S1">
+        <Definition>ভয়, বিস্ময় বা ব্যথায় নির্গত শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345413">
+      <Lemma writtenForm="ঠুং" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345413-S1" synset="wikidata-bn-L345413-S1" ili="wikidata-bn-L345413-S1">
+        <Definition>ঘণ্টা ইত্যাদির মৃদু শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345435">
+      <Lemma writtenForm="ঠাস" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345435-S1" synset="wikidata-bn-L345435-S1" ili="wikidata-bn-L345435-S1">
+        <Definition>চড় মারার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345808">
+      <Lemma writtenForm="থু" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345808-S1" synset="wikidata-bn-L345808-S1" ili="wikidata-bn-L345808-S1">
+        <Definition>থুথু ফেলার শব্দ</Definition>
+      </Sense>
+      <Sense id="L345808-S2" synset="wikidata-bn-L345808-S2" ili="wikidata-bn-L345808-S2">
+        <Definition>ঘৃণাসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348363">
+      <Lemma writtenForm="টুপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348363-S1" synset="wikidata-bn-L348363-S1" ili="wikidata-bn-L348363-S1">
+        <Definition>হঠাৎ ডুব দেওয়ার শব্দ</Definition>
+      </Sense>
+      <Sense id="L348363-S2" synset="wikidata-bn-L348363-S2" ili="wikidata-bn-L348363-S2">
+        <Definition>বৃষ্টি পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348366">
+      <Lemma writtenForm="টুনটুন" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348366-S1" synset="wikidata-bn-L348366-S1" ili="wikidata-bn-L348366-S1">
+        <Definition>ঘণ্টার শব্দ</Definition>
+      </Sense>
+      <Sense id="L348366-S2" synset="wikidata-bn-L348366-S2" ili="wikidata-bn-L348366-S2">
+        <Definition>জল তরঙ্গের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L584432">
+      <Lemma writtenForm="চেয়ে" partOfSpeech="conjunction"/>
+      <Sense id="L584432-S1" synset="wikidata-bn-L584432-S1" ili="wikidata-bn-L584432-S1">
+        <Definition>অপেক্ষা</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624936">
+      <Lemma writtenForm="সকল" partOfSpeech="determiner"/>
+      <Sense id="L624936-S1" synset="wikidata-bn-L624936-S1" ili="wikidata-bn-L624936-S1">
+        <Definition>সমস্ত</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626232">
+      <Lemma writtenForm="তা" partOfSpeech="pronoun"/>
+      <Sense id="L626232-S1" synset="wikidata-bn-L626232-S1" ili="wikidata-bn-L626232-S1">
+        <Definition>সে দ্রব্য</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646660">
+      <Lemma writtenForm="হাম" partOfSpeech="pronoun"/>
+      <Sense id="L646660-S1" synset="wikidata-bn-L646660-S1" ili="wikidata-bn-L646660-S1">
+        <Definition>আমি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L671664">
+      <Lemma writtenForm="একি" partOfSpeech="interjection"/>
+      <Sense id="L671664-S1" synset="wikidata-bn-L671664-S1" ili="wikidata-bn-L671664-S1">
+        <Definition>আশ্চর্যবোধক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303230">
+      <Lemma writtenForm="ছয়" partOfSpeech="numeral"/>
+      <Sense id="L303230-S1" synset="wikidata-bn-L303230-S1" ili="wikidata-bn-L303230-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303240">
+      <Lemma writtenForm="ষোল" partOfSpeech="numeral"/>
+      <Sense id="L303240-S1" synset="wikidata-bn-L303240-S1" ili="wikidata-bn-L303240-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303273">
+      <Lemma writtenForm="উনপঞ্চাশ" partOfSpeech="numeral"/>
+      <Sense id="L303273-S1" synset="wikidata-bn-L303273-S1" ili="wikidata-bn-L303273-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303278">
+      <Lemma writtenForm="চুয়ান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303278-S1" synset="wikidata-bn-L303278-S1" ili="wikidata-bn-L303278-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303286">
+      <Lemma writtenForm="বাষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303286-S1" synset="wikidata-bn-L303286-S1" ili="wikidata-bn-L303286-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303288">
+      <Lemma writtenForm="চৌষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303288-S1" synset="wikidata-bn-L303288-S1" ili="wikidata-bn-L303288-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303293">
+      <Lemma writtenForm="উনসত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303293-S1" synset="wikidata-bn-L303293-S1" ili="wikidata-bn-L303293-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303294">
+      <Lemma writtenForm="সত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303294-S1" synset="wikidata-bn-L303294-S1" ili="wikidata-bn-L303294-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303312">
+      <Lemma writtenForm="আটাশি" partOfSpeech="numeral"/>
+      <Sense id="L303312-S1" synset="wikidata-bn-L303312-S1" ili="wikidata-bn-L303312-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303319">
+      <Lemma writtenForm="পঁচানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303319-S1" synset="wikidata-bn-L303319-S1" ili="wikidata-bn-L303319-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309048">
+      <Lemma writtenForm="হম্‌সি" partOfSpeech="pronoun"/>
+      <Sense id="L309048-S1" synset="wikidata-bn-L309048-S1" ili="wikidata-bn-L309048-S1">
+        <Definition>আমি</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L60055-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309222">
+      <Lemma writtenForm="ষট্‌সপ্ততি" partOfSpeech="numeral"/>
+      <Sense id="L309222-S1" synset="wikidata-bn-L309222-S1" ili="wikidata-bn-L309222-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309227">
+      <Lemma writtenForm="ষট্‌ষষ্ট" partOfSpeech="numeral"/>
+      <Sense id="L309227-S1" synset="wikidata-bn-L309227-S1" ili="wikidata-bn-L309227-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310476">
+      <Lemma writtenForm="হোহো" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310476-S1" synset="wikidata-bn-L310476-S1" ili="wikidata-bn-L310476-S1">
+        <Definition>উচ্চহাস্য শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310485">
+      <Lemma writtenForm="হেঁই" partOfSpeech="interjection"/>
+      <Sense id="L310485-S1" synset="wikidata-bn-L310485-S1" ili="wikidata-bn-L310485-S1">
+        <Definition>অনুনয়সূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310491">
+      <Lemma writtenForm="হুড়হুড়" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310491-S1" synset="wikidata-bn-L310491-S1" ili="wikidata-bn-L310491-S1">
+        <Definition>বেগে জল পড়বার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310493">
+      <Lemma writtenForm="হুঁ" partOfSpeech="interjection"/>
+      <Sense id="L310493-S1" synset="wikidata-bn-L310493-S1" ili="wikidata-bn-L310493-S1">
+        <Definition>সম্মতিসূচক শব্দ</Definition>
+      </Sense>
+      <Sense id="L310493-S2" synset="wikidata-bn-L310493-S2" ili="wikidata-bn-L310493-S2">
+        <Definition>সন্দেহ প্রকাশক শব্দ</Definition>
+      </Sense>
+      <Sense id="L310493-S3" synset="wikidata-bn-L310493-S3" ili="wikidata-bn-L310493-S3">
+        <Definition>প্রতিজ্ঞা প্রকাশক শব্দ</Definition>
+      </Sense>
+      <Sense id="L310493-S4" synset="wikidata-bn-L310493-S4" ili="wikidata-bn-L310493-S4">
+        <Definition>রাগ প্রকাশকারী শব্দ</Definition>
+      </Sense>
+      <Sense id="L310493-S5" synset="wikidata-bn-L310493-S5" ili="wikidata-bn-L310493-S5">
+        <Definition>ভীতিপ্রদর্শক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310566">
+      <Lemma writtenForm="ওলো" partOfSpeech="interjection"/>
+      <Sense id="L310566-S1" synset="wikidata-bn-L310566-S1" ili="wikidata-bn-L310566-S1">
+        <Definition>নারীদের মধ্যে পরস্পর প্রণয়সূচক সম্বোধন</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310563-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310567">
+      <Lemma writtenForm="ওয়াক" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310567-S1" synset="wikidata-bn-L310567-S1" ili="wikidata-bn-L310567-S1">
+        <Definition>বমির শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310702">
+      <Lemma writtenForm="ওঃ" partOfSpeech="interjection"/>
+      <Sense id="L310702-S1" synset="wikidata-bn-L310702-S1" ili="wikidata-bn-L310702-S1">
+        <Definition>রাগ, দুঃখ, ভয় সূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345409">
+      <Lemma writtenForm="ঠুক্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345409-S1" synset="wikidata-bn-L345409-S1" ili="wikidata-bn-L345409-S1">
+        <Definition>কঠিন জিনিষ আঘাত করার মৃদু শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345562">
+      <Lemma writtenForm="ঢেপঢেপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345562-S1" synset="wikidata-bn-L345562-S1" ili="wikidata-bn-L345562-S1">
+        <Definition>ভেজা ঢোল বাজানোর শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347465">
+      <Lemma writtenForm="ঝিনিকিঝিনি" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347465-S1" synset="wikidata-bn-L347465-S1" ili="wikidata-bn-L347465-S1">
+        <Definition>নূপুরের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347699">
+      <Lemma writtenForm="ঝমঝম" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347699-S1" synset="wikidata-bn-L347699-S1" ili="wikidata-bn-L347699-S1">
+        <Definition>বৃষ্টির শব্দ</Definition>
+      </Sense>
+      <Sense id="L347699-S2" synset="wikidata-bn-L347699-S2" ili="wikidata-bn-L347699-S2">
+        <Definition>নূপুরের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348361">
+      <Lemma writtenForm="টুপটাপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348361-S1" synset="wikidata-bn-L348361-S1" ili="wikidata-bn-L348361-S1">
+        <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
+      </Sense>
+      <Sense id="L348361-S2" synset="wikidata-bn-L348361-S2" ili="wikidata-bn-L348361-S2">
+        <Definition>ফল পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476053">
+      <Lemma writtenForm="ওই" partOfSpeech="determiner"/>
+      <Sense id="L476053-S1" synset="wikidata-bn-L476053-S1" ili="wikidata-bn-L476053-S1">
+        <Definition>পুরোভাগে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476056">
+      <Lemma writtenForm="সেই" partOfSpeech="determiner"/>
+      <Sense id="L476056-S1" synset="wikidata-bn-L476056-S1" ili="wikidata-bn-L476056-S1">
+        <Definition>নির্দিষ্ট</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L494329">
+      <Lemma writtenForm="ইহারা" partOfSpeech="pronoun"/>
+      <Sense id="L494329-S1" synset="wikidata-bn-L494329-S1" ili="wikidata-bn-L494329-S1">
+        <Definition>এই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L595059">
+      <Lemma writtenForm="সাথে" partOfSpeech="postposition"/>
+      <Sense id="L595059-S1" synset="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1">
+        <Definition>সহিত</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L591873-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618670">
+      <Lemma writtenForm="কি" partOfSpeech="grammatical particle"/>
+      <Sense id="L618670-S1" synset="wikidata-bn-L618670-S1" ili="wikidata-bn-L618670-S1">
+        <Definition>জিজ্ঞাসাবাচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625133">
+      <Lemma writtenForm="তত" partOfSpeech="grammatical particle"/>
+      <Sense id="L625133-S1" synset="wikidata-bn-L625133-S1" ili="wikidata-bn-L625133-S1">
+        <Definition>সে পরিমাণ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643366">
+      <Lemma writtenForm="যেন" partOfSpeech="conjunction"/>
+      <Sense id="L643366-S1" synset="wikidata-bn-L643366-S1" ili="wikidata-bn-L643366-S1">
+        <Definition>অভিলাষ প্রকাশসূচক</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708613">
+      <Lemma writtenForm="প্রতি" partOfSpeech="postposition"/>
+      <Sense id="L708613-S1" synset="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1">
+        <Definition>উপরি বা সম্বন্ধে</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L626221-S2"/>
+      </Sense>
+      <Sense id="L708613-S2" synset="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2">
+        <Definition>অভিমুখে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1126943">
+      <Lemma writtenForm="খবরদার" partOfSpeech="interjection"/>
+      <Sense id="L1126943-S1" synset="wikidata-bn-L1126943-S1" ili="wikidata-bn-L1126943-S1">
+        <Definition>সাবধান</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L60056">
+      <Lemma writtenForm="তুমি" partOfSpeech="pronoun"/>
+      <Sense id="L60056-S1" synset="wikidata-bn-L60056-S1" ili="wikidata-bn-L60056-S1">
+        <Definition>সম্বোধিত ব্যক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L252192">
+      <Lemma writtenForm="তোমরা" partOfSpeech="pronoun"/>
+      <Sense id="L252192-S1" synset="wikidata-bn-L252192-S1" ili="wikidata-bn-L252192-S1">
+        <Definition>সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L295106">
+      <Lemma writtenForm="টি" partOfSpeech="classifier"/>
+      <Sense id="L295106-S1" synset="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1">
+        <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303227">
+      <Lemma writtenForm="তিন" partOfSpeech="numeral"/>
+      <Sense id="L303227-S1" synset="wikidata-bn-L303227-S1" ili="wikidata-bn-L303227-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303229">
+      <Lemma writtenForm="পাঁচ" partOfSpeech="numeral"/>
+      <Sense id="L303229-S1" synset="wikidata-bn-L303229-S1" ili="wikidata-bn-L303229-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303244">
+      <Lemma writtenForm="বিশ" partOfSpeech="numeral"/>
+      <Sense id="L303244-S1" synset="wikidata-bn-L303244-S1" ili="wikidata-bn-L303244-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২০)</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L303325-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303245">
+      <Lemma writtenForm="একুশ" partOfSpeech="numeral"/>
+      <Sense id="L303245-S1" synset="wikidata-bn-L303245-S1" ili="wikidata-bn-L303245-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303267">
+      <Lemma writtenForm="তেতাল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303267-S1" synset="wikidata-bn-L303267-S1" ili="wikidata-bn-L303267-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303268">
+      <Lemma writtenForm="চুয়াল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303268-S1" synset="wikidata-bn-L303268-S1" ili="wikidata-bn-L303268-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303271">
+      <Lemma writtenForm="সাতচল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303271-S1" synset="wikidata-bn-L303271-S1" ili="wikidata-bn-L303271-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303284">
+      <Lemma writtenForm="ষাট" partOfSpeech="numeral"/>
+      <Sense id="L303284-S1" synset="wikidata-bn-L303284-S1" ili="wikidata-bn-L303284-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303291">
+      <Lemma writtenForm="সাতষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303291-S1" synset="wikidata-bn-L303291-S1" ili="wikidata-bn-L303291-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303308">
+      <Lemma writtenForm="চুরাশি" partOfSpeech="numeral"/>
+      <Sense id="L303308-S1" synset="wikidata-bn-L303308-S1" ili="wikidata-bn-L303308-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303316">
+      <Lemma writtenForm="বিরানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303316-S1" synset="wikidata-bn-L303316-S1" ili="wikidata-bn-L303316-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303318">
+      <Lemma writtenForm="চুরানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303318-S1" synset="wikidata-bn-L303318-S1" ili="wikidata-bn-L303318-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309108">
+      <Lemma writtenForm="ষষ্টি" partOfSpeech="numeral"/>
+      <Sense id="L309108-S1" synset="wikidata-bn-L309108-S1" ili="wikidata-bn-L309108-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309251">
+      <Lemma writtenForm="ষট্‌চত্বারিংশৎ" partOfSpeech="numeral"/>
+      <Sense id="L309251-S1" synset="wikidata-bn-L309251-S1" ili="wikidata-bn-L309251-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309263">
+      <Lemma writtenForm="ষট্‌ক" partOfSpeech="numeral"/>
+      <Sense id="L309263-S1" synset="wikidata-bn-L309263-S1" ili="wikidata-bn-L309263-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310481">
+      <Lemma writtenForm="হেদে" partOfSpeech="interjection"/>
+      <Sense id="L310481-S1" synset="wikidata-bn-L310481-S1" ili="wikidata-bn-L310481-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310482-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310489">
+      <Lemma writtenForm="হুস্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310489-S1" synset="wikidata-bn-L310489-S1" ili="wikidata-bn-L310489-S1">
+        <Definition>পাখি তাড়াবার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310518">
+      <Lemma writtenForm="হাঁহাঁ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310518-S1" synset="wikidata-bn-L310518-S1" ili="wikidata-bn-L310518-S1">
+        <Definition>নিবারণ করার জন্য শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310556">
+      <Lemma writtenForm="হড়হড়" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310556-S1" synset="wikidata-bn-L310556-S1" ili="wikidata-bn-L310556-S1">
+        <Definition>পিচ্ছিলপথে গড়িয়ে যাওয়ার শব্দ</Definition>
+      </Sense>
+      <Sense id="L310556-S2" synset="wikidata-bn-L310556-S2" ili="wikidata-bn-L310556-S2">
+        <Definition>দ্রুত এবং বলপূর্বক টেনে নিয়ে যাওয়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310560">
+      <Lemma writtenForm="হইতে" partOfSpeech="postposition"/>
+      <Sense id="L310560-S1" synset="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1">
+        <Definition>থেকে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310704">
+      <Lemma writtenForm="ও" partOfSpeech="conjunction"/>
+      <Sense id="L310704-S1" synset="wikidata-bn-L310704-S1" ili="l1385-s1">
+        <Definition>এবং</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345670">
+      <Lemma writtenForm="ঢনঢন" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345670-S1" synset="wikidata-bn-L345670-S1" ili="wikidata-bn-L345670-S1">
+        <Definition>খালি হাঁড়ি কলসীর শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345771">
+      <Lemma writtenForm="থুপ্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345771-S1" synset="wikidata-bn-L345771-S1" ili="wikidata-bn-L345771-S1">
+        <Definition>ছোট নরম জিনিষ পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345877">
+      <Lemma writtenForm="থপ্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345877-S1" synset="wikidata-bn-L345877-S1" ili="wikidata-bn-L345877-S1">
+        <Definition>নরম ভারী জিনিষ পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348330">
+      <Lemma writtenForm="টেঁসটেঁস" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348330-S1" synset="wikidata-bn-L348330-S1" ili="wikidata-bn-L348330-S1">
+        <Definition>বেসুরো আওয়াজ</Definition>
+      </Sense>
+      <Sense id="L348330-S2" synset="wikidata-bn-L348330-S2" ili="wikidata-bn-L348330-S2">
+        <Definition>বিরক্তিসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348589">
+      <Lemma writtenForm="টগবগ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348589-S1" synset="wikidata-bn-L348589-S1" ili="wikidata-bn-L348589-S1">
+        <Definition>ফুটন্ত জলের শব্দ</Definition>
+      </Sense>
+      <Sense id="L348589-S2" synset="wikidata-bn-L348589-S2" ili="wikidata-bn-L348589-S2">
+        <Definition>ঘোড়া ছোটার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476043">
+      <Lemma writtenForm="ইনি" partOfSpeech="pronoun"/>
+      <Sense id="L476043-S1" synset="wikidata-bn-L476043-S1" ili="wikidata-bn-L476043-S1">
+        <Definition>এই ব্যক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L595057">
+      <Lemma writtenForm="মধ্যে" partOfSpeech="postposition"/>
+      <Sense id="L595057-S1" synset="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1">
+        <Definition>মাঝে</Definition>
+      </Sense>
+      <Sense id="L595057-S2" synset="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2">
+        <Definition>ভিতরে</Definition>
+      </Sense>
+      <Sense id="L595057-S3" synset="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3">
+        <Definition>ফাঁকে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L621067">
+      <Lemma writtenForm="বার" partOfSpeech="classifier"/>
+      <Sense id="L621067-S1" synset="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1">
+        <Definition>দফা</Definition>
+      </Sense>
+      <Sense id="L621067-S2" synset="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2">
+        <Definition>পালা</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625132">
+      <Lemma writtenForm="যত" partOfSpeech="grammatical particle"/>
+      <Sense id="L625132-S1" synset="wikidata-bn-L625132-S1" ili="wikidata-bn-L625132-S1">
+        <Definition>যে পরিমাণ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626234">
+      <Lemma writtenForm="-ই" partOfSpeech="grammatical particle"/>
+      <Sense id="L626234-S1" synset="wikidata-bn-L626234-S1" ili="wikidata-bn-L626234-S1">
+        <Definition>জোর দেবার বিভক্তি</Definition>
+      </Sense>
+      <Sense id="L626234-S2" synset="wikidata-bn-L626234-S2" ili="wikidata-bn-L626234-S2">
+        <Definition>(সম্বন্ধের অর্থ প্রকাশ করে)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643353">
+      <Lemma writtenForm="যদি" partOfSpeech="conjunction"/>
+      <Sense id="L643353-S1" synset="wikidata-bn-L643353-S1" ili="wikidata-bn-L643353-S1">
+        <Definition>কার্য কারণ সম্পর্ক বা হেতু</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1152253">
+      <Lemma writtenForm="এর" partOfSpeech="postposition"/>
+      <Sense id="L1152253-S1" synset="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1">
+        <Definition>একটি বিভক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L252194">
+      <Lemma writtenForm="আপনারা" partOfSpeech="pronoun"/>
+      <Sense id="L252194-S1" synset="wikidata-bn-L252194-S1" ili="wikidata-bn-L252194-S1">
+        <Definition>সম্ভ্রমার্থে সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303228">
+      <Lemma writtenForm="চার" partOfSpeech="numeral"/>
+      <Sense id="L303228-S1" synset="wikidata-bn-L303228-S1" ili="wikidata-bn-L303228-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303236">
+      <Lemma writtenForm="বারো" partOfSpeech="numeral"/>
+      <Sense id="L303236-S1" synset="wikidata-bn-L303236-S1" ili="wikidata-bn-L303236-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303248">
+      <Lemma writtenForm="চব্বিশ" partOfSpeech="numeral"/>
+      <Sense id="L303248-S1" synset="wikidata-bn-L303248-S1" ili="wikidata-bn-L303248-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303254">
+      <Lemma writtenForm="তিরিশ" partOfSpeech="numeral"/>
+      <Sense id="L303254-S1" synset="wikidata-bn-L303254-S1" ili="wikidata-bn-L303254-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303265">
+      <Lemma writtenForm="একচল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303265-S1" synset="wikidata-bn-L303265-S1" ili="wikidata-bn-L303265-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303274">
+      <Lemma writtenForm="পঞ্চাশ" partOfSpeech="numeral"/>
+      <Sense id="L303274-S1" synset="wikidata-bn-L303274-S1" ili="wikidata-bn-L303274-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303279">
+      <Lemma writtenForm="পঞ্চান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303279-S1" synset="wikidata-bn-L303279-S1" ili="wikidata-bn-L303279-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303298">
+      <Lemma writtenForm="চুয়াত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303298-S1" synset="wikidata-bn-L303298-S1" ili="wikidata-bn-L303298-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303306">
+      <Lemma writtenForm="বিরাশি" partOfSpeech="numeral"/>
+      <Sense id="L303306-S1" synset="wikidata-bn-L303306-S1" ili="wikidata-bn-L303306-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303315">
+      <Lemma writtenForm="একানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303315-S1" synset="wikidata-bn-L303315-S1" ili="wikidata-bn-L303315-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303324">
+      <Lemma writtenForm="শূন্য" partOfSpeech="numeral"/>
+      <Sense id="L303324-S1" synset="wikidata-bn-L303324-S1" ili="wikidata-bn-L303324-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310475">
+      <Lemma writtenForm="হ্যাঁগা" partOfSpeech="interjection"/>
+      <Sense id="L310475-S1" synset="wikidata-bn-L310475-S1" ili="wikidata-bn-L310475-S1">
+        <Definition>প্রশ্নার্থ সম্বোধনসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310503">
+      <Lemma writtenForm="হিড়হিড়" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310503-S1" synset="wikidata-bn-L310503-S1" ili="wikidata-bn-L310503-S1">
+        <Definition>কিছু টেনে নিয়ে যাওয়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310517">
+      <Lemma writtenForm="হাম্বা" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310517-S1" synset="wikidata-bn-L310517-S1" ili="wikidata-bn-L310517-S1">
+        <Definition>গাভীর রব</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310520">
+      <Lemma writtenForm="হাঁ" partOfSpeech="interjection"/>
+      <Sense id="L310520-S1" synset="wikidata-bn-L310520-S1" ili="wikidata-bn-L310520-S1">
+        <Definition>সম্মতিসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310474-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310563">
+      <Lemma writtenForm="ওহে" partOfSpeech="interjection"/>
+      <Sense id="L310563-S1" synset="wikidata-bn-L310563-S1" ili="wikidata-bn-L310563-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310691-S2"/>
+        <SenseRelation relType="similar" target="wikidata-bn-L671674-S1"/>
+        <SenseRelation relType="similar" target="wikidata-bn-L310487-S1"/>
+        <SenseRelation relType="similar" target="wikidata-bn-L310566-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310707">
+      <Lemma writtenForm="ও" partOfSpeech="interjection"/>
+      <Sense id="L310707-S1" synset="wikidata-bn-L310707-S1" ili="wikidata-bn-L310707-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345504">
+      <Lemma writtenForm="ঠক্‌ঠক্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345504-S1" synset="wikidata-bn-L345504-S1" ili="wikidata-bn-L345504-S1">
+        <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345669">
+      <Lemma writtenForm="ঢপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345669-S1" synset="wikidata-bn-L345669-S1" ili="wikidata-bn-L345669-S1">
+        <Definition>ভেজা বা ছেঁড়া ঢোলের ন্যায় শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345676">
+      <Lemma writtenForm="ঢংঢং" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345676-S1" synset="wikidata-bn-L345676-S1" ili="wikidata-bn-L345676-S1">
+        <Definition>ঘড়ি কাঁসর ইত্যাদির বার বার বাজার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345677">
+      <Lemma writtenForm="ঢং" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345677-S1" synset="wikidata-bn-L345677-S1" ili="wikidata-bn-L345677-S1">
+        <Definition>ঘণ্টার শব্দ</Definition>
+      </Sense>
+      <Sense id="L345677-S2" synset="wikidata-bn-L345677-S2" ili="wikidata-bn-L345677-S2">
+        <Definition>ঘড়ির সময়সূচক আওয়াজ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345809">
+      <Lemma writtenForm="থুঃ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345809-S1" synset="wikidata-bn-L345809-S1" ili="wikidata-bn-L345809-S1">
+        <Definition>থুথু ফেলার শব্দ</Definition>
+      </Sense>
+      <Sense id="L345809-S2" synset="wikidata-bn-L345809-S2" ili="wikidata-bn-L345809-S2">
+        <Definition>ঘৃণাসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346405">
+      <Lemma writtenForm="ঝুরঝুর" partOfSpeech="onomatopoeia"/>
+      <Sense id="L346405-S1" synset="wikidata-bn-L346405-S1" ili="wikidata-bn-L346405-S1">
+        <Definition>আস্তে আস্তে বালি পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347696">
+      <Lemma writtenForm="ঝরঝর" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347696-S1" synset="wikidata-bn-L347696-S1" ili="wikidata-bn-L347696-S1">
+        <Definition>জল পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347700">
+      <Lemma writtenForm="ঝমাঝম" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347700-S1" synset="wikidata-bn-L347700-S1" ili="wikidata-bn-L347700-S1">
+        <Definition>বৃষ্টির শব্দ</Definition>
+      </Sense>
+      <Sense id="L347700-S2" synset="wikidata-bn-L347700-S2" ili="wikidata-bn-L347700-S2">
+        <Definition>নূপুরের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476051">
+      <Lemma writtenForm="তিনি" partOfSpeech="pronoun"/>
+      <Sense id="L476051-S1" synset="wikidata-bn-L476051-S1" ili="wikidata-bn-L476051-S1">
+        <Definition>সেই ব্যক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476052">
+      <Lemma writtenForm="এই" partOfSpeech="determiner"/>
+      <Sense id="L476052-S1" synset="wikidata-bn-L476052-S1" ili="wikidata-bn-L476052-S1">
+        <Definition>সম্মুখবর্তী</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L494331">
+      <Lemma writtenForm="তাহারা" partOfSpeech="pronoun"/>
+      <Sense id="L494331-S1" synset="wikidata-bn-L494331-S1" ili="wikidata-bn-L494331-S1">
+        <Definition>সেই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L494344">
+      <Lemma writtenForm="কখন" partOfSpeech="interrogative adverb"/>
+      <Sense id="L494344-S1" synset="wikidata-bn-L494344-S1" ili="wikidata-bn-L494344-S1">
+        <Definition>কোন সময়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L592044">
+      <Lemma writtenForm="পানা" partOfSpeech="grammatical particle"/>
+      <Sense id="L592044-S1" synset="wikidata-bn-L592044-S1" ili="wikidata-bn-L592044-S1">
+        <Definition>তুল্য বা পারা</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L619311">
+      <Lemma writtenForm="ঝনঝন" partOfSpeech="onomatopoeia"/>
+      <Sense id="L619311-S1" synset="wikidata-bn-L619311-S1" ili="wikidata-bn-L619311-S1">
+        <Definition>ধাতুদ্রব্যাদি পড়ার বা আঘাত পাওয়ার তীক্ষ্ণ শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624927">
+      <Lemma writtenForm="তব" partOfSpeech="conjunction"/>
+      <Sense id="L624927-S1" synset="wikidata-bn-L624927-S1" ili="wikidata-bn-L624927-S1">
+        <Definition>তাহলে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642419">
+      <Lemma writtenForm="তবে" partOfSpeech="conjunction"/>
+      <Sense id="L642419-S1" synset="wikidata-bn-L642419-S1" ili="wikidata-bn-L642419-S1">
+        <Definition>তথাপি</Definition>
+      </Sense>
+      <Sense id="L642419-S2" synset="wikidata-bn-L642419-S2" ili="wikidata-bn-L642419-S2">
+        <Definition>তদনন্তর</Definition>
+      </Sense>
+      <Sense id="L642419-S3" synset="wikidata-bn-L642419-S3" ili="wikidata-bn-L642419-S3">
+        <Definition>তাহলে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L709023">
+      <Lemma writtenForm="আর" partOfSpeech="pronoun"/>
+      <Sense id="L709023-S1" synset="wikidata-bn-L709023-S1" ili="wikidata-bn-L709023-S1">
+        <Definition>অন্য ব্যক্তি, বস্তু, ইত্যাদি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L714177">
+      <Lemma writtenForm="চুপ" partOfSpeech="interjection"/>
+      <Sense id="L714177-S1" synset="wikidata-bn-L714177-S1" ili="wikidata-bn-L714177-S1">
+        <Definition>কথা না বলার নির্দেশসূচক</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L714175-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L60055">
+      <Lemma writtenForm="আমি" partOfSpeech="pronoun"/>
+      <Sense id="L60055-S1" synset="wikidata-bn-L60055-S1" ili="wikidata-bn-L60055-S1">
+        <Definition>বক্তা স্বয়ং</Definition>
+        <Example>চলার পথে দিনে রাতে / দেখা হবে সবার সাথে— / তাদের আমি চাব, তারা / আমায় চাবে॥</Example>
+        <Example>মুক্ত কর হে মুক্ত কর আমারে, / তোমার নিবিড় নীরব উদার / অনন্ত আঁধারে।</Example>
+        <SenseRelation relType="similar" target="wikidata-bn-L309048-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L252193">
+      <Lemma writtenForm="তোরা" partOfSpeech="pronoun"/>
+      <Sense id="L252193-S1" synset="wikidata-bn-L252193-S1" ili="wikidata-bn-L252193-S1">
+        <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L295107">
+      <Lemma writtenForm="-গুলি" partOfSpeech="classifier"/>
+      <Sense id="L295107-S1" synset="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1">
+        <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303231">
+      <Lemma writtenForm="সাত" partOfSpeech="numeral"/>
+      <Sense id="L303231-S1" synset="wikidata-bn-L303231-S1" ili="wikidata-bn-L303231-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303233">
+      <Lemma writtenForm="নয়" partOfSpeech="numeral"/>
+      <Sense id="L303233-S1" synset="wikidata-bn-L303233-S1" ili="wikidata-bn-L303233-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303235">
+      <Lemma writtenForm="এগারো" partOfSpeech="numeral"/>
+      <Sense id="L303235-S1" synset="wikidata-bn-L303235-S1" ili="wikidata-bn-L303235-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303241">
+      <Lemma writtenForm="সতেরো" partOfSpeech="numeral"/>
+      <Sense id="L303241-S1" synset="wikidata-bn-L303241-S1" ili="wikidata-bn-L303241-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303242">
+      <Lemma writtenForm="আঠারো" partOfSpeech="numeral"/>
+      <Sense id="L303242-S1" synset="wikidata-bn-L303242-S1" ili="wikidata-bn-L303242-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303249">
+      <Lemma writtenForm="পঁচিশ" partOfSpeech="numeral"/>
+      <Sense id="L303249-S1" synset="wikidata-bn-L303249-S1" ili="wikidata-bn-L303249-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303250">
+      <Lemma writtenForm="ছাব্বিশ" partOfSpeech="numeral"/>
+      <Sense id="L303250-S1" synset="wikidata-bn-L303250-S1" ili="wikidata-bn-L303250-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303261">
+      <Lemma writtenForm="সাঁইত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303261-S1" synset="wikidata-bn-L303261-S1" ili="wikidata-bn-L303261-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303264">
+      <Lemma writtenForm="চল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303264-S1" synset="wikidata-bn-L303264-S1" ili="wikidata-bn-L303264-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303275">
+      <Lemma writtenForm="একান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303275-S1" synset="wikidata-bn-L303275-S1" ili="wikidata-bn-L303275-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303280">
+      <Lemma writtenForm="ছাপ্পান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303280-S1" synset="wikidata-bn-L303280-S1" ili="wikidata-bn-L303280-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303283">
+      <Lemma writtenForm="উনষাট" partOfSpeech="numeral"/>
+      <Sense id="L303283-S1" synset="wikidata-bn-L303283-S1" ili="wikidata-bn-L303283-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303290">
+      <Lemma writtenForm="ছেষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303290-S1" synset="wikidata-bn-L303290-S1" ili="wikidata-bn-L303290-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303297">
+      <Lemma writtenForm="তিয়াত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303297-S1" synset="wikidata-bn-L303297-S1" ili="wikidata-bn-L303297-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303300">
+      <Lemma writtenForm="ছিয়াত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303300-S1" synset="wikidata-bn-L303300-S1" ili="wikidata-bn-L303300-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303303">
+      <Lemma writtenForm="উনআশি" partOfSpeech="numeral"/>
+      <Sense id="L303303-S1" synset="wikidata-bn-L303303-S1" ili="wikidata-bn-L303303-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303309">
+      <Lemma writtenForm="পঁচাশি" partOfSpeech="numeral"/>
+      <Sense id="L303309-S1" synset="wikidata-bn-L303309-S1" ili="wikidata-bn-L303309-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303311">
+      <Lemma writtenForm="সাতাশি" partOfSpeech="numeral"/>
+      <Sense id="L303311-S1" synset="wikidata-bn-L303311-S1" ili="wikidata-bn-L303311-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309097">
+      <Lemma writtenForm="ষাটি" partOfSpeech="numeral"/>
+      <Sense id="L309097-S1" synset="wikidata-bn-L309097-S1" ili="wikidata-bn-L309097-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309114">
+      <Lemma writtenForm="ষণ্ণবতি" partOfSpeech="numeral"/>
+      <Sense id="L309114-S1" synset="wikidata-bn-L309114-S1" ili="wikidata-bn-L309114-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309212">
+      <Lemma writtenForm="ষড়শীতি" partOfSpeech="numeral"/>
+      <Sense id="L309212-S1" synset="wikidata-bn-L309212-S1" ili="wikidata-bn-L309212-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309235">
+      <Lemma writtenForm="ষট্‌পঞ্চাশৎ" partOfSpeech="numeral"/>
+      <Sense id="L309235-S1" synset="wikidata-bn-L309235-S1" ili="wikidata-bn-L309235-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309250">
+      <Lemma writtenForm="ষট্‌ত্রিংশৎ" partOfSpeech="numeral"/>
+      <Sense id="L309250-S1" synset="wikidata-bn-L309250-S1" ili="wikidata-bn-L309250-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345675">
+      <Lemma writtenForm="ঢক" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345675-S1" synset="wikidata-bn-L345675-S1" ili="wikidata-bn-L345675-S1">
+        <Definition>তরল পদার্থ গলাঃধকরণের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347703">
+      <Lemma writtenForm="ঝনাৎ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347703-S1" synset="wikidata-bn-L347703-S1" ili="wikidata-bn-L347703-S1">
+        <Definition>হঠাৎ জোরে ধাতুদ্রব্য পড়ার বা আঘাতের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348548">
+      <Lemma writtenForm="টস্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348548-S1" synset="wikidata-bn-L348548-S1" ili="wikidata-bn-L348548-S1">
+        <Definition>রস পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483765">
+      <Lemma writtenForm="কী" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L483765-S1" synset="wikidata-bn-L483765-S1" ili="wikidata-bn-L483765-S1">
+        <Definition>কোন বস্তু/বিষয়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483766">
+      <Lemma writtenForm="কোথা" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L483766-S1" synset="wikidata-bn-L483766-S1" ili="wikidata-bn-L483766-S1">
+        <Definition>কোন স্থান</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L595056">
+      <Lemma writtenForm="জন্য" partOfSpeech="postposition"/>
+      <Sense id="L595056-S1" synset="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1">
+        <Definition>কারণে বা নিমিত্তে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626214">
+      <Lemma writtenForm="যখন" partOfSpeech="conjunction"/>
+      <Sense id="L626214-S1" synset="wikidata-bn-L626214-S1" ili="wikidata-bn-L626214-S1">
+        <Definition>যে সময়ে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626216">
+      <Lemma writtenForm="তখন" partOfSpeech="conjunction"/>
+      <Sense id="L626216-S1" synset="wikidata-bn-L626216-S1" ili="wikidata-bn-L626216-S1">
+        <Definition>সেই সময়ে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626230">
+      <Lemma writtenForm="যা" partOfSpeech="pronoun"/>
+      <Sense id="L626230-S1" synset="wikidata-bn-L626230-S1" ili="wikidata-bn-L626230-S1">
+        <Definition>যে দ্রব্য</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L642414">
+      <Lemma writtenForm="বিনা" partOfSpeech="grammatical particle"/>
+      <Sense id="L642414-S1" synset="wikidata-bn-L642414-S1" ili="wikidata-bn-L642414-S1">
+        <Definition>ব্যতীত</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119391">
+      <Lemma writtenForm="সবাই" partOfSpeech="pronoun"/>
+      <Sense id="L1119391-S1" synset="wikidata-bn-L1119391-S1" ili="wikidata-bn-L1119391-S1">
+        <Definition>সকলেই</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1329924">
+      <Lemma writtenForm="কেউ" partOfSpeech="pronoun"/>
+      <Sense id="L1329924-S1" synset="wikidata-bn-L1329924-S1" ili="wikidata-bn-L1329924-S1">
+        <Definition>কেহ; কোনো ব্যক্তি;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330149">
+      <Lemma writtenForm="কোনো" partOfSpeech="pronoun"/>
+      <Sense id="L1330149-S1" synset="wikidata-bn-L1330149-S1" ili="wikidata-bn-L1330149-S1">
+        <Definition>অনির্দিষ্ট একটি বা একজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L60057">
+      <Lemma writtenForm="তুই" partOfSpeech="pronoun"/>
+      <Sense id="L60057-S1" synset="wikidata-bn-L60057-S1" ili="wikidata-bn-L60057-S1">
+        <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি</Definition>
+        <Example>তোর বাবার শরীর ভালো নয়।</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303263">
+      <Lemma writtenForm="উনচল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303263-S1" synset="wikidata-bn-L303263-S1" ili="wikidata-bn-L303263-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303270">
+      <Lemma writtenForm="ছেচল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303270-S1" synset="wikidata-bn-L303270-S1" ili="wikidata-bn-L303270-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303282">
+      <Lemma writtenForm="আটান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303282-S1" synset="wikidata-bn-L303282-S1" ili="wikidata-bn-L303282-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303289">
+      <Lemma writtenForm="পঁয়ষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303289-S1" synset="wikidata-bn-L303289-S1" ili="wikidata-bn-L303289-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303296">
+      <Lemma writtenForm="বাহাত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303296-S1" synset="wikidata-bn-L303296-S1" ili="wikidata-bn-L303296-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303325">
+      <Lemma writtenForm="কুড়ি" partOfSpeech="numeral"/>
+      <Sense id="L303325-S1" synset="wikidata-bn-L303325-S1" ili="wikidata-bn-L303325-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২০)</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L303244-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L309264">
+      <Lemma writtenForm="ষট্‌" partOfSpeech="numeral"/>
+      <Sense id="L309264-S1" synset="wikidata-bn-L309264-S1" ili="wikidata-bn-L309264-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310484">
+      <Lemma writtenForm="হেট" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310484-S1" synset="wikidata-bn-L310484-S1" ili="wikidata-bn-L310484-S1">
+        <Definition>গরুকে তাড়ানোর শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310487">
+      <Lemma writtenForm="হে" partOfSpeech="interjection"/>
+      <Sense id="L310487-S1" synset="wikidata-bn-L310487-S1" ili="wikidata-bn-L310487-S1">
+        <Definition>সম্বোধন বা আহ্বান</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310563-S1"/>
+      </Sense>
+      <Sense id="L310487-S2" synset="wikidata-bn-L310487-S2" ili="wikidata-bn-L310487-S2">
+        <Definition>পাদপূরণ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310492">
+      <Lemma writtenForm="হুড়মুড়" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310492-S1" synset="wikidata-bn-L310492-S1" ili="wikidata-bn-L310492-S1">
+        <Definition>ভারি জিনিষ পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310497">
+      <Lemma writtenForm="হিহি" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310497-S1" synset="wikidata-bn-L310497-S1" ili="wikidata-bn-L310497-S1">
+        <Definition>হাসির শব্দ</Definition>
+      </Sense>
+      <Sense id="L310497-S2" synset="wikidata-bn-L310497-S2" ili="wikidata-bn-L310497-S2">
+        <Definition>শীতের কাঁপুনিজনিত শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310548">
+      <Lemma writtenForm="হররা" partOfSpeech="interjection"/>
+      <Sense id="L310548-S1" synset="wikidata-bn-L310548-S1" ili="wikidata-bn-L310548-S1">
+        <Definition>আহ্লাদ সূচক চিৎকার</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310569">
+      <Lemma writtenForm="ওম্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310569-S1" synset="wikidata-bn-L310569-S1" ili="wikidata-bn-L310569-S1">
+        <Definition>প্রণব</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345502">
+      <Lemma writtenForm="ঠক্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345502-S1" synset="wikidata-bn-L345502-S1" ili="wikidata-bn-L345502-S1">
+        <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L347870">
+      <Lemma writtenForm="ডুগডুগ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L347870-S1" synset="wikidata-bn-L347870-S1" ili="wikidata-bn-L347870-S1">
+        <Definition>অনুকার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476061">
+      <Lemma writtenForm="এ" partOfSpeech="pronoun"/>
+      <Sense id="L476061-S1" synset="wikidata-bn-L476061-S1" ili="wikidata-bn-L476061-S1">
+        <Definition>এই ব্যক্তি/বস্তু/বিষয়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483768">
+      <Lemma writtenForm="কাছে" partOfSpeech="postposition"/>
+      <Sense id="L483768-S1" synset="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1">
+        <Definition>নিকটে</Definition>
+      </Sense>
+      <Sense id="L483768-S2" synset="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2">
+        <Definition>তুলনায়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618493">
+      <Lemma writtenForm="নমস্কার" partOfSpeech="interjection"/>
+      <Sense id="L618493-S1" synset="wikidata-bn-L618493-S1" ili="wikidata-bn-L618493-S1">
+        <Definition>অভিবাদন বিশেষ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624928">
+      <Lemma writtenForm="তো" partOfSpeech="grammatical particle"/>
+      <Sense id="L624928-S1" synset="wikidata-bn-L624928-S1" ili="wikidata-bn-L624928-S1">
+        <Definition>দৃঢ়তাসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625189">
+      <Lemma writtenForm="যে" partOfSpeech="pronoun"/>
+      <Sense id="L625189-S1" synset="wikidata-bn-L625189-S1" ili="wikidata-bn-L625189-S1">
+        <Definition>নির্দিষ্ট বস্তু বা ব্যক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626221">
+      <Lemma writtenForm="উপর" partOfSpeech="postposition"/>
+      <Sense id="L626221-S1" synset="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1">
+        <Definition>ঊর্ধ্বে</Definition>
+      </Sense>
+      <Sense id="L626221-S2" synset="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2">
+        <Definition>প্রতি</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L708613-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643355">
+      <Lemma writtenForm="গো" partOfSpeech="interjection"/>
+      <Sense id="L643355-S1" synset="wikidata-bn-L643355-S1" ili="wikidata-bn-L643355-S1">
+        <Definition>সম্বোধন শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L671674">
+      <Lemma writtenForm="ওরে" partOfSpeech="interjection"/>
+      <Sense id="L671674-S1" synset="wikidata-bn-L671674-S1" ili="wikidata-bn-L671674-S1">
+        <Definition>সম্বোধনসূচক শব্দ</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310563-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708519">
+      <Lemma writtenForm="অবধি" partOfSpeech="postposition"/>
+      <Sense id="L708519-S1" synset="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1">
+        <Definition>থেকে বা হতে</Definition>
+      </Sense>
+      <Sense id="L708519-S2" synset="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2">
+        <Definition>পর্যন্ত</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L708611-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L714175">
+      <Lemma writtenForm="খামোশ" partOfSpeech="interjection"/>
+      <Sense id="L714175-S1" synset="wikidata-bn-L714175-S1" ili="wikidata-bn-L714175-S1">
+        <Definition>চুপ করো</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L714177-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303225">
+      <Lemma writtenForm="এক" partOfSpeech="numeral"/>
+      <Sense id="L303225-S1" synset="wikidata-bn-L303225-S1" ili="wikidata-bn-L303225-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303237">
+      <Lemma writtenForm="তেরো" partOfSpeech="numeral"/>
+      <Sense id="L303237-S1" synset="wikidata-bn-L303237-S1" ili="wikidata-bn-L303237-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303252">
+      <Lemma writtenForm="আটাশ" partOfSpeech="numeral"/>
+      <Sense id="L303252-S1" synset="wikidata-bn-L303252-S1" ili="wikidata-bn-L303252-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303255">
+      <Lemma writtenForm="একত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303255-S1" synset="wikidata-bn-L303255-S1" ili="wikidata-bn-L303255-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303256">
+      <Lemma writtenForm="বত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303256-S1" synset="wikidata-bn-L303256-S1" ili="wikidata-bn-L303256-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩২)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303258">
+      <Lemma writtenForm="চৌত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303258-S1" synset="wikidata-bn-L303258-S1" ili="wikidata-bn-L303258-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৪)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303259">
+      <Lemma writtenForm="পঁয়ত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303259-S1" synset="wikidata-bn-L303259-S1" ili="wikidata-bn-L303259-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303269">
+      <Lemma writtenForm="পঁয়তাল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303269-S1" synset="wikidata-bn-L303269-S1" ili="wikidata-bn-L303269-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303272">
+      <Lemma writtenForm="আটচল্লিশ" partOfSpeech="numeral"/>
+      <Sense id="L303272-S1" synset="wikidata-bn-L303272-S1" ili="wikidata-bn-L303272-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৪৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303277">
+      <Lemma writtenForm="তিপ্পান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303277-S1" synset="wikidata-bn-L303277-S1" ili="wikidata-bn-L303277-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303281">
+      <Lemma writtenForm="সাতান্ন" partOfSpeech="numeral"/>
+      <Sense id="L303281-S1" synset="wikidata-bn-L303281-S1" ili="wikidata-bn-L303281-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৫৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303287">
+      <Lemma writtenForm="তেষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303287-S1" synset="wikidata-bn-L303287-S1" ili="wikidata-bn-L303287-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303301">
+      <Lemma writtenForm="সাতাত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303301-S1" synset="wikidata-bn-L303301-S1" ili="wikidata-bn-L303301-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303302">
+      <Lemma writtenForm="আটাত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303302-S1" synset="wikidata-bn-L303302-S1" ili="wikidata-bn-L303302-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303305">
+      <Lemma writtenForm="একাশি" partOfSpeech="numeral"/>
+      <Sense id="L303305-S1" synset="wikidata-bn-L303305-S1" ili="wikidata-bn-L303305-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303307">
+      <Lemma writtenForm="তিরাশি" partOfSpeech="numeral"/>
+      <Sense id="L303307-S1" synset="wikidata-bn-L303307-S1" ili="wikidata-bn-L303307-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303317">
+      <Lemma writtenForm="তিরানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303317-S1" synset="wikidata-bn-L303317-S1" ili="wikidata-bn-L303317-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303321">
+      <Lemma writtenForm="সাতানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303321-S1" synset="wikidata-bn-L303321-S1" ili="wikidata-bn-L303321-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310486">
+      <Lemma writtenForm="হেঁ" partOfSpeech="interjection"/>
+      <Sense id="L310486-S1" synset="wikidata-bn-L310486-S1" ili="wikidata-bn-L310486-S1">
+        <Definition>সম্মতিসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310511">
+      <Lemma writtenForm="হিঃ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310511-S1" synset="wikidata-bn-L310511-S1" ili="wikidata-bn-L310511-S1">
+        <Definition>হাসির শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310512">
+      <Lemma writtenForm="হাহা" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310512-S1" synset="wikidata-bn-L310512-S1" ili="wikidata-bn-L310512-S1">
+        <Definition>হাসির শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310561">
+      <Lemma writtenForm="ঔঁ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310561-S1" synset="wikidata-bn-L310561-S1" ili="wikidata-bn-L310561-S1">
+        <Definition>শূদ্রদের প্রণব</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310562">
+      <Lemma writtenForm="ওহো" partOfSpeech="interjection"/>
+      <Sense id="L310562-S1" synset="wikidata-bn-L310562-S1" ili="wikidata-bn-L310562-S1">
+        <Definition>খেদসূচক শব্দ</Definition>
+      </Sense>
+      <Sense id="L310562-S2" synset="wikidata-bn-L310562-S2" ili="wikidata-bn-L310562-S2">
+        <Definition>বিস্ময়সূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310691">
+      <Lemma writtenForm="ওগো" partOfSpeech="interjection"/>
+      <Sense id="L310691-S1" synset="wikidata-bn-L310691-S1" ili="wikidata-bn-L310691-S1">
+        <Definition>প্রিয়জনকে সম্বোধন</Definition>
+      </Sense>
+      <Sense id="L310691-S2" synset="wikidata-bn-L310691-S2" ili="wikidata-bn-L310691-S2">
+        <Definition>ব্যক্তিকে সম্বোধন</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L310563-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345503">
+      <Lemma writtenForm="ঠং" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345503-S1" synset="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1">
+        <Definition>ঘণ্টা ইত্যাদির শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345755">
+      <Lemma writtenForm="থেকে" partOfSpeech="postposition"/>
+      <Sense id="L345755-S1" synset="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1">
+        <Definition>হতে</Definition>
+      </Sense>
+      <Sense id="L345755-S2" synset="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2">
+        <Definition>চেয়ে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346439">
+      <Lemma writtenForm="ঝুপ্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L346439-S1" synset="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1">
+        <Definition>লাফ দেওয়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L346521">
+      <Lemma writtenForm="ঝিরঝির" partOfSpeech="onomatopoeia"/>
+      <Sense id="L346521-S1" synset="wikidata-bn-L346521-S1" ili="wikidata-bn-L346521-S1">
+        <Definition>মৃদু মন্দ বাতাস বওয়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348362">
+      <Lemma writtenForm="টুপটুপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348362-S1" synset="wikidata-bn-L348362-S1" ili="wikidata-bn-L348362-S1">
+        <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
+      </Sense>
+      <Sense id="L348362-S2" synset="wikidata-bn-L348362-S2" ili="wikidata-bn-L348362-S2">
+        <Definition>ফল পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348543">
+      <Lemma writtenForm="টসটস" partOfSpeech="onomatopoeia"/>
+      <Sense id="L348543-S1" synset="wikidata-bn-L348543-S1" ili="wikidata-bn-L348543-S1">
+        <Definition>ফোঁটা পড়ার শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476064">
+      <Lemma writtenForm="ও" partOfSpeech="pronoun"/>
+      <Sense id="L476064-S1" synset="wikidata-bn-L476064-S1" ili="wikidata-bn-L476064-S1">
+        <Definition>ওই ব্যক্তি/বস্তু/বিষয়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476066">
+      <Lemma writtenForm="সে" partOfSpeech="pronoun"/>
+      <Sense id="L476066-S1" synset="wikidata-bn-L476066-S1" ili="wikidata-bn-L476066-S1">
+        <Definition>সেই ব্যক্তি</Definition>
+      </Sense>
+      <Sense id="L476066-S2" synset="wikidata-bn-L476066-S2" ili="wikidata-bn-L476066-S2">
+        <Definition>সে বস্তু</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L582560">
+      <Lemma writtenForm="না" partOfSpeech="grammatical particle"/>
+      <Sense id="L582560-S1" synset="wikidata-bn-L582560-S1" ili="wikidata-bn-L582560-S1">
+        <Definition>বৈপরীত্যবাচক</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L595058">
+      <Lemma writtenForm="বা" partOfSpeech="conjunction"/>
+      <Sense id="L595058-S1" synset="wikidata-bn-L595058-S1" ili="wikidata-bn-L595058-S1">
+        <Definition>অথবা</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620859">
+      <Lemma writtenForm="দিয়ে" partOfSpeech="postposition"/>
+      <Sense id="L620859-S1" synset="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1">
+        <Definition>সাহায্যে</Definition>
+      </Sense>
+      <Sense id="L620859-S2" synset="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2">
+        <Definition>মারফৎ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624939">
+      <Lemma writtenForm="দ্বারা" partOfSpeech="postposition"/>
+      <Sense id="L624939-S1" synset="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1">
+        <Definition>কর্তৃক</Definition>
+      </Sense>
+      <Sense id="L624939-S2" synset="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2">
+        <Definition>সাহায্যে</Definition>
+      </Sense>
+      <Sense id="L624939-S3" synset="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3">
+        <Definition>মারফৎ</Definition>
+      </Sense>
+      <Sense id="L624939-S4" synset="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4">
+        <Definition>দ্বার দিয়ে</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L641782">
+      <Lemma writtenForm="নিশপিশ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L641782-S1" synset="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1">
+        <Definition>অস্থিরতা প্রকাশক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646662">
+      <Lemma writtenForm="আপ" partOfSpeech="pronoun"/>
+      <Sense id="L646662-S1" synset="wikidata-bn-L646662-S1" ili="wikidata-bn-L646662-S1">
+        <Definition>স্বয়ং</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646663">
+      <Lemma writtenForm="আপনা" partOfSpeech="pronoun"/>
+      <Sense id="L646663-S1" synset="wikidata-bn-L646663-S1" ili="wikidata-bn-L646663-S1">
+        <Definition>নিজ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708611">
+      <Lemma writtenForm="পর্যন্ত" partOfSpeech="postposition"/>
+      <Sense id="L708611-S1" synset="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1">
+        <Definition>অবধি</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L708519-S2"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L742513">
+      <Lemma writtenForm="কেহ" partOfSpeech="pronoun"/>
+      <Sense id="L742513-S1" synset="wikidata-bn-L742513-S1" ili="wikidata-bn-L742513-S1">
+        <Definition>কোনো ব্যক্তি</Definition>
+      </Sense>
+      <Sense id="L742513-S2" synset="wikidata-bn-L742513-S2" ili="wikidata-bn-L742513-S2">
+        <Definition>আপনজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L988695">
+      <Lemma writtenForm="শাবাশ" partOfSpeech="interjection"/>
+      <Sense id="L988695-S1" synset="wikidata-bn-L988695-S1" ili="wikidata-bn-L988695-S1">
+        <Definition>(প্রশংসাব্যঞ্জক শব্দ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1175252">
+      <Lemma writtenForm="ধৎ" partOfSpeech="interjection"/>
+      <Sense id="L1175252-S1" synset="wikidata-bn-L1175252-S1" ili="wikidata-bn-L1175252-S1">
+        <Definition>দূরীকরণ, তিরস্কার, বিরক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L252191">
+      <Lemma writtenForm="আমরা" partOfSpeech="pronoun"/>
+      <Sense id="L252191-S1" synset="wikidata-bn-L252191-S1" ili="wikidata-bn-L252191-S1">
+        <Definition>বক্তা স্বয়ং ও অন্যান্য লোকজন</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303243">
+      <Lemma writtenForm="উনিশ" partOfSpeech="numeral"/>
+      <Sense id="L303243-S1" synset="wikidata-bn-L303243-S1" ili="wikidata-bn-L303243-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (১৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303247">
+      <Lemma writtenForm="তেইশ" partOfSpeech="numeral"/>
+      <Sense id="L303247-S1" synset="wikidata-bn-L303247-S1" ili="wikidata-bn-L303247-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303251">
+      <Lemma writtenForm="সাতাশ" partOfSpeech="numeral"/>
+      <Sense id="L303251-S1" synset="wikidata-bn-L303251-S1" ili="wikidata-bn-L303251-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৭)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303253">
+      <Lemma writtenForm="উনত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303253-S1" synset="wikidata-bn-L303253-S1" ili="wikidata-bn-L303253-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (২৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303257">
+      <Lemma writtenForm="তেত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303257-S1" synset="wikidata-bn-L303257-S1" ili="wikidata-bn-L303257-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৩)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303260">
+      <Lemma writtenForm="ছত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303260-S1" synset="wikidata-bn-L303260-S1" ili="wikidata-bn-L303260-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303262">
+      <Lemma writtenForm="আটত্রিশ" partOfSpeech="numeral"/>
+      <Sense id="L303262-S1" synset="wikidata-bn-L303262-S1" ili="wikidata-bn-L303262-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৩৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303285">
+      <Lemma writtenForm="একষট্টি" partOfSpeech="numeral"/>
+      <Sense id="L303285-S1" synset="wikidata-bn-L303285-S1" ili="wikidata-bn-L303285-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৬১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303295">
+      <Lemma writtenForm="একাত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303295-S1" synset="wikidata-bn-L303295-S1" ili="wikidata-bn-L303295-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭১)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303299">
+      <Lemma writtenForm="পঁচাত্তর" partOfSpeech="numeral"/>
+      <Sense id="L303299-S1" synset="wikidata-bn-L303299-S1" ili="wikidata-bn-L303299-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৭৫)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303304">
+      <Lemma writtenForm="আশি" partOfSpeech="numeral"/>
+      <Sense id="L303304-S1" synset="wikidata-bn-L303304-S1" ili="wikidata-bn-L303304-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮০)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303320">
+      <Lemma writtenForm="ছিয়ানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303320-S1" synset="wikidata-bn-L303320-S1" ili="wikidata-bn-L303320-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303322">
+      <Lemma writtenForm="আটানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303322-S1" synset="wikidata-bn-L303322-S1" ili="wikidata-bn-L303322-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৮)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L303323">
+      <Lemma writtenForm="নিরানব্বই" partOfSpeech="numeral"/>
+      <Sense id="L303323-S1" synset="wikidata-bn-L303323-S1" ili="wikidata-bn-L303323-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৯৯)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310488">
+      <Lemma writtenForm="হুহু" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310488-S1" synset="wikidata-bn-L310488-S1" ili="wikidata-bn-L310488-S1">
+        <Definition>বাতাস বা তরলের প্রবাহের শব্দ</Definition>
+      </Sense>
+      <Sense id="L310488-S2" synset="wikidata-bn-L310488-S2" ili="wikidata-bn-L310488-S2">
+        <Definition>আগুন জ্বলার শব্দ</Definition>
+      </Sense>
+      <Sense id="L310488-S3" synset="wikidata-bn-L310488-S3" ili="wikidata-bn-L310488-S3">
+        <Definition>দুঃখ প্রকাশের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310523">
+      <Lemma writtenForm="হলা" partOfSpeech="interjection"/>
+      <Sense id="L310523-S1" synset="wikidata-bn-L310523-S1" ili="wikidata-bn-L310523-S1">
+        <Definition>নাট্যে সখীর প্রতি স্মবোধনসূচক শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310552">
+      <Lemma writtenForm="হনহন" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310552-S1" synset="wikidata-bn-L310552-S1" ili="wikidata-bn-L310552-S1">
+        <Definition>দ্রুত গমনের ভাব</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L310570">
+      <Lemma writtenForm="ওঁ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L310570-S1" synset="wikidata-bn-L310570-S1" ili="wikidata-bn-L310570-S1">
+        <Definition>প্রণব</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345492">
+      <Lemma writtenForm="ঠন্‌" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345492-S1" synset="wikidata-bn-L345492-S1" ili="wikidata-bn-L345492-S1">
+        <Definition>ধাতু নির্মিত পাত্র ইত্যাদির শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L345625">
+      <Lemma writtenForm="ঢিপ" partOfSpeech="onomatopoeia"/>
+      <Sense id="L345625-S1" synset="wikidata-bn-L345625-S1" ili="wikidata-bn-L345625-S1">
+        <Definition>আঘাতের শব্দ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408650">
+      <Lemma writtenForm="ছিয়াশী" partOfSpeech="numeral"/>
+      <Sense id="L408650-S1" synset="wikidata-bn-L408650-S1" ili="wikidata-bn-L408650-S1">
+        <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L412201">
+      <Lemma writtenForm="এবং" partOfSpeech="conjunction"/>
+      <Sense id="L412201-S1" synset="wikidata-bn-L412201-S1" ili="wikidata-bn-L412201-S1">
+        <Definition>দুটি শব্দ বা বাক্যকে সংযোগকারী অব্যয়</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476045">
+      <Lemma writtenForm="উনি" partOfSpeech="pronoun"/>
+      <Sense id="L476045-S1" synset="wikidata-bn-L476045-S1" ili="wikidata-bn-L476045-S1">
+        <Definition>ওই ব্যক্তি</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L494330">
+      <Lemma writtenForm="উহারা" partOfSpeech="pronoun"/>
+      <Sense id="L494330-S1" synset="wikidata-bn-L494330-S1" ili="wikidata-bn-L494330-S1">
+        <Definition>ওই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L587404">
+      <Lemma writtenForm="আর" partOfSpeech="conjunction"/>
+      <Sense id="L587404-S1" synset="wikidata-bn-L587404-S1" ili="wikidata-bn-L587404-S1">
+        <Definition>দুটি শব্দ বা বাক্যকে সংযোগকারী অব্যয়</Definition>
+      </Sense>
+      <Sense id="L587404-S2" synset="wikidata-bn-L587404-S2" ili="wikidata-bn-L587404-S2">
+        <Definition>অথবা</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L591873">
+      <Lemma writtenForm="সঙ্গে" partOfSpeech="postposition"/>
+      <Sense id="L591873-S1" synset="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1">
+        <Definition>সহিত</Definition>
+        <SenseRelation relType="similar" target="wikidata-bn-L595059-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618990">
+      <Lemma writtenForm="হুট করে" partOfSpeech="adverbial locution"/>
+      <Sense id="L618990-S1" synset="wikidata-bn-L618990-S1" ili="wikidata-bn-L618990-S1">
+        <Definition>হঠাৎ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L646666">
+      <Lemma writtenForm="তো" partOfSpeech="conjunction"/>
+      <Sense id="L646666-S1" synset="wikidata-bn-L646666-S1" ili="wikidata-bn-L646666-S1">
+        <Definition>তবে</Definition>
+      </Sense>
+      <Sense id="L646666-S2" synset="wikidata-bn-L646666-S2" ili="wikidata-bn-L646666-S2">
+        <Definition>তবু</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1220898">
+      <Lemma writtenForm="আছাড় দিলে ভাঙ্গে না, টিপ দিলে ভর সয় না" partOfSpeech="riddle"/>
+      <Sense id="L1220898-S1" synset="wikidata-bn-L1220898-S1" ili="wikidata-bn-L1220898-S1">
+        <Definition>ভাত</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1229681">
+      <Lemma writtenForm="হায়" partOfSpeech="interjection"/>
+      <Sense id="L1229681-S1" synset="wikidata-bn-L1229681-S1" ili="wikidata-bn-L1229681-S1">
+        <Definition>আক্ষেপের আবেগ</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-bn-L60058-S1" ili="wikidata-bn-L60058-S1">
+      <Definition>সম্ভ্রমার্থে সম্বোধিত ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L60058-S2" ili="wikidata-bn-L60058-S2">
+      <Definition>স্বয়ং</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303226-S1" ili="wikidata-bn-L303226-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303232-S1" ili="wikidata-bn-L303232-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303234-S1" ili="wikidata-bn-L303234-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303238-S1" ili="wikidata-bn-L303238-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303239-S1" ili="wikidata-bn-L303239-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303246-S1" ili="wikidata-bn-L303246-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303266-S1" ili="wikidata-bn-L303266-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303276-S1" ili="wikidata-bn-L303276-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303292-S1" ili="wikidata-bn-L303292-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303310-S1" ili="wikidata-bn-L303310-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303313-S1" ili="wikidata-bn-L303313-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303314-S1" ili="wikidata-bn-L303314-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310474-S1" ili="l43974-s1">
+      <Definition>সম্মতিসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310479-S1" ili="wikidata-bn-L310479-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310480-S1" ili="wikidata-bn-L310480-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310482-S1" ili="wikidata-bn-L310482-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310490-S1" ili="wikidata-bn-L310490-S1">
+      <Definition>অনুকার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310553-S1" ili="wikidata-bn-L310553-S1">
+      <Definition>মারা পড়লাম</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1">
+      <Definition>প্রতিনিধি স্বরূপ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2">
+      <Definition>মধ্য দিয়ে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310568-S1" ili="wikidata-bn-L310568-S1">
+      <Definition>ভয়, বিস্ময় বা ব্যথায় নির্গত শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345413-S1" ili="wikidata-bn-L345413-S1">
+      <Definition>ঘণ্টা ইত্যাদির মৃদু শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345435-S1" ili="wikidata-bn-L345435-S1">
+      <Definition>চড় মারার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345808-S1" ili="wikidata-bn-L345808-S1">
+      <Definition>থুথু ফেলার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345808-S2" ili="wikidata-bn-L345808-S2">
+      <Definition>ঘৃণাসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348363-S1" ili="wikidata-bn-L348363-S1">
+      <Definition>হঠাৎ ডুব দেওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348363-S2" ili="wikidata-bn-L348363-S2">
+      <Definition>বৃষ্টি পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348366-S1" ili="wikidata-bn-L348366-S1">
+      <Definition>ঘণ্টার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348366-S2" ili="wikidata-bn-L348366-S2">
+      <Definition>জল তরঙ্গের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L584432-S1" ili="wikidata-bn-L584432-S1">
+      <Definition>অপেক্ষা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624936-S1" ili="wikidata-bn-L624936-S1">
+      <Definition>সমস্ত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626232-S1" ili="wikidata-bn-L626232-S1">
+      <Definition>সে দ্রব্য</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L646660-S1" ili="wikidata-bn-L646660-S1">
+      <Definition>আমি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L671664-S1" ili="wikidata-bn-L671664-S1">
+      <Definition>আশ্চর্যবোধক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303230-S1" ili="wikidata-bn-L303230-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303240-S1" ili="wikidata-bn-L303240-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303273-S1" ili="wikidata-bn-L303273-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303278-S1" ili="wikidata-bn-L303278-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303286-S1" ili="wikidata-bn-L303286-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303288-S1" ili="wikidata-bn-L303288-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303293-S1" ili="wikidata-bn-L303293-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303294-S1" ili="wikidata-bn-L303294-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303312-S1" ili="wikidata-bn-L303312-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303319-S1" ili="wikidata-bn-L303319-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309048-S1" ili="wikidata-bn-L309048-S1">
+      <Definition>আমি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309222-S1" ili="wikidata-bn-L309222-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309227-S1" ili="wikidata-bn-L309227-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310476-S1" ili="wikidata-bn-L310476-S1">
+      <Definition>উচ্চহাস্য শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310485-S1" ili="wikidata-bn-L310485-S1">
+      <Definition>অনুনয়সূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310491-S1" ili="wikidata-bn-L310491-S1">
+      <Definition>বেগে জল পড়বার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310493-S1" ili="wikidata-bn-L310493-S1">
+      <Definition>সম্মতিসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310493-S2" ili="wikidata-bn-L310493-S2">
+      <Definition>সন্দেহ প্রকাশক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310493-S3" ili="wikidata-bn-L310493-S3">
+      <Definition>প্রতিজ্ঞা প্রকাশক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310493-S4" ili="wikidata-bn-L310493-S4">
+      <Definition>রাগ প্রকাশকারী শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310493-S5" ili="wikidata-bn-L310493-S5">
+      <Definition>ভীতিপ্রদর্শক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310566-S1" ili="wikidata-bn-L310566-S1">
+      <Definition>নারীদের মধ্যে পরস্পর প্রণয়সূচক সম্বোধন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310567-S1" ili="wikidata-bn-L310567-S1">
+      <Definition>বমির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310702-S1" ili="wikidata-bn-L310702-S1">
+      <Definition>রাগ, দুঃখ, ভয় সূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345409-S1" ili="wikidata-bn-L345409-S1">
+      <Definition>কঠিন জিনিষ আঘাত করার মৃদু শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345562-S1" ili="wikidata-bn-L345562-S1">
+      <Definition>ভেজা ঢোল বাজানোর শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347465-S1" ili="wikidata-bn-L347465-S1">
+      <Definition>নূপুরের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347699-S1" ili="wikidata-bn-L347699-S1">
+      <Definition>বৃষ্টির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347699-S2" ili="wikidata-bn-L347699-S2">
+      <Definition>নূপুরের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348361-S1" ili="wikidata-bn-L348361-S1">
+      <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348361-S2" ili="wikidata-bn-L348361-S2">
+      <Definition>ফল পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476053-S1" ili="wikidata-bn-L476053-S1">
+      <Definition>পুরোভাগে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476056-S1" ili="wikidata-bn-L476056-S1">
+      <Definition>নির্দিষ্ট</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L494329-S1" ili="wikidata-bn-L494329-S1">
+      <Definition>এই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1">
+      <Definition>সহিত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L618670-S1" ili="wikidata-bn-L618670-S1">
+      <Definition>জিজ্ঞাসাবাচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L625133-S1" ili="wikidata-bn-L625133-S1">
+      <Definition>সে পরিমাণ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L643366-S1" ili="wikidata-bn-L643366-S1">
+      <Definition>অভিলাষ প্রকাশসূচক</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1">
+      <Definition>উপরি বা সম্বন্ধে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2">
+      <Definition>অভিমুখে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1126943-S1" ili="wikidata-bn-L1126943-S1">
+      <Definition>সাবধান</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L60056-S1" ili="wikidata-bn-L60056-S1">
+      <Definition>সম্বোধিত ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L252192-S1" ili="wikidata-bn-L252192-S1">
+      <Definition>সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1">
+      <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303227-S1" ili="wikidata-bn-L303227-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303229-S1" ili="wikidata-bn-L303229-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303244-S1" ili="wikidata-bn-L303244-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303245-S1" ili="wikidata-bn-L303245-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303267-S1" ili="wikidata-bn-L303267-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303268-S1" ili="wikidata-bn-L303268-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303271-S1" ili="wikidata-bn-L303271-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303284-S1" ili="wikidata-bn-L303284-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303291-S1" ili="wikidata-bn-L303291-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303308-S1" ili="wikidata-bn-L303308-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303316-S1" ili="wikidata-bn-L303316-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303318-S1" ili="wikidata-bn-L303318-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309108-S1" ili="wikidata-bn-L309108-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309251-S1" ili="wikidata-bn-L309251-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309263-S1" ili="wikidata-bn-L309263-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310481-S1" ili="wikidata-bn-L310481-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310489-S1" ili="wikidata-bn-L310489-S1">
+      <Definition>পাখি তাড়াবার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310518-S1" ili="wikidata-bn-L310518-S1">
+      <Definition>নিবারণ করার জন্য শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310556-S1" ili="wikidata-bn-L310556-S1">
+      <Definition>পিচ্ছিলপথে গড়িয়ে যাওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310556-S2" ili="wikidata-bn-L310556-S2">
+      <Definition>দ্রুত এবং বলপূর্বক টেনে নিয়ে যাওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1">
+      <Definition>থেকে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310704-S1" ili="l1385-s1">
+      <Definition>এবং</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345670-S1" ili="wikidata-bn-L345670-S1">
+      <Definition>খালি হাঁড়ি কলসীর শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345771-S1" ili="wikidata-bn-L345771-S1">
+      <Definition>ছোট নরম জিনিষ পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345877-S1" ili="wikidata-bn-L345877-S1">
+      <Definition>নরম ভারী জিনিষ পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348330-S1" ili="wikidata-bn-L348330-S1">
+      <Definition>বেসুরো আওয়াজ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348330-S2" ili="wikidata-bn-L348330-S2">
+      <Definition>বিরক্তিসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348589-S1" ili="wikidata-bn-L348589-S1">
+      <Definition>ফুটন্ত জলের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348589-S2" ili="wikidata-bn-L348589-S2">
+      <Definition>ঘোড়া ছোটার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476043-S1" ili="wikidata-bn-L476043-S1">
+      <Definition>এই ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1">
+      <Definition>মাঝে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2">
+      <Definition>ভিতরে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3">
+      <Definition>ফাঁকে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1">
+      <Definition>দফা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2">
+      <Definition>পালা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L625132-S1" ili="wikidata-bn-L625132-S1">
+      <Definition>যে পরিমাণ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626234-S1" ili="wikidata-bn-L626234-S1">
+      <Definition>জোর দেবার বিভক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626234-S2" ili="wikidata-bn-L626234-S2">
+      <Definition>(সম্বন্ধের অর্থ প্রকাশ করে)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L643353-S1" ili="wikidata-bn-L643353-S1">
+      <Definition>কার্য কারণ সম্পর্ক বা হেতু</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1">
+      <Definition>একটি বিভক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L252194-S1" ili="wikidata-bn-L252194-S1">
+      <Definition>সম্ভ্রমার্থে সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303228-S1" ili="wikidata-bn-L303228-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303236-S1" ili="wikidata-bn-L303236-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303248-S1" ili="wikidata-bn-L303248-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303254-S1" ili="wikidata-bn-L303254-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303265-S1" ili="wikidata-bn-L303265-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303274-S1" ili="wikidata-bn-L303274-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303279-S1" ili="wikidata-bn-L303279-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303298-S1" ili="wikidata-bn-L303298-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303306-S1" ili="wikidata-bn-L303306-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303315-S1" ili="wikidata-bn-L303315-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303324-S1" ili="wikidata-bn-L303324-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310475-S1" ili="wikidata-bn-L310475-S1">
+      <Definition>প্রশ্নার্থ সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310503-S1" ili="wikidata-bn-L310503-S1">
+      <Definition>কিছু টেনে নিয়ে যাওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310517-S1" ili="wikidata-bn-L310517-S1">
+      <Definition>গাভীর রব</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310520-S1" ili="wikidata-bn-L310520-S1">
+      <Definition>সম্মতিসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310563-S1" ili="wikidata-bn-L310563-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310707-S1" ili="wikidata-bn-L310707-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345504-S1" ili="wikidata-bn-L345504-S1">
+      <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345669-S1" ili="wikidata-bn-L345669-S1">
+      <Definition>ভেজা বা ছেঁড়া ঢোলের ন্যায় শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345676-S1" ili="wikidata-bn-L345676-S1">
+      <Definition>ঘড়ি কাঁসর ইত্যাদির বার বার বাজার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345677-S1" ili="wikidata-bn-L345677-S1">
+      <Definition>ঘণ্টার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345677-S2" ili="wikidata-bn-L345677-S2">
+      <Definition>ঘড়ির সময়সূচক আওয়াজ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345809-S1" ili="wikidata-bn-L345809-S1">
+      <Definition>থুথু ফেলার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345809-S2" ili="wikidata-bn-L345809-S2">
+      <Definition>ঘৃণাসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L346405-S1" ili="wikidata-bn-L346405-S1">
+      <Definition>আস্তে আস্তে বালি পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347696-S1" ili="wikidata-bn-L347696-S1">
+      <Definition>জল পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347700-S1" ili="wikidata-bn-L347700-S1">
+      <Definition>বৃষ্টির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347700-S2" ili="wikidata-bn-L347700-S2">
+      <Definition>নূপুরের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476051-S1" ili="wikidata-bn-L476051-S1">
+      <Definition>সেই ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476052-S1" ili="wikidata-bn-L476052-S1">
+      <Definition>সম্মুখবর্তী</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L494331-S1" ili="wikidata-bn-L494331-S1">
+      <Definition>সেই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L494344-S1" ili="wikidata-bn-L494344-S1">
+      <Definition>কোন সময়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L592044-S1" ili="wikidata-bn-L592044-S1">
+      <Definition>তুল্য বা পারা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L619311-S1" ili="wikidata-bn-L619311-S1">
+      <Definition>ধাতুদ্রব্যাদি পড়ার বা আঘাত পাওয়ার তীক্ষ্ণ শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624927-S1" ili="wikidata-bn-L624927-S1">
+      <Definition>তাহলে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L642419-S1" ili="wikidata-bn-L642419-S1">
+      <Definition>তথাপি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L642419-S2" ili="wikidata-bn-L642419-S2">
+      <Definition>তদনন্তর</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L642419-S3" ili="wikidata-bn-L642419-S3">
+      <Definition>তাহলে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L709023-S1" ili="wikidata-bn-L709023-S1">
+      <Definition>অন্য ব্যক্তি, বস্তু, ইত্যাদি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L714177-S1" ili="wikidata-bn-L714177-S1">
+      <Definition>কথা না বলার নির্দেশসূচক</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L60055-S1" ili="wikidata-bn-L60055-S1">
+      <Definition>বক্তা স্বয়ং</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L252193-S1" ili="wikidata-bn-L252193-S1">
+      <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1">
+      <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303231-S1" ili="wikidata-bn-L303231-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303233-S1" ili="wikidata-bn-L303233-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303235-S1" ili="wikidata-bn-L303235-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303241-S1" ili="wikidata-bn-L303241-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303242-S1" ili="wikidata-bn-L303242-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303249-S1" ili="wikidata-bn-L303249-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303250-S1" ili="wikidata-bn-L303250-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303261-S1" ili="wikidata-bn-L303261-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303264-S1" ili="wikidata-bn-L303264-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303275-S1" ili="wikidata-bn-L303275-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303280-S1" ili="wikidata-bn-L303280-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303283-S1" ili="wikidata-bn-L303283-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303290-S1" ili="wikidata-bn-L303290-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303297-S1" ili="wikidata-bn-L303297-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303300-S1" ili="wikidata-bn-L303300-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303303-S1" ili="wikidata-bn-L303303-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303309-S1" ili="wikidata-bn-L303309-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303311-S1" ili="wikidata-bn-L303311-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309097-S1" ili="wikidata-bn-L309097-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309114-S1" ili="wikidata-bn-L309114-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309212-S1" ili="wikidata-bn-L309212-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309235-S1" ili="wikidata-bn-L309235-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309250-S1" ili="wikidata-bn-L309250-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345675-S1" ili="wikidata-bn-L345675-S1">
+      <Definition>তরল পদার্থ গলাঃধকরণের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347703-S1" ili="wikidata-bn-L347703-S1">
+      <Definition>হঠাৎ জোরে ধাতুদ্রব্য পড়ার বা আঘাতের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348548-S1" ili="wikidata-bn-L348548-S1">
+      <Definition>রস পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L483765-S1" ili="wikidata-bn-L483765-S1">
+      <Definition>কোন বস্তু/বিষয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L483766-S1" ili="wikidata-bn-L483766-S1">
+      <Definition>কোন স্থান</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1">
+      <Definition>কারণে বা নিমিত্তে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626214-S1" ili="wikidata-bn-L626214-S1">
+      <Definition>যে সময়ে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626216-S1" ili="wikidata-bn-L626216-S1">
+      <Definition>সেই সময়ে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626230-S1" ili="wikidata-bn-L626230-S1">
+      <Definition>যে দ্রব্য</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L642414-S1" ili="wikidata-bn-L642414-S1">
+      <Definition>ব্যতীত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1119391-S1" ili="wikidata-bn-L1119391-S1">
+      <Definition>সকলেই</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1329924-S1" ili="wikidata-bn-L1329924-S1">
+      <Definition>কেহ; কোনো ব্যক্তি;</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1330149-S1" ili="wikidata-bn-L1330149-S1">
+      <Definition>অনির্দিষ্ট একটি বা একজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L60057-S1" ili="wikidata-bn-L60057-S1">
+      <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303263-S1" ili="wikidata-bn-L303263-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303270-S1" ili="wikidata-bn-L303270-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303282-S1" ili="wikidata-bn-L303282-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303289-S1" ili="wikidata-bn-L303289-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303296-S1" ili="wikidata-bn-L303296-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303325-S1" ili="wikidata-bn-L303325-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L309264-S1" ili="wikidata-bn-L309264-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310484-S1" ili="wikidata-bn-L310484-S1">
+      <Definition>গরুকে তাড়ানোর শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310487-S1" ili="wikidata-bn-L310487-S1">
+      <Definition>সম্বোধন বা আহ্বান</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310487-S2" ili="wikidata-bn-L310487-S2">
+      <Definition>পাদপূরণ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310492-S1" ili="wikidata-bn-L310492-S1">
+      <Definition>ভারি জিনিষ পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310497-S1" ili="wikidata-bn-L310497-S1">
+      <Definition>হাসির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310497-S2" ili="wikidata-bn-L310497-S2">
+      <Definition>শীতের কাঁপুনিজনিত শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310548-S1" ili="wikidata-bn-L310548-S1">
+      <Definition>আহ্লাদ সূচক চিৎকার</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310569-S1" ili="wikidata-bn-L310569-S1">
+      <Definition>প্রণব</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345502-S1" ili="wikidata-bn-L345502-S1">
+      <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L347870-S1" ili="wikidata-bn-L347870-S1">
+      <Definition>অনুকার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476061-S1" ili="wikidata-bn-L476061-S1">
+      <Definition>এই ব্যক্তি/বস্তু/বিষয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1">
+      <Definition>নিকটে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2">
+      <Definition>তুলনায়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L618493-S1" ili="wikidata-bn-L618493-S1">
+      <Definition>অভিবাদন বিশেষ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624928-S1" ili="wikidata-bn-L624928-S1">
+      <Definition>দৃঢ়তাসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L625189-S1" ili="wikidata-bn-L625189-S1">
+      <Definition>নির্দিষ্ট বস্তু বা ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1">
+      <Definition>ঊর্ধ্বে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2">
+      <Definition>প্রতি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L643355-S1" ili="wikidata-bn-L643355-S1">
+      <Definition>সম্বোধন শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L671674-S1" ili="wikidata-bn-L671674-S1">
+      <Definition>সম্বোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1">
+      <Definition>থেকে বা হতে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2">
+      <Definition>পর্যন্ত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L714175-S1" ili="wikidata-bn-L714175-S1">
+      <Definition>চুপ করো</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303225-S1" ili="wikidata-bn-L303225-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303237-S1" ili="wikidata-bn-L303237-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303252-S1" ili="wikidata-bn-L303252-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303255-S1" ili="wikidata-bn-L303255-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303256-S1" ili="wikidata-bn-L303256-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩২)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303258-S1" ili="wikidata-bn-L303258-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৪)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303259-S1" ili="wikidata-bn-L303259-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303269-S1" ili="wikidata-bn-L303269-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303272-S1" ili="wikidata-bn-L303272-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৪৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303277-S1" ili="wikidata-bn-L303277-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303281-S1" ili="wikidata-bn-L303281-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৫৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303287-S1" ili="wikidata-bn-L303287-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303301-S1" ili="wikidata-bn-L303301-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303302-S1" ili="wikidata-bn-L303302-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303305-S1" ili="wikidata-bn-L303305-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303307-S1" ili="wikidata-bn-L303307-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303317-S1" ili="wikidata-bn-L303317-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303321-S1" ili="wikidata-bn-L303321-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310486-S1" ili="wikidata-bn-L310486-S1">
+      <Definition>সম্মতিসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310511-S1" ili="wikidata-bn-L310511-S1">
+      <Definition>হাসির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310512-S1" ili="wikidata-bn-L310512-S1">
+      <Definition>হাসির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310561-S1" ili="wikidata-bn-L310561-S1">
+      <Definition>শূদ্রদের প্রণব</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310562-S1" ili="wikidata-bn-L310562-S1">
+      <Definition>খেদসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310562-S2" ili="wikidata-bn-L310562-S2">
+      <Definition>বিস্ময়সূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310691-S1" ili="wikidata-bn-L310691-S1">
+      <Definition>প্রিয়জনকে সম্বোধন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310691-S2" ili="wikidata-bn-L310691-S2">
+      <Definition>ব্যক্তিকে সম্বোধন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1">
+      <Definition>ঘণ্টা ইত্যাদির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1">
+      <Definition>হতে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2">
+      <Definition>চেয়ে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1">
+      <Definition>লাফ দেওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L346521-S1" ili="wikidata-bn-L346521-S1">
+      <Definition>মৃদু মন্দ বাতাস বওয়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348362-S1" ili="wikidata-bn-L348362-S1">
+      <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348362-S2" ili="wikidata-bn-L348362-S2">
+      <Definition>ফল পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L348543-S1" ili="wikidata-bn-L348543-S1">
+      <Definition>ফোঁটা পড়ার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476064-S1" ili="wikidata-bn-L476064-S1">
+      <Definition>ওই ব্যক্তি/বস্তু/বিষয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476066-S1" ili="wikidata-bn-L476066-S1">
+      <Definition>সেই ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476066-S2" ili="wikidata-bn-L476066-S2">
+      <Definition>সে বস্তু</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L582560-S1" ili="wikidata-bn-L582560-S1">
+      <Definition>বৈপরীত্যবাচক</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L595058-S1" ili="wikidata-bn-L595058-S1">
+      <Definition>অথবা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1">
+      <Definition>সাহায্যে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2">
+      <Definition>মারফৎ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1">
+      <Definition>কর্তৃক</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2">
+      <Definition>সাহায্যে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3">
+      <Definition>মারফৎ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4">
+      <Definition>দ্বার দিয়ে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1">
+      <Definition>অস্থিরতা প্রকাশক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L646662-S1" ili="wikidata-bn-L646662-S1">
+      <Definition>স্বয়ং</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L646663-S1" ili="wikidata-bn-L646663-S1">
+      <Definition>নিজ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1">
+      <Definition>অবধি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L742513-S1" ili="wikidata-bn-L742513-S1">
+      <Definition>কোনো ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L742513-S2" ili="wikidata-bn-L742513-S2">
+      <Definition>আপনজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L988695-S1" ili="wikidata-bn-L988695-S1">
+      <Definition>(প্রশংসাব্যঞ্জক শব্দ)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1175252-S1" ili="wikidata-bn-L1175252-S1">
+      <Definition>দূরীকরণ, তিরস্কার, বিরক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L252191-S1" ili="wikidata-bn-L252191-S1">
+      <Definition>বক্তা স্বয়ং ও অন্যান্য লোকজন</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303243-S1" ili="wikidata-bn-L303243-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (১৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303247-S1" ili="wikidata-bn-L303247-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303251-S1" ili="wikidata-bn-L303251-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৭)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303253-S1" ili="wikidata-bn-L303253-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (২৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303257-S1" ili="wikidata-bn-L303257-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৩)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303260-S1" ili="wikidata-bn-L303260-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303262-S1" ili="wikidata-bn-L303262-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৩৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303285-S1" ili="wikidata-bn-L303285-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৬১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303295-S1" ili="wikidata-bn-L303295-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭১)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303299-S1" ili="wikidata-bn-L303299-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৭৫)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303304-S1" ili="wikidata-bn-L303304-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮০)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303320-S1" ili="wikidata-bn-L303320-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303322-S1" ili="wikidata-bn-L303322-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৮)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L303323-S1" ili="wikidata-bn-L303323-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৯৯)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310488-S1" ili="wikidata-bn-L310488-S1">
+      <Definition>বাতাস বা তরলের প্রবাহের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310488-S2" ili="wikidata-bn-L310488-S2">
+      <Definition>আগুন জ্বলার শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310488-S3" ili="wikidata-bn-L310488-S3">
+      <Definition>দুঃখ প্রকাশের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310523-S1" ili="wikidata-bn-L310523-S1">
+      <Definition>নাট্যে সখীর প্রতি স্মবোধনসূচক শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310552-S1" ili="wikidata-bn-L310552-S1">
+      <Definition>দ্রুত গমনের ভাব</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L310570-S1" ili="wikidata-bn-L310570-S1">
+      <Definition>প্রণব</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345492-S1" ili="wikidata-bn-L345492-S1">
+      <Definition>ধাতু নির্মিত পাত্র ইত্যাদির শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L345625-S1" ili="wikidata-bn-L345625-S1">
+      <Definition>আঘাতের শব্দ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L408650-S1" ili="wikidata-bn-L408650-S1">
+      <Definition>অঙ্কবাচক সংখ্যা (৮৬)</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L412201-S1" ili="wikidata-bn-L412201-S1">
+      <Definition>দুটি শব্দ বা বাক্যকে সংযোগকারী অব্যয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L476045-S1" ili="wikidata-bn-L476045-S1">
+      <Definition>ওই ব্যক্তি</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L494330-S1" ili="wikidata-bn-L494330-S1">
+      <Definition>ওই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L587404-S1" ili="wikidata-bn-L587404-S1">
+      <Definition>দুটি শব্দ বা বাক্যকে সংযোগকারী অব্যয়</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L587404-S2" ili="wikidata-bn-L587404-S2">
+      <Definition>অথবা</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1">
+      <Definition>সহিত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L618990-S1" ili="wikidata-bn-L618990-S1">
+      <Definition>হঠাৎ</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L646666-S1" ili="wikidata-bn-L646666-S1">
+      <Definition>তবে</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L646666-S2" ili="wikidata-bn-L646666-S2">
+      <Definition>তবু</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1220898-S1" ili="wikidata-bn-L1220898-S1">
+      <Definition>ভাত</Definition>
+    </Synset>
+    <Synset id="wikidata-bn-L1229681-S1" ili="wikidata-bn-L1229681-S1">
+      <Definition>আক্ষেপের আবেগ</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

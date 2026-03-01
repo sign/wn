@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-oj"
+                    label="Wikidata OJ Lexemes Extension"
+                    language="oj"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-oj" version="1.4"/>
+    <LexicalEntry id="L1529603">
+      <Lemma writtenForm="misi-" partOfSpeech="preverb"/>
+      <Sense id="L1529603-S1" synset="wikidata-oj-L1529603-S1" ili="wikidata-oj-L1529603-S1">
+        <Definition>gichi-</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-oj-L1529603-S1" ili="wikidata-oj-L1529603-S1">
+      <Definition>gichi-</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

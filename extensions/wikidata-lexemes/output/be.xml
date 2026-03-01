@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-be"
+                    label="Wikidata BE Lexemes Extension"
+                    language="be"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-be" version="1.4"/>
+    <LexicalEntry id="L1224898">
+      <Lemma writtenForm="чатыры" partOfSpeech="numeral"/>
+      <Sense id="L1224898-S1" synset="wikidata-be-L1224898-S1" ili="wikidata-be-L1224898-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L44972">
+      <Lemma writtenForm="адзін" partOfSpeech="numeral"/>
+      <Sense id="L44972-S1" synset="wikidata-be-L44972-S1" ili="wikidata-be-L44972-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-be-L1224898-S1" ili="wikidata-be-L1224898-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-be-L44972-S1" ili="wikidata-be-L44972-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

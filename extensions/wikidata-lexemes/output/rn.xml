@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-rn"
+                    label="Wikidata RN Lexemes Extension"
+                    language="rn"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-rn" version="1.4"/>
+    <LexicalEntry id="L1335101">
+      <Lemma writtenForm="Mirongo ine na gatatu" partOfSpeech="number"/>
+      <Sense id="L1335101-S1" synset="wikidata-rn-L1335101-S1" ili="wikidata-rn-L1335101-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335224">
+      <Lemma writtenForm="Mirongo ine n&apos;umunani" partOfSpeech="number"/>
+      <Sense id="L1335224-S1" synset="wikidata-rn-L1335224-S1" ili="wikidata-rn-L1335224-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335232">
+      <Lemma writtenForm="Mirongo itanu na rimwe" partOfSpeech="number"/>
+      <Sense id="L1335232-S1" synset="wikidata-rn-L1335232-S1" ili="wikidata-rn-L1335232-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1401885">
+      <Lemma writtenForm="na" partOfSpeech="preposition"/>
+      <Sense id="L1401885-S1" synset="wikidata-rn-L1401885-S1" ili="wikidata-rn-L1401885-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1401885-S2" synset="wikidata-rn-L1401885-S2" ili="wikidata-rn-L1401885-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335241">
+      <Lemma writtenForm="Mirongo itanu n&apos;umunani" partOfSpeech="number"/>
+      <Sense id="L1335241-S1" synset="wikidata-rn-L1335241-S1" ili="wikidata-rn-L1335241-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335225">
+      <Lemma writtenForm="Mirongo ine n&apos;icenda" partOfSpeech="number"/>
+      <Sense id="L1335225-S1" synset="wikidata-rn-L1335225-S1" ili="wikidata-rn-L1335225-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335240">
+      <Lemma writtenForm="Mirongo itanu n&apos;indwi" partOfSpeech="number"/>
+      <Sense id="L1335240-S1" synset="wikidata-rn-L1335240-S1" ili="wikidata-rn-L1335240-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335243">
+      <Lemma writtenForm="Mirongo itanu n&apos;icenda" partOfSpeech="number"/>
+      <Sense id="L1335243-S1" synset="wikidata-rn-L1335243-S1" ili="wikidata-rn-L1335243-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335244">
+      <Lemma writtenForm="Mirongo itandatu" partOfSpeech="number"/>
+      <Sense id="L1335244-S1" synset="wikidata-rn-L1335244-S1" ili="wikidata-rn-L1335244-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335098">
+      <Lemma writtenForm="Mirongo ine na rimwe" partOfSpeech="number"/>
+      <Sense id="L1335098-S1" synset="wikidata-rn-L1335098-S1" ili="wikidata-rn-L1335098-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1335098-S2" synset="wikidata-rn-L1335098-S2" ili="wikidata-rn-L1335098-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335099">
+      <Lemma writtenForm="Mirongo ine na kabiri" partOfSpeech="number"/>
+      <Sense id="L1335099-S1" synset="wikidata-rn-L1335099-S1" ili="wikidata-rn-L1335099-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1335099-S2" synset="wikidata-rn-L1335099-S2" ili="wikidata-rn-L1335099-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335102">
+      <Lemma writtenForm="Mirongo ine na kane" partOfSpeech="number"/>
+      <Sense id="L1335102-S1" synset="wikidata-rn-L1335102-S1" ili="wikidata-rn-L1335102-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335238">
+      <Lemma writtenForm="Mirongo itanu na gatanu" partOfSpeech="number"/>
+      <Sense id="L1335238-S1" synset="wikidata-rn-L1335238-S1" ili="wikidata-rn-L1335238-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1336791">
+      <Lemma writtenForm="Mirongo itandatu na rimwe" partOfSpeech="number"/>
+      <Sense id="L1336791-S1" synset="wikidata-rn-L1336791-S1" ili="wikidata-rn-L1336791-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335222">
+      <Lemma writtenForm="Mirongo ine na gatandatu" partOfSpeech="number"/>
+      <Sense id="L1335222-S1" synset="wikidata-rn-L1335222-S1" ili="wikidata-rn-L1335222-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335234">
+      <Lemma writtenForm="Mirongo itanu na gatatu" partOfSpeech="number"/>
+      <Sense id="L1335234-S1" synset="wikidata-rn-L1335234-S1" ili="wikidata-rn-L1335234-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1401886">
+      <Lemma writtenForm="na" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1401886-S1" synset="wikidata-rn-L1401886-S1" ili="wikidata-rn-L1401886-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1334796">
+      <Lemma writtenForm="Mirongo ine" partOfSpeech="number"/>
+      <Sense id="L1334796-S1" synset="wikidata-rn-L1334796-S1" ili="wikidata-rn-L1334796-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1334796-S2" synset="wikidata-rn-L1334796-S2" ili="wikidata-rn-L1334796-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335221">
+      <Lemma writtenForm="Mirongo ine na gatanu" partOfSpeech="number"/>
+      <Sense id="L1335221-S1" synset="wikidata-rn-L1335221-S1" ili="wikidata-rn-L1335221-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335223">
+      <Lemma writtenForm="Mirongo ine n&apos;indwi" partOfSpeech="number"/>
+      <Sense id="L1335223-S1" synset="wikidata-rn-L1335223-S1" ili="wikidata-rn-L1335223-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335235">
+      <Lemma writtenForm="Mirongo itanu na kane" partOfSpeech="number"/>
+      <Sense id="L1335235-S1" synset="wikidata-rn-L1335235-S1" ili="wikidata-rn-L1335235-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335226">
+      <Lemma writtenForm="Mirongo itanu" partOfSpeech="number"/>
+      <Sense id="L1335226-S1" synset="wikidata-rn-L1335226-S1" ili="wikidata-rn-L1335226-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335233">
+      <Lemma writtenForm="Mirongo itanu na kabiri" partOfSpeech="number"/>
+      <Sense id="L1335233-S1" synset="wikidata-rn-L1335233-S1" ili="wikidata-rn-L1335233-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335239">
+      <Lemma writtenForm="Mirongo itanu na gatandatu" partOfSpeech="number"/>
+      <Sense id="L1335239-S1" synset="wikidata-rn-L1335239-S1" ili="wikidata-rn-L1335239-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-rn-L1335101-S1" ili="wikidata-rn-L1335101-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335224-S1" ili="wikidata-rn-L1335224-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335232-S1" ili="wikidata-rn-L1335232-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1401885-S1" ili="wikidata-rn-L1401885-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1401885-S2" ili="wikidata-rn-L1401885-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335241-S1" ili="wikidata-rn-L1335241-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335225-S1" ili="wikidata-rn-L1335225-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335240-S1" ili="wikidata-rn-L1335240-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335243-S1" ili="wikidata-rn-L1335243-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335244-S1" ili="wikidata-rn-L1335244-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335098-S1" ili="wikidata-rn-L1335098-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335098-S2" ili="wikidata-rn-L1335098-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335099-S1" ili="wikidata-rn-L1335099-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335099-S2" ili="wikidata-rn-L1335099-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335102-S1" ili="wikidata-rn-L1335102-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335238-S1" ili="wikidata-rn-L1335238-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1336791-S1" ili="wikidata-rn-L1336791-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335222-S1" ili="wikidata-rn-L1335222-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335234-S1" ili="wikidata-rn-L1335234-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1401886-S1" ili="wikidata-rn-L1401886-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1334796-S1" ili="wikidata-rn-L1334796-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1334796-S2" ili="wikidata-rn-L1334796-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335221-S1" ili="wikidata-rn-L1335221-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335223-S1" ili="wikidata-rn-L1335223-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335235-S1" ili="wikidata-rn-L1335235-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335226-S1" ili="wikidata-rn-L1335226-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335233-S1" ili="wikidata-rn-L1335233-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-rn-L1335239-S1" ili="wikidata-rn-L1335239-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

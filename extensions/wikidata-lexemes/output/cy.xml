@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-cy"
+                    label="Wikidata CY Lexemes Extension"
+                    language="cy"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-cy" version="1.4"/>
+    <LexicalEntry id="L644140">
+      <Lemma writtenForm="pymtheg" partOfSpeech="numeral"/>
+      <Sense id="L644140-S1" synset="wikidata-cy-L644140-S1" ili="wikidata-cy-L644140-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644145">
+      <Lemma writtenForm="ugain" partOfSpeech="numeral"/>
+      <Sense id="L644145-S1" synset="wikidata-cy-L644145-S1" ili="wikidata-cy-L644145-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644127">
+      <Lemma writtenForm="tri" partOfSpeech="numeral"/>
+      <Sense id="L644127-S1" synset="wikidata-cy-L644127-S1" ili="wikidata-cy-L644127-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644132">
+      <Lemma writtenForm="wyth" partOfSpeech="numeral"/>
+      <Sense id="L644132-S1" synset="wikidata-cy-L644132-S1" ili="wikidata-cy-L644132-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644133">
+      <Lemma writtenForm="naw" partOfSpeech="numeral"/>
+      <Sense id="L644133-S1" synset="wikidata-cy-L644133-S1" ili="wikidata-cy-L644133-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644138">
+      <Lemma writtenForm="tri ar ddeg" partOfSpeech="numeral"/>
+      <Sense id="L644138-S1" synset="wikidata-cy-L644138-S1" ili="wikidata-cy-L644138-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644149">
+      <Lemma writtenForm="biliwn" partOfSpeech="numeral"/>
+      <Sense id="L644149-S1" synset="wikidata-cy-L644149-S1" ili="wikidata-cy-L644149-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644131">
+      <Lemma writtenForm="saith" partOfSpeech="numeral"/>
+      <Sense id="L644131-S1" synset="wikidata-cy-L644131-S1" ili="wikidata-cy-L644131-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644141">
+      <Lemma writtenForm="un ar bymtheg" partOfSpeech="numeral"/>
+      <Sense id="L644141-S1" synset="wikidata-cy-L644141-S1" ili="wikidata-cy-L644141-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644134">
+      <Lemma writtenForm="deg" partOfSpeech="numeral"/>
+      <Sense id="L644134-S1" synset="wikidata-cy-L644134-S1" ili="wikidata-cy-L644134-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644137">
+      <Lemma writtenForm="deuddeg" partOfSpeech="numeral"/>
+      <Sense id="L644137-S1" synset="wikidata-cy-L644137-S1" ili="wikidata-cy-L644137-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644148">
+      <Lemma writtenForm="miliwn" partOfSpeech="numeral"/>
+      <Sense id="L644148-S1" synset="wikidata-cy-L644148-S1" ili="wikidata-cy-L644148-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644129">
+      <Lemma writtenForm="pump" partOfSpeech="numeral"/>
+      <Sense id="L644129-S1" synset="wikidata-cy-L644129-S1" ili="wikidata-cy-L644129-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644143">
+      <Lemma writtenForm="deunaw" partOfSpeech="numeral"/>
+      <Sense id="L644143-S1" synset="wikidata-cy-L644143-S1" ili="wikidata-cy-L644143-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644144">
+      <Lemma writtenForm="pedwar ar bymtheg" partOfSpeech="numeral"/>
+      <Sense id="L644144-S1" synset="wikidata-cy-L644144-S1" ili="wikidata-cy-L644144-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644147">
+      <Lemma writtenForm="mil" partOfSpeech="numeral"/>
+      <Sense id="L644147-S1" synset="wikidata-cy-L644147-S1" ili="wikidata-cy-L644147-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644152">
+      <Lemma writtenForm="pedwar cant" partOfSpeech="numeral"/>
+      <Sense id="L644152-S1" synset="wikidata-cy-L644152-S1" ili="wikidata-cy-L644152-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644153">
+      <Lemma writtenForm="pum cant" partOfSpeech="numeral"/>
+      <Sense id="L644153-S1" synset="wikidata-cy-L644153-S1" ili="wikidata-cy-L644153-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644125">
+      <Lemma writtenForm="un" partOfSpeech="numeral"/>
+      <Sense id="L644125-S1" synset="wikidata-cy-L644125-S1" ili="wikidata-cy-L644125-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644150">
+      <Lemma writtenForm="dau gant" partOfSpeech="numeral"/>
+      <Sense id="L644150-S1" synset="wikidata-cy-L644150-S1" ili="wikidata-cy-L644150-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644126">
+      <Lemma writtenForm="dau" partOfSpeech="numeral"/>
+      <Sense id="L644126-S1" synset="wikidata-cy-L644126-S1" ili="wikidata-cy-L644126-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644136">
+      <Lemma writtenForm="un ar ddeg" partOfSpeech="numeral"/>
+      <Sense id="L644136-S1" synset="wikidata-cy-L644136-S1" ili="wikidata-cy-L644136-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644139">
+      <Lemma writtenForm="pedwar ar ddeg" partOfSpeech="numeral"/>
+      <Sense id="L644139-S1" synset="wikidata-cy-L644139-S1" ili="wikidata-cy-L644139-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408848">
+      <Lemma writtenForm="y" partOfSpeech="definite article"/>
+      <Sense id="L1408848-S1" synset="wikidata-cy-L1408848-S1" ili="wikidata-cy-L1408848-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644128">
+      <Lemma writtenForm="pedwar" partOfSpeech="numeral"/>
+      <Sense id="L644128-S1" synset="wikidata-cy-L644128-S1" ili="wikidata-cy-L644128-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644130">
+      <Lemma writtenForm="chwech" partOfSpeech="numeral"/>
+      <Sense id="L644130-S1" synset="wikidata-cy-L644130-S1" ili="wikidata-cy-L644130-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644142">
+      <Lemma writtenForm="dau ar bymtheg" partOfSpeech="numeral"/>
+      <Sense id="L644142-S1" synset="wikidata-cy-L644142-S1" ili="wikidata-cy-L644142-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L644151">
+      <Lemma writtenForm="tri chant" partOfSpeech="numeral"/>
+      <Sense id="L644151-S1" synset="wikidata-cy-L644151-S1" ili="wikidata-cy-L644151-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-cy-L644140-S1" ili="wikidata-cy-L644140-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644145-S1" ili="wikidata-cy-L644145-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644127-S1" ili="wikidata-cy-L644127-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644132-S1" ili="wikidata-cy-L644132-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644133-S1" ili="wikidata-cy-L644133-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644138-S1" ili="wikidata-cy-L644138-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644149-S1" ili="wikidata-cy-L644149-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644131-S1" ili="wikidata-cy-L644131-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644141-S1" ili="wikidata-cy-L644141-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644134-S1" ili="wikidata-cy-L644134-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644137-S1" ili="wikidata-cy-L644137-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644148-S1" ili="wikidata-cy-L644148-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644129-S1" ili="wikidata-cy-L644129-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644143-S1" ili="wikidata-cy-L644143-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644144-S1" ili="wikidata-cy-L644144-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644147-S1" ili="wikidata-cy-L644147-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644152-S1" ili="wikidata-cy-L644152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644153-S1" ili="wikidata-cy-L644153-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644125-S1" ili="wikidata-cy-L644125-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644150-S1" ili="wikidata-cy-L644150-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644126-S1" ili="wikidata-cy-L644126-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644136-S1" ili="wikidata-cy-L644136-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644139-S1" ili="wikidata-cy-L644139-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L1408848-S1" ili="wikidata-cy-L1408848-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644128-S1" ili="wikidata-cy-L644128-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644130-S1" ili="wikidata-cy-L644130-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644142-S1" ili="wikidata-cy-L644142-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-cy-L644151-S1" ili="wikidata-cy-L644151-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

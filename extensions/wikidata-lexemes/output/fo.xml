@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-fo"
+                    label="Wikidata FO Lexemes Extension"
+                    language="fo"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-fo" version="1.4"/>
+    <LexicalEntry id="L941796">
+      <Lemma writtenForm="eg" partOfSpeech="personal pronoun"/>
+      <Sense id="L941796-S1" synset="wikidata-fo-L941796-S1" ili="wikidata-fo-L941796-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117557">
+      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Sense id="L1117557-S1" synset="wikidata-fo-L1117557-S1" ili="wikidata-fo-L1117557-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-fo-L1117602-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119173">
+      <Lemma writtenForm="fýra" partOfSpeech="numeral"/>
+      <Sense id="L1119173-S1" synset="wikidata-fo-L1119173-S1" ili="wikidata-fo-L1119173-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1830">
+      <Lemma writtenForm="hvat" partOfSpeech="pronoun"/>
+      <Sense id="L1830-S1" synset="wikidata-fo-L1830-S1" ili="wikidata-fo-L1830-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378882">
+      <Lemma writtenForm="tveir" partOfSpeech="numeral"/>
+      <Sense id="L1378882-S1" synset="wikidata-fo-L1378882-S1" ili="wikidata-fo-L1378882-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378883">
+      <Lemma writtenForm="tríggir" partOfSpeech="numeral"/>
+      <Sense id="L1378883-S1" synset="wikidata-fo-L1378883-S1" ili="wikidata-fo-L1378883-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119476">
+      <Lemma writtenForm="seytjan" partOfSpeech="numeral"/>
+      <Sense id="L1119476-S1" synset="wikidata-fo-L1119476-S1" ili="wikidata-fo-L1119476-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378891">
+      <Lemma writtenForm="tretivu" partOfSpeech="numeral"/>
+      <Sense id="L1378891-S1" synset="wikidata-fo-L1378891-S1" ili="wikidata-fo-L1378891-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L720854">
+      <Lemma writtenForm="ein" partOfSpeech="numeral"/>
+      <Sense id="L720854-S1" synset="wikidata-fo-L720854-S1" ili="wikidata-fo-L720854-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1117602">
+      <Lemma writtenForm="nei" partOfSpeech="interjection"/>
+      <Sense id="L1117602-S1" synset="wikidata-fo-L1117602-S1" ili="wikidata-fo-L1117602-S1">
+        <Definition></Definition>
+        <SenseRelation relType="antonym" target="wikidata-fo-L1117557-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378888">
+      <Lemma writtenForm="ellivu" partOfSpeech="numeral"/>
+      <Sense id="L1378888-S1" synset="wikidata-fo-L1378888-S1" ili="wikidata-fo-L1378888-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119475">
+      <Lemma writtenForm="seks" partOfSpeech="numeral"/>
+      <Sense id="L1119475-S1" synset="wikidata-fo-L1119475-S1" ili="wikidata-fo-L1119475-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378886">
+      <Lemma writtenForm="áttandi" partOfSpeech="numeral"/>
+      <Sense id="L1378886-S1" synset="wikidata-fo-L1378886-S1" ili="wikidata-fo-L1378886-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119172">
+      <Lemma writtenForm="fimm" partOfSpeech="numeral"/>
+      <Sense id="L1119172-S1" synset="wikidata-fo-L1119172-S1" ili="wikidata-fo-L1119172-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119473">
+      <Lemma writtenForm="tíggju" partOfSpeech="numeral"/>
+      <Sense id="L1119473-S1" synset="wikidata-fo-L1119473-S1" ili="wikidata-fo-L1119473-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378885">
+      <Lemma writtenForm="átta" partOfSpeech="numeral"/>
+      <Sense id="L1378885-S1" synset="wikidata-fo-L1378885-S1" ili="wikidata-fo-L1378885-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378887">
+      <Lemma writtenForm="níggju" partOfSpeech="numeral"/>
+      <Sense id="L1378887-S1" synset="wikidata-fo-L1378887-S1" ili="wikidata-fo-L1378887-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L5982">
+      <Lemma writtenForm="millum" partOfSpeech="preposition"/>
+      <Sense id="L5982-S1" synset="wikidata-fo-L5982-S1" ili="wikidata-fo-L5982-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119472">
+      <Lemma writtenForm="tólv" partOfSpeech="numeral"/>
+      <Sense id="L1119472-S1" synset="wikidata-fo-L1119472-S1" ili="wikidata-fo-L1119472-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119477">
+      <Lemma writtenForm="seytjandi" partOfSpeech="numeral"/>
+      <Sense id="L1119477-S1" synset="wikidata-fo-L1119477-S1" ili="wikidata-fo-L1119477-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378884">
+      <Lemma writtenForm="sjey" partOfSpeech="numeral"/>
+      <Sense id="L1378884-S1" synset="wikidata-fo-L1378884-S1" ili="wikidata-fo-L1378884-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378890">
+      <Lemma writtenForm="trettan" partOfSpeech="numeral"/>
+      <Sense id="L1378890-S1" synset="wikidata-fo-L1378890-S1" ili="wikidata-fo-L1378890-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-fo-L941796-S1" ili="wikidata-fo-L941796-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1117557-S1" ili="wikidata-fo-L1117557-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119173-S1" ili="wikidata-fo-L1119173-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1830-S1" ili="wikidata-fo-L1830-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378882-S1" ili="wikidata-fo-L1378882-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378883-S1" ili="wikidata-fo-L1378883-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119476-S1" ili="wikidata-fo-L1119476-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378891-S1" ili="wikidata-fo-L1378891-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L720854-S1" ili="wikidata-fo-L720854-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1117602-S1" ili="wikidata-fo-L1117602-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378888-S1" ili="wikidata-fo-L1378888-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119475-S1" ili="wikidata-fo-L1119475-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378886-S1" ili="wikidata-fo-L1378886-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119172-S1" ili="wikidata-fo-L1119172-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119473-S1" ili="wikidata-fo-L1119473-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378885-S1" ili="wikidata-fo-L1378885-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378887-S1" ili="wikidata-fo-L1378887-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L5982-S1" ili="wikidata-fo-L5982-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119472-S1" ili="wikidata-fo-L1119472-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1119477-S1" ili="wikidata-fo-L1119477-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378884-S1" ili="wikidata-fo-L1378884-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-fo-L1378890-S1" ili="wikidata-fo-L1378890-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

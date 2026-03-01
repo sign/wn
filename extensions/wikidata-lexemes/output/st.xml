@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-st"
+                    label="Wikidata ST Lexemes Extension"
+                    language="st"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-st" version="1.4"/>
+    <LexicalEntry id="L1337287">
+      <Lemma writtenForm="leshome" partOfSpeech="numeral"/>
+      <Sense id="L1337287-S1" synset="wikidata-st-L1337287-S1" ili="wikidata-st-L1337287-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337282">
+      <Lemma writtenForm="hlano" partOfSpeech="numeral"/>
+      <Sense id="L1337282-S1" synset="wikidata-st-L1337282-S1" ili="wikidata-st-L1337282-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337239">
+      <Lemma writtenForm="empa" partOfSpeech="conjunction"/>
+      <Sense id="L1337239-S1" synset="wikidata-st-L1337239-S1" ili="wikidata-st-L1337239-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337289">
+      <Lemma writtenForm="sekete" partOfSpeech="numeral"/>
+      <Sense id="L1337289-S1" synset="wikidata-st-L1337289-S1" ili="wikidata-st-L1337289-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335434">
+      <Lemma writtenForm="le" partOfSpeech="conjunction"/>
+      <Sense id="L1335434-S1" synset="wikidata-st-L1335434-S1" ili="wikidata-st-L1335434-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337286">
+      <Lemma writtenForm="robong" partOfSpeech="numeral"/>
+      <Sense id="L1337286-S1" synset="wikidata-st-L1337286-S1" ili="wikidata-st-L1337286-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337280">
+      <Lemma writtenForm="tharo" partOfSpeech="numeral"/>
+      <Sense id="L1337280-S1" synset="wikidata-st-L1337280-S1" ili="wikidata-st-L1337280-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1337284">
+      <Lemma writtenForm="supa" partOfSpeech="numeral"/>
+      <Sense id="L1337284-S1" synset="wikidata-st-L1337284-S1" ili="wikidata-st-L1337284-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-st-L1337287-S1" ili="wikidata-st-L1337287-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337282-S1" ili="wikidata-st-L1337282-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337239-S1" ili="wikidata-st-L1337239-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337289-S1" ili="wikidata-st-L1337289-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1335434-S1" ili="wikidata-st-L1335434-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337286-S1" ili="wikidata-st-L1337286-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337280-S1" ili="wikidata-st-L1337280-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-st-L1337284-S1" ili="wikidata-st-L1337284-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-sk"
+                    label="Wikidata SK Lexemes Extension"
+                    language="sk"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-sk" version="1.4"/>
+    <LexicalEntry id="L245779">
+      <Lemma writtenForm="miliarda" partOfSpeech="numeral"/>
+      <Sense id="L245779-S1" synset="wikidata-sk-L245779-S1" ili="wikidata-sk-L245779-S1">
+        <Definition>číslo označujúce tisíc miliónov</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L495672">
+      <Lemma writtenForm="a" partOfSpeech="grammatical particle"/>
+      <Sense id="L495672-S1" synset="wikidata-sk-L495672-S1" ili="wikidata-sk-L495672-S1">
+        <Definition>spätosť s kontextom</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L495922">
+      <Lemma writtenForm="dosť" partOfSpeech="grammatical particle"/>
+      <Sense id="L495922-S1" synset="wikidata-sk-L495922-S1" ili="wikidata-sk-L495922-S1">
+        <Definition>v miere</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238311">
+      <Lemma writtenForm="ale" partOfSpeech="grammatical particle"/>
+      <Sense id="L238311-S1" synset="wikidata-sk-L238311-S1" ili="wikidata-sk-L238311-S1">
+        <Definition>zdôraznenie emocionálnosti</Definition>
+      </Sense>
+      <Sense id="L238311-S2" synset="wikidata-sk-L238311-S2" ili="wikidata-sk-L238311-S2">
+        <Definition>zdôraznenie výzvy</Definition>
+      </Sense>
+      <Sense id="L238311-S3" synset="wikidata-sk-L238311-S3" ili="wikidata-sk-L238311-S3">
+        <Definition>odporovací význam</Definition>
+      </Sense>
+      <Sense id="L238311-S4" synset="wikidata-sk-L238311-S4" ili="wikidata-sk-L238311-S4">
+        <Definition>zdôraznenie odporu</Definition>
+      </Sense>
+      <Sense id="L238311-S5" synset="wikidata-sk-L238311-S5" ili="wikidata-sk-L238311-S5">
+        <Definition>zdôraznenie kladnej odpovede</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238312">
+      <Lemma writtenForm="ale" partOfSpeech="interjection"/>
+      <Sense id="L238312-S1" synset="wikidata-sk-L238312-S1" ili="wikidata-sk-L238312-S1">
+        <Definition>začudovanie</Definition>
+      </Sense>
+      <Sense id="L238312-S2" synset="wikidata-sk-L238312-S2" ili="wikidata-sk-L238312-S2">
+        <Definition>varovanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238358">
+      <Lemma writtenForm="až" partOfSpeech="conjunction"/>
+      <Sense id="L238358-S1" synset="wikidata-sk-L238358-S1" ili="wikidata-sk-L238358-S1">
+        <Definition>v účinkovej vete</Definition>
+      </Sense>
+      <Sense id="L238358-S2" synset="wikidata-sk-L238358-S2" ili="wikidata-sk-L238358-S2">
+        <Definition>v podmienkovej vete</Definition>
+      </Sense>
+      <Sense id="L238358-S3" synset="wikidata-sk-L238358-S3" ili="wikidata-sk-L238358-S3">
+        <Definition>v časovej vete</Definition>
+      </Sense>
+      <Sense id="L238358-S4" synset="wikidata-sk-L238358-S4" ili="wikidata-sk-L238358-S4">
+        <Definition>stupňovanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238337">
+      <Lemma writtenForm="jeden" partOfSpeech="numeral"/>
+      <Sense id="L238337-S1" synset="wikidata-sk-L238337-S1" ili="wikidata-sk-L238337-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238357">
+      <Lemma writtenForm="až" partOfSpeech="grammatical particle"/>
+      <Sense id="L238357-S1" synset="wikidata-sk-L238357-S1" ili="wikidata-sk-L238357-S1">
+        <Definition>zdôrazňuje čas</Definition>
+      </Sense>
+      <Sense id="L238357-S2" synset="wikidata-sk-L238357-S2" ili="wikidata-sk-L238357-S2">
+        <Definition>zdôrazňuje miesto</Definition>
+      </Sense>
+      <Sense id="L238357-S3" synset="wikidata-sk-L238357-S3" ili="wikidata-sk-L238357-S3">
+        <Definition>rozpätie</Definition>
+      </Sense>
+      <Sense id="L238357-S4" synset="wikidata-sk-L238357-S4" ili="wikidata-sk-L238357-S4">
+        <Definition>v extrémnej miere</Definition>
+      </Sense>
+      <Sense id="L238357-S5" synset="wikidata-sk-L238357-S5" ili="wikidata-sk-L238357-S5">
+        <Definition>konečnosť</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245549">
+      <Lemma writtenForm="milión" partOfSpeech="numeral"/>
+      <Sense id="L245549-S1" synset="wikidata-sk-L245549-S1" ili="wikidata-sk-L245549-S1">
+        <Definition>číslo označujúce tisíc tisícov</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L251103">
+      <Lemma writtenForm="akurát" partOfSpeech="grammatical particle"/>
+      <Sense id="L251103-S1" synset="wikidata-sk-L251103-S1" ili="wikidata-sk-L251103-S1">
+        <Definition>výlučnosť</Definition>
+      </Sense>
+      <Sense id="L251103-S2" synset="wikidata-sk-L251103-S2" ili="wikidata-sk-L251103-S2">
+        <Definition>zápor</Definition>
+      </Sense>
+      <Sense id="L251103-S3" synset="wikidata-sk-L251103-S3" ili="wikidata-sk-L251103-S3">
+        <Definition>negatívny postoj</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L403924">
+      <Lemma writtenForm="dovnútra" partOfSpeech="preposition"/>
+      <Sense id="L403924-S1" synset="wikidata-sk-L403924-S1" ili="wikidata-sk-L403924-S1">
+        <Definition>smerovanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L465239">
+      <Lemma writtenForm="dovedna" partOfSpeech="grammatical particle"/>
+      <Sense id="L465239-S1" synset="wikidata-sk-L465239-S1" ili="wikidata-sk-L465239-S1">
+        <Definition>v podstate</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480799">
+      <Lemma writtenForm="cup" partOfSpeech="interjection"/>
+      <Sense id="L480799-S1" synset="wikidata-sk-L480799-S1" ili="wikidata-sk-L480799-S1">
+        <Definition>zvuk</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238287">
+      <Lemma writtenForm="a" partOfSpeech="conjunction"/>
+      <Sense id="L238287-S1" synset="wikidata-sk-L238287-S1" ili="wikidata-sk-L238287-S1">
+        <Definition>zlučovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238287-S2" synset="wikidata-sk-L238287-S2" ili="wikidata-sk-L238287-S2">
+        <Definition>odporovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238287-S3" synset="wikidata-sk-L238287-S3" ili="wikidata-sk-L238287-S3">
+        <Definition>prípustkový vzťah</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238302">
+      <Lemma writtenForm="ako" partOfSpeech="conjunction"/>
+      <Sense id="L238302-S1" synset="wikidata-sk-L238302-S1" ili="wikidata-sk-L238302-S1">
+        <Definition>prirovnanie</Definition>
+      </Sense>
+      <Sense id="L238302-S2" synset="wikidata-sk-L238302-S2" ili="wikidata-sk-L238302-S2">
+        <Definition>porovnanie</Definition>
+      </Sense>
+      <Sense id="L238302-S3" synset="wikidata-sk-L238302-S3" ili="wikidata-sk-L238302-S3">
+        <Definition>v predemtovej vete</Definition>
+      </Sense>
+      <Sense id="L238302-S4" synset="wikidata-sk-L238302-S4" ili="wikidata-sk-L238302-S4">
+        <Definition>v doplnku</Definition>
+      </Sense>
+      <Sense id="L238302-S5" synset="wikidata-sk-L238302-S5" ili="wikidata-sk-L238302-S5">
+        <Definition>v prívlastku</Definition>
+      </Sense>
+      <Sense id="L238302-S6" synset="wikidata-sk-L238302-S6" ili="wikidata-sk-L238302-S6">
+        <Definition>v časovej vete</Definition>
+      </Sense>
+      <Sense id="L238302-S7" synset="wikidata-sk-L238302-S7" ili="wikidata-sk-L238302-S7">
+        <Definition>uvádza vsuvku</Definition>
+      </Sense>
+      <Sense id="L238302-S8" synset="wikidata-sk-L238302-S8" ili="wikidata-sk-L238302-S8">
+        <Definition>uvádza zoznam</Definition>
+      </Sense>
+      <Sense id="L238302-S9" synset="wikidata-sk-L238302-S9" ili="wikidata-sk-L238302-S9">
+        <Definition>rovnakosť</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238303">
+      <Lemma writtenForm="ako" partOfSpeech="pronoun"/>
+      <Sense id="L238303-S1" synset="wikidata-sk-L238303-S1" ili="wikidata-sk-L238303-S1">
+        <Definition>otázka na spôsob</Definition>
+      </Sense>
+      <Sense id="L238303-S2" synset="wikidata-sk-L238303-S2" ili="wikidata-sk-L238303-S2">
+        <Definition>v zvolacích vetách</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L249657">
+      <Lemma writtenForm="doslova" partOfSpeech="grammatical particle"/>
+      <Sense id="L249657-S1" synset="wikidata-sk-L249657-S1" ili="wikidata-sk-L249657-S1">
+        <Definition>zdôraznenie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L495921">
+      <Lemma writtenForm="dosť" partOfSpeech="interjection"/>
+      <Sense id="L495921-S1" synset="wikidata-sk-L495921-S1" ili="wikidata-sk-L495921-S1">
+        <Definition>výzva na ukončenie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238299">
+      <Lemma writtenForm="aj" partOfSpeech="grammatical particle"/>
+      <Sense id="L238299-S1" synset="wikidata-sk-L238299-S1" ili="wikidata-sk-L238299-S1">
+        <Definition>zdôraznenie</Definition>
+      </Sense>
+      <Sense id="L238299-S2" synset="wikidata-sk-L238299-S2" ili="wikidata-sk-L238299-S2">
+        <Definition>potvrdenie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238300">
+      <Lemma writtenForm="aj" partOfSpeech="interjection"/>
+      <Sense id="L238300-S1" synset="wikidata-sk-L238300-S1" ili="wikidata-sk-L238300-S1">
+        <Definition>prekvapenie</Definition>
+      </Sense>
+      <Sense id="L238300-S2" synset="wikidata-sk-L238300-S2" ili="wikidata-sk-L238300-S2">
+        <Definition>rozhorčenie</Definition>
+      </Sense>
+      <Sense id="L238300-S3" synset="wikidata-sk-L238300-S3" ili="wikidata-sk-L238300-S3">
+        <Definition>radosť</Definition>
+      </Sense>
+      <Sense id="L238300-S4" synset="wikidata-sk-L238300-S4" ili="wikidata-sk-L238300-S4">
+        <Definition>nespokojnosť</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238344">
+      <Lemma writtenForm="ani" partOfSpeech="grammatical particle"/>
+      <Sense id="L238344-S1" synset="wikidata-sk-L238344-S1" ili="wikidata-sk-L238344-S1">
+        <Definition>zdôraznenie</Definition>
+      </Sense>
+      <Sense id="L238344-S2" synset="wikidata-sk-L238344-S2" ili="wikidata-sk-L238344-S2">
+        <Definition>nadviazanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L403319">
+      <Lemma writtenForm="dokopy" partOfSpeech="grammatical particle"/>
+      <Sense id="L403319-S1" synset="wikidata-sk-L403319-S1" ili="wikidata-sk-L403319-S1">
+        <Definition>v podstate</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L449271">
+      <Lemma writtenForm="dočerta" partOfSpeech="interjection"/>
+      <Sense id="L449271-S1" synset="wikidata-sk-L449271-S1" ili="wikidata-sk-L449271-S1">
+        <Definition>hnev</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238304">
+      <Lemma writtenForm="ako" partOfSpeech="grammatical particle"/>
+      <Sense id="L238304-S1" synset="wikidata-sk-L238304-S1" ili="wikidata-sk-L238304-S1">
+        <Definition>váhanie</Definition>
+      </Sense>
+      <Sense id="L238304-S2" synset="wikidata-sk-L238304-S2" ili="wikidata-sk-L238304-S2">
+        <Definition>uvádza vsuvku</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L249480">
+      <Lemma writtenForm="dolu" partOfSpeech="preposition"/>
+      <Sense id="L249480-S1" synset="wikidata-sk-L249480-S1" ili="wikidata-sk-L249480-S1">
+        <Definition>smerovanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L410677">
+      <Lemma writtenForm="doparoma" partOfSpeech="interjection"/>
+      <Sense id="L410677-S1" synset="wikidata-sk-L410677-S1" ili="wikidata-sk-L410677-S1">
+        <Definition>nadávka</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L411525">
+      <Lemma writtenForm="beda" partOfSpeech="interjection"/>
+      <Sense id="L411525-S1" synset="wikidata-sk-L411525-S1" ili="wikidata-sk-L411525-S1">
+        <Definition>negatívna emócia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238298">
+      <Lemma writtenForm="aj" partOfSpeech="conjunction"/>
+      <Sense id="L238298-S1" synset="wikidata-sk-L238298-S1" ili="wikidata-sk-L238298-S1">
+        <Definition>stupňovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238298-S2" synset="wikidata-sk-L238298-S2" ili="wikidata-sk-L238298-S2">
+        <Definition>zlučovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238298-S3" synset="wikidata-sk-L238298-S3" ili="wikidata-sk-L238298-S3">
+        <Definition>podraďovacia spojka</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238310">
+      <Lemma writtenForm="ale" partOfSpeech="conjunction"/>
+      <Sense id="L238310-S1" synset="wikidata-sk-L238310-S1" ili="wikidata-sk-L238310-S1">
+        <Definition>odporovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238310-S2" synset="wikidata-sk-L238310-S2" ili="wikidata-sk-L238310-S2">
+        <Definition>stupňovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238310-S3" synset="wikidata-sk-L238310-S3" ili="wikidata-sk-L238310-S3">
+        <Definition>odporovací/prípustkový vzťah</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238343">
+      <Lemma writtenForm="ani" partOfSpeech="conjunction"/>
+      <Sense id="L238343-S1" synset="wikidata-sk-L238343-S1" ili="wikidata-sk-L238343-S1">
+        <Definition>zlučovací vzťah</Definition>
+      </Sense>
+      <Sense id="L238343-S2" synset="wikidata-sk-L238343-S2" ili="wikidata-sk-L238343-S2">
+        <Definition>vylúčenie oboch možnosti</Definition>
+      </Sense>
+      <Sense id="L238343-S3" synset="wikidata-sk-L238343-S3" ili="wikidata-sk-L238343-S3">
+        <Definition>stupňovanie</Definition>
+      </Sense>
+      <Sense id="L238343-S4" synset="wikidata-sk-L238343-S4" ili="wikidata-sk-L238343-S4">
+        <Definition>prirovnanie</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L238349">
+      <Lemma writtenForm="ešte" partOfSpeech="grammatical particle"/>
+      <Sense id="L238349-S1" synset="wikidata-sk-L238349-S1" ili="wikidata-sk-L238349-S1">
+        <Definition>zdôraznenie</Definition>
+      </Sense>
+      <Sense id="L238349-S2" synset="wikidata-sk-L238349-S2" ili="wikidata-sk-L238349-S2">
+        <Definition>možno</Definition>
+      </Sense>
+      <Sense id="L238349-S3" synset="wikidata-sk-L238349-S3" ili="wikidata-sk-L238349-S3">
+        <Definition>najviac v medziach</Definition>
+      </Sense>
+      <Sense id="L238349-S4" synset="wikidata-sk-L238349-S4" ili="wikidata-sk-L238349-S4">
+        <Definition>dokonca</Definition>
+      </Sense>
+      <Sense id="L238349-S5" synset="wikidata-sk-L238349-S5" ili="wikidata-sk-L238349-S5">
+        <Definition>vystupňovanie miery</Definition>
+      </Sense>
+      <Sense id="L238349-S6" synset="wikidata-sk-L238349-S6" ili="wikidata-sk-L238349-S6">
+        <Definition>okrem toho</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245756">
+      <Lemma writtenForm="dosť" partOfSpeech="numeral"/>
+      <Sense id="L245756-S1" synset="wikidata-sk-L245756-S1" ili="wikidata-sk-L245756-S1">
+        <Definition>postačujúco veľa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L245701">
+      <Lemma writtenForm="celkom" partOfSpeech="grammatical particle"/>
+      <Sense id="L245701-S1" synset="wikidata-sk-L245701-S1" ili="wikidata-sk-L245701-S1">
+        <Definition>pomerne</Definition>
+      </Sense>
+      <Sense id="L245701-S2" synset="wikidata-sk-L245701-S2" ili="wikidata-sk-L245701-S2">
+        <Definition>vôbec</Definition>
+      </Sense>
+      <Sense id="L245701-S3" synset="wikidata-sk-L245701-S3" ili="wikidata-sk-L245701-S3">
+        <Definition>pradepodobne</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-sk-L245779-S1" ili="wikidata-sk-L245779-S1">
+      <Definition>číslo označujúce tisíc miliónov</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L495672-S1" ili="wikidata-sk-L495672-S1">
+      <Definition>spätosť s kontextom</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L495922-S1" ili="wikidata-sk-L495922-S1">
+      <Definition>v miere</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238311-S1" ili="wikidata-sk-L238311-S1">
+      <Definition>zdôraznenie emocionálnosti</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238311-S2" ili="wikidata-sk-L238311-S2">
+      <Definition>zdôraznenie výzvy</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238311-S3" ili="wikidata-sk-L238311-S3">
+      <Definition>odporovací význam</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238311-S4" ili="wikidata-sk-L238311-S4">
+      <Definition>zdôraznenie odporu</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238311-S5" ili="wikidata-sk-L238311-S5">
+      <Definition>zdôraznenie kladnej odpovede</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238312-S1" ili="wikidata-sk-L238312-S1">
+      <Definition>začudovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238312-S2" ili="wikidata-sk-L238312-S2">
+      <Definition>varovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238358-S1" ili="wikidata-sk-L238358-S1">
+      <Definition>v účinkovej vete</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238358-S2" ili="wikidata-sk-L238358-S2">
+      <Definition>v podmienkovej vete</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238358-S3" ili="wikidata-sk-L238358-S3">
+      <Definition>v časovej vete</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238358-S4" ili="wikidata-sk-L238358-S4">
+      <Definition>stupňovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238337-S1" ili="wikidata-sk-L238337-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238357-S1" ili="wikidata-sk-L238357-S1">
+      <Definition>zdôrazňuje čas</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238357-S2" ili="wikidata-sk-L238357-S2">
+      <Definition>zdôrazňuje miesto</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238357-S3" ili="wikidata-sk-L238357-S3">
+      <Definition>rozpätie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238357-S4" ili="wikidata-sk-L238357-S4">
+      <Definition>v extrémnej miere</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238357-S5" ili="wikidata-sk-L238357-S5">
+      <Definition>konečnosť</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L245549-S1" ili="wikidata-sk-L245549-S1">
+      <Definition>číslo označujúce tisíc tisícov</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L251103-S1" ili="wikidata-sk-L251103-S1">
+      <Definition>výlučnosť</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L251103-S2" ili="wikidata-sk-L251103-S2">
+      <Definition>zápor</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L251103-S3" ili="wikidata-sk-L251103-S3">
+      <Definition>negatívny postoj</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L403924-S1" ili="wikidata-sk-L403924-S1">
+      <Definition>smerovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L465239-S1" ili="wikidata-sk-L465239-S1">
+      <Definition>v podstate</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L480799-S1" ili="wikidata-sk-L480799-S1">
+      <Definition>zvuk</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238287-S1" ili="wikidata-sk-L238287-S1">
+      <Definition>zlučovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238287-S2" ili="wikidata-sk-L238287-S2">
+      <Definition>odporovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238287-S3" ili="wikidata-sk-L238287-S3">
+      <Definition>prípustkový vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S1" ili="wikidata-sk-L238302-S1">
+      <Definition>prirovnanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S2" ili="wikidata-sk-L238302-S2">
+      <Definition>porovnanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S3" ili="wikidata-sk-L238302-S3">
+      <Definition>v predemtovej vete</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S4" ili="wikidata-sk-L238302-S4">
+      <Definition>v doplnku</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S5" ili="wikidata-sk-L238302-S5">
+      <Definition>v prívlastku</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S6" ili="wikidata-sk-L238302-S6">
+      <Definition>v časovej vete</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S7" ili="wikidata-sk-L238302-S7">
+      <Definition>uvádza vsuvku</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S8" ili="wikidata-sk-L238302-S8">
+      <Definition>uvádza zoznam</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238302-S9" ili="wikidata-sk-L238302-S9">
+      <Definition>rovnakosť</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238303-S1" ili="wikidata-sk-L238303-S1">
+      <Definition>otázka na spôsob</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238303-S2" ili="wikidata-sk-L238303-S2">
+      <Definition>v zvolacích vetách</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L249657-S1" ili="wikidata-sk-L249657-S1">
+      <Definition>zdôraznenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L495921-S1" ili="wikidata-sk-L495921-S1">
+      <Definition>výzva na ukončenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238299-S1" ili="wikidata-sk-L238299-S1">
+      <Definition>zdôraznenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238299-S2" ili="wikidata-sk-L238299-S2">
+      <Definition>potvrdenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238300-S1" ili="wikidata-sk-L238300-S1">
+      <Definition>prekvapenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238300-S2" ili="wikidata-sk-L238300-S2">
+      <Definition>rozhorčenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238300-S3" ili="wikidata-sk-L238300-S3">
+      <Definition>radosť</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238300-S4" ili="wikidata-sk-L238300-S4">
+      <Definition>nespokojnosť</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238344-S1" ili="wikidata-sk-L238344-S1">
+      <Definition>zdôraznenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238344-S2" ili="wikidata-sk-L238344-S2">
+      <Definition>nadviazanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L403319-S1" ili="wikidata-sk-L403319-S1">
+      <Definition>v podstate</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L449271-S1" ili="wikidata-sk-L449271-S1">
+      <Definition>hnev</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238304-S1" ili="wikidata-sk-L238304-S1">
+      <Definition>váhanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238304-S2" ili="wikidata-sk-L238304-S2">
+      <Definition>uvádza vsuvku</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L249480-S1" ili="wikidata-sk-L249480-S1">
+      <Definition>smerovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L410677-S1" ili="wikidata-sk-L410677-S1">
+      <Definition>nadávka</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L411525-S1" ili="wikidata-sk-L411525-S1">
+      <Definition>negatívna emócia</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238298-S1" ili="wikidata-sk-L238298-S1">
+      <Definition>stupňovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238298-S2" ili="wikidata-sk-L238298-S2">
+      <Definition>zlučovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238298-S3" ili="wikidata-sk-L238298-S3">
+      <Definition>podraďovacia spojka</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238310-S1" ili="wikidata-sk-L238310-S1">
+      <Definition>odporovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238310-S2" ili="wikidata-sk-L238310-S2">
+      <Definition>stupňovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238310-S3" ili="wikidata-sk-L238310-S3">
+      <Definition>odporovací/prípustkový vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238343-S1" ili="wikidata-sk-L238343-S1">
+      <Definition>zlučovací vzťah</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238343-S2" ili="wikidata-sk-L238343-S2">
+      <Definition>vylúčenie oboch možnosti</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238343-S3" ili="wikidata-sk-L238343-S3">
+      <Definition>stupňovanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238343-S4" ili="wikidata-sk-L238343-S4">
+      <Definition>prirovnanie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S1" ili="wikidata-sk-L238349-S1">
+      <Definition>zdôraznenie</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S2" ili="wikidata-sk-L238349-S2">
+      <Definition>možno</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S3" ili="wikidata-sk-L238349-S3">
+      <Definition>najviac v medziach</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S4" ili="wikidata-sk-L238349-S4">
+      <Definition>dokonca</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S5" ili="wikidata-sk-L238349-S5">
+      <Definition>vystupňovanie miery</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L238349-S6" ili="wikidata-sk-L238349-S6">
+      <Definition>okrem toho</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L245756-S1" ili="wikidata-sk-L245756-S1">
+      <Definition>postačujúco veľa</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L245701-S1" ili="wikidata-sk-L245701-S1">
+      <Definition>pomerne</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L245701-S2" ili="wikidata-sk-L245701-S2">
+      <Definition>vôbec</Definition>
+    </Synset>
+    <Synset id="wikidata-sk-L245701-S3" ili="wikidata-sk-L245701-S3">
+      <Definition>pradepodobne</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

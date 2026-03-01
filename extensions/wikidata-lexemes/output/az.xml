@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-az"
+                    label="Wikidata AZ Lexemes Extension"
+                    language="az"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-az" version="1.4"/>
+    <LexicalEntry id="L708473">
+      <Lemma writtenForm="bir" partOfSpeech="determiner"/>
+      <Sense id="L708473-S1" synset="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1375217">
+      <Lemma writtenForm="və" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1375217-S1" synset="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1375549">
+      <Lemma writtenForm="nə" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L1375549-S1" synset="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1">
+        <Definition>(sual əvəz)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1">
+      <Definition>(sual əvəz)</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -22,6 +22,10 @@ RUN pip install --no-cache-dir ".[web]"
 # TODO: this should be done in a separate volume
 RUN python -m wn download omw:1.4 cili odenet:1.4
 
+# Load data extensions
+COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
+RUN python -c "import wn; import sys; [wn.add(f) for f in sys.argv[1:]]" extensions/wikidata-lexemes/output/*.xml
+
 # Clean up the downloads directory
 RUN rm -r ~/.wn_data/downloads
 
@@ -29,4 +33,4 @@ RUN rm -r ~/.wn_data/downloads
 ENV PORT=8080
 EXPOSE 8080
 
-CMD uvicorn wn.web:app --host 0.0.0.0 --port $PORT
+CMD ["sh", "-c", "uvicorn wn.web:app --host 0.0.0.0 --port $PORT"]

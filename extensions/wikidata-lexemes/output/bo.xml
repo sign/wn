@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-bo"
+                    label="Wikidata BO Lexemes Extension"
+                    language="bo"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-bo" version="1.4"/>
+    <LexicalEntry id="L1139601">
+      <Lemma writtenForm="ས་ཡ" partOfSpeech="numeral"/>
+      <Sense id="L1139601-S1" synset="wikidata-bo-L1139601-S1" ili="wikidata-bo-L1139601-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139602">
+      <Lemma writtenForm="བྱེ་བ" partOfSpeech="numeral"/>
+      <Sense id="L1139602-S1" synset="wikidata-bo-L1139602-S1" ili="wikidata-bo-L1139602-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139600">
+      <Lemma writtenForm="འབུམ" partOfSpeech="numeral"/>
+      <Sense id="L1139600-S1" synset="wikidata-bo-L1139600-S1" ili="wikidata-bo-L1139600-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139988">
+      <Lemma writtenForm="ཁྲག་ཁྲིག" partOfSpeech="numeral"/>
+      <Sense id="L1139988-S1" synset="wikidata-bo-L1139988-S1" ili="wikidata-bo-L1139988-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139596">
+      <Lemma writtenForm="བཅུ" partOfSpeech="numeral"/>
+      <Sense id="L1139596-S1" synset="wikidata-bo-L1139596-S1" ili="wikidata-bo-L1139596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139603">
+      <Lemma writtenForm="དུང་ཕྱུར" partOfSpeech="numeral"/>
+      <Sense id="L1139603-S1" synset="wikidata-bo-L1139603-S1" ili="wikidata-bo-L1139603-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139994">
+      <Lemma writtenForm="དཀྲིགས" partOfSpeech="numeral"/>
+      <Sense id="L1139994-S1" synset="wikidata-bo-L1139994-S1" ili="wikidata-bo-L1139994-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L727358">
+      <Lemma writtenForm="གཅིག" partOfSpeech="numeral"/>
+      <Sense id="L727358-S1" synset="wikidata-bo-L727358-S1" ili="wikidata-bo-L727358-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139400">
+      <Lemma writtenForm="རབ་བཀྲམ" partOfSpeech="numeral"/>
+      <Sense id="L1139400-S1" synset="wikidata-bo-L1139400-S1" ili="wikidata-bo-L1139400-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139604">
+      <Lemma writtenForm="ཐེར་འབུམ" partOfSpeech="numeral"/>
+      <Sense id="L1139604-S1" synset="wikidata-bo-L1139604-S1" ili="wikidata-bo-L1139604-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139599">
+      <Lemma writtenForm="ཁྲི" partOfSpeech="numeral"/>
+      <Sense id="L1139599-S1" synset="wikidata-bo-L1139599-S1" ili="wikidata-bo-L1139599-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139598">
+      <Lemma writtenForm="སྟོང" partOfSpeech="numeral"/>
+      <Sense id="L1139598-S1" synset="wikidata-bo-L1139598-S1" ili="wikidata-bo-L1139598-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139993">
+      <Lemma writtenForm="གཏམས་ཆེན་པོ" partOfSpeech="numeral"/>
+      <Sense id="L1139993-S1" synset="wikidata-bo-L1139993-S1" ili="wikidata-bo-L1139993-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139995">
+      <Lemma writtenForm="དཀྲིགས་ཆེན་པོ" partOfSpeech="numeral"/>
+      <Sense id="L1139995-S1" synset="wikidata-bo-L1139995-S1" ili="wikidata-bo-L1139995-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139991">
+      <Lemma writtenForm="རབ་བཀྲམ་ཆེན་པོ" partOfSpeech="numeral"/>
+      <Sense id="L1139991-S1" synset="wikidata-bo-L1139991-S1" ili="wikidata-bo-L1139991-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139597">
+      <Lemma writtenForm="བརྒྱ" partOfSpeech="numeral"/>
+      <Sense id="L1139597-S1" synset="wikidata-bo-L1139597-S1" ili="wikidata-bo-L1139597-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139987">
+      <Lemma writtenForm="ཐེར་འབུམ་ཆེན་པོ" partOfSpeech="numeral"/>
+      <Sense id="L1139987-S1" synset="wikidata-bo-L1139987-S1" ili="wikidata-bo-L1139987-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139989">
+      <Lemma writtenForm="ཁྲག་ཁྲིག་ཆེན་པོ" partOfSpeech="numeral"/>
+      <Sense id="L1139989-S1" synset="wikidata-bo-L1139989-S1" ili="wikidata-bo-L1139989-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139992">
+      <Lemma writtenForm="གཏམས་" partOfSpeech="numeral"/>
+      <Sense id="L1139992-S1" synset="wikidata-bo-L1139992-S1" ili="wikidata-bo-L1139992-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-bo-L1139601-S1" ili="wikidata-bo-L1139601-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139602-S1" ili="wikidata-bo-L1139602-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139600-S1" ili="wikidata-bo-L1139600-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139988-S1" ili="wikidata-bo-L1139988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139596-S1" ili="wikidata-bo-L1139596-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139603-S1" ili="wikidata-bo-L1139603-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139994-S1" ili="wikidata-bo-L1139994-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L727358-S1" ili="wikidata-bo-L727358-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139400-S1" ili="wikidata-bo-L1139400-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139604-S1" ili="wikidata-bo-L1139604-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139599-S1" ili="wikidata-bo-L1139599-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139598-S1" ili="wikidata-bo-L1139598-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139993-S1" ili="wikidata-bo-L1139993-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139995-S1" ili="wikidata-bo-L1139995-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139991-S1" ili="wikidata-bo-L1139991-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139597-S1" ili="wikidata-bo-L1139597-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139987-S1" ili="wikidata-bo-L1139987-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139989-S1" ili="wikidata-bo-L1139989-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-bo-L1139992-S1" ili="wikidata-bo-L1139992-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

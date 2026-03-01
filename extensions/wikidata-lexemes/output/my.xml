@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-my"
+                    label="Wikidata MY Lexemes Extension"
+                    language="my"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-my" version="1.4"/>
+    <LexicalEntry id="L709032">
+      <Lemma writtenForm="တစ်" partOfSpeech="numeral"/>
+      <Sense id="L709032-S1" synset="wikidata-my-L709032-S1" ili="wikidata-my-L709032-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-my-L709032-S1" ili="wikidata-my-L709032-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

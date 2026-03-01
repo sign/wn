@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-hu"
+                    label="Wikidata HU Lexemes Extension"
+                    language="hu"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-hu" version="1.4"/>
+    <LexicalEntry id="L250342">
+      <Lemma writtenForm="négy" partOfSpeech="numeral"/>
+      <Sense id="L250342-S1" synset="wikidata-hu-L250342-S1" ili="wikidata-hu-L250342-S1">
+        <Definition>4; a három és az öt közötti szám</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L741130">
+      <Lemma writtenForm="sok" partOfSpeech="numeral"/>
+      <Sense id="L741130-S1" synset="wikidata-hu-L741130-S1" ili="wikidata-hu-L741130-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L684438">
+      <Lemma writtenForm="egy" partOfSpeech="numeral"/>
+      <Sense id="L684438-S1" synset="wikidata-hu-L684438-S1" ili="wikidata-hu-L684438-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-hu-L250342-S1" ili="wikidata-hu-L250342-S1">
+      <Definition>4; a három és az öt közötti szám</Definition>
+    </Synset>
+    <Synset id="wikidata-hu-L741130-S1" ili="wikidata-hu-L741130-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-hu-L684438-S1" ili="wikidata-hu-L684438-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

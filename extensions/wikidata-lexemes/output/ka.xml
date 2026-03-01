@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ka"
+                    label="Wikidata KA Lexemes Extension"
+                    language="ka"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ka" version="1.4"/>
+    <LexicalEntry id="L2716">
+      <Lemma writtenForm="და" partOfSpeech="conjunction"/>
+      <Sense id="L2716-S1" synset="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1466208">
+      <Lemma writtenForm="არა" partOfSpeech="grammatical particle"/>
+      <Sense id="L1466208-S1" synset="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1466208-S2" synset="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691658">
+      <Lemma writtenForm="ერთი" partOfSpeech="numeral"/>
+      <Sense id="L691658-S1" synset="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1466211">
+      <Lemma writtenForm="ან" partOfSpeech="conjunction"/>
+      <Sense id="L1466211-S1" synset="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L55005">
+      <Lemma writtenForm="ხუთი" partOfSpeech="numeral"/>
+      <Sense id="L55005-S1" synset="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1231">
+      <Lemma writtenForm="მე" partOfSpeech="personal pronoun"/>
+      <Sense id="L1231-S1" synset="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

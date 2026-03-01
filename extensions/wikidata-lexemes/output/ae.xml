@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ae"
+                    label="Wikidata AE Lexemes Extension"
+                    language="ae"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ae" version="1.4"/>
+    <LexicalEntry id="L1467126">
+      <Lemma writtenForm="𐬗𐬀𐬚𐬡𐬀𐬭" partOfSpeech="numeral"/>
+      <Sense id="L1467126-S1" synset="wikidata-ae-L1467126-S1" ili="wikidata-ae-L1467126-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1547974">
+      <Lemma writtenForm="𐬙𐬀𐬭𐬋" partOfSpeech="preposition"/>
+      <Sense id="L1547974-S1" synset="wikidata-ae-L1547974-S1" ili="wikidata-ae-L1547974-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L613964">
+      <Lemma writtenForm="𐬀𐬉𐬎𐬎𐬀" partOfSpeech="numeral"/>
+      <Sense id="L613964-S1" synset="wikidata-ae-L613964-S1" ili="wikidata-ae-L613964-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ae-L1467126-S1" ili="wikidata-ae-L1467126-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ae-L1547974-S1" ili="wikidata-ae-L1547974-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ae-L613964-S1" ili="wikidata-ae-L613964-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-mi"
+                    label="Wikidata MI Lexemes Extension"
+                    language="mi"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-mi" version="1.4"/>
+    <LexicalEntry id="L2222">
+      <Lemma writtenForm="mamati" partOfSpeech="grammatical modifier"/>
+      <Sense id="L2222-S1" synset="wikidata-mi-L2222-S1" ili="wikidata-mi-L2222-S1">
+        <Definition>matihiko, ahiko, mati</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L407043">
+      <Lemma writtenForm="āe" partOfSpeech="interjection"/>
+      <Sense id="L407043-S1" synset="wikidata-mi-L407043-S1" ili="wikidata-mi-L407043-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327420">
+      <Lemma writtenForm="te" partOfSpeech="definite article"/>
+      <Sense id="L1327420-S1" synset="wikidata-mi-L1327420-S1" ili="wikidata-mi-L1327420-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330075">
+      <Lemma writtenForm="Haina" partOfSpeech="locative noun"/>
+      <Sense id="L1330075-S1" synset="wikidata-mi-L1330075-S1" ili="wikidata-mi-L1330075-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1331996">
+      <Lemma writtenForm="āhea" partOfSpeech="locative noun"/>
+      <Sense id="L1331996-S1" synset="wikidata-mi-L1331996-S1" ili="wikidata-mi-L1331996-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1546608">
+      <Lemma writtenForm="ia" partOfSpeech="personal pronoun"/>
+      <Sense id="L1546608-S1" synset="wikidata-mi-L1546608-S1" ili="wikidata-mi-L1546608-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L655725">
+      <Lemma writtenForm="paerangi" partOfSpeech="grammatical modifier"/>
+      <Sense id="L655725-S1" synset="wikidata-mi-L655725-S1" ili="wikidata-mi-L655725-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330232">
+      <Lemma writtenForm="takitahi" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1330232-S1" synset="wikidata-mi-L1330232-S1" ili="wikidata-mi-L1330232-S1">
+        <Definition>e noho ana, e haere ana, e kawea ana</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1370811">
+      <Lemma writtenForm="Huka" partOfSpeech="personal noun"/>
+      <Sense id="L1370811-S1" synset="wikidata-mi-L1370811-S1" ili="wikidata-mi-L1370811-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407840">
+      <Lemma writtenForm="Te Tai-o-Rehua" partOfSpeech="locative noun"/>
+      <Sense id="L1407840-S1" synset="wikidata-mi-L1407840-S1" ili="wikidata-mi-L1407840-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L58071">
+      <Lemma writtenForm="Pōrana" partOfSpeech="locative noun"/>
+      <Sense id="L58071-S1" synset="wikidata-mi-L58071-S1" ili="wikidata-mi-L58071-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L652954">
+      <Lemma writtenForm="Hānuere" partOfSpeech="personal noun"/>
+      <Sense id="L652954-S1" synset="wikidata-mi-L652954-S1" ili="wikidata-mi-L652954-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327754">
+      <Lemma writtenForm="katoa" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1327754-S1" synset="wikidata-mi-L1327754-S1" ili="wikidata-mi-L1327754-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1327754-S2" synset="wikidata-mi-L1327754-S2" ili="wikidata-mi-L1327754-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1328869">
+      <Lemma writtenForm="wahine" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1328869-S1" synset="wikidata-mi-L1328869-S1" ili="wikidata-mi-L1328869-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407794">
+      <Lemma writtenForm="Hutu" partOfSpeech="personal noun"/>
+      <Sense id="L1407794-S1" synset="wikidata-mi-L1407794-S1" ili="wikidata-mi-L1407794-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407922">
+      <Lemma writtenForm="Māori" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1407922-S1" synset="wikidata-mi-L1407922-S1" ili="wikidata-mi-L1407922-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327422">
+      <Lemma writtenForm="tētahi" partOfSpeech="indefinite article"/>
+      <Sense id="L1327422-S1" synset="wikidata-mi-L1327422-S1" ili="wikidata-mi-L1327422-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327463">
+      <Lemma writtenForm="a" partOfSpeech="proper noun marker"/>
+      <Sense id="L1327463-S1" synset="wikidata-mi-L1327463-S1" ili="wikidata-mi-L1327463-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1397271">
+      <Lemma writtenForm="kua" partOfSpeech="verbal particle"/>
+      <Sense id="L1397271-S1" synset="wikidata-mi-L1397271-S1" ili="wikidata-mi-L1397271-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1397271-S2" synset="wikidata-mi-L1397271-S2" ili="wikidata-mi-L1397271-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1397271-S3" synset="wikidata-mi-L1397271-S3" ili="wikidata-mi-L1397271-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407836">
+      <Lemma writtenForm="Te Whanga-nui-a-Tara" partOfSpeech="locative noun"/>
+      <Sense id="L1407836-S1" synset="wikidata-mi-L1407836-S1" ili="wikidata-mi-L1407836-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407837">
+      <Lemma writtenForm="Te Waipounamu" partOfSpeech="locative noun"/>
+      <Sense id="L1407837-S1" synset="wikidata-mi-L1407837-S1" ili="wikidata-mi-L1407837-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407837-S2" synset="wikidata-mi-L1407837-S2" ili="wikidata-mi-L1407837-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407919">
+      <Lemma writtenForm="nē" partOfSpeech="question tag"/>
+      <Sense id="L1407919-S1" synset="wikidata-mi-L1407919-S1" ili="wikidata-mi-L1407919-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327722">
+      <Lemma writtenForm="tangata" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1327722-S1" synset="wikidata-mi-L1327722-S1" ili="wikidata-mi-L1327722-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327759">
+      <Lemma writtenForm="kē" partOfSpeech="adverbial particle"/>
+      <Sense id="L1327759-S1" synset="wikidata-mi-L1327759-S1" ili="wikidata-mi-L1327759-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327764">
+      <Lemma writtenForm="Noa" partOfSpeech="personal noun"/>
+      <Sense id="L1327764-S1" synset="wikidata-mi-L1327764-S1" ili="wikidata-mi-L1327764-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1327764-S2" synset="wikidata-mi-L1327764-S2" ili="wikidata-mi-L1327764-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L35159">
+      <Lemma writtenForm="Aotearoa" partOfSpeech="locative noun"/>
+      <Sense id="L35159-S1" synset="wikidata-mi-L35159-S1" ili="wikidata-mi-L35159-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L35159-S2" synset="wikidata-mi-L35159-S2" ili="wikidata-mi-L35159-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327711">
+      <Lemma writtenForm="mātua" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1327711-S1" synset="wikidata-mi-L1327711-S1" ili="wikidata-mi-L1327711-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1327711-S2" synset="wikidata-mi-L1327711-S2" ili="wikidata-mi-L1327711-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327753">
+      <Lemma writtenForm="katoa" partOfSpeech="adverbial modifier"/>
+      <Sense id="L1327753-S1" synset="wikidata-mi-L1327753-S1" ili="wikidata-mi-L1327753-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327761">
+      <Lemma writtenForm="kē" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1327761-S1" synset="wikidata-mi-L1327761-S1" ili="wikidata-mi-L1327761-S1">
+        <Definition>whakatioro</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327762">
+      <Lemma writtenForm="noa" partOfSpeech="adverbial particle"/>
+      <Sense id="L1327762-S1" synset="wikidata-mi-L1327762-S1" ili="wikidata-mi-L1327762-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1328868">
+      <Lemma writtenForm="wāhine" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1328868-S1" synset="wikidata-mi-L1328868-S1" ili="wikidata-mi-L1328868-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1328868-S2" synset="wikidata-mi-L1328868-S2" ili="wikidata-mi-L1328868-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407798">
+      <Lemma writtenForm="Hutu" partOfSpeech="personal noun"/>
+      <Sense id="L1407798-S1" synset="wikidata-mi-L1407798-S1" ili="wikidata-mi-L1407798-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407838">
+      <Lemma writtenForm="Te Ika-a-Māui" partOfSpeech="locative noun"/>
+      <Sense id="L1407838-S1" synset="wikidata-mi-L1407838-S1" ili="wikidata-mi-L1407838-S1">
+        <Definition>Te Mangōroa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1327421">
+      <Lemma writtenForm="he" partOfSpeech="indefinite article"/>
+      <Sense id="L1327421-S1" synset="wikidata-mi-L1327421-S1" ili="wikidata-mi-L1327421-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1330237">
+      <Lemma writtenForm="tahi" partOfSpeech="grammatical modifier"/>
+      <Sense id="L1330237-S1" synset="wikidata-mi-L1330237-S1" ili="wikidata-mi-L1330237-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1330237-S2" synset="wikidata-mi-L1330237-S2" ili="wikidata-mi-L1330237-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1330237-S3" synset="wikidata-mi-L1330237-S3" ili="wikidata-mi-L1330237-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-mi-L2222-S1" ili="wikidata-mi-L2222-S1">
+      <Definition>matihiko, ahiko, mati</Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L407043-S1" ili="wikidata-mi-L407043-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327420-S1" ili="wikidata-mi-L1327420-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1330075-S1" ili="wikidata-mi-L1330075-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1331996-S1" ili="wikidata-mi-L1331996-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1546608-S1" ili="wikidata-mi-L1546608-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L655725-S1" ili="wikidata-mi-L655725-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1330232-S1" ili="wikidata-mi-L1330232-S1">
+      <Definition>e noho ana, e haere ana, e kawea ana</Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1370811-S1" ili="wikidata-mi-L1370811-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407840-S1" ili="wikidata-mi-L1407840-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L58071-S1" ili="wikidata-mi-L58071-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L652954-S1" ili="wikidata-mi-L652954-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327754-S1" ili="wikidata-mi-L1327754-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327754-S2" ili="wikidata-mi-L1327754-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1328869-S1" ili="wikidata-mi-L1328869-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407794-S1" ili="wikidata-mi-L1407794-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407922-S1" ili="wikidata-mi-L1407922-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327422-S1" ili="wikidata-mi-L1327422-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327463-S1" ili="wikidata-mi-L1327463-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1397271-S1" ili="wikidata-mi-L1397271-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1397271-S2" ili="wikidata-mi-L1397271-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1397271-S3" ili="wikidata-mi-L1397271-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407836-S1" ili="wikidata-mi-L1407836-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407837-S1" ili="wikidata-mi-L1407837-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407837-S2" ili="wikidata-mi-L1407837-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407919-S1" ili="wikidata-mi-L1407919-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327722-S1" ili="wikidata-mi-L1327722-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327759-S1" ili="wikidata-mi-L1327759-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327764-S1" ili="wikidata-mi-L1327764-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327764-S2" ili="wikidata-mi-L1327764-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L35159-S1" ili="wikidata-mi-L35159-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L35159-S2" ili="wikidata-mi-L35159-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327711-S1" ili="wikidata-mi-L1327711-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327711-S2" ili="wikidata-mi-L1327711-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327753-S1" ili="wikidata-mi-L1327753-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327761-S1" ili="wikidata-mi-L1327761-S1">
+      <Definition>whakatioro</Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327762-S1" ili="wikidata-mi-L1327762-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1328868-S1" ili="wikidata-mi-L1328868-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1328868-S2" ili="wikidata-mi-L1328868-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407798-S1" ili="wikidata-mi-L1407798-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1407838-S1" ili="wikidata-mi-L1407838-S1">
+      <Definition>Te Mangōroa</Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1327421-S1" ili="wikidata-mi-L1327421-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1330237-S1" ili="wikidata-mi-L1330237-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1330237-S2" ili="wikidata-mi-L1330237-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-mi-L1330237-S3" ili="wikidata-mi-L1330237-S3">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

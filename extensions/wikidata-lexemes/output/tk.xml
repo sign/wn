@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-tk"
+                    label="Wikidata TK Lexemes Extension"
+                    language="tk"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-tk" version="1.4"/>
+    <LexicalEntry id="L45215">
+      <Lemma writtenForm="bir" partOfSpeech="numeral"/>
+      <Sense id="L45215-S1" synset="wikidata-tk-L45215-S1" ili="wikidata-tk-L45215-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-tk-L45215-S1" ili="wikidata-tk-L45215-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

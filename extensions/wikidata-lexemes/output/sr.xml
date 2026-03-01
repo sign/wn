@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-sr"
+                    label="Wikidata SR Lexemes Extension"
+                    language="sr"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-sr" version="1.4"/>
+    <LexicalEntry id="L1422474">
+      <Lemma writtenForm="пре" partOfSpeech="preposition"/>
+      <Sense id="L1422474-S1" synset="wikidata-sr-L1422474-S1" ili="wikidata-sr-L1422474-S1">
+        <Definition>временски раније него нешто друго</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422483">
+      <Lemma writtenForm="с" partOfSpeech="preposition"/>
+      <Sense id="L1422483-S1" synset="wikidata-sr-L1422483-S1" ili="wikidata-sr-L1422483-S1">
+        <Definition>предлог који означава де је нешто заједно, или коришћено</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422488">
+      <Lemma writtenForm="кроз" partOfSpeech="preposition"/>
+      <Sense id="L1422488-S1" synset="wikidata-sr-L1422488-S1" ili="wikidata-sr-L1422488-S1">
+        <Definition>од једне до друге стране, директно</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6316">
+      <Lemma writtenForm="оне" partOfSpeech="personal pronoun"/>
+      <Sense id="L6316-S1" synset="wikidata-sr-L6316-S1" ili="wikidata-sr-L6316-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422471">
+      <Lemma writtenForm="око" partOfSpeech="preposition"/>
+      <Sense id="L1422471-S1" synset="wikidata-sr-L1422471-S1" ili="wikidata-sr-L1422471-S1">
+        <Definition>предлог који означава близину, приближно, итд.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422473">
+      <Lemma writtenForm="изван" partOfSpeech="preposition"/>
+      <Sense id="L1422473-S1" synset="wikidata-sr-L1422473-S1" ili="wikidata-sr-L1422473-S1">
+        <Definition>оно што није унутра</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422475">
+      <Lemma writtenForm="на" partOfSpeech="preposition"/>
+      <Sense id="L1422475-S1" synset="wikidata-sr-L1422475-S1" ili="wikidata-sr-L1422475-S1">
+        <Definition>предлог који означава место где се нешто ставља или налази</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422493">
+      <Lemma writtenForm="насупрот" partOfSpeech="preposition"/>
+      <Sense id="L1422493-S1" synset="wikidata-sr-L1422493-S1" ili="wikidata-sr-L1422493-S1">
+        <Definition>наспрам нечега</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6312">
+      <Lemma writtenForm="ми" partOfSpeech="personal pronoun"/>
+      <Sense id="L6312-S1" synset="wikidata-sr-L6312-S1" ili="wikidata-sr-L6312-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6310">
+      <Lemma writtenForm="она" partOfSpeech="personal pronoun"/>
+      <Sense id="L6310-S1" synset="wikidata-sr-L6310-S1" ili="wikidata-sr-L6310-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422472">
+      <Lemma writtenForm="међу" partOfSpeech="preposition"/>
+      <Sense id="L1422472-S1" synset="wikidata-sr-L1422472-S1" ili="wikidata-sr-L1422472-S1">
+        <Definition>протеже се између једног и другог у времену или простору; између</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422477">
+      <Lemma writtenForm="по" partOfSpeech="preposition"/>
+      <Sense id="L1422477-S1" synset="wikidata-sr-L1422477-S1" ili="wikidata-sr-L1422477-S1">
+        <Definition>предлог који означава кретање на површини, одлазак да се нешто узме, итд</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422479">
+      <Lemma writtenForm="испод" partOfSpeech="preposition"/>
+      <Sense id="L1422479-S1" synset="wikidata-sr-L1422479-S1" ili="wikidata-sr-L1422479-S1">
+        <Definition>ниже него; према доле</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422490">
+      <Lemma writtenForm="о" partOfSpeech="preposition"/>
+      <Sense id="L1422490-S1" synset="wikidata-sr-L1422490-S1" ili="wikidata-sr-L1422490-S1">
+        <Definition>предлог који означава predmet разговора</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6306">
+      <Lemma writtenForm="ја" partOfSpeech="personal pronoun"/>
+      <Sense id="L6306-S1" synset="wikidata-sr-L6306-S1" ili="wikidata-sr-L6306-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6311">
+      <Lemma writtenForm="онo" partOfSpeech="personal pronoun"/>
+      <Sense id="L6311-S1" synset="wikidata-sr-L6311-S1" ili="wikidata-sr-L6311-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422468">
+      <Lemma writtenForm="од" partOfSpeech="preposition"/>
+      <Sense id="L1422468-S1" synset="wikidata-sr-L1422468-S1" ili="wikidata-sr-L1422468-S1">
+        <Definition>предлог који означава почетак</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422478">
+      <Lemma writtenForm="унутра" partOfSpeech="preposition"/>
+      <Sense id="L1422478-S1" synset="wikidata-sr-L1422478-S1" ili="wikidata-sr-L1422478-S1">
+        <Definition>налази се у нечему; не изван</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422481">
+      <Lemma writtenForm="за" partOfSpeech="preposition"/>
+      <Sense id="L1422481-S1" synset="wikidata-sr-L1422481-S1" ili="wikidata-sr-L1422481-S1">
+        <Definition>предлог који означава сврху, намеру, корист, размену, положај иза, итд</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422489">
+      <Lemma writtenForm="преко" partOfSpeech="preposition"/>
+      <Sense id="L1422489-S1" synset="wikidata-sr-L1422489-S1" ili="wikidata-sr-L1422489-S1">
+        <Definition>више него; на другој страни;</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6309">
+      <Lemma writtenForm="он" partOfSpeech="personal pronoun"/>
+      <Sense id="L6309-S1" synset="wikidata-sr-L6309-S1" ili="l485-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6313">
+      <Lemma writtenForm="ви" partOfSpeech="personal pronoun"/>
+      <Sense id="L6313-S1" synset="wikidata-sr-L6313-S1" ili="wikidata-sr-L6313-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422469">
+      <Lemma writtenForm="до" partOfSpeech="preposition"/>
+      <Sense id="L1422469-S1" synset="wikidata-sr-L1422469-S1" ili="wikidata-sr-L1422469-S1">
+        <Definition>предлог који означава крај</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422491">
+      <Lemma writtenForm="према" partOfSpeech="preposition"/>
+      <Sense id="L1422491-S1" synset="wikidata-sr-L1422491-S1" ili="wikidata-sr-L1422491-S1">
+        <Definition>предлог који означава правац, смер, извор</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6308">
+      <Lemma writtenForm="ти" partOfSpeech="personal pronoun"/>
+      <Sense id="L6308-S1" synset="wikidata-sr-L6308-S1" ili="wikidata-sr-L6308-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L6315">
+      <Lemma writtenForm="они" partOfSpeech="personal pronoun"/>
+      <Sense id="L6315-S1" synset="wikidata-sr-L6315-S1" ili="wikidata-sr-L6315-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422485">
+      <Lemma writtenForm="за време" partOfSpeech="preposition"/>
+      <Sense id="L1422485-S1" synset="wikidata-sr-L1422485-S1" ili="wikidata-sr-L1422485-S1">
+        <Definition>у исто време као и нешто друго, или делом тог времена</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422470">
+      <Lemma writtenForm="због" partOfSpeech="preposition"/>
+      <Sense id="L1422470-S1" synset="wikidata-sr-L1422470-S1" ili="wikidata-sr-L1422470-S1">
+        <Definition>предлог који означава разлог, намеру</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422476">
+      <Lemma writtenForm="из" partOfSpeech="preposition"/>
+      <Sense id="L1422476-S1" synset="wikidata-sr-L1422476-S1" ili="wikidata-sr-L1422476-S1">
+        <Definition>предлог који означава порекло, узрок, излазак</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422480">
+      <Lemma writtenForm="у" partOfSpeech="preposition"/>
+      <Sense id="L1422480-S1" synset="wikidata-sr-L1422480-S1" ili="wikidata-sr-L1422480-S1">
+        <Definition>предлог који означава да се нешто налази унутра, време дешавања</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422482">
+      <Lemma writtenForm="изнад" partOfSpeech="preposition"/>
+      <Sense id="L1422482-S1" synset="wikidata-sr-L1422482-S1" ili="wikidata-sr-L1422482-S1">
+        <Definition>preko; više nego; više vrijedno; prima gore</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422484">
+      <Lemma writtenForm="код" partOfSpeech="preposition"/>
+      <Sense id="L1422484-S1" synset="wikidata-sr-L1422484-S1" ili="wikidata-sr-L1422484-S1">
+        <Definition>предлог који означава дасе налази или дешава близу нечега</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422486">
+      <Lemma writtenForm="после" partOfSpeech="preposition"/>
+      <Sense id="L1422486-S1" synset="wikidata-sr-L1422486-S1" ili="wikidata-sr-L1422486-S1">
+        <Definition>предлог који означава да се нешто десило након, иза нечег другог, касније</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422487">
+      <Lemma writtenForm="поврх" partOfSpeech="preposition"/>
+      <Sense id="L1422487-S1" synset="wikidata-sr-L1422487-S1" ili="wikidata-sr-L1422487-S1">
+        <Definition>изнад; више</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1422492">
+      <Lemma writtenForm="уз" partOfSpeech="preposition"/>
+      <Sense id="L1422492-S1" synset="wikidata-sr-L1422492-S1" ili="wikidata-sr-L1422492-S1">
+        <Definition>предлог који означава близину или кретање узбрдо</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-sr-L1422474-S1" ili="wikidata-sr-L1422474-S1">
+      <Definition>временски раније него нешто друго</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422483-S1" ili="wikidata-sr-L1422483-S1">
+      <Definition>предлог који означава де је нешто заједно, или коришћено</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422488-S1" ili="wikidata-sr-L1422488-S1">
+      <Definition>од једне до друге стране, директно</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6316-S1" ili="wikidata-sr-L6316-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422471-S1" ili="wikidata-sr-L1422471-S1">
+      <Definition>предлог који означава близину, приближно, итд.</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422473-S1" ili="wikidata-sr-L1422473-S1">
+      <Definition>оно што није унутра</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422475-S1" ili="wikidata-sr-L1422475-S1">
+      <Definition>предлог који означава место где се нешто ставља или налази</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422493-S1" ili="wikidata-sr-L1422493-S1">
+      <Definition>наспрам нечега</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6312-S1" ili="wikidata-sr-L6312-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6310-S1" ili="wikidata-sr-L6310-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422472-S1" ili="wikidata-sr-L1422472-S1">
+      <Definition>протеже се између једног и другог у времену или простору; између</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422477-S1" ili="wikidata-sr-L1422477-S1">
+      <Definition>предлог који означава кретање на површини, одлазак да се нешто узме, итд</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422479-S1" ili="wikidata-sr-L1422479-S1">
+      <Definition>ниже него; према доле</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422490-S1" ili="wikidata-sr-L1422490-S1">
+      <Definition>предлог који означава predmet разговора</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6306-S1" ili="wikidata-sr-L6306-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6311-S1" ili="wikidata-sr-L6311-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422468-S1" ili="wikidata-sr-L1422468-S1">
+      <Definition>предлог који означава почетак</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422478-S1" ili="wikidata-sr-L1422478-S1">
+      <Definition>налази се у нечему; не изван</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422481-S1" ili="wikidata-sr-L1422481-S1">
+      <Definition>предлог који означава сврху, намеру, корист, размену, положај иза, итд</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422489-S1" ili="wikidata-sr-L1422489-S1">
+      <Definition>више него; на другој страни;</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6309-S1" ili="l485-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6313-S1" ili="wikidata-sr-L6313-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422469-S1" ili="wikidata-sr-L1422469-S1">
+      <Definition>предлог који означава крај</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422491-S1" ili="wikidata-sr-L1422491-S1">
+      <Definition>предлог који означава правац, смер, извор</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6308-S1" ili="wikidata-sr-L6308-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L6315-S1" ili="wikidata-sr-L6315-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422485-S1" ili="wikidata-sr-L1422485-S1">
+      <Definition>у исто време као и нешто друго, или делом тог времена</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422470-S1" ili="wikidata-sr-L1422470-S1">
+      <Definition>предлог који означава разлог, намеру</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422476-S1" ili="wikidata-sr-L1422476-S1">
+      <Definition>предлог који означава порекло, узрок, излазак</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422480-S1" ili="wikidata-sr-L1422480-S1">
+      <Definition>предлог који означава да се нешто налази унутра, време дешавања</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422482-S1" ili="wikidata-sr-L1422482-S1">
+      <Definition>preko; više nego; više vrijedno; prima gore</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422484-S1" ili="wikidata-sr-L1422484-S1">
+      <Definition>предлог који означава дасе налази или дешава близу нечега</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422486-S1" ili="wikidata-sr-L1422486-S1">
+      <Definition>предлог који означава да се нешто десило након, иза нечег другог, касније</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422487-S1" ili="wikidata-sr-L1422487-S1">
+      <Definition>изнад; више</Definition>
+    </Synset>
+    <Synset id="wikidata-sr-L1422492-S1" ili="wikidata-sr-L1422492-S1">
+      <Definition>предлог који означава близину или кретање узбрдо</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

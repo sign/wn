@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ms"
+                    label="Wikidata MS Lexemes Extension"
+                    language="ms"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ms" version="1.4"/>
+    <LexicalEntry id="L690">
+      <Lemma writtenForm="saya" partOfSpeech="pronoun"/>
+      <Sense id="L690-S1" synset="wikidata-ms-L690-S1" ili="l487-s1">
+        <Definition>ganti nama diri pertama mufrad (lebih halus daripada aku)</Definition>
+        <Example>Saya pergi ke sekolah pada hari ini.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1036">
+      <Lemma writtenForm="di" partOfSpeech="preposition"/>
+      <Sense id="L1036-S1" synset="wikidata-ms-L1036-S1" ili="wikidata-ms-L1036-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1764">
+      <Lemma writtenForm="atas" partOfSpeech="preposition"/>
+      <Sense id="L1764-S1" synset="wikidata-ms-L1764-S1" ili="wikidata-ms-L1764-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1767">
+      <Lemma writtenForm="daripada" partOfSpeech="preposition"/>
+      <Sense id="L1767-S1" synset="wikidata-ms-L1767-S1" ili="wikidata-ms-L1767-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1771">
+      <Lemma writtenForm="sedang" partOfSpeech="preposition"/>
+      <Sense id="L1771-S1" synset="wikidata-ms-L1771-S1" ili="wikidata-ms-L1771-S1">
+        <Definition></Definition>
+        <Example>Anda sedang melayari Wikidata.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15616">
+      <Lemma writtenForm="aku" partOfSpeech="personal pronoun"/>
+      <Sense id="L15616-S1" synset="wikidata-ms-L15616-S1" ili="wikidata-ms-L15616-S1">
+        <Definition>kata ganti diri pertama mufrad</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15617">
+      <Lemma writtenForm="kamu" partOfSpeech="pronoun"/>
+      <Sense id="L15617-S1" synset="wikidata-ms-L15617-S1" ili="l482-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15619">
+      <Lemma writtenForm="kami" partOfSpeech="pronoun"/>
+      <Sense id="L15619-S1" synset="wikidata-ms-L15619-S1" ili="wikidata-ms-L15619-S1">
+        <Definition></Definition>
+        <Example>Berilah kami makanan yang kami perlukan pada hari ini.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184911">
+      <Lemma writtenForm="atau" partOfSpeech="conjunction"/>
+      <Sense id="L184911-S1" synset="wikidata-ms-L184911-S1" ili="l1386-s1">
+        <Definition>digunakan untuk mengabung dua pilihan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450406">
+      <Lemma writtenForm="yang" partOfSpeech="conjunction"/>
+      <Sense id="L450406-S1" synset="wikidata-ms-L450406-S1" ili="wikidata-ms-L450406-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450596">
+      <Lemma writtenForm="dengan" partOfSpeech="conjunction"/>
+      <Sense id="L450596-S1" synset="wikidata-ms-L450596-S1" ili="wikidata-ms-L450596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450600">
+      <Lemma writtenForm="itu" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L450600-S1" synset="wikidata-ms-L450600-S1" ili="wikidata-ms-L450600-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L458041">
+      <Lemma writtenForm="pasang" partOfSpeech="classifier"/>
+      <Sense id="L458041-S1" synset="wikidata-ms-L458041-S1" ili="wikidata-ms-L458041-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L473648">
+      <Lemma writtenForm="ia" partOfSpeech="pronoun"/>
+      <Sense id="L473648-S1" synset="wikidata-ms-L473648-S1" ili="wikidata-ms-L473648-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477332">
+      <Lemma writtenForm="sebagai" partOfSpeech="preposition"/>
+      <Sense id="L477332-S1" synset="wikidata-ms-L477332-S1" ili="wikidata-ms-L477332-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477357">
+      <Lemma writtenForm="beberapa" partOfSpeech="determiner"/>
+      <Sense id="L477357-S1" synset="wikidata-ms-L477357-S1" ili="wikidata-ms-L477357-S1">
+        <Definition></Definition>
+        <Example>Terdapat beberapa naskhah untuk hikayat ini.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480617">
+      <Lemma writtenForm="kaki" partOfSpeech="classifier"/>
+      <Sense id="L480617-S1" synset="wikidata-ms-L480617-S1" ili="wikidata-ms-L480617-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480621">
+      <Lemma writtenForm="batang" partOfSpeech="classifier"/>
+      <Sense id="L480621-S1" synset="wikidata-ms-L480621-S1" ili="wikidata-ms-L480621-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L481468">
+      <Lemma writtenForm="juta" partOfSpeech="partitive"/>
+      <Sense id="L481468-S1" synset="wikidata-ms-L481468-S1" ili="wikidata-ms-L481468-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L481729">
+      <Lemma writtenForm="tentang" partOfSpeech="preposition"/>
+      <Sense id="L481729-S1" synset="wikidata-ms-L481729-S1" ili="wikidata-ms-L481729-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L660750">
+      <Lemma writtenForm="maka" partOfSpeech="conjunction"/>
+      <Sense id="L660750-S1" synset="wikidata-ms-L660750-S1" ili="wikidata-ms-L660750-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L686394">
+      <Lemma writtenForm="buku" partOfSpeech="classifier"/>
+      <Sense id="L686394-S1" synset="wikidata-ms-L686394-S1" ili="wikidata-ms-L686394-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L733042">
+      <Lemma writtenForm="setengah" partOfSpeech="numeral"/>
+      <Sense id="L733042-S1" synset="wikidata-ms-L733042-S1" ili="wikidata-ms-L733042-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094327">
+      <Lemma writtenForm="malah" partOfSpeech="conjunction"/>
+      <Sense id="L1094327-S1" synset="wikidata-ms-L1094327-S1" ili="wikidata-ms-L1094327-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1196219">
+      <Lemma writtenForm="mesti" partOfSpeech="auxiliary verb"/>
+      <Sense id="L1196219-S1" synset="wikidata-ms-L1196219-S1" ili="wikidata-ms-L1196219-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319365">
+      <Lemma writtenForm="his" partOfSpeech="interjection"/>
+      <Sense id="L1319365-S1" synset="wikidata-ms-L1319365-S1" ili="wikidata-ms-L1319365-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1406995">
+      <Lemma writtenForm="al" partOfSpeech="determiner"/>
+      <Sense id="L1406995-S1" synset="wikidata-ms-L1406995-S1" ili="wikidata-ms-L1406995-S1">
+        <Definition>(kata penentu yang bererti itu)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407690">
+      <Lemma writtenForm="-mu" partOfSpeech="possessive determiner"/>
+      <Sense id="L1407690-S1" synset="wikidata-ms-L1407690-S1" ili="wikidata-ms-L1407690-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407690-S2" synset="wikidata-ms-L1407690-S2" ili="wikidata-ms-L1407690-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408543">
+      <Lemma writtenForm="jenis" partOfSpeech="partitive"/>
+      <Sense id="L1408543-S1" synset="wikidata-ms-L1408543-S1" ili="wikidata-ms-L1408543-S1">
+        <Definition>macam; bangsa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408583">
+      <Lemma writtenForm="ke atas" partOfSpeech="preposition"/>
+      <Sense id="L1408583-S1" synset="wikidata-ms-L1408583-S1" ili="wikidata-ms-L1408583-S1">
+        <Definition>ke bahagian atas; ke sebelah atas</Definition>
+      </Sense>
+      <Sense id="L1408583-S2" synset="wikidata-ms-L1408583-S2" ili="wikidata-ms-L1408583-S2">
+        <Definition>lebih, dan tinggi daripada itu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408653">
+      <Lemma writtenForm="jumlah" partOfSpeech="partitive"/>
+      <Sense id="L1408653-S1" synset="wikidata-ms-L1408653-S1" ili="wikidata-ms-L1408653-S1">
+        <Definition>total</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1411782">
+      <Lemma writtenForm="se" partOfSpeech="determiner"/>
+      <Sense id="L1411782-S1" synset="wikidata-ms-L1411782-S1" ili="wikidata-ms-L1411782-S1">
+        <Definition>satu, esa, tunggal</Definition>
+      </Sense>
+      <Sense id="L1411782-S2" synset="wikidata-ms-L1411782-S2" ili="wikidata-ms-L1411782-S2">
+        <Definition>awalan yang bermaksud satu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1449330">
+      <Lemma writtenForm="era" partOfSpeech="partitive"/>
+      <Sense id="L1449330-S1" synset="wikidata-ms-L1449330-S1" ili="wikidata-ms-L1449330-S1">
+        <Definition>zaman, waktu</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1546750">
+      <Lemma writtenForm="awak" partOfSpeech="pronoun"/>
+      <Sense id="L1546750-S1" synset="wikidata-ms-L1546750-S1" ili="wikidata-ms-L1546750-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L806">
+      <Lemma writtenForm="anda" partOfSpeech="pronoun"/>
+      <Sense id="L806-S1" synset="wikidata-ms-L806-S1" ili="wikidata-ms-L806-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1766">
+      <Lemma writtenForm="dari" partOfSpeech="preposition"/>
+      <Sense id="L1766-S1" synset="wikidata-ms-L1766-S1" ili="wikidata-ms-L1766-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15618">
+      <Lemma writtenForm="dia" partOfSpeech="personal pronoun"/>
+      <Sense id="L15618-S1" synset="wikidata-ms-L15618-S1" ili="wikidata-ms-L15618-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450595">
+      <Lemma writtenForm="dengan" partOfSpeech="preposition"/>
+      <Sense id="L450595-S1" synset="wikidata-ms-L450595-S1" ili="wikidata-ms-L450595-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450598">
+      <Lemma writtenForm="ini" partOfSpeech="pronoun"/>
+      <Sense id="L450598-S1" synset="wikidata-ms-L450598-S1" ili="wikidata-ms-L450598-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L465071">
+      <Lemma writtenForm="kerana" partOfSpeech="conjunction"/>
+      <Sense id="L465071-S1" synset="wikidata-ms-L465071-S1" ili="wikidata-ms-L465071-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477356">
+      <Lemma writtenForm="apa" partOfSpeech="determiner"/>
+      <Sense id="L477356-S1" synset="wikidata-ms-L477356-S1" ili="wikidata-ms-L477356-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477358">
+      <Lemma writtenForm="ketika" partOfSpeech="conjunction"/>
+      <Sense id="L477358-S1" synset="wikidata-ms-L477358-S1" ili="wikidata-ms-L477358-S1">
+        <Definition></Definition>
+        <Example>keistimewaan itu kecil golongannya dan mereka tidak akan membantu kamu ketika dalam kesusahan.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477979">
+      <Lemma writtenForm="apabila" partOfSpeech="conjunction"/>
+      <Sense id="L477979-S1" synset="wikidata-ms-L477979-S1" ili="wikidata-ms-L477979-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479829">
+      <Lemma writtenForm="serta" partOfSpeech="conjunction"/>
+      <Sense id="L479829-S1" synset="wikidata-ms-L479829-S1" ili="wikidata-ms-L479829-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479848">
+      <Lemma writtenForm="sebelum" partOfSpeech="preposition"/>
+      <Sense id="L479848-S1" synset="wikidata-ms-L479848-S1" ili="wikidata-ms-L479848-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480416">
+      <Lemma writtenForm="puluh" partOfSpeech="numeral"/>
+      <Sense id="L480416-S1" synset="wikidata-ms-L480416-S1" ili="wikidata-ms-L480416-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L679456">
+      <Lemma writtenForm="siapa" partOfSpeech="interrogative word"/>
+      <Sense id="L679456-S1" synset="wikidata-ms-L679456-S1" ili="wikidata-ms-L679456-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L733054">
+      <Lemma writtenForm="makin" partOfSpeech="correlative adverb"/>
+      <Sense id="L733054-S1" synset="wikidata-ms-L733054-S1" ili="wikidata-ms-L733054-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1081786">
+      <Lemma writtenForm="separuh" partOfSpeech="numeral"/>
+      <Sense id="L1081786-S1" synset="wikidata-ms-L1081786-S1" ili="wikidata-ms-L1081786-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1085652">
+      <Lemma writtenForm="sisir" partOfSpeech="classifier"/>
+      <Sense id="L1085652-S1" synset="wikidata-ms-L1085652-S1" ili="wikidata-ms-L1085652-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1144492">
+      <Lemma writtenForm="adoi" partOfSpeech="interjection"/>
+      <Sense id="L1144492-S1" synset="wikidata-ms-L1144492-S1" ili="wikidata-ms-L1144492-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1374872">
+      <Lemma writtenForm="biar" partOfSpeech="conjunction"/>
+      <Sense id="L1374872-S1" synset="wikidata-ms-L1374872-S1" ili="wikidata-ms-L1374872-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407946">
+      <Lemma writtenForm="belah" partOfSpeech="classifier"/>
+      <Sense id="L1407946-S1" synset="wikidata-ms-L1407946-S1" ili="wikidata-ms-L1407946-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408120">
+      <Lemma writtenForm="saat" partOfSpeech="partitive"/>
+      <Sense id="L1408120-S1" synset="wikidata-ms-L1408120-S1" ili="wikidata-ms-L1408120-S1">
+        <Definition>sekon, detik</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408582">
+      <Lemma writtenForm="di atas" partOfSpeech="preposition"/>
+      <Sense id="L1408582-S1" synset="wikidata-ms-L1408582-S1" ili="wikidata-ms-L1408582-S1">
+        <Definition>di sebelah atas, pada bahagian atas</Definition>
+      </Sense>
+      <Sense id="L1408582-S2" synset="wikidata-ms-L1408582-S2" ili="wikidata-ms-L1408582-S2">
+        <Definition>lebih tinggi daripada</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408666">
+      <Lemma writtenForm="he" partOfSpeech="interjection"/>
+      <Sense id="L1408666-S1" synset="wikidata-ms-L1408666-S1" ili="wikidata-ms-L1408666-S1">
+        <Definition>(kata untuk menghina)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409398">
+      <Lemma writtenForm="gram" partOfSpeech="partitive"/>
+      <Sense id="L1409398-S1" synset="wikidata-ms-L1409398-S1" ili="wikidata-ms-L1409398-S1">
+        <Definition>0.001 kilogram</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409610">
+      <Lemma writtenForm="meski" partOfSpeech="conjunction"/>
+      <Sense id="L1409610-S1" synset="wikidata-ms-L1409610-S1" ili="wikidata-ms-L1409610-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1412915">
+      <Lemma writtenForm="-kah" partOfSpeech="interrogative particle"/>
+      <Sense id="L1412915-S1" synset="wikidata-ms-L1412915-S1" ili="wikidata-ms-L1412915-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1412915-S2" synset="wikidata-ms-L1412915-S2" ili="wikidata-ms-L1412915-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1412915-S3" synset="wikidata-ms-L1412915-S3" ili="wikidata-ms-L1412915-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1453925">
+      <Lemma writtenForm="sedang" partOfSpeech="conjunction"/>
+      <Sense id="L1453925-S1" synset="wikidata-ms-L1453925-S1" ili="wikidata-ms-L1453925-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1546754">
+      <Lemma writtenForm="pak" partOfSpeech="pronoun"/>
+      <Sense id="L1546754-S1" synset="wikidata-ms-L1546754-S1" ili="wikidata-ms-L1546754-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L794">
+      <Lemma writtenForm="dalam" partOfSpeech="preposition"/>
+      <Sense id="L794-S1" synset="wikidata-ms-L794-S1" ili="wikidata-ms-L794-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1765">
+      <Lemma writtenForm="bawah" partOfSpeech="preposition"/>
+      <Sense id="L1765-S1" synset="wikidata-ms-L1765-S1" ili="wikidata-ms-L1765-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15620">
+      <Lemma writtenForm="kita" partOfSpeech="pronoun"/>
+      <Sense id="L15620-S1" synset="wikidata-ms-L15620-S1" ili="wikidata-ms-L15620-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15622">
+      <Lemma writtenForm="mereka" partOfSpeech="pronoun"/>
+      <Sense id="L15622-S1" synset="wikidata-ms-L15622-S1" ili="wikidata-ms-L15622-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450597">
+      <Lemma writtenForm="ini" partOfSpeech="determiner"/>
+      <Sense id="L450597-S1" synset="wikidata-ms-L450597-S1" ili="wikidata-ms-L450597-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L452341">
+      <Lemma writtenForm="biji" partOfSpeech="classifier"/>
+      <Sense id="L452341-S1" synset="wikidata-ms-L452341-S1" ili="wikidata-ms-L452341-S1">
+        <Definition></Definition>
+        <Example>Demi angin yang menerbang dan menaburkan (debu, biji-bijian benih dan lain-lainnya</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L475562">
+      <Lemma writtenForm="bersama" partOfSpeech="preposition"/>
+      <Sense id="L475562-S1" synset="wikidata-ms-L475562-S1" ili="wikidata-ms-L475562-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477343">
+      <Lemma writtenForm="seperti" partOfSpeech="preposition"/>
+      <Sense id="L477343-S1" synset="wikidata-ms-L477343-S1" ili="wikidata-ms-L477343-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477984">
+      <Lemma writtenForm="lagi" partOfSpeech="adverbial particle"/>
+      <Sense id="L477984-S1" synset="wikidata-ms-L477984-S1" ili="wikidata-ms-L477984-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479864">
+      <Lemma writtenForm="meN- -i" partOfSpeech="circumfix"/>
+      <Sense id="L479864-S1" synset="wikidata-ms-L479864-S1" ili="wikidata-ms-L479864-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480440">
+      <Lemma writtenForm="pula" partOfSpeech="adverbial particle"/>
+      <Sense id="L480440-S1" synset="wikidata-ms-L480440-S1" ili="wikidata-ms-L480440-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L480440-S2" synset="wikidata-ms-L480440-S2" ili="wikidata-ms-L480440-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L480440-S3" synset="wikidata-ms-L480440-S3" ili="wikidata-ms-L480440-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L480440-S4" synset="wikidata-ms-L480440-S4" ili="wikidata-ms-L480440-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L480440-S5" synset="wikidata-ms-L480440-S5" ili="wikidata-ms-L480440-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L480440-S6" synset="wikidata-ms-L480440-S6" ili="wikidata-ms-L480440-S6">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L482177">
+      <Lemma writtenForm="kedua-dua" partOfSpeech="determiner"/>
+      <Sense id="L482177-S1" synset="wikidata-ms-L482177-S1" ili="wikidata-ms-L482177-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625699">
+      <Lemma writtenForm="ulas" partOfSpeech="classifier"/>
+      <Sense id="L625699-S1" synset="wikidata-ms-L625699-S1" ili="wikidata-ms-L625699-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941707">
+      <Lemma writtenForm="situ" partOfSpeech="locative noun"/>
+      <Sense id="L941707-S1" synset="wikidata-ms-L941707-S1" ili="wikidata-ms-L941707-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1085623">
+      <Lemma writtenForm="tongkol" partOfSpeech="classifier"/>
+      <Sense id="L1085623-S1" synset="wikidata-ms-L1085623-S1" ili="wikidata-ms-L1085623-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319285">
+      <Lemma writtenForm="mengapa" partOfSpeech="interrogative word"/>
+      <Sense id="L1319285-S1" synset="wikidata-ms-L1319285-S1" ili="wikidata-ms-L1319285-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407688">
+      <Lemma writtenForm="alaihissalam" partOfSpeech="interjection"/>
+      <Sense id="L1407688-S1" synset="wikidata-ms-L1407688-S1" ili="wikidata-ms-L1407688-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408625">
+      <Lemma writtenForm="you" partOfSpeech="personal pronoun"/>
+      <Sense id="L1408625-S1" synset="wikidata-ms-L1408625-S1" ili="wikidata-ms-L1408625-S1">
+        <Definition>awak, kamu, engkau, anda</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410113">
+      <Lemma writtenForm="ah" partOfSpeech="interjection"/>
+      <Sense id="L1410113-S1" synset="wikidata-ms-L1410113-S1" ili="wikidata-ms-L1410113-S1">
+        <Definition>(kata untuk menyatakan kehairanan)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410972">
+      <Lemma writtenForm="keping" partOfSpeech="classifier"/>
+      <Sense id="L1410972-S1" synset="wikidata-ms-L1410972-S1" ili="wikidata-ms-L1410972-S1">
+        <Definition>(penjodoh bilangan untuk benda-benda yang pipih atau tipis atau yang lebar meluas)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1412494">
+      <Lemma writtenForm="sungguhpun" partOfSpeech="conjunction"/>
+      <Sense id="L1412494-S1" synset="wikidata-ms-L1412494-S1" ili="wikidata-ms-L1412494-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1415270">
+      <Lemma writtenForm="apa-apa" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1415270-S1" synset="wikidata-ms-L1415270-S1" ili="wikidata-ms-L1415270-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1415270-S2" synset="wikidata-ms-L1415270-S2" ili="wikidata-ms-L1415270-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524919">
+      <Lemma writtenForm="semenjak" partOfSpeech="preposition"/>
+      <Sense id="L1524919-S1" synset="wikidata-ms-L1524919-S1" ili="wikidata-ms-L1524919-S1">
+        <Definition>since</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1546751">
+      <Lemma writtenForm="kenapa" partOfSpeech="interrogative word"/>
+      <Sense id="L1546751-S1" synset="wikidata-ms-L1546751-S1" ili="wikidata-ms-L1546751-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1763">
+      <Lemma writtenForm="antara" partOfSpeech="preposition"/>
+      <Sense id="L1763-S1" synset="wikidata-ms-L1763-S1" ili="wikidata-ms-L1763-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184912">
+      <Lemma writtenForm="-nya" partOfSpeech="possessive determiner"/>
+      <Sense id="L184912-S1" synset="wikidata-ms-L184912-S1" ili="wikidata-ms-L184912-S1">
+        <Definition>kata penentu posesif tunggal diri ketiga, digabung kepada kata nama</Definition>
+        <Example>Hantar kek ini ke rumahnya.</Example>
+      </Sense>
+      <Sense id="L184912-S2" synset="wikidata-ms-L184912-S2" ili="wikidata-ms-L184912-S2">
+        <Definition>kata ganti nama objek tunggal diri ketiga, digabung kepada kata kerja transitif atau kata depan</Definition>
+        <Example>Hantar kek ini kepadanya.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450410">
+      <Lemma writtenForm="buah" partOfSpeech="classifier"/>
+      <Sense id="L450410-S1" synset="wikidata-ms-L450410-S1" ili="wikidata-ms-L450410-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450599">
+      <Lemma writtenForm="itu" partOfSpeech="determiner"/>
+      <Sense id="L450599-S1" synset="wikidata-ms-L450599-S1" ili="wikidata-ms-L450599-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476760">
+      <Lemma writtenForm="jikalau" partOfSpeech="conjunction"/>
+      <Sense id="L476760-S1" synset="wikidata-ms-L476760-S1" ili="wikidata-ms-L476760-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477329">
+      <Lemma writtenForm="oleh" partOfSpeech="preposition"/>
+      <Sense id="L477329-S1" synset="wikidata-ms-L477329-S1" ili="wikidata-ms-L477329-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479840">
+      <Lemma writtenForm="pasuk" partOfSpeech="root"/>
+      <Sense id="L479840-S1" synset="wikidata-ms-L479840-S1" ili="wikidata-ms-L479840-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479973">
+      <Lemma writtenForm="pun" partOfSpeech="resumptive pronoun"/>
+      <Sense id="L479973-S1" synset="wikidata-ms-L479973-S1" ili="wikidata-ms-L479973-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480013">
+      <Lemma writtenForm="pelbagai" partOfSpeech="determiner"/>
+      <Sense id="L480013-S1" synset="wikidata-ms-L480013-S1" ili="wikidata-ms-L480013-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L733906">
+      <Lemma writtenForm="sebelah" partOfSpeech="numeral"/>
+      <Sense id="L733906-S1" synset="wikidata-ms-L733906-S1" ili="wikidata-ms-L733906-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1085822">
+      <Lemma writtenForm="bentuk" partOfSpeech="classifier"/>
+      <Sense id="L1085822-S1" synset="wikidata-ms-L1085822-S1" ili="wikidata-ms-L1085822-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407691">
+      <Lemma writtenForm="anak kepada" partOfSpeech="prepositional locution"/>
+      <Sense id="L1407691-S1" synset="wikidata-ms-L1407691-S1" ili="wikidata-ms-L1407691-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407695">
+      <Lemma writtenForm="anak perempuan kepada" partOfSpeech="prepositional locution"/>
+      <Sense id="L1407695-S1" synset="wikidata-ms-L1407695-S1" ili="wikidata-ms-L1407695-S1">
+        <Definition></Definition>
+        <SenseRelation relType="hypernym" target="wikidata-ms-L1407691-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408103">
+      <Lemma writtenForm="misalnya" partOfSpeech="preposition"/>
+      <Sense id="L1408103-S1" synset="wikidata-ms-L1408103-S1" ili="wikidata-ms-L1408103-S1">
+        <Definition>contohnya; umpamanya</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409098">
+      <Lemma writtenForm="satu-satunya" partOfSpeech="pronoun"/>
+      <Sense id="L1409098-S1" synset="wikidata-ms-L1409098-S1" ili="wikidata-ms-L1409098-S1">
+        <Definition>tidak ada yang lain, satu sahaja</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409232">
+      <Lemma writtenForm="gua" partOfSpeech="personal pronoun"/>
+      <Sense id="L1409232-S1" synset="wikidata-ms-L1409232-S1" ili="wikidata-ms-L1409232-S1">
+        <Definition>aku, saya</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409377">
+      <Lemma writtenForm="abad" partOfSpeech="partitive"/>
+      <Sense id="L1409377-S1" synset="wikidata-ms-L1409377-S1" ili="wikidata-ms-L1409377-S1">
+        <Definition>kurun</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1413735">
+      <Lemma writtenForm="yakni" partOfSpeech="conjunction"/>
+      <Sense id="L1413735-S1" synset="wikidata-ms-L1413735-S1" ili="wikidata-ms-L1413735-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1457402">
+      <Lemma writtenForm="semesta" partOfSpeech="partitive"/>
+      <Sense id="L1457402-S1" synset="wikidata-ms-L1457402-S1" ili="wikidata-ms-L1457402-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1462897">
+      <Lemma writtenForm="selaku" partOfSpeech="conjunction"/>
+      <Sense id="L1462897-S1" synset="wikidata-ms-L1462897-S1" ili="wikidata-ms-L1462897-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524927">
+      <Lemma writtenForm="setakat" partOfSpeech="preposition"/>
+      <Sense id="L1524927-S1" synset="wikidata-ms-L1524927-S1" ili="wikidata-ms-L1524927-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L184919">
+      <Lemma writtenForm="ekor" partOfSpeech="classifier"/>
+      <Sense id="L184919-S1" synset="wikidata-ms-L184919-S1" ili="wikidata-ms-L184919-S1">
+        <Definition>penjodoh bilangan untuk haiwan</Definition>
+        <Example>ada rapang lima belas ekor</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L202863">
+      <Lemma writtenForm="bilah" partOfSpeech="classifier"/>
+      <Sense id="L202863-S1" synset="wikidata-ms-L202863-S1" ili="wikidata-ms-L202863-S1">
+        <Definition></Definition>
+        <Example>Hang Tuah dan kelima bersaudara itu pun sudah memanggung tiga-tiga bilah seligi pada seorang.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450616">
+      <Lemma writtenForm="orang" partOfSpeech="classifier"/>
+      <Sense id="L450616-S1" synset="wikidata-ms-L450616-S1" ili="wikidata-ms-L450616-S1">
+        <Definition>penjodoh bilangan untuk manusia</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476551">
+      <Lemma writtenForm="hingga" partOfSpeech="conjunction"/>
+      <Sense id="L476551-S1" synset="wikidata-ms-L476551-S1" ili="wikidata-ms-L476551-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476758">
+      <Lemma writtenForm="jika" partOfSpeech="conjunction"/>
+      <Sense id="L476758-S1" synset="wikidata-ms-L476758-S1" ili="wikidata-ms-L476758-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476775">
+      <Lemma writtenForm="sepanjang" partOfSpeech="preposition"/>
+      <Sense id="L476775-S1" synset="wikidata-ms-L476775-S1" ili="wikidata-ms-L476775-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477334">
+      <Lemma writtenForm="adalah" partOfSpeech="grammatical particle"/>
+      <Sense id="L477334-S1" synset="wikidata-ms-L477334-S1" ili="wikidata-ms-L477334-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477335">
+      <Lemma writtenForm="-lah" partOfSpeech="emphatic particle"/>
+      <Sense id="L477335-S1" synset="wikidata-ms-L477335-S1" ili="wikidata-ms-L477335-S1">
+        <Definition>(menguatkan maksud atau pengertian kata itu)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477345">
+      <Lemma writtenForm="bahawa" partOfSpeech="conjunction"/>
+      <Sense id="L477345-S1" synset="wikidata-ms-L477345-S1" ili="wikidata-ms-L477345-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477981">
+      <Lemma writtenForm="ke- -an" partOfSpeech="circumfix"/>
+      <Sense id="L477981-S1" synset="wikidata-ms-L477981-S1" ili="wikidata-ms-L477981-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479975">
+      <Lemma writtenForm="walau" partOfSpeech="conjunction"/>
+      <Sense id="L479975-S1" synset="wikidata-ms-L479975-S1" ili="wikidata-ms-L479975-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480439">
+      <Lemma writtenForm="para" partOfSpeech="determiner"/>
+      <Sense id="L480439-S1" synset="wikidata-ms-L480439-S1" ili="wikidata-ms-L480439-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L486514">
+      <Lemma writtenForm="pe- -an" partOfSpeech="circumfix"/>
+      <Sense id="L486514-S1" synset="wikidata-ms-L486514-S1" ili="wikidata-ms-L486514-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L733044">
+      <Lemma writtenForm="sesetengah" partOfSpeech="numeral"/>
+      <Sense id="L733044-S1" synset="wikidata-ms-L733044-S1" ili="wikidata-ms-L733044-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1404921">
+      <Lemma writtenForm="Sallallahualaihiwasallam" partOfSpeech="interjection"/>
+      <Sense id="L1404921-S1" synset="wikidata-ms-L1404921-S1" ili="wikidata-ms-L1404921-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407689">
+      <Lemma writtenForm="-ku" partOfSpeech="possessive determiner"/>
+      <Sense id="L1407689-S1" synset="wikidata-ms-L1407689-S1" ili="wikidata-ms-L1407689-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1407689-S2" synset="wikidata-ms-L1407689-S2" ili="wikidata-ms-L1407689-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408133">
+      <Lemma writtenForm="unit" partOfSpeech="partitive"/>
+      <Sense id="L1408133-S1" synset="wikidata-ms-L1408133-S1" ili="wikidata-ms-L1408133-S1">
+        <Definition>satuan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408227">
+      <Lemma writtenForm="seseorang" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1408227-S1" synset="wikidata-ms-L1408227-S1" ili="wikidata-ms-L1408227-S1">
+        <Definition>mana-mana orang; sesiapa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409378">
+      <Lemma writtenForm="kurun" partOfSpeech="partitive"/>
+      <Sense id="L1409378-S1" synset="wikidata-ms-L1409378-S1" ili="wikidata-ms-L1409378-S1">
+        <Definition>abad</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1524920">
+      <Lemma writtenForm="-em-" partOfSpeech="infix"/>
+      <Sense id="L1524920-S1" synset="wikidata-ms-L1524920-S1" ili="wikidata-ms-L1524920-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1524920-S2" synset="wikidata-ms-L1524920-S2" ili="wikidata-ms-L1524920-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1769">
+      <Lemma writtenForm="kecuali" partOfSpeech="preposition"/>
+      <Sense id="L1769-S1" synset="wikidata-ms-L1769-S1" ili="wikidata-ms-L1769-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L15621">
+      <Lemma writtenForm="kalian" partOfSpeech="pronoun"/>
+      <Sense id="L15621-S1" synset="wikidata-ms-L15621-S1" ili="wikidata-ms-L15621-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L60364">
+      <Lemma writtenForm="dan" partOfSpeech="conjunction"/>
+      <Sense id="L60364-S1" synset="wikidata-ms-L60364-S1" ili="l1385-s1">
+        <Definition>digunakan untuk mengabung dua perkataan, frasa atau ayat</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L450603">
+      <Lemma writtenForm="beliau" partOfSpeech="pronoun"/>
+      <Sense id="L450603-S1" synset="wikidata-ms-L450603-S1" ili="wikidata-ms-L450603-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477341">
+      <Lemma writtenForm="bagi" partOfSpeech="preposition"/>
+      <Sense id="L477341-S1" synset="wikidata-ms-L477341-S1" ili="wikidata-ms-L477341-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477349">
+      <Lemma writtenForm="lepas" partOfSpeech="preposition"/>
+      <Sense id="L477349-S1" synset="wikidata-ms-L477349-S1" ili="wikidata-ms-L477349-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479865">
+      <Lemma writtenForm="melalui" partOfSpeech="preposition"/>
+      <Sense id="L479865-S1" synset="wikidata-ms-L479865-S1" ili="wikidata-ms-L479865-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479983">
+      <Lemma writtenForm="terhadap" partOfSpeech="preposition"/>
+      <Sense id="L479983-S1" synset="wikidata-ms-L479983-S1" ili="wikidata-ms-L479983-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L481466">
+      <Lemma writtenForm="mengenai" partOfSpeech="preposition"/>
+      <Sense id="L481466-S1" synset="wikidata-ms-L481466-S1" ili="wikidata-ms-L481466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L481474">
+      <Lemma writtenForm="manakala" partOfSpeech="conjunction"/>
+      <Sense id="L481474-S1" synset="wikidata-ms-L481474-S1" ili="wikidata-ms-L481474-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L481506">
+      <Lemma writtenForm="helai" partOfSpeech="classifier"/>
+      <Sense id="L481506-S1" synset="wikidata-ms-L481506-S1" ili="wikidata-ms-L481506-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L482169">
+      <Lemma writtenForm="sementara" partOfSpeech="conjunction"/>
+      <Sense id="L482169-S1" synset="wikidata-ms-L482169-S1" ili="wikidata-ms-L482169-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L482178">
+      <Lemma writtenForm="kedua-duanya" partOfSpeech="definite pronoun"/>
+      <Sense id="L482178-S1" synset="wikidata-ms-L482178-S1" ili="wikidata-ms-L482178-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643291">
+      <Lemma writtenForm="supaya" partOfSpeech="conjunction"/>
+      <Sense id="L643291-S1" synset="wikidata-ms-L643291-S1" ili="wikidata-ms-L643291-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L663532">
+      <Lemma writtenForm="agar" partOfSpeech="conjunction"/>
+      <Sense id="L663532-S1" synset="wikidata-ms-L663532-S1" ili="wikidata-ms-L663532-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700180">
+      <Lemma writtenForm="hamparan" partOfSpeech="classifier"/>
+      <Sense id="L700180-S1" synset="wikidata-ms-L700180-S1" ili="wikidata-ms-L700180-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094326">
+      <Lemma writtenForm="masing-masing" partOfSpeech="distributive pronoun"/>
+      <Sense id="L1094326-S1" synset="wikidata-ms-L1094326-S1" ili="wikidata-ms-L1094326-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407681">
+      <Lemma writtenForm="-el-" partOfSpeech="infix"/>
+      <Sense id="L1407681-S1" synset="wikidata-ms-L1407681-S1" ili="wikidata-ms-L1407681-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407947">
+      <Lemma writtenForm="bidang" partOfSpeech="classifier"/>
+      <Sense id="L1407947-S1" synset="wikidata-ms-L1407947-S1" ili="wikidata-ms-L1407947-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408098">
+      <Lemma writtenForm="hektar" partOfSpeech="partitive"/>
+      <Sense id="L1408098-S1" synset="wikidata-ms-L1408098-S1" ili="wikidata-ms-L1408098-S1">
+        <Definition>ukuran luas yang besarnya 2.471 ekar</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408099">
+      <Lemma writtenForm="meter" partOfSpeech="partitive"/>
+      <Sense id="L1408099-S1" synset="wikidata-ms-L1408099-S1" ili="wikidata-ms-L1408099-S1">
+        <Definition>39.37 inci; 100 sentimeter</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408102">
+      <Lemma writtenForm="Allahyarham" partOfSpeech="honorific particle"/>
+      <Sense id="L1408102-S1" synset="wikidata-ms-L1408102-S1" ili="wikidata-ms-L1408102-S1">
+        <Definition>(digunakan sebelum nama orang lelaki Islam yang telah meninggal)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408605">
+      <Lemma writtenForm="tahun" partOfSpeech="partitive"/>
+      <Sense id="L1408605-S1" synset="wikidata-ms-L1408605-S1" ili="wikidata-ms-L1408605-S1">
+        <Definition>warsa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408651">
+      <Lemma writtenForm="si" partOfSpeech="definite article"/>
+      <Sense id="L1408651-S1" synset="wikidata-ms-L1408651-S1" ili="wikidata-ms-L1408651-S1">
+        <Definition>(kata sandang yang digunakan di depan nama)</Definition>
+        <Example>Sewaktu sedang mabuk Abu memberitahu Adam bahawa dia ternampak Hawa, isteri Adam, sedang bermesra-mesra bersama Sani, si penjual sayur di pasar.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409376">
+      <Lemma writtenForm="patah" partOfSpeech="classifier"/>
+      <Sense id="L1409376-S1" synset="wikidata-ms-L1409376-S1" ili="wikidata-ms-L1409376-S1">
+        <Definition>(penjodoh bilangan untuk kata)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1415899">
+      <Lemma writtenForm="rumpun" partOfSpeech="partitive"/>
+      <Sense id="L1415899-S1" synset="wikidata-ms-L1415899-S1" ili="wikidata-ms-L1415899-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1474633">
+      <Lemma writtenForm="ketujuh-tujuh" partOfSpeech="determiner"/>
+      <Sense id="L1474633-S1" synset="wikidata-ms-L1474633-S1" ili="wikidata-ms-L1474633-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691">
+      <Lemma writtenForm="saya" partOfSpeech="possessive determiner"/>
+      <Sense id="L691-S1" synset="wikidata-ms-L691-S1" ili="wikidata-ms-L691-S1">
+        <Definition></Definition>
+        <Example>Surat rayuan saya telah diserahkan kepada Dewan Rakyat.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1770">
+      <Lemma writtenForm="kepada" partOfSpeech="preposition"/>
+      <Sense id="L1770-S1" synset="wikidata-ms-L1770-S1" ili="wikidata-ms-L1770-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1772">
+      <Lemma writtenForm="untuk" partOfSpeech="preposition"/>
+      <Sense id="L1772-S1" synset="wikidata-ms-L1772-S1" ili="wikidata-ms-L1772-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L121610">
+      <Lemma writtenForm="kau" partOfSpeech="personal pronoun"/>
+      <Sense id="L121610-S1" synset="wikidata-ms-L121610-S1" ili="wikidata-ms-L121610-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L311431">
+      <Lemma writtenForm="pada" partOfSpeech="preposition"/>
+      <Sense id="L311431-S1" synset="wikidata-ms-L311431-S1" ili="wikidata-ms-L311431-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L475583">
+      <Lemma writtenForm="tanpa" partOfSpeech="preposition"/>
+      <Sense id="L475583-S1" synset="wikidata-ms-L475583-S1" ili="wikidata-ms-L475583-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476759">
+      <Lemma writtenForm="kalau" partOfSpeech="conjunction"/>
+      <Sense id="L476759-S1" synset="wikidata-ms-L476759-S1" ili="wikidata-ms-L476759-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477331">
+      <Lemma writtenForm="bagai" partOfSpeech="preposition"/>
+      <Sense id="L477331-S1" synset="wikidata-ms-L477331-S1" ili="wikidata-ms-L477331-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479835">
+      <Lemma writtenForm="termasuk" partOfSpeech="preposition"/>
+      <Sense id="L479835-S1" synset="wikidata-ms-L479835-S1" ili="wikidata-ms-L479835-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479971">
+      <Lemma writtenForm="tiap" partOfSpeech="determiner"/>
+      <Sense id="L479971-S1" synset="wikidata-ms-L479971-S1" ili="wikidata-ms-L479971-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479988">
+      <Lemma writtenForm="peR- -an" partOfSpeech="circumfix"/>
+      <Sense id="L479988-S1" synset="wikidata-ms-L479988-S1" ili="wikidata-ms-L479988-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479991">
+      <Lemma writtenForm="peN- -an" partOfSpeech="circumfix"/>
+      <Sense id="L479991-S1" synset="wikidata-ms-L479991-S1" ili="wikidata-ms-L479991-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480008">
+      <Lemma writtenForm="sendiri" partOfSpeech="reflexive adjective"/>
+      <Sense id="L480008-S1" synset="wikidata-ms-L480008-S1" ili="wikidata-ms-L480008-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480443">
+      <Lemma writtenForm="setelah" partOfSpeech="conjunction"/>
+      <Sense id="L480443-S1" synset="wikidata-ms-L480443-S1" ili="wikidata-ms-L480443-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483783">
+      <Lemma writtenForm="belakang" partOfSpeech="preposition"/>
+      <Sense id="L483783-S1" synset="wikidata-ms-L483783-S1" ili="wikidata-ms-L483783-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L618502">
+      <Lemma writtenForm="bilion" partOfSpeech="partitive"/>
+      <Sense id="L618502-S1" synset="wikidata-ms-L618502-S1" ili="wikidata-ms-L618502-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L625698">
+      <Lemma writtenForm="laras" partOfSpeech="classifier"/>
+      <Sense id="L625698-S1" synset="wikidata-ms-L625698-S1" ili="wikidata-ms-L625698-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643271">
+      <Lemma writtenForm="utas" partOfSpeech="classifier"/>
+      <Sense id="L643271-S1" synset="wikidata-ms-L643271-S1" ili="wikidata-ms-L643271-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L692026">
+      <Lemma writtenForm="beR- -kan" partOfSpeech="circumfix"/>
+      <Sense id="L692026-S1" synset="wikidata-ms-L692026-S1" ili="wikidata-ms-L692026-S1">
+        <Definition>menjadikan sesuatu sebagai maksud dalam kata dasar</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1085042">
+      <Lemma writtenForm="rol" partOfSpeech="classifier"/>
+      <Sense id="L1085042-S1" synset="wikidata-ms-L1085042-S1" ili="wikidata-ms-L1085042-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094551">
+      <Lemma writtenForm="mana-mana" partOfSpeech="pronoun"/>
+      <Sense id="L1094551-S1" synset="wikidata-ms-L1094551-S1" ili="wikidata-ms-L1094551-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1388837">
+      <Lemma writtenForm="kumpulan" partOfSpeech="partitive"/>
+      <Sense id="L1388837-S1" synset="wikidata-ms-L1388837-S1" ili="wikidata-ms-L1388837-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1398429">
+      <Lemma writtenForm="terlalu" partOfSpeech="intensifier"/>
+      <Sense id="L1398429-S1" synset="wikidata-ms-L1398429-S1" ili="wikidata-ms-L1398429-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1407692">
+      <Lemma writtenForm="anak lelaki kepada" partOfSpeech="prepositional locution"/>
+      <Sense id="L1407692-S1" synset="wikidata-ms-L1407692-S1" ili="wikidata-ms-L1407692-S1">
+        <Definition></Definition>
+        <SenseRelation relType="hypernym" target="wikidata-ms-L1407691-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408100">
+      <Lemma writtenForm="dekad" partOfSpeech="partitive"/>
+      <Sense id="L1408100-S1" synset="wikidata-ms-L1408100-S1" ili="wikidata-ms-L1408100-S1">
+        <Definition>jangka masa sepuluh tahun, dasawarsa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408631">
+      <Lemma writtenForm="kilometer" partOfSpeech="partitive"/>
+      <Sense id="L1408631-S1" synset="wikidata-ms-L1408631-S1" ili="wikidata-ms-L1408631-S1">
+        <Definition>seribu meter</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408783">
+      <Lemma writtenForm="seri" partOfSpeech="honorific particle"/>
+      <Sense id="L1408783-S1" synset="wikidata-ms-L1408783-S1" ili="wikidata-ms-L1408783-S1">
+        <Definition>(panggilan untuk memuliakan)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409187">
+      <Lemma writtenForm="banzai" partOfSpeech="interjection"/>
+      <Sense id="L1409187-S1" synset="wikidata-ms-L1409187-S1" ili="l334118-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409569">
+      <Lemma writtenForm="ons" partOfSpeech="partitive"/>
+      <Sense id="L1409569-S1" synset="wikidata-ms-L1409569-S1" ili="wikidata-ms-L1409569-S1">
+        <Definition>auns</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1412410">
+      <Lemma writtenForm="di bawah" partOfSpeech="preposition"/>
+      <Sense id="L1412410-S1" synset="wikidata-ms-L1412410-S1" ili="wikidata-ms-L1412410-S1">
+        <Definition>di tempat yang lebih rendah</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1547219">
+      <Lemma writtenForm="bahkan" partOfSpeech="conjunction"/>
+      <Sense id="L1547219-S1" synset="wikidata-ms-L1547219-S1" ili="wikidata-ms-L1547219-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1768">
+      <Lemma writtenForm="ke" partOfSpeech="preposition"/>
+      <Sense id="L1768-S1" synset="wikidata-ms-L1768-S1" ili="wikidata-ms-L1768-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L476548">
+      <Lemma writtenForm="semasa" partOfSpeech="preposition"/>
+      <Sense id="L476548-S1" synset="wikidata-ms-L476548-S1" ili="wikidata-ms-L476548-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477336">
+      <Lemma writtenForm="ialah" partOfSpeech="grammatical particle"/>
+      <Sense id="L477336-S1" synset="wikidata-ms-L477336-S1" ili="wikidata-ms-L477336-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477351">
+      <Lemma writtenForm="tetapi" partOfSpeech="conjunction"/>
+      <Sense id="L477351-S1" synset="wikidata-ms-L477351-S1" ili="wikidata-ms-L477351-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L477355">
+      <Lemma writtenForm="berapa" partOfSpeech="determiner"/>
+      <Sense id="L477355-S1" synset="wikidata-ms-L477355-S1" ili="wikidata-ms-L477355-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479855">
+      <Lemma writtenForm="menurut" partOfSpeech="preposition"/>
+      <Sense id="L479855-S1" synset="wikidata-ms-L479855-S1" ili="wikidata-ms-L479855-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L479985">
+      <Lemma writtenForm="per" partOfSpeech="preposition"/>
+      <Sense id="L479985-S1" synset="wikidata-ms-L479985-S1" ili="wikidata-ms-L479985-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480016">
+      <Lemma writtenForm="sejak" partOfSpeech="preposition"/>
+      <Sense id="L480016-S1" synset="wikidata-ms-L480016-S1" ili="wikidata-ms-L480016-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480454">
+      <Lemma writtenForm="selama" partOfSpeech="preposition"/>
+      <Sense id="L480454-S1" synset="wikidata-ms-L480454-S1" ili="wikidata-ms-L480454-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L480466">
+      <Lemma writtenForm="sekitar" partOfSpeech="preposition"/>
+      <Sense id="L480466-S1" synset="wikidata-ms-L480466-S1" ili="wikidata-ms-L480466-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L483785">
+      <Lemma writtenForm="baginda" partOfSpeech="pronoun"/>
+      <Sense id="L483785-S1" synset="wikidata-ms-L483785-S1" ili="wikidata-ms-L483785-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L700497">
+      <Lemma writtenForm="naskhah" partOfSpeech="classifier"/>
+      <Sense id="L700497-S1" synset="wikidata-ms-L700497-S1" ili="wikidata-ms-L700497-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L733761">
+      <Lemma writtenForm="is" partOfSpeech="interjection"/>
+      <Sense id="L733761-S1" synset="wikidata-ms-L733761-S1" ili="wikidata-ms-L733761-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L769741">
+      <Lemma writtenForm="berikutan" partOfSpeech="preposition"/>
+      <Sense id="L769741-S1" synset="wikidata-ms-L769741-S1" ili="wikidata-ms-L769741-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941706">
+      <Lemma writtenForm="sini" partOfSpeech="pronoun"/>
+      <Sense id="L941706-S1" synset="wikidata-ms-L941706-S1" ili="wikidata-ms-L941706-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1019584">
+      <Lemma writtenForm="sewaktu" partOfSpeech="conjunction"/>
+      <Sense id="L1019584-S1" synset="wikidata-ms-L1019584-S1" ili="wikidata-ms-L1019584-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1084271">
+      <Lemma writtenForm="sayat" partOfSpeech="classifier"/>
+      <Sense id="L1084271-S1" synset="wikidata-ms-L1084271-S1" ili="wikidata-ms-L1084271-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1196552">
+      <Lemma writtenForm="demi" partOfSpeech="preposition"/>
+      <Sense id="L1196552-S1" synset="wikidata-ms-L1196552-S1" ili="wikidata-ms-L1196552-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1325626">
+      <Lemma writtenForm="ya" partOfSpeech="interjection"/>
+      <Sense id="L1325626-S1" synset="wikidata-ms-L1325626-S1" ili="wikidata-ms-L1325626-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1325630">
+      <Lemma writtenForm="engkau" partOfSpeech="pronoun"/>
+      <Sense id="L1325630-S1" synset="wikidata-ms-L1325630-S1" ili="wikidata-ms-L1325630-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1400413">
+      <Lemma writtenForm="sekiranya" partOfSpeech="conjunction"/>
+      <Sense id="L1400413-S1" synset="wikidata-ms-L1400413-S1" ili="wikidata-ms-L1400413-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408122">
+      <Lemma writtenForm="dekade" partOfSpeech="partitive"/>
+      <Sense id="L1408122-S1" synset="wikidata-ms-L1408122-S1" ili="wikidata-ms-L1408122-S1">
+        <Definition>dekad, dasawarsa</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408311">
+      <Lemma writtenForm="sang" partOfSpeech="definite article"/>
+      <Sense id="L1408311-S1" synset="wikidata-ms-L1408311-S1" ili="wikidata-ms-L1408311-S1">
+        <Definition>(kata sandang yang lebih hormat daripada si)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408659">
+      <Lemma writtenForm="are" partOfSpeech="partitive"/>
+      <Sense id="L1408659-S1" synset="wikidata-ms-L1408659-S1" ili="wikidata-ms-L1408659-S1">
+        <Definition>ukuran luas, 100 m²</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1409914">
+      <Lemma writtenForm="ketimbang" partOfSpeech="preposition"/>
+      <Sense id="L1409914-S1" synset="wikidata-ms-L1409914-S1" ili="wikidata-ms-L1409914-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1410114">
+      <Lemma writtenForm="zoop" partOfSpeech="interjection"/>
+      <Sense id="L1410114-S1" synset="wikidata-ms-L1410114-S1" ili="wikidata-ms-L1410114-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1449028">
+      <Lemma writtenForm="sebilangan" partOfSpeech="determiner"/>
+      <Sense id="L1449028-S1" synset="wikidata-ms-L1449028-S1" ili="wikidata-ms-L1449028-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1452363">
+      <Lemma writtenForm="wahid" partOfSpeech="numeral"/>
+      <Sense id="L1452363-S1" synset="wikidata-ms-L1452363-S1" ili="wikidata-ms-L1452363-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ms-L690-S1" ili="l487-s1">
+      <Definition>ganti nama diri pertama mufrad (lebih halus daripada aku)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1036-S1" ili="wikidata-ms-L1036-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1764-S1" ili="wikidata-ms-L1764-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1767-S1" ili="wikidata-ms-L1767-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1771-S1" ili="wikidata-ms-L1771-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15616-S1" ili="wikidata-ms-L15616-S1">
+      <Definition>kata ganti diri pertama mufrad</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15617-S1" ili="l482-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15619-S1" ili="wikidata-ms-L15619-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L184911-S1" ili="l1386-s1">
+      <Definition>digunakan untuk mengabung dua pilihan</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450406-S1" ili="wikidata-ms-L450406-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450596-S1" ili="wikidata-ms-L450596-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450600-S1" ili="wikidata-ms-L450600-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L458041-S1" ili="wikidata-ms-L458041-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L473648-S1" ili="wikidata-ms-L473648-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477332-S1" ili="wikidata-ms-L477332-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477357-S1" ili="wikidata-ms-L477357-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480617-S1" ili="wikidata-ms-L480617-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480621-S1" ili="wikidata-ms-L480621-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L481468-S1" ili="wikidata-ms-L481468-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L481729-S1" ili="wikidata-ms-L481729-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L660750-S1" ili="wikidata-ms-L660750-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L686394-S1" ili="wikidata-ms-L686394-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L733042-S1" ili="wikidata-ms-L733042-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1094327-S1" ili="wikidata-ms-L1094327-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1196219-S1" ili="wikidata-ms-L1196219-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1319365-S1" ili="wikidata-ms-L1319365-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1406995-S1" ili="wikidata-ms-L1406995-S1">
+      <Definition>(kata penentu yang bererti itu)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407690-S1" ili="wikidata-ms-L1407690-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407690-S2" ili="wikidata-ms-L1407690-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408543-S1" ili="wikidata-ms-L1408543-S1">
+      <Definition>macam; bangsa</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408583-S1" ili="wikidata-ms-L1408583-S1">
+      <Definition>ke bahagian atas; ke sebelah atas</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408583-S2" ili="wikidata-ms-L1408583-S2">
+      <Definition>lebih, dan tinggi daripada itu</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408653-S1" ili="wikidata-ms-L1408653-S1">
+      <Definition>total</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1411782-S1" ili="wikidata-ms-L1411782-S1">
+      <Definition>satu, esa, tunggal</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1411782-S2" ili="wikidata-ms-L1411782-S2">
+      <Definition>awalan yang bermaksud satu</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1449330-S1" ili="wikidata-ms-L1449330-S1">
+      <Definition>zaman, waktu</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1546750-S1" ili="wikidata-ms-L1546750-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L806-S1" ili="wikidata-ms-L806-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1766-S1" ili="wikidata-ms-L1766-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15618-S1" ili="wikidata-ms-L15618-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450595-S1" ili="wikidata-ms-L450595-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450598-S1" ili="wikidata-ms-L450598-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L465071-S1" ili="wikidata-ms-L465071-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477356-S1" ili="wikidata-ms-L477356-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477358-S1" ili="wikidata-ms-L477358-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477979-S1" ili="wikidata-ms-L477979-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479829-S1" ili="wikidata-ms-L479829-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479848-S1" ili="wikidata-ms-L479848-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480416-S1" ili="wikidata-ms-L480416-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L679456-S1" ili="wikidata-ms-L679456-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L733054-S1" ili="wikidata-ms-L733054-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1081786-S1" ili="wikidata-ms-L1081786-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1085652-S1" ili="wikidata-ms-L1085652-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1144492-S1" ili="wikidata-ms-L1144492-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1374872-S1" ili="wikidata-ms-L1374872-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407946-S1" ili="wikidata-ms-L1407946-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408120-S1" ili="wikidata-ms-L1408120-S1">
+      <Definition>sekon, detik</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408582-S1" ili="wikidata-ms-L1408582-S1">
+      <Definition>di sebelah atas, pada bahagian atas</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408582-S2" ili="wikidata-ms-L1408582-S2">
+      <Definition>lebih tinggi daripada</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408666-S1" ili="wikidata-ms-L1408666-S1">
+      <Definition>(kata untuk menghina)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409398-S1" ili="wikidata-ms-L1409398-S1">
+      <Definition>0.001 kilogram</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409610-S1" ili="wikidata-ms-L1409610-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1412915-S1" ili="wikidata-ms-L1412915-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1412915-S2" ili="wikidata-ms-L1412915-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1412915-S3" ili="wikidata-ms-L1412915-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1453925-S1" ili="wikidata-ms-L1453925-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1546754-S1" ili="wikidata-ms-L1546754-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L794-S1" ili="wikidata-ms-L794-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1765-S1" ili="wikidata-ms-L1765-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15620-S1" ili="wikidata-ms-L15620-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15622-S1" ili="wikidata-ms-L15622-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450597-S1" ili="wikidata-ms-L450597-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L452341-S1" ili="wikidata-ms-L452341-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L475562-S1" ili="wikidata-ms-L475562-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477343-S1" ili="wikidata-ms-L477343-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477984-S1" ili="wikidata-ms-L477984-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479864-S1" ili="wikidata-ms-L479864-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S1" ili="wikidata-ms-L480440-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S2" ili="wikidata-ms-L480440-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S3" ili="wikidata-ms-L480440-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S4" ili="wikidata-ms-L480440-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S5" ili="wikidata-ms-L480440-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480440-S6" ili="wikidata-ms-L480440-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L482177-S1" ili="wikidata-ms-L482177-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L625699-S1" ili="wikidata-ms-L625699-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L941707-S1" ili="wikidata-ms-L941707-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1085623-S1" ili="wikidata-ms-L1085623-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1319285-S1" ili="wikidata-ms-L1319285-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407688-S1" ili="wikidata-ms-L1407688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408625-S1" ili="wikidata-ms-L1408625-S1">
+      <Definition>awak, kamu, engkau, anda</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1410113-S1" ili="wikidata-ms-L1410113-S1">
+      <Definition>(kata untuk menyatakan kehairanan)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1410972-S1" ili="wikidata-ms-L1410972-S1">
+      <Definition>(penjodoh bilangan untuk benda-benda yang pipih atau tipis atau yang lebar meluas)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1412494-S1" ili="wikidata-ms-L1412494-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1415270-S1" ili="wikidata-ms-L1415270-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1415270-S2" ili="wikidata-ms-L1415270-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1524919-S1" ili="wikidata-ms-L1524919-S1">
+      <Definition>since</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1546751-S1" ili="wikidata-ms-L1546751-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1763-S1" ili="wikidata-ms-L1763-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L184912-S1" ili="wikidata-ms-L184912-S1">
+      <Definition>kata penentu posesif tunggal diri ketiga, digabung kepada kata nama</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L184912-S2" ili="wikidata-ms-L184912-S2">
+      <Definition>kata ganti nama objek tunggal diri ketiga, digabung kepada kata kerja transitif atau kata depan</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450410-S1" ili="wikidata-ms-L450410-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450599-S1" ili="wikidata-ms-L450599-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476760-S1" ili="wikidata-ms-L476760-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477329-S1" ili="wikidata-ms-L477329-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479840-S1" ili="wikidata-ms-L479840-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479973-S1" ili="wikidata-ms-L479973-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480013-S1" ili="wikidata-ms-L480013-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L733906-S1" ili="wikidata-ms-L733906-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1085822-S1" ili="wikidata-ms-L1085822-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407691-S1" ili="wikidata-ms-L1407691-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407695-S1" ili="wikidata-ms-L1407695-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408103-S1" ili="wikidata-ms-L1408103-S1">
+      <Definition>contohnya; umpamanya</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409098-S1" ili="wikidata-ms-L1409098-S1">
+      <Definition>tidak ada yang lain, satu sahaja</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409232-S1" ili="wikidata-ms-L1409232-S1">
+      <Definition>aku, saya</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409377-S1" ili="wikidata-ms-L1409377-S1">
+      <Definition>kurun</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1413735-S1" ili="wikidata-ms-L1413735-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1457402-S1" ili="wikidata-ms-L1457402-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1462897-S1" ili="wikidata-ms-L1462897-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1524927-S1" ili="wikidata-ms-L1524927-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L184919-S1" ili="wikidata-ms-L184919-S1">
+      <Definition>penjodoh bilangan untuk haiwan</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L202863-S1" ili="wikidata-ms-L202863-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450616-S1" ili="wikidata-ms-L450616-S1">
+      <Definition>penjodoh bilangan untuk manusia</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476551-S1" ili="wikidata-ms-L476551-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476758-S1" ili="wikidata-ms-L476758-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476775-S1" ili="wikidata-ms-L476775-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477334-S1" ili="wikidata-ms-L477334-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477335-S1" ili="wikidata-ms-L477335-S1">
+      <Definition>(menguatkan maksud atau pengertian kata itu)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477345-S1" ili="wikidata-ms-L477345-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477981-S1" ili="wikidata-ms-L477981-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479975-S1" ili="wikidata-ms-L479975-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480439-S1" ili="wikidata-ms-L480439-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L486514-S1" ili="wikidata-ms-L486514-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L733044-S1" ili="wikidata-ms-L733044-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1404921-S1" ili="wikidata-ms-L1404921-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407689-S1" ili="wikidata-ms-L1407689-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407689-S2" ili="wikidata-ms-L1407689-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408133-S1" ili="wikidata-ms-L1408133-S1">
+      <Definition>satuan</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408227-S1" ili="wikidata-ms-L1408227-S1">
+      <Definition>mana-mana orang; sesiapa</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409378-S1" ili="wikidata-ms-L1409378-S1">
+      <Definition>abad</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1524920-S1" ili="wikidata-ms-L1524920-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1524920-S2" ili="wikidata-ms-L1524920-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1769-S1" ili="wikidata-ms-L1769-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L15621-S1" ili="wikidata-ms-L15621-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L60364-S1" ili="l1385-s1">
+      <Definition>digunakan untuk mengabung dua perkataan, frasa atau ayat</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L450603-S1" ili="wikidata-ms-L450603-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477341-S1" ili="wikidata-ms-L477341-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477349-S1" ili="wikidata-ms-L477349-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479865-S1" ili="wikidata-ms-L479865-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479983-S1" ili="wikidata-ms-L479983-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L481466-S1" ili="wikidata-ms-L481466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L481474-S1" ili="wikidata-ms-L481474-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L481506-S1" ili="wikidata-ms-L481506-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L482169-S1" ili="wikidata-ms-L482169-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L482178-S1" ili="wikidata-ms-L482178-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L643291-S1" ili="wikidata-ms-L643291-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L663532-S1" ili="wikidata-ms-L663532-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L700180-S1" ili="wikidata-ms-L700180-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1094326-S1" ili="wikidata-ms-L1094326-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407681-S1" ili="wikidata-ms-L1407681-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407947-S1" ili="wikidata-ms-L1407947-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408098-S1" ili="wikidata-ms-L1408098-S1">
+      <Definition>ukuran luas yang besarnya 2.471 ekar</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408099-S1" ili="wikidata-ms-L1408099-S1">
+      <Definition>39.37 inci; 100 sentimeter</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408102-S1" ili="wikidata-ms-L1408102-S1">
+      <Definition>(digunakan sebelum nama orang lelaki Islam yang telah meninggal)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408605-S1" ili="wikidata-ms-L1408605-S1">
+      <Definition>warsa</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408651-S1" ili="wikidata-ms-L1408651-S1">
+      <Definition>(kata sandang yang digunakan di depan nama)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409376-S1" ili="wikidata-ms-L1409376-S1">
+      <Definition>(penjodoh bilangan untuk kata)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1415899-S1" ili="wikidata-ms-L1415899-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1474633-S1" ili="wikidata-ms-L1474633-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L691-S1" ili="wikidata-ms-L691-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1770-S1" ili="wikidata-ms-L1770-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1772-S1" ili="wikidata-ms-L1772-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L121610-S1" ili="wikidata-ms-L121610-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L311431-S1" ili="wikidata-ms-L311431-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L475583-S1" ili="wikidata-ms-L475583-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476759-S1" ili="wikidata-ms-L476759-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477331-S1" ili="wikidata-ms-L477331-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479835-S1" ili="wikidata-ms-L479835-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479971-S1" ili="wikidata-ms-L479971-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479988-S1" ili="wikidata-ms-L479988-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479991-S1" ili="wikidata-ms-L479991-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480008-S1" ili="wikidata-ms-L480008-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480443-S1" ili="wikidata-ms-L480443-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L483783-S1" ili="wikidata-ms-L483783-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L618502-S1" ili="wikidata-ms-L618502-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L625698-S1" ili="wikidata-ms-L625698-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L643271-S1" ili="wikidata-ms-L643271-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L692026-S1" ili="wikidata-ms-L692026-S1">
+      <Definition>menjadikan sesuatu sebagai maksud dalam kata dasar</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1085042-S1" ili="wikidata-ms-L1085042-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1094551-S1" ili="wikidata-ms-L1094551-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1388837-S1" ili="wikidata-ms-L1388837-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1398429-S1" ili="wikidata-ms-L1398429-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1407692-S1" ili="wikidata-ms-L1407692-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408100-S1" ili="wikidata-ms-L1408100-S1">
+      <Definition>jangka masa sepuluh tahun, dasawarsa</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408631-S1" ili="wikidata-ms-L1408631-S1">
+      <Definition>seribu meter</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408783-S1" ili="wikidata-ms-L1408783-S1">
+      <Definition>(panggilan untuk memuliakan)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409187-S1" ili="l334118-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409569-S1" ili="wikidata-ms-L1409569-S1">
+      <Definition>auns</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1412410-S1" ili="wikidata-ms-L1412410-S1">
+      <Definition>di tempat yang lebih rendah</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1547219-S1" ili="wikidata-ms-L1547219-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1768-S1" ili="wikidata-ms-L1768-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L476548-S1" ili="wikidata-ms-L476548-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477336-S1" ili="wikidata-ms-L477336-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477351-S1" ili="wikidata-ms-L477351-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L477355-S1" ili="wikidata-ms-L477355-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479855-S1" ili="wikidata-ms-L479855-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L479985-S1" ili="wikidata-ms-L479985-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480016-S1" ili="wikidata-ms-L480016-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480454-S1" ili="wikidata-ms-L480454-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L480466-S1" ili="wikidata-ms-L480466-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L483785-S1" ili="wikidata-ms-L483785-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L700497-S1" ili="wikidata-ms-L700497-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L733761-S1" ili="wikidata-ms-L733761-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L769741-S1" ili="wikidata-ms-L769741-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L941706-S1" ili="wikidata-ms-L941706-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1019584-S1" ili="wikidata-ms-L1019584-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1084271-S1" ili="wikidata-ms-L1084271-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1196552-S1" ili="wikidata-ms-L1196552-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1325626-S1" ili="wikidata-ms-L1325626-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1325630-S1" ili="wikidata-ms-L1325630-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1400413-S1" ili="wikidata-ms-L1400413-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408122-S1" ili="wikidata-ms-L1408122-S1">
+      <Definition>dekad, dasawarsa</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408311-S1" ili="wikidata-ms-L1408311-S1">
+      <Definition>(kata sandang yang lebih hormat daripada si)</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1408659-S1" ili="wikidata-ms-L1408659-S1">
+      <Definition>ukuran luas, 100 m²</Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1409914-S1" ili="wikidata-ms-L1409914-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1410114-S1" ili="wikidata-ms-L1410114-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1449028-S1" ili="wikidata-ms-L1449028-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ms-L1452363-S1" ili="wikidata-ms-L1452363-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

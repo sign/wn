@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-nl"
+                    label="Wikidata NL Lexemes Extension"
+                    language="nl"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-nl" version="1.4"/>
+    <LexicalEntry id="L400">
+      <Lemma writtenForm="vierhonderd" partOfSpeech="numeral"/>
+      <Sense id="L400-S1" synset="wikidata-nl-L400-S1" ili="wikidata-nl-L400-S1">
+        <Definition>&quot;400&quot;, het getal tussen driehonderdnegenennegentig en vierhonderdeen, vier maal honderd</Definition>
+        <Example>We zaten er met z&apos;n vierhonderden op een kluitje, ingeklemd door een strand en een weg met tientallen vrijwel eendere hotels.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21946">
+      <Lemma writtenForm="het" partOfSpeech="personal pronoun"/>
+      <Sense id="L21946-S1" synset="wikidata-nl-L21946-S1" ili="wikidata-nl-L21946-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21951">
+      <Lemma writtenForm="jouw" partOfSpeech="possessive pronoun"/>
+      <Sense id="L21951-S1" synset="wikidata-nl-L21951-S1" ili="wikidata-nl-L21951-S1">
+        <Definition>van jou</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L406985">
+      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Sense id="L406985-S1" synset="wikidata-nl-L406985-S1" ili="wikidata-nl-L406985-S1">
+        <Definition>(stemresultaat)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143025">
+      <Lemma writtenForm="één" partOfSpeech="determiner"/>
+      <Sense id="L1143025-S1" synset="wikidata-nl-L1143025-S1" ili="wikidata-nl-L1143025-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222686">
+      <Lemma writtenForm="twee" partOfSpeech="determiner"/>
+      <Sense id="L1222686-S1" synset="wikidata-nl-L1222686-S1" ili="wikidata-nl-L1222686-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222825">
+      <Lemma writtenForm="negen" partOfSpeech="numeral"/>
+      <Sense id="L1222825-S1" synset="wikidata-nl-L1222825-S1" ili="wikidata-nl-L1222825-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222835">
+      <Lemma writtenForm="negentien" partOfSpeech="numeral"/>
+      <Sense id="L1222835-S1" synset="wikidata-nl-L1222835-S1" ili="wikidata-nl-L1222835-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371967">
+      <Lemma writtenForm="hoi" partOfSpeech="interjection"/>
+      <Sense id="L1371967-S1" synset="wikidata-nl-L1371967-S1" ili="wikidata-nl-L1371967-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1413879">
+      <Lemma writtenForm="best" partOfSpeech="interjection"/>
+      <Sense id="L1413879-S1" synset="wikidata-nl-L1413879-S1" ili="wikidata-nl-L1413879-S1">
+        <Definition>onverbogen vorm van de overtreffende trap van goed</Definition>
+      </Sense>
+      <Sense id="L1413879-S2" synset="wikidata-nl-L1413879-S2" ili="wikidata-nl-L1413879-S2">
+        <Definition>als bevestiging dat iets goed is om te doen</Definition>
+      </Sense>
+      <Sense id="L1413879-S3" synset="wikidata-nl-L1413879-S3" ili="wikidata-nl-L1413879-S3">
+        <Definition>tamelijk</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1415200">
+      <Lemma writtenForm="anderhalf" partOfSpeech="numeral"/>
+      <Sense id="L1415200-S1" synset="wikidata-nl-L1415200-S1" ili="wikidata-nl-L1415200-S1">
+        <Definition>één en een half, 1,5</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1457985">
+      <Lemma writtenForm="hallo" partOfSpeech="interjection"/>
+      <Sense id="L1457985-S1" synset="wikidata-nl-L1457985-S1" ili="wikidata-nl-L1457985-S1">
+        <Definition>Begroeting bij een ontmoeting met iemand.</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21942">
+      <Lemma writtenForm="gij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21942-S1" synset="wikidata-nl-L21942-S1" ili="wikidata-nl-L21942-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L21942-S2" synset="wikidata-nl-L21942-S2" ili="wikidata-nl-L21942-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21944">
+      <Lemma writtenForm="zij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21944-S1" synset="wikidata-nl-L21944-S1" ili="wikidata-nl-L21944-S1">
+        <Definition>persoonlijk voornaamwoord (enkelvoud)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21945">
+      <Lemma writtenForm="hij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21945-S1" synset="wikidata-nl-L21945-S1" ili="wikidata-nl-L21945-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21947">
+      <Lemma writtenForm="wij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21947-S1" synset="wikidata-nl-L21947-S1" ili="wikidata-nl-L21947-S1">
+        <Definition>persoonlijk voornaamwoord</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L499052">
+      <Lemma writtenForm="aan" partOfSpeech="preposition"/>
+      <Sense id="L499052-S1" synset="wikidata-nl-L499052-S1" ili="wikidata-nl-L499052-S1">
+        <Definition>verbonden met, tegen, tegenaan</Definition>
+      </Sense>
+      <Sense id="L499052-S2" synset="wikidata-nl-L499052-S2" ili="wikidata-nl-L499052-S2">
+        <Definition>de ontvangende persoon (datief)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1210584">
+      <Lemma writtenForm="toen" partOfSpeech="conjunction"/>
+      <Sense id="L1210584-S1" synset="wikidata-nl-L1210584-S1" ili="wikidata-nl-L1210584-S1">
+        <Definition>op het tijdstip dat</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216678">
+      <Lemma writtenForm="die" partOfSpeech="personal pronoun"/>
+      <Sense id="L1216678-S1" synset="wikidata-nl-L1216678-S1" ili="wikidata-nl-L1216678-S1">
+        <Definition>persoonlijk voornaamwoord</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222827">
+      <Lemma writtenForm="elf" partOfSpeech="numeral"/>
+      <Sense id="L1222827-S1" synset="wikidata-nl-L1222827-S1" ili="wikidata-nl-L1222827-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222837">
+      <Lemma writtenForm="dertig" partOfSpeech="numeral"/>
+      <Sense id="L1222837-S1" synset="wikidata-nl-L1222837-S1" ili="wikidata-nl-L1222837-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1408688">
+      <Lemma writtenForm="hé" partOfSpeech="interjection"/>
+      <Sense id="L1408688-S1" synset="wikidata-nl-L1408688-S1" ili="wikidata-nl-L1408688-S1">
+        <Definition>uitroep om iemands opmerkzaamheid te wekken</Definition>
+      </Sense>
+      <Sense id="L1408688-S2" synset="wikidata-nl-L1408688-S2" ili="wikidata-nl-L1408688-S2">
+        <Definition>uiting van verwondering</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1415406">
+      <Lemma writtenForm="koest" partOfSpeech="interjection"/>
+      <Sense id="L1415406-S1" synset="wikidata-nl-L1415406-S1" ili="wikidata-nl-L1415406-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1419426">
+      <Lemma writtenForm="of" partOfSpeech="conjunction"/>
+      <Sense id="L1419426-S1" synset="wikidata-nl-L1419426-S1" ili="wikidata-nl-L1419426-S1">
+        <Definition>en anders</Definition>
+      </Sense>
+      <Sense id="L1419426-S2" synset="wikidata-nl-L1419426-S2" ili="wikidata-nl-L1419426-S2">
+        <Definition>dat wel of niet</Definition>
+      </Sense>
+      <Sense id="L1419426-S3" synset="wikidata-nl-L1419426-S3" ili="wikidata-nl-L1419426-S3">
+        <Definition>anders gezegd</Definition>
+      </Sense>
+      <Sense id="L1419426-S4" synset="wikidata-nl-L1419426-S4" ili="wikidata-nl-L1419426-S4">
+        <Definition>bij benadering</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21950">
+      <Lemma writtenForm="mijn" partOfSpeech="possessive pronoun"/>
+      <Sense id="L21950-S1" synset="wikidata-nl-L21950-S1" ili="wikidata-nl-L21950-S1">
+        <Definition>plaats waar delfstoffen worden gewonnen</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21959">
+      <Lemma writtenForm="het" partOfSpeech="definite article"/>
+      <Sense id="L21959-S3" synset="wikidata-nl-L21959-S3" ili="wikidata-nl-L21959-S3">
+        <Definition></Definition>
+        <Example>Het huis.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143024">
+      <Lemma writtenForm="beide" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1143024-S1" synset="wikidata-nl-L1143024-S1" ili="wikidata-nl-L1143024-S1">
+        <Definition>de een en de ander van twee, het tweetal</Definition>
+        <Example>Wat een schattige foto van beide honden.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1171758">
+      <Lemma writtenForm="al" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1171758-S2" synset="wikidata-nl-L1171758-S2" ili="wikidata-nl-L1171758-S2">
+        <Definition>alle ; allemaal</Definition>
+        <Example>Mag ik ervan uitgaan dat allen hiermee instemmen.</Example>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222689">
+      <Lemma writtenForm="vijf" partOfSpeech="numeral"/>
+      <Sense id="L1222689-S1" synset="wikidata-nl-L1222689-S1" ili="wikidata-nl-L1222689-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222836">
+      <Lemma writtenForm="twintig" partOfSpeech="numeral"/>
+      <Sense id="L1222836-S1" synset="wikidata-nl-L1222836-S1" ili="wikidata-nl-L1222836-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1378326">
+      <Lemma writtenForm="en" partOfSpeech="conjunction"/>
+      <Sense id="L1378326-S1" synset="wikidata-nl-L1378326-S1" ili="wikidata-nl-L1378326-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21952">
+      <Lemma writtenForm="uw" partOfSpeech="possessive pronoun"/>
+      <Sense id="L21952-S1" synset="wikidata-nl-L21952-S1" ili="wikidata-nl-L21952-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1130319">
+      <Lemma writtenForm="weinig" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1130319-S1" synset="wikidata-nl-L1130319-S1" ili="wikidata-nl-L1130319-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1149392">
+      <Lemma writtenForm="elkaar" partOfSpeech="reciprocal pronoun"/>
+      <Sense id="L1149392-S1" synset="wikidata-nl-L1149392-S1" ili="wikidata-nl-L1149392-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-nl-L1149394-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1416218">
+      <Lemma writtenForm="zo" partOfSpeech="interjection"/>
+      <Sense id="L1416218-S1" synset="wikidata-nl-L1416218-S1" ili="wikidata-nl-L1416218-S1">
+        <Definition>uiting van verbazing en/of misnoegen</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1416385">
+      <Lemma writtenForm="af" partOfSpeech="adposition"/>
+      <Sense id="L1416385-S1" synset="wikidata-nl-L1416385-S1" ili="wikidata-nl-L1416385-S1">
+        <Definition>van, uit</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1418722">
+      <Lemma writtenForm="dan" partOfSpeech="conjunction"/>
+      <Sense id="L1418722-S1" synset="wikidata-nl-L1418722-S1" ili="wikidata-nl-L1418722-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1418722-S2" synset="wikidata-nl-L1418722-S2" ili="wikidata-nl-L1418722-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21949">
+      <Lemma writtenForm="zij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21949-S1" synset="wikidata-nl-L21949-S1" ili="wikidata-nl-L21949-S1">
+        <Definition>persoonlijk voornaamwoord (meervoud)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222687">
+      <Lemma writtenForm="drie" partOfSpeech="numeral"/>
+      <Sense id="L1222687-S1" synset="wikidata-nl-L1222687-S1" ili="wikidata-nl-L1222687-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222824">
+      <Lemma writtenForm="acht" partOfSpeech="numeral"/>
+      <Sense id="L1222824-S1" synset="wikidata-nl-L1222824-S1" ili="wikidata-nl-L1222824-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222834">
+      <Lemma writtenForm="achttien" partOfSpeech="numeral"/>
+      <Sense id="L1222834-S1" synset="wikidata-nl-L1222834-S1" ili="wikidata-nl-L1222834-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1259343">
+      <Lemma writtenForm="waarnaartoe" partOfSpeech="pronominal adverb"/>
+      <Sense id="L1259343-S1" synset="wikidata-nl-L1259343-S1" ili="wikidata-nl-L1259343-S1">
+        <Definition>vragend in welke richting?</Definition>
+      </Sense>
+      <Sense id="L1259343-S2" synset="wikidata-nl-L1259343-S2" ili="wikidata-nl-L1259343-S2">
+        <Definition>betrekkelijk in welke richting</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1371968">
+      <Lemma writtenForm="tot ziens" partOfSpeech="interjection"/>
+      <Sense id="L1371968-S1" synset="wikidata-nl-L1371968-S1" ili="wikidata-nl-L1371968-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1418673">
+      <Lemma writtenForm="want" partOfSpeech="conjunction"/>
+      <Sense id="L1418673-S1" synset="wikidata-nl-L1418673-S1" ili="wikidata-nl-L1418673-S1">
+        <Definition>dewijl</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1459338">
+      <Lemma writtenForm="wat" partOfSpeech="interjection"/>
+      <Sense id="L1459338-S1" synset="wikidata-nl-L1459338-S1" ili="wikidata-nl-L1459338-S1">
+        <Definition>hè! / echt!</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1459591">
+      <Lemma writtenForm="een" partOfSpeech="determiner"/>
+      <Sense id="L1459591-S1" synset="wikidata-nl-L1459591-S1" ili="wikidata-nl-L1459591-S1">
+        <Definition>komt na nul en vóór twee, in Arabische cijfers 1, in Romeinse cijfers</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21954">
+      <Lemma writtenForm="haar" partOfSpeech="possessive pronoun"/>
+      <Sense id="L21954-S1" synset="wikidata-nl-L21954-S1" ili="wikidata-nl-L21954-S1">
+        <Definition>bezit aanduidend door een derde persoon vrouwelijk enkelvoud</Definition>
+      </Sense>
+      <Sense id="L21954-S3" synset="wikidata-nl-L21954-S3" ili="wikidata-nl-L21954-S3">
+        <Definition>accusatief van zij, derde persoon enkelvoud</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133227">
+      <Lemma writtenForm="zo’n" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1133227-S1" synset="wikidata-nl-L1133227-S1" ili="wikidata-nl-L1133227-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133246">
+      <Lemma writtenForm="zodanig" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1133246-S1" synset="wikidata-nl-L1133246-S1" ili="wikidata-nl-L1133246-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222830">
+      <Lemma writtenForm="veertien" partOfSpeech="numeral"/>
+      <Sense id="L1222830-S1" synset="wikidata-nl-L1222830-S1" ili="wikidata-nl-L1222830-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222832">
+      <Lemma writtenForm="zestien" partOfSpeech="numeral"/>
+      <Sense id="L1222832-S1" synset="wikidata-nl-L1222832-S1" ili="wikidata-nl-L1222832-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1457696">
+      <Lemma writtenForm="niks" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1457696-S1" synset="wikidata-nl-L1457696-S1" ili="l1419444-s1">
+        <Definition>niets</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21940">
+      <Lemma writtenForm="ik" partOfSpeech="personal pronoun"/>
+      <Sense id="L21940-S1" synset="wikidata-nl-L21940-S1" ili="wikidata-nl-L21940-S1">
+        <Definition>(voornaamwoord)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142226">
+      <Lemma writtenForm="aangezien" partOfSpeech="conjunction"/>
+      <Sense id="L1142226-S1" synset="wikidata-nl-L1142226-S1" ili="wikidata-nl-L1142226-S1">
+        <Definition>omdat, sinds</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222688">
+      <Lemma writtenForm="vier" partOfSpeech="numeral"/>
+      <Sense id="L1222688-S1" synset="wikidata-nl-L1222688-S1" ili="wikidata-nl-L1222688-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222828">
+      <Lemma writtenForm="twaalf" partOfSpeech="numeral"/>
+      <Sense id="L1222828-S1" synset="wikidata-nl-L1222828-S1" ili="wikidata-nl-L1222828-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222829">
+      <Lemma writtenForm="dertien" partOfSpeech="numeral"/>
+      <Sense id="L1222829-S1" synset="wikidata-nl-L1222829-S1" ili="wikidata-nl-L1222829-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1318533">
+      <Lemma writtenForm="Pleumeekers" partOfSpeech="family name"/>
+      <Sense id="L1318533-S1" synset="wikidata-nl-L1318533-S1" ili="wikidata-nl-L1318533-S1">
+        <Definition>Acthername</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21941">
+      <Lemma writtenForm="jij" partOfSpeech="personal pronoun"/>
+      <Sense id="L21941-S1" synset="wikidata-nl-L21941-S1" ili="wikidata-nl-L21941-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21943">
+      <Lemma writtenForm="u" partOfSpeech="personal pronoun"/>
+      <Sense id="L21943-S1" synset="wikidata-nl-L21943-S1" ili="wikidata-nl-L21943-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21948">
+      <Lemma writtenForm="jullie" partOfSpeech="personal pronoun"/>
+      <Sense id="L21948-S1" synset="wikidata-nl-L21948-S1" ili="wikidata-nl-L21948-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L21958">
+      <Lemma writtenForm="een" partOfSpeech="indefinite article"/>
+      <Sense id="L21958-S1" synset="wikidata-nl-L21958-S1" ili="wikidata-nl-L21958-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408603">
+      <Lemma writtenForm="van" partOfSpeech="adposition"/>
+      <Sense id="L408603-S1" synset="wikidata-nl-L408603-S1" ili="wikidata-nl-L408603-S1">
+        <Definition>familienaam prefix</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L408607">
+      <Lemma writtenForm="die" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L408607-S1" synset="wikidata-nl-L408607-S1" ili="wikidata-nl-L408607-S1">
+        <Definition>wijst iets aan dat zich niet in de onmiddellijke nabijheid van de spreker bevindt</Definition>
+      </Sense>
+      <Sense id="L408607-S2" synset="wikidata-nl-L408607-S2" ili="wikidata-nl-L408607-S2">
+        <Definition>ter aankondiging van een bepaling</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133245">
+      <Lemma writtenForm="zulk" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1133245-S1" synset="wikidata-nl-L1133245-S1" ili="wikidata-nl-L1133245-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1149394">
+      <Lemma writtenForm="elkander" partOfSpeech="reciprocal pronoun"/>
+      <Sense id="L1149394-S1" synset="wikidata-nl-L1149394-S1" ili="wikidata-nl-L1149394-S1">
+        <Definition></Definition>
+        <SenseRelation relType="similar" target="wikidata-nl-L1149392-S1"/>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1165967">
+      <Lemma writtenForm="door" partOfSpeech="adposition"/>
+      <Sense id="L1165967-S1" synset="wikidata-nl-L1165967-S1" ili="wikidata-nl-L1165967-S1">
+        <Definition>de handelende persoon bij een lijdende vorm</Definition>
+      </Sense>
+      <Sense id="L1165967-S2" synset="wikidata-nl-L1165967-S2" ili="wikidata-nl-L1165967-S2">
+        <Definition>de oorzaak</Definition>
+      </Sense>
+      <Sense id="L1165967-S3" synset="wikidata-nl-L1165967-S3" ili="wikidata-nl-L1165967-S3">
+        <Definition>in</Definition>
+      </Sense>
+      <Sense id="L1165967-S4" synset="wikidata-nl-L1165967-S4" ili="wikidata-nl-L1165967-S4">
+        <Definition>tijdens, gedurende</Definition>
+      </Sense>
+      <Sense id="L1165967-S5" synset="wikidata-nl-L1165967-S5" ili="wikidata-nl-L1165967-S5">
+        <Definition>doorheen, binnenin van de ene kant naar de andere kant</Definition>
+      </Sense>
+      <Sense id="L1165967-S6" synset="wikidata-nl-L1165967-S6" ili="wikidata-nl-L1165967-S6">
+        <Definition>doorheen, aan de ene kant naar binnen en aan de andere kant naar buiten</Definition>
+      </Sense>
+      <Sense id="L1165967-S7" synset="wikidata-nl-L1165967-S7" ili="wikidata-nl-L1165967-S7">
+        <Definition>als achterzetsel: doorheen, van de ene kant naar de andere kant, aan de ene kant naar binnen en aan de andere kant naar buiten</Definition>
+      </Sense>
+      <Sense id="L1165967-S8" synset="wikidata-nl-L1165967-S8" ili="wikidata-nl-L1165967-S8">
+        <Definition>als achterzetsel: van het begin tot het einde, gedurende</Definition>
+      </Sense>
+      <Sense id="L1165967-S9" synset="wikidata-nl-L1165967-S9" ili="wikidata-nl-L1165967-S9">
+        <Definition>door ... te + infinitief; de procedure die gevolgd wordt om het doel te bereiken</Definition>
+      </Sense>
+      <Sense id="L1165967-S10" synset="wikidata-nl-L1165967-S10" ili="wikidata-nl-L1165967-S10">
+        <Definition>de ene stof is door de andere gemengd</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1202721">
+      <Lemma writtenForm="die" partOfSpeech="relative pronoun"/>
+      <Sense id="L1202721-S1" synset="wikidata-nl-L1202721-S1" ili="wikidata-nl-L1202721-S1">
+        <Definition>in een bijzin die het nog niet geheel bekende antecedent nader bepaalt</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1211554">
+      <Lemma writtenForm="iets" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L1211554-S1" synset="wikidata-nl-L1211554-S1" ili="wikidata-nl-L1211554-S1">
+        <Definition>een onbepaalde of niet-gespecificeerde, stoffelijke of onstoffelijke zaak; een ongenoemd voorwerp</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222822">
+      <Lemma writtenForm="zes" partOfSpeech="numeral"/>
+      <Sense id="L1222822-S1" synset="wikidata-nl-L1222822-S1" ili="wikidata-nl-L1222822-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222823">
+      <Lemma writtenForm="zeven" partOfSpeech="numeral"/>
+      <Sense id="L1222823-S1" synset="wikidata-nl-L1222823-S1" ili="wikidata-nl-L1222823-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222831">
+      <Lemma writtenForm="vijftien" partOfSpeech="numeral"/>
+      <Sense id="L1222831-S1" synset="wikidata-nl-L1222831-S1" ili="wikidata-nl-L1222831-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1222833">
+      <Lemma writtenForm="zeventien" partOfSpeech="numeral"/>
+      <Sense id="L1222833-S1" synset="wikidata-nl-L1222833-S1" ili="wikidata-nl-L1222833-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1324958">
+      <Lemma writtenForm="nee" partOfSpeech="interjection"/>
+      <Sense id="L1324958-S1" synset="wikidata-nl-L1324958-S1" ili="wikidata-nl-L1324958-S1">
+        <Definition>ontkenning</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1459105">
+      <Lemma writtenForm="van" partOfSpeech="preposition"/>
+      <Sense id="L1459105-S1" synset="wikidata-nl-L1459105-S1" ili="wikidata-nl-L1459105-S1">
+        <Definition>geeft bezit aan</Definition>
+      </Sense>
+      <Sense id="L1459105-S2" synset="wikidata-nl-L1459105-S2" ili="wikidata-nl-L1459105-S2">
+        <Definition>geeft herkomst aan</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1462515">
+      <Lemma writtenForm="tja" partOfSpeech="interjection"/>
+      <Sense id="L1462515-S1" synset="wikidata-nl-L1462515-S1" ili="wikidata-nl-L1462515-S1">
+        <Definition>drukt uit dat men dit eigenlijk had kunnen weten</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-nl-L400-S1" ili="wikidata-nl-L400-S1">
+      <Definition>&quot;400&quot;, het getal tussen driehonderdnegenennegentig en vierhonderdeen, vier maal honderd</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21946-S1" ili="wikidata-nl-L21946-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21951-S1" ili="wikidata-nl-L21951-S1">
+      <Definition>van jou</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L406985-S1" ili="wikidata-nl-L406985-S1">
+      <Definition>(stemresultaat)</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1143025-S1" ili="wikidata-nl-L1143025-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222686-S1" ili="wikidata-nl-L1222686-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222825-S1" ili="wikidata-nl-L1222825-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222835-S1" ili="wikidata-nl-L1222835-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1371967-S1" ili="wikidata-nl-L1371967-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1413879-S1" ili="wikidata-nl-L1413879-S1">
+      <Definition>onverbogen vorm van de overtreffende trap van goed</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1413879-S2" ili="wikidata-nl-L1413879-S2">
+      <Definition>als bevestiging dat iets goed is om te doen</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1413879-S3" ili="wikidata-nl-L1413879-S3">
+      <Definition>tamelijk</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1415200-S1" ili="wikidata-nl-L1415200-S1">
+      <Definition>één en een half, 1,5</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1457985-S1" ili="wikidata-nl-L1457985-S1">
+      <Definition>Begroeting bij een ontmoeting met iemand.</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21942-S1" ili="wikidata-nl-L21942-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21942-S2" ili="wikidata-nl-L21942-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21944-S1" ili="wikidata-nl-L21944-S1">
+      <Definition>persoonlijk voornaamwoord (enkelvoud)</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21945-S1" ili="wikidata-nl-L21945-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21947-S1" ili="wikidata-nl-L21947-S1">
+      <Definition>persoonlijk voornaamwoord</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L499052-S1" ili="wikidata-nl-L499052-S1">
+      <Definition>verbonden met, tegen, tegenaan</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L499052-S2" ili="wikidata-nl-L499052-S2">
+      <Definition>de ontvangende persoon (datief)</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1210584-S1" ili="wikidata-nl-L1210584-S1">
+      <Definition>op het tijdstip dat</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1216678-S1" ili="wikidata-nl-L1216678-S1">
+      <Definition>persoonlijk voornaamwoord</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222827-S1" ili="wikidata-nl-L1222827-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222837-S1" ili="wikidata-nl-L1222837-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1408688-S1" ili="wikidata-nl-L1408688-S1">
+      <Definition>uitroep om iemands opmerkzaamheid te wekken</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1408688-S2" ili="wikidata-nl-L1408688-S2">
+      <Definition>uiting van verwondering</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1415406-S1" ili="wikidata-nl-L1415406-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1419426-S1" ili="wikidata-nl-L1419426-S1">
+      <Definition>en anders</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1419426-S2" ili="wikidata-nl-L1419426-S2">
+      <Definition>dat wel of niet</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1419426-S3" ili="wikidata-nl-L1419426-S3">
+      <Definition>anders gezegd</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1419426-S4" ili="wikidata-nl-L1419426-S4">
+      <Definition>bij benadering</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21950-S1" ili="wikidata-nl-L21950-S1">
+      <Definition>plaats waar delfstoffen worden gewonnen</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21959-S3" ili="wikidata-nl-L21959-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1143024-S1" ili="wikidata-nl-L1143024-S1">
+      <Definition>de een en de ander van twee, het tweetal</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1171758-S2" ili="wikidata-nl-L1171758-S2">
+      <Definition>alle ; allemaal</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222689-S1" ili="wikidata-nl-L1222689-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222836-S1" ili="wikidata-nl-L1222836-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1378326-S1" ili="wikidata-nl-L1378326-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21952-S1" ili="wikidata-nl-L21952-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1130319-S1" ili="wikidata-nl-L1130319-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1149392-S1" ili="wikidata-nl-L1149392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1416218-S1" ili="wikidata-nl-L1416218-S1">
+      <Definition>uiting van verbazing en/of misnoegen</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1416385-S1" ili="wikidata-nl-L1416385-S1">
+      <Definition>van, uit</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1418722-S1" ili="wikidata-nl-L1418722-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1418722-S2" ili="wikidata-nl-L1418722-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21949-S1" ili="wikidata-nl-L21949-S1">
+      <Definition>persoonlijk voornaamwoord (meervoud)</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222687-S1" ili="wikidata-nl-L1222687-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222824-S1" ili="wikidata-nl-L1222824-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222834-S1" ili="wikidata-nl-L1222834-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1259343-S1" ili="wikidata-nl-L1259343-S1">
+      <Definition>vragend in welke richting?</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1259343-S2" ili="wikidata-nl-L1259343-S2">
+      <Definition>betrekkelijk in welke richting</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1371968-S1" ili="wikidata-nl-L1371968-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1418673-S1" ili="wikidata-nl-L1418673-S1">
+      <Definition>dewijl</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1459338-S1" ili="wikidata-nl-L1459338-S1">
+      <Definition>hè! / echt!</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1459591-S1" ili="wikidata-nl-L1459591-S1">
+      <Definition>komt na nul en vóór twee, in Arabische cijfers 1, in Romeinse cijfers</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21954-S1" ili="wikidata-nl-L21954-S1">
+      <Definition>bezit aanduidend door een derde persoon vrouwelijk enkelvoud</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21954-S3" ili="wikidata-nl-L21954-S3">
+      <Definition>accusatief van zij, derde persoon enkelvoud</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1133227-S1" ili="wikidata-nl-L1133227-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1133246-S1" ili="wikidata-nl-L1133246-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222830-S1" ili="wikidata-nl-L1222830-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222832-S1" ili="wikidata-nl-L1222832-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1457696-S1" ili="l1419444-s1">
+      <Definition>niets</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21940-S1" ili="wikidata-nl-L21940-S1">
+      <Definition>(voornaamwoord)</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1142226-S1" ili="wikidata-nl-L1142226-S1">
+      <Definition>omdat, sinds</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222688-S1" ili="wikidata-nl-L1222688-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222828-S1" ili="wikidata-nl-L1222828-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222829-S1" ili="wikidata-nl-L1222829-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1318533-S1" ili="wikidata-nl-L1318533-S1">
+      <Definition>Acthername</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21941-S1" ili="wikidata-nl-L21941-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21943-S1" ili="wikidata-nl-L21943-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21948-S1" ili="wikidata-nl-L21948-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L21958-S1" ili="wikidata-nl-L21958-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L408603-S1" ili="wikidata-nl-L408603-S1">
+      <Definition>familienaam prefix</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L408607-S1" ili="wikidata-nl-L408607-S1">
+      <Definition>wijst iets aan dat zich niet in de onmiddellijke nabijheid van de spreker bevindt</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L408607-S2" ili="wikidata-nl-L408607-S2">
+      <Definition>ter aankondiging van een bepaling</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1133245-S1" ili="wikidata-nl-L1133245-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1149394-S1" ili="wikidata-nl-L1149394-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S1" ili="wikidata-nl-L1165967-S1">
+      <Definition>de handelende persoon bij een lijdende vorm</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S2" ili="wikidata-nl-L1165967-S2">
+      <Definition>de oorzaak</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S3" ili="wikidata-nl-L1165967-S3">
+      <Definition>in</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S4" ili="wikidata-nl-L1165967-S4">
+      <Definition>tijdens, gedurende</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S5" ili="wikidata-nl-L1165967-S5">
+      <Definition>doorheen, binnenin van de ene kant naar de andere kant</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S6" ili="wikidata-nl-L1165967-S6">
+      <Definition>doorheen, aan de ene kant naar binnen en aan de andere kant naar buiten</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S7" ili="wikidata-nl-L1165967-S7">
+      <Definition>als achterzetsel: doorheen, van de ene kant naar de andere kant, aan de ene kant naar binnen en aan de andere kant naar buiten</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S8" ili="wikidata-nl-L1165967-S8">
+      <Definition>als achterzetsel: van het begin tot het einde, gedurende</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S9" ili="wikidata-nl-L1165967-S9">
+      <Definition>door ... te + infinitief; de procedure die gevolgd wordt om het doel te bereiken</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1165967-S10" ili="wikidata-nl-L1165967-S10">
+      <Definition>de ene stof is door de andere gemengd</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1202721-S1" ili="wikidata-nl-L1202721-S1">
+      <Definition>in een bijzin die het nog niet geheel bekende antecedent nader bepaalt</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1211554-S1" ili="wikidata-nl-L1211554-S1">
+      <Definition>een onbepaalde of niet-gespecificeerde, stoffelijke of onstoffelijke zaak; een ongenoemd voorwerp</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222822-S1" ili="wikidata-nl-L1222822-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222823-S1" ili="wikidata-nl-L1222823-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222831-S1" ili="wikidata-nl-L1222831-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1222833-S1" ili="wikidata-nl-L1222833-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1324958-S1" ili="wikidata-nl-L1324958-S1">
+      <Definition>ontkenning</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1459105-S1" ili="wikidata-nl-L1459105-S1">
+      <Definition>geeft bezit aan</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1459105-S2" ili="wikidata-nl-L1459105-S2">
+      <Definition>geeft herkomst aan</Definition>
+    </Synset>
+    <Synset id="wikidata-nl-L1462515-S1" ili="wikidata-nl-L1462515-S1">
+      <Definition>drukt uit dat men dit eigenlijk had kunnen weten</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

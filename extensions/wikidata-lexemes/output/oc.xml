@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-oc"
+                    label="Wikidata OC Lexemes Extension"
+                    language="oc"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-oc" version="1.4"/>
+    <LexicalEntry id="L57930">
+      <Lemma writtenForm="aqueste" partOfSpeech="demonstrative determiner"/>
+      <Sense id="L57930-S1" synset="wikidata-oc-L57930-S1" ili="wikidata-oc-L57930-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L57929">
+      <Lemma writtenForm="lo" partOfSpeech="definite article"/>
+      <Sense id="L57929-S1" synset="wikidata-oc-L57929-S1" ili="wikidata-oc-L57929-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L41768">
+      <Lemma writtenForm="ostal" partOfSpeech="common noun"/>
+      <Sense id="L41768-S2" synset="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2">
+        <Definition>bastiment fach per l&apos;albèrgament</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-oc-L57930-S1" ili="wikidata-oc-L57930-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-oc-L57929-S1" ili="wikidata-oc-L57929-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2">
+      <Definition>bastiment fach per l&apos;albèrgament</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

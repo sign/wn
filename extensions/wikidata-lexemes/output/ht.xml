@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ht"
+                    label="Wikidata HT Lexemes Extension"
+                    language="ht"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ht" version="1.4"/>
+    <LexicalEntry id="L348645">
+      <Lemma writtenForm="senk" partOfSpeech="numeral"/>
+      <Sense id="L348645-S1" synset="wikidata-ht-L348645-S1" ili="l333-s1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L941921">
+      <Lemma writtenForm="nou" partOfSpeech="personal pronoun"/>
+      <Sense id="L941921-S1" synset="wikidata-ht-L941921-S1" ili="wikidata-ht-L941921-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348171">
+      <Lemma writtenForm="douz" partOfSpeech="numeral"/>
+      <Sense id="L348171-S1" synset="wikidata-ht-L348171-S1" ili="wikidata-ht-L348171-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348172">
+      <Lemma writtenForm="edmi" partOfSpeech="numeral"/>
+      <Sense id="L348172-S1" synset="wikidata-ht-L348172-S1" ili="wikidata-ht-L348172-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348176">
+      <Lemma writtenForm="karant" partOfSpeech="numeral"/>
+      <Sense id="L348176-S1" synset="wikidata-ht-L348176-S1" ili="wikidata-ht-L348176-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348644">
+      <Lemma writtenForm="twa" partOfSpeech="numeral"/>
+      <Sense id="L348644-S1" synset="wikidata-ht-L348644-S1" ili="wikidata-ht-L348644-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348168">
+      <Lemma writtenForm="de" partOfSpeech="numeral"/>
+      <Sense id="L348168-S1" synset="wikidata-ht-L348168-S1" ili="wikidata-ht-L348168-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348169">
+      <Lemma writtenForm="nèf" partOfSpeech="numeral"/>
+      <Sense id="L348169-S1" synset="wikidata-ht-L348169-S1" ili="wikidata-ht-L348169-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348170">
+      <Lemma writtenForm="dis" partOfSpeech="numeral"/>
+      <Sense id="L348170-S1" synset="wikidata-ht-L348170-S1" ili="wikidata-ht-L348170-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348175">
+      <Lemma writtenForm="en" partOfSpeech="numeral"/>
+      <Sense id="L348175-S1" synset="wikidata-ht-L348175-S1" ili="wikidata-ht-L348175-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348648">
+      <Lemma writtenForm="wit" partOfSpeech="numeral"/>
+      <Sense id="L348648-S1" synset="wikidata-ht-L348648-S1" ili="wikidata-ht-L348648-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348646">
+      <Lemma writtenForm="sis" partOfSpeech="numeral"/>
+      <Sense id="L348646-S1" synset="wikidata-ht-L348646-S1" ili="wikidata-ht-L348646-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348647">
+      <Lemma writtenForm="sèt" partOfSpeech="numeral"/>
+      <Sense id="L348647-S1" synset="wikidata-ht-L348647-S1" ili="wikidata-ht-L348647-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L348538">
+      <Lemma writtenForm="kat" partOfSpeech="numeral"/>
+      <Sense id="L348538-S1" synset="wikidata-ht-L348538-S1" ili="wikidata-ht-L348538-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ht-L348645-S1" ili="l333-s1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L941921-S1" ili="wikidata-ht-L941921-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348171-S1" ili="wikidata-ht-L348171-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348172-S1" ili="wikidata-ht-L348172-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348176-S1" ili="wikidata-ht-L348176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348644-S1" ili="wikidata-ht-L348644-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348168-S1" ili="wikidata-ht-L348168-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348169-S1" ili="wikidata-ht-L348169-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348170-S1" ili="wikidata-ht-L348170-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348175-S1" ili="wikidata-ht-L348175-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348648-S1" ili="wikidata-ht-L348648-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348646-S1" ili="wikidata-ht-L348646-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348647-S1" ili="wikidata-ht-L348647-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ht-L348538-S1" ili="wikidata-ht-L348538-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

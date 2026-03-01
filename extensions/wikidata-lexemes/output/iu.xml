@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-iu"
+                    label="Wikidata IU Lexemes Extension"
+                    language="iu"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-iu" version="1.4"/>
+    <LexicalEntry id="L1415684">
+      <Lemma writtenForm="ᐄ" partOfSpeech="interjection"/>
+      <Sense id="L1415684-S1" synset="wikidata-iu-L1415684-S1" ili="wikidata-iu-L1415684-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-iu-L1415684-S1" ili="wikidata-iu-L1415684-S1">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

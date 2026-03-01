@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-sa"
+                    label="Wikidata SA Lexemes Extension"
+                    language="sa"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-sa" version="1.4"/>
+    <LexicalEntry id="L580081">
+      <Lemma writtenForm="क्ष" partOfSpeech="affix"/>
+      <Sense id="L580081-S1" synset="wikidata-sa-L580081-S1" ili="wikidata-sa-L580081-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687616">
+      <Lemma writtenForm="मद्" partOfSpeech="personal pronoun"/>
+      <Sense id="L687616-S1" synset="wikidata-sa-L687616-S1" ili="wikidata-sa-L687616-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747166">
+      <Lemma writtenForm="यदि" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L747166-S1" synset="wikidata-sa-L747166-S1" ili="wikidata-sa-L747166-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L749820">
+      <Lemma writtenForm="ल" partOfSpeech="affix"/>
+      <Sense id="L749820-S1" synset="wikidata-sa-L749820-S1" ili="wikidata-sa-L749820-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L750398">
+      <Lemma writtenForm="उपरि" partOfSpeech="postposition"/>
+      <Sense id="L750398-S1" synset="wikidata-sa-L750398-S1" ili="wikidata-sa-L750398-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013990">
+      <Lemma writtenForm="क" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L1013990-S1" synset="wikidata-sa-L1013990-S1" ili="wikidata-sa-L1013990-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094387">
+      <Lemma writtenForm="‎√लम्ब्" partOfSpeech="root"/>
+      <Sense id="L1094387-S1" synset="wikidata-sa-L1094387-S1" ili="wikidata-sa-L1094387-S1">
+        <Definition>(अवस्रंसन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095924">
+      <Lemma writtenForm="‎√बन्ध्" partOfSpeech="root"/>
+      <Sense id="L1095924-S1" synset="wikidata-sa-L1095924-S1" ili="wikidata-sa-L1095924-S1">
+        <Definition>(बन्धन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101371">
+      <Lemma writtenForm="‎√लस्" partOfSpeech="root"/>
+      <Sense id="L1101371-S1" synset="wikidata-sa-L1101371-S1" ili="wikidata-sa-L1101371-S1">
+        <Definition>(श्लेषण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137784">
+      <Lemma writtenForm="‎√घृ" partOfSpeech="root"/>
+      <Sense id="L1137784-S1" synset="wikidata-sa-L1137784-S1" ili="wikidata-sa-L1137784-S1">
+        <Definition>(क्षरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139357">
+      <Lemma writtenForm="‎√अंह्" partOfSpeech="root"/>
+      <Sense id="L1139357-S1" synset="wikidata-sa-L1139357-S1" ili="wikidata-sa-L1139357-S1">
+        <Definition>(गति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1141196">
+      <Lemma writtenForm="‎√राध्" partOfSpeech="root"/>
+      <Sense id="L1141196-S1" synset="wikidata-sa-L1141196-S1" ili="wikidata-sa-L1141196-S1">
+        <Definition>(संसिद्धि)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1141493">
+      <Lemma writtenForm="‎√बुध्" partOfSpeech="root"/>
+      <Sense id="L1141493-S1" synset="wikidata-sa-L1141493-S1" ili="wikidata-sa-L1141493-S1">
+        <Definition>(बोधन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1144806">
+      <Lemma writtenForm="‎√पृ" partOfSpeech="root"/>
+      <Sense id="L1144806-S1" synset="wikidata-sa-L1144806-S1" ili="wikidata-sa-L1144806-S1">
+        <Definition>(पालन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1153046">
+      <Lemma writtenForm="‎√जीव्" partOfSpeech="root"/>
+      <Sense id="L1153046-S1" synset="wikidata-sa-L1153046-S1" ili="wikidata-sa-L1153046-S1">
+        <Definition>(प्राणधारण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223249">
+      <Lemma writtenForm="‎√वृध्" partOfSpeech="root"/>
+      <Sense id="L1223249-S1" synset="wikidata-sa-L1223249-S1" ili="wikidata-sa-L1223249-S1">
+        <Definition>(वृद्धि)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1235378">
+      <Lemma writtenForm="‎√कृत्" partOfSpeech="root"/>
+      <Sense id="L1235378-S1" synset="wikidata-sa-L1235378-S1" ili="wikidata-sa-L1235378-S1">
+        <Definition>(छेदन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1310257">
+      <Lemma writtenForm="‎√अस्" partOfSpeech="root"/>
+      <Sense id="L1310257-S1" synset="wikidata-sa-L1310257-S1" ili="wikidata-sa-L1310257-S1">
+        <Definition>(क्षेप)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1325027">
+      <Lemma writtenForm="इह" partOfSpeech="demonstrative adverb"/>
+      <Sense id="L1325027-S1" synset="wikidata-sa-L1325027-S1" ili="wikidata-sa-L1325027-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L689458">
+      <Lemma writtenForm="एवम्" partOfSpeech="conjunction"/>
+      <Sense id="L689458-S1" synset="wikidata-sa-L689458-S1" ili="wikidata-sa-L689458-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747428">
+      <Lemma writtenForm="अपि" partOfSpeech="grammatical particle"/>
+      <Sense id="L747428-S1" synset="wikidata-sa-L747428-S1" ili="wikidata-sa-L747428-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1017648">
+      <Lemma writtenForm="ऊम्" partOfSpeech="interjection"/>
+      <Sense id="L1017648-S1" synset="wikidata-sa-L1017648-S1" ili="wikidata-sa-L1017648-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095332">
+      <Lemma writtenForm="‎√पत्" partOfSpeech="root"/>
+      <Sense id="L1095332-S1" synset="wikidata-sa-L1095332-S1" ili="wikidata-sa-L1095332-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101181">
+      <Lemma writtenForm="‎√इ" partOfSpeech="root"/>
+      <Sense id="L1101181-S1" synset="wikidata-sa-L1101181-S1" ili="wikidata-sa-L1101181-S1">
+        <Definition>(अध्ययन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121999">
+      <Lemma writtenForm="‎√वृत्" partOfSpeech="root"/>
+      <Sense id="L1121999-S1" synset="wikidata-sa-L1121999-S1" ili="wikidata-sa-L1121999-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142105">
+      <Lemma writtenForm="‎√भृ" partOfSpeech="root"/>
+      <Sense id="L1142105-S1" synset="wikidata-sa-L1142105-S1" ili="wikidata-sa-L1142105-S1">
+        <Definition>(भरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142166">
+      <Lemma writtenForm="‎√पठ्" partOfSpeech="root"/>
+      <Sense id="L1142166-S1" synset="wikidata-sa-L1142166-S1" ili="wikidata-sa-L1142166-S1">
+        <Definition>(व्यक्तायां वाचि)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142209">
+      <Lemma writtenForm="‎√गृ" partOfSpeech="root"/>
+      <Sense id="L1142209-S1" synset="wikidata-sa-L1142209-S1" ili="wikidata-sa-L1142209-S1">
+        <Definition>(निगरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1157351">
+      <Lemma writtenForm="‎√चल्" partOfSpeech="root"/>
+      <Sense id="L1157351-S1" synset="wikidata-sa-L1157351-S1" ili="wikidata-sa-L1157351-S1">
+        <Definition>(कम्पन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1186965">
+      <Lemma writtenForm="‎√द्युत्" partOfSpeech="root"/>
+      <Sense id="L1186965-S1" synset="wikidata-sa-L1186965-S1" ili="wikidata-sa-L1186965-S1">
+        <Definition>(दीप्ति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1196211">
+      <Lemma writtenForm="‎√लङ्घ्" partOfSpeech="root"/>
+      <Sense id="L1196211-S1" synset="wikidata-sa-L1196211-S1" ili="wikidata-sa-L1196211-S1">
+        <Definition>(गति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L708520">
+      <Lemma writtenForm="अवधि" partOfSpeech="grammatical particle"/>
+      <Sense id="L708520-S1" synset="wikidata-sa-L708520-S1" ili="wikidata-sa-L708520-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094385">
+      <Lemma writtenForm="‎√ह्वल्" partOfSpeech="root"/>
+      <Sense id="L1094385-S1" synset="wikidata-sa-L1094385-S1" ili="wikidata-sa-L1094385-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097199">
+      <Lemma writtenForm="‎√तृष्" partOfSpeech="root"/>
+      <Sense id="L1097199-S1" synset="wikidata-sa-L1097199-S1" ili="wikidata-sa-L1097199-S1">
+        <Definition>(पिपासा)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097336">
+      <Lemma writtenForm="‎√लर्द्" partOfSpeech="root"/>
+      <Sense id="L1097336-S1" synset="wikidata-sa-L1097336-S1" ili="wikidata-sa-L1097336-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101465">
+      <Lemma writtenForm="‎√क्षिप्" partOfSpeech="root"/>
+      <Sense id="L1101465-S1" synset="wikidata-sa-L1101465-S1" ili="wikidata-sa-L1101465-S1">
+        <Definition>(प्रेरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101777">
+      <Lemma writtenForm="‎√द्रु" partOfSpeech="root"/>
+      <Sense id="L1101777-S1" synset="wikidata-sa-L1101777-S1" ili="wikidata-sa-L1101777-S1">
+        <Definition>(गति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1119428">
+      <Lemma writtenForm="‎√कृष्" partOfSpeech="root"/>
+      <Sense id="L1119428-S1" synset="wikidata-sa-L1119428-S1" ili="wikidata-sa-L1119428-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121676">
+      <Lemma writtenForm="‎√त्रस्" partOfSpeech="root"/>
+      <Sense id="L1121676-S1" synset="wikidata-sa-L1121676-S1" ili="wikidata-sa-L1121676-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1130385">
+      <Lemma writtenForm="‎√बंह्" partOfSpeech="root"/>
+      <Sense id="L1130385-S1" synset="wikidata-sa-L1130385-S1" ili="wikidata-sa-L1130385-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133150">
+      <Lemma writtenForm="‎√या" partOfSpeech="root"/>
+      <Sense id="L1133150-S1" synset="wikidata-sa-L1133150-S1" ili="wikidata-sa-L1133150-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142210">
+      <Lemma writtenForm="‎√जन्" partOfSpeech="root"/>
+      <Sense id="L1142210-S1" synset="wikidata-sa-L1142210-S1" ili="wikidata-sa-L1142210-S1">
+        <Definition>(प्रादुर्भाव)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1143610">
+      <Lemma writtenForm="‎√स्पृ" partOfSpeech="root"/>
+      <Sense id="L1143610-S1" synset="wikidata-sa-L1143610-S1" ili="wikidata-sa-L1143610-S1">
+        <Definition>(प्रीति)</Definition>
+      </Sense>
+      <Sense id="L1143610-S2" synset="wikidata-sa-L1143610-S2" ili="wikidata-sa-L1143610-S2">
+        <Definition>(सेवन)</Definition>
+      </Sense>
+      <Sense id="L1143610-S3" synset="wikidata-sa-L1143610-S3" ili="wikidata-sa-L1143610-S3">
+        <Definition>(चलन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1180584">
+      <Lemma writtenForm="‎√अञ्ज्" partOfSpeech="root"/>
+      <Sense id="L1180584-S1" synset="wikidata-sa-L1180584-S1" ili="wikidata-sa-L1180584-S1">
+        <Definition>(म्रक्षण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1191920">
+      <Lemma writtenForm="‎√ली" partOfSpeech="root"/>
+      <Sense id="L1191920-S1" synset="wikidata-sa-L1191920-S1" ili="wikidata-sa-L1191920-S1">
+        <Definition>(श्लेषण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216980">
+      <Lemma writtenForm="‎√रुज्" partOfSpeech="root"/>
+      <Sense id="L1216980-S1" synset="wikidata-sa-L1216980-S1" ili="wikidata-sa-L1216980-S1">
+        <Definition>(भङ्ग)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1347744">
+      <Lemma writtenForm="अभि" partOfSpeech="preposition"/>
+      <Sense id="L1347744-S1" synset="wikidata-sa-L1347744-S1" ili="wikidata-sa-L1347744-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1347744-S2" synset="wikidata-sa-L1347744-S2" ili="wikidata-sa-L1347744-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L579661">
+      <Lemma writtenForm="हि" partOfSpeech="grammatical particle"/>
+      <Sense id="L579661-S1" synset="wikidata-sa-L579661-S1" ili="wikidata-sa-L579661-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L722760">
+      <Lemma writtenForm="किम्" partOfSpeech="interrogative pronoun"/>
+      <Sense id="L722760-S1" synset="wikidata-sa-L722760-S1" ili="wikidata-sa-L722760-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097609">
+      <Lemma writtenForm="‎√रज्‭" partOfSpeech="root"/>
+      <Sense id="L1097609-S1" synset="wikidata-sa-L1097609-S1" ili="wikidata-sa-L1097609-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1122424">
+      <Lemma writtenForm="‎√कृ" partOfSpeech="root"/>
+      <Sense id="L1122424-S1" synset="wikidata-sa-L1122424-S1" ili="wikidata-sa-L1122424-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1122424-S2" synset="wikidata-sa-L1122424-S2" ili="wikidata-sa-L1122424-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1124491">
+      <Lemma writtenForm="‎√वृ" partOfSpeech="root"/>
+      <Sense id="L1124491-S1" synset="wikidata-sa-L1124491-S1" ili="wikidata-sa-L1124491-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133643">
+      <Lemma writtenForm="‎√ग्रह्‭" partOfSpeech="root"/>
+      <Sense id="L1133643-S1" synset="wikidata-sa-L1133643-S1" ili="wikidata-sa-L1133643-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136035">
+      <Lemma writtenForm="‎√हु" partOfSpeech="root"/>
+      <Sense id="L1136035-S1" synset="wikidata-sa-L1136035-S1" ili="wikidata-sa-L1136035-S1">
+        <Definition>(दान)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1141180">
+      <Lemma writtenForm="‎√ऋ" partOfSpeech="root"/>
+      <Sense id="L1141180-S1" synset="wikidata-sa-L1141180-S1" ili="wikidata-sa-L1141180-S1">
+        <Definition>(गति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1141182">
+      <Lemma writtenForm="‎√तृद्" partOfSpeech="root"/>
+      <Sense id="L1141182-S1" synset="wikidata-sa-L1141182-S1" ili="wikidata-sa-L1141182-S1">
+        <Definition>(हिंसा)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1174152">
+      <Lemma writtenForm="‎√अञ्च्" partOfSpeech="root"/>
+      <Sense id="L1174152-S1" synset="wikidata-sa-L1174152-S1" ili="wikidata-sa-L1174152-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1197037">
+      <Lemma writtenForm="‎√कथ्" partOfSpeech="root"/>
+      <Sense id="L1197037-S1" synset="wikidata-sa-L1197037-S1" ili="wikidata-sa-L1197037-S1">
+        <Definition>(वाक्यप्रबन्ध)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1203011">
+      <Lemma writtenForm="‎√दिश्" partOfSpeech="root"/>
+      <Sense id="L1203011-S1" synset="wikidata-sa-L1203011-S1" ili="wikidata-sa-L1203011-S1">
+        <Definition>(अतिसर्जन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1210021">
+      <Lemma writtenForm="‎√धा" partOfSpeech="root"/>
+      <Sense id="L1210021-S1" synset="wikidata-sa-L1210021-S1" ili="wikidata-sa-L1210021-S1">
+        <Definition>(धारण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1213315">
+      <Lemma writtenForm="‎√ज्वल्" partOfSpeech="root"/>
+      <Sense id="L1213315-S1" synset="wikidata-sa-L1213315-S1" ili="wikidata-sa-L1213315-S1">
+        <Definition>(दीप्ति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1319471">
+      <Lemma writtenForm="‎√दीप्" partOfSpeech="root"/>
+      <Sense id="L1319471-S1" synset="wikidata-sa-L1319471-S1" ili="wikidata-sa-L1319471-S1">
+        <Definition>(दीप्ति)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1333577">
+      <Lemma writtenForm="‎√रञ्ज्" partOfSpeech="root"/>
+      <Sense id="L1333577-S1" synset="wikidata-sa-L1333577-S1" ili="wikidata-sa-L1333577-S1">
+        <Definition>(राग)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1356185">
+      <Lemma writtenForm="‎√स्कुभ्" partOfSpeech="root"/>
+      <Sense id="L1356185-S1" synset="wikidata-sa-L1356185-S1" ili="wikidata-sa-L1356185-S1">
+        <Definition>(बाधते)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L687617">
+      <Lemma writtenForm="स्वयम्" partOfSpeech="pronoun"/>
+      <Sense id="L687617-S1" synset="wikidata-sa-L687617-S1" ili="wikidata-sa-L687617-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L687617-S2" synset="wikidata-sa-L687617-S2" ili="wikidata-sa-L687617-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L687617-S3" synset="wikidata-sa-L687617-S3" ili="wikidata-sa-L687617-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L943484">
+      <Lemma writtenForm="यद्" partOfSpeech="relative pronoun"/>
+      <Sense id="L943484-S1" synset="wikidata-sa-L943484-S1" ili="wikidata-sa-L943484-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1013993">
+      <Lemma writtenForm="कः पुनर्" partOfSpeech="pronominal locution"/>
+      <Sense id="L1013993-S1" synset="wikidata-sa-L1013993-S1" ili="wikidata-sa-L1013993-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094038">
+      <Lemma writtenForm="‎√गम्" partOfSpeech="root"/>
+      <Sense id="L1094038-S1" synset="wikidata-sa-L1094038-S1" ili="wikidata-sa-L1094038-S1">
+        <Definition>(गतउ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1096212">
+      <Lemma writtenForm="‎√तॄ" partOfSpeech="root"/>
+      <Sense id="L1096212-S1" synset="wikidata-sa-L1096212-S1" ili="wikidata-sa-L1096212-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1096212-S2" synset="wikidata-sa-L1096212-S2" ili="wikidata-sa-L1096212-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097576">
+      <Lemma writtenForm="‎√मन्" partOfSpeech="root"/>
+      <Sense id="L1097576-S1" synset="wikidata-sa-L1097576-S1" ili="wikidata-sa-L1097576-S1">
+        <Definition>(ज्ञान)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1098838">
+      <Lemma writtenForm="‎√स्वप्" partOfSpeech="root"/>
+      <Sense id="L1098838-S1" synset="wikidata-sa-L1098838-S1" ili="wikidata-sa-L1098838-S1">
+        <Definition>(शय)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101133">
+      <Lemma writtenForm="‎√पर्द्" partOfSpeech="root"/>
+      <Sense id="L1101133-S1" synset="wikidata-sa-L1101133-S1" ili="wikidata-sa-L1101133-S1">
+        <Definition>(कुत्सित शब्द)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1109047">
+      <Lemma writtenForm="‎√नृत्" partOfSpeech="root"/>
+      <Sense id="L1109047-S1" synset="wikidata-sa-L1109047-S1" ili="wikidata-sa-L1109047-S1">
+        <Definition>(गात्रविक्षेप)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1113753">
+      <Lemma writtenForm="‎√छृद्" partOfSpeech="root"/>
+      <Sense id="L1113753-S1" synset="wikidata-sa-L1113753-S1" ili="wikidata-sa-L1113753-S1">
+        <Definition>(सन्दीपन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137333">
+      <Lemma writtenForm="‎√हन्" partOfSpeech="root"/>
+      <Sense id="L1137333-S1" synset="wikidata-sa-L1137333-S1" ili="wikidata-sa-L1137333-S1">
+        <Definition>(हिंसा)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1137843">
+      <Lemma writtenForm="‎√झण्" partOfSpeech="root"/>
+      <Sense id="L1137843-S1" synset="wikidata-sa-L1137843-S1" ili="wikidata-sa-L1137843-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1218013">
+      <Lemma writtenForm="‎√पा" partOfSpeech="root"/>
+      <Sense id="L1218013-S1" synset="wikidata-sa-L1218013-S1" ili="wikidata-sa-L1218013-S1">
+        <Definition>(पान)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1313560">
+      <Lemma writtenForm="‎√नम्" partOfSpeech="root"/>
+      <Sense id="L1313560-S1" synset="wikidata-sa-L1313560-S1" ili="wikidata-sa-L1313560-S1">
+        <Definition>(प्रह्णत्व)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1001746">
+      <Lemma writtenForm="ति" partOfSpeech="affix"/>
+      <Sense id="L1001746-S1" synset="wikidata-sa-L1001746-S1" ili="wikidata-sa-L1001746-S1">
+        <Definition>(लट)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1005743">
+      <Lemma writtenForm="अम्" partOfSpeech="affix"/>
+      <Sense id="L1005743-S1" synset="wikidata-sa-L1005743-S1" ili="wikidata-sa-L1005743-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094434">
+      <Lemma writtenForm="‎√कृ" partOfSpeech="root"/>
+      <Sense id="L1094434-S1" synset="wikidata-sa-L1094434-S1" ili="wikidata-sa-L1094434-S1">
+        <Definition>(करण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095292">
+      <Lemma writtenForm="‎√डी" partOfSpeech="root"/>
+      <Sense id="L1095292-S1" synset="wikidata-sa-L1095292-S1" ili="wikidata-sa-L1095292-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097451">
+      <Lemma writtenForm="‎√युज्" partOfSpeech="root"/>
+      <Sense id="L1097451-S1" synset="wikidata-sa-L1097451-S1" ili="wikidata-sa-L1097451-S1">
+        <Definition>(संयमन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1101931">
+      <Lemma writtenForm="‎√ग्रन्थ्" partOfSpeech="root"/>
+      <Sense id="L1101931-S1" synset="wikidata-sa-L1101931-S1" ili="wikidata-sa-L1101931-S1">
+        <Definition>(सन्दर्भ)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1125652">
+      <Lemma writtenForm="वा" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L1125652-S1" synset="wikidata-sa-L1125652-S1" ili="wikidata-sa-L1125652-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1139325">
+      <Lemma writtenForm="‎√ढौक्" partOfSpeech="root"/>
+      <Sense id="L1139325-S1" synset="wikidata-sa-L1139325-S1" ili="wikidata-sa-L1139325-S1">
+        <Definition>(गत्यर्थः)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1140803">
+      <Lemma writtenForm="‎√वेष्ट्" partOfSpeech="root"/>
+      <Sense id="L1140803-S1" synset="wikidata-sa-L1140803-S1" ili="wikidata-sa-L1140803-S1">
+        <Definition>(वेष्टन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1149982">
+      <Lemma writtenForm="‎√द्रै" partOfSpeech="root"/>
+      <Sense id="L1149982-S1" synset="wikidata-sa-L1149982-S1" ili="wikidata-sa-L1149982-S1">
+        <Definition>(स्वप्न)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1169930">
+      <Lemma writtenForm="‎√दृंह्" partOfSpeech="root"/>
+      <Sense id="L1169930-S1" synset="wikidata-sa-L1169930-S1" ili="wikidata-sa-L1169930-S1">
+        <Definition>(वृद्धि)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188715">
+      <Lemma writtenForm="‎√मृ" partOfSpeech="root"/>
+      <Sense id="L1188715-S1" synset="wikidata-sa-L1188715-S1" ili="wikidata-sa-L1188715-S1">
+        <Definition>(प्राणत्याग)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1223570">
+      <Lemma writtenForm="‎√गल्" partOfSpeech="root"/>
+      <Sense id="L1223570-S1" synset="wikidata-sa-L1223570-S1" ili="wikidata-sa-L1223570-S1">
+        <Definition>(अदन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1323771">
+      <Lemma writtenForm="अपर" partOfSpeech="pronoun"/>
+      <Sense id="L1323771-S1" synset="wikidata-sa-L1323771-S1" ili="wikidata-sa-L1323771-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1323771-S2" synset="wikidata-sa-L1323771-S2" ili="wikidata-sa-L1323771-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1335578">
+      <Lemma writtenForm="‎√रुद्" partOfSpeech="root"/>
+      <Sense id="L1335578-S1" synset="wikidata-sa-L1335578-S1" ili="wikidata-sa-L1335578-S1">
+        <Definition>(अश्रुविमोचन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L621142">
+      <Lemma writtenForm="च" partOfSpeech="conjunction"/>
+      <Sense id="L621142-S1" synset="wikidata-sa-L621142-S1" ili="wikidata-sa-L621142-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L621167">
+      <Lemma writtenForm="यद्" partOfSpeech="pronoun"/>
+      <Sense id="L621167-S1" synset="wikidata-sa-L621167-S1" ili="wikidata-sa-L621167-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L738441">
+      <Lemma writtenForm="स" partOfSpeech="affix"/>
+      <Sense id="L738441-S1" synset="wikidata-sa-L738441-S1" ili="wikidata-sa-L738441-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L747187">
+      <Lemma writtenForm="आहो" partOfSpeech="interjection"/>
+      <Sense id="L747187-S1" synset="wikidata-sa-L747187-S1" ili="wikidata-sa-L747187-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L747187-S2" synset="wikidata-sa-L747187-S2" ili="wikidata-sa-L747187-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L778656">
+      <Lemma writtenForm="एक" partOfSpeech="pronominal adjective"/>
+      <Sense id="L778656-S1" synset="wikidata-sa-L778656-S1" ili="wikidata-sa-L778656-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L778656-S2" synset="wikidata-sa-L778656-S2" ili="wikidata-sa-L778656-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L778656-S3" synset="wikidata-sa-L778656-S3" ili="wikidata-sa-L778656-S3">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L942702">
+      <Lemma writtenForm="मे" partOfSpeech="pronominal suffix"/>
+      <Sense id="L942702-S1" synset="wikidata-sa-L942702-S1" ili="wikidata-sa-L942702-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L998807">
+      <Lemma writtenForm="ई" partOfSpeech="affix"/>
+      <Sense id="L998807-S1" synset="wikidata-sa-L998807-S1" ili="wikidata-sa-L998807-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1005744">
+      <Lemma writtenForm="अन्" partOfSpeech="affix"/>
+      <Sense id="L1005744-S1" synset="wikidata-sa-L1005744-S1" ili="wikidata-sa-L1005744-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094025">
+      <Lemma writtenForm="‎√वह्" partOfSpeech="root"/>
+      <Sense id="L1094025-S1" synset="wikidata-sa-L1094025-S1" ili="wikidata-sa-L1094025-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094453">
+      <Lemma writtenForm="‎√भू" partOfSpeech="root"/>
+      <Sense id="L1094453-S1" synset="wikidata-sa-L1094453-S1" ili="wikidata-sa-L1094453-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1094453-S2" synset="wikidata-sa-L1094453-S2" ili="wikidata-sa-L1094453-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097245">
+      <Lemma writtenForm="‎√वण्ट्" partOfSpeech="root"/>
+      <Sense id="L1097245-S1" synset="wikidata-sa-L1097245-S1" ili="wikidata-sa-L1097245-S1">
+        <Definition>(विभाजन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1097333">
+      <Lemma writtenForm="‎√सिध्" partOfSpeech="root"/>
+      <Sense id="L1097333-S1" synset="wikidata-sa-L1097333-S1" ili="wikidata-sa-L1097333-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1097333-S2" synset="wikidata-sa-L1097333-S2" ili="wikidata-sa-L1097333-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1116451">
+      <Lemma writtenForm="‎√स्था" partOfSpeech="root"/>
+      <Sense id="L1116451-S1" synset="wikidata-sa-L1116451-S1" ili="wikidata-sa-L1116451-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121730">
+      <Lemma writtenForm="‎√सिव्" partOfSpeech="root"/>
+      <Sense id="L1121730-S1" synset="wikidata-sa-L1121730-S1" ili="wikidata-sa-L1121730-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1124750">
+      <Lemma writtenForm="‎√बृह्" partOfSpeech="root"/>
+      <Sense id="L1124750-S1" synset="wikidata-sa-L1124750-S1" ili="wikidata-sa-L1124750-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1134198">
+      <Lemma writtenForm="एतद्" partOfSpeech="demonstrative pronoun"/>
+      <Sense id="L1134198-S1" synset="wikidata-sa-L1134198-S1" ili="wikidata-sa-L1134198-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1135520">
+      <Lemma writtenForm="‎√अद्" partOfSpeech="root"/>
+      <Sense id="L1135520-S1" synset="wikidata-sa-L1135520-S1" ili="wikidata-sa-L1135520-S1">
+        <Definition>(भक्षणे)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142197">
+      <Lemma writtenForm="‎√लिप्" partOfSpeech="root"/>
+      <Sense id="L1142197-S1" synset="wikidata-sa-L1142197-S1" ili="wikidata-sa-L1142197-S1">
+        <Definition>(उपदेह)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1142259">
+      <Lemma writtenForm="‎√दो" partOfSpeech="root"/>
+      <Sense id="L1142259-S1" synset="wikidata-sa-L1142259-S1" ili="wikidata-sa-L1142259-S1">
+        <Definition>(अवखण्डन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1187005">
+      <Lemma writtenForm="‎√ईक्ष्" partOfSpeech="root"/>
+      <Sense id="L1187005-S1" synset="wikidata-sa-L1187005-S1" ili="wikidata-sa-L1187005-S1">
+        <Definition>(दर्शन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1188089">
+      <Lemma writtenForm="‎√रम्" partOfSpeech="root"/>
+      <Sense id="L1188089-S1" synset="wikidata-sa-L1188089-S1" ili="wikidata-sa-L1188089-S1">
+        <Definition>(क्रीडा)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1196794">
+      <Lemma writtenForm="‎√वच्" partOfSpeech="root"/>
+      <Sense id="L1196794-S1" synset="wikidata-sa-L1196794-S1" ili="wikidata-sa-L1196794-S1">
+        <Definition>(परिभाषण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L580079">
+      <Lemma writtenForm="त्र" partOfSpeech="affix"/>
+      <Sense id="L580079-S1" synset="wikidata-sa-L580079-S1" ili="wikidata-sa-L580079-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L673418">
+      <Lemma writtenForm="आ" partOfSpeech="grammatical particle"/>
+      <Sense id="L673418-S1" synset="wikidata-sa-L673418-S1" ili="wikidata-sa-L673418-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L918511">
+      <Lemma writtenForm="ॐ" partOfSpeech="grammatical particle"/>
+      <Sense id="L918511-S1" synset="wikidata-sa-L918511-S1" ili="wikidata-sa-L918511-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1094389">
+      <Lemma writtenForm="‎√लग्" partOfSpeech="root"/>
+      <Sense id="L1094389-S1" synset="wikidata-sa-L1094389-S1" ili="wikidata-sa-L1094389-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095527">
+      <Lemma writtenForm="‎√क्षि" partOfSpeech="root"/>
+      <Sense id="L1095527-S1" synset="wikidata-sa-L1095527-S1" ili="wikidata-sa-L1095527-S1">
+        <Definition>(क्षय)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1095910">
+      <Lemma writtenForm="‎√स्पश्" partOfSpeech="root"/>
+      <Sense id="L1095910-S1" synset="wikidata-sa-L1095910-S1" ili="wikidata-sa-L1095910-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1095910-S2" synset="wikidata-sa-L1095910-S2" ili="wikidata-sa-L1095910-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1096216">
+      <Lemma writtenForm="‎√लभ्" partOfSpeech="root"/>
+      <Sense id="L1096216-S1" synset="wikidata-sa-L1096216-S1" ili="wikidata-sa-L1096216-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1109006">
+      <Lemma writtenForm="‎√ह्लाद्" partOfSpeech="root"/>
+      <Sense id="L1109006-S1" synset="wikidata-sa-L1109006-S1" ili="wikidata-sa-L1109006-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1121737">
+      <Lemma writtenForm="‎√दृश्" partOfSpeech="root"/>
+      <Sense id="L1121737-S1" synset="wikidata-sa-L1121737-S1" ili="wikidata-sa-L1121737-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1125093">
+      <Lemma writtenForm="‎√अस्" partOfSpeech="root"/>
+      <Sense id="L1125093-S1" synset="wikidata-sa-L1125093-S1" ili="wikidata-sa-L1125093-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1132974">
+      <Lemma writtenForm="‎√दुष्" partOfSpeech="root"/>
+      <Sense id="L1132974-S1" synset="wikidata-sa-L1132974-S1" ili="wikidata-sa-L1132974-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1133513">
+      <Lemma writtenForm="‎√दुह्" partOfSpeech="root"/>
+      <Sense id="L1133513-S1" synset="wikidata-sa-L1133513-S1" ili="wikidata-sa-L1133513-S1">
+        <Definition>(प्रपूरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136054">
+      <Lemma writtenForm="‎√क्री" partOfSpeech="root"/>
+      <Sense id="L1136054-S1" synset="wikidata-sa-L1136054-S1" ili="wikidata-sa-L1136054-S1">
+        <Definition>(द्रव्यविनिमये)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1136060">
+      <Lemma writtenForm="‎√रुध्" partOfSpeech="root"/>
+      <Sense id="L1136060-S1" synset="wikidata-sa-L1136060-S1" ili="wikidata-sa-L1136060-S1">
+        <Definition>(आवरण)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1150780">
+      <Lemma writtenForm="‎√दल्" partOfSpeech="root"/>
+      <Sense id="L1150780-S1" synset="wikidata-sa-L1150780-S1" ili="wikidata-sa-L1150780-S1">
+        <Definition>(विदारणे)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1161678">
+      <Lemma writtenForm="‎√मा" partOfSpeech="root"/>
+      <Sense id="L1161678-S1" synset="wikidata-sa-L1161678-S1" ili="wikidata-sa-L1161678-S1">
+        <Definition>(मान)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1189550">
+      <Lemma writtenForm="‎√प्री" partOfSpeech="root"/>
+      <Sense id="L1189550-S1" synset="wikidata-sa-L1189550-S1" ili="wikidata-sa-L1189550-S1">
+        <Definition>(प्रीणन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1191731">
+      <Lemma writtenForm="‎√भ्रम्" partOfSpeech="root"/>
+      <Sense id="L1191731-S1" synset="wikidata-sa-L1191731-S1" ili="wikidata-sa-L1191731-S1">
+        <Definition>(अनवस्थान)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1216077">
+      <Lemma writtenForm="‎√लप्" partOfSpeech="root"/>
+      <Sense id="L1216077-S1" synset="wikidata-sa-L1216077-S1" ili="wikidata-sa-L1216077-S1">
+        <Definition>(व्यक्तायां वाचि)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1313433">
+      <Lemma writtenForm="‎√हस्" partOfSpeech="root"/>
+      <Sense id="L1313433-S1" synset="wikidata-sa-L1313433-S1" ili="wikidata-sa-L1313433-S1">
+        <Definition>(हसन)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1346767">
+      <Lemma writtenForm="‎√वस्" partOfSpeech="root"/>
+      <Sense id="L1346767-S1" synset="wikidata-sa-L1346767-S1" ili="wikidata-sa-L1346767-S1">
+        <Definition>(निवासे)</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-sa-L580081-S1" ili="wikidata-sa-L580081-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L687616-S1" ili="wikidata-sa-L687616-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L747166-S1" ili="wikidata-sa-L747166-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L749820-S1" ili="wikidata-sa-L749820-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L750398-S1" ili="wikidata-sa-L750398-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1013990-S1" ili="wikidata-sa-L1013990-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094387-S1" ili="wikidata-sa-L1094387-S1">
+      <Definition>(अवस्रंसन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095924-S1" ili="wikidata-sa-L1095924-S1">
+      <Definition>(बन्धन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101371-S1" ili="wikidata-sa-L1101371-S1">
+      <Definition>(श्लेषण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1137784-S1" ili="wikidata-sa-L1137784-S1">
+      <Definition>(क्षरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1139357-S1" ili="wikidata-sa-L1139357-S1">
+      <Definition>(गति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1141196-S1" ili="wikidata-sa-L1141196-S1">
+      <Definition>(संसिद्धि)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1141493-S1" ili="wikidata-sa-L1141493-S1">
+      <Definition>(बोधन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1144806-S1" ili="wikidata-sa-L1144806-S1">
+      <Definition>(पालन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1153046-S1" ili="wikidata-sa-L1153046-S1">
+      <Definition>(प्राणधारण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1223249-S1" ili="wikidata-sa-L1223249-S1">
+      <Definition>(वृद्धि)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1235378-S1" ili="wikidata-sa-L1235378-S1">
+      <Definition>(छेदन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1310257-S1" ili="wikidata-sa-L1310257-S1">
+      <Definition>(क्षेप)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1325027-S1" ili="wikidata-sa-L1325027-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L689458-S1" ili="wikidata-sa-L689458-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L747428-S1" ili="wikidata-sa-L747428-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1017648-S1" ili="wikidata-sa-L1017648-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095332-S1" ili="wikidata-sa-L1095332-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101181-S1" ili="wikidata-sa-L1101181-S1">
+      <Definition>(अध्ययन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1121999-S1" ili="wikidata-sa-L1121999-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142105-S1" ili="wikidata-sa-L1142105-S1">
+      <Definition>(भरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142166-S1" ili="wikidata-sa-L1142166-S1">
+      <Definition>(व्यक्तायां वाचि)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142209-S1" ili="wikidata-sa-L1142209-S1">
+      <Definition>(निगरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1157351-S1" ili="wikidata-sa-L1157351-S1">
+      <Definition>(कम्पन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1186965-S1" ili="wikidata-sa-L1186965-S1">
+      <Definition>(दीप्ति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1196211-S1" ili="wikidata-sa-L1196211-S1">
+      <Definition>(गति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L708520-S1" ili="wikidata-sa-L708520-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094385-S1" ili="wikidata-sa-L1094385-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097199-S1" ili="wikidata-sa-L1097199-S1">
+      <Definition>(पिपासा)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097336-S1" ili="wikidata-sa-L1097336-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101465-S1" ili="wikidata-sa-L1101465-S1">
+      <Definition>(प्रेरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101777-S1" ili="wikidata-sa-L1101777-S1">
+      <Definition>(गति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1119428-S1" ili="wikidata-sa-L1119428-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1121676-S1" ili="wikidata-sa-L1121676-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1130385-S1" ili="wikidata-sa-L1130385-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1133150-S1" ili="wikidata-sa-L1133150-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142210-S1" ili="wikidata-sa-L1142210-S1">
+      <Definition>(प्रादुर्भाव)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1143610-S1" ili="wikidata-sa-L1143610-S1">
+      <Definition>(प्रीति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1143610-S2" ili="wikidata-sa-L1143610-S2">
+      <Definition>(सेवन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1143610-S3" ili="wikidata-sa-L1143610-S3">
+      <Definition>(चलन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1180584-S1" ili="wikidata-sa-L1180584-S1">
+      <Definition>(म्रक्षण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1191920-S1" ili="wikidata-sa-L1191920-S1">
+      <Definition>(श्लेषण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1216980-S1" ili="wikidata-sa-L1216980-S1">
+      <Definition>(भङ्ग)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1347744-S1" ili="wikidata-sa-L1347744-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1347744-S2" ili="wikidata-sa-L1347744-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L579661-S1" ili="wikidata-sa-L579661-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L722760-S1" ili="wikidata-sa-L722760-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097609-S1" ili="wikidata-sa-L1097609-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1122424-S1" ili="wikidata-sa-L1122424-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1122424-S2" ili="wikidata-sa-L1122424-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1124491-S1" ili="wikidata-sa-L1124491-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1133643-S1" ili="wikidata-sa-L1133643-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1136035-S1" ili="wikidata-sa-L1136035-S1">
+      <Definition>(दान)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1141180-S1" ili="wikidata-sa-L1141180-S1">
+      <Definition>(गति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1141182-S1" ili="wikidata-sa-L1141182-S1">
+      <Definition>(हिंसा)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1174152-S1" ili="wikidata-sa-L1174152-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1197037-S1" ili="wikidata-sa-L1197037-S1">
+      <Definition>(वाक्यप्रबन्ध)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1203011-S1" ili="wikidata-sa-L1203011-S1">
+      <Definition>(अतिसर्जन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1210021-S1" ili="wikidata-sa-L1210021-S1">
+      <Definition>(धारण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1213315-S1" ili="wikidata-sa-L1213315-S1">
+      <Definition>(दीप्ति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1319471-S1" ili="wikidata-sa-L1319471-S1">
+      <Definition>(दीप्ति)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1333577-S1" ili="wikidata-sa-L1333577-S1">
+      <Definition>(राग)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1356185-S1" ili="wikidata-sa-L1356185-S1">
+      <Definition>(बाधते)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L687617-S1" ili="wikidata-sa-L687617-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L687617-S2" ili="wikidata-sa-L687617-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L687617-S3" ili="wikidata-sa-L687617-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L943484-S1" ili="wikidata-sa-L943484-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1013993-S1" ili="wikidata-sa-L1013993-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094038-S1" ili="wikidata-sa-L1094038-S1">
+      <Definition>(गतउ)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1096212-S1" ili="wikidata-sa-L1096212-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1096212-S2" ili="wikidata-sa-L1096212-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097576-S1" ili="wikidata-sa-L1097576-S1">
+      <Definition>(ज्ञान)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1098838-S1" ili="wikidata-sa-L1098838-S1">
+      <Definition>(शय)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101133-S1" ili="wikidata-sa-L1101133-S1">
+      <Definition>(कुत्सित शब्द)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1109047-S1" ili="wikidata-sa-L1109047-S1">
+      <Definition>(गात्रविक्षेप)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1113753-S1" ili="wikidata-sa-L1113753-S1">
+      <Definition>(सन्दीपन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1137333-S1" ili="wikidata-sa-L1137333-S1">
+      <Definition>(हिंसा)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1137843-S1" ili="wikidata-sa-L1137843-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1218013-S1" ili="wikidata-sa-L1218013-S1">
+      <Definition>(पान)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1313560-S1" ili="wikidata-sa-L1313560-S1">
+      <Definition>(प्रह्णत्व)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1001746-S1" ili="wikidata-sa-L1001746-S1">
+      <Definition>(लट)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1005743-S1" ili="wikidata-sa-L1005743-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094434-S1" ili="wikidata-sa-L1094434-S1">
+      <Definition>(करण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095292-S1" ili="wikidata-sa-L1095292-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097451-S1" ili="wikidata-sa-L1097451-S1">
+      <Definition>(संयमन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1101931-S1" ili="wikidata-sa-L1101931-S1">
+      <Definition>(सन्दर्भ)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1125652-S1" ili="wikidata-sa-L1125652-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1139325-S1" ili="wikidata-sa-L1139325-S1">
+      <Definition>(गत्यर्थः)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1140803-S1" ili="wikidata-sa-L1140803-S1">
+      <Definition>(वेष्टन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1149982-S1" ili="wikidata-sa-L1149982-S1">
+      <Definition>(स्वप्न)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1169930-S1" ili="wikidata-sa-L1169930-S1">
+      <Definition>(वृद्धि)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1188715-S1" ili="wikidata-sa-L1188715-S1">
+      <Definition>(प्राणत्याग)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1223570-S1" ili="wikidata-sa-L1223570-S1">
+      <Definition>(अदन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1323771-S1" ili="wikidata-sa-L1323771-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1323771-S2" ili="wikidata-sa-L1323771-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1335578-S1" ili="wikidata-sa-L1335578-S1">
+      <Definition>(अश्रुविमोचन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L621142-S1" ili="wikidata-sa-L621142-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L621167-S1" ili="wikidata-sa-L621167-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L738441-S1" ili="wikidata-sa-L738441-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L747187-S1" ili="wikidata-sa-L747187-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L747187-S2" ili="wikidata-sa-L747187-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L778656-S1" ili="wikidata-sa-L778656-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L778656-S2" ili="wikidata-sa-L778656-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L778656-S3" ili="wikidata-sa-L778656-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L942702-S1" ili="wikidata-sa-L942702-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L998807-S1" ili="wikidata-sa-L998807-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1005744-S1" ili="wikidata-sa-L1005744-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094025-S1" ili="wikidata-sa-L1094025-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094453-S1" ili="wikidata-sa-L1094453-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094453-S2" ili="wikidata-sa-L1094453-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097245-S1" ili="wikidata-sa-L1097245-S1">
+      <Definition>(विभाजन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097333-S1" ili="wikidata-sa-L1097333-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1097333-S2" ili="wikidata-sa-L1097333-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1116451-S1" ili="wikidata-sa-L1116451-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1121730-S1" ili="wikidata-sa-L1121730-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1124750-S1" ili="wikidata-sa-L1124750-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1134198-S1" ili="wikidata-sa-L1134198-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1135520-S1" ili="wikidata-sa-L1135520-S1">
+      <Definition>(भक्षणे)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142197-S1" ili="wikidata-sa-L1142197-S1">
+      <Definition>(उपदेह)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1142259-S1" ili="wikidata-sa-L1142259-S1">
+      <Definition>(अवखण्डन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1187005-S1" ili="wikidata-sa-L1187005-S1">
+      <Definition>(दर्शन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1188089-S1" ili="wikidata-sa-L1188089-S1">
+      <Definition>(क्रीडा)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1196794-S1" ili="wikidata-sa-L1196794-S1">
+      <Definition>(परिभाषण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L580079-S1" ili="wikidata-sa-L580079-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L673418-S1" ili="wikidata-sa-L673418-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L918511-S1" ili="wikidata-sa-L918511-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1094389-S1" ili="wikidata-sa-L1094389-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095527-S1" ili="wikidata-sa-L1095527-S1">
+      <Definition>(क्षय)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095910-S1" ili="wikidata-sa-L1095910-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1095910-S2" ili="wikidata-sa-L1095910-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1096216-S1" ili="wikidata-sa-L1096216-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1109006-S1" ili="wikidata-sa-L1109006-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1121737-S1" ili="wikidata-sa-L1121737-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1125093-S1" ili="wikidata-sa-L1125093-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1132974-S1" ili="wikidata-sa-L1132974-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1133513-S1" ili="wikidata-sa-L1133513-S1">
+      <Definition>(प्रपूरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1136054-S1" ili="wikidata-sa-L1136054-S1">
+      <Definition>(द्रव्यविनिमये)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1136060-S1" ili="wikidata-sa-L1136060-S1">
+      <Definition>(आवरण)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1150780-S1" ili="wikidata-sa-L1150780-S1">
+      <Definition>(विदारणे)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1161678-S1" ili="wikidata-sa-L1161678-S1">
+      <Definition>(मान)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1189550-S1" ili="wikidata-sa-L1189550-S1">
+      <Definition>(प्रीणन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1191731-S1" ili="wikidata-sa-L1191731-S1">
+      <Definition>(अनवस्थान)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1216077-S1" ili="wikidata-sa-L1216077-S1">
+      <Definition>(व्यक्तायां वाचि)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1313433-S1" ili="wikidata-sa-L1313433-S1">
+      <Definition>(हसन)</Definition>
+    </Synset>
+    <Synset id="wikidata-sa-L1346767-S1" ili="wikidata-sa-L1346767-S1">
+      <Definition>(निवासे)</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

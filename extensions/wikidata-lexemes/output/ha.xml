@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-ha"
+                    label="Wikidata HA Lexemes Extension"
+                    language="ha"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-ha" version="1.4"/>
+    <LexicalEntry id="L524180">
+      <Lemma writtenForm="su" partOfSpeech="subject pronoun"/>
+      <Sense id="L524180-S1" synset="wikidata-ha-L524180-S1" ili="wikidata-ha-L524180-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524392">
+      <Lemma writtenForm="ku" partOfSpeech="subject pronoun"/>
+      <Sense id="L524392-S1" synset="wikidata-ha-L524392-S1" ili="wikidata-ha-L524392-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620879">
+      <Lemma writtenForm="nan" partOfSpeech="demonstrative determiner"/>
+      <Sense id="L620879-S2" synset="wikidata-ha-L620879-S2" ili="wikidata-ha-L620879-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624441">
+      <Lemma writtenForm="maimakon" partOfSpeech="preposition"/>
+      <Sense id="L624441-S1" synset="wikidata-ha-L624441-S1" ili="wikidata-ha-L624441-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1531211">
+      <Lemma writtenForm="sha" partOfSpeech="linker"/>
+      <Sense id="L1531211-S1" synset="wikidata-ha-L1531211-S1" ili="wikidata-ha-L1531211-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524155">
+      <Lemma writtenForm="ta" partOfSpeech="subject pronoun"/>
+      <Sense id="L524155-S1" synset="wikidata-ha-L524155-S1" ili="wikidata-ha-L524155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643098">
+      <Lemma writtenForm="wani abu" partOfSpeech="pronominal locution"/>
+      <Sense id="L643098-S1" synset="wikidata-ha-L643098-S1" ili="wikidata-ha-L643098-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1307598">
+      <Lemma writtenForm="da" partOfSpeech="subordinating conjunction"/>
+      <Sense id="L1307598-S1" synset="wikidata-ha-L1307598-S1" ili="wikidata-ha-L1307598-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1525183">
+      <Lemma writtenForm="ba" partOfSpeech="negative particle"/>
+      <Sense id="L1525183-S1" synset="wikidata-ha-L1525183-S1" ili="wikidata-ha-L1525183-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1525186">
+      <Lemma writtenForm="sai" partOfSpeech="exceptive particle"/>
+      <Sense id="L1525186-S1" synset="wikidata-ha-L1525186-S1" ili="wikidata-ha-L1525186-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1525186-S2" synset="wikidata-ha-L1525186-S2" ili="wikidata-ha-L1525186-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1525186-S3" synset="wikidata-ha-L1525186-S3" ili="wikidata-ha-L1525186-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1525186-S4" synset="wikidata-ha-L1525186-S4" ili="wikidata-ha-L1525186-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1525186-S5" synset="wikidata-ha-L1525186-S5" ili="wikidata-ha-L1525186-S5">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524446">
+      <Lemma writtenForm="namu" partOfSpeech="possessive pronoun"/>
+      <Sense id="L524446-S1" synset="wikidata-ha-L524446-S1" ili="wikidata-ha-L524446-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593472">
+      <Lemma writtenForm="arbaʼin" partOfSpeech="determiner"/>
+      <Sense id="L593472-S1" synset="wikidata-ha-L593472-S1" ili="wikidata-ha-L593472-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640292">
+      <Lemma writtenForm="wanda" partOfSpeech="relative pronoun"/>
+      <Sense id="L640292-S1" synset="wikidata-ha-L640292-S1" ili="wikidata-ha-L640292-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1248495">
+      <Lemma writtenForm="in" partOfSpeech="subject pronoun"/>
+      <Sense id="L1248495-S1" synset="wikidata-ha-L1248495-S1" ili="wikidata-ha-L1248495-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1307594">
+      <Lemma writtenForm="da" partOfSpeech="preposition"/>
+      <Sense id="L1307594-S1" synset="wikidata-ha-L1307594-S1" ili="wikidata-ha-L1307594-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S2" synset="wikidata-ha-L1307594-S2" ili="wikidata-ha-L1307594-S2">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S3" synset="wikidata-ha-L1307594-S3" ili="wikidata-ha-L1307594-S3">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S4" synset="wikidata-ha-L1307594-S4" ili="wikidata-ha-L1307594-S4">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S5" synset="wikidata-ha-L1307594-S5" ili="wikidata-ha-L1307594-S5">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S6" synset="wikidata-ha-L1307594-S6" ili="wikidata-ha-L1307594-S6">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S7" synset="wikidata-ha-L1307594-S7" ili="wikidata-ha-L1307594-S7">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S8" synset="wikidata-ha-L1307594-S8" ili="wikidata-ha-L1307594-S8">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S9" synset="wikidata-ha-L1307594-S9" ili="wikidata-ha-L1307594-S9">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S10" synset="wikidata-ha-L1307594-S10" ili="wikidata-ha-L1307594-S10">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1307594-S11" synset="wikidata-ha-L1307594-S11" ili="wikidata-ha-L1307594-S11">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524161">
+      <Lemma writtenForm="mu" partOfSpeech="subject pronoun"/>
+      <Sense id="L524161-S1" synset="wikidata-ha-L524161-S1" ili="wikidata-ha-L524161-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620427">
+      <Lemma writtenForm="zuwa" partOfSpeech="preposition"/>
+      <Sense id="L620427-S1" synset="wikidata-ha-L620427-S1" ili="wikidata-ha-L620427-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L620932">
+      <Lemma writtenForm="yaushe" partOfSpeech="interrogative adverb"/>
+      <Sense id="L620932-S1" synset="wikidata-ha-L620932-S1" ili="wikidata-ha-L620932-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624580">
+      <Lemma writtenForm="nawa" partOfSpeech="possessive pronoun"/>
+      <Sense id="L624580-S1" synset="wikidata-ha-L624580-S1" ili="wikidata-ha-L624580-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L626984">
+      <Lemma writtenForm="tsakanin" partOfSpeech="preposition"/>
+      <Sense id="L626984-S1" synset="wikidata-ha-L626984-S1" ili="wikidata-ha-L626984-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1290929">
+      <Lemma writtenForm="ka" partOfSpeech="subject pronoun"/>
+      <Sense id="L1290929-S1" synset="wikidata-ha-L1290929-S1" ili="wikidata-ha-L1290929-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1291113">
+      <Lemma writtenForm="n" partOfSpeech="linker"/>
+      <Sense id="L1291113-S1" synset="wikidata-ha-L1291113-S1" ili="wikidata-ha-L1291113-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1307596">
+      <Lemma writtenForm="da" partOfSpeech="relative pronoun"/>
+      <Sense id="L1307596-S1" synset="wikidata-ha-L1307596-S1" ili="wikidata-ha-L1307596-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1310018">
+      <Lemma writtenForm="mai" partOfSpeech="preposition"/>
+      <Sense id="L1310018-S1" synset="wikidata-ha-L1310018-S1" ili="wikidata-ha-L1310018-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1310018-S2" synset="wikidata-ha-L1310018-S2" ili="wikidata-ha-L1310018-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524367">
+      <Lemma writtenForm="wani" partOfSpeech="indefinite pronoun"/>
+      <Sense id="L524367-S1" synset="wikidata-ha-L524367-S1" ili="wikidata-ha-L524367-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524496">
+      <Lemma writtenForm="maraba" partOfSpeech="interjection"/>
+      <Sense id="L524496-S1" synset="wikidata-ha-L524496-S1" ili="wikidata-ha-L524496-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524568">
+      <Lemma writtenForm="da" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L524568-S1" synset="wikidata-ha-L524568-S1" ili="wikidata-ha-L524568-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524570">
+      <Lemma writtenForm="a kan" partOfSpeech="preposition"/>
+      <Sense id="L524570-S1" synset="wikidata-ha-L524570-S1" ili="wikidata-ha-L524570-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593474">
+      <Lemma writtenForm="ɗaya" partOfSpeech="nominal"/>
+      <Sense id="L593474-S1" synset="wikidata-ha-L593474-S1" ili="wikidata-ha-L593474-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593850">
+      <Lemma writtenForm="bayan" partOfSpeech="preposition"/>
+      <Sense id="L593850-S1" synset="wikidata-ha-L593850-S1" ili="wikidata-ha-L593850-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L593850-S2" synset="wikidata-ha-L593850-S2" ili="wikidata-ha-L593850-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1474200">
+      <Lemma writtenForm="ha" partOfSpeech="interjection"/>
+      <Sense id="L1474200-S1" synset="wikidata-ha-L1474200-S1" ili="wikidata-ha-L1474200-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1525157">
+      <Lemma writtenForm="ya" partOfSpeech="interjection"/>
+      <Sense id="L1525157-S1" synset="wikidata-ha-L1525157-S1" ili="wikidata-ha-L1525157-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L624582">
+      <Lemma writtenForm="nawa" partOfSpeech="interrogative determinant"/>
+      <Sense id="L624582-S1" synset="wikidata-ha-L624582-S1" ili="wikidata-ha-L624582-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643100">
+      <Lemma writtenForm="wani wuri" partOfSpeech="pronominal locution"/>
+      <Sense id="L643100-S1" synset="wikidata-ha-L643100-S1" ili="wikidata-ha-L643100-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1307597">
+      <Lemma writtenForm="da" partOfSpeech="complementizer"/>
+      <Sense id="L1307597-S1" synset="wikidata-ha-L1307597-S1" ili="wikidata-ha-L1307597-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1380826">
+      <Lemma writtenForm="ya" partOfSpeech="preposition"/>
+      <Sense id="L1380826-S1" synset="wikidata-ha-L1380826-S1" ili="wikidata-ha-L1380826-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1523723">
+      <Lemma writtenForm="a" partOfSpeech="subject pronoun"/>
+      <Sense id="L1523723-S1" synset="wikidata-ha-L1523723-S1" ili="wikidata-ha-L1523723-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524569">
+      <Lemma writtenForm="tare" partOfSpeech="conjunction"/>
+      <Sense id="L524569-S2" synset="wikidata-ha-L524569-S2" ili="wikidata-ha-L524569-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593956">
+      <Lemma writtenForm="cikin" partOfSpeech="preposition"/>
+      <Sense id="L593956-S1" synset="wikidata-ha-L593956-S1" ili="wikidata-ha-L593956-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L640294">
+      <Lemma writtenForm="wannan" partOfSpeech="demonstrative determiner"/>
+      <Sense id="L640294-S2" synset="wikidata-ha-L640294-S2" ili="wikidata-ha-L640294-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L643099">
+      <Lemma writtenForm="wani lokaci" partOfSpeech="pronominal locution"/>
+      <Sense id="L643099-S1" synset="wikidata-ha-L643099-S1" ili="wikidata-ha-L643099-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1525155">
+      <Lemma writtenForm="ya" partOfSpeech="subject pronoun"/>
+      <Sense id="L1525155-S1" synset="wikidata-ha-L1525155-S1" ili="wikidata-ha-L1525155-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L524176">
+      <Lemma writtenForm="shi" partOfSpeech="personal pronoun"/>
+      <Sense id="L524176-S1" synset="wikidata-ha-L524176-S1" ili="wikidata-ha-L524176-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L593415">
+      <Lemma writtenForm="amma" partOfSpeech="coordinating conjunction"/>
+      <Sense id="L593415-S1" synset="wikidata-ha-L593415-S1" ili="wikidata-ha-L593415-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1476120">
+      <Lemma writtenForm="nan" partOfSpeech="demonstrative adverb"/>
+      <Sense id="L1476120-S1" synset="wikidata-ha-L1476120-S1" ili="wikidata-ha-L1476120-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1525156">
+      <Lemma writtenForm="ya" partOfSpeech="interrogative adverb"/>
+      <Sense id="L1525156-S1" synset="wikidata-ha-L1525156-S1" ili="wikidata-ha-L1525156-S1">
+        <Definition>yaya?</Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-ha-L524180-S1" ili="wikidata-ha-L524180-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524392-S1" ili="wikidata-ha-L524392-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L620879-S2" ili="wikidata-ha-L620879-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L624441-S1" ili="wikidata-ha-L624441-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1531211-S1" ili="wikidata-ha-L1531211-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524155-S1" ili="wikidata-ha-L524155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L643098-S1" ili="wikidata-ha-L643098-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307598-S1" ili="wikidata-ha-L1307598-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525183-S1" ili="wikidata-ha-L1525183-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525186-S1" ili="wikidata-ha-L1525186-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525186-S2" ili="wikidata-ha-L1525186-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525186-S3" ili="wikidata-ha-L1525186-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525186-S4" ili="wikidata-ha-L1525186-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525186-S5" ili="wikidata-ha-L1525186-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524446-S1" ili="wikidata-ha-L524446-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593472-S1" ili="wikidata-ha-L593472-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L640292-S1" ili="wikidata-ha-L640292-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1248495-S1" ili="wikidata-ha-L1248495-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S1" ili="wikidata-ha-L1307594-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S2" ili="wikidata-ha-L1307594-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S3" ili="wikidata-ha-L1307594-S3">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S4" ili="wikidata-ha-L1307594-S4">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S5" ili="wikidata-ha-L1307594-S5">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S6" ili="wikidata-ha-L1307594-S6">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S7" ili="wikidata-ha-L1307594-S7">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S8" ili="wikidata-ha-L1307594-S8">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S9" ili="wikidata-ha-L1307594-S9">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S10" ili="wikidata-ha-L1307594-S10">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307594-S11" ili="wikidata-ha-L1307594-S11">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524161-S1" ili="wikidata-ha-L524161-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L620427-S1" ili="wikidata-ha-L620427-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L620932-S1" ili="wikidata-ha-L620932-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L624580-S1" ili="wikidata-ha-L624580-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L626984-S1" ili="wikidata-ha-L626984-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1290929-S1" ili="wikidata-ha-L1290929-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1291113-S1" ili="wikidata-ha-L1291113-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307596-S1" ili="wikidata-ha-L1307596-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1310018-S1" ili="wikidata-ha-L1310018-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1310018-S2" ili="wikidata-ha-L1310018-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524367-S1" ili="wikidata-ha-L524367-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524496-S1" ili="wikidata-ha-L524496-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524568-S1" ili="wikidata-ha-L524568-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524570-S1" ili="wikidata-ha-L524570-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593474-S1" ili="wikidata-ha-L593474-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593850-S1" ili="wikidata-ha-L593850-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593850-S2" ili="wikidata-ha-L593850-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1474200-S1" ili="wikidata-ha-L1474200-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525157-S1" ili="wikidata-ha-L1525157-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L624582-S1" ili="wikidata-ha-L624582-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L643100-S1" ili="wikidata-ha-L643100-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1307597-S1" ili="wikidata-ha-L1307597-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1380826-S1" ili="wikidata-ha-L1380826-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1523723-S1" ili="wikidata-ha-L1523723-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524569-S2" ili="wikidata-ha-L524569-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593956-S1" ili="wikidata-ha-L593956-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L640294-S2" ili="wikidata-ha-L640294-S2">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L643099-S1" ili="wikidata-ha-L643099-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525155-S1" ili="wikidata-ha-L1525155-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L524176-S1" ili="wikidata-ha-L524176-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L593415-S1" ili="wikidata-ha-L593415-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1476120-S1" ili="wikidata-ha-L1476120-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-ha-L1525156-S1" ili="wikidata-ha-L1525156-S1">
+      <Definition>yaya?</Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>

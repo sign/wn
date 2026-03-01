@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="wikidata-tl"
+                    label="Wikidata TL Lexemes Extension"
+                    language="tl"
+                    email="amit@nagish.com"
+                    license="https://creativecommons.org/publicdomain/zero/1.0/"
+                    version="1.0">
+    <Extends id="omw-tl" version="1.4"/>
+    <LexicalEntry id="L613965">
+      <Lemma writtenForm="isa" partOfSpeech="numeral"/>
+      <Sense id="L613965-S1" synset="wikidata-tl-L613965-S1" ili="wikidata-tl-L613965-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L691243">
+      <Lemma writtenForm="mabuhay" partOfSpeech="greeting"/>
+      <Sense id="L691243-S1" synset="wikidata-tl-L691243-S1" ili="wikidata-tl-L691243-S1">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="L1476746">
+      <Lemma writtenForm="-in-" partOfSpeech="infix"/>
+      <Sense id="L1476746-S1" synset="wikidata-tl-L1476746-S1" ili="wikidata-tl-L1476746-S1">
+        <Definition></Definition>
+      </Sense>
+      <Sense id="L1476746-S2" synset="wikidata-tl-L1476746-S2" ili="wikidata-tl-L1476746-S2">
+        <Definition></Definition>
+      </Sense>
+    </LexicalEntry>
+    <Synset id="wikidata-tl-L613965-S1" ili="wikidata-tl-L613965-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tl-L691243-S1" ili="wikidata-tl-L691243-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tl-L1476746-S1" ili="wikidata-tl-L1476746-S1">
+      <Definition></Definition>
+    </Synset>
+    <Synset id="wikidata-tl-L1476746-S2" ili="wikidata-tl-L1476746-S2">
+      <Definition></Definition>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>
