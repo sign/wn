@@ -26,6 +26,9 @@ RUN python -m wn download omw:1.4 cili odenet:1.4
 COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
 RUN python -c "import wn; import sys; [wn.add(f) for f in sys.argv[1:]]" extensions/wikidata-lexemes/output/*.xml
 
+# Run ANALYZE so SQLite has query planner statistics baked into the image
+RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
+
 # Clean up the downloads directory
 RUN rm -r ~/.wn_data/downloads
 
