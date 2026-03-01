@@ -1,17 +1,16 @@
 """Web interface for Wn databases."""
-from typing import Optional, Union
-from functools import wraps, lru_cache
-from urllib.parse import urlsplit, parse_qs, urlencode
-from datetime import datetime, UTC
+from datetime import UTC, datetime
+from functools import lru_cache, wraps
+from urllib.parse import parse_qs, urlencode, urlsplit
 
 from starlette.applications import Starlette  # type: ignore
+from starlette.exceptions import HTTPException  # type: ignore
 from starlette.middleware import Middleware
 from starlette.middleware.cors import CORSMiddleware
 from starlette.middleware.gzip import GZipMiddleware
+from starlette.requests import Request  # type: ignore
 from starlette.responses import JSONResponse  # type: ignore
 from starlette.routing import Route  # type: ignore
-from starlette.requests import Request  # type: ignore
-from starlette.exceptions import HTTPException  # type: ignore
 
 import wn
 
@@ -84,7 +83,7 @@ def replace_query_params(url: str, **params) -> str:
 
 def _init_wordnet(
         lexicon: str = '*',
-        lang: Optional[str] = None,
+        lang: str | None = None,
 ) -> wn.Wordnet:
     if lexicon == '*' and lang is not None:
         lexicon = ' '.join(lex.specifier() for lex in wn.lexicons(lang=lang))
@@ -96,8 +95,8 @@ def _init_wordnet(
 def _url_for_obj(
         request: Request,
         name: str,
-        obj: Union[wn.Word, wn.Sense, wn.Synset],
-        lexicon: Optional[str] = None,
+        obj: wn.Word | wn.Sense | wn.Synset,
+        lexicon: str | None = None,
 ) -> str:
     if lexicon is None:
         lexicon = obj.lexicon().specifier()
@@ -166,7 +165,9 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         d.update({
             'relationships': {
                 'senses': {'links': {'related': senses_link}},
-                'synsets': {'data': [dict(type='synset', id=ss.id) for ss in synsets]},
+                'synsets': {
+                    'data': [{'type': 'synset', 'id': ss.id} for ss in synsets],
+                },
                 'lexicon': {'links': {'related': lex_link}}
             },
             'included': included
@@ -197,7 +198,7 @@ def make_sense(s: wn.Sense, request: Request, basic: bool = False) -> dict:
         included = []
         for relname, slist in s.relations().items():
             relationships[relname] = {
-                'data': [dict(type='sense', id=_s.id) for _s in slist]
+                'data': [{'type': 'sense', 'id': _s.id} for _s in slist]
             }
             included.extend([make_sense(_s, request, basic=True) for _s in slist])
         d.update({'relationships': relationships, 'included': included})
@@ -225,13 +226,13 @@ def make_synset(ss: wn.Synset, request: Request, basic: bool = False) -> dict:
         members_link = str(request.url_for('senses', synset=ss.id, lexicon=lex_spec))
         relationships: dict = {
             'members': {'links': {'related': members_link}},
-            'words': {'data': [dict(type='word', id=w.id) for w in words]},
+            'words': {'data': [{'type': 'word', 'id': w.id} for w in words]},
             'lexicon': {'links': {'related': lex_link}}
         }
         included = [make_word(w, request, basic=True) for w in words]
         for relname, sslist in ss.relations().items():
             relationships[relname] = {
-                'data': [dict(type='synset', id=_s.id) for _s in sslist]
+                'data': [{'type': 'synset', 'id': _s.id} for _s in sslist]
             }
             included.extend([make_synset(_s, request, basic=True) for _s in sslist])
         d.update({'relationships': relationships, 'included': included})
@@ -430,7 +431,8 @@ async def definitions(request: Request):
     """Batch endpoint to get definitions for multiple word form/pos queries.
 
     POST body: {"queries": [{"form": "comfort", "pos": "n"}, ...]}
-    Response: {"data": [{"form": "comfort", "pos": "n", "definitions": {synset_id: def, ...}}, ...]}
+    Response: {"data": [{"form": "comfort", "pos": "n",
+                         "definitions": {synset_id: def, ...}}, ...]}
     """
     path_params = request.path_params
     wordnet = _init_wordnet(path_params['lexicon'])

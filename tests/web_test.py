@@ -5,7 +5,6 @@ import wn
 import wn._db
 from wn import web
 
-
 # clearing connections on teardown (see conftest.py) isn't enough. For
 # this we apparently need to monkeypatch the wn._db.pool as well.
 

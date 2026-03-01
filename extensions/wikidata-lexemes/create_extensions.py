@@ -86,7 +86,7 @@ ENGLISH_LANG_Q = "Q1860"
 def fetch_wikidata_entity(q_code: str) -> dict:
     cache_path = EXTRAS_DIR / f"{q_code}.json"
     if cache_path.exists():
-        with open(cache_path, "r", encoding="utf-8") as f:
+        with open(cache_path, encoding="utf-8") as f:
             data = json.load(f)
     else:
         print("fetch_wikidata_entity", q_code)
@@ -161,9 +161,10 @@ def has_valid_abbreviation_relation(lexeme: dict, kept_sense_ids: set[str]) -> b
             for claim in claims.get(prop, []):
                 mainsnak = claim.get("mainsnak", {})
                 datavalue = mainsnak.get("datavalue")
-                if datavalue and datavalue.get("type") == "wikibase-entityid":
-                    if datavalue["value"]["id"] in kept_sense_ids:
-                        return True
+                if (datavalue
+                        and datavalue.get("type") == "wikibase-entityid"
+                        and datavalue["value"]["id"] in kept_sense_ids):
+                    return True
     return False
 
 
@@ -180,21 +181,19 @@ def filter_lexemes() -> tuple[list[dict], set[tuple[str, str]]]:
         pos_name = get_label(pos_q)
         if pos_name in SKIP_POS:
             continue
-        if pos_name == "abbreviation":
-            if not has_valid_abbreviation_relation(lexeme, kept_sense_ids):
-                continue
+        if (pos_name == "abbreviation"
+                and not has_valid_abbreviation_relation(lexeme, kept_sense_ids)):
+            continue
         filtered.append(lexeme)
 
     print(f"  Kept {len(filtered)} lexemes")
     return filtered, kept_lang_senses
 
 
-def build_ili_index(lexemes: list[dict]) -> dict[str, str]:
-    """Build mapping from sense ID to English ILI."""
+def _collect_senses_and_translations(lexemes: list[dict]):
+    """Collect English senses and translation mappings from lexemes."""
     english_senses: set[str] = set()
     translations: dict[str, list[str]] = {}
-
-    print("Step 2: Building ILI index...")
     for lexeme in tqdm(lexemes, desc="Indexing"):
         is_english = lexeme.get("language") == ENGLISH_LANG_Q
         for sense in lexeme.get("senses", []):
@@ -208,6 +207,13 @@ def build_ili_index(lexemes: list[dict]) -> dict[str, str]:
                 if datavalue and datavalue.get("type") == "wikibase-entityid":
                     target_id = datavalue["value"]["id"]
                     translations.setdefault(sense_id, []).append(target_id)
+    return english_senses, translations
+
+
+def build_ili_index(lexemes: list[dict]) -> dict[str, str]:
+    """Build mapping from sense ID to English ILI."""
+    print("Step 2: Building ILI index...")
+    english_senses, translations = _collect_senses_and_translations(lexemes)
 
     ili_index: dict[str, str] = {}
     for sense_id in english_senses:
@@ -226,7 +232,55 @@ def build_ili_index(lexemes: list[dict]) -> dict[str, str]:
     return ili_index
 
 
-def build_xml_entry(lexeme: dict, lang_iso: str, ili_index: dict[str, str], kept_lang_senses: set[tuple[str, str]]) -> tuple[str, list[str]] | None:
+def _extract_sense_examples(lexeme: dict, lang_iso: str) -> dict[str, list[str]]:
+    """Build mapping of sense_id -> examples from P5831 claims."""
+    sense_examples: dict[str, list[str]] = {}
+    for claim in lexeme.get("claims", {}).get("P5831", []):
+        mainsnak = claim.get("mainsnak", {})
+        datavalue = mainsnak.get("datavalue")
+        if not datavalue or datavalue.get("type") != "monolingualtext":
+            continue
+        text_value = datavalue.get("value", {})
+        if text_value.get("language") != lang_iso:
+            continue
+        example_text = text_value.get("text", "")
+        qualifiers = claim.get("qualifiers", {})
+        for qual in qualifiers.get("P6072", []):
+            qual_datavalue = qual.get("datavalue")
+            if qual_datavalue and qual_datavalue.get("type") == "wikibase-entityid":
+                target_sense = qual_datavalue["value"]["id"]
+                sense_examples.setdefault(target_sense, []).append(example_text)
+    return sense_examples
+
+
+def _build_sense_relations(
+    sense: dict, lang_iso: str,
+    kept_lang_senses: set[tuple[str, str]],
+) -> list[str]:
+    """Build XML relation strings for a sense."""
+    relations = []
+    claims = sense.get("claims", {})
+    for prop, rel_type in SENSE_RELATIONS.items():
+        for claim in claims.get(prop, []):
+            mainsnak = claim.get("mainsnak", {})
+            datavalue = mainsnak.get("datavalue")
+            if datavalue and datavalue.get("type") == "wikibase-entityid":
+                target_id = datavalue["value"]["id"]
+                if (lang_iso, target_id) not in kept_lang_senses:
+                    continue
+                target_synset = f"wikidata-{lang_iso}-{target_id}"
+                relations.append(
+                    f'        <SenseRelation relType="{rel_type}"'
+                    f' target="{target_synset}"/>'
+                )
+    return relations
+
+
+def build_xml_entry(
+    lexeme: dict, lang_iso: str,
+    ili_index: dict[str, str],
+    kept_lang_senses: set[tuple[str, str]],
+) -> tuple[str, list[str]] | None:
     lexeme_id = lexeme["id"]
     lemmas = lexeme.get("lemmas", {})
     if lang_iso not in lemmas:
@@ -242,24 +296,7 @@ def build_xml_entry(lexeme: dict, lang_iso: str, ili_index: dict[str, str], kept
     if not senses:
         return None
 
-    # Build mapping of sense_id -> examples from P5831 claims
-    sense_examples: dict[str, list[str]] = {}
-    for claim in lexeme.get("claims", {}).get("P5831", []):
-        mainsnak = claim.get("mainsnak", {})
-        datavalue = mainsnak.get("datavalue")
-        if not datavalue or datavalue.get("type") != "monolingualtext":
-            continue
-        text_value = datavalue.get("value", {})
-        if text_value.get("language") != lang_iso:
-            continue
-        example_text = text_value.get("text", "")
-        # Get the sense this example applies to from P6072 qualifier
-        qualifiers = claim.get("qualifiers", {})
-        for qual in qualifiers.get("P6072", []):
-            qual_datavalue = qual.get("datavalue")
-            if qual_datavalue and qual_datavalue.get("type") == "wikibase-entityid":
-                target_sense = qual_datavalue["value"]["id"]
-                sense_examples.setdefault(target_sense, []).append(example_text)
+    sense_examples = _extract_sense_examples(lexeme, lang_iso)
 
     sense_entries = []
     synset_entries = []
@@ -267,28 +304,16 @@ def build_xml_entry(lexeme: dict, lang_iso: str, ili_index: dict[str, str], kept
         sense_id = sense["id"]
         glosses = sense.get("glosses", {})
         gloss = glosses.get(lang_iso, {}).get("value", "")
-
-        relations = []
-        claims = sense.get("claims", {})
-        for prop, rel_type in SENSE_RELATIONS.items():
-            for claim in claims.get(prop, []):
-                mainsnak = claim.get("mainsnak", {})
-                datavalue = mainsnak.get("datavalue")
-                if datavalue and datavalue.get("type") == "wikibase-entityid":
-                    target_id = datavalue["value"]["id"]
-                    if (lang_iso, target_id) not in kept_lang_senses:
-                        continue
-                    target_synset = f"wikidata-{lang_iso}-{target_id}"
-                    relations.append(
-                        f'        <SenseRelation relType="{rel_type}" target="{target_synset}"/>'
-                    )
-
+        relations = _build_sense_relations(sense, lang_iso, kept_lang_senses)
         examples = sense_examples.get(sense_id, [])
 
         synset_id = f"wikidata-{lang_iso}-{sense_id}"
         ili = ili_index.get(sense_id, synset_id)
         ili_attr = f' ili="{ili}"'
-        sense_content = f'      <Sense id="{sense_id}" synset="{synset_id}"{ili_attr}>\n'
+        sense_content = (
+            f'      <Sense id="{sense_id}"'
+            f' synset="{synset_id}"{ili_attr}>\n'
+        )
         sense_content += f'        <Definition>{escape_xml(gloss)}</Definition>\n'
         for example in examples:
             sense_content += f'        <Example>{escape_xml(example)}</Example>\n'
@@ -307,7 +332,8 @@ def build_xml_entry(lexeme: dict, lang_iso: str, ili_index: dict[str, str], kept
 
     entry_xml = (
         f'    <LexicalEntry id="{lexeme_id}">\n'
-        f'      <Lemma writtenForm="{escape_xml(lemma)}" partOfSpeech="{escape_xml(pos_name)}"/>\n'
+        f'      <Lemma writtenForm="{escape_xml(lemma)}"'
+        f' partOfSpeech="{escape_xml(pos_name)}"/>\n'
         + "\n".join(sense_entries)
         + "\n    </LexicalEntry>"
     )
@@ -344,7 +370,11 @@ XML_FOOTER = '''  </LexiconExtension>
 '''
 
 
-def write_all_extensions(lexemes: list[dict], ili_index: dict[str, str], kept_lang_senses: set[tuple[str, str]]):
+def write_all_extensions(
+    lexemes: list[dict],
+    ili_index: dict[str, str],
+    kept_lang_senses: set[tuple[str, str]],
+):
     """Write XML extensions for all languages."""
     EXTENSIONS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -371,7 +401,7 @@ def write_all_extensions(lexemes: list[dict], ili_index: dict[str, str], kept_la
 
             if lang_iso not in file_handlers:
                 output_path = EXTENSIONS_DIR / f"{lang_iso}.xml"
-                file_handlers[lang_iso] = open(output_path, "w", encoding="utf-8")
+                file_handlers[lang_iso] = open(output_path, "w", encoding="utf-8")  # noqa: SIM115
                 file_handlers[lang_iso].write(get_xml_header(lang_iso))
                 entry_counts[lang_iso] = 0
                 synsets_by_lang[lang_iso] = []
