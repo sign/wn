@@ -3,6 +3,8 @@ from datetime import UTC, datetime
 from functools import lru_cache, wraps
 from urllib.parse import parse_qs, urlencode, urlsplit
 
+from contextlib import asynccontextmanager
+
 from starlette.applications import Starlette  # type: ignore
 from starlette.exceptions import HTTPException  # type: ignore
 from starlette.middleware import Middleware  # type: ignore
@@ -92,6 +94,26 @@ def _init_wordnet(
 
 # Data-making functions
 
+def _make_pronunciation_data(p: wn.Pronunciation) -> dict:
+    d: dict = {'value': p.value, 'phonemic': p.phonemic}
+    if p.variety:
+        d['variety'] = p.variety
+    if p.notation:
+        d['notation'] = p.notation
+    if p.audio:
+        d['audio'] = p.audio
+    return d
+
+
+def _make_form_data(f: wn.Form) -> dict:
+    d: dict = {'form': f.value}
+    if f.script:
+        d['script'] = f.script
+    pronunciations = f.pronunciations()
+    if pronunciations:
+        d['pronunciations'] = [_make_pronunciation_data(p) for p in pronunciations]
+    return d
+
 def _url_for_obj(
         request: Request,
         name: str,
@@ -144,7 +166,7 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         'attributes': {
             'pos': w.pos,
             'lemma': w.lemma(),
-            'forms': w.forms(),
+            'forms': [_make_form_data(f) for f in w.forms(data=True)],
         },
         'links': {
             'self': _url_for_obj(request, 'word', w, lexicon=lex_spec)
@@ -495,18 +517,18 @@ middlewares = [
     )
 ]
 
-async def warmup():
-    # Pre-warm the DB connection and query cache during startup,
-    # so the first user request doesn't pay the cold-query cost.
+@asynccontextmanager
+async def lifespan(app):
     lexicons = wn.lexicons()
     if lexicons:
         _get_forms(lexicons[0].specifier())
+    yield
 
 
 app = Starlette(debug=True,
                 routes=routes,
                 middleware=middlewares,
-                on_startup=[warmup],
+                lifespan=lifespan,
                 exception_handlers={
                     HTTPException: http_exception_handler,
                     wn.Error: http_exception_handler,
