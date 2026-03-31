@@ -1,14 +1,16 @@
 from typing import Literal, overload
 
-from wn._config import config
+from wn._config import ResolvedProjectInfo, config
 from wn._core import Form, Sense, Synset, Word
+from wn._db import clear_connections, connect, list_lexicons_safe
+from wn._download import download
 from wn._exceptions import Error
 from wn._lexicon import Lexicon
 from wn._util import format_lexicon_specifier
 from wn._wordnet import Wordnet
 
 
-def projects() -> list[dict]:
+def projects() -> list[ResolvedProjectInfo]:
     """Return the list of indexed projects.
 
     This returns the same dictionaries of information as
@@ -30,7 +32,7 @@ def projects() -> list[dict]:
         config.get_project_info(format_lexicon_specifier(project_id, version))
         for project_id, project_info in index.items()
         for version in project_info.get("versions", [])
-        if "resource_urls" in project_info["versions"][version]
+        if not project_info["versions"][version]["error"]
     ]
 
 
@@ -49,6 +51,36 @@ def lexicons(*, lexicon: str | None = "*", lang: str | None = None) -> list[Lexi
         return []
     else:
         return w.lexicons()
+
+
+def reset_database(rebuild: bool = False) -> None:
+    """Delete and recreate the database file.
+
+    If *rebuild* is :python:`True`, Wn will attempt to add all lexicons
+    that are added in the existing database. Note that this will only
+    attempt to add indexed projects via their lexicon specifiers, (using
+    :python:`wn.download(specifier)`) regardless of how they were
+    originally added, and will not attempt to add resources from
+    unindexed URLs or local files (unless those local files are cached
+    versions of indexed resources).
+
+    This function is useful when database schema changes necessitate a
+    rebuild or when testing requires a clean database.
+
+    .. warning::
+       This will completely delete the database and all added resources.
+       It does not delete the download cache. Using ``rebuild=True``
+       does not re-add non-lexicon resources like CILI files or
+       unindexed resources, so you will need to add those manually.
+    """
+    specs = list_lexicons_safe()
+    clear_connections()
+    config.database_path.unlink(missing_ok=True)
+    connect()
+    if rebuild:
+        for spec in specs:
+            download(spec)
+    clear_connections()
 
 
 def word(id: str, *, lexicon: str | None = None, lang: str | None = None) -> Word:

@@ -10,6 +10,8 @@ from wn._lexicon import (
     LexiconElement,
     LexiconElementWithMetadata,
 )
+from wn._queries import Pronunciation as PronunciationTuple
+from wn._queries import Tag as TagTuple
 from wn._queries import (
     find_entries,
     find_synsets,
@@ -107,7 +109,7 @@ class _LexiconDataElement(LexiconElementWithMetadata):
 
 
 @dataclass(frozen=True, slots=True)
-class Pronunciation:
+class Pronunciation(LexiconElement):
     """A class for word form pronunciations."""
 
     __module__ = "wn"
@@ -117,16 +119,18 @@ class Pronunciation:
     notation: str | None = None
     phonemic: bool = True
     audio: str | None = None
+    _lexicon: str = field(default="", repr=False, compare=False)
 
 
 @dataclass(frozen=True, slots=True)
-class Tag:
+class Tag(LexiconElement):
     """A general-purpose tag class for word forms."""
 
     __module__ = "wn"
 
     tag: str
     category: str
+    _lexicon: str = field(default="", repr=False, compare=False)
 
 
 @dataclass(frozen=True, slots=True)
@@ -156,8 +160,8 @@ def _make_form(
     id: str | None,
     script: str | None,
     lexicon: str,
-    prons: list[tuple[str, str | None, str | None, bool, str | None]],
-    tags: list[tuple[str, str]],
+    prons: list[PronunciationTuple],
+    tags: list[TagTuple],
 ) -> Form:
     return Form(
         form,
@@ -798,7 +802,9 @@ class Synset(_Relatable):
     ) -> Iterator[tuple[Relation, Synset]]:
         _lexconf = self._lexconf
         lexicons = self._get_lexicons()
-        iterable = get_synset_relations(self.id, self._lexicon, args, lexicons)
+        iterable = get_synset_relations(
+            self.id, self._lexicon, args, lexicons, lexicons
+        )
         for relname, rellex, metadata, _, ssid, pos, ili, tgtlex in iterable:
             synset_rel = Relation(relname, self.id, ssid, rellex, metadata=metadata)
             synset = Synset(
@@ -940,8 +946,11 @@ class Synset(_Relatable):
         if not ili:
             return []
         lexicons = resolve_lexicon_specifiers(lexicon=(lexicon or "*"), lang=lang)
+        lexconf = LexiconConfiguration(
+            lexicons=tuple(lexicons), expands=(), default_mode=False
+        )
         return [
-            Synset(*data, _lexconf=self._lexconf)
+            Synset(*data, _lexconf=lexconf)
             for data in get_synsets_for_ilis((ili,), lexicons)
         ]
 
@@ -1194,7 +1203,8 @@ class Sense(_Relatable):
         )
 
     def _iter_sense_relations(self, *args: str) -> Iterator[tuple[Relation, Sense]]:
-        iterable = get_sense_relations(self.id, args, self._get_lexicons())
+        lexicons = self._get_lexicons()
+        iterable = get_sense_relations(self.id, args, lexicons, lexicons)
         for relname, lexicon, metadata, sid, eid, ssid, lexid in iterable:
             relation = Relation(relname, self.id, sid, lexicon, metadata=metadata)
             sense = Sense(sid, eid, ssid, lexid, _lexconf=self._lexconf)
@@ -1204,7 +1214,8 @@ class Sense(_Relatable):
         self,
         *args: str,
     ) -> Iterator[tuple[Relation, Synset]]:
-        iterable = get_sense_synset_relations(self.id, args, self._get_lexicons())
+        lexicons = self._get_lexicons()
+        iterable = get_sense_synset_relations(self.id, args, lexicons, lexicons)
         for relname, lexicon, metadata, _, ssid, pos, ili, lexid in iterable:
             relation = Relation(relname, self.id, ssid, lexicon, metadata=metadata)
             synset = Synset(ssid, pos, ili, lexid, _lexconf=self._lexconf)

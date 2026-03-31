@@ -17,17 +17,6 @@ Install the latest release from `PyPI <https://pypi.org/project/wn>`_:
    pip install wn
 
 
-Installing with Conda
----------------------
-
-Alternatively, if you use the `Anaconda <https://anaconda.org/>`
-distribution of Python, you can install with conda:
-
-.. code-block:: bash
-
-   conda install -c conda-forge wn
-
-
 The Data Directory
 ------------------
 
@@ -64,12 +53,27 @@ change the directory Wn uses for storing data locally, modify the
    import wn
    wn.config.data_directory = '~/Projects/wn_data'
 
+You can alternatively set the ``WN_DATA_DIR`` environment variable
+prior to importing Wn. On Unix-like systems, this would look like:
+
+.. code-block:: console
+
+   $ export WN_DATA_DIR=~/path/to/wn_data
+   $ python3 ...
+
+If you are using Wn from the command line, a third option is to use
+the ``--dir`` or ``-d`` option:
+
+.. code-block:: console
+
+   $ python3 -m wn --dir ~/path/to/wn_data download ...
+
 There are some things to note:
 
 - The downloads directory and database path are always relative to the
   data directory and cannot be changed directly.
 - This change only affects subsequent operations, so any data in the
-  previous location will not be moved nor deleted.
+  previous location will not be moved or deleted.
 - This change only affects the current session. If you want a script
   or application to always use the new location, it must reset the
   data directory each time it is initialized.
@@ -94,6 +98,35 @@ from a TOML_ file via the :py:data:`wn.config` object's
        'https://en-word.net/static/english-wordnet-2020.xml.gz',
        'https://creativecommons.org/licenses/by/4.0/',
    )
+
+
+Rebuilding the Database
+-----------------------
+
+New versions of Wn may occasionally alter the database schema in a way
+that makes an existing database incompatible with the code. You will
+see an error like this (abbreviated):
+
+>>> import wn
+>>> wn.Wordnet("oewn:2024")
+Traceback (most recent call last):
+  [...]
+wn.DatabaseError: Wn's schema has changed and is no longer compatible with the database.
+Lexicons currently installed:
+  odenet:1.4
+  oewn:2023
+  oewn:2024
+  omw-arb:1.4
+  [...]]
+Run wn.reset_database(rebuild=True) to rebuild the database.
+
+You can then run, as directed, :func:`wn.reset_database` with
+``rebuild=True``, which will delete the database, initialize a new one,
+and attempt to add all the lexicons that were previously added. You can
+also run with ``rebuild=False`` to reinitialize the database without
+re-adding lexicons, or alternatively simply delete the database file
+from your filesystem. See the documentation for
+:func:`wn.reset_database` for more information.
 
 
 Installing From Source

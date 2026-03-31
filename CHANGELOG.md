@@ -2,16 +2,53 @@
 
 ## [Unreleased][unreleased]
 
+
+## [v1.1.0]
+
+**Release date: 2026-03-21**
+
+### Added
+
+* `cache` subcommand ([#313])
+* `wn.config.list_cache_entries()` method ([#313])
+* Support for `WN_DATA_DIR` environment variable ([#314])
+
+### Changed
+
+* The schema hashing function is now resilient to ordering and SQL DB
+  operations ([#319])
+
+### Fixed
+
+* `Synset.translate()` resets the lexicon configuration of the
+  translated sysets ([#316]); `Sense.translate()` and
+  `Word.translate()` derive from `Synset.translate()` so nothing
+  special needs to be done for them.
+
+
+## [v1.0.0]
+
+**Release date: 2026-01-31**
+
 Notable changes in this release:
 * A new version of the database schema requires a database rebuild
 * A new `wn.ili` module deals with ILI files and objects; interlingual
   queries still use the `Synset.ili` member, which is now a simple `str`
+* The Open English Wordnet versions 2025 and 2025+ are added to the index
+* The Open Multilingual Wordnet 2.0 is added to the index
+
+### Index
+
+* Add `oewn:2025` ([#294])
+* Add `oewn:2025+` ([#294])
+* Add `omw:2.0`, including `2.0` versions of individual OMW lexicons ([#300])
 
 ### Schema
 
 * Add `specifier` column to `lexicon` table ([#234])
 * Remove `lexicalized` column from `synsets` and `senses` ([#248])
 * Add `unlexicalized_synsets` and `unlexicalized_senses` tables ([#248])
+* Add `lexicon_rowid` column to `pronunciations` and `tags` ([#303])
 
 ### Added
 
@@ -38,8 +75,17 @@ Notable changes in this release:
     - `destination`
     - `body_part`
     - `vehicle`
+  - `ref` attribute for `<Requires>` and `<Extends>` ([#301])
 * `wn.ili` module
 * `wn.Sense.synset_relations()` ([#271])
+* `wn.Pronunciation.lexicon()` method ([#303])
+* `wn.Tag.lexicon()` method ([#303])
+* Support for exporting lexicon extensions ([#103])
+* `wn.compat.sensekey` supports the `oewn-v2` flavor for escaping and
+  unescaping for the scheme used by OEWN 2025 ([#292])
+* `wn.compat.sensekey` supports the `oewn:2025` and `oewn:2025+` lexicons for
+  the `sense_key_getter` and `sense_getter` functions ([#292])
+* `wn.reset_database()` function for reinitializing an outdated database.
 
 ### Removed
 
@@ -59,6 +105,13 @@ Notable changes in this release:
   using `data=True` ([#271])
 * `wn.Sense.relations()`: return `wn.Relation` to `wn.Sense` mapping when
   using `data=True` ([#271])
+* Queries of relations can specify different lexicons for source and target
+  (part of [#103]; not a user-facing change)
+
+### Fixed
+
+* WN-LMF 1.1+ `<Pronunciation>` exported properly ([#302])
+* WN-LMF 1.1+ `subcat` attribute exported properly ([#302])
 
 ### Documentation
 
@@ -775,6 +828,8 @@ the https://github.com/nltk/wordnet/ code which had been effectively
 abandoned, but this is an entirely new codebase.
 
 
+[v1.1.0]: ../../releases/tag/v1.1.0
+[v1.0.0]: ../../releases/tag/v1.0.0
 [v0.14.0]: ../../releases/tag/v0.14.0
 [v0.13.0]: ../../releases/tag/v0.13.0
 [v0.12.0]: ../../releases/tag/v0.12.0
@@ -849,6 +904,7 @@ abandoned, but this is an entirely new codebase.
 [#97]: https://github.com/goodmami/wn/issues/97
 [#98]: https://github.com/goodmami/wn/issues/98
 [#99]: https://github.com/goodmami/wn/issues/99
+[#103]: https://github.com/goodmami/wn/issues/103
 [#104]: https://github.com/goodmami/wn/issues/104
 [#105]: https://github.com/goodmami/wn/issues/105
 [#106]: https://github.com/goodmami/wn/issues/106
@@ -913,4 +969,14 @@ abandoned, but this is an entirely new codebase.
 [#285]: https://github.com/goodmami/wn/issues/285
 [#286]: https://github.com/goodmami/wn/issues/286
 [#291]: https://github.com/goodmami/wn/issues/291
+[#292]: https://github.com/goodmami/wn/issues/292
+[#294]: https://github.com/goodmami/wn/issues/294
 [#295]: https://github.com/goodmami/wn/issues/295
+[#300]: https://github.com/goodmami/wn/issues/300
+[#301]: https://github.com/goodmami/wn/issues/301
+[#302]: https://github.com/goodmami/wn/issues/302
+[#303]: https://github.com/goodmami/wn/issues/303
+[#313]: https://github.com/goodmami/wn/issues/313
+[#314]: https://github.com/goodmami/wn/issues/314
+[#316]: https://github.com/goodmami/wn/issues/316
+[#319]: https://github.com/goodmami/wn/issues/319

@@ -9,9 +9,9 @@ from itertools import islice
 from pathlib import Path
 from typing import TypeVar, cast
 
-from wn import constants, lmf
 from wn import ili as _ili
-from wn._config import config
+from wn import lmf
+from wn._config import ResourceType, config
 from wn._db import connect
 from wn._exceptions import Error
 from wn._queries import (
@@ -108,9 +108,9 @@ def add(
     try:
         for package in iterpackages(source):
             match package.type:
-                case constants._WORDNET:
+                case ResourceType.WORDNET:
                     _add_lmf(package.resource_file(), progress, progress_handler)
-                case constants._ILI:
+                case ResourceType.ILI:
                     _add_ili(package.resource_file(), progress)
                 case _:
                     raise Error(f"unknown package type: {package.type}")
@@ -203,9 +203,9 @@ def _add_lexical_resource(
             entries: Sequence[_AnyEntry] = _entries(lexicon)
             synbhrs: Sequence[lmf.SyntacticBehaviour] = _collect_frames(lexicon)
 
-            lexid, extid = _insert_lexicon(lexicon, cur, progress)
+            lexid, baseid = _insert_lexicon(lexicon, cur, progress)
 
-            lexidmap = _build_lexid_map(lexicon, lexid, extid)
+            lexidmap = _build_lexid_map(lexicon, lexid, baseid)
 
             _insert_synsets(synsets, lexid, cur, progress)
             _insert_entries(entries, lexid, cur, progress)
@@ -386,14 +386,14 @@ def _insert_lexicon(
         param_dict.setdefault("url", None)
         param_dict["lid"] = lexid
         cur.execute(query.format(table="lexicon_extensions"), param_dict)
-        extid = cur.execute(
+        baseid = cur.execute(
             "SELECT rowid FROM lexicons WHERE id=? AND version=?",
             (param_dict["id"], param_dict["version"]),
         ).fetchone()[0]
     else:
-        extid = lexid
+        baseid = lexid
 
-    return lexid, extid
+    return lexid, baseid
 
 
 _LexIdMap = dict[str, int]
@@ -668,24 +668,36 @@ def _insert_pronunciations(
     progress: ProgressHandler,
 ) -> None:
     progress.set(status="Pronunciations")
-    query = f"INSERT INTO pronunciations VALUES (({FORM_QUERY}),?,?,?,?,?)"
+    query = f"INSERT INTO pronunciations VALUES (({FORM_QUERY}),?,?,?,?,?,?)"
     for batch in _batch(entries):
         prons: list[
             tuple[
-                str, int, str | None, int, str, str | None, str | None, bool, str | None
+                # FORM_QUERY args
+                str,  # entry id
+                int,  # entry lexid
+                str | None,  # optional form id
+                int,  # rank
+                # pronunciation fields
+                int,  # pronunciation lexid
+                str,  # text
+                str | None,  # variety
+                str | None,  # notation
+                bool,  # phonemic
+                str | None,  # audio
             ]
         ] = []
         for entry in batch:
             eid = entry["id"]
             lid = lexidmap.get(eid, lexid)
-            if entry.get("lemma"):
-                for p in entry["lemma"].get("pronunciations", []):
+            if lemma := entry.get("lemma"):
+                for p in lemma.get("pronunciations", []):
                     prons.append(
                         (
                             eid,
                             lid,
                             None,
                             0,
+                            lexid,
                             p["text"],
                             p.get("variety"),
                             p.get("notation"),
@@ -703,6 +715,7 @@ def _insert_pronunciations(
                             lid,
                             form.get("id"),
                             rank,
+                            lexid,
                             p["text"],
                             p.get("variety"),
                             p.get("notation"),
@@ -722,21 +735,39 @@ def _insert_tags(
     progress: ProgressHandler,
 ) -> None:
     progress.set(status="Word Form Tags")
-    query = f"INSERT INTO tags VALUES (({FORM_QUERY}),?,?)"
+    query = f"INSERT INTO tags VALUES (({FORM_QUERY}),?,?,?)"
     for batch in _batch(entries):
-        tags: list[tuple[str, int, str | None, int, str, str]] = []
+        tags: list[tuple[str, int, str | None, int, int, str, str]] = []
         for entry in batch:
             eid = entry["id"]
             lid = lexidmap.get(eid, lexid)
-            if entry.get("lemma"):
-                for tag in entry["lemma"].get("tags", []):
-                    tags.append((eid, lid, None, 0, tag["text"], tag["category"]))
+            if lemma := entry.get("lemma"):
+                for tag in lemma.get("tags", []):
+                    tags.append(
+                        (
+                            eid,
+                            lid,
+                            None,
+                            0,
+                            lexid,
+                            tag["text"],
+                            tag["category"],
+                        )
+                    )
             for i, form in enumerate(_forms(entry), 1):
                 # rank is not valid in FORM_QUERY for external forms
                 rank = -1 if _is_external(form) else i
                 for tag in form.get("tags", []):
                     tags.append(
-                        (eid, lid, form.get("id"), rank, tag["text"], tag["category"])
+                        (
+                            eid,
+                            lid,
+                            form.get("id"),
+                            rank,
+                            lexid,
+                            tag["text"],
+                            tag["category"],
+                        )
                     )
         cur.executemany(query, tags)
         progress.update(len(tags))

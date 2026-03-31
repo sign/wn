@@ -14,6 +14,7 @@ Project Management Functions
 .. autofunction:: remove
 .. autofunction:: export
 .. autofunction:: projects
+.. autofunction:: reset_database
 
 
 Wordnet Query Functions
@@ -321,6 +322,8 @@ Additional Classes
 
       A URI to an associated audio file.
 
+   .. automethod:: lexicon
+
 
 .. autoclass:: Tag
 
@@ -334,6 +337,8 @@ Additional Classes
    .. autoattribute:: category
 
       The category, or kind, of the tag.
+
+   .. automethod:: lexicon
 
 
 .. autoclass:: Count
@@ -487,8 +492,52 @@ directly. Configuration should occur through the single
    .. automethod:: add_project_version
    .. automethod:: get_project_info
    .. automethod:: get_cache_path
+   .. automethod:: list_cache_entries
    .. automethod:: update
    .. automethod:: load_index
+
+
+Auxiliary WNConfig Types
+''''''''''''''''''''''''
+
+The following classes are argument or return types of
+:class:`~wn._config.WNConfig` objects. They are documented here for reference,
+but are not meant to be created directly.
+
+.. autoclass:: wn._config.ResourceType
+
+   Enumeration of resource types.
+
+   .. autoattribute:: WORDNET
+   .. autoattribute:: ILI
+
+
+.. autoclass:: wn._config.ProjectInfo
+   :members:
+   :undoc-members:
+
+   Dictionary of information about a project.
+
+
+.. autoclass:: wn._config.VersionInfo
+   :members:
+   :undoc-members:
+
+   Dictionary of information about a resource version.
+
+
+.. autoclass:: wn._config.ResolvedProjectInfo
+   :members:
+   :undoc-members:
+
+   Dictionary of information about a specific project resource.
+
+
+.. autoclass:: wn._config.CacheEntry
+   :members:
+   :undoc-members:
+
+   Dictionary of information about files in the download cache.
 
 
 Exceptions
