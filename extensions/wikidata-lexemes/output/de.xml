@@ -147,7 +147,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411092">
-      <Lemma writtenForm="unser" partOfSpeech="x"/>
+      <Lemma writtenForm="unser" partOfSpeech="h"/>
       <Sense id="L411092-S1" synset="wikidata-de-L411092-S1" ili="wikidata-de-L411092-S1">
         <Definition></Definition>
       </Sense>
@@ -1081,13 +1081,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411090">
-      <Lemma writtenForm="sein" partOfSpeech="x"/>
+      <Lemma writtenForm="sein" partOfSpeech="h"/>
       <Sense id="L411090-S1" synset="wikidata-de-L411090-S1" ili="wikidata-de-L411090-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411094">
-      <Lemma writtenForm="ihr" partOfSpeech="x"/>
+      <Lemma writtenForm="ihr" partOfSpeech="h"/>
       <Sense id="L411094-S1" synset="wikidata-de-L411094-S1" ili="wikidata-de-L411094-S1">
         <Definition></Definition>
       </Sense>
@@ -1366,13 +1366,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411088">
-      <Lemma writtenForm="mein" partOfSpeech="x"/>
+      <Lemma writtenForm="mein" partOfSpeech="h"/>
       <Sense id="L411088-S1" synset="wikidata-de-L411088-S1" ili="wikidata-de-L411088-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411095">
-      <Lemma writtenForm="Ihr" partOfSpeech="x"/>
+      <Lemma writtenForm="Ihr" partOfSpeech="h"/>
       <Sense id="L411095-S1" synset="wikidata-de-L411095-S1" ili="wikidata-de-L411095-S1">
         <Definition></Definition>
       </Sense>
@@ -1600,7 +1600,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218440">
-      <Lemma writtenForm="Hut ab" partOfSpeech="x"/>
+      <Lemma writtenForm="Hut ab" partOfSpeech="i"/>
       <Sense id="L1218440-S1" synset="wikidata-de-L1218440-S1" ili="wikidata-de-L1218440-S1">
         <Definition>drückt Hochachtung, Respekt, Bewunderung aus</Definition>
       </Sense>
@@ -1671,7 +1671,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411091">
-      <Lemma writtenForm="ihr" partOfSpeech="x"/>
+      <Lemma writtenForm="ihr" partOfSpeech="h"/>
       <Sense id="L411091-S1" synset="wikidata-de-L411091-S1" ili="wikidata-de-L411091-S1">
         <Definition></Definition>
       </Sense>
@@ -1985,7 +1985,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411093">
-      <Lemma writtenForm="euer" partOfSpeech="x"/>
+      <Lemma writtenForm="euer" partOfSpeech="h"/>
       <Sense id="L411093-S1" synset="wikidata-de-L411093-S1" ili="wikidata-de-L411093-S1">
         <Definition></Definition>
       </Sense>
@@ -2127,7 +2127,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143220">
-      <Lemma writtenForm="ab und an" partOfSpeech="x"/>
+      <Lemma writtenForm="ab und an" partOfSpeech="t"/>
       <Sense id="L1143220-S1" synset="wikidata-de-L1143220-S1" ili="wikidata-de-L1143220-S1">
         <Definition>nur selten, unregelmäßig</Definition>
       </Sense>
@@ -2280,7 +2280,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411089">
-      <Lemma writtenForm="dein" partOfSpeech="x"/>
+      <Lemma writtenForm="dein" partOfSpeech="h"/>
       <Sense id="L411089-S1" synset="wikidata-de-L411089-S1" ili="wikidata-de-L411089-S1">
         <Definition></Definition>
       </Sense>
@@ -2485,7 +2485,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1543329">
-      <Lemma writtenForm="siehre" partOfSpeech="x"/>
+      <Lemma writtenForm="siehre" partOfSpeech="h"/>
       <Sense id="L1543329-S1" synset="wikidata-de-L1543329-S1" ili="wikidata-de-L1543329-S1">
         <Definition></Definition>
       </Sense>
@@ -2565,7 +2565,7 @@
     <Synset id="wikidata-de-L410402-S1" ili="wikidata-de-L410402-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L411092-S1" ili="wikidata-de-L411092-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411092-S1" ili="wikidata-de-L411092-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L451351-S1" ili="wikidata-de-L451351-S1" partOfSpeech="p">
@@ -3039,10 +3039,10 @@
     <Synset id="wikidata-de-L411037-S1" ili="wikidata-de-L411037-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
     </Synset>
-    <Synset id="wikidata-de-L411090-S1" ili="wikidata-de-L411090-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411090-S1" ili="wikidata-de-L411090-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L411094-S1" ili="wikidata-de-L411094-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411094-S1" ili="wikidata-de-L411094-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L451356-S2" ili="wikidata-de-L451356-S2" partOfSpeech="p">
@@ -3189,10 +3189,10 @@
     <Synset id="wikidata-de-L411020-S1" ili="wikidata-de-L411020-S1" partOfSpeech="i">
       <Definition>Wohlwollende Erwiderung</Definition>
     </Synset>
-    <Synset id="wikidata-de-L411088-S1" ili="wikidata-de-L411088-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411088-S1" ili="wikidata-de-L411088-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L411095-S1" ili="wikidata-de-L411095-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411095-S1" ili="wikidata-de-L411095-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L451353-S1" ili="wikidata-de-L451353-S1" partOfSpeech="p">
@@ -3306,7 +3306,7 @@
     <Synset id="wikidata-de-L1141740-S1" ili="wikidata-de-L1141740-S1" partOfSpeech="p">
       <Definition>bezüglich, hinsichtlich</Definition>
     </Synset>
-    <Synset id="wikidata-de-L1218440-S1" ili="wikidata-de-L1218440-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L1218440-S1" ili="wikidata-de-L1218440-S1" partOfSpeech="i">
       <Definition>drückt Hochachtung, Respekt, Bewunderung aus</Definition>
     </Synset>
     <Synset id="wikidata-de-L1228183-S1" ili="wikidata-de-L1228183-S1" partOfSpeech="x">
@@ -3342,7 +3342,7 @@
     <Synset id="wikidata-de-L411006-S1" ili="wikidata-de-L411006-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L411091-S1" ili="wikidata-de-L411091-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411091-S1" ili="wikidata-de-L411091-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L411097-S1" ili="wikidata-de-L411097-S1" partOfSpeech="h">
@@ -3498,7 +3498,7 @@
     <Synset id="wikidata-de-L411029-S1" ili="wikidata-de-L411029-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
     </Synset>
-    <Synset id="wikidata-de-L411093-S1" ili="wikidata-de-L411093-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411093-S1" ili="wikidata-de-L411093-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L411096-S1" ili="wikidata-de-L411096-S1" partOfSpeech="h">
@@ -3570,7 +3570,7 @@
     <Synset id="wikidata-de-L584953-S1" ili="wikidata-de-L584953-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L1143220-S1" ili="wikidata-de-L1143220-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L1143220-S1" ili="wikidata-de-L1143220-S1" partOfSpeech="t">
       <Definition>nur selten, unregelmäßig</Definition>
     </Synset>
     <Synset id="wikidata-de-L1218502-S1" ili="l1218499-s1" partOfSpeech="i">
@@ -3648,7 +3648,7 @@
     <Synset id="wikidata-de-L411022-S1" ili="wikidata-de-L411022-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
     </Synset>
-    <Synset id="wikidata-de-L411089-S1" ili="wikidata-de-L411089-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L411089-S1" ili="wikidata-de-L411089-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-de-L411099-S1" ili="wikidata-de-L411099-S1" partOfSpeech="h">
@@ -3753,7 +3753,7 @@
     <Synset id="wikidata-de-L1216989-S1" ili="wikidata-de-L1216989-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-de-L1543329-S1" ili="wikidata-de-L1543329-S1" partOfSpeech="x">
+    <Synset id="wikidata-de-L1543329-S1" ili="wikidata-de-L1543329-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

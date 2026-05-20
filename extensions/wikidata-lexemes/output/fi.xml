@@ -152,7 +152,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142684">
-      <Lemma writtenForm="takana" partOfSpeech="x"/>
+      <Lemma writtenForm="takana" partOfSpeech="p"/>
       <Sense id="L1142684-S1" synset="wikidata-fi-L1142684-S1" ili="wikidata-fi-L1142684-S1">
         <Definition></Definition>
       </Sense>
@@ -393,7 +393,7 @@
     <Synset id="wikidata-fi-L1142314-S1" ili="wikidata-fi-L1142314-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1142684-S1" ili="wikidata-fi-L1142684-S1" partOfSpeech="x">
+    <Synset id="wikidata-fi-L1142684-S1" ili="wikidata-fi-L1142684-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-fi-L1149292-S1" ili="wikidata-fi-L1149292-S1" partOfSpeech="i">

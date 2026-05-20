@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-mt" version="1.4"/>
     <LexicalEntry id="L473425">
-      <Lemma writtenForm="li" partOfSpeech="x"/>
+      <Lemma writtenForm="li" partOfSpeech="h"/>
       <Sense id="L473425-S1" synset="wikidata-mt-L473425-S1" ili="wikidata-mt-L473425-S1">
         <Definition></Definition>
       </Sense>
@@ -589,7 +589,7 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-mt-L473425-S1" ili="wikidata-mt-L473425-S1" partOfSpeech="x">
+    <Synset id="wikidata-mt-L473425-S1" ili="wikidata-mt-L473425-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-mt-L473995-S1" ili="wikidata-mt-L473995-S1" partOfSpeech="p">

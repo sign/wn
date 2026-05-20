@@ -84,7 +84,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L458041">
-      <Lemma writtenForm="pasang" partOfSpeech="x"/>
+      <Lemma writtenForm="pasang" partOfSpeech="m"/>
       <Sense id="L458041-S1" synset="wikidata-ms-L458041-S1" ili="wikidata-ms-L458041-S1">
         <Definition></Definition>
       </Sense>
@@ -109,19 +109,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L480617">
-      <Lemma writtenForm="kaki" partOfSpeech="x"/>
+      <Lemma writtenForm="kaki" partOfSpeech="m"/>
       <Sense id="L480617-S1" synset="wikidata-ms-L480617-S1" ili="wikidata-ms-L480617-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L480621">
-      <Lemma writtenForm="batang" partOfSpeech="x"/>
+      <Lemma writtenForm="batang" partOfSpeech="m"/>
       <Sense id="L480621-S1" synset="wikidata-ms-L480621-S1" ili="wikidata-ms-L480621-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L481468">
-      <Lemma writtenForm="juta" partOfSpeech="x"/>
+      <Lemma writtenForm="juta" partOfSpeech="d"/>
       <Sense id="L481468-S1" synset="wikidata-ms-L481468-S1" ili="wikidata-ms-L481468-S1">
         <Definition></Definition>
       </Sense>
@@ -139,7 +139,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686394">
-      <Lemma writtenForm="buku" partOfSpeech="x"/>
+      <Lemma writtenForm="buku" partOfSpeech="m"/>
       <Sense id="L686394-S1" synset="wikidata-ms-L686394-S1" ili="wikidata-ms-L686394-S1">
         <Definition></Definition>
       </Sense>
@@ -157,7 +157,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1196219">
-      <Lemma writtenForm="mesti" partOfSpeech="x"/>
+      <Lemma writtenForm="mesti" partOfSpeech="v"/>
       <Sense id="L1196219-S1" synset="wikidata-ms-L1196219-S1" ili="wikidata-ms-L1196219-S1">
         <Definition></Definition>
       </Sense>
@@ -184,7 +184,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408543">
-      <Lemma writtenForm="jenis" partOfSpeech="x"/>
+      <Lemma writtenForm="jenis" partOfSpeech="d"/>
       <Sense id="L1408543-S1" synset="wikidata-ms-L1408543-S1" ili="wikidata-ms-L1408543-S1">
         <Definition>macam; bangsa</Definition>
       </Sense>
@@ -199,7 +199,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408653">
-      <Lemma writtenForm="jumlah" partOfSpeech="x"/>
+      <Lemma writtenForm="jumlah" partOfSpeech="d"/>
       <Sense id="L1408653-S1" synset="wikidata-ms-L1408653-S1" ili="wikidata-ms-L1408653-S1">
         <Definition>total</Definition>
       </Sense>
@@ -214,7 +214,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449330">
-      <Lemma writtenForm="era" partOfSpeech="x"/>
+      <Lemma writtenForm="era" partOfSpeech="d"/>
       <Sense id="L1449330-S1" synset="wikidata-ms-L1449330-S1" ili="wikidata-ms-L1449330-S1">
         <Definition>zaman, waktu</Definition>
       </Sense>
@@ -305,7 +305,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L733054">
-      <Lemma writtenForm="makin" partOfSpeech="x"/>
+      <Lemma writtenForm="makin" partOfSpeech="r"/>
       <Sense id="L733054-S1" synset="wikidata-ms-L733054-S1" ili="wikidata-ms-L733054-S1">
         <Definition></Definition>
       </Sense>
@@ -317,7 +317,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1085652">
-      <Lemma writtenForm="sisir" partOfSpeech="x"/>
+      <Lemma writtenForm="sisir" partOfSpeech="m"/>
       <Sense id="L1085652-S1" synset="wikidata-ms-L1085652-S1" ili="wikidata-ms-L1085652-S1">
         <Definition></Definition>
       </Sense>
@@ -335,13 +335,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407946">
-      <Lemma writtenForm="belah" partOfSpeech="x"/>
+      <Lemma writtenForm="belah" partOfSpeech="m"/>
       <Sense id="L1407946-S1" synset="wikidata-ms-L1407946-S1" ili="wikidata-ms-L1407946-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408120">
-      <Lemma writtenForm="saat" partOfSpeech="x"/>
+      <Lemma writtenForm="saat" partOfSpeech="d"/>
       <Sense id="L1408120-S1" synset="wikidata-ms-L1408120-S1" ili="wikidata-ms-L1408120-S1">
         <Definition>sekon, detik</Definition>
       </Sense>
@@ -362,7 +362,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409398">
-      <Lemma writtenForm="gram" partOfSpeech="x"/>
+      <Lemma writtenForm="gram" partOfSpeech="d"/>
       <Sense id="L1409398-S1" synset="wikidata-ms-L1409398-S1" ili="wikidata-ms-L1409398-S1">
         <Definition>0.001 kilogram</Definition>
       </Sense>
@@ -374,7 +374,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1412915">
-      <Lemma writtenForm="-kah" partOfSpeech="x"/>
+      <Lemma writtenForm="-kah" partOfSpeech="y"/>
       <Sense id="L1412915-S1" synset="wikidata-ms-L1412915-S1" ili="wikidata-ms-L1412915-S1">
         <Definition></Definition>
       </Sense>
@@ -428,7 +428,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L452341">
-      <Lemma writtenForm="biji" partOfSpeech="x"/>
+      <Lemma writtenForm="biji" partOfSpeech="m"/>
       <Sense id="L452341-S1" synset="wikidata-ms-L452341-S1" ili="wikidata-ms-L452341-S1">
         <Definition></Definition>
         <Example>Demi angin yang menerbang dan menaburkan (debu, biji-bijian benih dan lain-lainnya</Example>
@@ -486,19 +486,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625699">
-      <Lemma writtenForm="ulas" partOfSpeech="x"/>
+      <Lemma writtenForm="ulas" partOfSpeech="m"/>
       <Sense id="L625699-S1" synset="wikidata-ms-L625699-S1" ili="wikidata-ms-L625699-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L941707">
-      <Lemma writtenForm="situ" partOfSpeech="x"/>
+      <Lemma writtenForm="situ" partOfSpeech="n"/>
       <Sense id="L941707-S1" synset="wikidata-ms-L941707-S1" ili="wikidata-ms-L941707-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1085623">
-      <Lemma writtenForm="tongkol" partOfSpeech="x"/>
+      <Lemma writtenForm="tongkol" partOfSpeech="m"/>
       <Sense id="L1085623-S1" synset="wikidata-ms-L1085623-S1" ili="wikidata-ms-L1085623-S1">
         <Definition></Definition>
       </Sense>
@@ -528,7 +528,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410972">
-      <Lemma writtenForm="keping" partOfSpeech="x"/>
+      <Lemma writtenForm="keping" partOfSpeech="m"/>
       <Sense id="L1410972-S1" synset="wikidata-ms-L1410972-S1" ili="wikidata-ms-L1410972-S1">
         <Definition>(penjodoh bilangan untuk benda-benda yang pipih atau tipis atau yang lebar meluas)</Definition>
       </Sense>
@@ -578,7 +578,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L450410">
-      <Lemma writtenForm="buah" partOfSpeech="x"/>
+      <Lemma writtenForm="buah" partOfSpeech="m"/>
       <Sense id="L450410-S1" synset="wikidata-ms-L450410-S1" ili="wikidata-ms-L450410-S1">
         <Definition></Definition>
       </Sense>
@@ -608,7 +608,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L479973">
-      <Lemma writtenForm="pun" partOfSpeech="x"/>
+      <Lemma writtenForm="pun" partOfSpeech="h"/>
       <Sense id="L479973-S1" synset="wikidata-ms-L479973-S1" ili="wikidata-ms-L479973-S1">
         <Definition></Definition>
       </Sense>
@@ -626,7 +626,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1085822">
-      <Lemma writtenForm="bentuk" partOfSpeech="x"/>
+      <Lemma writtenForm="bentuk" partOfSpeech="m"/>
       <Sense id="L1085822-S1" synset="wikidata-ms-L1085822-S1" ili="wikidata-ms-L1085822-S1">
         <Definition></Definition>
       </Sense>
@@ -663,7 +663,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409377">
-      <Lemma writtenForm="abad" partOfSpeech="x"/>
+      <Lemma writtenForm="abad" partOfSpeech="d"/>
       <Sense id="L1409377-S1" synset="wikidata-ms-L1409377-S1" ili="wikidata-ms-L1409377-S1">
         <Definition>kurun</Definition>
       </Sense>
@@ -675,7 +675,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1457402">
-      <Lemma writtenForm="semesta" partOfSpeech="x"/>
+      <Lemma writtenForm="semesta" partOfSpeech="d"/>
       <Sense id="L1457402-S1" synset="wikidata-ms-L1457402-S1" ili="wikidata-ms-L1457402-S1">
         <Definition></Definition>
       </Sense>
@@ -693,21 +693,21 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L184919">
-      <Lemma writtenForm="ekor" partOfSpeech="x"/>
+      <Lemma writtenForm="ekor" partOfSpeech="m"/>
       <Sense id="L184919-S1" synset="wikidata-ms-L184919-S1" ili="wikidata-ms-L184919-S1">
         <Definition>penjodoh bilangan untuk haiwan</Definition>
         <Example>ada rapang lima belas ekor</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L202863">
-      <Lemma writtenForm="bilah" partOfSpeech="x"/>
+      <Lemma writtenForm="bilah" partOfSpeech="m"/>
       <Sense id="L202863-S1" synset="wikidata-ms-L202863-S1" ili="wikidata-ms-L202863-S1">
         <Definition></Definition>
         <Example>Hang Tuah dan kelima bersaudara itu pun sudah memanggung tiga-tiga bilah seligi pada seorang.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L450616">
-      <Lemma writtenForm="orang" partOfSpeech="x"/>
+      <Lemma writtenForm="orang" partOfSpeech="m"/>
       <Sense id="L450616-S1" synset="wikidata-ms-L450616-S1" ili="wikidata-ms-L450616-S1">
         <Definition>penjodoh bilangan untuk manusia</Definition>
       </Sense>
@@ -737,7 +737,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477335">
-      <Lemma writtenForm="-lah" partOfSpeech="x"/>
+      <Lemma writtenForm="-lah" partOfSpeech="y"/>
       <Sense id="L477335-S1" synset="wikidata-ms-L477335-S1" ili="wikidata-ms-L477335-S1">
         <Definition>(menguatkan maksud atau pengertian kata itu)</Definition>
       </Sense>
@@ -794,7 +794,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408133">
-      <Lemma writtenForm="unit" partOfSpeech="x"/>
+      <Lemma writtenForm="unit" partOfSpeech="d"/>
       <Sense id="L1408133-S1" synset="wikidata-ms-L1408133-S1" ili="wikidata-ms-L1408133-S1">
         <Definition>satuan</Definition>
       </Sense>
@@ -806,7 +806,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409378">
-      <Lemma writtenForm="kurun" partOfSpeech="x"/>
+      <Lemma writtenForm="kurun" partOfSpeech="d"/>
       <Sense id="L1409378-S1" synset="wikidata-ms-L1409378-S1" ili="wikidata-ms-L1409378-S1">
         <Definition>abad</Definition>
       </Sense>
@@ -881,7 +881,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L481506">
-      <Lemma writtenForm="helai" partOfSpeech="x"/>
+      <Lemma writtenForm="helai" partOfSpeech="m"/>
       <Sense id="L481506-S1" synset="wikidata-ms-L481506-S1" ili="wikidata-ms-L481506-S1">
         <Definition></Definition>
       </Sense>
@@ -911,13 +911,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L700180">
-      <Lemma writtenForm="hamparan" partOfSpeech="x"/>
+      <Lemma writtenForm="hamparan" partOfSpeech="m"/>
       <Sense id="L700180-S1" synset="wikidata-ms-L700180-S1" ili="wikidata-ms-L700180-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1094326">
-      <Lemma writtenForm="masing-masing" partOfSpeech="x"/>
+      <Lemma writtenForm="masing-masing" partOfSpeech="h"/>
       <Sense id="L1094326-S1" synset="wikidata-ms-L1094326-S1" ili="wikidata-ms-L1094326-S1">
         <Definition></Definition>
       </Sense>
@@ -929,31 +929,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407947">
-      <Lemma writtenForm="bidang" partOfSpeech="x"/>
+      <Lemma writtenForm="bidang" partOfSpeech="m"/>
       <Sense id="L1407947-S1" synset="wikidata-ms-L1407947-S1" ili="wikidata-ms-L1407947-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408098">
-      <Lemma writtenForm="hektar" partOfSpeech="x"/>
+      <Lemma writtenForm="hektar" partOfSpeech="d"/>
       <Sense id="L1408098-S1" synset="wikidata-ms-L1408098-S1" ili="wikidata-ms-L1408098-S1">
         <Definition>ukuran luas yang besarnya 2.471 ekar</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408099">
-      <Lemma writtenForm="meter" partOfSpeech="x"/>
+      <Lemma writtenForm="meter" partOfSpeech="d"/>
       <Sense id="L1408099-S1" synset="wikidata-ms-L1408099-S1" ili="wikidata-ms-L1408099-S1">
         <Definition>39.37 inci; 100 sentimeter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408102">
-      <Lemma writtenForm="Allahyarham" partOfSpeech="x"/>
+      <Lemma writtenForm="Allahyarham" partOfSpeech="y"/>
       <Sense id="L1408102-S1" synset="wikidata-ms-L1408102-S1" ili="wikidata-ms-L1408102-S1">
         <Definition>(digunakan sebelum nama orang lelaki Islam yang telah meninggal)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408605">
-      <Lemma writtenForm="tahun" partOfSpeech="x"/>
+      <Lemma writtenForm="tahun" partOfSpeech="d"/>
       <Sense id="L1408605-S1" synset="wikidata-ms-L1408605-S1" ili="wikidata-ms-L1408605-S1">
         <Definition>warsa</Definition>
       </Sense>
@@ -966,13 +966,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409376">
-      <Lemma writtenForm="patah" partOfSpeech="x"/>
+      <Lemma writtenForm="patah" partOfSpeech="m"/>
       <Sense id="L1409376-S1" synset="wikidata-ms-L1409376-S1" ili="wikidata-ms-L1409376-S1">
         <Definition>(penjodoh bilangan untuk kata)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1415899">
-      <Lemma writtenForm="rumpun" partOfSpeech="x"/>
+      <Lemma writtenForm="rumpun" partOfSpeech="d"/>
       <Sense id="L1415899-S1" synset="wikidata-ms-L1415899-S1" ili="wikidata-ms-L1415899-S1">
         <Definition></Definition>
       </Sense>
@@ -1057,7 +1057,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L480008">
-      <Lemma writtenForm="sendiri" partOfSpeech="x"/>
+      <Lemma writtenForm="sendiri" partOfSpeech="a"/>
       <Sense id="L480008-S1" synset="wikidata-ms-L480008-S1" ili="wikidata-ms-L480008-S1">
         <Definition></Definition>
       </Sense>
@@ -1075,19 +1075,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618502">
-      <Lemma writtenForm="bilion" partOfSpeech="x"/>
+      <Lemma writtenForm="bilion" partOfSpeech="d"/>
       <Sense id="L618502-S1" synset="wikidata-ms-L618502-S1" ili="wikidata-ms-L618502-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625698">
-      <Lemma writtenForm="laras" partOfSpeech="x"/>
+      <Lemma writtenForm="laras" partOfSpeech="m"/>
       <Sense id="L625698-S1" synset="wikidata-ms-L625698-S1" ili="wikidata-ms-L625698-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643271">
-      <Lemma writtenForm="utas" partOfSpeech="x"/>
+      <Lemma writtenForm="utas" partOfSpeech="m"/>
       <Sense id="L643271-S1" synset="wikidata-ms-L643271-S1" ili="wikidata-ms-L643271-S1">
         <Definition></Definition>
       </Sense>
@@ -1099,7 +1099,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1085042">
-      <Lemma writtenForm="rol" partOfSpeech="x"/>
+      <Lemma writtenForm="rol" partOfSpeech="m"/>
       <Sense id="L1085042-S1" synset="wikidata-ms-L1085042-S1" ili="wikidata-ms-L1085042-S1">
         <Definition></Definition>
       </Sense>
@@ -1111,13 +1111,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1388837">
-      <Lemma writtenForm="kumpulan" partOfSpeech="x"/>
+      <Lemma writtenForm="kumpulan" partOfSpeech="d"/>
       <Sense id="L1388837-S1" synset="wikidata-ms-L1388837-S1" ili="wikidata-ms-L1388837-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1398429">
-      <Lemma writtenForm="terlalu" partOfSpeech="x"/>
+      <Lemma writtenForm="terlalu" partOfSpeech="r"/>
       <Sense id="L1398429-S1" synset="wikidata-ms-L1398429-S1" ili="wikidata-ms-L1398429-S1">
         <Definition></Definition>
       </Sense>
@@ -1130,19 +1130,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408100">
-      <Lemma writtenForm="dekad" partOfSpeech="x"/>
+      <Lemma writtenForm="dekad" partOfSpeech="d"/>
       <Sense id="L1408100-S1" synset="wikidata-ms-L1408100-S1" ili="wikidata-ms-L1408100-S1">
         <Definition>jangka masa sepuluh tahun, dasawarsa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408631">
-      <Lemma writtenForm="kilometer" partOfSpeech="x"/>
+      <Lemma writtenForm="kilometer" partOfSpeech="d"/>
       <Sense id="L1408631-S1" synset="wikidata-ms-L1408631-S1" ili="wikidata-ms-L1408631-S1">
         <Definition>seribu meter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408783">
-      <Lemma writtenForm="seri" partOfSpeech="x"/>
+      <Lemma writtenForm="seri" partOfSpeech="y"/>
       <Sense id="L1408783-S1" synset="wikidata-ms-L1408783-S1" ili="wikidata-ms-L1408783-S1">
         <Definition>(panggilan untuk memuliakan)</Definition>
       </Sense>
@@ -1154,7 +1154,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409569">
-      <Lemma writtenForm="ons" partOfSpeech="x"/>
+      <Lemma writtenForm="ons" partOfSpeech="d"/>
       <Sense id="L1409569-S1" synset="wikidata-ms-L1409569-S1" ili="wikidata-ms-L1409569-S1">
         <Definition>auns</Definition>
       </Sense>
@@ -1238,7 +1238,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L700497">
-      <Lemma writtenForm="naskhah" partOfSpeech="x"/>
+      <Lemma writtenForm="naskhah" partOfSpeech="m"/>
       <Sense id="L700497-S1" synset="wikidata-ms-L700497-S1" ili="wikidata-ms-L700497-S1">
         <Definition></Definition>
       </Sense>
@@ -1268,7 +1268,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1084271">
-      <Lemma writtenForm="sayat" partOfSpeech="x"/>
+      <Lemma writtenForm="sayat" partOfSpeech="m"/>
       <Sense id="L1084271-S1" synset="wikidata-ms-L1084271-S1" ili="wikidata-ms-L1084271-S1">
         <Definition></Definition>
       </Sense>
@@ -1298,7 +1298,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408122">
-      <Lemma writtenForm="dekade" partOfSpeech="x"/>
+      <Lemma writtenForm="dekade" partOfSpeech="d"/>
       <Sense id="L1408122-S1" synset="wikidata-ms-L1408122-S1" ili="wikidata-ms-L1408122-S1">
         <Definition>dekad, dasawarsa</Definition>
       </Sense>
@@ -1310,7 +1310,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408659">
-      <Lemma writtenForm="are" partOfSpeech="x"/>
+      <Lemma writtenForm="are" partOfSpeech="d"/>
       <Sense id="L1408659-S1" synset="wikidata-ms-L1408659-S1" ili="wikidata-ms-L1408659-S1">
         <Definition>ukuran luas, 100 m²</Definition>
       </Sense>
@@ -1375,7 +1375,7 @@
     <Synset id="wikidata-ms-L450600-S1" ili="wikidata-ms-L450600-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L458041-S1" ili="wikidata-ms-L458041-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L458041-S1" ili="wikidata-ms-L458041-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L473648-S1" ili="wikidata-ms-L473648-S1" partOfSpeech="h">
@@ -1387,13 +1387,13 @@
     <Synset id="wikidata-ms-L477357-S1" ili="wikidata-ms-L477357-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L480617-S1" ili="wikidata-ms-L480617-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L480617-S1" ili="wikidata-ms-L480617-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L480621-S1" ili="wikidata-ms-L480621-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L480621-S1" ili="wikidata-ms-L480621-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L481468-S1" ili="wikidata-ms-L481468-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L481468-S1" ili="wikidata-ms-L481468-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L481729-S1" ili="wikidata-ms-L481729-S1" partOfSpeech="p">
@@ -1402,7 +1402,7 @@
     <Synset id="wikidata-ms-L660750-S1" ili="wikidata-ms-L660750-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L686394-S1" ili="wikidata-ms-L686394-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L686394-S1" ili="wikidata-ms-L686394-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L733042-S1" ili="wikidata-ms-L733042-S1" partOfSpeech="m">
@@ -1411,7 +1411,7 @@
     <Synset id="wikidata-ms-L1094327-S1" ili="wikidata-ms-L1094327-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1196219-S1" ili="wikidata-ms-L1196219-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1196219-S1" ili="wikidata-ms-L1196219-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1319365-S1" ili="wikidata-ms-L1319365-S1" partOfSpeech="i">
@@ -1426,7 +1426,7 @@
     <Synset id="wikidata-ms-L1407690-S2" ili="wikidata-ms-L1407690-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408543-S1" ili="wikidata-ms-L1408543-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408543-S1" ili="wikidata-ms-L1408543-S1" partOfSpeech="d">
       <Definition>macam; bangsa</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1408583-S1" ili="wikidata-ms-L1408583-S1" partOfSpeech="p">
@@ -1435,7 +1435,7 @@
     <Synset id="wikidata-ms-L1408583-S2" ili="wikidata-ms-L1408583-S2" partOfSpeech="p">
       <Definition>lebih, dan tinggi daripada itu</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408653-S1" ili="wikidata-ms-L1408653-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408653-S1" ili="wikidata-ms-L1408653-S1" partOfSpeech="d">
       <Definition>total</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1411782-S1" ili="wikidata-ms-L1411782-S1" partOfSpeech="d">
@@ -1444,7 +1444,7 @@
     <Synset id="wikidata-ms-L1411782-S2" ili="wikidata-ms-L1411782-S2" partOfSpeech="d">
       <Definition>awalan yang bermaksud satu</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1449330-S1" ili="wikidata-ms-L1449330-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1449330-S1" ili="wikidata-ms-L1449330-S1" partOfSpeech="d">
       <Definition>zaman, waktu</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1546750-S1" ili="wikidata-ms-L1546750-S1" partOfSpeech="h">
@@ -1489,13 +1489,13 @@
     <Synset id="wikidata-ms-L679456-S1" ili="wikidata-ms-L679456-S1" partOfSpeech="q">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L733054-S1" ili="wikidata-ms-L733054-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L733054-S1" ili="wikidata-ms-L733054-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1081786-S1" ili="wikidata-ms-L1081786-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1085652-S1" ili="wikidata-ms-L1085652-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1085652-S1" ili="wikidata-ms-L1085652-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1144492-S1" ili="wikidata-ms-L1144492-S1" partOfSpeech="i">
@@ -1504,10 +1504,10 @@
     <Synset id="wikidata-ms-L1374872-S1" ili="wikidata-ms-L1374872-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1407946-S1" ili="wikidata-ms-L1407946-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1407946-S1" ili="wikidata-ms-L1407946-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408120-S1" ili="wikidata-ms-L1408120-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408120-S1" ili="wikidata-ms-L1408120-S1" partOfSpeech="d">
       <Definition>sekon, detik</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1408582-S1" ili="wikidata-ms-L1408582-S1" partOfSpeech="p">
@@ -1519,19 +1519,19 @@
     <Synset id="wikidata-ms-L1408666-S1" ili="wikidata-ms-L1408666-S1" partOfSpeech="i">
       <Definition>(kata untuk menghina)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1409398-S1" ili="wikidata-ms-L1409398-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1409398-S1" ili="wikidata-ms-L1409398-S1" partOfSpeech="d">
       <Definition>0.001 kilogram</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1409610-S1" ili="wikidata-ms-L1409610-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1412915-S1" ili="wikidata-ms-L1412915-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1412915-S1" ili="wikidata-ms-L1412915-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1412915-S2" ili="wikidata-ms-L1412915-S2" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1412915-S2" ili="wikidata-ms-L1412915-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1412915-S3" ili="wikidata-ms-L1412915-S3" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1412915-S3" ili="wikidata-ms-L1412915-S3" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1453925-S1" ili="wikidata-ms-L1453925-S1" partOfSpeech="c">
@@ -1555,7 +1555,7 @@
     <Synset id="wikidata-ms-L450597-S1" ili="wikidata-ms-L450597-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L452341-S1" ili="wikidata-ms-L452341-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L452341-S1" ili="wikidata-ms-L452341-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L475562-S1" ili="wikidata-ms-L475562-S1" partOfSpeech="p">
@@ -1591,13 +1591,13 @@
     <Synset id="wikidata-ms-L482177-S1" ili="wikidata-ms-L482177-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L625699-S1" ili="wikidata-ms-L625699-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L625699-S1" ili="wikidata-ms-L625699-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L941707-S1" ili="wikidata-ms-L941707-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L941707-S1" ili="wikidata-ms-L941707-S1" partOfSpeech="n">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1085623-S1" ili="wikidata-ms-L1085623-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1085623-S1" ili="wikidata-ms-L1085623-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1319285-S1" ili="wikidata-ms-L1319285-S1" partOfSpeech="q">
@@ -1612,7 +1612,7 @@
     <Synset id="wikidata-ms-L1410113-S1" ili="wikidata-ms-L1410113-S1" partOfSpeech="i">
       <Definition>(kata untuk menyatakan kehairanan)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1410972-S1" ili="wikidata-ms-L1410972-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1410972-S1" ili="wikidata-ms-L1410972-S1" partOfSpeech="m">
       <Definition>(penjodoh bilangan untuk benda-benda yang pipih atau tipis atau yang lebar meluas)</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1412494-S1" ili="wikidata-ms-L1412494-S1" partOfSpeech="c">
@@ -1639,7 +1639,7 @@
     <Synset id="wikidata-ms-L184912-S2" ili="wikidata-ms-L184912-S2" partOfSpeech="h">
       <Definition>kata ganti nama objek tunggal diri ketiga, digabung kepada kata kerja transitif atau kata depan</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L450410-S1" ili="wikidata-ms-L450410-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L450410-S1" ili="wikidata-ms-L450410-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L450599-S1" ili="wikidata-ms-L450599-S1" partOfSpeech="d">
@@ -1654,7 +1654,7 @@
     <Synset id="wikidata-ms-L479840-S1" ili="wikidata-ms-L479840-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L479973-S1" ili="wikidata-ms-L479973-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L479973-S1" ili="wikidata-ms-L479973-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L480013-S1" ili="wikidata-ms-L480013-S1" partOfSpeech="d">
@@ -1663,7 +1663,7 @@
     <Synset id="wikidata-ms-L733906-S1" ili="wikidata-ms-L733906-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1085822-S1" ili="wikidata-ms-L1085822-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1085822-S1" ili="wikidata-ms-L1085822-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1407691-S1" ili="wikidata-ms-L1407691-S1" partOfSpeech="p">
@@ -1681,13 +1681,13 @@
     <Synset id="wikidata-ms-L1409232-S1" ili="wikidata-ms-L1409232-S1" partOfSpeech="h">
       <Definition>aku, saya</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1409377-S1" ili="wikidata-ms-L1409377-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1409377-S1" ili="wikidata-ms-L1409377-S1" partOfSpeech="d">
       <Definition>kurun</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1413735-S1" ili="wikidata-ms-L1413735-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1457402-S1" ili="wikidata-ms-L1457402-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1457402-S1" ili="wikidata-ms-L1457402-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1462897-S1" ili="wikidata-ms-L1462897-S1" partOfSpeech="c">
@@ -1696,13 +1696,13 @@
     <Synset id="wikidata-ms-L1524927-S1" ili="wikidata-ms-L1524927-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L184919-S1" ili="wikidata-ms-L184919-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L184919-S1" ili="wikidata-ms-L184919-S1" partOfSpeech="m">
       <Definition>penjodoh bilangan untuk haiwan</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L202863-S1" ili="wikidata-ms-L202863-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L202863-S1" ili="wikidata-ms-L202863-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L450616-S1" ili="wikidata-ms-L450616-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L450616-S1" ili="wikidata-ms-L450616-S1" partOfSpeech="m">
       <Definition>penjodoh bilangan untuk manusia</Definition>
     </Synset>
     <Synset id="wikidata-ms-L476551-S1" ili="wikidata-ms-L476551-S1" partOfSpeech="c">
@@ -1717,7 +1717,7 @@
     <Synset id="wikidata-ms-L477334-S1" ili="wikidata-ms-L477334-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L477335-S1" ili="wikidata-ms-L477335-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L477335-S1" ili="wikidata-ms-L477335-S1" partOfSpeech="y">
       <Definition>(menguatkan maksud atau pengertian kata itu)</Definition>
     </Synset>
     <Synset id="wikidata-ms-L477345-S1" ili="wikidata-ms-L477345-S1" partOfSpeech="c">
@@ -1747,13 +1747,13 @@
     <Synset id="wikidata-ms-L1407689-S2" ili="wikidata-ms-L1407689-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408133-S1" ili="wikidata-ms-L1408133-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408133-S1" ili="wikidata-ms-L1408133-S1" partOfSpeech="d">
       <Definition>satuan</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1408227-S1" ili="wikidata-ms-L1408227-S1" partOfSpeech="h">
       <Definition>mana-mana orang; sesiapa</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1409378-S1" ili="wikidata-ms-L1409378-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1409378-S1" ili="wikidata-ms-L1409378-S1" partOfSpeech="d">
       <Definition>abad</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1524920-S1" ili="wikidata-ms-L1524920-S1" partOfSpeech="x">
@@ -1792,7 +1792,7 @@
     <Synset id="wikidata-ms-L481474-S1" ili="wikidata-ms-L481474-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L481506-S1" ili="wikidata-ms-L481506-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L481506-S1" ili="wikidata-ms-L481506-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L482169-S1" ili="wikidata-ms-L482169-S1" partOfSpeech="c">
@@ -1807,37 +1807,37 @@
     <Synset id="wikidata-ms-L663532-S1" ili="wikidata-ms-L663532-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L700180-S1" ili="wikidata-ms-L700180-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L700180-S1" ili="wikidata-ms-L700180-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1094326-S1" ili="wikidata-ms-L1094326-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1094326-S1" ili="wikidata-ms-L1094326-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1407681-S1" ili="wikidata-ms-L1407681-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1407947-S1" ili="wikidata-ms-L1407947-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1407947-S1" ili="wikidata-ms-L1407947-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408098-S1" ili="wikidata-ms-L1408098-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408098-S1" ili="wikidata-ms-L1408098-S1" partOfSpeech="d">
       <Definition>ukuran luas yang besarnya 2.471 ekar</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408099-S1" ili="wikidata-ms-L1408099-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408099-S1" ili="wikidata-ms-L1408099-S1" partOfSpeech="d">
       <Definition>39.37 inci; 100 sentimeter</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408102-S1" ili="wikidata-ms-L1408102-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408102-S1" ili="wikidata-ms-L1408102-S1" partOfSpeech="y">
       <Definition>(digunakan sebelum nama orang lelaki Islam yang telah meninggal)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408605-S1" ili="wikidata-ms-L1408605-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408605-S1" ili="wikidata-ms-L1408605-S1" partOfSpeech="d">
       <Definition>warsa</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1408651-S1" ili="wikidata-ms-L1408651-S1" partOfSpeech="d">
       <Definition>(kata sandang yang digunakan di depan nama)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1409376-S1" ili="wikidata-ms-L1409376-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1409376-S1" ili="wikidata-ms-L1409376-S1" partOfSpeech="m">
       <Definition>(penjodoh bilangan untuk kata)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1415899-S1" ili="wikidata-ms-L1415899-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1415899-S1" ili="wikidata-ms-L1415899-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1474633-S1" ili="wikidata-ms-L1474633-S1" partOfSpeech="d">
@@ -1879,7 +1879,7 @@
     <Synset id="wikidata-ms-L479991-S1" ili="wikidata-ms-L479991-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L480008-S1" ili="wikidata-ms-L480008-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L480008-S1" ili="wikidata-ms-L480008-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L480443-S1" ili="wikidata-ms-L480443-S1" partOfSpeech="c">
@@ -1888,46 +1888,46 @@
     <Synset id="wikidata-ms-L483783-S1" ili="wikidata-ms-L483783-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L618502-S1" ili="wikidata-ms-L618502-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L618502-S1" ili="wikidata-ms-L618502-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L625698-S1" ili="wikidata-ms-L625698-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L625698-S1" ili="wikidata-ms-L625698-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L643271-S1" ili="wikidata-ms-L643271-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L643271-S1" ili="wikidata-ms-L643271-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L692026-S1" ili="wikidata-ms-L692026-S1" partOfSpeech="x">
       <Definition>menjadikan sesuatu sebagai maksud dalam kata dasar</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1085042-S1" ili="wikidata-ms-L1085042-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1085042-S1" ili="wikidata-ms-L1085042-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1094551-S1" ili="wikidata-ms-L1094551-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1388837-S1" ili="wikidata-ms-L1388837-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1388837-S1" ili="wikidata-ms-L1388837-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1398429-S1" ili="wikidata-ms-L1398429-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1398429-S1" ili="wikidata-ms-L1398429-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1407692-S1" ili="wikidata-ms-L1407692-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408100-S1" ili="wikidata-ms-L1408100-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408100-S1" ili="wikidata-ms-L1408100-S1" partOfSpeech="d">
       <Definition>jangka masa sepuluh tahun, dasawarsa</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408631-S1" ili="wikidata-ms-L1408631-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408631-S1" ili="wikidata-ms-L1408631-S1" partOfSpeech="d">
       <Definition>seribu meter</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408783-S1" ili="wikidata-ms-L1408783-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408783-S1" ili="wikidata-ms-L1408783-S1" partOfSpeech="y">
       <Definition>(panggilan untuk memuliakan)</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1409187-S1" ili="l334118-s1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1409569-S1" ili="wikidata-ms-L1409569-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1409569-S1" ili="wikidata-ms-L1409569-S1" partOfSpeech="d">
       <Definition>auns</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1412410-S1" ili="wikidata-ms-L1412410-S1" partOfSpeech="p">
@@ -1969,7 +1969,7 @@
     <Synset id="wikidata-ms-L483785-S1" ili="wikidata-ms-L483785-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L700497-S1" ili="wikidata-ms-L700497-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L700497-S1" ili="wikidata-ms-L700497-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L733761-S1" ili="wikidata-ms-L733761-S1" partOfSpeech="i">
@@ -1984,7 +1984,7 @@
     <Synset id="wikidata-ms-L1019584-S1" ili="wikidata-ms-L1019584-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1084271-S1" ili="wikidata-ms-L1084271-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1084271-S1" ili="wikidata-ms-L1084271-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ms-L1196552-S1" ili="wikidata-ms-L1196552-S1" partOfSpeech="p">
@@ -1999,13 +1999,13 @@
     <Synset id="wikidata-ms-L1400413-S1" ili="wikidata-ms-L1400413-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408122-S1" ili="wikidata-ms-L1408122-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408122-S1" ili="wikidata-ms-L1408122-S1" partOfSpeech="d">
       <Definition>dekad, dasawarsa</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1408311-S1" ili="wikidata-ms-L1408311-S1" partOfSpeech="d">
       <Definition>(kata sandang yang lebih hormat daripada si)</Definition>
     </Synset>
-    <Synset id="wikidata-ms-L1408659-S1" ili="wikidata-ms-L1408659-S1" partOfSpeech="x">
+    <Synset id="wikidata-ms-L1408659-S1" ili="wikidata-ms-L1408659-S1" partOfSpeech="d">
       <Definition>ukuran luas, 100 m²</Definition>
     </Synset>
     <Synset id="wikidata-ms-L1409914-S1" ili="wikidata-ms-L1409914-S1" partOfSpeech="p">

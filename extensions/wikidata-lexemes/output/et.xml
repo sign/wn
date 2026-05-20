@@ -52,7 +52,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L350121">
-      <Lemma writtenForm="alates" partOfSpeech="x"/>
+      <Lemma writtenForm="alates" partOfSpeech="p"/>
       <Sense id="L350121-S1" synset="wikidata-et-L350121-S1" ili="wikidata-et-L350121-S1">
         <Definition></Definition>
       </Sense>
@@ -64,7 +64,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L358617">
-      <Lemma writtenForm="jalus" partOfSpeech="x"/>
+      <Lemma writtenForm="jalus" partOfSpeech="p"/>
       <Sense id="L358617-S1" synset="wikidata-et-L358617-S1" ili="wikidata-et-L358617-S1">
         <Definition></Definition>
       </Sense>
@@ -128,7 +128,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L350209">
-      <Lemma writtenForm="algul" partOfSpeech="x"/>
+      <Lemma writtenForm="algul" partOfSpeech="p"/>
       <Sense id="L350209-S1" synset="wikidata-et-L350209-S1" ili="wikidata-et-L350209-S1">
         <Definition></Definition>
       </Sense>
@@ -245,7 +245,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L350399">
-      <Lemma writtenForm="alt" partOfSpeech="x"/>
+      <Lemma writtenForm="alt" partOfSpeech="p"/>
       <Sense id="L350399-S1" synset="wikidata-et-L350399-S1" ili="wikidata-et-L350399-S1">
         <Definition></Definition>
       </Sense>
@@ -359,13 +359,13 @@
     <Synset id="wikidata-et-L349848-S1" ili="wikidata-et-L349848-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350121-S1" ili="wikidata-et-L350121-S1" partOfSpeech="x">
+    <Synset id="wikidata-et-L350121-S1" ili="wikidata-et-L350121-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-et-L357486-S1" ili="wikidata-et-L357486-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L358617-S1" ili="wikidata-et-L358617-S1" partOfSpeech="x">
+    <Synset id="wikidata-et-L358617-S1" ili="wikidata-et-L358617-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-et-L373459-S1" ili="wikidata-et-L373459-S1" partOfSpeech="i">
@@ -398,7 +398,7 @@
     <Synset id="wikidata-et-L349541-S2" ili="wikidata-et-L349541-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350209-S1" ili="wikidata-et-L350209-S1" partOfSpeech="x">
+    <Synset id="wikidata-et-L350209-S1" ili="wikidata-et-L350209-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-et-L356710-S1" ili="wikidata-et-L356710-S1" partOfSpeech="i">
@@ -455,13 +455,13 @@
     <Synset id="wikidata-et-L385927-S1" ili="wikidata-et-L385927-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S1" ili="wikidata-et-L350399-S1" partOfSpeech="x">
+    <Synset id="wikidata-et-L350399-S1" ili="wikidata-et-L350399-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S2" ili="wikidata-et-L350399-S2" partOfSpeech="x">
+    <Synset id="wikidata-et-L350399-S2" ili="wikidata-et-L350399-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S3" ili="wikidata-et-L350399-S3" partOfSpeech="x">
+    <Synset id="wikidata-et-L350399-S3" ili="wikidata-et-L350399-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-et-L358983-S1" ili="wikidata-et-L358983-S1" partOfSpeech="i">

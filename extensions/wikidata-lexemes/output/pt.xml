@@ -532,7 +532,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L942478">
-      <Lemma writtenForm="et al." partOfSpeech="x"/>
+      <Lemma writtenForm="et al." partOfSpeech="t"/>
       <Sense id="L942478-S1" synset="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1">
         <Definition>e outros</Definition>
       </Sense>
@@ -1150,7 +1150,7 @@
     <Synset id="wikidata-pt-L680183-S2" ili="wikidata-pt-L680183-S2" partOfSpeech="r">
       <Definition>de maneira alguma, de jeito nenhum</Definition>
     </Synset>
-    <Synset id="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1" partOfSpeech="x">
+    <Synset id="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1" partOfSpeech="t">
       <Definition>e outros</Definition>
     </Synset>
     <Synset id="wikidata-pt-L983857-S1" ili="wikidata-pt-L983857-S1" partOfSpeech="i">

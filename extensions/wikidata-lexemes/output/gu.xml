@@ -15,7 +15,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337572">
-      <Lemma writtenForm="ઓ" partOfSpeech="x"/>
+      <Lemma writtenForm="ઓ" partOfSpeech="p"/>
       <Sense id="L1337572-S1" synset="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1">
         <Definition></Definition>
       </Sense>
@@ -23,7 +23,7 @@
     <Synset id="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1" partOfSpeech="x">
+    <Synset id="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

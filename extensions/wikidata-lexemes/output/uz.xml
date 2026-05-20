@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-uz" version="1.4"/>
     <LexicalEntry id="L1549947">
-      <Lemma writtenForm="sen" partOfSpeech="x"/>
+      <Lemma writtenForm="sen" partOfSpeech="h"/>
       <Sense id="L1549947-S1" synset="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1">
         <Definition></Definition>
       </Sense>
@@ -21,27 +21,27 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1547535">
-      <Lemma writtenForm="u" partOfSpeech="x"/>
+      <Lemma writtenForm="u" partOfSpeech="h"/>
       <Sense id="L1547535-S1" synset="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549554">
-      <Lemma writtenForm="i" partOfSpeech="x"/>
+      <Lemma writtenForm="i" partOfSpeech="p"/>
       <Sense id="L1549554-S1" synset="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="x">
+    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-uz-L1549960-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="x">
+    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="x">
+    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

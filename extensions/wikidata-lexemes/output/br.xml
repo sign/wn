@@ -21,7 +21,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470611">
-      <Lemma writtenForm="aezhenn dour" partOfSpeech="x"/>
+      <Lemma writtenForm="aezhenn dour" partOfSpeech="t"/>
       <Sense id="L470611-S1" synset="wikidata-br-L470611-S1" ili="wikidata-br-L470611-S1">
         <Definition>brumenn dour</Definition>
       </Sense>
@@ -135,7 +135,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L642124">
-      <Lemma writtenForm="o" partOfSpeech="x"/>
+      <Lemma writtenForm="o" partOfSpeech="y"/>
       <Sense id="L642124-S1" synset="wikidata-br-L642124-S1" ili="wikidata-br-L642124-S1">
         <Definition></Definition>
       </Sense>
@@ -183,7 +183,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470720">
-      <Lemma writtenForm="efed ti-gwer" partOfSpeech="x"/>
+      <Lemma writtenForm="efed ti-gwer" partOfSpeech="t"/>
       <Sense id="L470720-S1" synset="wikidata-br-L470720-S1" ili="wikidata-br-L470720-S1">
         <Definition>anadenn aergelc&apos;h</Definition>
       </Sense>
@@ -246,7 +246,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470579">
-      <Lemma writtenForm="energiezh nevezadus" partOfSpeech="x"/>
+      <Lemma writtenForm="energiezh nevezadus" partOfSpeech="t"/>
       <Sense id="L470579-S1" synset="wikidata-br-L470579-S1" ili="wikidata-br-L470579-S1">
         <Definition>gremm</Definition>
       </Sense>
@@ -264,7 +264,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628614">
-      <Lemma writtenForm="a" partOfSpeech="x"/>
+      <Lemma writtenForm="a" partOfSpeech="y"/>
       <Sense id="L628614-S1" synset="wikidata-br-L628614-S1" ili="wikidata-br-L628614-S1">
         <Definition></Definition>
       </Sense>
@@ -294,7 +294,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470710">
-      <Lemma writtenForm="marevezh skorn" partOfSpeech="x"/>
+      <Lemma writtenForm="marevezh skorn" partOfSpeech="t"/>
       <Sense id="L470710-S1" synset="wikidata-br-L470710-S1" ili="wikidata-br-L470710-S1">
         <Definition>prantad</Definition>
       </Sense>
@@ -351,7 +351,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1140598">
-      <Lemma writtenForm="met" partOfSpeech="x"/>
+      <Lemma writtenForm="met" partOfSpeech="c"/>
       <Sense id="L1140598-S1" synset="wikidata-br-L1140598-S1" ili="wikidata-br-L1140598-S1">
         <Definition></Definition>
       </Sense>
@@ -501,7 +501,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L469614">
-      <Lemma writtenForm="energiezh nukleel" partOfSpeech="x"/>
+      <Lemma writtenForm="energiezh nukleel" partOfSpeech="t"/>
       <Sense id="L469614-S1" synset="wikidata-br-L469614-S1" ili="wikidata-br-L469614-S1">
         <Definition>gremm</Definition>
       </Sense>
@@ -663,7 +663,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217089">
-      <Lemma writtenForm="pep" partOfSpeech="x"/>
+      <Lemma writtenForm="pep" partOfSpeech="a"/>
       <Sense id="L1217089-S1" synset="wikidata-br-L1217089-S1" ili="wikidata-br-L1217089-S1">
         <Definition></Definition>
       </Sense>
@@ -680,7 +680,7 @@
     <Synset id="wikidata-br-L40123-S1" ili="wikidata-br-L40123-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L470611-S1" ili="wikidata-br-L470611-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L470611-S1" ili="wikidata-br-L470611-S1" partOfSpeech="t">
       <Definition>brumenn dour</Definition>
     </Synset>
     <Synset id="wikidata-br-L627804-S1" ili="wikidata-br-L627804-S1" partOfSpeech="p">
@@ -740,7 +740,7 @@
     <Synset id="wikidata-br-L642119-S1" ili="wikidata-br-L642119-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L642124-S1" ili="wikidata-br-L642124-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L642124-S1" ili="wikidata-br-L642124-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-br-L1410440-S1" ili="wikidata-br-L1410440-S1" partOfSpeech="p">
@@ -764,7 +764,7 @@
     <Synset id="wikidata-br-L409286-S1" ili="wikidata-br-L409286-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L470720-S1" ili="wikidata-br-L470720-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L470720-S1" ili="wikidata-br-L470720-S1" partOfSpeech="t">
       <Definition>anadenn aergelc&apos;h</Definition>
     </Synset>
     <Synset id="wikidata-br-L627699-S1" ili="wikidata-br-L627699-S1" partOfSpeech="p">
@@ -797,7 +797,7 @@
     <Synset id="wikidata-br-L411246-S1" ili="wikidata-br-L411246-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L470579-S1" ili="wikidata-br-L470579-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L470579-S1" ili="wikidata-br-L470579-S1" partOfSpeech="t">
       <Definition>gremm</Definition>
     </Synset>
     <Synset id="wikidata-br-L626426-S1" ili="wikidata-br-L626426-S1" partOfSpeech="p">
@@ -806,7 +806,7 @@
     <Synset id="wikidata-br-L627413-S1" ili="wikidata-br-L627413-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628614-S1" ili="wikidata-br-L628614-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L628614-S1" ili="wikidata-br-L628614-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-br-L630520-S1" ili="wikidata-br-L630520-S1" partOfSpeech="p">
@@ -821,7 +821,7 @@
     <Synset id="wikidata-br-L409289-S1" ili="wikidata-br-L409289-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L470710-S1" ili="wikidata-br-L470710-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L470710-S1" ili="wikidata-br-L470710-S1" partOfSpeech="t">
       <Definition>prantad</Definition>
     </Synset>
     <Synset id="wikidata-br-L627104-S1" ili="wikidata-br-L627104-S1" partOfSpeech="p">
@@ -851,7 +851,7 @@
     <Synset id="wikidata-br-L1140596-S1" ili="wikidata-br-L1140596-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1140598-S1" ili="wikidata-br-L1140598-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L1140598-S1" ili="wikidata-br-L1140598-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-br-L1355620-S1" ili="wikidata-br-L1355620-S1" partOfSpeech="p">
@@ -938,7 +938,7 @@
     <Synset id="wikidata-br-L409291-S1" ili="wikidata-br-L409291-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L469614-S1" ili="wikidata-br-L469614-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L469614-S1" ili="wikidata-br-L469614-S1" partOfSpeech="t">
       <Definition>gremm</Definition>
     </Synset>
     <Synset id="wikidata-br-L627139-S1" ili="wikidata-br-L627139-S1" partOfSpeech="p">
@@ -1031,7 +1031,7 @@
     <Synset id="wikidata-br-L630624-S1" ili="wikidata-br-L630624-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1217089-S1" ili="wikidata-br-L1217089-S1" partOfSpeech="x">
+    <Synset id="wikidata-br-L1217089-S1" ili="wikidata-br-L1217089-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-br-L1460511-S1" ili="wikidata-br-L1460511-S1" partOfSpeech="q">

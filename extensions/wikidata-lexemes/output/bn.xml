@@ -130,7 +130,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310559">
-      <Lemma writtenForm="হইয়া" partOfSpeech="x"/>
+      <Lemma writtenForm="হইয়া" partOfSpeech="p"/>
       <Sense id="L310559-S1" synset="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1">
         <Definition>প্রতিনিধি স্বরূপ</Definition>
       </Sense>
@@ -402,7 +402,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595059">
-      <Lemma writtenForm="সাথে" partOfSpeech="x"/>
+      <Lemma writtenForm="সাথে" partOfSpeech="p"/>
       <Sense id="L595059-S1" synset="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1">
         <Definition>সহিত</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L591873-S1"/>
@@ -427,7 +427,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708613">
-      <Lemma writtenForm="প্রতি" partOfSpeech="x"/>
+      <Lemma writtenForm="প্রতি" partOfSpeech="p"/>
       <Sense id="L708613-S1" synset="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1">
         <Definition>উপরি বা সম্বন্ধে</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L626221-S2"/>
@@ -455,7 +455,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L295106">
-      <Lemma writtenForm="টি" partOfSpeech="x"/>
+      <Lemma writtenForm="টি" partOfSpeech="m"/>
       <Sense id="L295106-S1" synset="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1">
         <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
       </Sense>
@@ -580,7 +580,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310560">
-      <Lemma writtenForm="হইতে" partOfSpeech="x"/>
+      <Lemma writtenForm="হইতে" partOfSpeech="p"/>
       <Sense id="L310560-S1" synset="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1">
         <Definition>থেকে</Definition>
       </Sense>
@@ -634,7 +634,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595057">
-      <Lemma writtenForm="মধ্যে" partOfSpeech="x"/>
+      <Lemma writtenForm="মধ্যে" partOfSpeech="p"/>
       <Sense id="L595057-S1" synset="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1">
         <Definition>মাঝে</Definition>
       </Sense>
@@ -646,7 +646,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L621067">
-      <Lemma writtenForm="বার" partOfSpeech="x"/>
+      <Lemma writtenForm="বার" partOfSpeech="m"/>
       <Sense id="L621067-S1" synset="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1">
         <Definition>দফা</Definition>
       </Sense>
@@ -676,7 +676,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1152253">
-      <Lemma writtenForm="এর" partOfSpeech="x"/>
+      <Lemma writtenForm="এর" partOfSpeech="p"/>
       <Sense id="L1152253-S1" synset="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1">
         <Definition>একটি বিভক্তি</Definition>
       </Sense>
@@ -934,7 +934,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L295107">
-      <Lemma writtenForm="-গুলি" partOfSpeech="x"/>
+      <Lemma writtenForm="-গুলি" partOfSpeech="m"/>
       <Sense id="L295107-S1" synset="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1">
         <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
       </Sense>
@@ -1108,7 +1108,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595056">
-      <Lemma writtenForm="জন্য" partOfSpeech="x"/>
+      <Lemma writtenForm="জন্য" partOfSpeech="p"/>
       <Sense id="L595056-S1" synset="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1">
         <Definition>কারণে বা নিমিত্তে</Definition>
       </Sense>
@@ -1267,7 +1267,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L483768">
-      <Lemma writtenForm="কাছে" partOfSpeech="x"/>
+      <Lemma writtenForm="কাছে" partOfSpeech="p"/>
       <Sense id="L483768-S1" synset="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1">
         <Definition>নিকটে</Definition>
       </Sense>
@@ -1294,7 +1294,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626221">
-      <Lemma writtenForm="উপর" partOfSpeech="x"/>
+      <Lemma writtenForm="উপর" partOfSpeech="p"/>
       <Sense id="L626221-S1" synset="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1">
         <Definition>ঊর্ধ্বে</Definition>
       </Sense>
@@ -1317,7 +1317,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708519">
-      <Lemma writtenForm="অবধি" partOfSpeech="x"/>
+      <Lemma writtenForm="অবধি" partOfSpeech="p"/>
       <Sense id="L708519-S1" synset="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1">
         <Definition>থেকে বা হতে</Definition>
       </Sense>
@@ -1491,7 +1491,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345755">
-      <Lemma writtenForm="থেকে" partOfSpeech="x"/>
+      <Lemma writtenForm="থেকে" partOfSpeech="p"/>
       <Sense id="L345755-S1" synset="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1">
         <Definition>হতে</Definition>
       </Sense>
@@ -1554,7 +1554,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L620859">
-      <Lemma writtenForm="দিয়ে" partOfSpeech="x"/>
+      <Lemma writtenForm="দিয়ে" partOfSpeech="p"/>
       <Sense id="L620859-S1" synset="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1">
         <Definition>সাহায্যে</Definition>
       </Sense>
@@ -1563,7 +1563,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624939">
-      <Lemma writtenForm="দ্বারা" partOfSpeech="x"/>
+      <Lemma writtenForm="দ্বারা" partOfSpeech="p"/>
       <Sense id="L624939-S1" synset="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1">
         <Definition>কর্তৃক</Definition>
       </Sense>
@@ -1596,7 +1596,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708611">
-      <Lemma writtenForm="পর্যন্ত" partOfSpeech="x"/>
+      <Lemma writtenForm="পর্যন্ত" partOfSpeech="p"/>
       <Sense id="L708611-S1" synset="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1">
         <Definition>অবধি</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L708519-S2"/>
@@ -1789,7 +1789,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591873">
-      <Lemma writtenForm="সঙ্গে" partOfSpeech="x"/>
+      <Lemma writtenForm="সঙ্গে" partOfSpeech="p"/>
       <Sense id="L591873-S1" synset="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1">
         <Definition>সহিত</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L595059-S1"/>
@@ -1882,10 +1882,10 @@
     <Synset id="wikidata-bn-L310553-S1" ili="wikidata-bn-L310553-S1" partOfSpeech="i">
       <Definition>মারা পড়লাম</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1" partOfSpeech="p">
       <Definition>প্রতিনিধি স্বরূপ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2" partOfSpeech="p">
       <Definition>মধ্য দিয়ে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310568-S1" ili="wikidata-bn-L310568-S1" partOfSpeech="i">
@@ -2032,7 +2032,7 @@
     <Synset id="wikidata-bn-L494329-S1" ili="wikidata-bn-L494329-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1" partOfSpeech="p">
       <Definition>সহিত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618670-S1" ili="wikidata-bn-L618670-S1" partOfSpeech="y">
@@ -2044,10 +2044,10 @@
     <Synset id="wikidata-bn-L643366-S1" ili="wikidata-bn-L643366-S1" partOfSpeech="c">
       <Definition>অভিলাষ প্রকাশসূচক</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1" partOfSpeech="p">
       <Definition>উপরি বা সম্বন্ধে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2" partOfSpeech="p">
       <Definition>অভিমুখে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L1126943-S1" ili="wikidata-bn-L1126943-S1" partOfSpeech="i">
@@ -2059,7 +2059,7 @@
     <Synset id="wikidata-bn-L252192-S1" ili="wikidata-bn-L252192-S1" partOfSpeech="h">
       <Definition>সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1" partOfSpeech="m">
       <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L303227-S1" ili="wikidata-bn-L303227-S1" partOfSpeech="m">
@@ -2122,7 +2122,7 @@
     <Synset id="wikidata-bn-L310556-S2" ili="wikidata-bn-L310556-S2" partOfSpeech="x">
       <Definition>দ্রুত এবং বলপূর্বক টেনে নিয়ে যাওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1" partOfSpeech="p">
       <Definition>থেকে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310704-S1" ili="l1385-s1" partOfSpeech="c">
@@ -2152,19 +2152,19 @@
     <Synset id="wikidata-bn-L476043-S1" ili="wikidata-bn-L476043-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তি</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1" partOfSpeech="p">
       <Definition>মাঝে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2" partOfSpeech="p">
       <Definition>ভিতরে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3" partOfSpeech="x">
+    <Synset id="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3" partOfSpeech="p">
       <Definition>ফাঁকে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1" partOfSpeech="m">
       <Definition>দফা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2" partOfSpeech="m">
       <Definition>পালা</Definition>
     </Synset>
     <Synset id="wikidata-bn-L625132-S1" ili="wikidata-bn-L625132-S1" partOfSpeech="y">
@@ -2179,7 +2179,7 @@
     <Synset id="wikidata-bn-L643353-S1" ili="wikidata-bn-L643353-S1" partOfSpeech="c">
       <Definition>কার্য কারণ সম্পর্ক বা হেতু</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1" partOfSpeech="p">
       <Definition>একটি বিভক্তি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L252194-S1" ili="wikidata-bn-L252194-S1" partOfSpeech="h">
@@ -2311,7 +2311,7 @@
     <Synset id="wikidata-bn-L252193-S1" ili="wikidata-bn-L252193-S1" partOfSpeech="h">
       <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1" partOfSpeech="m">
       <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
     </Synset>
     <Synset id="wikidata-bn-L303231-S1" ili="wikidata-bn-L303231-S1" partOfSpeech="m">
@@ -2398,7 +2398,7 @@
     <Synset id="wikidata-bn-L483766-S1" ili="wikidata-bn-L483766-S1" partOfSpeech="h">
       <Definition>কোন স্থান</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1" partOfSpeech="p">
       <Definition>কারণে বা নিমিত্তে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L626214-S1" ili="wikidata-bn-L626214-S1" partOfSpeech="c">
@@ -2479,10 +2479,10 @@
     <Synset id="wikidata-bn-L476061-S1" ili="wikidata-bn-L476061-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তি/বস্তু/বিষয়</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1" partOfSpeech="p">
       <Definition>নিকটে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2" partOfSpeech="p">
       <Definition>তুলনায়</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618493-S1" ili="wikidata-bn-L618493-S1" partOfSpeech="i">
@@ -2494,10 +2494,10 @@
     <Synset id="wikidata-bn-L625189-S1" ili="wikidata-bn-L625189-S1" partOfSpeech="h">
       <Definition>নির্দিষ্ট বস্তু বা ব্যক্তি</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1" partOfSpeech="p">
       <Definition>ঊর্ধ্বে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2" partOfSpeech="p">
       <Definition>প্রতি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L643355-S1" ili="wikidata-bn-L643355-S1" partOfSpeech="i">
@@ -2506,10 +2506,10 @@
     <Synset id="wikidata-bn-L671674-S1" ili="wikidata-bn-L671674-S1" partOfSpeech="i">
       <Definition>সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1" partOfSpeech="p">
       <Definition>থেকে বা হতে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2" partOfSpeech="p">
       <Definition>পর্যন্ত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L714175-S1" ili="wikidata-bn-L714175-S1" partOfSpeech="i">
@@ -2596,10 +2596,10 @@
     <Synset id="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1" partOfSpeech="x">
       <Definition>ঘণ্টা ইত্যাদির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1" partOfSpeech="p">
       <Definition>হতে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2" partOfSpeech="p">
       <Definition>চেয়ে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1" partOfSpeech="x">
@@ -2632,22 +2632,22 @@
     <Synset id="wikidata-bn-L595058-S1" ili="wikidata-bn-L595058-S1" partOfSpeech="c">
       <Definition>অথবা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1" partOfSpeech="p">
       <Definition>সাহায্যে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2" partOfSpeech="p">
       <Definition>মারফৎ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1" partOfSpeech="p">
       <Definition>কর্তৃক</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2" partOfSpeech="x">
+    <Synset id="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2" partOfSpeech="p">
       <Definition>সাহায্যে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3" partOfSpeech="x">
+    <Synset id="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3" partOfSpeech="p">
       <Definition>মারফৎ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4" partOfSpeech="x">
+    <Synset id="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4" partOfSpeech="p">
       <Definition>দ্বার দিয়ে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1" partOfSpeech="x">
@@ -2659,7 +2659,7 @@
     <Synset id="wikidata-bn-L646663-S1" ili="wikidata-bn-L646663-S1" partOfSpeech="h">
       <Definition>নিজ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1" partOfSpeech="p">
       <Definition>অবধি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L742513-S1" ili="wikidata-bn-L742513-S1" partOfSpeech="h">
@@ -2761,7 +2761,7 @@
     <Synset id="wikidata-bn-L587404-S2" ili="wikidata-bn-L587404-S2" partOfSpeech="c">
       <Definition>অথবা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1" partOfSpeech="x">
+    <Synset id="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1" partOfSpeech="p">
       <Definition>সহিত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618990-S1" ili="wikidata-bn-L618990-S1" partOfSpeech="r">

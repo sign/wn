@@ -606,7 +606,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1081133">
-      <Lemma writtenForm="érase una vez" partOfSpeech="x"/>
+      <Lemma writtenForm="érase una vez" partOfSpeech="t"/>
       <Sense id="L1081133-S1" synset="wikidata-es-L1081133-S1" ili="wikidata-es-L1081133-S1">
         <Definition>frase común utilizada para introducir una narración de acontecimientos pasados, normalmente en cuentos de hadas y cuentos populares.</Definition>
       </Sense>
@@ -1127,7 +1127,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1550831">
-      <Lemma writtenForm="alcazar" partOfSpeech="x"/>
+      <Lemma writtenForm="alcazar" partOfSpeech="n"/>
       <Sense id="L1550831-S2" synset="wikidata-es-L1550831-S2" ili="wikidata-es-L1550831-S2">
         <Definition>palace</Definition>
       </Sense>
@@ -1252,7 +1252,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L620213">
-      <Lemma writtenForm="del" partOfSpeech="x"/>
+      <Lemma writtenForm="del" partOfSpeech="a"/>
       <Sense id="L620213-S1" synset="wikidata-es-L620213-S1" ili="wikidata-es-L620213-S1">
         <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
       </Sense>
@@ -1696,7 +1696,7 @@
     <Synset id="wikidata-es-L737076-S1" ili="wikidata-es-L737076-S1" partOfSpeech="r">
       <Definition>con grandes dificultades y obstáculos</Definition>
     </Synset>
-    <Synset id="wikidata-es-L1081133-S1" ili="wikidata-es-L1081133-S1" partOfSpeech="x">
+    <Synset id="wikidata-es-L1081133-S1" ili="wikidata-es-L1081133-S1" partOfSpeech="t">
       <Definition>frase común utilizada para introducir una narración de acontecimientos pasados, normalmente en cuentos de hadas y cuentos populares.</Definition>
     </Synset>
     <Synset id="wikidata-es-L1186979-S1" ili="wikidata-es-L1186979-S1" partOfSpeech="r">
@@ -1954,10 +1954,10 @@
     <Synset id="wikidata-es-L1186980-S1" ili="wikidata-es-L1186980-S1" partOfSpeech="r">
       <Definition>cuando más; a lo más</Definition>
     </Synset>
-    <Synset id="wikidata-es-L1550831-S2" ili="wikidata-es-L1550831-S2" partOfSpeech="x">
+    <Synset id="wikidata-es-L1550831-S2" ili="wikidata-es-L1550831-S2" partOfSpeech="n">
       <Definition>palace</Definition>
     </Synset>
-    <Synset id="wikidata-es-L1550831-S3" ili="wikidata-es-L1550831-S3" partOfSpeech="x">
+    <Synset id="wikidata-es-L1550831-S3" ili="wikidata-es-L1550831-S3" partOfSpeech="n">
       <Definition>castle</Definition>
     </Synset>
     <Synset id="wikidata-es-L11721-S1" ili="wikidata-es-L11721-S1" partOfSpeech="p">
@@ -2017,7 +2017,7 @@
     <Synset id="wikidata-es-L58269-S1" ili="wikidata-es-L58269-S1" partOfSpeech="r">
       <Definition>solamente</Definition>
     </Synset>
-    <Synset id="wikidata-es-L620213-S1" ili="wikidata-es-L620213-S1" partOfSpeech="x">
+    <Synset id="wikidata-es-L620213-S1" ili="wikidata-es-L620213-S1" partOfSpeech="a">
       <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
     </Synset>
     <Synset id="wikidata-es-L642323-S1" ili="wikidata-es-L642323-S1" partOfSpeech="c">

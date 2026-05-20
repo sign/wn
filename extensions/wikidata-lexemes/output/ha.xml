@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-ha" version="1.4"/>
     <LexicalEntry id="L524180">
-      <Lemma writtenForm="su" partOfSpeech="x"/>
+      <Lemma writtenForm="su" partOfSpeech="h"/>
       <Sense id="L524180-S1" synset="wikidata-ha-L524180-S1" ili="wikidata-ha-L524180-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L524392">
-      <Lemma writtenForm="ku" partOfSpeech="x"/>
+      <Lemma writtenForm="ku" partOfSpeech="h"/>
       <Sense id="L524392-S1" synset="wikidata-ha-L524392-S1" ili="wikidata-ha-L524392-S1">
         <Definition></Definition>
       </Sense>
@@ -33,13 +33,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1531211">
-      <Lemma writtenForm="sha" partOfSpeech="x"/>
+      <Lemma writtenForm="sha" partOfSpeech="c"/>
       <Sense id="L1531211-S1" synset="wikidata-ha-L1531211-S1" ili="wikidata-ha-L1531211-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L524155">
-      <Lemma writtenForm="ta" partOfSpeech="x"/>
+      <Lemma writtenForm="ta" partOfSpeech="h"/>
       <Sense id="L524155-S1" synset="wikidata-ha-L524155-S1" ili="wikidata-ha-L524155-S1">
         <Definition></Definition>
       </Sense>
@@ -51,19 +51,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1307598">
-      <Lemma writtenForm="da" partOfSpeech="x"/>
+      <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L1307598-S1" synset="wikidata-ha-L1307598-S1" ili="wikidata-ha-L1307598-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1525183">
-      <Lemma writtenForm="ba" partOfSpeech="x"/>
+      <Lemma writtenForm="ba" partOfSpeech="y"/>
       <Sense id="L1525183-S1" synset="wikidata-ha-L1525183-S1" ili="wikidata-ha-L1525183-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1525186">
-      <Lemma writtenForm="sai" partOfSpeech="x"/>
+      <Lemma writtenForm="sai" partOfSpeech="y"/>
       <Sense id="L1525186-S1" synset="wikidata-ha-L1525186-S1" ili="wikidata-ha-L1525186-S1">
         <Definition></Definition>
       </Sense>
@@ -81,7 +81,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L524446">
-      <Lemma writtenForm="namu" partOfSpeech="x"/>
+      <Lemma writtenForm="namu" partOfSpeech="h"/>
       <Sense id="L524446-S1" synset="wikidata-ha-L524446-S1" ili="wikidata-ha-L524446-S1">
         <Definition></Definition>
       </Sense>
@@ -99,7 +99,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1248495">
-      <Lemma writtenForm="in" partOfSpeech="x"/>
+      <Lemma writtenForm="in" partOfSpeech="h"/>
       <Sense id="L1248495-S1" synset="wikidata-ha-L1248495-S1" ili="wikidata-ha-L1248495-S1">
         <Definition></Definition>
       </Sense>
@@ -141,7 +141,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L524161">
-      <Lemma writtenForm="mu" partOfSpeech="x"/>
+      <Lemma writtenForm="mu" partOfSpeech="h"/>
       <Sense id="L524161-S1" synset="wikidata-ha-L524161-S1" ili="wikidata-ha-L524161-S1">
         <Definition></Definition>
       </Sense>
@@ -159,7 +159,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624580">
-      <Lemma writtenForm="nawa" partOfSpeech="x"/>
+      <Lemma writtenForm="nawa" partOfSpeech="h"/>
       <Sense id="L624580-S1" synset="wikidata-ha-L624580-S1" ili="wikidata-ha-L624580-S1">
         <Definition></Definition>
       </Sense>
@@ -171,13 +171,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1290929">
-      <Lemma writtenForm="ka" partOfSpeech="x"/>
+      <Lemma writtenForm="ka" partOfSpeech="h"/>
       <Sense id="L1290929-S1" synset="wikidata-ha-L1290929-S1" ili="wikidata-ha-L1290929-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1291113">
-      <Lemma writtenForm="n" partOfSpeech="x"/>
+      <Lemma writtenForm="n" partOfSpeech="c"/>
       <Sense id="L1291113-S1" synset="wikidata-ha-L1291113-S1" ili="wikidata-ha-L1291113-S1">
         <Definition></Definition>
       </Sense>
@@ -210,7 +210,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L524568">
-      <Lemma writtenForm="da" partOfSpeech="x"/>
+      <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L524568-S1" synset="wikidata-ha-L524568-S1" ili="wikidata-ha-L524568-S1">
         <Definition></Definition>
       </Sense>
@@ -222,7 +222,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L593474">
-      <Lemma writtenForm="ɗaya" partOfSpeech="x"/>
+      <Lemma writtenForm="ɗaya" partOfSpeech="n"/>
       <Sense id="L593474-S1" synset="wikidata-ha-L593474-S1" ili="wikidata-ha-L593474-S1">
         <Definition></Definition>
       </Sense>
@@ -249,7 +249,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624582">
-      <Lemma writtenForm="nawa" partOfSpeech="x"/>
+      <Lemma writtenForm="nawa" partOfSpeech="d"/>
       <Sense id="L624582-S1" synset="wikidata-ha-L624582-S1" ili="wikidata-ha-L624582-S1">
         <Definition></Definition>
       </Sense>
@@ -261,7 +261,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1307597">
-      <Lemma writtenForm="da" partOfSpeech="x"/>
+      <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L1307597-S1" synset="wikidata-ha-L1307597-S1" ili="wikidata-ha-L1307597-S1">
         <Definition></Definition>
       </Sense>
@@ -273,7 +273,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1523723">
-      <Lemma writtenForm="a" partOfSpeech="x"/>
+      <Lemma writtenForm="a" partOfSpeech="h"/>
       <Sense id="L1523723-S1" synset="wikidata-ha-L1523723-S1" ili="wikidata-ha-L1523723-S1">
         <Definition></Definition>
       </Sense>
@@ -303,7 +303,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1525155">
-      <Lemma writtenForm="ya" partOfSpeech="x"/>
+      <Lemma writtenForm="ya" partOfSpeech="h"/>
       <Sense id="L1525155-S1" synset="wikidata-ha-L1525155-S1" ili="wikidata-ha-L1525155-S1">
         <Definition></Definition>
       </Sense>
@@ -315,13 +315,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L593415">
-      <Lemma writtenForm="amma" partOfSpeech="x"/>
+      <Lemma writtenForm="amma" partOfSpeech="c"/>
       <Sense id="L593415-S1" synset="wikidata-ha-L593415-S1" ili="wikidata-ha-L593415-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1476120">
-      <Lemma writtenForm="nan" partOfSpeech="x"/>
+      <Lemma writtenForm="nan" partOfSpeech="r"/>
       <Sense id="L1476120-S1" synset="wikidata-ha-L1476120-S1" ili="wikidata-ha-L1476120-S1">
         <Definition></Definition>
       </Sense>
@@ -332,10 +332,10 @@
         <Definition>yaya?</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ha-L524180-S1" ili="wikidata-ha-L524180-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524180-S1" ili="wikidata-ha-L524180-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L524392-S1" ili="wikidata-ha-L524392-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524392-S1" ili="wikidata-ha-L524392-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L620879-S2" ili="wikidata-ha-L620879-S2" partOfSpeech="d">
@@ -344,37 +344,37 @@
     <Synset id="wikidata-ha-L624441-S1" ili="wikidata-ha-L624441-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1531211-S1" ili="wikidata-ha-L1531211-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1531211-S1" ili="wikidata-ha-L1531211-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L524155-S1" ili="wikidata-ha-L524155-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524155-S1" ili="wikidata-ha-L524155-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L643098-S1" ili="wikidata-ha-L643098-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1307598-S1" ili="wikidata-ha-L1307598-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1307598-S1" ili="wikidata-ha-L1307598-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525183-S1" ili="wikidata-ha-L1525183-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525183-S1" ili="wikidata-ha-L1525183-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525186-S1" ili="wikidata-ha-L1525186-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525186-S1" ili="wikidata-ha-L1525186-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525186-S2" ili="wikidata-ha-L1525186-S2" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525186-S2" ili="wikidata-ha-L1525186-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525186-S3" ili="wikidata-ha-L1525186-S3" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525186-S3" ili="wikidata-ha-L1525186-S3" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525186-S4" ili="wikidata-ha-L1525186-S4" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525186-S4" ili="wikidata-ha-L1525186-S4" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525186-S5" ili="wikidata-ha-L1525186-S5" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525186-S5" ili="wikidata-ha-L1525186-S5" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L524446-S1" ili="wikidata-ha-L524446-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524446-S1" ili="wikidata-ha-L524446-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L593472-S1" ili="wikidata-ha-L593472-S1" partOfSpeech="d">
@@ -383,7 +383,7 @@
     <Synset id="wikidata-ha-L640292-S1" ili="wikidata-ha-L640292-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1248495-S1" ili="wikidata-ha-L1248495-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1248495-S1" ili="wikidata-ha-L1248495-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L1307594-S1" ili="wikidata-ha-L1307594-S1" partOfSpeech="p">
@@ -419,7 +419,7 @@
     <Synset id="wikidata-ha-L1307594-S11" ili="wikidata-ha-L1307594-S11" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L524161-S1" ili="wikidata-ha-L524161-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524161-S1" ili="wikidata-ha-L524161-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L620427-S1" ili="wikidata-ha-L620427-S1" partOfSpeech="p">
@@ -428,16 +428,16 @@
     <Synset id="wikidata-ha-L620932-S1" ili="wikidata-ha-L620932-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L624580-S1" ili="wikidata-ha-L624580-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L624580-S1" ili="wikidata-ha-L624580-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L626984-S1" ili="wikidata-ha-L626984-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1290929-S1" ili="wikidata-ha-L1290929-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1290929-S1" ili="wikidata-ha-L1290929-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1291113-S1" ili="wikidata-ha-L1291113-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1291113-S1" ili="wikidata-ha-L1291113-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L1307596-S1" ili="wikidata-ha-L1307596-S1" partOfSpeech="h">
@@ -455,13 +455,13 @@
     <Synset id="wikidata-ha-L524496-S1" ili="wikidata-ha-L524496-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L524568-S1" ili="wikidata-ha-L524568-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L524568-S1" ili="wikidata-ha-L524568-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L524570-S1" ili="wikidata-ha-L524570-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L593474-S1" ili="wikidata-ha-L593474-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L593474-S1" ili="wikidata-ha-L593474-S1" partOfSpeech="n">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L593850-S1" ili="wikidata-ha-L593850-S1" partOfSpeech="p">
@@ -476,19 +476,19 @@
     <Synset id="wikidata-ha-L1525157-S1" ili="wikidata-ha-L1525157-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L624582-S1" ili="wikidata-ha-L624582-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L624582-S1" ili="wikidata-ha-L624582-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L643100-S1" ili="wikidata-ha-L643100-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1307597-S1" ili="wikidata-ha-L1307597-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1307597-S1" ili="wikidata-ha-L1307597-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L1380826-S1" ili="wikidata-ha-L1380826-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1523723-S1" ili="wikidata-ha-L1523723-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1523723-S1" ili="wikidata-ha-L1523723-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L524569-S2" ili="wikidata-ha-L524569-S2" partOfSpeech="c">
@@ -503,16 +503,16 @@
     <Synset id="wikidata-ha-L643099-S1" ili="wikidata-ha-L643099-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1525155-S1" ili="wikidata-ha-L1525155-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1525155-S1" ili="wikidata-ha-L1525155-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L524176-S1" ili="wikidata-ha-L524176-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L593415-S1" ili="wikidata-ha-L593415-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L593415-S1" ili="wikidata-ha-L593415-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ha-L1476120-S1" ili="wikidata-ha-L1476120-S1" partOfSpeech="x">
+    <Synset id="wikidata-ha-L1476120-S1" ili="wikidata-ha-L1476120-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ha-L1525156-S1" ili="wikidata-ha-L1525156-S1" partOfSpeech="r">

@@ -15,7 +15,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1090471">
-      <Lemma writtenForm="په" partOfSpeech="x"/>
+      <Lemma writtenForm="په" partOfSpeech="p"/>
       <Sense id="L1090471-S1" synset="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1">
         <Definition></Definition>
       </Sense>
@@ -24,13 +24,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235444">
-      <Lemma writtenForm="د" partOfSpeech="x"/>
+      <Lemma writtenForm="د" partOfSpeech="p"/>
       <Sense id="L1235444-S1" synset="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235448">
-      <Lemma writtenForm="تر" partOfSpeech="x"/>
+      <Lemma writtenForm="تر" partOfSpeech="p"/>
       <Sense id="L1235448-S1" synset="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1">
         <Definition></Definition>
       </Sense>
@@ -45,7 +45,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235446">
-      <Lemma writtenForm="له" partOfSpeech="x"/>
+      <Lemma writtenForm="له" partOfSpeech="p"/>
       <Sense id="L1235446-S1" synset="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1">
         <Definition></Definition>
       </Sense>
@@ -57,7 +57,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235451">
-      <Lemma writtenForm="ته" partOfSpeech="x"/>
+      <Lemma writtenForm="ته" partOfSpeech="p"/>
       <Sense id="L1235451-S1" synset="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1">
         <Definition></Definition>
       </Sense>
@@ -74,34 +74,34 @@
     <Synset id="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L1235447-S1" ili="wikidata-ps-L1235447-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L1235450-S1" ili="wikidata-ps-L1235450-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2" partOfSpeech="x">
+    <Synset id="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L709027-S1" ili="wikidata-ps-L709027-S1" partOfSpeech="m">

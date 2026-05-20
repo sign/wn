@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-lo" version="1.4"/>
     <LexicalEntry id="L405262">
-      <Lemma writtenForm="ໂຕ" partOfSpeech="x"/>
+      <Lemma writtenForm="ໂຕ" partOfSpeech="m"/>
       <Sense id="L405262-S1" synset="wikidata-lo-L405262-S1" ili="wikidata-lo-L405262-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-lo-L405262-S1" ili="wikidata-lo-L405262-S1" partOfSpeech="x">
+    <Synset id="wikidata-lo-L405262-S1" ili="wikidata-lo-L405262-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

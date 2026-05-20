@@ -110,7 +110,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L251646">
-      <Lemma writtenForm="Andersson" partOfSpeech="x"/>
+      <Lemma writtenForm="Andersson" partOfSpeech="n"/>
       <Sense id="L251646-S1" synset="wikidata-sv-L251646-S1" ili="wikidata-sv-L251646-S1">
         <Definition>efternamn</Definition>
         <Example>I dag behandlar vi Anderssons betänkande.</Example>
@@ -324,7 +324,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329218">
-      <Lemma writtenForm="kärringen mot strömmen" partOfSpeech="x"/>
+      <Lemma writtenForm="kärringen mot strömmen" partOfSpeech="t"/>
       <Sense id="L1329218-S1" synset="wikidata-sv-L1329218-S1" ili="wikidata-sv-L1329218-S1">
         <Definition>person som ofta gör tvärt emot andras vilja</Definition>
       </Sense>
@@ -453,7 +453,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L722755">
-      <Lemma writtenForm="närhelst" partOfSpeech="x"/>
+      <Lemma writtenForm="närhelst" partOfSpeech="c"/>
       <Sense id="L722755-S1" synset="wikidata-sv-L722755-S1" ili="l11347-s1">
         <Definition>vid vilken tidpunkt som helst</Definition>
       </Sense>
@@ -634,7 +634,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1412569">
-      <Lemma writtenForm="sålt taska åt räven" partOfSpeech="x"/>
+      <Lemma writtenForm="sålt taska åt räven" partOfSpeech="t"/>
       <Sense id="L1412569-S1" synset="wikidata-sv-L1412569-S1" ili="wikidata-sv-L1412569-S1">
         <Definition>gjort bort sig</Definition>
       </Sense>
@@ -657,7 +657,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46789">
-      <Lemma writtenForm="medan" partOfSpeech="x"/>
+      <Lemma writtenForm="medan" partOfSpeech="c"/>
       <Sense id="L46789-S1" synset="wikidata-sv-L46789-S1" ili="wikidata-sv-L46789-S1">
         <Definition>samtidigt som något annat händer</Definition>
         <Example>Medan män får bostad och jobb erbjuds kvinnor färdtjänst och sjukersättning.</Example>
@@ -1320,7 +1320,7 @@
     <Synset id="wikidata-sv-L238167-S1" ili="wikidata-sv-L238167-S1" partOfSpeech="p">
       <Definition>riktning mot referenspunkten</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L251646-S1" ili="wikidata-sv-L251646-S1" partOfSpeech="x">
+    <Synset id="wikidata-sv-L251646-S1" ili="wikidata-sv-L251646-S1" partOfSpeech="n">
       <Definition>efternamn</Definition>
     </Synset>
     <Synset id="wikidata-sv-L405859-S1" ili="wikidata-sv-L405859-S1" partOfSpeech="m">
@@ -1434,7 +1434,7 @@
     <Synset id="wikidata-sv-L1157371-S1" ili="wikidata-sv-L1157371-S1" partOfSpeech="i">
       <Definition>glatt utrop</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1329218-S1" ili="wikidata-sv-L1329218-S1" partOfSpeech="x">
+    <Synset id="wikidata-sv-L1329218-S1" ili="wikidata-sv-L1329218-S1" partOfSpeech="t">
       <Definition>person som ofta gör tvärt emot andras vilja</Definition>
     </Synset>
     <Synset id="wikidata-sv-L1460738-S2" ili="wikidata-sv-L1460738-S2" partOfSpeech="h">
@@ -1494,7 +1494,7 @@
     <Synset id="wikidata-sv-L713522-S1" ili="wikidata-sv-L713522-S1" partOfSpeech="i">
       <Definition>uttryck för stark förvåning eller upprördhet</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L722755-S1" ili="l11347-s1" partOfSpeech="x">
+    <Synset id="wikidata-sv-L722755-S1" ili="l11347-s1" partOfSpeech="c">
       <Definition>vid vilken tidpunkt som helst</Definition>
     </Synset>
     <Synset id="wikidata-sv-L1011503-S1" ili="wikidata-sv-L1011503-S1" partOfSpeech="i">
@@ -1587,7 +1587,7 @@
     <Synset id="wikidata-sv-L1309770-S1" ili="wikidata-sv-L1309770-S1" partOfSpeech="r">
       <Definition>springa fort</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1412569-S1" ili="wikidata-sv-L1412569-S1" partOfSpeech="x">
+    <Synset id="wikidata-sv-L1412569-S1" ili="wikidata-sv-L1412569-S1" partOfSpeech="t">
       <Definition>gjort bort sig</Definition>
     </Synset>
     <Synset id="wikidata-sv-L35761-S1" ili="l2987-s1" partOfSpeech="p">
@@ -1599,7 +1599,7 @@
     <Synset id="wikidata-sv-L46768-S1" ili="wikidata-sv-L46768-S1" partOfSpeech="p">
       <Definition>kvalificerar något (början av något, begivenhet eller dato) som er sket tidigare i förhållande till något annat</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46789-S1" ili="wikidata-sv-L46789-S1" partOfSpeech="x">
+    <Synset id="wikidata-sv-L46789-S1" ili="wikidata-sv-L46789-S1" partOfSpeech="c">
       <Definition>samtidigt som något annat händer</Definition>
     </Synset>
     <Synset id="wikidata-sv-L46988-S1" ili="wikidata-sv-L46988-S1" partOfSpeech="m">

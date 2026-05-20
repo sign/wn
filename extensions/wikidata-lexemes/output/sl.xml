@@ -15,7 +15,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419022">
-      <Lemma writtenForm="vsak" partOfSpeech="x"/>
+      <Lemma writtenForm="vsak" partOfSpeech="a"/>
       <Sense id="L1419022-S1" synset="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1">
         <Definition></Definition>
       </Sense>
@@ -23,7 +23,7 @@
     <Synset id="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1" partOfSpeech="x">
+    <Synset id="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

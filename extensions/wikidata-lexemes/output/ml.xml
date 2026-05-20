@@ -81,7 +81,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L578410">
-      <Lemma writtenForm="മുതൽ" partOfSpeech="x"/>
+      <Lemma writtenForm="മുതൽ" partOfSpeech="p"/>
       <Sense id="L578410-S1" synset="wikidata-ml-L578410-S1" ili="wikidata-ml-L578410-S1">
         <Definition>തൊട്ട്, തുടങ്ങി</Definition>
       </Sense>
@@ -263,14 +263,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579696">
-      <Lemma writtenForm="പറ്റി" partOfSpeech="x"/>
+      <Lemma writtenForm="പറ്റി" partOfSpeech="p"/>
       <Sense id="L579696-S1" synset="wikidata-ml-L579696-S1" ili="wikidata-ml-L579696-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-ml-L579697-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L580439">
-      <Lemma writtenForm="എന്ന" partOfSpeech="x"/>
+      <Lemma writtenForm="എന്ന" partOfSpeech="p"/>
       <Sense id="L580439-S1" synset="wikidata-ml-L580439-S1" ili="wikidata-ml-L580439-S1">
         <Definition></Definition>
       </Sense>
@@ -350,7 +350,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L687130">
-      <Lemma writtenForm="രഹിത" partOfSpeech="x"/>
+      <Lemma writtenForm="രഹിത" partOfSpeech="p"/>
       <Sense id="L687130-S1" synset="wikidata-ml-L687130-S1" ili="wikidata-ml-L687130-S1">
         <Definition>വിമുക്ത</Definition>
       </Sense>
@@ -424,7 +424,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L529529">
-      <Lemma writtenForm="തുടങ്ങി" partOfSpeech="x"/>
+      <Lemma writtenForm="തുടങ്ങി" partOfSpeech="p"/>
       <Sense id="L529529-S1" synset="wikidata-ml-L529529-S1" ili="wikidata-ml-L529529-S1">
         <Definition></Definition>
       </Sense>
@@ -472,7 +472,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579697">
-      <Lemma writtenForm="കുറിച്ച്" partOfSpeech="x"/>
+      <Lemma writtenForm="കുറിച്ച്" partOfSpeech="p"/>
       <Sense id="L579697-S1" synset="wikidata-ml-L579697-S1" ili="wikidata-ml-L579697-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-ml-L579696-S1"/>
@@ -848,13 +848,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579693">
-      <Lemma writtenForm="വരെ" partOfSpeech="x"/>
+      <Lemma writtenForm="വരെ" partOfSpeech="p"/>
       <Sense id="L579693-S1" synset="wikidata-ml-L579693-S1" ili="wikidata-ml-L579693-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L580920">
-      <Lemma writtenForm="എന്ന്" partOfSpeech="x"/>
+      <Lemma writtenForm="എന്ന്" partOfSpeech="p"/>
       <Sense id="L580920-S1" synset="wikidata-ml-L580920-S1" ili="wikidata-ml-L580920-S1">
         <Definition></Definition>
       </Sense>
@@ -914,13 +914,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1116228">
-      <Lemma writtenForm="അടുത്ത്" partOfSpeech="x"/>
+      <Lemma writtenForm="അടുത്ത്" partOfSpeech="p"/>
       <Sense id="L1116228-S1" synset="wikidata-ml-L1116228-S1" ili="wikidata-ml-L1116228-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1130641">
-      <Lemma writtenForm="മുഖേന" partOfSpeech="x"/>
+      <Lemma writtenForm="മുഖേന" partOfSpeech="p"/>
       <Sense id="L1130641-S1" synset="wikidata-ml-L1130641-S1" ili="wikidata-ml-L1130641-S1">
         <Definition></Definition>
       </Sense>
@@ -1127,13 +1127,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L687132">
-      <Lemma writtenForm="വിമുക്ത" partOfSpeech="x"/>
+      <Lemma writtenForm="വിമുക്ത" partOfSpeech="p"/>
       <Sense id="L687132-S1" synset="wikidata-ml-L687132-S1" ili="wikidata-ml-L687132-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1116227">
-      <Lemma writtenForm="പക്കം" partOfSpeech="x"/>
+      <Lemma writtenForm="പക്കം" partOfSpeech="p"/>
       <Sense id="L1116227-S1" synset="wikidata-ml-L1116227-S1" ili="wikidata-ml-L1116227-S1">
         <Definition></Definition>
       </Sense>
@@ -1199,13 +1199,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L578371">
-      <Lemma writtenForm="നിന്ന്" partOfSpeech="x"/>
+      <Lemma writtenForm="നിന്ന്" partOfSpeech="p"/>
       <Sense id="L578371-S1" synset="wikidata-ml-L578371-S1" ili="wikidata-ml-L578371-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L578411">
-      <Lemma writtenForm="തൊട്ട്" partOfSpeech="x"/>
+      <Lemma writtenForm="തൊട്ട്" partOfSpeech="p"/>
       <Sense id="L578411-S1" synset="wikidata-ml-L578411-S1" ili="wikidata-ml-L578411-S1">
         <Definition></Definition>
       </Sense>
@@ -1323,7 +1323,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689694">
-      <Lemma writtenForm="അരികിൽ" partOfSpeech="x"/>
+      <Lemma writtenForm="അരികിൽ" partOfSpeech="p"/>
       <Sense id="L689694-S1" synset="wikidata-ml-L689694-S1" ili="wikidata-ml-L689694-S1">
         <Definition></Definition>
       </Sense>
@@ -1332,7 +1332,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1117766">
-      <Lemma writtenForm="പുറത്ത്" partOfSpeech="x"/>
+      <Lemma writtenForm="പുറത്ത്" partOfSpeech="p"/>
       <Sense id="L1117766-S1" synset="wikidata-ml-L1117766-S1" ili="l4155-s1">
         <Definition></Definition>
       </Sense>
@@ -1427,7 +1427,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L580012">
-      <Lemma writtenForm="പോലെ" partOfSpeech="x"/>
+      <Lemma writtenForm="പോലെ" partOfSpeech="p"/>
       <Sense id="L580012-S1" synset="wikidata-ml-L580012-S1" ili="l45034-s1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-ml-L591276-S1"/>
@@ -1451,14 +1451,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591276">
-      <Lemma writtenForm="കൂട്ട്" partOfSpeech="x"/>
+      <Lemma writtenForm="കൂട്ട്" partOfSpeech="p"/>
       <Sense id="L591276-S1" synset="wikidata-ml-L591276-S1" ili="l45034-s1">
         <Definition>പോലെ, മാതിരി</Definition>
         <SenseRelation relType="similar" target="wikidata-ml-L580012-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591277">
-      <Lemma writtenForm="മാതിരി" partOfSpeech="x"/>
+      <Lemma writtenForm="മാതിരി" partOfSpeech="p"/>
       <Sense id="L591277-S1" synset="wikidata-ml-L591277-S1" ili="wikidata-ml-L591277-S1">
         <Definition>പോലെ</Definition>
       </Sense>
@@ -1476,7 +1476,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L673509">
-      <Lemma writtenForm="അടുത്ത" partOfSpeech="x"/>
+      <Lemma writtenForm="അടുത്ത" partOfSpeech="p"/>
       <Sense id="L673509-S1" synset="wikidata-ml-L673509-S1" ili="wikidata-ml-L673509-S1">
         <Definition></Definition>
       </Sense>
@@ -1527,7 +1527,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L688238">
-      <Lemma writtenForm="സമീപത്തെ" partOfSpeech="x"/>
+      <Lemma writtenForm="സമീപത്തെ" partOfSpeech="p"/>
       <Sense id="L688238-S1" synset="wikidata-ml-L688238-S1" ili="wikidata-ml-L688238-S1">
         <Definition></Definition>
       </Sense>
@@ -1574,7 +1574,7 @@
     <Synset id="wikidata-ml-L562660-S1" ili="wikidata-ml-L562660-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L578410-S1" ili="wikidata-ml-L578410-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L578410-S1" ili="wikidata-ml-L578410-S1" partOfSpeech="p">
       <Definition>തൊട്ട്, തുടങ്ങി</Definition>
     </Synset>
     <Synset id="wikidata-ml-L579655-S1" ili="wikidata-ml-L579655-S1" partOfSpeech="y">
@@ -1664,10 +1664,10 @@
     <Synset id="wikidata-ml-L578461-S1" ili="wikidata-ml-L578461-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L579696-S1" ili="wikidata-ml-L579696-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L579696-S1" ili="wikidata-ml-L579696-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L580439-S1" ili="wikidata-ml-L580439-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L580439-S1" ili="wikidata-ml-L580439-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L580441-S1" ili="wikidata-ml-L580441-S1" partOfSpeech="y">
@@ -1706,10 +1706,10 @@
     <Synset id="wikidata-ml-L679186-S1" ili="wikidata-ml-L679186-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L687130-S1" ili="wikidata-ml-L687130-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L687130-S1" ili="wikidata-ml-L687130-S1" partOfSpeech="p">
       <Definition>വിമുക്ത</Definition>
     </Synset>
-    <Synset id="wikidata-ml-L687130-S2" ili="wikidata-ml-L687130-S2" partOfSpeech="x">
+    <Synset id="wikidata-ml-L687130-S2" ili="wikidata-ml-L687130-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L689505-S1" ili="wikidata-ml-L689505-S1" partOfSpeech="d">
@@ -1745,7 +1745,7 @@
     <Synset id="wikidata-ml-L527810-S1" ili="wikidata-ml-L527810-S1" partOfSpeech="h">
       <Definition>ആ ആൾ, ആ മനുഷ്യൻ</Definition>
     </Synset>
-    <Synset id="wikidata-ml-L529529-S1" ili="wikidata-ml-L529529-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L529529-S1" ili="wikidata-ml-L529529-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L562659-S1" ili="wikidata-ml-L562659-S1" partOfSpeech="d">
@@ -1769,7 +1769,7 @@
     <Synset id="wikidata-ml-L579688-S1" ili="wikidata-ml-L579688-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L579697-S1" ili="wikidata-ml-L579697-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L579697-S1" ili="wikidata-ml-L579697-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L580204-S1" ili="wikidata-ml-L580204-S1" partOfSpeech="m">
@@ -1958,10 +1958,10 @@
     <Synset id="wikidata-ml-L579654-S1" ili="wikidata-ml-L579654-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L579693-S1" ili="wikidata-ml-L579693-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L579693-S1" ili="wikidata-ml-L579693-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L580920-S1" ili="wikidata-ml-L580920-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L580920-S1" ili="wikidata-ml-L580920-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L583888-S1" ili="wikidata-ml-L583888-S1" partOfSpeech="d">
@@ -1991,10 +1991,10 @@
     <Synset id="wikidata-ml-L679169-S1" ili="wikidata-ml-L679169-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L1116228-S1" ili="wikidata-ml-L1116228-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L1116228-S1" ili="wikidata-ml-L1116228-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L1130641-S1" ili="wikidata-ml-L1130641-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L1130641-S1" ili="wikidata-ml-L1130641-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L2400-S1" ili="wikidata-ml-L2400-S1" partOfSpeech="m">
@@ -2102,10 +2102,10 @@
     <Synset id="wikidata-ml-L679199-S1" ili="wikidata-ml-L679199-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L687132-S1" ili="wikidata-ml-L687132-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L687132-S1" ili="wikidata-ml-L687132-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L1116227-S1" ili="wikidata-ml-L1116227-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L1116227-S1" ili="wikidata-ml-L1116227-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L1132045-S1" ili="wikidata-ml-L1132045-S1" partOfSpeech="p">
@@ -2138,10 +2138,10 @@
     <Synset id="wikidata-ml-L467066-S1" ili="wikidata-ml-L467066-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L578371-S1" ili="wikidata-ml-L578371-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L578371-S1" ili="wikidata-ml-L578371-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L578411-S1" ili="wikidata-ml-L578411-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L578411-S1" ili="wikidata-ml-L578411-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L579705-S1" ili="l310592-s1" partOfSpeech="i">
@@ -2201,13 +2201,13 @@
     <Synset id="wikidata-ml-L679197-S1" ili="wikidata-ml-L679197-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L689694-S1" ili="wikidata-ml-L689694-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L689694-S1" ili="wikidata-ml-L689694-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L689694-S2" ili="wikidata-ml-L689694-S2" partOfSpeech="x">
+    <Synset id="wikidata-ml-L689694-S2" ili="wikidata-ml-L689694-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L1117766-S1" ili="l4155-s1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L1117766-S1" ili="l4155-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L2402-S1" ili="wikidata-ml-L2402-S1" partOfSpeech="m">
@@ -2255,7 +2255,7 @@
     <Synset id="wikidata-ml-L579725-S1" ili="wikidata-ml-L579725-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L580012-S1" ili="l45034-s1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L580012-S1" ili="l45034-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L583890-S1" ili="wikidata-ml-L583890-S1" partOfSpeech="d">
@@ -2267,10 +2267,10 @@
     <Synset id="wikidata-ml-L583896-S1" ili="wikidata-ml-L583896-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L591276-S1" ili="l45034-s1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L591276-S1" ili="l45034-s1" partOfSpeech="p">
       <Definition>പോലെ, മാതിരി</Definition>
     </Synset>
-    <Synset id="wikidata-ml-L591277-S1" ili="wikidata-ml-L591277-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L591277-S1" ili="wikidata-ml-L591277-S1" partOfSpeech="p">
       <Definition>പോലെ</Definition>
     </Synset>
     <Synset id="wikidata-ml-L592035-S1" ili="wikidata-ml-L592035-S1" partOfSpeech="d">
@@ -2279,10 +2279,10 @@
     <Synset id="wikidata-ml-L611808-S1" ili="wikidata-ml-L611808-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L673509-S1" ili="wikidata-ml-L673509-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L673509-S1" ili="wikidata-ml-L673509-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L673509-S2" ili="wikidata-ml-L673509-S2" partOfSpeech="x">
+    <Synset id="wikidata-ml-L673509-S2" ili="wikidata-ml-L673509-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L673512-S1" ili="wikidata-ml-L673512-S1" partOfSpeech="y">
@@ -2306,7 +2306,7 @@
     <Synset id="wikidata-ml-L679182-S1" ili="wikidata-ml-L679182-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ml-L688238-S1" ili="wikidata-ml-L688238-S1" partOfSpeech="x">
+    <Synset id="wikidata-ml-L688238-S1" ili="wikidata-ml-L688238-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ml-L1132046-S1" ili="wikidata-ml-L1132046-S1" partOfSpeech="p">

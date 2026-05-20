@@ -113,7 +113,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739937">
-      <Lemma writtenForm="-s-" partOfSpeech="x"/>
+      <Lemma writtenForm="-s-" partOfSpeech="y"/>
       <Sense id="L739937-S1" synset="wikidata-nn-L739937-S1" ili="wikidata-nn-L739937-S1">
         <Definition></Definition>
       </Sense>
@@ -125,7 +125,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740636">
-      <Lemma writtenForm="enn" partOfSpeech="x"/>
+      <Lemma writtenForm="enn" partOfSpeech="c"/>
       <Sense id="L740636-S1" synset="wikidata-nn-L740636-S1" ili="wikidata-nn-L740636-S1">
         <Definition></Definition>
       </Sense>
@@ -165,7 +165,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743827">
-      <Lemma writtenForm="for di" partOfSpeech="x"/>
+      <Lemma writtenForm="for di" partOfSpeech="c"/>
       <Sense id="L743827-S1" synset="wikidata-nn-L743827-S1" ili="wikidata-nn-L743827-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743826-S1"/>
@@ -181,7 +181,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L749260">
-      <Lemma writtenForm="som" partOfSpeech="x"/>
+      <Lemma writtenForm="som" partOfSpeech="c"/>
       <Sense id="L749260-S1" synset="wikidata-nn-L749260-S1" ili="wikidata-nn-L749260-S1">
         <Definition></Definition>
       </Sense>
@@ -337,7 +337,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L3031">
-      <Lemma writtenForm="om" partOfSpeech="x"/>
+      <Lemma writtenForm="om" partOfSpeech="c"/>
       <Sense id="L3031-S1" synset="wikidata-nn-L3031-S1" ili="wikidata-nn-L3031-S1">
         <Definition></Definition>
       </Sense>
@@ -403,14 +403,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743602">
-      <Lemma writtenForm="viss" partOfSpeech="x"/>
+      <Lemma writtenForm="viss" partOfSpeech="c"/>
       <Sense id="L743602-S1" synset="wikidata-nn-L743602-S1" ili="wikidata-nn-L743602-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L742067-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743826">
-      <Lemma writtenForm="fordi" partOfSpeech="x"/>
+      <Lemma writtenForm="fordi" partOfSpeech="c"/>
       <Sense id="L743826-S1" synset="wikidata-nn-L743826-S1" ili="wikidata-nn-L743826-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743827-S1"/>
@@ -743,7 +743,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L796603">
-      <Lemma writtenForm="minders" partOfSpeech="x"/>
+      <Lemma writtenForm="minders" partOfSpeech="c"/>
       <Sense id="L796603-S1" synset="wikidata-nn-L796603-S1" ili="wikidata-nn-L796603-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L38009-S1"/>
@@ -928,7 +928,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L991">
-      <Lemma writtenForm="medan" partOfSpeech="x"/>
+      <Lemma writtenForm="medan" partOfSpeech="c"/>
       <Sense id="L991-S1" synset="wikidata-nn-L991-S1" ili="wikidata-nn-L991-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743541-S1"/>
@@ -971,7 +971,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9787">
-      <Lemma writtenForm="å" partOfSpeech="x"/>
+      <Lemma writtenForm="å" partOfSpeech="c"/>
       <Sense id="L9787-S1" synset="wikidata-nn-L9787-S1" ili="wikidata-nn-L9787-S1">
         <Definition></Definition>
       </Sense>
@@ -1346,7 +1346,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141681">
-      <Lemma writtenForm="då" partOfSpeech="x"/>
+      <Lemma writtenForm="då" partOfSpeech="c"/>
       <Sense id="L1141681-S1" synset="wikidata-nn-L1141681-S1" ili="wikidata-nn-L1141681-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141680-S1"/>
@@ -1393,7 +1393,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1318225">
-      <Lemma writtenForm="ettersom" partOfSpeech="x"/>
+      <Lemma writtenForm="ettersom" partOfSpeech="c"/>
       <Sense id="L1318225-S1" synset="wikidata-nn-L1318225-S1" ili="wikidata-nn-L1318225-S1">
         <Definition></Definition>
       </Sense>
@@ -1526,7 +1526,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740629">
-      <Lemma writtenForm="di" partOfSpeech="x"/>
+      <Lemma writtenForm="di" partOfSpeech="c"/>
       <Sense id="L740629-S1" synset="wikidata-nn-L740629-S1" ili="wikidata-nn-L740629-S1">
         <Definition></Definition>
       </Sense>
@@ -1545,7 +1545,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742067">
-      <Lemma writtenForm="dersom" partOfSpeech="x"/>
+      <Lemma writtenForm="dersom" partOfSpeech="c"/>
       <Sense id="L742067-S1" synset="wikidata-nn-L742067-S1" ili="wikidata-nn-L742067-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743602-S1"/>
@@ -1770,7 +1770,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L38009">
-      <Lemma writtenForm="minder" partOfSpeech="x"/>
+      <Lemma writtenForm="minder" partOfSpeech="c"/>
       <Sense id="L38009-S1" synset="wikidata-nn-L38009-S1" ili="wikidata-nn-L38009-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L796603-S1"/>
@@ -1789,7 +1789,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740635">
-      <Lemma writtenForm="enn" partOfSpeech="x"/>
+      <Lemma writtenForm="enn" partOfSpeech="c"/>
       <Sense id="L740635-S1" synset="wikidata-nn-L740635-S1" ili="wikidata-nn-L740635-S1">
         <Definition></Definition>
       </Sense>
@@ -1835,7 +1835,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743541">
-      <Lemma writtenForm="med" partOfSpeech="x"/>
+      <Lemma writtenForm="med" partOfSpeech="c"/>
       <Sense id="L743541-S1" synset="wikidata-nn-L743541-S1" ili="wikidata-nn-L743541-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L991-S1"/>
@@ -2009,7 +2009,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20113">
-      <Lemma writtenForm="innan" partOfSpeech="x"/>
+      <Lemma writtenForm="innan" partOfSpeech="c"/>
       <Sense id="L20113-S1" synset="wikidata-nn-L20113-S1" ili="wikidata-nn-L20113-S1">
         <Definition></Definition>
       </Sense>
@@ -2035,7 +2035,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740553">
-      <Lemma writtenForm="at" partOfSpeech="x"/>
+      <Lemma writtenForm="at" partOfSpeech="c"/>
       <Sense id="L740553-S1" synset="wikidata-nn-L740553-S1" ili="wikidata-nn-L740553-S1">
         <Definition></Definition>
       </Sense>
@@ -2201,7 +2201,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141680">
-      <Lemma writtenForm="da" partOfSpeech="x"/>
+      <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L1141680-S1" synset="wikidata-nn-L1141680-S1" ili="wikidata-nn-L1141680-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141681-S1"/>
@@ -2303,13 +2303,13 @@
     <Synset id="wikidata-nn-L38299-S1" ili="wikidata-nn-L38299-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L739937-S1" ili="wikidata-nn-L739937-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L739937-S1" ili="wikidata-nn-L739937-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L740596-S1" ili="wikidata-nn-L740596-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L740636-S1" ili="wikidata-nn-L740636-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L740636-S1" ili="wikidata-nn-L740636-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L740728-S1" ili="wikidata-nn-L740728-S1" partOfSpeech="p">
@@ -2327,7 +2327,7 @@
     <Synset id="wikidata-nn-L743408-S1" ili="wikidata-nn-L743408-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L743827-S1" ili="wikidata-nn-L743827-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L743827-S1" ili="wikidata-nn-L743827-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L747908-S1" ili="wikidata-nn-L747908-S1" partOfSpeech="p">
@@ -2336,10 +2336,10 @@
     <Synset id="wikidata-nn-L747908-S2" ili="wikidata-nn-L747908-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L749260-S1" ili="wikidata-nn-L749260-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L749260-S1" ili="wikidata-nn-L749260-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L749260-S2" ili="wikidata-nn-L749260-S2" partOfSpeech="x">
+    <Synset id="wikidata-nn-L749260-S2" ili="wikidata-nn-L749260-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L846078-S1" ili="wikidata-nn-L846078-S1" partOfSpeech="i">
@@ -2417,7 +2417,7 @@
     <Synset id="wikidata-nn-L3023-S1" ili="wikidata-nn-L3023-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L3031-S1" ili="wikidata-nn-L3031-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L3031-S1" ili="wikidata-nn-L3031-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L9798-S1" ili="wikidata-nn-L9798-S1" partOfSpeech="p">
@@ -2456,10 +2456,10 @@
     <Synset id="wikidata-nn-L742299-S5" ili="wikidata-nn-L742299-S5" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L743602-S1" ili="wikidata-nn-L743602-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L743602-S1" ili="wikidata-nn-L743602-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L743826-S1" ili="wikidata-nn-L743826-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L743826-S1" ili="wikidata-nn-L743826-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L747600-S1" ili="wikidata-nn-L747600-S1" partOfSpeech="p">
@@ -2630,7 +2630,7 @@
     <Synset id="wikidata-nn-L748078-S1" ili="wikidata-nn-L748078-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L796603-S1" ili="wikidata-nn-L796603-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L796603-S1" ili="wikidata-nn-L796603-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L908108-S1" ili="wikidata-nn-L908108-S1" partOfSpeech="i">
@@ -2723,7 +2723,7 @@
     <Synset id="wikidata-nn-L1474496-S1" ili="wikidata-nn-L1474496-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L991-S1" ili="wikidata-nn-L991-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L991-S1" ili="wikidata-nn-L991-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000-S1" ili="wikidata-nn-L1000-S1" partOfSpeech="h">
@@ -2744,7 +2744,7 @@
     <Synset id="wikidata-nn-L5470-S1" ili="wikidata-nn-L5470-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L9787-S1" ili="wikidata-nn-L9787-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L9787-S1" ili="wikidata-nn-L9787-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L9799-S1" ili="wikidata-nn-L9799-S1" partOfSpeech="p">
@@ -2966,10 +2966,10 @@
     <Synset id="wikidata-nn-L1088955-S1" ili="wikidata-nn-L1088955-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L1141681-S1" ili="wikidata-nn-L1141681-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L1141681-S1" ili="wikidata-nn-L1141681-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L1141681-S2" ili="wikidata-nn-L1141681-S2" partOfSpeech="x">
+    <Synset id="wikidata-nn-L1141681-S2" ili="wikidata-nn-L1141681-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L1223359-S1" ili="wikidata-nn-L1223359-S1" partOfSpeech="i">
@@ -2987,7 +2987,7 @@
     <Synset id="wikidata-nn-L1316231-S1" ili="wikidata-nn-L1316231-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L1318225-S1" ili="wikidata-nn-L1318225-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L1318225-S1" ili="wikidata-nn-L1318225-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L854-S1" ili="wikidata-nn-L854-S1" partOfSpeech="h">
@@ -3065,7 +3065,7 @@
     <Synset id="wikidata-nn-L740584-S1" ili="wikidata-nn-L740584-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L740629-S1" ili="wikidata-nn-L740629-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L740629-S1" ili="wikidata-nn-L740629-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L740650-S1" ili="wikidata-nn-L740650-S1" partOfSpeech="d">
@@ -3074,7 +3074,7 @@
     <Synset id="wikidata-nn-L741265-S1" ili="wikidata-nn-L741265-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L742067-S1" ili="wikidata-nn-L742067-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L742067-S1" ili="wikidata-nn-L742067-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L747663-S1" ili="wikidata-nn-L747663-S1" partOfSpeech="p">
@@ -3194,7 +3194,7 @@
     <Synset id="wikidata-nn-L20106-S2" ili="wikidata-nn-L20106-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L38009-S1" ili="wikidata-nn-L38009-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L38009-S1" ili="wikidata-nn-L38009-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L70001-S1" ili="wikidata-nn-L70001-S1" partOfSpeech="m">
@@ -3203,10 +3203,10 @@
     <Synset id="wikidata-nn-L740590-S1" ili="wikidata-nn-L740590-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L740635-S1" ili="wikidata-nn-L740635-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L740635-S1" ili="wikidata-nn-L740635-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L740635-S2" ili="wikidata-nn-L740635-S2" partOfSpeech="x">
+    <Synset id="wikidata-nn-L740635-S2" ili="wikidata-nn-L740635-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L740647-S1" ili="wikidata-nn-L740647-S1" partOfSpeech="h">
@@ -3230,7 +3230,7 @@
     <Synset id="wikidata-nn-L743409-S1" ili="wikidata-nn-L743409-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L743541-S1" ili="wikidata-nn-L743541-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L743541-S1" ili="wikidata-nn-L743541-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L743971-S1" ili="wikidata-nn-L743971-S1" partOfSpeech="d">
@@ -3311,7 +3311,7 @@
     <Synset id="wikidata-nn-L10185-S1" ili="wikidata-nn-L10185-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L20113-S1" ili="wikidata-nn-L20113-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L20113-S1" ili="wikidata-nn-L20113-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L20204-S1" ili="wikidata-nn-L20204-S1" partOfSpeech="h">
@@ -3323,7 +3323,7 @@
     <Synset id="wikidata-nn-L739902-S1" ili="wikidata-nn-L739902-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L740553-S1" ili="wikidata-nn-L740553-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L740553-S1" ili="wikidata-nn-L740553-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L740606-S1" ili="wikidata-nn-L740606-S1" partOfSpeech="i">
@@ -3407,10 +3407,10 @@
     <Synset id="wikidata-nn-L1131220-S1" ili="wikidata-nn-L1131220-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L1141680-S1" ili="wikidata-nn-L1141680-S1" partOfSpeech="x">
+    <Synset id="wikidata-nn-L1141680-S1" ili="wikidata-nn-L1141680-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nn-L1141680-S2" ili="wikidata-nn-L1141680-S2" partOfSpeech="x">
+    <Synset id="wikidata-nn-L1141680-S2" ili="wikidata-nn-L1141680-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-nn-L1224364-S1" ili="wikidata-nn-L1224364-S1" partOfSpeech="i">

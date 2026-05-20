@@ -242,7 +242,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640470">
-      <Lemma writtenForm="gel" partOfSpeech="x"/>
+      <Lemma writtenForm="gel" partOfSpeech="n"/>
       <Sense id="L640470-S1" synset="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1">
         <Definition>materiale colloidale bifasico elastico, costituito da un liquido disperso e inglobato nella fase solida</Definition>
       </Sense>
@@ -389,7 +389,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1255652">
-      <Lemma writtenForm="certo" partOfSpeech="x"/>
+      <Lemma writtenForm="certo" partOfSpeech="a"/>
       <Sense id="L1255652-S1" synset="wikidata-it-L1255652-S1" ili="wikidata-it-L1255652-S1">
         <Definition>indica qualità o quantità indeterminata</Definition>
       </Sense>
@@ -612,7 +612,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1475713">
-      <Lemma writtenForm="mate" partOfSpeech="x"/>
+      <Lemma writtenForm="mate" partOfSpeech="n"/>
       <Sense id="L1475713-S1" synset="wikidata-it-L1475713-S1" ili="wikidata-it-L1475713-S1">
         <Definition>bevanda usata in Sud America, ricavata dall&apos;omonima pianta della famiglia delle Aquifogliacee</Definition>
       </Sense>
@@ -851,7 +851,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35592">
-      <Lemma writtenForm="secondo" partOfSpeech="x"/>
+      <Lemma writtenForm="secondo" partOfSpeech="a"/>
       <Sense id="L35592-S1" synset="wikidata-it-L35592-S1" ili="wikidata-it-L35592-S1">
         <Definition>numero ordinale preceduto dal primo e seguito dal terzo</Definition>
       </Sense>
@@ -1331,13 +1331,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640787">
-      <Lemma writtenForm="polo" partOfSpeech="x"/>
+      <Lemma writtenForm="polo" partOfSpeech="n"/>
       <Sense id="L640787-S1" synset="wikidata-it-L640787-S1" ili="wikidata-it-L640787-S1">
         <Definition>sport a cui partecipano due squadre, composte da quattro fantini, che tentano di spedire nella porta avversa una palla dura di legno o di gomma dura battendola con una mazza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640791">
-      <Lemma writtenForm="polo" partOfSpeech="x"/>
+      <Lemma writtenForm="polo" partOfSpeech="n"/>
       <Sense id="L640791-S1" synset="wikidata-it-L640791-S1" ili="wikidata-it-L640791-S1">
         <Definition>maglia con colletto e bottoni</Definition>
       </Sense>
@@ -1379,7 +1379,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1199699">
-      <Lemma writtenForm="altro" partOfSpeech="x"/>
+      <Lemma writtenForm="altro" partOfSpeech="a"/>
       <Sense id="L1199699-S1" synset="wikidata-it-L1199699-S1" ili="wikidata-it-L1199699-S1">
         <Definition>differente, diverso</Definition>
       </Sense>
@@ -1442,7 +1442,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1232495">
-      <Lemma writtenForm="ogni" partOfSpeech="x"/>
+      <Lemma writtenForm="ogni" partOfSpeech="a"/>
       <Sense id="L1232495-S1" synset="wikidata-it-L1232495-S1" ili="wikidata-it-L1232495-S1">
         <Definition>tutte le volte</Definition>
       </Sense>
@@ -1800,10 +1800,10 @@
     <Synset id="wikidata-it-L640216-S2" ili="wikidata-it-L640216-S2" partOfSpeech="r">
       <Definition>Separato da un gruppo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1" partOfSpeech="n">
       <Definition>materiale colloidale bifasico elastico, costituito da un liquido disperso e inglobato nella fase solida</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640470-S2" ili="wikidata-it-L640470-S2" partOfSpeech="x">
+    <Synset id="wikidata-it-L640470-S2" ili="wikidata-it-L640470-S2" partOfSpeech="n">
       <Definition>medicina o cosmetico in forma di sostanza colloidale</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165787-S1" ili="wikidata-it-L1165787-S1" partOfSpeech="i">
@@ -1875,7 +1875,7 @@
     <Synset id="wikidata-it-L1201960-S1" ili="wikidata-it-L1201960-S1" partOfSpeech="m">
       <Definition>300000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1255652-S1" ili="wikidata-it-L1255652-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L1255652-S1" ili="wikidata-it-L1255652-S1" partOfSpeech="a">
       <Definition>indica qualità o quantità indeterminata</Definition>
     </Synset>
     <Synset id="wikidata-it-L1255655-S1" ili="wikidata-it-L1255655-S1" partOfSpeech="h">
@@ -1989,7 +1989,7 @@
     <Synset id="wikidata-it-L1413650-S1" ili="wikidata-it-L1413650-S1" partOfSpeech="i">
       <Definition>alla salute, alla tua</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1475713-S1" ili="wikidata-it-L1475713-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L1475713-S1" ili="wikidata-it-L1475713-S1" partOfSpeech="n">
       <Definition>bevanda usata in Sud America, ricavata dall&apos;omonima pianta della famiglia delle Aquifogliacee</Definition>
     </Synset>
     <Synset id="wikidata-it-L5154-S1" ili="l327-s1" partOfSpeech="m">
@@ -2109,7 +2109,7 @@
     <Synset id="wikidata-it-L7409-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>in mezzo a</Definition>
     </Synset>
-    <Synset id="wikidata-it-L35592-S1" ili="wikidata-it-L35592-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L35592-S1" ili="wikidata-it-L35592-S1" partOfSpeech="a">
       <Definition>numero ordinale preceduto dal primo e seguito dal terzo</Definition>
     </Synset>
     <Synset id="wikidata-it-L1145114-S1" ili="wikidata-it-L1145114-S1" partOfSpeech="m">
@@ -2355,10 +2355,10 @@
     <Synset id="wikidata-it-L640249-S1" ili="wikidata-it-L640249-S1" partOfSpeech="i">
       <Definition>esortazione a prestare attenzione a qualcosa</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640787-S1" ili="wikidata-it-L640787-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L640787-S1" ili="wikidata-it-L640787-S1" partOfSpeech="n">
       <Definition>sport a cui partecipano due squadre, composte da quattro fantini, che tentano di spedire nella porta avversa una palla dura di legno o di gomma dura battendola con una mazza</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640791-S1" ili="wikidata-it-L640791-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L640791-S1" ili="wikidata-it-L640791-S1" partOfSpeech="n">
       <Definition>maglia con colletto e bottoni</Definition>
     </Synset>
     <Synset id="wikidata-it-L643345-S1" ili="wikidata-it-L643345-S1" partOfSpeech="h">
@@ -2379,7 +2379,7 @@
     <Synset id="wikidata-it-L1165903-S1" ili="wikidata-it-L1165903-S1" partOfSpeech="c">
       <Definition>dopo che, allorché</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1199699-S1" ili="wikidata-it-L1199699-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L1199699-S1" ili="wikidata-it-L1199699-S1" partOfSpeech="a">
       <Definition>differente, diverso</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201769-S1" ili="wikidata-it-L1201769-S1" partOfSpeech="m">
@@ -2412,7 +2412,7 @@
     <Synset id="wikidata-it-L1201882-S1" ili="wikidata-it-L1201882-S1" partOfSpeech="m">
       <Definition>73</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1232495-S1" ili="wikidata-it-L1232495-S1" partOfSpeech="x">
+    <Synset id="wikidata-it-L1232495-S1" ili="wikidata-it-L1232495-S1" partOfSpeech="a">
       <Definition>tutte le volte</Definition>
     </Synset>
     <Synset id="wikidata-it-L1413166-S1" ili="wikidata-it-L1413166-S1" partOfSpeech="i">

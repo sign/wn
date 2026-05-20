@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-fj" version="1.4"/>
     <LexicalEntry id="L1407956">
-      <Lemma writtenForm="Suva" partOfSpeech="x"/>
+      <Lemma writtenForm="Suva" partOfSpeech="n"/>
       <Sense id="L1407956-S1" synset="wikidata-fj-L1407956-S1" ili="wikidata-fj-L1407956-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-fj-L1407956-S1" ili="wikidata-fj-L1407956-S1" partOfSpeech="x">
+    <Synset id="wikidata-fj-L1407956-S1" ili="wikidata-fj-L1407956-S1" partOfSpeech="n">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

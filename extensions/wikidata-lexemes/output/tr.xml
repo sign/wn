@@ -16,7 +16,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L999115">
-      <Lemma writtenForm="ya" partOfSpeech="x"/>
+      <Lemma writtenForm="ya" partOfSpeech="v"/>
       <Sense id="L999115-S1" synset="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1">
         <Definition></Definition>
       </Sense>
@@ -35,7 +35,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217412">
-      <Lemma writtenForm="gayrı" partOfSpeech="x"/>
+      <Lemma writtenForm="gayrı" partOfSpeech="p"/>
       <Sense id="L1217412-S1" synset="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1">
         <Definition></Definition>
       </Sense>
@@ -47,7 +47,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1523103">
-      <Lemma writtenForm="-yı" partOfSpeech="x"/>
+      <Lemma writtenForm="-yı" partOfSpeech="p"/>
       <Sense id="L1523103-S1" synset="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1">
         <Definition></Definition>
       </Sense>
@@ -86,7 +86,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1159029">
-      <Lemma writtenForm="gibi" partOfSpeech="x"/>
+      <Lemma writtenForm="gibi" partOfSpeech="p"/>
       <Sense id="L1159029-S1" synset="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1">
         <Definition></Definition>
       </Sense>
@@ -110,7 +110,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215983">
-      <Lemma writtenForm="doğru" partOfSpeech="x"/>
+      <Lemma writtenForm="doğru" partOfSpeech="p"/>
       <Sense id="L1215983-S1" synset="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1">
         <Definition></Definition>
       </Sense>
@@ -142,7 +142,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407235">
-      <Lemma writtenForm="hakkında" partOfSpeech="x"/>
+      <Lemma writtenForm="hakkında" partOfSpeech="p"/>
       <Sense id="L1407235-S1" synset="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1">
         <Definition></Definition>
       </Sense>
@@ -160,7 +160,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1010942">
-      <Lemma writtenForm="bu" partOfSpeech="x"/>
+      <Lemma writtenForm="bu" partOfSpeech="a"/>
       <Sense id="L1010942-S1" synset="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1">
         <Definition></Definition>
         <Example>Barbarlar hayvanı onun eline asılmış görünce, birbirlerine dediler: Her halde bu adam katildir; denizden kurtuldu ise de, Adalet onu yaşamağa bırakmadı.</Example>
@@ -191,7 +191,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217600">
-      <Lemma writtenForm="bile" partOfSpeech="x"/>
+      <Lemma writtenForm="bile" partOfSpeech="y"/>
       <Sense id="L1217600-S1" synset="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1">
         <Definition></Definition>
       </Sense>
@@ -262,7 +262,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1157495">
-      <Lemma writtenForm="da" partOfSpeech="x"/>
+      <Lemma writtenForm="da" partOfSpeech="y"/>
       <Sense id="L1157495-S1" synset="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1">
         <Definition></Definition>
       </Sense>
@@ -271,13 +271,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216111">
-      <Lemma writtenForm="beri" partOfSpeech="x"/>
+      <Lemma writtenForm="beri" partOfSpeech="p"/>
       <Sense id="L1216111-S1" synset="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217415">
-      <Lemma writtenForm="şu" partOfSpeech="x"/>
+      <Lemma writtenForm="şu" partOfSpeech="a"/>
       <Sense id="L1217415-S1" synset="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1">
         <Definition></Definition>
       </Sense>
@@ -307,7 +307,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408894">
-      <Lemma writtenForm="bre" partOfSpeech="x"/>
+      <Lemma writtenForm="bre" partOfSpeech="y"/>
       <Sense id="L1408894-S1" synset="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1">
         <Definition></Definition>
       </Sense>
@@ -319,7 +319,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1473695">
-      <Lemma writtenForm="kaçgöç" partOfSpeech="x"/>
+      <Lemma writtenForm="kaçgöç" partOfSpeech="n"/>
       <Sense id="L1473695-S1" synset="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1">
         <Definition></Definition>
       </Sense>
@@ -337,13 +337,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215964">
-      <Lemma writtenForm="dolayı" partOfSpeech="x"/>
+      <Lemma writtenForm="dolayı" partOfSpeech="p"/>
       <Sense id="L1215964-S1" synset="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215981">
-      <Lemma writtenForm="îtibâren" partOfSpeech="x"/>
+      <Lemma writtenForm="îtibâren" partOfSpeech="p"/>
       <Sense id="L1215981-S1" synset="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1">
         <Definition></Definition>
       </Sense>
@@ -387,7 +387,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1160515">
-      <Lemma writtenForm="kadar" partOfSpeech="x"/>
+      <Lemma writtenForm="kadar" partOfSpeech="p"/>
       <Sense id="L1160515-S1" synset="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1">
         <Definition></Definition>
       </Sense>
@@ -402,13 +402,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216112">
-      <Lemma writtenForm="rağmen" partOfSpeech="x"/>
+      <Lemma writtenForm="rağmen" partOfSpeech="p"/>
       <Sense id="L1216112-S1" synset="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216113">
-      <Lemma writtenForm="karşın" partOfSpeech="x"/>
+      <Lemma writtenForm="karşın" partOfSpeech="p"/>
       <Sense id="L1216113-S1" synset="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1">
         <Definition></Definition>
       </Sense>
@@ -420,7 +420,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217391">
-      <Lemma writtenForm="değin" partOfSpeech="x"/>
+      <Lemma writtenForm="değin" partOfSpeech="p"/>
       <Sense id="L1217391-S1" synset="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1">
         <Definition></Definition>
       </Sense>
@@ -432,7 +432,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235210">
-      <Lemma writtenForm="dır" partOfSpeech="x"/>
+      <Lemma writtenForm="dır" partOfSpeech="y"/>
       <Sense id="L1235210-S1" synset="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1">
         <Definition></Definition>
       </Sense>
@@ -450,7 +450,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1529750">
-      <Lemma writtenForm="ait" partOfSpeech="x"/>
+      <Lemma writtenForm="ait" partOfSpeech="p"/>
       <Sense id="L1529750-S1" synset="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1">
         <Definition>ilişkin, değgin</Definition>
         <Example>Zihnimden Afganistan’a âit bütün mâlûmâtımı geçirmekteyim</Example>
@@ -471,7 +471,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1158884">
-      <Lemma writtenForm="için" partOfSpeech="x"/>
+      <Lemma writtenForm="için" partOfSpeech="p"/>
       <Sense id="L1158884-S1" synset="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1">
         <Definition></Definition>
       </Sense>
@@ -483,13 +483,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215252">
-      <Lemma writtenForm="göre" partOfSpeech="x"/>
+      <Lemma writtenForm="göre" partOfSpeech="p"/>
       <Sense id="L1215252-S1" synset="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217392">
-      <Lemma writtenForm="dek" partOfSpeech="x"/>
+      <Lemma writtenForm="dek" partOfSpeech="p"/>
       <Sense id="L1217392-S1" synset="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1">
         <Definition></Definition>
       </Sense>
@@ -537,13 +537,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215963">
-      <Lemma writtenForm="ötürü" partOfSpeech="x"/>
+      <Lemma writtenForm="ötürü" partOfSpeech="p"/>
       <Sense id="L1215963-S1" synset="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215980">
-      <Lemma writtenForm="evvel" partOfSpeech="x"/>
+      <Lemma writtenForm="evvel" partOfSpeech="p"/>
       <Sense id="L1215980-S1" synset="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1">
         <Definition></Definition>
       </Sense>
@@ -579,7 +579,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1524323">
-      <Lemma writtenForm="üzere" partOfSpeech="x"/>
+      <Lemma writtenForm="üzere" partOfSpeech="p"/>
       <Sense id="L1524323-S1" synset="wikidata-tr-L1524323-S1" ili="wikidata-tr-L1524323-S1">
         <Definition>niyet, gaye, amaç bildirir</Definition>
       </Sense>
@@ -602,7 +602,7 @@
     <Synset id="wikidata-tr-L294422-S1" ili="wikidata-tr-L294422-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1133346-S1" ili="wikidata-tr-L1133346-S1" partOfSpeech="c">
@@ -611,13 +611,13 @@
     <Synset id="wikidata-tr-L1217105-S1" ili="wikidata-tr-L1217105-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1371523-S1" ili="wikidata-tr-L1371523-S1" partOfSpeech="i">
       <Definition>öyle ise</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L685337-S1" ili="l327-s1" partOfSpeech="d">
@@ -641,7 +641,7 @@
     <Synset id="wikidata-tr-L1037022-S2" ili="wikidata-tr-L1037022-S2" partOfSpeech="h">
       <Definition>bilinmeyen bir kimse</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159152-S1" ili="wikidata-tr-L1159152-S1" partOfSpeech="r">
@@ -653,7 +653,7 @@
     <Synset id="wikidata-tr-L1161704-S1" ili="wikidata-tr-L1161704-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216856-S1" ili="wikidata-tr-L1216856-S1" partOfSpeech="d">
@@ -668,7 +668,7 @@
     <Synset id="wikidata-tr-L1258481-S1" ili="wikidata-tr-L1258481-S1" partOfSpeech="r">
       <Definition>öyle olmazsa</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1529700-S1" ili="wikidata-tr-L1529700-S1" partOfSpeech="i">
@@ -680,7 +680,7 @@
     <Synset id="wikidata-tr-L1529700-S3" ili="wikidata-tr-L1529700-S3" partOfSpeech="i">
       <Definition>peki, tamam; okey</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1122571-S1" ili="wikidata-tr-L1122571-S1" partOfSpeech="x">
@@ -695,7 +695,7 @@
     <Synset id="wikidata-tr-L1216610-S1" ili="wikidata-tr-L1216610-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1225986-S1" ili="wikidata-tr-L1225986-S1" partOfSpeech="p">
@@ -731,16 +731,16 @@
     <Synset id="wikidata-tr-L401355-S1" ili="wikidata-tr-L401355-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217601-S1" ili="wikidata-tr-L1217601-S1" partOfSpeech="c">
@@ -755,13 +755,13 @@
     <Synset id="wikidata-tr-L1258468-S1" ili="wikidata-tr-L1258468-S1" partOfSpeech="r">
       <Definition>bu durum karşısında</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1411281-S1" ili="wikidata-tr-L1411281-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1" partOfSpeech="n">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159027-S1" ili="wikidata-tr-L1159027-S1" partOfSpeech="h">
@@ -770,10 +770,10 @@
     <Synset id="wikidata-tr-L1160491-S1" ili="wikidata-tr-L1160491-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258465-S1" ili="wikidata-tr-L1258465-S1" partOfSpeech="d">
@@ -794,31 +794,31 @@
     <Synset id="wikidata-tr-L720969-S1" ili="wikidata-tr-L720969-S1" partOfSpeech="h">
       <Definition>Hangi kişi anlamında kullanılan söz</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215390-S1" ili="wikidata-tr-L1215390-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216611-S1" ili="wikidata-tr-L1216611-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217603-S1" ili="wikidata-tr-L1217603-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1236143-S1" ili="wikidata-tr-L1236143-S1" partOfSpeech="p">
@@ -827,7 +827,7 @@
     <Synset id="wikidata-tr-L1258473-S1" ili="wikidata-tr-L1258473-S1" partOfSpeech="r">
       <Definition>öyle olunca</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1" partOfSpeech="p">
       <Definition>ilişkin, değgin</Definition>
     </Synset>
     <Synset id="wikidata-tr-L294423-S1" ili="wikidata-tr-L294423-S1" partOfSpeech="h">
@@ -836,16 +836,16 @@
     <Synset id="wikidata-tr-L482677-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>kelimeleri ve cümleleri birleştirir</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159026-S1" ili="wikidata-tr-L1159026-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217413-S1" ili="wikidata-tr-L1217413-S1" partOfSpeech="d">
@@ -869,10 +869,10 @@
     <Synset id="wikidata-tr-L1159151-S1" ili="wikidata-tr-L1159151-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216607-S1" ili="wikidata-tr-L1216607-S1" partOfSpeech="d">
@@ -890,16 +890,16 @@
     <Synset id="wikidata-tr-L1524303-S1" ili="wikidata-tr-L1524303-S1" partOfSpeech="d">
       <Definition>oldukça çok, epeyce fazla, bir hayli</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1524323-S1" ili="wikidata-tr-L1524323-S1" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1524323-S1" ili="wikidata-tr-L1524323-S1" partOfSpeech="p">
       <Definition>niyet, gaye, amaç bildirir</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1524323-S2" ili="wikidata-tr-L1524323-S2" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1524323-S2" ili="wikidata-tr-L1524323-S2" partOfSpeech="p">
       <Definition>şart bildirir; şartıyle</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1524323-S3" ili="wikidata-tr-L1524323-S3" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1524323-S3" ili="wikidata-tr-L1524323-S3" partOfSpeech="p">
       <Definition>olmaya yaklaştığını bildirir</Definition>
     </Synset>
-    <Synset id="wikidata-tr-L1524323-S4" ili="wikidata-tr-L1524323-S4" partOfSpeech="x">
+    <Synset id="wikidata-tr-L1524323-S4" ili="wikidata-tr-L1524323-S4" partOfSpeech="p">
       <Definition>gibi, olduğu yolda, olduğu biçimde</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1529707-S1" ili="wikidata-tr-L1529707-S1" partOfSpeech="h">

@@ -33,7 +33,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L183954">
-      <Lemma writtenForm="заключённый" partOfSpeech="x"/>
+      <Lemma writtenForm="заключённый" partOfSpeech="v"/>
       <Sense id="L183954-S1" synset="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1">
         <Definition>помещённый внутрь</Definition>
       </Sense>
@@ -66,7 +66,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346749">
-      <Lemma writtenForm="зуб на зуб не попадает" partOfSpeech="x"/>
+      <Lemma writtenForm="зуб на зуб не попадает" partOfSpeech="t"/>
       <Sense id="L346749-S1" synset="wikidata-ru-L346749-S1" ili="wikidata-ru-L346749-S1">
         <Definition>холодно</Definition>
       </Sense>
@@ -124,7 +124,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470666">
-      <Lemma writtenForm="Тихий океан" partOfSpeech="x"/>
+      <Lemma writtenForm="Тихий океан" partOfSpeech="t"/>
       <Sense id="L470666-S1" synset="wikidata-ru-L470666-S1" ili="wikidata-ru-L470666-S1">
         <Definition>океан на Земле</Definition>
       </Sense>
@@ -196,7 +196,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625206">
-      <Lemma writtenForm="Новый год" partOfSpeech="x"/>
+      <Lemma writtenForm="Новый год" partOfSpeech="t"/>
       <Sense id="L625206-S1" synset="wikidata-ru-L625206-S1" ili="wikidata-ru-L625206-S1">
         <Definition>календарная дата - первая в году</Definition>
       </Sense>
@@ -223,7 +223,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337828">
-      <Lemma writtenForm="со" partOfSpeech="x"/>
+      <Lemma writtenForm="со" partOfSpeech="v"/>
       <Sense id="L1337828-S1" synset="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1">
         <Definition></Definition>
       </Sense>
@@ -235,7 +235,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1398984">
-      <Lemma writtenForm="рассказывая" partOfSpeech="x"/>
+      <Lemma writtenForm="рассказывая" partOfSpeech="v"/>
       <Sense id="L1398984-S1" synset="wikidata-ru-L1398984-S1" ili="wikidata-ru-L1398984-S1">
         <Definition>деепричастие от «рассказывать»</Definition>
       </Sense>
@@ -320,7 +320,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2122">
-      <Lemma writtenForm="делая" partOfSpeech="x"/>
+      <Lemma writtenForm="делая" partOfSpeech="v"/>
       <Sense id="L2122-S1" synset="wikidata-ru-L2122-S1" ili="wikidata-ru-L2122-S1">
         <Definition>сопутствующее действие</Definition>
       </Sense>
@@ -381,7 +381,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470667">
-      <Lemma writtenForm="Атлантический океан" partOfSpeech="x"/>
+      <Lemma writtenForm="Атлантический океан" partOfSpeech="t"/>
       <Sense id="L470667-S1" synset="wikidata-ru-L470667-S1" ili="wikidata-ru-L470667-S1">
         <Definition>океан на Земле</Definition>
       </Sense>
@@ -406,7 +406,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L582438">
-      <Lemma writtenForm="её" partOfSpeech="x"/>
+      <Lemma writtenForm="её" partOfSpeech="h"/>
       <Sense id="L582438-S1" synset="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1">
         <Definition>принадлежащий или относящийся к тому, что выражено третьим лицом женского рода</Definition>
       </Sense>
@@ -549,13 +549,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470729">
-      <Lemma writtenForm="инвазионный вид" partOfSpeech="x"/>
+      <Lemma writtenForm="инвазионный вид" partOfSpeech="t"/>
       <Sense id="L470729-S1" synset="wikidata-ru-L470729-S1" ili="wikidata-ru-L470729-S1">
         <Definition>новый вид на территории</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L528355">
-      <Lemma writtenForm="атас" partOfSpeech="x"/>
+      <Lemma writtenForm="атас" partOfSpeech="a"/>
       <Sense id="L528355-S1" synset="wikidata-ru-L528355-S1" ili="wikidata-ru-L528355-S1">
         <Definition>выражение одобрения</Definition>
       </Sense>
@@ -603,7 +603,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741202">
-      <Lemma writtenForm="против" partOfSpeech="x"/>
+      <Lemma writtenForm="против" partOfSpeech="a"/>
       <Sense id="L741202-S1" synset="wikidata-ru-L741202-S1" ili="wikidata-ru-L741202-S1">
         <Definition>выражение несогласия</Definition>
       </Sense>
@@ -765,25 +765,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L468160">
-      <Lemma writtenForm="брюшной тиф" partOfSpeech="x"/>
+      <Lemma writtenForm="брюшной тиф" partOfSpeech="t"/>
       <Sense id="L468160-S1" synset="wikidata-ru-L468160-S1" ili="wikidata-ru-L468160-S1">
         <Definition>болезнь</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470651">
-      <Lemma writtenForm="озоновая дыра" partOfSpeech="x"/>
+      <Lemma writtenForm="озоновая дыра" partOfSpeech="t"/>
       <Sense id="L470651-S1" synset="wikidata-ru-L470651-S1" ili="wikidata-ru-L470651-S1">
         <Definition>падение концентрации озона</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470663">
-      <Lemma writtenForm="солнечный ветер" partOfSpeech="x"/>
+      <Lemma writtenForm="солнечный ветер" partOfSpeech="t"/>
       <Sense id="L470663-S1" synset="wikidata-ru-L470663-S1" ili="wikidata-ru-L470663-S1">
         <Definition>поток заряженных частиц</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470717">
-      <Lemma writtenForm="солнечное пятно" partOfSpeech="x"/>
+      <Lemma writtenForm="солнечное пятно" partOfSpeech="t"/>
       <Sense id="L470717-S1" synset="wikidata-ru-L470717-S1" ili="wikidata-ru-L470717-S1">
         <Definition>тёмная область на Солнце</Definition>
       </Sense>
@@ -813,7 +813,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640808">
-      <Lemma writtenForm="маточное молочко" partOfSpeech="x"/>
+      <Lemma writtenForm="маточное молочко" partOfSpeech="t"/>
       <Sense id="L640808-S1" synset="wikidata-ru-L640808-S1" ili="wikidata-ru-L640808-S1">
         <Definition>продукт питания пчёл</Definition>
       </Sense>
@@ -858,7 +858,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419096">
-      <Lemma writtenForm="а" partOfSpeech="x"/>
+      <Lemma writtenForm="а" partOfSpeech="c"/>
       <Sense id="L1419096-S1" synset="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1">
         <Definition></Definition>
       </Sense>
@@ -888,7 +888,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1547808">
-      <Lemma writtenForm="можно" partOfSpeech="x"/>
+      <Lemma writtenForm="можно" partOfSpeech="a"/>
       <Sense id="L1547808-S1" synset="wikidata-ru-L1547808-S1" ili="wikidata-ru-L1547808-S1">
         <Definition>имеется возможность</Definition>
       </Sense>
@@ -917,7 +917,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2126">
-      <Lemma writtenForm="хорошо" partOfSpeech="x"/>
+      <Lemma writtenForm="хорошо" partOfSpeech="a"/>
       <Sense id="L2126-S1" synset="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1">
         <Definition>о чувстве удовлетворения, удовольствия, радости и т. п., испытываемом кем-либо</Definition>
       </Sense>
@@ -956,19 +956,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470652">
-      <Lemma writtenForm="озонная дыра" partOfSpeech="x"/>
+      <Lemma writtenForm="озонная дыра" partOfSpeech="t"/>
       <Sense id="L470652-S1" synset="wikidata-ru-L470652-S1" ili="wikidata-ru-L470652-S1">
         <Definition>падение концентрации озона</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470675">
-      <Lemma writtenForm="Индийский океан" partOfSpeech="x"/>
+      <Lemma writtenForm="Индийский океан" partOfSpeech="t"/>
       <Sense id="L470675-S1" synset="wikidata-ru-L470675-S1" ili="wikidata-ru-L470675-S1">
         <Definition>океан на Земле</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470735">
-      <Lemma writtenForm="парниковый газ" partOfSpeech="x"/>
+      <Lemma writtenForm="парниковый газ" partOfSpeech="t"/>
       <Sense id="L470735-S1" synset="wikidata-ru-L470735-S1" ili="wikidata-ru-L470735-S1">
         <Definition>газы, вызывающие парниковый эффект</Definition>
       </Sense>
@@ -980,7 +980,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L582524">
-      <Lemma writtenForm="они" partOfSpeech="x"/>
+      <Lemma writtenForm="они" partOfSpeech="h"/>
       <Sense id="L582524-S1" synset="wikidata-ru-L582524-S1" ili="wikidata-ru-L582524-S1">
         <Definition>указывает на (обычно ранее упомянутые) предметы (лица) во множественном числе, к которым говорящий не относит ни себя, ни адресатов высказывания</Definition>
       </Sense>
@@ -1209,19 +1209,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L468164">
-      <Lemma writtenForm="углекислый газ" partOfSpeech="x"/>
+      <Lemma writtenForm="углекислый газ" partOfSpeech="t"/>
       <Sense id="L468164-S1" synset="wikidata-ru-L468164-S1" ili="wikidata-ru-L468164-S1">
         <Definition>диоксид углерода</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470713">
-      <Lemma writtenForm="парниковый эффект" partOfSpeech="x"/>
+      <Lemma writtenForm="парниковый эффект" partOfSpeech="t"/>
       <Sense id="L470713-S1" synset="wikidata-ru-L470713-S1" ili="wikidata-ru-L470713-S1">
         <Definition>атмосферное явление</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470727">
-      <Lemma writtenForm="инвазивный вид" partOfSpeech="x"/>
+      <Lemma writtenForm="инвазивный вид" partOfSpeech="t"/>
       <Sense id="L470727-S1" synset="wikidata-ru-L470727-S1" ili="wikidata-ru-L470727-S1">
         <Definition>новый вид на территории</Definition>
       </Sense>
@@ -1373,13 +1373,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470665">
-      <Lemma writtenForm="Северный Ледовитый океан" partOfSpeech="x"/>
+      <Lemma writtenForm="Северный Ледовитый океан" partOfSpeech="t"/>
       <Sense id="L470665-S1" synset="wikidata-ru-L470665-S1" ili="wikidata-ru-L470665-S1">
         <Definition>океан на Земле</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470674">
-      <Lemma writtenForm="Южный океан" partOfSpeech="x"/>
+      <Lemma writtenForm="Южный океан" partOfSpeech="t"/>
       <Sense id="L470674-S1" synset="wikidata-ru-L470674-S1" ili="wikidata-ru-L470674-S1">
         <Definition>океан на Земле</Definition>
       </Sense>
@@ -1400,7 +1400,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L578639">
-      <Lemma writtenForm="весь" partOfSpeech="x"/>
+      <Lemma writtenForm="весь" partOfSpeech="r"/>
       <Sense id="L578639-S1" synset="wikidata-ru-L578639-S1" ili="wikidata-ru-L578639-S1">
         <Definition>целый, полный, без исключений</Definition>
       </Sense>
@@ -1421,7 +1421,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579902">
-      <Lemma writtenForm="этот" partOfSpeech="x"/>
+      <Lemma writtenForm="этот" partOfSpeech="h"/>
       <Sense id="L579902-S1" synset="wikidata-ru-L579902-S1" ili="wikidata-ru-L579902-S1">
         <Definition>данный, находящийся здесь, близко к говорящему или слушающему</Definition>
       </Sense>
@@ -1508,13 +1508,13 @@
     <Synset id="wikidata-ru-L59524-S1" ili="wikidata-ru-L59524-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1" partOfSpeech="v">
       <Definition>помещённый внутрь</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L183954-S2" ili="wikidata-ru-L183954-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L183954-S2" ili="wikidata-ru-L183954-S2" partOfSpeech="v">
       <Definition>имеющийся, содержащийся в ком-либо, чём-либо</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L183954-S3" ili="wikidata-ru-L183954-S3" partOfSpeech="x">
+    <Synset id="wikidata-ru-L183954-S3" ili="wikidata-ru-L183954-S3" partOfSpeech="v">
       <Definition>законченный, завершённый</Definition>
     </Synset>
     <Synset id="wikidata-ru-L238481-S1" ili="wikidata-ru-L238481-S1" partOfSpeech="p">
@@ -1529,7 +1529,7 @@
     <Synset id="wikidata-ru-L245947-S1" ili="wikidata-ru-L245947-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L346749-S1" ili="wikidata-ru-L346749-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L346749-S1" ili="wikidata-ru-L346749-S1" partOfSpeech="t">
       <Definition>холодно</Definition>
     </Synset>
     <Synset id="wikidata-ru-L391713-S1" ili="wikidata-ru-L391713-S1" partOfSpeech="p">
@@ -1571,7 +1571,7 @@
     <Synset id="wikidata-ru-L447101-S4" ili="wikidata-ru-L447101-S4" partOfSpeech="y">
       <Definition>подчёркивает, что действие или предмет вполне соответствуют чему-либо предварительно упомянутому</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470666-S1" ili="wikidata-ru-L470666-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470666-S1" ili="wikidata-ru-L470666-S1" partOfSpeech="t">
       <Definition>океан на Земле</Definition>
     </Synset>
     <Synset id="wikidata-ru-L528356-S1" ili="wikidata-ru-L528356-S1" partOfSpeech="i">
@@ -1634,10 +1634,10 @@
     <Synset id="wikidata-ru-L561182-S19" ili="wikidata-ru-L561182-S19" partOfSpeech="p">
       <Definition>указание на цель или причину, из-за</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L625206-S1" ili="wikidata-ru-L625206-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L625206-S1" ili="wikidata-ru-L625206-S1" partOfSpeech="t">
       <Definition>календарная дата - первая в году</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L625206-S2" ili="wikidata-ru-L625206-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L625206-S2" ili="wikidata-ru-L625206-S2" partOfSpeech="t">
       <Definition>праздник начала года</Definition>
     </Synset>
     <Synset id="wikidata-ru-L679894-S1" ili="wikidata-ru-L679894-S1" partOfSpeech="m">
@@ -1649,13 +1649,13 @@
     <Synset id="wikidata-ru-L741187-S1" ili="wikidata-ru-L741187-S1" partOfSpeech="y">
       <Definition>выражает приказ, требование</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ru-L1373410-S1" ili="wikidata-ru-L1373410-S1" partOfSpeech="x">
       <Definition>обозначает действие, направленное на самого актора</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L1398984-S1" ili="wikidata-ru-L1398984-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L1398984-S1" ili="wikidata-ru-L1398984-S1" partOfSpeech="v">
       <Definition>деепричастие от «рассказывать»</Definition>
     </Synset>
     <Synset id="wikidata-ru-L2108-S1" ili="l1385-s1" partOfSpeech="c">
@@ -1730,7 +1730,7 @@
     <Synset id="wikidata-ru-L2109-S22" ili="wikidata-ru-L2109-S22" partOfSpeech="p">
       <Definition>в конструкциях вида &quot;Х в Х&quot;</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L2122-S1" ili="wikidata-ru-L2122-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L2122-S1" ili="wikidata-ru-L2122-S1" partOfSpeech="v">
       <Definition>сопутствующее действие</Definition>
     </Synset>
     <Synset id="wikidata-ru-L245943-S1" ili="wikidata-ru-L245943-S1" partOfSpeech="m">
@@ -1766,7 +1766,7 @@
     <Synset id="wikidata-ru-L448556-S1" ili="wikidata-ru-L448556-S1" partOfSpeech="y">
       <Definition>употребляется при выражении эмоций</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470667-S1" ili="wikidata-ru-L470667-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470667-S1" ili="wikidata-ru-L470667-S1" partOfSpeech="t">
       <Definition>океан на Земле</Definition>
     </Synset>
     <Synset id="wikidata-ru-L524571-S1" ili="wikidata-ru-L524571-S1" partOfSpeech="p">
@@ -1781,7 +1781,7 @@
     <Synset id="wikidata-ru-L582437-S1" ili="wikidata-ru-L582437-S1" partOfSpeech="h">
       <Definition>это лицо женского пола или этот объект, ассоциируемый с женским родом; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным женского рода</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1" partOfSpeech="h">
       <Definition>принадлежащий или относящийся к тому, что выражено третьим лицом женского рода</Definition>
     </Synset>
     <Synset id="wikidata-ru-L583362-S1" ili="wikidata-ru-L583362-S1" partOfSpeech="y">
@@ -1895,13 +1895,13 @@
     <Synset id="wikidata-ru-L447749-S5" ili="wikidata-ru-L447749-S5" partOfSpeech="c">
       <Definition>указывает на признак или действие</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470729-S1" ili="wikidata-ru-L470729-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470729-S1" ili="wikidata-ru-L470729-S1" partOfSpeech="t">
       <Definition>новый вид на территории</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L528355-S1" ili="wikidata-ru-L528355-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L528355-S1" ili="wikidata-ru-L528355-S1" partOfSpeech="a">
       <Definition>выражение одобрения</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L528355-S2" ili="wikidata-ru-L528355-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L528355-S2" ili="wikidata-ru-L528355-S2" partOfSpeech="a">
       <Definition>оценка ситуации как ужасной</Definition>
     </Synset>
     <Synset id="wikidata-ru-L592368-S1" ili="wikidata-ru-L592368-S1" partOfSpeech="i">
@@ -1925,7 +1925,7 @@
     <Synset id="wikidata-ru-L704541-S1" ili="wikidata-ru-L704541-S1" partOfSpeech="i">
       <Definition>команда прекратить движение</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L741202-S1" ili="wikidata-ru-L741202-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L741202-S1" ili="wikidata-ru-L741202-S1" partOfSpeech="a">
       <Definition>выражение несогласия</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1379504-S1" ili="wikidata-ru-L1379504-S1" partOfSpeech="p">
@@ -2057,16 +2057,16 @@
     <Synset id="wikidata-ru-L447102-S1" ili="wikidata-ru-L447102-S1" partOfSpeech="y">
       <Definition>частица, используемая при выделении или при усилении значения слова или словосочетания, к которым относится</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L468160-S1" ili="wikidata-ru-L468160-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L468160-S1" ili="wikidata-ru-L468160-S1" partOfSpeech="t">
       <Definition>болезнь</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470651-S1" ili="wikidata-ru-L470651-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470651-S1" ili="wikidata-ru-L470651-S1" partOfSpeech="t">
       <Definition>падение концентрации озона</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470663-S1" ili="wikidata-ru-L470663-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470663-S1" ili="wikidata-ru-L470663-S1" partOfSpeech="t">
       <Definition>поток заряженных частиц</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470717-S1" ili="wikidata-ru-L470717-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470717-S1" ili="wikidata-ru-L470717-S1" partOfSpeech="t">
       <Definition>тёмная область на Солнце</Definition>
     </Synset>
     <Synset id="wikidata-ru-L476293-S1" ili="wikidata-ru-L476293-S1" partOfSpeech="p">
@@ -2087,7 +2087,7 @@
     <Synset id="wikidata-ru-L579894-S5" ili="wikidata-ru-L579894-S5" partOfSpeech="c">
       <Definition>употребляется при присоединении предложений, дополняющих предыдущее высказывание</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L640808-S1" ili="wikidata-ru-L640808-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L640808-S1" ili="wikidata-ru-L640808-S1" partOfSpeech="t">
       <Definition>продукт питания пчёл</Definition>
     </Synset>
     <Synset id="wikidata-ru-L708171-S1" ili="wikidata-ru-L708171-S1" partOfSpeech="p">
@@ -2120,7 +2120,7 @@
     <Synset id="wikidata-ru-L1353375-S1" ili="wikidata-ru-L1353375-S1" partOfSpeech="y">
       <Definition>усилительная частица</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ru-L1450783-S1" ili="wikidata-ru-L1450783-S1" partOfSpeech="p">
@@ -2144,10 +2144,10 @@
     <Synset id="wikidata-ru-L1450783-S7" ili="wikidata-ru-L1450783-S7" partOfSpeech="p">
       <Definition>при обозначении времени, около которого или в пределах которого происходит действие</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L1547808-S1" ili="wikidata-ru-L1547808-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L1547808-S1" ili="wikidata-ru-L1547808-S1" partOfSpeech="a">
       <Definition>имеется возможность</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L1547808-S2" ili="wikidata-ru-L1547808-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L1547808-S2" ili="wikidata-ru-L1547808-S2" partOfSpeech="a">
       <Definition>разрешено, дозволено</Definition>
     </Synset>
     <Synset id="wikidata-ru-L2027-S1" ili="wikidata-ru-L2027-S1" partOfSpeech="h">
@@ -2162,7 +2162,7 @@
     <Synset id="wikidata-ru-L2114-S2" ili="wikidata-ru-L2114-S2" partOfSpeech="c">
       <Definition> употребляется при подчёркивании, усилении значения (обычно в сочетании со сравнительной степенью прилагательных или наречий, а также с глаголами, обозначающими увеличение или уменьшение чего-либо)</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1" partOfSpeech="a">
       <Definition>о чувстве удовлетворения, удовольствия, радости и т. п., испытываемом кем-либо</Definition>
     </Synset>
     <Synset id="wikidata-ru-L139473-S1" ili="wikidata-ru-L139473-S1" partOfSpeech="x">
@@ -2183,28 +2183,28 @@
     <Synset id="wikidata-ru-L348650-S2" ili="wikidata-ru-L348650-S2" partOfSpeech="m">
       <Definition>цифра</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470652-S1" ili="wikidata-ru-L470652-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470652-S1" ili="wikidata-ru-L470652-S1" partOfSpeech="t">
       <Definition>падение концентрации озона</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470675-S1" ili="wikidata-ru-L470675-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470675-S1" ili="wikidata-ru-L470675-S1" partOfSpeech="t">
       <Definition>океан на Земле</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470735-S1" ili="wikidata-ru-L470735-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470735-S1" ili="wikidata-ru-L470735-S1" partOfSpeech="t">
       <Definition>газы, вызывающие парниковый эффект</Definition>
     </Synset>
     <Synset id="wikidata-ru-L500374-S1" ili="wikidata-ru-L500374-S1" partOfSpeech="c">
       <Definition>противопоставительный союз</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L582524-S1" ili="wikidata-ru-L582524-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L582524-S1" ili="wikidata-ru-L582524-S1" partOfSpeech="h">
       <Definition>указывает на (обычно ранее упомянутые) предметы (лица) во множественном числе, к которым говорящий не относит ни себя, ни адресатов высказывания</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L582524-S2" ili="wikidata-ru-L582524-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L582524-S2" ili="wikidata-ru-L582524-S2" partOfSpeech="h">
       <Definition>именно те, а не другие; те самые</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L582524-S3" ili="wikidata-ru-L582524-S3" partOfSpeech="x">
+    <Synset id="wikidata-ru-L582524-S3" ili="wikidata-ru-L582524-S3" partOfSpeech="h">
       <Definition>с частицей вот приобретает указательный или усилительный характер</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L582524-S4" ili="wikidata-ru-L582524-S4" partOfSpeech="x">
+    <Synset id="wikidata-ru-L582524-S4" ili="wikidata-ru-L582524-S4" partOfSpeech="h">
       <Definition>указывает на одно лицо, используется как уважительная форма называния</Definition>
     </Synset>
     <Synset id="wikidata-ru-L701178-S1" ili="wikidata-ru-L701178-S1" partOfSpeech="m">
@@ -2357,13 +2357,13 @@
     <Synset id="wikidata-ru-L448251-S2" ili="wikidata-ru-L448251-S2" partOfSpeech="h">
       <Definition>местоимение второго лица</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L468164-S1" ili="wikidata-ru-L468164-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L468164-S1" ili="wikidata-ru-L468164-S1" partOfSpeech="t">
       <Definition>диоксид углерода</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470713-S1" ili="wikidata-ru-L470713-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470713-S1" ili="wikidata-ru-L470713-S1" partOfSpeech="t">
       <Definition>атмосферное явление</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470727-S1" ili="wikidata-ru-L470727-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470727-S1" ili="wikidata-ru-L470727-S1" partOfSpeech="t">
       <Definition>новый вид на территории</Definition>
     </Synset>
     <Synset id="wikidata-ru-L565042-S1" ili="wikidata-ru-L565042-S1" partOfSpeech="p">
@@ -2468,10 +2468,10 @@
     <Synset id="wikidata-ru-L409439-S7" ili="wikidata-ru-L409439-S7" partOfSpeech="p">
       <Definition>в вводных словосочетаниях: к счастью, к несчастью, к сожалению</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470665-S1" ili="wikidata-ru-L470665-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470665-S1" ili="wikidata-ru-L470665-S1" partOfSpeech="t">
       <Definition>океан на Земле</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L470674-S1" ili="wikidata-ru-L470674-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L470674-S1" ili="wikidata-ru-L470674-S1" partOfSpeech="t">
       <Definition>океан на Земле</Definition>
     </Synset>
     <Synset id="wikidata-ru-L525260-S1" ili="wikidata-ru-L525260-S1" partOfSpeech="y">
@@ -2483,25 +2483,25 @@
     <Synset id="wikidata-ru-L565862-S2" ili="wikidata-ru-L565862-S2" partOfSpeech="c">
       <Definition>в сочет с &quot;а&quot;, &quot;но&quot;, &quot;и&quot;  — образует сложные союзы с присоединительным значением</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S1" ili="wikidata-ru-L578639-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S1" ili="wikidata-ru-L578639-S1" partOfSpeech="r">
       <Definition>целый, полный, без исключений</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S2" ili="wikidata-ru-L578639-S2" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S2" ili="wikidata-ru-L578639-S2" partOfSpeech="r">
       <Definition>совершенно, целиком</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S3" ili="wikidata-ru-L578639-S3" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S3" ili="wikidata-ru-L578639-S3" partOfSpeech="r">
       <Definition>(израсходовалось, кончилось) совсем</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S4" ili="wikidata-ru-L578639-S4" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S4" ili="wikidata-ru-L578639-S4" partOfSpeech="r">
       <Definition>всё, что есть, целиком, без исключений</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S5" ili="wikidata-ru-L578639-S5" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S5" ili="wikidata-ru-L578639-S5" partOfSpeech="r">
       <Definition>в сочетании со сравн. ст. прил. или нареч. образует превосходную степень</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L578639-S6" ili="wikidata-ru-L578639-S6" partOfSpeech="x">
+    <Synset id="wikidata-ru-L578639-S6" ili="wikidata-ru-L578639-S6" partOfSpeech="r">
       <Definition>в полном составе, без исключения (о людях)</Definition>
     </Synset>
-    <Synset id="wikidata-ru-L579902-S1" ili="wikidata-ru-L579902-S1" partOfSpeech="x">
+    <Synset id="wikidata-ru-L579902-S1" ili="wikidata-ru-L579902-S1" partOfSpeech="h">
       <Definition>данный, находящийся здесь, близко к говорящему или слушающему</Definition>
     </Synset>
     <Synset id="wikidata-ru-L708172-S1" ili="wikidata-ru-L708172-S1" partOfSpeech="p">

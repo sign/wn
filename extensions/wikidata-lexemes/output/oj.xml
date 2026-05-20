@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-oj" version="1.4"/>
     <LexicalEntry id="L1529603">
-      <Lemma writtenForm="misi-" partOfSpeech="x"/>
+      <Lemma writtenForm="misi-" partOfSpeech="v"/>
       <Sense id="L1529603-S1" synset="wikidata-oj-L1529603-S1" ili="wikidata-oj-L1529603-S1">
         <Definition>gichi-</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-oj-L1529603-S1" ili="wikidata-oj-L1529603-S1" partOfSpeech="x">
+    <Synset id="wikidata-oj-L1529603-S1" ili="wikidata-oj-L1529603-S1" partOfSpeech="v">
       <Definition>gichi-</Definition>
     </Synset>
   </LexiconExtension>

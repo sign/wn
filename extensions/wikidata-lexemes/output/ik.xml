@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-ik" version="1.4"/>
     <LexicalEntry id="L1331757">
-      <Lemma writtenForm="-qaqtuq" partOfSpeech="x"/>
+      <Lemma writtenForm="-qaqtuq" partOfSpeech="v"/>
       <Sense id="L1331757-S1" synset="wikidata-ik-L1331757-S1" ili="wikidata-ik-L1331757-S1">
         <Definition></Definition>
       </Sense>
@@ -17,10 +17,10 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ik-L1331757-S1" ili="wikidata-ik-L1331757-S1" partOfSpeech="x">
+    <Synset id="wikidata-ik-L1331757-S1" ili="wikidata-ik-L1331757-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ik-L1331757-S2" ili="wikidata-ik-L1331757-S2" partOfSpeech="x">
+    <Synset id="wikidata-ik-L1331757-S2" ili="wikidata-ik-L1331757-S2" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

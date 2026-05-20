@@ -133,7 +133,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L404581">
-      <Lemma writtenForm="마리" partOfSpeech="x"/>
+      <Lemma writtenForm="마리" partOfSpeech="m"/>
       <Sense id="L404581-S1" synset="wikidata-ko-L404581-S1" ili="wikidata-ko-L404581-S1">
         <Definition></Definition>
       </Sense>
@@ -214,7 +214,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748866">
-      <Lemma writtenForm="가다" partOfSpeech="x"/>
+      <Lemma writtenForm="가다" partOfSpeech="v"/>
       <Sense id="L748866-S1" synset="wikidata-ko-L748866-S1" ili="wikidata-ko-L748866-S1">
         <Definition></Definition>
       </Sense>
@@ -226,7 +226,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012187">
-      <Lemma writtenForm="버리다" partOfSpeech="x"/>
+      <Lemma writtenForm="버리다" partOfSpeech="v"/>
       <Sense id="L1012187-S1" synset="wikidata-ko-L1012187-S1" ili="wikidata-ko-L1012187-S1">
         <Definition></Definition>
       </Sense>
@@ -413,7 +413,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L64">
-      <Lemma writtenForm="게" partOfSpeech="x"/>
+      <Lemma writtenForm="게" partOfSpeech="p"/>
       <Sense id="L64-S1" synset="wikidata-ko-L64-S1" ili="wikidata-ko-L64-S1">
         <Definition></Definition>
       </Sense>
@@ -535,7 +535,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327869">
-      <Lemma writtenForm="명" partOfSpeech="x"/>
+      <Lemma writtenForm="명" partOfSpeech="m"/>
       <Sense id="L1327869-S1" synset="wikidata-ko-L1327869-S1" ili="wikidata-ko-L1327869-S1">
         <Definition></Definition>
       </Sense>
@@ -667,7 +667,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L719342">
-      <Lemma writtenForm="있다" partOfSpeech="x"/>
+      <Lemma writtenForm="있다" partOfSpeech="v"/>
       <Sense id="L719342-S1" synset="wikidata-ko-L719342-S1" ili="wikidata-ko-L719342-S1">
         <Definition></Definition>
       </Sense>
@@ -920,7 +920,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327870">
-      <Lemma writtenForm="분" partOfSpeech="x"/>
+      <Lemma writtenForm="분" partOfSpeech="m"/>
       <Sense id="L1327870-S1" synset="wikidata-ko-L1327870-S1" ili="wikidata-ko-L1327870-S1">
         <Definition></Definition>
       </Sense>
@@ -1039,7 +1039,7 @@
     <Synset id="wikidata-ko-L1494926-S1" ili="wikidata-ko-L1494926-S1" partOfSpeech="x">
       <Definition>&apos;극친하다&apos;의 어근</Definition>
     </Synset>
-    <Synset id="wikidata-ko-L404581-S1" ili="wikidata-ko-L404581-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L404581-S1" ili="wikidata-ko-L404581-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L742651-S1" ili="wikidata-ko-L742651-S1" partOfSpeech="m">
@@ -1081,13 +1081,13 @@
     <Synset id="wikidata-ko-L743798-S1" ili="wikidata-ko-L743798-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L748866-S1" ili="wikidata-ko-L748866-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L748866-S1" ili="wikidata-ko-L748866-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L992184-S1" ili="wikidata-ko-L992184-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L1012187-S1" ili="wikidata-ko-L1012187-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L1012187-S1" ili="wikidata-ko-L1012187-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L1474687-S1" ili="wikidata-ko-L1474687-S1" partOfSpeech="x">
@@ -1186,7 +1186,7 @@
     <Synset id="wikidata-ko-L49-S2" ili="wikidata-ko-L49-S2" partOfSpeech="d">
       <Definition>고전이 될 만한 내용과 의의를 가지는, 또는 그런 것</Definition>
     </Synset>
-    <Synset id="wikidata-ko-L64-S1" ili="wikidata-ko-L64-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L64-S1" ili="wikidata-ko-L64-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L86-S1" ili="wikidata-ko-L86-S1" partOfSpeech="i">
@@ -1261,7 +1261,7 @@
     <Synset id="wikidata-ko-L1013835-S2" ili="wikidata-ko-L1013835-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L1327869-S1" ili="wikidata-ko-L1327869-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L1327869-S1" ili="wikidata-ko-L1327869-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L1473585-S1" ili="wikidata-ko-L1473585-S1" partOfSpeech="x">
@@ -1330,10 +1330,10 @@
     <Synset id="wikidata-ko-L1490369-S1" ili="wikidata-ko-L1490369-S1" partOfSpeech="x">
       <Definition>(&apos;경쾌하다&apos;의 어근)</Definition>
     </Synset>
-    <Synset id="wikidata-ko-L719342-S1" ili="wikidata-ko-L719342-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L719342-S1" ili="wikidata-ko-L719342-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L719342-S2" ili="wikidata-ko-L719342-S2" partOfSpeech="x">
+    <Synset id="wikidata-ko-L719342-S2" ili="wikidata-ko-L719342-S2" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L742357-S1" ili="wikidata-ko-L742357-S1" partOfSpeech="y">
@@ -1462,10 +1462,10 @@
     <Synset id="wikidata-ko-L1220261-S3" ili="wikidata-ko-L1220261-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L1327870-S1" ili="wikidata-ko-L1327870-S1" partOfSpeech="x">
+    <Synset id="wikidata-ko-L1327870-S1" ili="wikidata-ko-L1327870-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ko-L1327870-S2" ili="wikidata-ko-L1327870-S2" partOfSpeech="x">
+    <Synset id="wikidata-ko-L1327870-S2" ili="wikidata-ko-L1327870-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ko-L1478555-S1" ili="wikidata-ko-L1478555-S1" partOfSpeech="x">

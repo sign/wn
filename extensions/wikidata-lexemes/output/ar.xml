@@ -430,7 +430,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1473291">
-      <Lemma writtenForm="لَنْ" partOfSpeech="x"/>
+      <Lemma writtenForm="لَنْ" partOfSpeech="y"/>
       <Sense id="L1473291-S1" synset="wikidata-ar-L1473291-S1" ili="wikidata-ar-L1473291-S1">
         <Definition></Definition>
       </Sense>
@@ -753,7 +753,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1404925">
-      <Lemma writtenForm="هُ" partOfSpeech="x"/>
+      <Lemma writtenForm="هُ" partOfSpeech="h"/>
       <Sense id="L1404925-S1" synset="wikidata-ar-L1404925-S1" ili="wikidata-ar-L1404925-S1">
         <Definition>(ضمير متَّصل للمفرد المذكر الغائب)</Definition>
       </Sense>
@@ -1062,7 +1062,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1422431">
-      <Lemma writtenForm="لَمْ" partOfSpeech="x"/>
+      <Lemma writtenForm="لَمْ" partOfSpeech="y"/>
       <Sense id="L1422431-S1" synset="wikidata-ar-L1422431-S1" ili="wikidata-ar-L1422431-S1">
         <Definition></Definition>
       </Sense>
@@ -1086,7 +1086,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1453686">
-      <Lemma writtenForm="غَيْر" partOfSpeech="x"/>
+      <Lemma writtenForm="غَيْر" partOfSpeech="y"/>
       <Sense id="L1453686-S1" synset="wikidata-ar-L1453686-S1" ili="wikidata-ar-L1453686-S1">
         <Definition></Definition>
       </Sense>
@@ -1339,7 +1339,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1232401">
-      <Lemma writtenForm="إِذَا" partOfSpeech="x"/>
+      <Lemma writtenForm="إِذَا" partOfSpeech="n"/>
       <Sense id="L1232401-S1" synset="wikidata-ar-L1232401-S1" ili="wikidata-ar-L1232401-S1">
         <Definition></Definition>
       </Sense>
@@ -1417,7 +1417,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1404933">
-      <Lemma writtenForm="لَا" partOfSpeech="x"/>
+      <Lemma writtenForm="لَا" partOfSpeech="y"/>
       <Sense id="L1404933-S1" synset="wikidata-ar-L1404933-S1" ili="wikidata-ar-L1404933-S1">
         <Definition></Definition>
       </Sense>
@@ -1771,7 +1771,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1259879">
-      <Lemma writtenForm="ن" partOfSpeech="x"/>
+      <Lemma writtenForm="ن" partOfSpeech="y"/>
       <Sense id="L1259879-S1" synset="wikidata-ar-L1259879-S1" ili="wikidata-ar-L1259879-S1">
         <Definition></Definition>
       </Sense>
@@ -2102,7 +2102,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1232402">
-      <Lemma writtenForm="إِذًا" partOfSpeech="x"/>
+      <Lemma writtenForm="إِذًا" partOfSpeech="c"/>
       <Sense id="L1232402-S1" synset="wikidata-ar-L1232402-S1" ili="wikidata-ar-L1232402-S1">
         <Definition></Definition>
       </Sense>
@@ -2291,7 +2291,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35600">
-      <Lemma writtenForm="أَمْ" partOfSpeech="x"/>
+      <Lemma writtenForm="أَمْ" partOfSpeech="c"/>
       <Sense id="L35600-S1" synset="wikidata-ar-L35600-S1" ili="wikidata-ar-L35600-S1">
         <Definition></Definition>
       </Sense>
@@ -2402,7 +2402,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1233454">
-      <Lemma writtenForm="ٱلَّذِي" partOfSpeech="x"/>
+      <Lemma writtenForm="ٱلَّذِي" partOfSpeech="h"/>
       <Sense id="L1233454-S1" synset="wikidata-ar-L1233454-S1" ili="wikidata-ar-L1233454-S1">
         <Definition></Definition>
       </Sense>
@@ -2552,7 +2552,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549503">
-      <Lemma writtenForm="إِنْ" partOfSpeech="x"/>
+      <Lemma writtenForm="إِنْ" partOfSpeech="c"/>
       <Sense id="L1549503-S1" synset="wikidata-ar-L1549503-S1" ili="wikidata-ar-L1549503-S1">
         <Definition></Definition>
       </Sense>
@@ -2655,7 +2655,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1157108">
-      <Lemma writtenForm="ثُمُن" partOfSpeech="x"/>
+      <Lemma writtenForm="ثُمُن" partOfSpeech="m"/>
       <Sense id="L1157108-S1" synset="wikidata-ar-L1157108-S1" ili="wikidata-ar-L1157108-S1">
         <Definition>الجزء الواحد من الثُّمْنُ ثمانية والجمع : أثمانٌ</Definition>
       </Sense>
@@ -3026,7 +3026,7 @@
     <Synset id="wikidata-ar-L1473286-S1" ili="wikidata-ar-L1473286-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1473291-S1" ili="wikidata-ar-L1473291-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1473291-S1" ili="wikidata-ar-L1473291-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1548523-S1" ili="wikidata-ar-L1548523-S1" partOfSpeech="x">
@@ -3218,7 +3218,7 @@
     <Synset id="wikidata-ar-L1385266-S1" ili="wikidata-ar-L1385266-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1404925-S1" ili="wikidata-ar-L1404925-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1404925-S1" ili="wikidata-ar-L1404925-S1" partOfSpeech="h">
       <Definition>(ضمير متَّصل للمفرد المذكر الغائب)</Definition>
     </Synset>
     <Synset id="wikidata-ar-L1409092-S1" ili="wikidata-ar-L1409092-S1" partOfSpeech="x">
@@ -3410,7 +3410,7 @@
     <Synset id="wikidata-ar-L1422427-S1" ili="wikidata-ar-L1422427-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1422431-S1" ili="wikidata-ar-L1422431-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1422431-S1" ili="wikidata-ar-L1422431-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1422434-S1" ili="wikidata-ar-L1422434-S1" partOfSpeech="h">
@@ -3422,7 +3422,7 @@
     <Synset id="wikidata-ar-L1451564-S1" ili="wikidata-ar-L1451564-S1" partOfSpeech="x">
       <Definition>(والتِّنْبالُ ، والتِّنْبالَةُ)</Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1453686-S1" ili="wikidata-ar-L1453686-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1453686-S1" ili="wikidata-ar-L1453686-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1463435-S1" ili="wikidata-ar-L1463435-S1" partOfSpeech="p">
@@ -3575,7 +3575,7 @@
     <Synset id="wikidata-ar-L1217784-S1" ili="wikidata-ar-L1217784-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1232401-S1" ili="wikidata-ar-L1232401-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1232401-S1" ili="wikidata-ar-L1232401-S1" partOfSpeech="n">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1233475-S1" ili="wikidata-ar-L1233475-S1" partOfSpeech="x">
@@ -3620,10 +3620,10 @@
     <Synset id="wikidata-ar-L1404915-S1" ili="wikidata-ar-L1404915-S1" partOfSpeech="x">
       <Definition>(عالي، مرتفع؛ صعود، ارتفاع)</Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1404933-S1" ili="wikidata-ar-L1404933-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1404933-S1" ili="wikidata-ar-L1404933-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1404933-S2" ili="wikidata-ar-L1404933-S2" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1404933-S2" ili="wikidata-ar-L1404933-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1407908-S1" ili="wikidata-ar-L1407908-S1" partOfSpeech="x">
@@ -3857,7 +3857,7 @@
     <Synset id="wikidata-ar-L1256027-S4" ili="wikidata-ar-L1256027-S4" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1259879-S1" ili="wikidata-ar-L1259879-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1259879-S1" ili="wikidata-ar-L1259879-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1358152-S1" ili="wikidata-ar-L1358152-S1" partOfSpeech="x">
@@ -4052,7 +4052,7 @@
     <Synset id="wikidata-ar-L1133516-S1" ili="wikidata-ar-L1133516-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1232402-S1" ili="wikidata-ar-L1232402-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1232402-S1" ili="wikidata-ar-L1232402-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1233374-S1" ili="wikidata-ar-L1233374-S1" partOfSpeech="x">
@@ -4163,7 +4163,7 @@
     <Synset id="wikidata-ar-L35599-S2" ili="wikidata-ar-L35599-S2" partOfSpeech="y">
       <Definition>حرف استثناء يستثني كلمة</Definition>
     </Synset>
-    <Synset id="wikidata-ar-L35600-S1" ili="wikidata-ar-L35600-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L35600-S1" ili="wikidata-ar-L35600-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L43470-S1" ili="wikidata-ar-L43470-S1" partOfSpeech="m">
@@ -4232,7 +4232,7 @@
     <Synset id="wikidata-ar-L1133522-S2" ili="wikidata-ar-L1133522-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1233454-S1" ili="wikidata-ar-L1233454-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1233454-S1" ili="wikidata-ar-L1233454-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L1321113-S1" ili="wikidata-ar-L1321113-S1" partOfSpeech="p">
@@ -4322,7 +4322,7 @@
     <Synset id="wikidata-ar-L1504614-S1" ili="wikidata-ar-L1504614-S1" partOfSpeech="x">
       <Definition>(يُوسُف)</Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1549503-S1" ili="wikidata-ar-L1549503-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1549503-S1" ili="wikidata-ar-L1549503-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ar-L7892-S1" ili="wikidata-ar-L7892-S1" partOfSpeech="d">
@@ -4382,7 +4382,7 @@
     <Synset id="wikidata-ar-L243862-S4" ili="wikidata-ar-L243862-S4" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ar-L1157108-S1" ili="wikidata-ar-L1157108-S1" partOfSpeech="x">
+    <Synset id="wikidata-ar-L1157108-S1" ili="wikidata-ar-L1157108-S1" partOfSpeech="m">
       <Definition>الجزء الواحد من الثُّمْنُ ثمانية والجمع : أثمانٌ</Definition>
     </Synset>
     <Synset id="wikidata-ar-L1215988-S1" ili="wikidata-ar-L1215988-S1" partOfSpeech="x">

@@ -27,7 +27,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640550">
-      <Lemma writtenForm="cái" partOfSpeech="x"/>
+      <Lemma writtenForm="cái" partOfSpeech="m"/>
       <Sense id="L640550-S1" synset="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1">
         <Definition></Definition>
       </Sense>
@@ -36,7 +36,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L405260">
-      <Lemma writtenForm="con" partOfSpeech="x"/>
+      <Lemma writtenForm="con" partOfSpeech="m"/>
       <Sense id="L405260-S1" synset="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1">
         <Definition></Definition>
       </Sense>
@@ -61,7 +61,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L646389">
-      <Lemma writtenForm="quả" partOfSpeech="x"/>
+      <Lemma writtenForm="quả" partOfSpeech="m"/>
       <Sense id="L646389-S1" synset="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1">
         <Definition></Definition>
       </Sense>
@@ -78,34 +78,34 @@
     <Synset id="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1" partOfSpeech="x">
+    <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2" partOfSpeech="x">
+    <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7" partOfSpeech="x">
+    <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1" partOfSpeech="x">
+    <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

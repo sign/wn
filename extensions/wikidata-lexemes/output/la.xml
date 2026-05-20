@@ -30,7 +30,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L48237">
-      <Lemma writtenForm="Veni, Vidi, Vici" partOfSpeech="x"/>
+      <Lemma writtenForm="Veni, Vidi, Vici" partOfSpeech="t"/>
       <Sense id="L48237-S1" synset="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1">
         <Definition></Definition>
       </Sense>
@@ -60,7 +60,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L221450">
-      <Lemma writtenForm="hic" partOfSpeech="x"/>
+      <Lemma writtenForm="hic" partOfSpeech="h"/>
       <Sense id="L221450-S1" synset="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1">
         <Definition></Definition>
       </Sense>
@@ -84,13 +84,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40313">
-      <Lemma writtenForm="factus" partOfSpeech="x"/>
+      <Lemma writtenForm="factus" partOfSpeech="v"/>
       <Sense id="L40313-S1" synset="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L51197">
-      <Lemma writtenForm="Verba volent, scripta manent." partOfSpeech="x"/>
+      <Lemma writtenForm="Verba volent, scripta manent." partOfSpeech="t"/>
       <Sense id="L51197-S1" synset="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1">
         <Definition></Definition>
       </Sense>
@@ -249,7 +249,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40136">
-      <Lemma writtenForm="efficiens" partOfSpeech="x"/>
+      <Lemma writtenForm="efficiens" partOfSpeech="v"/>
       <Sense id="L40136-S1" synset="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1">
         <Definition></Definition>
       </Sense>
@@ -350,7 +350,7 @@
     <Synset id="wikidata-la-L5234-S2" ili="wikidata-la-L5234-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1" partOfSpeech="x">
+    <Synset id="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1" partOfSpeech="t">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L279136-S1" ili="wikidata-la-L279136-S1" partOfSpeech="c">
@@ -365,7 +365,7 @@
     <Synset id="wikidata-la-L1735-S1" ili="wikidata-la-L1735-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1" partOfSpeech="x">
+    <Synset id="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L1547230-S1" ili="l8885-s1" partOfSpeech="i">
@@ -377,10 +377,10 @@
     <Synset id="wikidata-la-L11734-S1" ili="wikidata-la-L11734-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1" partOfSpeech="x">
+    <Synset id="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1" partOfSpeech="x">
+    <Synset id="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1" partOfSpeech="t">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L275493-S1" ili="wikidata-la-L275493-S1" partOfSpeech="h">
@@ -473,10 +473,10 @@
     <Synset id="wikidata-la-L13362-S1" ili="wikidata-la-L13362-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1" partOfSpeech="x">
+    <Synset id="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40136-S2" ili="wikidata-la-L40136-S2" partOfSpeech="x">
+    <Synset id="wikidata-la-L40136-S2" ili="wikidata-la-L40136-S2" partOfSpeech="v">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L251616-S1" ili="l8883-s1" partOfSpeech="m">

@@ -540,7 +540,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1508816">
-      <Lemma writtenForm="abats" partOfSpeech="x"/>
+      <Lemma writtenForm="abats" partOfSpeech="n"/>
       <Sense id="L1508816-S1" synset="wikidata-fr-L1508816-S1" ili="wikidata-fr-L1508816-S1">
         <Definition>parties comestibles des animaux de boucherie, autres que la viande musculaire – souvent les organes internes</Definition>
       </Sense>
@@ -624,7 +624,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9203">
-      <Lemma writtenForm="ce" partOfSpeech="x"/>
+      <Lemma writtenForm="ce" partOfSpeech="a"/>
       <Sense id="L9203-S1" synset="wikidata-fr-L9203-S1" ili="wikidata-fr-L9203-S1">
         <Definition></Definition>
       </Sense>
@@ -768,7 +768,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L15026">
-      <Lemma writtenForm="aucun" partOfSpeech="x"/>
+      <Lemma writtenForm="aucun" partOfSpeech="a"/>
       <Sense id="L15026-S1" synset="wikidata-fr-L15026-S1" ili="wikidata-fr-L15026-S1">
         <Definition></Definition>
       </Sense>
@@ -888,7 +888,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1508829">
-      <Lemma writtenForm="abdominaux" partOfSpeech="x"/>
+      <Lemma writtenForm="abdominaux" partOfSpeech="n"/>
       <Sense id="L1508829-S1" synset="wikidata-fr-L1508829-S1" ili="wikidata-fr-L1508829-S1">
         <Definition>muscles constituant les parois antérieures et latérales de l&apos;abdomen</Definition>
       </Sense>
@@ -1374,7 +1374,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521040">
-      <Lemma writtenForm="vitraux" partOfSpeech="x"/>
+      <Lemma writtenForm="vitraux" partOfSpeech="n"/>
       <Sense id="L1521040-S1" synset="wikidata-fr-L1521040-S1" ili="wikidata-fr-L1521040-S1">
         <Definition>panneaux de verre coloré décoratif, souvent en assemblage</Definition>
       </Sense>
@@ -1836,7 +1836,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1232738">
-      <Lemma writtenForm="Canapé" partOfSpeech="x"/>
+      <Lemma writtenForm="Canapé" partOfSpeech="n"/>
       <Sense id="L1232738-S1" synset="wikidata-fr-L1232738-S1" ili="wikidata-fr-L1232738-S1">
         <Definition>nom de famille</Definition>
       </Sense>
@@ -1887,7 +1887,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L10017">
-      <Lemma writtenForm="tout" partOfSpeech="x"/>
+      <Lemma writtenForm="tout" partOfSpeech="a"/>
       <Sense id="L10017-S2" synset="wikidata-fr-L10017-S2" ili="wikidata-fr-L10017-S2">
         <Definition></Definition>
       </Sense>
@@ -2061,7 +2061,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1325189">
-      <Lemma writtenForm="a cappella" partOfSpeech="x"/>
+      <Lemma writtenForm="a cappella" partOfSpeech="t"/>
       <Sense id="L1325189-S1" synset="wikidata-fr-L1325189-S1" ili="wikidata-fr-L1325189-S1">
         <Definition>musique vocale sans instrument</Definition>
       </Sense>
@@ -2333,7 +2333,7 @@
     <Synset id="wikidata-fr-L1411963-S1" ili="wikidata-fr-L1411963-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1508816-S1" ili="wikidata-fr-L1508816-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1508816-S1" ili="wikidata-fr-L1508816-S1" partOfSpeech="n">
       <Definition>parties comestibles des animaux de boucherie, autres que la viande musculaire – souvent les organes internes</Definition>
     </Synset>
     <Synset id="wikidata-fr-L95-S1" ili="wikidata-fr-L95-S1" partOfSpeech="m">
@@ -2378,7 +2378,7 @@
     <Synset id="wikidata-fr-L9188-S1" ili="wikidata-fr-L9188-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fr-L9203-S1" ili="wikidata-fr-L9203-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L9203-S1" ili="wikidata-fr-L9203-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-fr-L9288-S1" ili="l483-s1" partOfSpeech="h">
@@ -2450,7 +2450,7 @@
     <Synset id="wikidata-fr-L14079-S1" ili="wikidata-fr-L14079-S1" partOfSpeech="m">
       <Definition>nombre</Definition>
     </Synset>
-    <Synset id="wikidata-fr-L15026-S1" ili="wikidata-fr-L15026-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L15026-S1" ili="wikidata-fr-L15026-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-fr-L15467-S1" ili="wikidata-fr-L15467-S1" partOfSpeech="m">
@@ -2510,10 +2510,10 @@
     <Synset id="wikidata-fr-L709330-S1" ili="wikidata-fr-L709330-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1508829-S1" ili="wikidata-fr-L1508829-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1508829-S1" ili="wikidata-fr-L1508829-S1" partOfSpeech="n">
       <Definition>muscles constituant les parois antérieures et latérales de l&apos;abdomen</Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1508829-S2" ili="wikidata-fr-L1508829-S2" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1508829-S2" ili="wikidata-fr-L1508829-S2" partOfSpeech="n">
       <Definition>exercices de gymnastique conçus pour renforcer les muscles de l&apos;abdomen</Definition>
     </Synset>
     <Synset id="wikidata-fr-L699-S2" ili="wikidata-fr-L699-S2" partOfSpeech="m">
@@ -2762,7 +2762,7 @@
     <Synset id="wikidata-fr-L940447-S1" ili="wikidata-fr-L940447-S1" partOfSpeech="r">
       <Definition>notation musicale et genre musical du XVIIe au XIXe siècles</Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1521040-S1" ili="wikidata-fr-L1521040-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1521040-S1" ili="wikidata-fr-L1521040-S1" partOfSpeech="n">
       <Definition>panneaux de verre coloré décoratif, souvent en assemblage</Definition>
     </Synset>
     <Synset id="wikidata-fr-L2926-S1" ili="l38519-s1" partOfSpeech="h">
@@ -3002,7 +3002,7 @@
     <Synset id="wikidata-fr-L57949-S1" ili="wikidata-fr-L57949-S1" partOfSpeech="m">
       <Definition>nombre</Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1232738-S1" ili="wikidata-fr-L1232738-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1232738-S1" ili="wikidata-fr-L1232738-S1" partOfSpeech="n">
       <Definition>nom de famille</Definition>
     </Synset>
     <Synset id="wikidata-fr-L176-S1" ili="wikidata-fr-L176-S1" partOfSpeech="m">
@@ -3032,7 +3032,7 @@
     <Synset id="wikidata-fr-L9319-S2" ili="wikidata-fr-L9319-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fr-L10017-S2" ili="wikidata-fr-L10017-S2" partOfSpeech="x">
+    <Synset id="wikidata-fr-L10017-S2" ili="wikidata-fr-L10017-S2" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-fr-L10477-S1" ili="wikidata-fr-L10477-S1" partOfSpeech="h">
@@ -3119,7 +3119,7 @@
     <Synset id="wikidata-fr-L26227-S1" ili="wikidata-fr-L26227-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fr-L1325189-S1" ili="wikidata-fr-L1325189-S1" partOfSpeech="x">
+    <Synset id="wikidata-fr-L1325189-S1" ili="wikidata-fr-L1325189-S1" partOfSpeech="t">
       <Definition>musique vocale sans instrument</Definition>
     </Synset>
   </LexiconExtension>

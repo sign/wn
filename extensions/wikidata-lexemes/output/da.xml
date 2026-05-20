@@ -213,7 +213,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012253">
-      <Lemma writtenForm="historisk tid" partOfSpeech="x"/>
+      <Lemma writtenForm="historisk tid" partOfSpeech="t"/>
       <Sense id="L1012253-S1" synset="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1">
         <Definition>tidsperiode med skriftlige kilder</Definition>
       </Sense>
@@ -281,7 +281,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218844">
-      <Lemma writtenForm="det ved den søde grød" partOfSpeech="x"/>
+      <Lemma writtenForm="det ved den søde grød" partOfSpeech="t"/>
       <Sense id="L1218844-S1" synset="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1">
         <Definition>forstærkende kraftudtryk</Definition>
       </Sense>
@@ -319,7 +319,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L42980">
-      <Lemma writtenForm="røde hunde" partOfSpeech="x"/>
+      <Lemma writtenForm="røde hunde" partOfSpeech="t"/>
       <Sense id="L42980-S1" synset="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1">
         <Definition>børnesygdom</Definition>
         <Example>Vacciner mod polio, røde hunde, hepatitis B, difteri, mæslinger, fåresyge, rubella og meningitis er sammen med kombinationsterapilægemidler mod hiv, lægemidler til regulering af astma, livsopretholdelsessystemer til præmature spædbørn og deep brain-stimulering ved Parkinsons sygdom alle blevet udviklet via forsøg med dyr og navnlig primater.</Example>
@@ -907,13 +907,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525206">
-      <Lemma writtenForm="spidssnudet frø" partOfSpeech="x"/>
+      <Lemma writtenForm="spidssnudet frø" partOfSpeech="n"/>
       <Sense id="L525206-S1" synset="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1">
         <Definition>frø af arten Rana arvalis</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525225">
-      <Lemma writtenForm="grønbroget tudse" partOfSpeech="x"/>
+      <Lemma writtenForm="grønbroget tudse" partOfSpeech="n"/>
       <Sense id="L525225-S1" synset="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1">
         <Definition>padde i arten Pseudepidalea viridis</Definition>
       </Sense>
@@ -1599,7 +1599,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218343">
-      <Lemma writtenForm="det var kattens" partOfSpeech="x"/>
+      <Lemma writtenForm="det var kattens" partOfSpeech="i"/>
       <Sense id="L1218343-S1" synset="wikidata-da-L1218343-S1" ili="l1218344-s1">
         <Definition>udtryk for bestyrtelse og overraskelse</Definition>
       </Sense>
@@ -1861,7 +1861,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329361">
-      <Lemma writtenForm="noget for noget" partOfSpeech="x"/>
+      <Lemma writtenForm="noget for noget" partOfSpeech="t"/>
       <Sense id="L1329361-S1" synset="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1">
         <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
       </Sense>
@@ -2101,7 +2101,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218379">
-      <Lemma writtenForm="hvad fanden" partOfSpeech="x"/>
+      <Lemma writtenForm="hvad fanden" partOfSpeech="i"/>
       <Sense id="L1218379-S1" synset="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1">
         <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
       </Sense>
@@ -2235,7 +2235,7 @@
     <Synset id="wikidata-da-L1010820-S1" ili="wikidata-da-L1010820-S1" partOfSpeech="m">
       <Definition>tallet 64</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1" partOfSpeech="t">
       <Definition>tidsperiode med skriftlige kilder</Definition>
     </Synset>
     <Synset id="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1" partOfSpeech="x">
@@ -2265,7 +2265,7 @@
     <Synset id="wikidata-da-L1119259-S1" ili="wikidata-da-L1119259-S1" partOfSpeech="m">
       <Definition>tallet 85</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1" partOfSpeech="t">
       <Definition>forstærkende kraftudtryk</Definition>
     </Synset>
     <Synset id="wikidata-da-L1219584-S1" ili="wikidata-da-L1219584-S1" partOfSpeech="i">
@@ -2283,7 +2283,7 @@
     <Synset id="wikidata-da-L42265-S1" ili="wikidata-da-L42265-S1" partOfSpeech="m">
       <Definition>tallet mellem 6 og 8</Definition>
     </Synset>
-    <Synset id="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1" partOfSpeech="t">
       <Definition>børnesygdom</Definition>
     </Synset>
     <Synset id="wikidata-da-L43254-S1" ili="wikidata-da-L43254-S1" partOfSpeech="m">
@@ -2556,10 +2556,10 @@
     <Synset id="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1" partOfSpeech="x">
       <Definition>med relation til Afrika</Definition>
     </Synset>
-    <Synset id="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1" partOfSpeech="n">
       <Definition>frø af arten Rana arvalis</Definition>
     </Synset>
-    <Synset id="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1" partOfSpeech="n">
       <Definition>padde i arten Pseudepidalea viridis</Definition>
     </Synset>
     <Synset id="wikidata-da-L654892-S1" ili="wikidata-da-L654892-S1" partOfSpeech="m">
@@ -2886,7 +2886,7 @@
     <Synset id="wikidata-da-L1175186-S1" ili="wikidata-da-L1175186-S1" partOfSpeech="i">
       <Definition>held og lykke</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218343-S1" ili="l1218344-s1" partOfSpeech="x">
+    <Synset id="wikidata-da-L1218343-S1" ili="l1218344-s1" partOfSpeech="i">
       <Definition>udtryk for bestyrtelse og overraskelse</Definition>
     </Synset>
     <Synset id="wikidata-da-L1226650-S1" ili="wikidata-da-L1226650-S1" partOfSpeech="r">
@@ -3012,7 +3012,7 @@
     <Synset id="wikidata-da-L1219587-S1" ili="wikidata-da-L1219587-S1" partOfSpeech="i">
       <Definition>forstærkende kraftudtryk</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1" partOfSpeech="t">
       <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
     </Synset>
     <Synset id="wikidata-da-L1504421-S1" ili="wikidata-da-L1504421-S1" partOfSpeech="i">
@@ -3132,10 +3132,10 @@
     <Synset id="wikidata-da-L1143780-S1" ili="wikidata-da-L1143780-S1" partOfSpeech="m">
       <Definition>tallet 82</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1" partOfSpeech="x">
+    <Synset id="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1" partOfSpeech="i">
       <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2" partOfSpeech="x">
+    <Synset id="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2" partOfSpeech="i">
       <Definition>udtryk for overraskelse eller forbavselse</Definition>
     </Synset>
     <Synset id="wikidata-da-L1227933-S1" ili="wikidata-da-L1227933-S1" partOfSpeech="r">

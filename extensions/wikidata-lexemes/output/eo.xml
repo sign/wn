@@ -123,7 +123,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523784">
-      <Lemma writtenForm="mia" partOfSpeech="x"/>
+      <Lemma writtenForm="mia" partOfSpeech="h"/>
       <Sense id="L523784-S1" synset="wikidata-eo-L523784-S1" ili="wikidata-eo-L523784-S1">
         <Definition></Definition>
       </Sense>
@@ -324,13 +324,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523787">
-      <Lemma writtenForm="ŝia" partOfSpeech="x"/>
+      <Lemma writtenForm="ŝia" partOfSpeech="h"/>
       <Sense id="L523787-S1" synset="wikidata-eo-L523787-S1" ili="wikidata-eo-L523787-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523792">
-      <Lemma writtenForm="onia" partOfSpeech="x"/>
+      <Lemma writtenForm="onia" partOfSpeech="h"/>
       <Sense id="L523792-S1" synset="wikidata-eo-L523792-S1" ili="wikidata-eo-L523792-S1">
         <Definition></Definition>
       </Sense>
@@ -421,7 +421,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523790">
-      <Lemma writtenForm="via" partOfSpeech="x"/>
+      <Lemma writtenForm="via" partOfSpeech="h"/>
       <Sense id="L523790-S1" synset="wikidata-eo-L523790-S1" ili="wikidata-eo-L523790-S1">
         <Definition></Definition>
       </Sense>
@@ -551,7 +551,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523798">
-      <Lemma writtenForm="ria" partOfSpeech="x"/>
+      <Lemma writtenForm="ria" partOfSpeech="h"/>
       <Sense id="L523798-S1" synset="wikidata-eo-L523798-S1" ili="wikidata-eo-L523798-S1">
         <Definition></Definition>
       </Sense>
@@ -666,13 +666,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523785">
-      <Lemma writtenForm="cia" partOfSpeech="x"/>
+      <Lemma writtenForm="cia" partOfSpeech="h"/>
       <Sense id="L523785-S1" synset="wikidata-eo-L523785-S1" ili="wikidata-eo-L523785-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523788">
-      <Lemma writtenForm="ĝia" partOfSpeech="x"/>
+      <Lemma writtenForm="ĝia" partOfSpeech="h"/>
       <Sense id="L523788-S1" synset="wikidata-eo-L523788-S1" ili="wikidata-eo-L523788-S1">
         <Definition></Definition>
       </Sense>
@@ -933,7 +933,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523786">
-      <Lemma writtenForm="lia" partOfSpeech="x"/>
+      <Lemma writtenForm="lia" partOfSpeech="h"/>
       <Sense id="L523786-S1" synset="wikidata-eo-L523786-S1" ili="wikidata-eo-L523786-S1">
         <Definition></Definition>
       </Sense>
@@ -1110,19 +1110,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523789">
-      <Lemma writtenForm="nia" partOfSpeech="x"/>
+      <Lemma writtenForm="nia" partOfSpeech="h"/>
       <Sense id="L523789-S1" synset="wikidata-eo-L523789-S1" ili="wikidata-eo-L523789-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523791">
-      <Lemma writtenForm="ilia" partOfSpeech="x"/>
+      <Lemma writtenForm="ilia" partOfSpeech="h"/>
       <Sense id="L523791-S1" synset="wikidata-eo-L523791-S1" ili="wikidata-eo-L523791-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L523793">
-      <Lemma writtenForm="sia" partOfSpeech="x"/>
+      <Lemma writtenForm="sia" partOfSpeech="h"/>
       <Sense id="L523793-S1" synset="wikidata-eo-L523793-S1" ili="wikidata-eo-L523793-S1">
         <Definition></Definition>
       </Sense>
@@ -1208,7 +1208,7 @@
     <Synset id="wikidata-eo-L470512-S1" ili="wikidata-eo-L470512-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523784-S1" ili="wikidata-eo-L523784-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523784-S1" ili="wikidata-eo-L523784-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L689812-S1" ili="wikidata-eo-L689812-S1" partOfSpeech="x">
@@ -1310,10 +1310,10 @@
     <Synset id="wikidata-eo-L470525-S1" ili="wikidata-eo-L470525-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523787-S1" ili="wikidata-eo-L523787-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523787-S1" ili="wikidata-eo-L523787-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523792-S1" ili="wikidata-eo-L523792-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523792-S1" ili="wikidata-eo-L523792-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L641842-S1" ili="wikidata-eo-L641842-S1" partOfSpeech="m">
@@ -1358,10 +1358,10 @@
     <Synset id="wikidata-eo-L470504-S1" ili="wikidata-eo-L470504-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523790-S1" ili="wikidata-eo-L523790-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523790-S1" ili="wikidata-eo-L523790-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523790-S2" ili="wikidata-eo-L523790-S2" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523790-S2" ili="wikidata-eo-L523790-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L701448-S1" ili="wikidata-eo-L701448-S1" partOfSpeech="x">
@@ -1427,7 +1427,7 @@
     <Synset id="wikidata-eo-L470515-S1" ili="wikidata-eo-L470515-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523798-S1" ili="wikidata-eo-L523798-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523798-S1" ili="wikidata-eo-L523798-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L43384-S1" ili="l485-s1" partOfSpeech="h">
@@ -1487,10 +1487,10 @@
     <Synset id="wikidata-eo-L470524-S1" ili="wikidata-eo-L470524-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523785-S1" ili="wikidata-eo-L523785-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523785-S1" ili="wikidata-eo-L523785-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523788-S1" ili="wikidata-eo-L523788-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523788-S1" ili="wikidata-eo-L523788-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L1371127-S1" ili="wikidata-eo-L1371127-S1" partOfSpeech="i">
@@ -1622,7 +1622,7 @@
     <Synset id="wikidata-eo-L470509-S1" ili="wikidata-eo-L470509-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523786-S1" ili="wikidata-eo-L523786-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523786-S1" ili="wikidata-eo-L523786-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L701454-S1" ili="wikidata-eo-L701454-S1" partOfSpeech="x">
@@ -1715,13 +1715,13 @@
     <Synset id="wikidata-eo-L470526-S1" ili="wikidata-eo-L470526-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523789-S1" ili="wikidata-eo-L523789-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523789-S1" ili="wikidata-eo-L523789-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523791-S1" ili="wikidata-eo-L523791-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523791-S1" ili="wikidata-eo-L523791-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523793-S1" ili="wikidata-eo-L523793-S1" partOfSpeech="x">
+    <Synset id="wikidata-eo-L523793-S1" ili="wikidata-eo-L523793-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-eo-L583641-S1" ili="wikidata-eo-L583641-S1" partOfSpeech="x">

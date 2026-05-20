@@ -24,7 +24,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411277">
-      <Lemma writtenForm="d’el" partOfSpeech="x"/>
+      <Lemma writtenForm="d’el" partOfSpeech="a"/>
       <Sense id="L1411277-S1" synset="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1">
         <Definition></Definition>
       </Sense>
@@ -38,7 +38,7 @@
     <Synset id="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1" partOfSpeech="x">
+    <Synset id="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

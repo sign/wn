@@ -68,7 +68,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1372065">
-      <Lemma writtenForm="tampak" partOfSpeech="x"/>
+      <Lemma writtenForm="tampak" partOfSpeech="n"/>
       <Sense id="L1372065-S1" synset="wikidata-id-L1372065-S1" ili="wikidata-id-L1372065-S1">
         <Definition>sesuatu yang dapat dilihat</Definition>
         <Example>Dua helikopter PBB tampak diparkir di landasan.</Example>
@@ -83,7 +83,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137695">
-      <Lemma writtenForm="buah" partOfSpeech="x"/>
+      <Lemma writtenForm="buah" partOfSpeech="m"/>
       <Sense id="L1137695-S1" synset="wikidata-id-L1137695-S1" ili="wikidata-id-L1137695-S1">
         <Definition>penggolongan untuk objek besar</Definition>
         <Example>diberi rezeki buah-buahan dalam surga-surga itu.</Example>
@@ -155,14 +155,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137682">
-      <Lemma writtenForm="biji" partOfSpeech="x"/>
+      <Lemma writtenForm="biji" partOfSpeech="m"/>
       <Sense id="L1137682-S1" synset="wikidata-id-L1137682-S1" ili="wikidata-id-L1137682-S1">
         <Definition>penggolongan untuk benda-benda kecil, buah-buahan</Definition>
         <Example>biji buah karet.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137706">
-      <Lemma writtenForm="lembar" partOfSpeech="x"/>
+      <Lemma writtenForm="lembar" partOfSpeech="m"/>
       <Sense id="L1137706-S1" synset="wikidata-id-L1137706-S1" ili="wikidata-id-L1137706-S1">
         <Definition>kata penggolong bagi benda yang panjang</Definition>
         <Example>daon djeroek poeroet satoe lembar</Example>
@@ -187,14 +187,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137669">
-      <Lemma writtenForm="ekor" partOfSpeech="x"/>
+      <Lemma writtenForm="ekor" partOfSpeech="m"/>
       <Sense id="L1137669-S1" synset="wikidata-id-L1137669-S1" ili="wikidata-id-L1137669-S1">
         <Definition>penggolongan untuk hewan</Definition>
         <Example>ber siap-siaplah Ganim bin Ayub dengan sebuah kafilah terdiri dari puluhan ekor unta untuk membawa barang dagangannya yang banyak itu.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137700">
-      <Lemma writtenForm="helai" partOfSpeech="x"/>
+      <Lemma writtenForm="helai" partOfSpeech="m"/>
       <Sense id="L1137700-S1" synset="wikidata-id-L1137700-S1" ili="wikidata-id-L1137700-S1">
         <Definition>kata penggolong untuk barang yang tipis atau halus</Definition>
         <Example>bunga yang menakjubkan diikuti helai demi helai</Example>
@@ -306,13 +306,13 @@
     <Synset id="wikidata-id-L1331077-S1" ili="wikidata-id-L1331077-S1" partOfSpeech="x">
       <Definition>konfiks pembentuk nomina</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1372065-S1" ili="wikidata-id-L1372065-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1372065-S1" ili="wikidata-id-L1372065-S1" partOfSpeech="n">
       <Definition>sesuatu yang dapat dilihat</Definition>
     </Synset>
     <Synset id="wikidata-id-L2474-S1" ili="wikidata-id-L2474-S1" partOfSpeech="h">
       <Definition>saya, perspektif orang pertama untuk menyebut dia sebagai pembicara atau penulis</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1137695-S1" ili="wikidata-id-L1137695-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1137695-S1" ili="wikidata-id-L1137695-S1" partOfSpeech="m">
       <Definition>penggolongan untuk objek besar</Definition>
     </Synset>
     <Synset id="wikidata-id-L1331076-S1" ili="wikidata-id-L1331076-S1" partOfSpeech="x">
@@ -348,10 +348,10 @@
     <Synset id="wikidata-id-L689613-S2" ili="wikidata-id-L689613-S2" partOfSpeech="p">
       <Definition>sejak, mulai</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1137682-S1" ili="wikidata-id-L1137682-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1137682-S1" ili="wikidata-id-L1137682-S1" partOfSpeech="m">
       <Definition>penggolongan untuk benda-benda kecil, buah-buahan</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1137706-S1" ili="wikidata-id-L1137706-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1137706-S1" ili="wikidata-id-L1137706-S1" partOfSpeech="m">
       <Definition>kata penggolong bagi benda yang panjang</Definition>
     </Synset>
     <Synset id="wikidata-id-L1331074-S1" ili="wikidata-id-L1331074-S1" partOfSpeech="x">
@@ -363,10 +363,10 @@
     <Synset id="wikidata-id-L692346-S1" ili="wikidata-id-L692346-S1" partOfSpeech="c">
       <Definition>menyatakan isi atau uraian kalimat yang di depan</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1137669-S1" ili="wikidata-id-L1137669-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1137669-S1" ili="wikidata-id-L1137669-S1" partOfSpeech="m">
       <Definition>penggolongan untuk hewan</Definition>
     </Synset>
-    <Synset id="wikidata-id-L1137700-S1" ili="wikidata-id-L1137700-S1" partOfSpeech="x">
+    <Synset id="wikidata-id-L1137700-S1" ili="wikidata-id-L1137700-S1" partOfSpeech="m">
       <Definition>kata penggolong untuk barang yang tipis atau halus</Definition>
     </Synset>
     <Synset id="wikidata-id-L690715-S1" ili="wikidata-id-L690715-S1" partOfSpeech="p">

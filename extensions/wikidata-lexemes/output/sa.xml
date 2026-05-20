@@ -21,7 +21,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747166">
-      <Lemma writtenForm="यदि" partOfSpeech="x"/>
+      <Lemma writtenForm="यदि" partOfSpeech="c"/>
       <Sense id="L747166-S1" synset="wikidata-sa-L747166-S1" ili="wikidata-sa-L747166-S1">
         <Definition></Definition>
       </Sense>
@@ -33,7 +33,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L750398">
-      <Lemma writtenForm="उपरि" partOfSpeech="x"/>
+      <Lemma writtenForm="उपरि" partOfSpeech="p"/>
       <Sense id="L750398-S1" synset="wikidata-sa-L750398-S1" ili="wikidata-sa-L750398-S1">
         <Definition></Definition>
       </Sense>
@@ -117,7 +117,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1325027">
-      <Lemma writtenForm="इह" partOfSpeech="x"/>
+      <Lemma writtenForm="इह" partOfSpeech="r"/>
       <Sense id="L1325027-S1" synset="wikidata-sa-L1325027-S1" ili="wikidata-sa-L1325027-S1">
         <Definition></Definition>
       </Sense>
@@ -534,7 +534,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125652">
-      <Lemma writtenForm="वा" partOfSpeech="x"/>
+      <Lemma writtenForm="वा" partOfSpeech="c"/>
       <Sense id="L1125652-S1" synset="wikidata-sa-L1125652-S1" ili="wikidata-sa-L1125652-S1">
         <Definition></Definition>
       </Sense>
@@ -618,7 +618,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L778656">
-      <Lemma writtenForm="एक" partOfSpeech="x"/>
+      <Lemma writtenForm="एक" partOfSpeech="a"/>
       <Sense id="L778656-S1" synset="wikidata-sa-L778656-S1" ili="wikidata-sa-L778656-S1">
         <Definition></Definition>
       </Sense>
@@ -872,13 +872,13 @@
     <Synset id="wikidata-sa-L687616-S1" ili="wikidata-sa-L687616-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sa-L747166-S1" ili="wikidata-sa-L747166-S1" partOfSpeech="x">
+    <Synset id="wikidata-sa-L747166-S1" ili="wikidata-sa-L747166-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sa-L749820-S1" ili="wikidata-sa-L749820-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sa-L750398-S1" ili="wikidata-sa-L750398-S1" partOfSpeech="x">
+    <Synset id="wikidata-sa-L750398-S1" ili="wikidata-sa-L750398-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sa-L1013990-S1" ili="wikidata-sa-L1013990-S1" partOfSpeech="h">
@@ -920,7 +920,7 @@
     <Synset id="wikidata-sa-L1310257-S1" ili="wikidata-sa-L1310257-S1" partOfSpeech="x">
       <Definition>(क्षेप)</Definition>
     </Synset>
-    <Synset id="wikidata-sa-L1325027-S1" ili="wikidata-sa-L1325027-S1" partOfSpeech="x">
+    <Synset id="wikidata-sa-L1325027-S1" ili="wikidata-sa-L1325027-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sa-L689458-S1" ili="wikidata-sa-L689458-S1" partOfSpeech="c">
@@ -1139,7 +1139,7 @@
     <Synset id="wikidata-sa-L1101931-S1" ili="wikidata-sa-L1101931-S1" partOfSpeech="x">
       <Definition>(सन्दर्भ)</Definition>
     </Synset>
-    <Synset id="wikidata-sa-L1125652-S1" ili="wikidata-sa-L1125652-S1" partOfSpeech="x">
+    <Synset id="wikidata-sa-L1125652-S1" ili="wikidata-sa-L1125652-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sa-L1139325-S1" ili="wikidata-sa-L1139325-S1" partOfSpeech="x">
@@ -1184,13 +1184,13 @@
     <Synset id="wikidata-sa-L747187-S2" ili="wikidata-sa-L747187-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sa-L778656-S1" ili="wikidata-sa-L778656-S1" partOfSpeech="x">
+    <Synset id="wikidata-sa-L778656-S1" ili="wikidata-sa-L778656-S1" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sa-L778656-S2" ili="wikidata-sa-L778656-S2" partOfSpeech="x">
+    <Synset id="wikidata-sa-L778656-S2" ili="wikidata-sa-L778656-S2" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sa-L778656-S3" ili="wikidata-sa-L778656-S3" partOfSpeech="x">
+    <Synset id="wikidata-sa-L778656-S3" ili="wikidata-sa-L778656-S3" partOfSpeech="a">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sa-L942702-S1" ili="wikidata-sa-L942702-S1" partOfSpeech="x">
