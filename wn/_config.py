@@ -305,7 +305,7 @@ class WNConfig:
 
         """
         if datadir := data.get("data_directory"):
-            if not isinstance(datadir, (str, Path)):
+            if not isinstance(datadir, str | Path):
                 raise ConfigurationError(
                     "data_directory must be a str or Path, "
                     f"not {type(datadir).__name__}"
