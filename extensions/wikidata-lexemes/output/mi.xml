@@ -15,13 +15,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407043">
-      <Lemma writtenForm="āe" partOfSpeech="interjection"/>
+      <Lemma writtenForm="āe" partOfSpeech="i"/>
       <Sense id="L407043-S1" synset="wikidata-mi-L407043-S1" ili="wikidata-mi-L407043-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327420">
-      <Lemma writtenForm="te" partOfSpeech="definite article"/>
+      <Lemma writtenForm="te" partOfSpeech="d"/>
       <Sense id="L1327420-S1" synset="wikidata-mi-L1327420-S1" ili="wikidata-mi-L1327420-S1">
         <Definition></Definition>
       </Sense>
@@ -39,7 +39,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1546608">
-      <Lemma writtenForm="ia" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ia" partOfSpeech="h"/>
       <Sense id="L1546608-S1" synset="wikidata-mi-L1546608-S1" ili="wikidata-mi-L1546608-S1">
         <Definition></Definition>
       </Sense>
@@ -108,7 +108,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327422">
-      <Lemma writtenForm="tētahi" partOfSpeech="indefinite article"/>
+      <Lemma writtenForm="tētahi" partOfSpeech="d"/>
       <Sense id="L1327422-S1" synset="wikidata-mi-L1327422-S1" ili="wikidata-mi-L1327422-S1">
         <Definition></Definition>
       </Sense>
@@ -159,7 +159,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327759">
-      <Lemma writtenForm="kē" partOfSpeech="adverbial particle"/>
+      <Lemma writtenForm="kē" partOfSpeech="r"/>
       <Sense id="L1327759-S1" synset="wikidata-mi-L1327759-S1" ili="wikidata-mi-L1327759-S1">
         <Definition></Definition>
       </Sense>
@@ -204,7 +204,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327762">
-      <Lemma writtenForm="noa" partOfSpeech="adverbial particle"/>
+      <Lemma writtenForm="noa" partOfSpeech="r"/>
       <Sense id="L1327762-S1" synset="wikidata-mi-L1327762-S1" ili="wikidata-mi-L1327762-S1">
         <Definition></Definition>
       </Sense>
@@ -231,7 +231,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327421">
-      <Lemma writtenForm="he" partOfSpeech="indefinite article"/>
+      <Lemma writtenForm="he" partOfSpeech="d"/>
       <Sense id="L1327421-S1" synset="wikidata-mi-L1327421-S1" ili="wikidata-mi-L1327421-S1">
         <Definition></Definition>
       </Sense>
@@ -248,139 +248,139 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-mi-L2222-S1" ili="wikidata-mi-L2222-S1">
+    <Synset id="wikidata-mi-L2222-S1" ili="wikidata-mi-L2222-S1" partOfSpeech="grammatical modifier">
       <Definition>matihiko, ahiko, mati</Definition>
     </Synset>
-    <Synset id="wikidata-mi-L407043-S1" ili="wikidata-mi-L407043-S1">
+    <Synset id="wikidata-mi-L407043-S1" ili="wikidata-mi-L407043-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327420-S1" ili="wikidata-mi-L1327420-S1">
+    <Synset id="wikidata-mi-L1327420-S1" ili="wikidata-mi-L1327420-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1330075-S1" ili="wikidata-mi-L1330075-S1">
+    <Synset id="wikidata-mi-L1330075-S1" ili="wikidata-mi-L1330075-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1331996-S1" ili="wikidata-mi-L1331996-S1">
+    <Synset id="wikidata-mi-L1331996-S1" ili="wikidata-mi-L1331996-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1546608-S1" ili="wikidata-mi-L1546608-S1">
+    <Synset id="wikidata-mi-L1546608-S1" ili="wikidata-mi-L1546608-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L655725-S1" ili="wikidata-mi-L655725-S1">
+    <Synset id="wikidata-mi-L655725-S1" ili="wikidata-mi-L655725-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1330232-S1" ili="wikidata-mi-L1330232-S1">
+    <Synset id="wikidata-mi-L1330232-S1" ili="wikidata-mi-L1330232-S1" partOfSpeech="grammatical modifier">
       <Definition>e noho ana, e haere ana, e kawea ana</Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1370811-S1" ili="wikidata-mi-L1370811-S1">
+    <Synset id="wikidata-mi-L1370811-S1" ili="wikidata-mi-L1370811-S1" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407840-S1" ili="wikidata-mi-L1407840-S1">
+    <Synset id="wikidata-mi-L1407840-S1" ili="wikidata-mi-L1407840-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L58071-S1" ili="wikidata-mi-L58071-S1">
+    <Synset id="wikidata-mi-L58071-S1" ili="wikidata-mi-L58071-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L652954-S1" ili="wikidata-mi-L652954-S1">
+    <Synset id="wikidata-mi-L652954-S1" ili="wikidata-mi-L652954-S1" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327754-S1" ili="wikidata-mi-L1327754-S1">
+    <Synset id="wikidata-mi-L1327754-S1" ili="wikidata-mi-L1327754-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327754-S2" ili="wikidata-mi-L1327754-S2">
+    <Synset id="wikidata-mi-L1327754-S2" ili="wikidata-mi-L1327754-S2" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1328869-S1" ili="wikidata-mi-L1328869-S1">
+    <Synset id="wikidata-mi-L1328869-S1" ili="wikidata-mi-L1328869-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407794-S1" ili="wikidata-mi-L1407794-S1">
+    <Synset id="wikidata-mi-L1407794-S1" ili="wikidata-mi-L1407794-S1" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407922-S1" ili="wikidata-mi-L1407922-S1">
+    <Synset id="wikidata-mi-L1407922-S1" ili="wikidata-mi-L1407922-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327422-S1" ili="wikidata-mi-L1327422-S1">
+    <Synset id="wikidata-mi-L1327422-S1" ili="wikidata-mi-L1327422-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327463-S1" ili="wikidata-mi-L1327463-S1">
+    <Synset id="wikidata-mi-L1327463-S1" ili="wikidata-mi-L1327463-S1" partOfSpeech="proper noun marker">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1397271-S1" ili="wikidata-mi-L1397271-S1">
+    <Synset id="wikidata-mi-L1397271-S1" ili="wikidata-mi-L1397271-S1" partOfSpeech="verbal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1397271-S2" ili="wikidata-mi-L1397271-S2">
+    <Synset id="wikidata-mi-L1397271-S2" ili="wikidata-mi-L1397271-S2" partOfSpeech="verbal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1397271-S3" ili="wikidata-mi-L1397271-S3">
+    <Synset id="wikidata-mi-L1397271-S3" ili="wikidata-mi-L1397271-S3" partOfSpeech="verbal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407836-S1" ili="wikidata-mi-L1407836-S1">
+    <Synset id="wikidata-mi-L1407836-S1" ili="wikidata-mi-L1407836-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407837-S1" ili="wikidata-mi-L1407837-S1">
+    <Synset id="wikidata-mi-L1407837-S1" ili="wikidata-mi-L1407837-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407837-S2" ili="wikidata-mi-L1407837-S2">
+    <Synset id="wikidata-mi-L1407837-S2" ili="wikidata-mi-L1407837-S2" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407919-S1" ili="wikidata-mi-L1407919-S1">
+    <Synset id="wikidata-mi-L1407919-S1" ili="wikidata-mi-L1407919-S1" partOfSpeech="question tag">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327722-S1" ili="wikidata-mi-L1327722-S1">
+    <Synset id="wikidata-mi-L1327722-S1" ili="wikidata-mi-L1327722-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327759-S1" ili="wikidata-mi-L1327759-S1">
+    <Synset id="wikidata-mi-L1327759-S1" ili="wikidata-mi-L1327759-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327764-S1" ili="wikidata-mi-L1327764-S1">
+    <Synset id="wikidata-mi-L1327764-S1" ili="wikidata-mi-L1327764-S1" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327764-S2" ili="wikidata-mi-L1327764-S2">
+    <Synset id="wikidata-mi-L1327764-S2" ili="wikidata-mi-L1327764-S2" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L35159-S1" ili="wikidata-mi-L35159-S1">
+    <Synset id="wikidata-mi-L35159-S1" ili="wikidata-mi-L35159-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L35159-S2" ili="wikidata-mi-L35159-S2">
+    <Synset id="wikidata-mi-L35159-S2" ili="wikidata-mi-L35159-S2" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327711-S1" ili="wikidata-mi-L1327711-S1">
+    <Synset id="wikidata-mi-L1327711-S1" ili="wikidata-mi-L1327711-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327711-S2" ili="wikidata-mi-L1327711-S2">
+    <Synset id="wikidata-mi-L1327711-S2" ili="wikidata-mi-L1327711-S2" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327753-S1" ili="wikidata-mi-L1327753-S1">
+    <Synset id="wikidata-mi-L1327753-S1" ili="wikidata-mi-L1327753-S1" partOfSpeech="adverbial modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327761-S1" ili="wikidata-mi-L1327761-S1">
+    <Synset id="wikidata-mi-L1327761-S1" ili="wikidata-mi-L1327761-S1" partOfSpeech="grammatical modifier">
       <Definition>whakatioro</Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327762-S1" ili="wikidata-mi-L1327762-S1">
+    <Synset id="wikidata-mi-L1327762-S1" ili="wikidata-mi-L1327762-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1328868-S1" ili="wikidata-mi-L1328868-S1">
+    <Synset id="wikidata-mi-L1328868-S1" ili="wikidata-mi-L1328868-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1328868-S2" ili="wikidata-mi-L1328868-S2">
+    <Synset id="wikidata-mi-L1328868-S2" ili="wikidata-mi-L1328868-S2" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407798-S1" ili="wikidata-mi-L1407798-S1">
+    <Synset id="wikidata-mi-L1407798-S1" ili="wikidata-mi-L1407798-S1" partOfSpeech="personal noun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1407838-S1" ili="wikidata-mi-L1407838-S1">
+    <Synset id="wikidata-mi-L1407838-S1" ili="wikidata-mi-L1407838-S1" partOfSpeech="locative noun">
       <Definition>Te Mangōroa</Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1327421-S1" ili="wikidata-mi-L1327421-S1">
+    <Synset id="wikidata-mi-L1327421-S1" ili="wikidata-mi-L1327421-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1330237-S1" ili="wikidata-mi-L1330237-S1">
+    <Synset id="wikidata-mi-L1330237-S1" ili="wikidata-mi-L1330237-S1" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1330237-S2" ili="wikidata-mi-L1330237-S2">
+    <Synset id="wikidata-mi-L1330237-S2" ili="wikidata-mi-L1330237-S2" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mi-L1330237-S3" ili="wikidata-mi-L1330237-S3">
+    <Synset id="wikidata-mi-L1330237-S3" ili="wikidata-mi-L1330237-S3" partOfSpeech="grammatical modifier">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

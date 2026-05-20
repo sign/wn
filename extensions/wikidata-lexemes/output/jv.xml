@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-jv" version="1.4"/>
     <LexicalEntry id="L2327">
-      <Lemma writtenForm="kula" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="kula" partOfSpeech="h"/>
       <Sense id="L2327-S1" synset="wikidata-jv-L2327-S1" ili="wikidata-jv-L2327-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2328">
-      <Lemma writtenForm="kowé" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="kowé" partOfSpeech="h"/>
       <Sense id="L2328-S1" synset="wikidata-jv-L2328-S1" ili="wikidata-jv-L2328-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-jv-L2327-S1" ili="wikidata-jv-L2327-S1">
+    <Synset id="wikidata-jv-L2327-S1" ili="wikidata-jv-L2327-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-jv-L2328-S1" ili="wikidata-jv-L2328-S1">
+    <Synset id="wikidata-jv-L2328-S1" ili="wikidata-jv-L2328-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

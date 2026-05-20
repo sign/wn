@@ -9,30 +9,30 @@
                     version="1.0">
     <Extends id="omw-ae" version="1.4"/>
     <LexicalEntry id="L1467126">
-      <Lemma writtenForm="𐬗𐬀𐬚𐬡𐬀𐬭" partOfSpeech="numeral"/>
+      <Lemma writtenForm="𐬗𐬀𐬚𐬡𐬀𐬭" partOfSpeech="m"/>
       <Sense id="L1467126-S1" synset="wikidata-ae-L1467126-S1" ili="wikidata-ae-L1467126-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1547974">
-      <Lemma writtenForm="𐬙𐬀𐬭𐬋" partOfSpeech="preposition"/>
+      <Lemma writtenForm="𐬙𐬀𐬭𐬋" partOfSpeech="p"/>
       <Sense id="L1547974-S1" synset="wikidata-ae-L1547974-S1" ili="wikidata-ae-L1547974-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L613964">
-      <Lemma writtenForm="𐬀𐬉𐬎𐬎𐬀" partOfSpeech="numeral"/>
+      <Lemma writtenForm="𐬀𐬉𐬎𐬎𐬀" partOfSpeech="m"/>
       <Sense id="L613964-S1" synset="wikidata-ae-L613964-S1" ili="wikidata-ae-L613964-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ae-L1467126-S1" ili="wikidata-ae-L1467126-S1">
+    <Synset id="wikidata-ae-L1467126-S1" ili="wikidata-ae-L1467126-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ae-L1547974-S1" ili="wikidata-ae-L1547974-S1">
+    <Synset id="wikidata-ae-L1547974-S1" ili="wikidata-ae-L1547974-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ae-L613964-S1" ili="wikidata-ae-L613964-S1">
+    <Synset id="wikidata-ae-L613964-S1" ili="wikidata-ae-L613964-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -19,12 +19,13 @@ RUN pip install --no-cache-dir ".[web]"
 # Download the wordnet data and initialize the database
 # CILI is for the Collaborative Interlingual Index
 # ODENET is for the German WordNet (linked to CILI)
-# TODO: this should be done in a separate volume
 RUN python -m wn download omw:1.4 cili odenet:1.4
 
-# Load data extensions
+# Load data extensions and merge them into their base lexicons so the
+# Open Multilingual Wordnet ends up with one lexicon per language.
 COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
-RUN python -c "import wn; import sys; [wn.add(f) for f in sys.argv[1:]]" extensions/wikidata-lexemes/output/*.xml
+COPY extensions/wikidata-lexemes/merge_extension.py ./extensions/wikidata-lexemes/merge_extension.py
+RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-lexemes/output/*.xml
 
 # Run ANALYZE so SQLite has query planner statistics baked into the image
 RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"

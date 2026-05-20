@@ -9,30 +9,30 @@
                     version="1.0">
     <Extends id="omw-yo" version="1.4"/>
     <LexicalEntry id="L594106">
-      <Lemma writtenForm="Ọkùnrin" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="Ọkùnrin" partOfSpeech="h"/>
       <Sense id="L594106-S1" synset="wikidata-yo-L594106-S1" ili="wikidata-yo-L594106-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L594102">
-      <Lemma writtenForm="obìnrin" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="obìnrin" partOfSpeech="h"/>
       <Sense id="L594102-S1" synset="wikidata-yo-L594102-S1" ili="wikidata-yo-L594102-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216976">
-      <Lemma writtenForm="àwọn" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="àwọn" partOfSpeech="h"/>
       <Sense id="L1216976-S1" synset="wikidata-yo-L1216976-S1" ili="wikidata-yo-L1216976-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-yo-L594106-S1" ili="wikidata-yo-L594106-S1">
+    <Synset id="wikidata-yo-L594106-S1" ili="wikidata-yo-L594106-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-yo-L594102-S1" ili="wikidata-yo-L594102-S1">
+    <Synset id="wikidata-yo-L594102-S1" ili="wikidata-yo-L594102-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-yo-L1216976-S1" ili="wikidata-yo-L1216976-S1">
+    <Synset id="wikidata-yo-L1216976-S1" ili="wikidata-yo-L1216976-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

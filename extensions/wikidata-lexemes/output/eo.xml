@@ -9,115 +9,115 @@
                     version="1.0">
     <Extends id="omw-eo" version="1.4"/>
     <LexicalEntry id="L43386">
-      <Lemma writtenForm="ĝi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ĝi" partOfSpeech="h"/>
       <Sense id="L43386-S1" synset="wikidata-eo-L43386-S1" ili="l507-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305162">
-      <Lemma writtenForm="ili" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ili" partOfSpeech="h"/>
       <Sense id="L305162-S1" synset="wikidata-eo-L305162-S1" ili="l371-s2">
         <Definition>triapersona plurala pronomo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314558">
-      <Lemma writtenForm="ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ses" partOfSpeech="m"/>
       <Sense id="L314558-S1" synset="wikidata-eo-L314558-S1" ili="wikidata-eo-L314558-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407378">
-      <Lemma writtenForm="cent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cent" partOfSpeech="m"/>
       <Sense id="L407378-S1" synset="wikidata-eo-L407378-S1" ili="wikidata-eo-L407378-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L464946">
-      <Lemma writtenForm="ne" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ne" partOfSpeech="y"/>
       <Sense id="L464946-S1" synset="wikidata-eo-L464946-S1" ili="wikidata-eo-L464946-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470431">
-      <Lemma writtenForm="dek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek tri" partOfSpeech="m"/>
       <Sense id="L470431-S1" synset="wikidata-eo-L470431-S1" ili="wikidata-eo-L470431-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470435">
-      <Lemma writtenForm="dek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek sep" partOfSpeech="m"/>
       <Sense id="L470435-S1" synset="wikidata-eo-L470435-S1" ili="wikidata-eo-L470435-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470438">
-      <Lemma writtenForm="dudek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek" partOfSpeech="m"/>
       <Sense id="L470438-S1" synset="wikidata-eo-L470438-S1" ili="wikidata-eo-L470438-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470442">
-      <Lemma writtenForm="dudek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek kvar" partOfSpeech="m"/>
       <Sense id="L470442-S1" synset="wikidata-eo-L470442-S1" ili="wikidata-eo-L470442-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470449">
-      <Lemma writtenForm="tridek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek unu" partOfSpeech="m"/>
       <Sense id="L470449-S1" synset="wikidata-eo-L470449-S1" ili="wikidata-eo-L470449-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470456">
-      <Lemma writtenForm="tridek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek sep" partOfSpeech="m"/>
       <Sense id="L470456-S1" synset="wikidata-eo-L470456-S1" ili="wikidata-eo-L470456-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470457">
-      <Lemma writtenForm="tridek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek ok" partOfSpeech="m"/>
       <Sense id="L470457-S1" synset="wikidata-eo-L470457-S1" ili="wikidata-eo-L470457-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470462">
-      <Lemma writtenForm="kvardek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek tri" partOfSpeech="m"/>
       <Sense id="L470462-S1" synset="wikidata-eo-L470462-S1" ili="wikidata-eo-L470462-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470464">
-      <Lemma writtenForm="kvardek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek kvin" partOfSpeech="m"/>
       <Sense id="L470464-S1" synset="wikidata-eo-L470464-S1" ili="wikidata-eo-L470464-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470465">
-      <Lemma writtenForm="kvardek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek ses" partOfSpeech="m"/>
       <Sense id="L470465-S1" synset="wikidata-eo-L470465-S1" ili="wikidata-eo-L470465-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470475">
-      <Lemma writtenForm="kvindek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek ses" partOfSpeech="m"/>
       <Sense id="L470475-S1" synset="wikidata-eo-L470475-S1" ili="wikidata-eo-L470475-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470477">
-      <Lemma writtenForm="kvindek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek ok" partOfSpeech="m"/>
       <Sense id="L470477-S1" synset="wikidata-eo-L470477-S1" ili="wikidata-eo-L470477-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470505">
-      <Lemma writtenForm="okdek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek ses" partOfSpeech="m"/>
       <Sense id="L470505-S1" synset="wikidata-eo-L470505-S1" ili="wikidata-eo-L470505-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470512">
-      <Lemma writtenForm="naŭdek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek tri" partOfSpeech="m"/>
       <Sense id="L470512-S1" synset="wikidata-eo-L470512-S1" ili="wikidata-eo-L470512-S1">
         <Definition></Definition>
       </Sense>
@@ -135,49 +135,49 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1551601">
-      <Lemma writtenForm="saluton" partOfSpeech="interjection"/>
+      <Lemma writtenForm="saluton" partOfSpeech="i"/>
       <Sense id="L1551601-S1" synset="wikidata-eo-L1551601-S1" ili="l8885-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4169">
-      <Lemma writtenForm="du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="du" partOfSpeech="m"/>
       <Sense id="L4169-S1" synset="wikidata-eo-L4169-S1" ili="wikidata-eo-L4169-S1">
         <Definition>natura nombro</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L43387">
-      <Lemma writtenForm="ri" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ri" partOfSpeech="h"/>
       <Sense id="L43387-S1" synset="wikidata-eo-L43387-S1" ili="l371-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305818">
-      <Lemma writtenForm="ivi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ivi" partOfSpeech="h"/>
       <Sense id="L305818-S1" synset="wikidata-eo-L305818-S1" ili="wikidata-eo-L305818-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314555">
-      <Lemma writtenForm="tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tri" partOfSpeech="m"/>
       <Sense id="L314555-S1" synset="wikidata-eo-L314555-S1" ili="wikidata-eo-L314555-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314557">
-      <Lemma writtenForm="kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvin" partOfSpeech="m"/>
       <Sense id="L314557-S1" synset="wikidata-eo-L314557-S1" ili="wikidata-eo-L314557-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314561">
-      <Lemma writtenForm="dek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek" partOfSpeech="m"/>
       <Sense id="L314561-S1" synset="wikidata-eo-L314561-S1" ili="wikidata-eo-L314561-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407013">
-      <Lemma writtenForm="jes" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jes" partOfSpeech="i"/>
       <Sense id="L407013-S1" synset="wikidata-eo-L407013-S1" ili="wikidata-eo-L407013-S1">
         <Definition></Definition>
       </Sense>
@@ -204,121 +204,121 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L464896">
-      <Lemma writtenForm="laŭ" partOfSpeech="preposition"/>
+      <Lemma writtenForm="laŭ" partOfSpeech="p"/>
       <Sense id="L464896-S1" synset="wikidata-eo-L464896-S1" ili="wikidata-eo-L464896-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L464947">
-      <Lemma writtenForm="ne" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ne" partOfSpeech="i"/>
       <Sense id="L464947-S1" synset="wikidata-eo-L464947-S1" ili="wikidata-eo-L464947-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470443">
-      <Lemma writtenForm="dudek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek kvin" partOfSpeech="m"/>
       <Sense id="L470443-S1" synset="wikidata-eo-L470443-S1" ili="wikidata-eo-L470443-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470445">
-      <Lemma writtenForm="dudek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek sep" partOfSpeech="m"/>
       <Sense id="L470445-S1" synset="wikidata-eo-L470445-S1" ili="wikidata-eo-L470445-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470446">
-      <Lemma writtenForm="dudek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek ok" partOfSpeech="m"/>
       <Sense id="L470446-S1" synset="wikidata-eo-L470446-S1" ili="wikidata-eo-L470446-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470458">
-      <Lemma writtenForm="tridek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek naŭ" partOfSpeech="m"/>
       <Sense id="L470458-S1" synset="wikidata-eo-L470458-S1" ili="wikidata-eo-L470458-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470467">
-      <Lemma writtenForm="kvardek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek ok" partOfSpeech="m"/>
       <Sense id="L470467-S1" synset="wikidata-eo-L470467-S1" ili="wikidata-eo-L470467-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470476">
-      <Lemma writtenForm="kvindek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek sep" partOfSpeech="m"/>
       <Sense id="L470476-S1" synset="wikidata-eo-L470476-S1" ili="wikidata-eo-L470476-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470478">
-      <Lemma writtenForm="kvindek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek naŭ" partOfSpeech="m"/>
       <Sense id="L470478-S1" synset="wikidata-eo-L470478-S1" ili="wikidata-eo-L470478-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470486">
-      <Lemma writtenForm="sesdek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek sep" partOfSpeech="m"/>
       <Sense id="L470486-S1" synset="wikidata-eo-L470486-S1" ili="wikidata-eo-L470486-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470494">
-      <Lemma writtenForm="sepdek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek kvin" partOfSpeech="m"/>
       <Sense id="L470494-S1" synset="wikidata-eo-L470494-S1" ili="wikidata-eo-L470494-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470500">
-      <Lemma writtenForm="okdek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek unu" partOfSpeech="m"/>
       <Sense id="L470500-S1" synset="wikidata-eo-L470500-S1" ili="wikidata-eo-L470500-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470501">
-      <Lemma writtenForm="okdek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek du" partOfSpeech="m"/>
       <Sense id="L470501-S1" synset="wikidata-eo-L470501-S1" ili="wikidata-eo-L470501-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470502">
-      <Lemma writtenForm="okdek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek tri" partOfSpeech="m"/>
       <Sense id="L470502-S1" synset="wikidata-eo-L470502-S1" ili="wikidata-eo-L470502-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470506">
-      <Lemma writtenForm="okdek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek sep" partOfSpeech="m"/>
       <Sense id="L470506-S1" synset="wikidata-eo-L470506-S1" ili="wikidata-eo-L470506-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470508">
-      <Lemma writtenForm="okdek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek naŭ" partOfSpeech="m"/>
       <Sense id="L470508-S1" synset="wikidata-eo-L470508-S1" ili="wikidata-eo-L470508-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470518">
-      <Lemma writtenForm="naŭdek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek naŭ" partOfSpeech="m"/>
       <Sense id="L470518-S1" synset="wikidata-eo-L470518-S1" ili="wikidata-eo-L470518-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470520">
-      <Lemma writtenForm="tricent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tricent" partOfSpeech="m"/>
       <Sense id="L470520-S1" synset="wikidata-eo-L470520-S1" ili="wikidata-eo-L470520-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470522">
-      <Lemma writtenForm="kvincent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvincent" partOfSpeech="m"/>
       <Sense id="L470522-S1" synset="wikidata-eo-L470522-S1" ili="wikidata-eo-L470522-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470525">
-      <Lemma writtenForm="okcent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okcent" partOfSpeech="m"/>
       <Sense id="L470525-S1" synset="wikidata-eo-L470525-S1" ili="wikidata-eo-L470525-S1">
         <Definition></Definition>
       </Sense>
@@ -336,19 +336,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641842">
-      <Lemma writtenForm="nulo" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nulo" partOfSpeech="m"/>
       <Sense id="L641842-S1" synset="wikidata-eo-L641842-S1" ili="wikidata-eo-L641842-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371129">
-      <Lemma writtenForm="ve" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ve" partOfSpeech="i"/>
       <Sense id="L1371129-S1" synset="wikidata-eo-L1371129-S1" ili="wikidata-eo-L1371129-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305165">
-      <Lemma writtenForm="ŝli" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ŝli" partOfSpeech="h"/>
       <Sense id="L305165-S1" synset="wikidata-eo-L305165-S1" ili="wikidata-eo-L305165-S1">
         <Definition></Definition>
       </Sense>
@@ -366,56 +366,56 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314587">
-      <Lemma writtenForm="aŭ" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="aŭ" partOfSpeech="c"/>
       <Sense id="L314587-S1" synset="wikidata-eo-L314587-S1" ili="wikidata-eo-L314587-S1">
         <Definition></Definition>
         <Example>Ĉu vi volas kafon aŭ teon?</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407373">
-      <Lemma writtenForm="mil" partOfSpeech="numeral"/>
+      <Lemma writtenForm="mil" partOfSpeech="m"/>
       <Sense id="L407373-S1" synset="wikidata-eo-L407373-S1" ili="wikidata-eo-L407373-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470447">
-      <Lemma writtenForm="dudek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek naŭ" partOfSpeech="m"/>
       <Sense id="L470447-S1" synset="wikidata-eo-L470447-S1" ili="wikidata-eo-L470447-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470453">
-      <Lemma writtenForm="tridek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek kvin" partOfSpeech="m"/>
       <Sense id="L470453-S1" synset="wikidata-eo-L470453-S1" ili="wikidata-eo-L470453-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470468">
-      <Lemma writtenForm="kvardek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek naŭ" partOfSpeech="m"/>
       <Sense id="L470468-S1" synset="wikidata-eo-L470468-S1" ili="wikidata-eo-L470468-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470471">
-      <Lemma writtenForm="kvindek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek du" partOfSpeech="m"/>
       <Sense id="L470471-S1" synset="wikidata-eo-L470471-S1" ili="wikidata-eo-L470471-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470484">
-      <Lemma writtenForm="sesdek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek kvin" partOfSpeech="m"/>
       <Sense id="L470484-S1" synset="wikidata-eo-L470484-S1" ili="wikidata-eo-L470484-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470485">
-      <Lemma writtenForm="sesdek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek ses" partOfSpeech="m"/>
       <Sense id="L470485-S1" synset="wikidata-eo-L470485-S1" ili="wikidata-eo-L470485-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470504">
-      <Lemma writtenForm="okdek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek kvin" partOfSpeech="m"/>
       <Sense id="L470504-S1" synset="wikidata-eo-L470504-S1" ili="wikidata-eo-L470504-S1">
         <Definition></Definition>
       </Sense>
@@ -436,7 +436,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371130">
-      <Lemma writtenForm="fi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="fi" partOfSpeech="i"/>
       <Sense id="L1371130-S1" synset="wikidata-eo-L1371130-S1" ili="wikidata-eo-L1371130-S1">
         <Definition></Definition>
       </Sense>
@@ -448,13 +448,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L301346">
-      <Lemma writtenForm="kun" partOfSpeech="preposition"/>
+      <Lemma writtenForm="kun" partOfSpeech="p"/>
       <Sense id="L301346-S1" synset="wikidata-eo-L301346-S1" ili="wikidata-eo-L301346-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305160">
-      <Lemma writtenForm="vi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="vi" partOfSpeech="h"/>
       <Sense id="L305160-S1" synset="wikidata-eo-L305160-S1" ili="wikidata-eo-L305160-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-eo-L305164-S1"/>
@@ -464,7 +464,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406377">
-      <Lemma writtenForm="la" partOfSpeech="definite article"/>
+      <Lemma writtenForm="la" partOfSpeech="d"/>
       <Sense id="L406377-S1" synset="wikidata-eo-L406377-S1" ili="wikidata-eo-L406377-S1">
         <Definition></Definition>
       </Sense>
@@ -482,7 +482,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411265">
-      <Lemma writtenForm="en" partOfSpeech="preposition"/>
+      <Lemma writtenForm="en" partOfSpeech="p"/>
       <Sense id="L411265-S1" synset="wikidata-eo-L411265-S1" ili="wikidata-eo-L411265-S1">
         <Definition></Definition>
       </Sense>
@@ -491,61 +491,61 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411289">
-      <Lemma writtenForm="kaŭ" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="kaŭ" partOfSpeech="c"/>
       <Sense id="L411289-S1" synset="wikidata-eo-L411289-S1" ili="wikidata-eo-L411289-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470430">
-      <Lemma writtenForm="dek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek du" partOfSpeech="m"/>
       <Sense id="L470430-S1" synset="wikidata-eo-L470430-S1" ili="wikidata-eo-L470430-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470437">
-      <Lemma writtenForm="dek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek naŭ" partOfSpeech="m"/>
       <Sense id="L470437-S1" synset="wikidata-eo-L470437-S1" ili="wikidata-eo-L470437-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470441">
-      <Lemma writtenForm="dudek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek tri" partOfSpeech="m"/>
       <Sense id="L470441-S1" synset="wikidata-eo-L470441-S1" ili="wikidata-eo-L470441-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470452">
-      <Lemma writtenForm="tridek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek kvar" partOfSpeech="m"/>
       <Sense id="L470452-S1" synset="wikidata-eo-L470452-S1" ili="wikidata-eo-L470452-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470473">
-      <Lemma writtenForm="kvindek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek kvar" partOfSpeech="m"/>
       <Sense id="L470473-S1" synset="wikidata-eo-L470473-S1" ili="wikidata-eo-L470473-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470480">
-      <Lemma writtenForm="sesdek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek unu" partOfSpeech="m"/>
       <Sense id="L470480-S1" synset="wikidata-eo-L470480-S1" ili="wikidata-eo-L470480-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470487">
-      <Lemma writtenForm="sesdek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek ok" partOfSpeech="m"/>
       <Sense id="L470487-S1" synset="wikidata-eo-L470487-S1" ili="wikidata-eo-L470487-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470489">
-      <Lemma writtenForm="sepdek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek" partOfSpeech="m"/>
       <Sense id="L470489-S1" synset="wikidata-eo-L470489-S1" ili="wikidata-eo-L470489-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470515">
-      <Lemma writtenForm="naŭdek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek ses" partOfSpeech="m"/>
       <Sense id="L470515-S1" synset="wikidata-eo-L470515-S1" ili="wikidata-eo-L470515-S1">
         <Definition></Definition>
       </Sense>
@@ -557,7 +557,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L43384">
-      <Lemma writtenForm="li" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="li" partOfSpeech="h"/>
       <Sense id="L43384-S1" synset="wikidata-eo-L43384-S1" ili="l485-s1">
         <Definition></Definition>
       </Sense>
@@ -566,20 +566,20 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L301347">
-      <Lemma writtenForm="kaj" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="kaj" partOfSpeech="c"/>
       <Sense id="L301347-S1" synset="wikidata-eo-L301347-S1" ili="wikidata-eo-L301347-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305164">
-      <Lemma writtenForm="ci" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ci" partOfSpeech="h"/>
       <Sense id="L305164-S1" synset="wikidata-eo-L305164-S1" ili="wikidata-eo-L305164-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-eo-L305160-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305811">
-      <Lemma writtenForm="iŝi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="iŝi" partOfSpeech="h"/>
       <Sense id="L305811-S1" synset="wikidata-eo-L305811-S1" ili="wikidata-eo-L305811-S1">
         <Definition></Definition>
       </Sense>
@@ -600,7 +600,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314562">
-      <Lemma writtenForm="ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ok" partOfSpeech="m"/>
       <Sense id="L314562-S1" synset="wikidata-eo-L314562-S1" ili="wikidata-eo-L314562-S1">
         <Definition></Definition>
       </Sense>
@@ -612,55 +612,55 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470450">
-      <Lemma writtenForm="tridek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek du" partOfSpeech="m"/>
       <Sense id="L470450-S1" synset="wikidata-eo-L470450-S1" ili="wikidata-eo-L470450-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470460">
-      <Lemma writtenForm="kvardek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek unu" partOfSpeech="m"/>
       <Sense id="L470460-S1" synset="wikidata-eo-L470460-S1" ili="wikidata-eo-L470460-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470463">
-      <Lemma writtenForm="kvardek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek kvar" partOfSpeech="m"/>
       <Sense id="L470463-S1" synset="wikidata-eo-L470463-S1" ili="wikidata-eo-L470463-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470482">
-      <Lemma writtenForm="sesdek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek tri" partOfSpeech="m"/>
       <Sense id="L470482-S1" synset="wikidata-eo-L470482-S1" ili="wikidata-eo-L470482-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470493">
-      <Lemma writtenForm="sepdek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek kvar" partOfSpeech="m"/>
       <Sense id="L470493-S1" synset="wikidata-eo-L470493-S1" ili="wikidata-eo-L470493-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470498">
-      <Lemma writtenForm="sepdek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek naŭ" partOfSpeech="m"/>
       <Sense id="L470498-S1" synset="wikidata-eo-L470498-S1" ili="wikidata-eo-L470498-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470503">
-      <Lemma writtenForm="okdek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek kvar" partOfSpeech="m"/>
       <Sense id="L470503-S1" synset="wikidata-eo-L470503-S1" ili="wikidata-eo-L470503-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470517">
-      <Lemma writtenForm="naŭdek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek ok" partOfSpeech="m"/>
       <Sense id="L470517-S1" synset="wikidata-eo-L470517-S1" ili="wikidata-eo-L470517-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470524">
-      <Lemma writtenForm="sepcent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepcent" partOfSpeech="m"/>
       <Sense id="L470524-S1" synset="wikidata-eo-L470524-S1" ili="wikidata-eo-L470524-S1">
         <Definition></Definition>
       </Sense>
@@ -678,31 +678,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371127">
-      <Lemma writtenForm="ho" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ho" partOfSpeech="i"/>
       <Sense id="L1371127-S1" synset="wikidata-eo-L1371127-S1" ili="wikidata-eo-L1371127-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371131">
-      <Lemma writtenForm="neniu" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="neniu" partOfSpeech="h"/>
       <Sense id="L1371131-S1" synset="wikidata-eo-L1371131-S1" ili="wikidata-eo-L1371131-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466826">
-      <Lemma writtenForm="ĉi" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ĉi" partOfSpeech="y"/>
       <Sense id="L1466826-S1" synset="wikidata-eo-L1466826-S1" ili="wikidata-eo-L1466826-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305159">
-      <Lemma writtenForm="mi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="mi" partOfSpeech="h"/>
       <Sense id="L305159-S1" synset="wikidata-eo-L305159-S1" ili="wikidata-eo-L305159-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305849">
-      <Lemma writtenForm="hi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="hi" partOfSpeech="h"/>
       <Sense id="L305849-S1" synset="wikidata-eo-L305849-S1" ili="wikidata-eo-L305849-S1">
         <Definition></Definition>
       </Sense>
@@ -729,13 +729,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314556">
-      <Lemma writtenForm="kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvar" partOfSpeech="m"/>
       <Sense id="L314556-S1" synset="wikidata-eo-L314556-S1" ili="wikidata-eo-L314556-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314559">
-      <Lemma writtenForm="sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sep" partOfSpeech="m"/>
       <Sense id="L314559-S1" synset="wikidata-eo-L314559-S1" ili="wikidata-eo-L314559-S1">
         <Definition></Definition>
       </Sense>
@@ -747,73 +747,73 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470433">
-      <Lemma writtenForm="dek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek kvin" partOfSpeech="m"/>
       <Sense id="L470433-S1" synset="wikidata-eo-L470433-S1" ili="wikidata-eo-L470433-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470436">
-      <Lemma writtenForm="dek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek ok" partOfSpeech="m"/>
       <Sense id="L470436-S1" synset="wikidata-eo-L470436-S1" ili="wikidata-eo-L470436-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470439">
-      <Lemma writtenForm="dudek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek unu" partOfSpeech="m"/>
       <Sense id="L470439-S1" synset="wikidata-eo-L470439-S1" ili="wikidata-eo-L470439-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470451">
-      <Lemma writtenForm="tridek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek tri" partOfSpeech="m"/>
       <Sense id="L470451-S1" synset="wikidata-eo-L470451-S1" ili="wikidata-eo-L470451-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470491">
-      <Lemma writtenForm="sepdek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek du" partOfSpeech="m"/>
       <Sense id="L470491-S1" synset="wikidata-eo-L470491-S1" ili="wikidata-eo-L470491-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470496">
-      <Lemma writtenForm="sepdek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek sep" partOfSpeech="m"/>
       <Sense id="L470496-S1" synset="wikidata-eo-L470496-S1" ili="wikidata-eo-L470496-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470499">
-      <Lemma writtenForm="okdek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek" partOfSpeech="m"/>
       <Sense id="L470499-S1" synset="wikidata-eo-L470499-S1" ili="wikidata-eo-L470499-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470510">
-      <Lemma writtenForm="naŭdek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek unu" partOfSpeech="m"/>
       <Sense id="L470510-S1" synset="wikidata-eo-L470510-S1" ili="wikidata-eo-L470510-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470511">
-      <Lemma writtenForm="naŭdek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek du" partOfSpeech="m"/>
       <Sense id="L470511-S1" synset="wikidata-eo-L470511-S1" ili="wikidata-eo-L470511-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470514">
-      <Lemma writtenForm="naŭdek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek kvin" partOfSpeech="m"/>
       <Sense id="L470514-S1" synset="wikidata-eo-L470514-S1" ili="wikidata-eo-L470514-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470516">
-      <Lemma writtenForm="naŭdek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek sep" partOfSpeech="m"/>
       <Sense id="L470516-S1" synset="wikidata-eo-L470516-S1" ili="wikidata-eo-L470516-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470523">
-      <Lemma writtenForm="sescent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sescent" partOfSpeech="m"/>
       <Sense id="L470523-S1" synset="wikidata-eo-L470523-S1" ili="wikidata-eo-L470523-S1">
         <Definition></Definition>
       </Sense>
@@ -837,19 +837,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371124">
-      <Lemma writtenForm="ol" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ol" partOfSpeech="c"/>
       <Sense id="L1371124-S1" synset="wikidata-eo-L1371124-S1" ili="wikidata-eo-L1371124-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L43385">
-      <Lemma writtenForm="ŝi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ŝi" partOfSpeech="h"/>
       <Sense id="L43385-S1" synset="wikidata-eo-L43385-S1" ili="l484-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314588">
-      <Lemma writtenForm="sed" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="sed" partOfSpeech="c"/>
       <Sense id="L314588-S1" synset="wikidata-eo-L314588-S1" ili="wikidata-eo-L314588-S1">
         <Definition></Definition>
       </Sense>
@@ -861,73 +861,73 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L464866">
-      <Lemma writtenForm="ĝis" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ĝis" partOfSpeech="p"/>
       <Sense id="L464866-S1" synset="wikidata-eo-L464866-S1" ili="wikidata-eo-L464866-S1">
         <Definition>la spaco aux dauxro inter du aferoj</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470434">
-      <Lemma writtenForm="dek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek ses" partOfSpeech="m"/>
       <Sense id="L470434-S1" synset="wikidata-eo-L470434-S1" ili="wikidata-eo-L470434-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470440">
-      <Lemma writtenForm="dudek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek du" partOfSpeech="m"/>
       <Sense id="L470440-S1" synset="wikidata-eo-L470440-S1" ili="wikidata-eo-L470440-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470448">
-      <Lemma writtenForm="tridek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek" partOfSpeech="m"/>
       <Sense id="L470448-S1" synset="wikidata-eo-L470448-S1" ili="wikidata-eo-L470448-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470461">
-      <Lemma writtenForm="kvardek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek du" partOfSpeech="m"/>
       <Sense id="L470461-S1" synset="wikidata-eo-L470461-S1" ili="wikidata-eo-L470461-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470466">
-      <Lemma writtenForm="kvardek sep" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek sep" partOfSpeech="m"/>
       <Sense id="L470466-S1" synset="wikidata-eo-L470466-S1" ili="wikidata-eo-L470466-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470469">
-      <Lemma writtenForm="kvindek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek" partOfSpeech="m"/>
       <Sense id="L470469-S1" synset="wikidata-eo-L470469-S1" ili="wikidata-eo-L470469-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470470">
-      <Lemma writtenForm="kvindek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek unu" partOfSpeech="m"/>
       <Sense id="L470470-S1" synset="wikidata-eo-L470470-S1" ili="wikidata-eo-L470470-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470479">
-      <Lemma writtenForm="sesdek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek" partOfSpeech="m"/>
       <Sense id="L470479-S1" synset="wikidata-eo-L470479-S1" ili="wikidata-eo-L470479-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470492">
-      <Lemma writtenForm="sepdek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek tri" partOfSpeech="m"/>
       <Sense id="L470492-S1" synset="wikidata-eo-L470492-S1" ili="wikidata-eo-L470492-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470507">
-      <Lemma writtenForm="okdek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okdek ok" partOfSpeech="m"/>
       <Sense id="L470507-S1" synset="wikidata-eo-L470507-S1" ili="wikidata-eo-L470507-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470509">
-      <Lemma writtenForm="naŭdek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek" partOfSpeech="m"/>
       <Sense id="L470509-S1" synset="wikidata-eo-L470509-S1" ili="wikidata-eo-L470509-S1">
         <Definition></Definition>
       </Sense>
@@ -945,7 +945,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4145">
-      <Lemma writtenForm="unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="unu" partOfSpeech="m"/>
       <Sense id="L4145-S1" synset="wikidata-eo-L4145-S1" ili="l327-s1">
         <Definition></Definition>
       </Sense>
@@ -957,13 +957,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305161">
-      <Lemma writtenForm="ni" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ni" partOfSpeech="h"/>
       <Sense id="L305161-S1" synset="wikidata-eo-L305161-S1" ili="wikidata-eo-L305161-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314560">
-      <Lemma writtenForm="naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭ" partOfSpeech="m"/>
       <Sense id="L314560-S1" synset="wikidata-eo-L314560-S1" ili="l337-s1">
         <Definition></Definition>
       </Sense>
@@ -984,7 +984,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411263">
-      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L411263-S1" synset="wikidata-eo-L411263-S1" ili="wikidata-eo-L411263-S1">
         <Definition></Definition>
       </Sense>
@@ -1002,109 +1002,109 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L464869">
-      <Lemma writtenForm="apud" partOfSpeech="preposition"/>
+      <Lemma writtenForm="apud" partOfSpeech="p"/>
       <Sense id="L464869-S1" synset="wikidata-eo-L464869-S1" ili="wikidata-eo-L464869-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470426">
-      <Lemma writtenForm="dek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek unu" partOfSpeech="m"/>
       <Sense id="L470426-S1" synset="wikidata-eo-L470426-S1" ili="wikidata-eo-L470426-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470432">
-      <Lemma writtenForm="dek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek kvar" partOfSpeech="m"/>
       <Sense id="L470432-S1" synset="wikidata-eo-L470432-S1" ili="wikidata-eo-L470432-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470444">
-      <Lemma writtenForm="dudek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dudek ses" partOfSpeech="m"/>
       <Sense id="L470444-S1" synset="wikidata-eo-L470444-S1" ili="wikidata-eo-L470444-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470455">
-      <Lemma writtenForm="tridek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tridek ses" partOfSpeech="m"/>
       <Sense id="L470455-S1" synset="wikidata-eo-L470455-S1" ili="wikidata-eo-L470455-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470459">
-      <Lemma writtenForm="kvardek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvardek" partOfSpeech="m"/>
       <Sense id="L470459-S1" synset="wikidata-eo-L470459-S1" ili="wikidata-eo-L470459-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470472">
-      <Lemma writtenForm="kvindek tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek tri" partOfSpeech="m"/>
       <Sense id="L470472-S1" synset="wikidata-eo-L470472-S1" ili="wikidata-eo-L470472-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470474">
-      <Lemma writtenForm="kvindek kvin" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvindek kvin" partOfSpeech="m"/>
       <Sense id="L470474-S1" synset="wikidata-eo-L470474-S1" ili="wikidata-eo-L470474-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470481">
-      <Lemma writtenForm="sesdek du" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek du" partOfSpeech="m"/>
       <Sense id="L470481-S1" synset="wikidata-eo-L470481-S1" ili="wikidata-eo-L470481-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470483">
-      <Lemma writtenForm="sesdek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek kvar" partOfSpeech="m"/>
       <Sense id="L470483-S1" synset="wikidata-eo-L470483-S1" ili="wikidata-eo-L470483-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470488">
-      <Lemma writtenForm="sesdek naŭ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sesdek naŭ" partOfSpeech="m"/>
       <Sense id="L470488-S1" synset="wikidata-eo-L470488-S1" ili="wikidata-eo-L470488-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470490">
-      <Lemma writtenForm="sepdek unu" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek unu" partOfSpeech="m"/>
       <Sense id="L470490-S1" synset="wikidata-eo-L470490-S1" ili="wikidata-eo-L470490-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470495">
-      <Lemma writtenForm="sepdek ses" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek ses" partOfSpeech="m"/>
       <Sense id="L470495-S1" synset="wikidata-eo-L470495-S1" ili="wikidata-eo-L470495-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470497">
-      <Lemma writtenForm="sepdek ok" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sepdek ok" partOfSpeech="m"/>
       <Sense id="L470497-S1" synset="wikidata-eo-L470497-S1" ili="wikidata-eo-L470497-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470513">
-      <Lemma writtenForm="naŭdek kvar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭdek kvar" partOfSpeech="m"/>
       <Sense id="L470513-S1" synset="wikidata-eo-L470513-S1" ili="wikidata-eo-L470513-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470519">
-      <Lemma writtenForm="ducent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ducent" partOfSpeech="m"/>
       <Sense id="L470519-S1" synset="wikidata-eo-L470519-S1" ili="wikidata-eo-L470519-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470521">
-      <Lemma writtenForm="kvarcent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kvarcent" partOfSpeech="m"/>
       <Sense id="L470521-S1" synset="wikidata-eo-L470521-S1" ili="wikidata-eo-L470521-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L470526">
-      <Lemma writtenForm="naŭcent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naŭcent" partOfSpeech="m"/>
       <Sense id="L470526-S1" synset="wikidata-eo-L470526-S1" ili="wikidata-eo-L470526-S1">
         <Definition></Definition>
       </Sense>
@@ -1146,597 +1146,597 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466213">
-      <Lemma writtenForm="io" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="io" partOfSpeech="h"/>
       <Sense id="L1466213-S1" synset="wikidata-eo-L1466213-S1" ili="wikidata-eo-L1466213-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-eo-L43386-S1" ili="l507-s1">
+    <Synset id="wikidata-eo-L43386-S1" ili="l507-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305162-S1" ili="l371-s2">
+    <Synset id="wikidata-eo-L305162-S1" ili="l371-s2" partOfSpeech="h">
       <Definition>triapersona plurala pronomo</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314558-S1" ili="wikidata-eo-L314558-S1">
+    <Synset id="wikidata-eo-L314558-S1" ili="wikidata-eo-L314558-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407378-S1" ili="wikidata-eo-L407378-S1">
+    <Synset id="wikidata-eo-L407378-S1" ili="wikidata-eo-L407378-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L464946-S1" ili="wikidata-eo-L464946-S1">
+    <Synset id="wikidata-eo-L464946-S1" ili="wikidata-eo-L464946-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470431-S1" ili="wikidata-eo-L470431-S1">
+    <Synset id="wikidata-eo-L470431-S1" ili="wikidata-eo-L470431-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470435-S1" ili="wikidata-eo-L470435-S1">
+    <Synset id="wikidata-eo-L470435-S1" ili="wikidata-eo-L470435-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470438-S1" ili="wikidata-eo-L470438-S1">
+    <Synset id="wikidata-eo-L470438-S1" ili="wikidata-eo-L470438-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470442-S1" ili="wikidata-eo-L470442-S1">
+    <Synset id="wikidata-eo-L470442-S1" ili="wikidata-eo-L470442-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470449-S1" ili="wikidata-eo-L470449-S1">
+    <Synset id="wikidata-eo-L470449-S1" ili="wikidata-eo-L470449-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470456-S1" ili="wikidata-eo-L470456-S1">
+    <Synset id="wikidata-eo-L470456-S1" ili="wikidata-eo-L470456-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470457-S1" ili="wikidata-eo-L470457-S1">
+    <Synset id="wikidata-eo-L470457-S1" ili="wikidata-eo-L470457-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470462-S1" ili="wikidata-eo-L470462-S1">
+    <Synset id="wikidata-eo-L470462-S1" ili="wikidata-eo-L470462-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470464-S1" ili="wikidata-eo-L470464-S1">
+    <Synset id="wikidata-eo-L470464-S1" ili="wikidata-eo-L470464-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470465-S1" ili="wikidata-eo-L470465-S1">
+    <Synset id="wikidata-eo-L470465-S1" ili="wikidata-eo-L470465-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470475-S1" ili="wikidata-eo-L470475-S1">
+    <Synset id="wikidata-eo-L470475-S1" ili="wikidata-eo-L470475-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470477-S1" ili="wikidata-eo-L470477-S1">
+    <Synset id="wikidata-eo-L470477-S1" ili="wikidata-eo-L470477-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470505-S1" ili="wikidata-eo-L470505-S1">
+    <Synset id="wikidata-eo-L470505-S1" ili="wikidata-eo-L470505-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470512-S1" ili="wikidata-eo-L470512-S1">
+    <Synset id="wikidata-eo-L470512-S1" ili="wikidata-eo-L470512-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523784-S1" ili="wikidata-eo-L523784-S1">
+    <Synset id="wikidata-eo-L523784-S1" ili="wikidata-eo-L523784-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L689812-S1" ili="wikidata-eo-L689812-S1">
+    <Synset id="wikidata-eo-L689812-S1" ili="wikidata-eo-L689812-S1" partOfSpeech="root">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1551601-S1" ili="l8885-s1">
+    <Synset id="wikidata-eo-L1551601-S1" ili="l8885-s1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L4169-S1" ili="wikidata-eo-L4169-S1">
+    <Synset id="wikidata-eo-L4169-S1" ili="wikidata-eo-L4169-S1" partOfSpeech="m">
       <Definition>natura nombro</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L43387-S1" ili="l371-s1">
+    <Synset id="wikidata-eo-L43387-S1" ili="l371-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305818-S1" ili="wikidata-eo-L305818-S1">
+    <Synset id="wikidata-eo-L305818-S1" ili="wikidata-eo-L305818-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314555-S1" ili="wikidata-eo-L314555-S1">
+    <Synset id="wikidata-eo-L314555-S1" ili="wikidata-eo-L314555-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314557-S1" ili="wikidata-eo-L314557-S1">
+    <Synset id="wikidata-eo-L314557-S1" ili="wikidata-eo-L314557-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314561-S1" ili="wikidata-eo-L314561-S1">
+    <Synset id="wikidata-eo-L314561-S1" ili="wikidata-eo-L314561-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407013-S1" ili="wikidata-eo-L407013-S1">
+    <Synset id="wikidata-eo-L407013-S1" ili="wikidata-eo-L407013-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407247-S1" ili="wikidata-eo-L407247-S1">
+    <Synset id="wikidata-eo-L407247-S1" ili="wikidata-eo-L407247-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407608-S1" ili="wikidata-eo-L407608-S1">
+    <Synset id="wikidata-eo-L407608-S1" ili="wikidata-eo-L407608-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L408352-S1" ili="wikidata-eo-L408352-S1">
+    <Synset id="wikidata-eo-L408352-S1" ili="wikidata-eo-L408352-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L408352-S2" ili="wikidata-eo-L408352-S2">
+    <Synset id="wikidata-eo-L408352-S2" ili="wikidata-eo-L408352-S2" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L464896-S1" ili="wikidata-eo-L464896-S1">
+    <Synset id="wikidata-eo-L464896-S1" ili="wikidata-eo-L464896-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L464947-S1" ili="wikidata-eo-L464947-S1">
+    <Synset id="wikidata-eo-L464947-S1" ili="wikidata-eo-L464947-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470443-S1" ili="wikidata-eo-L470443-S1">
+    <Synset id="wikidata-eo-L470443-S1" ili="wikidata-eo-L470443-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470445-S1" ili="wikidata-eo-L470445-S1">
+    <Synset id="wikidata-eo-L470445-S1" ili="wikidata-eo-L470445-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470446-S1" ili="wikidata-eo-L470446-S1">
+    <Synset id="wikidata-eo-L470446-S1" ili="wikidata-eo-L470446-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470458-S1" ili="wikidata-eo-L470458-S1">
+    <Synset id="wikidata-eo-L470458-S1" ili="wikidata-eo-L470458-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470467-S1" ili="wikidata-eo-L470467-S1">
+    <Synset id="wikidata-eo-L470467-S1" ili="wikidata-eo-L470467-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470476-S1" ili="wikidata-eo-L470476-S1">
+    <Synset id="wikidata-eo-L470476-S1" ili="wikidata-eo-L470476-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470478-S1" ili="wikidata-eo-L470478-S1">
+    <Synset id="wikidata-eo-L470478-S1" ili="wikidata-eo-L470478-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470486-S1" ili="wikidata-eo-L470486-S1">
+    <Synset id="wikidata-eo-L470486-S1" ili="wikidata-eo-L470486-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470494-S1" ili="wikidata-eo-L470494-S1">
+    <Synset id="wikidata-eo-L470494-S1" ili="wikidata-eo-L470494-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470500-S1" ili="wikidata-eo-L470500-S1">
+    <Synset id="wikidata-eo-L470500-S1" ili="wikidata-eo-L470500-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470501-S1" ili="wikidata-eo-L470501-S1">
+    <Synset id="wikidata-eo-L470501-S1" ili="wikidata-eo-L470501-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470502-S1" ili="wikidata-eo-L470502-S1">
+    <Synset id="wikidata-eo-L470502-S1" ili="wikidata-eo-L470502-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470506-S1" ili="wikidata-eo-L470506-S1">
+    <Synset id="wikidata-eo-L470506-S1" ili="wikidata-eo-L470506-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470508-S1" ili="wikidata-eo-L470508-S1">
+    <Synset id="wikidata-eo-L470508-S1" ili="wikidata-eo-L470508-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470518-S1" ili="wikidata-eo-L470518-S1">
+    <Synset id="wikidata-eo-L470518-S1" ili="wikidata-eo-L470518-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470520-S1" ili="wikidata-eo-L470520-S1">
+    <Synset id="wikidata-eo-L470520-S1" ili="wikidata-eo-L470520-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470522-S1" ili="wikidata-eo-L470522-S1">
+    <Synset id="wikidata-eo-L470522-S1" ili="wikidata-eo-L470522-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470525-S1" ili="wikidata-eo-L470525-S1">
+    <Synset id="wikidata-eo-L470525-S1" ili="wikidata-eo-L470525-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523787-S1" ili="wikidata-eo-L523787-S1">
+    <Synset id="wikidata-eo-L523787-S1" ili="wikidata-eo-L523787-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523792-S1" ili="wikidata-eo-L523792-S1">
+    <Synset id="wikidata-eo-L523792-S1" ili="wikidata-eo-L523792-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L641842-S1" ili="wikidata-eo-L641842-S1">
+    <Synset id="wikidata-eo-L641842-S1" ili="wikidata-eo-L641842-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1371129-S1" ili="wikidata-eo-L1371129-S1">
+    <Synset id="wikidata-eo-L1371129-S1" ili="wikidata-eo-L1371129-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305165-S1" ili="wikidata-eo-L305165-S1">
+    <Synset id="wikidata-eo-L305165-S1" ili="wikidata-eo-L305165-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311172-S1" ili="wikidata-eo-L311172-S1">
+    <Synset id="wikidata-eo-L311172-S1" ili="wikidata-eo-L311172-S1" partOfSpeech="affix">
       <Definition>loko, kies kialo estas la radiko</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311598-S1" ili="wikidata-eo-L311598-S1">
+    <Synset id="wikidata-eo-L311598-S1" ili="wikidata-eo-L311598-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314587-S1" ili="wikidata-eo-L314587-S1">
+    <Synset id="wikidata-eo-L314587-S1" ili="wikidata-eo-L314587-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407373-S1" ili="wikidata-eo-L407373-S1">
+    <Synset id="wikidata-eo-L407373-S1" ili="wikidata-eo-L407373-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470447-S1" ili="wikidata-eo-L470447-S1">
+    <Synset id="wikidata-eo-L470447-S1" ili="wikidata-eo-L470447-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470453-S1" ili="wikidata-eo-L470453-S1">
+    <Synset id="wikidata-eo-L470453-S1" ili="wikidata-eo-L470453-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470468-S1" ili="wikidata-eo-L470468-S1">
+    <Synset id="wikidata-eo-L470468-S1" ili="wikidata-eo-L470468-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470471-S1" ili="wikidata-eo-L470471-S1">
+    <Synset id="wikidata-eo-L470471-S1" ili="wikidata-eo-L470471-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470484-S1" ili="wikidata-eo-L470484-S1">
+    <Synset id="wikidata-eo-L470484-S1" ili="wikidata-eo-L470484-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470485-S1" ili="wikidata-eo-L470485-S1">
+    <Synset id="wikidata-eo-L470485-S1" ili="wikidata-eo-L470485-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470504-S1" ili="wikidata-eo-L470504-S1">
+    <Synset id="wikidata-eo-L470504-S1" ili="wikidata-eo-L470504-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523790-S1" ili="wikidata-eo-L523790-S1">
+    <Synset id="wikidata-eo-L523790-S1" ili="wikidata-eo-L523790-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523790-S2" ili="wikidata-eo-L523790-S2">
+    <Synset id="wikidata-eo-L523790-S2" ili="wikidata-eo-L523790-S2" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L701448-S1" ili="wikidata-eo-L701448-S1">
+    <Synset id="wikidata-eo-L701448-S1" ili="wikidata-eo-L701448-S1" partOfSpeech="root">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1371130-S1" ili="wikidata-eo-L1371130-S1">
+    <Synset id="wikidata-eo-L1371130-S1" ili="wikidata-eo-L1371130-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L291789-S1" ili="wikidata-eo-L291789-S1">
+    <Synset id="wikidata-eo-L291789-S1" ili="wikidata-eo-L291789-S1" partOfSpeech="affix">
       <Definition>afikso por indiki inan sekson</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L301346-S1" ili="wikidata-eo-L301346-S1">
+    <Synset id="wikidata-eo-L301346-S1" ili="wikidata-eo-L301346-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305160-S1" ili="wikidata-eo-L305160-S1">
+    <Synset id="wikidata-eo-L305160-S1" ili="wikidata-eo-L305160-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305160-S2" ili="wikidata-eo-L305160-S2">
+    <Synset id="wikidata-eo-L305160-S2" ili="wikidata-eo-L305160-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L406377-S1" ili="wikidata-eo-L406377-S1">
+    <Synset id="wikidata-eo-L406377-S1" ili="wikidata-eo-L406377-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407100-S1" ili="wikidata-eo-L407100-S1">
+    <Synset id="wikidata-eo-L407100-S1" ili="wikidata-eo-L407100-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407300-S1" ili="wikidata-eo-L407300-S1">
+    <Synset id="wikidata-eo-L407300-S1" ili="wikidata-eo-L407300-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411265-S1" ili="wikidata-eo-L411265-S1">
+    <Synset id="wikidata-eo-L411265-S1" ili="wikidata-eo-L411265-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411265-S2" ili="wikidata-eo-L411265-S2">
+    <Synset id="wikidata-eo-L411265-S2" ili="wikidata-eo-L411265-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411289-S1" ili="wikidata-eo-L411289-S1">
+    <Synset id="wikidata-eo-L411289-S1" ili="wikidata-eo-L411289-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470430-S1" ili="wikidata-eo-L470430-S1">
+    <Synset id="wikidata-eo-L470430-S1" ili="wikidata-eo-L470430-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470437-S1" ili="wikidata-eo-L470437-S1">
+    <Synset id="wikidata-eo-L470437-S1" ili="wikidata-eo-L470437-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470441-S1" ili="wikidata-eo-L470441-S1">
+    <Synset id="wikidata-eo-L470441-S1" ili="wikidata-eo-L470441-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470452-S1" ili="wikidata-eo-L470452-S1">
+    <Synset id="wikidata-eo-L470452-S1" ili="wikidata-eo-L470452-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470473-S1" ili="wikidata-eo-L470473-S1">
+    <Synset id="wikidata-eo-L470473-S1" ili="wikidata-eo-L470473-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470480-S1" ili="wikidata-eo-L470480-S1">
+    <Synset id="wikidata-eo-L470480-S1" ili="wikidata-eo-L470480-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470487-S1" ili="wikidata-eo-L470487-S1">
+    <Synset id="wikidata-eo-L470487-S1" ili="wikidata-eo-L470487-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470489-S1" ili="wikidata-eo-L470489-S1">
+    <Synset id="wikidata-eo-L470489-S1" ili="wikidata-eo-L470489-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470515-S1" ili="wikidata-eo-L470515-S1">
+    <Synset id="wikidata-eo-L470515-S1" ili="wikidata-eo-L470515-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523798-S1" ili="wikidata-eo-L523798-S1">
+    <Synset id="wikidata-eo-L523798-S1" ili="wikidata-eo-L523798-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L43384-S1" ili="l485-s1">
+    <Synset id="wikidata-eo-L43384-S1" ili="l485-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L43384-S2" ili="wikidata-eo-L43384-S2">
+    <Synset id="wikidata-eo-L43384-S2" ili="wikidata-eo-L43384-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L301347-S1" ili="wikidata-eo-L301347-S1">
+    <Synset id="wikidata-eo-L301347-S1" ili="wikidata-eo-L301347-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305164-S1" ili="wikidata-eo-L305164-S1">
+    <Synset id="wikidata-eo-L305164-S1" ili="wikidata-eo-L305164-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305811-S1" ili="wikidata-eo-L305811-S1">
+    <Synset id="wikidata-eo-L305811-S1" ili="wikidata-eo-L305811-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311187-S1" ili="wikidata-eo-L311187-S1">
+    <Synset id="wikidata-eo-L311187-S1" ili="wikidata-eo-L311187-S1" partOfSpeech="affix">
       <Definition>persono karakterizata per tio, kion esprimas la radiko</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311187-S2" ili="wikidata-eo-L311187-S2">
+    <Synset id="wikidata-eo-L311187-S2" ili="wikidata-eo-L311187-S2" partOfSpeech="affix">
       <Definition>aliu vivanta estaĵo karakterizata per tio, kion esprimas la radiko</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311196-S1" ili="wikidata-eo-L311196-S1">
+    <Synset id="wikidata-eo-L311196-S1" ili="wikidata-eo-L311196-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314562-S1" ili="wikidata-eo-L314562-S1">
+    <Synset id="wikidata-eo-L314562-S1" ili="wikidata-eo-L314562-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L408270-S1" ili="wikidata-eo-L408270-S1">
+    <Synset id="wikidata-eo-L408270-S1" ili="wikidata-eo-L408270-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470450-S1" ili="wikidata-eo-L470450-S1">
+    <Synset id="wikidata-eo-L470450-S1" ili="wikidata-eo-L470450-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470460-S1" ili="wikidata-eo-L470460-S1">
+    <Synset id="wikidata-eo-L470460-S1" ili="wikidata-eo-L470460-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470463-S1" ili="wikidata-eo-L470463-S1">
+    <Synset id="wikidata-eo-L470463-S1" ili="wikidata-eo-L470463-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470482-S1" ili="wikidata-eo-L470482-S1">
+    <Synset id="wikidata-eo-L470482-S1" ili="wikidata-eo-L470482-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470493-S1" ili="wikidata-eo-L470493-S1">
+    <Synset id="wikidata-eo-L470493-S1" ili="wikidata-eo-L470493-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470498-S1" ili="wikidata-eo-L470498-S1">
+    <Synset id="wikidata-eo-L470498-S1" ili="wikidata-eo-L470498-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470503-S1" ili="wikidata-eo-L470503-S1">
+    <Synset id="wikidata-eo-L470503-S1" ili="wikidata-eo-L470503-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470517-S1" ili="wikidata-eo-L470517-S1">
+    <Synset id="wikidata-eo-L470517-S1" ili="wikidata-eo-L470517-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470524-S1" ili="wikidata-eo-L470524-S1">
+    <Synset id="wikidata-eo-L470524-S1" ili="wikidata-eo-L470524-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523785-S1" ili="wikidata-eo-L523785-S1">
+    <Synset id="wikidata-eo-L523785-S1" ili="wikidata-eo-L523785-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523788-S1" ili="wikidata-eo-L523788-S1">
+    <Synset id="wikidata-eo-L523788-S1" ili="wikidata-eo-L523788-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1371127-S1" ili="wikidata-eo-L1371127-S1">
+    <Synset id="wikidata-eo-L1371127-S1" ili="wikidata-eo-L1371127-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1371131-S1" ili="wikidata-eo-L1371131-S1">
+    <Synset id="wikidata-eo-L1371131-S1" ili="wikidata-eo-L1371131-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1466826-S1" ili="wikidata-eo-L1466826-S1">
+    <Synset id="wikidata-eo-L1466826-S1" ili="wikidata-eo-L1466826-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305159-S1" ili="wikidata-eo-L305159-S1">
+    <Synset id="wikidata-eo-L305159-S1" ili="wikidata-eo-L305159-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305849-S1" ili="wikidata-eo-L305849-S1">
+    <Synset id="wikidata-eo-L305849-S1" ili="wikidata-eo-L305849-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311124-S1" ili="wikidata-eo-L311124-S1">
+    <Synset id="wikidata-eo-L311124-S1" ili="wikidata-eo-L311124-S1" partOfSpeech="affix">
       <Definition>kuna kolekto de samspecaj iuj, sen specifa nombro</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311188-S1" ili="wikidata-eo-L311188-S1">
+    <Synset id="wikidata-eo-L311188-S1" ili="wikidata-eo-L311188-S1" partOfSpeech="affix">
       <Definition>infano aŭ junulo de besto, speco de homo, aŭ vegetaĵo</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L311188-S2" ili="wikidata-eo-L311188-S2">
+    <Synset id="wikidata-eo-L311188-S2" ili="wikidata-eo-L311188-S2" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L312685-S1" ili="wikidata-eo-L312685-S1">
+    <Synset id="wikidata-eo-L312685-S1" ili="wikidata-eo-L312685-S1" partOfSpeech="root">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314556-S1" ili="wikidata-eo-L314556-S1">
+    <Synset id="wikidata-eo-L314556-S1" ili="wikidata-eo-L314556-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314559-S1" ili="wikidata-eo-L314559-S1">
+    <Synset id="wikidata-eo-L314559-S1" ili="wikidata-eo-L314559-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407070-S1" ili="wikidata-eo-L407070-S1">
+    <Synset id="wikidata-eo-L407070-S1" ili="wikidata-eo-L407070-S1" partOfSpeech="affix">
       <Definition>sistemo de kredo, doktrino, principoj, agoj</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470433-S1" ili="wikidata-eo-L470433-S1">
+    <Synset id="wikidata-eo-L470433-S1" ili="wikidata-eo-L470433-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470436-S1" ili="wikidata-eo-L470436-S1">
+    <Synset id="wikidata-eo-L470436-S1" ili="wikidata-eo-L470436-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470439-S1" ili="wikidata-eo-L470439-S1">
+    <Synset id="wikidata-eo-L470439-S1" ili="wikidata-eo-L470439-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470451-S1" ili="wikidata-eo-L470451-S1">
+    <Synset id="wikidata-eo-L470451-S1" ili="wikidata-eo-L470451-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470491-S1" ili="wikidata-eo-L470491-S1">
+    <Synset id="wikidata-eo-L470491-S1" ili="wikidata-eo-L470491-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470496-S1" ili="wikidata-eo-L470496-S1">
+    <Synset id="wikidata-eo-L470496-S1" ili="wikidata-eo-L470496-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470499-S1" ili="wikidata-eo-L470499-S1">
+    <Synset id="wikidata-eo-L470499-S1" ili="wikidata-eo-L470499-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470510-S1" ili="wikidata-eo-L470510-S1">
+    <Synset id="wikidata-eo-L470510-S1" ili="wikidata-eo-L470510-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470511-S1" ili="wikidata-eo-L470511-S1">
+    <Synset id="wikidata-eo-L470511-S1" ili="wikidata-eo-L470511-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470514-S1" ili="wikidata-eo-L470514-S1">
+    <Synset id="wikidata-eo-L470514-S1" ili="wikidata-eo-L470514-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470516-S1" ili="wikidata-eo-L470516-S1">
+    <Synset id="wikidata-eo-L470516-S1" ili="wikidata-eo-L470516-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470523-S1" ili="wikidata-eo-L470523-S1">
+    <Synset id="wikidata-eo-L470523-S1" ili="wikidata-eo-L470523-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L689813-S1" ili="wikidata-eo-L689813-S1">
+    <Synset id="wikidata-eo-L689813-S1" ili="wikidata-eo-L689813-S1" partOfSpeech="root">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L690466-S1" ili="wikidata-eo-L690466-S1">
+    <Synset id="wikidata-eo-L690466-S1" ili="wikidata-eo-L690466-S1" partOfSpeech="root">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L701451-S1" ili="wikidata-eo-L701451-S1">
+    <Synset id="wikidata-eo-L701451-S1" ili="wikidata-eo-L701451-S1" partOfSpeech="affix">
       <Definition>fleksa interfikso kiu signifis ajna ago</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1371124-S1" ili="wikidata-eo-L1371124-S1">
+    <Synset id="wikidata-eo-L1371124-S1" ili="wikidata-eo-L1371124-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L43385-S1" ili="l484-s1">
+    <Synset id="wikidata-eo-L43385-S1" ili="l484-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314588-S1" ili="wikidata-eo-L314588-S1">
+    <Synset id="wikidata-eo-L314588-S1" ili="wikidata-eo-L314588-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407311-S1" ili="wikidata-eo-L407311-S1">
+    <Synset id="wikidata-eo-L407311-S1" ili="wikidata-eo-L407311-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L464866-S1" ili="wikidata-eo-L464866-S1">
+    <Synset id="wikidata-eo-L464866-S1" ili="wikidata-eo-L464866-S1" partOfSpeech="p">
       <Definition>la spaco aux dauxro inter du aferoj</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470434-S1" ili="wikidata-eo-L470434-S1">
+    <Synset id="wikidata-eo-L470434-S1" ili="wikidata-eo-L470434-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470440-S1" ili="wikidata-eo-L470440-S1">
+    <Synset id="wikidata-eo-L470440-S1" ili="wikidata-eo-L470440-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470448-S1" ili="wikidata-eo-L470448-S1">
+    <Synset id="wikidata-eo-L470448-S1" ili="wikidata-eo-L470448-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470461-S1" ili="wikidata-eo-L470461-S1">
+    <Synset id="wikidata-eo-L470461-S1" ili="wikidata-eo-L470461-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470466-S1" ili="wikidata-eo-L470466-S1">
+    <Synset id="wikidata-eo-L470466-S1" ili="wikidata-eo-L470466-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470469-S1" ili="wikidata-eo-L470469-S1">
+    <Synset id="wikidata-eo-L470469-S1" ili="wikidata-eo-L470469-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470470-S1" ili="wikidata-eo-L470470-S1">
+    <Synset id="wikidata-eo-L470470-S1" ili="wikidata-eo-L470470-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470479-S1" ili="wikidata-eo-L470479-S1">
+    <Synset id="wikidata-eo-L470479-S1" ili="wikidata-eo-L470479-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470492-S1" ili="wikidata-eo-L470492-S1">
+    <Synset id="wikidata-eo-L470492-S1" ili="wikidata-eo-L470492-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470507-S1" ili="wikidata-eo-L470507-S1">
+    <Synset id="wikidata-eo-L470507-S1" ili="wikidata-eo-L470507-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470509-S1" ili="wikidata-eo-L470509-S1">
+    <Synset id="wikidata-eo-L470509-S1" ili="wikidata-eo-L470509-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523786-S1" ili="wikidata-eo-L523786-S1">
+    <Synset id="wikidata-eo-L523786-S1" ili="wikidata-eo-L523786-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L701454-S1" ili="wikidata-eo-L701454-S1">
+    <Synset id="wikidata-eo-L701454-S1" ili="wikidata-eo-L701454-S1" partOfSpeech="root">
       <Definition>io, kiu estas efika, akceptebla, aŭ konsentinda laŭ difinitaj normoj, reguloj, aŭ kriterioj</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L4145-S1" ili="l327-s1">
+    <Synset id="wikidata-eo-L4145-S1" ili="l327-s1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L291790-S1" ili="wikidata-eo-L291790-S1">
+    <Synset id="wikidata-eo-L291790-S1" ili="wikidata-eo-L291790-S1" partOfSpeech="affix">
       <Definition>montras ke vorto estas substantivo</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L305161-S1" ili="wikidata-eo-L305161-S1">
+    <Synset id="wikidata-eo-L305161-S1" ili="wikidata-eo-L305161-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L314560-S1" ili="l337-s1">
+    <Synset id="wikidata-eo-L314560-S1" ili="l337-s1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407075-S1" ili="wikidata-eo-L407075-S1">
+    <Synset id="wikidata-eo-L407075-S1" ili="wikidata-eo-L407075-S1" partOfSpeech="affix">
       <Definition>la du seksoj kune, speciale ĉe radiko enhavanta masklan sencon</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L407075-S2" ili="wikidata-eo-L407075-S2">
+    <Synset id="wikidata-eo-L407075-S2" ili="wikidata-eo-L407075-S2" partOfSpeech="affix">
       <Definition>je la ununombro, senseksa signifo de virseksa radiko</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L408346-S1" ili="wikidata-eo-L408346-S1">
+    <Synset id="wikidata-eo-L408346-S1" ili="wikidata-eo-L408346-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411263-S1" ili="wikidata-eo-L411263-S1">
+    <Synset id="wikidata-eo-L411263-S1" ili="wikidata-eo-L411263-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411263-S2" ili="wikidata-eo-L411263-S2">
+    <Synset id="wikidata-eo-L411263-S2" ili="wikidata-eo-L411263-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L411263-S3" ili="wikidata-eo-L411263-S3">
+    <Synset id="wikidata-eo-L411263-S3" ili="wikidata-eo-L411263-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L447404-S1" ili="wikidata-eo-L447404-S1">
+    <Synset id="wikidata-eo-L447404-S1" ili="wikidata-eo-L447404-S1" partOfSpeech="affix">
       <Definition>sufikso kiu prezentas la plenumanton de farado (aktiva participo)</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L464869-S1" ili="wikidata-eo-L464869-S1">
+    <Synset id="wikidata-eo-L464869-S1" ili="wikidata-eo-L464869-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470426-S1" ili="wikidata-eo-L470426-S1">
+    <Synset id="wikidata-eo-L470426-S1" ili="wikidata-eo-L470426-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470432-S1" ili="wikidata-eo-L470432-S1">
+    <Synset id="wikidata-eo-L470432-S1" ili="wikidata-eo-L470432-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470444-S1" ili="wikidata-eo-L470444-S1">
+    <Synset id="wikidata-eo-L470444-S1" ili="wikidata-eo-L470444-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470455-S1" ili="wikidata-eo-L470455-S1">
+    <Synset id="wikidata-eo-L470455-S1" ili="wikidata-eo-L470455-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470459-S1" ili="wikidata-eo-L470459-S1">
+    <Synset id="wikidata-eo-L470459-S1" ili="wikidata-eo-L470459-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470472-S1" ili="wikidata-eo-L470472-S1">
+    <Synset id="wikidata-eo-L470472-S1" ili="wikidata-eo-L470472-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470474-S1" ili="wikidata-eo-L470474-S1">
+    <Synset id="wikidata-eo-L470474-S1" ili="wikidata-eo-L470474-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470481-S1" ili="wikidata-eo-L470481-S1">
+    <Synset id="wikidata-eo-L470481-S1" ili="wikidata-eo-L470481-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470483-S1" ili="wikidata-eo-L470483-S1">
+    <Synset id="wikidata-eo-L470483-S1" ili="wikidata-eo-L470483-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470488-S1" ili="wikidata-eo-L470488-S1">
+    <Synset id="wikidata-eo-L470488-S1" ili="wikidata-eo-L470488-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470490-S1" ili="wikidata-eo-L470490-S1">
+    <Synset id="wikidata-eo-L470490-S1" ili="wikidata-eo-L470490-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470495-S1" ili="wikidata-eo-L470495-S1">
+    <Synset id="wikidata-eo-L470495-S1" ili="wikidata-eo-L470495-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470497-S1" ili="wikidata-eo-L470497-S1">
+    <Synset id="wikidata-eo-L470497-S1" ili="wikidata-eo-L470497-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470513-S1" ili="wikidata-eo-L470513-S1">
+    <Synset id="wikidata-eo-L470513-S1" ili="wikidata-eo-L470513-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470519-S1" ili="wikidata-eo-L470519-S1">
+    <Synset id="wikidata-eo-L470519-S1" ili="wikidata-eo-L470519-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470521-S1" ili="wikidata-eo-L470521-S1">
+    <Synset id="wikidata-eo-L470521-S1" ili="wikidata-eo-L470521-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L470526-S1" ili="wikidata-eo-L470526-S1">
+    <Synset id="wikidata-eo-L470526-S1" ili="wikidata-eo-L470526-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523789-S1" ili="wikidata-eo-L523789-S1">
+    <Synset id="wikidata-eo-L523789-S1" ili="wikidata-eo-L523789-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523791-S1" ili="wikidata-eo-L523791-S1">
+    <Synset id="wikidata-eo-L523791-S1" ili="wikidata-eo-L523791-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L523793-S1" ili="wikidata-eo-L523793-S1">
+    <Synset id="wikidata-eo-L523793-S1" ili="wikidata-eo-L523793-S1" partOfSpeech="possessive pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L583641-S1" ili="wikidata-eo-L583641-S1">
+    <Synset id="wikidata-eo-L583641-S1" ili="wikidata-eo-L583641-S1" partOfSpeech="affix">
       <Definition>sufikso signifanta parto de tutaĵo</Definition>
     </Synset>
-    <Synset id="wikidata-eo-L586545-S1" ili="wikidata-eo-L586545-S1">
+    <Synset id="wikidata-eo-L586545-S1" ili="wikidata-eo-L586545-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L586545-S2" ili="wikidata-eo-L586545-S2">
+    <Synset id="wikidata-eo-L586545-S2" ili="wikidata-eo-L586545-S2" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L586545-S3" ili="wikidata-eo-L586545-S3">
+    <Synset id="wikidata-eo-L586545-S3" ili="wikidata-eo-L586545-S3" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eo-L1466213-S1" ili="wikidata-eo-L1466213-S1">
+    <Synset id="wikidata-eo-L1466213-S1" ili="wikidata-eo-L1466213-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

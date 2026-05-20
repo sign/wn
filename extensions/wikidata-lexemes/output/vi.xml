@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-vi" version="1.4"/>
     <LexicalEntry id="L619034">
-      <Lemma writtenForm="và" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="và" partOfSpeech="c"/>
       <Sense id="L619034-S1" synset="wikidata-vi-L619034-S1" ili="l1385-s1">
         <Definition>liên kết các từ và câu với nhau</Definition>
       </Sense>
@@ -18,7 +18,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L646377">
-      <Lemma writtenForm="qua" partOfSpeech="preposition"/>
+      <Lemma writtenForm="qua" partOfSpeech="p"/>
       <Sense id="L646377-S1" synset="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1">
         <Definition></Definition>
       </Sense>
@@ -66,46 +66,46 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-vi-L619034-S1" ili="l1385-s1">
+    <Synset id="wikidata-vi-L619034-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>liên kết các từ và câu với nhau</Definition>
     </Synset>
-    <Synset id="wikidata-vi-L619034-S2" ili="wikidata-vi-L619034-S2">
+    <Synset id="wikidata-vi-L619034-S2" ili="wikidata-vi-L619034-S2" partOfSpeech="c">
       <Definition>từ nối</Definition>
     </Synset>
-    <Synset id="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1">
+    <Synset id="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2">
+    <Synset id="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1">
+    <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2">
+    <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1">
+    <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2">
+    <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3">
+    <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4">
+    <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5">
+    <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6">
+    <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7">
+    <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1">
+    <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1" partOfSpeech="classifier">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

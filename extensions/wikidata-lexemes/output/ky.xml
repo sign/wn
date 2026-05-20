@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-ky" version="1.4"/>
     <LexicalEntry id="L627029">
-      <Lemma writtenForm="бир" partOfSpeech="numeral"/>
+      <Lemma writtenForm="бир" partOfSpeech="m"/>
       <Sense id="L627029-S1" synset="wikidata-ky-L627029-S1" ili="wikidata-ky-L627029-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ky-L627029-S1" ili="wikidata-ky-L627029-S1">
+    <Synset id="wikidata-ky-L627029-S1" ili="wikidata-ky-L627029-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

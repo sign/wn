@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-zu" version="1.4"/>
     <LexicalEntry id="L677327">
-      <Lemma writtenForm="wena" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="wena" partOfSpeech="h"/>
       <Sense id="L677327-S1" synset="wikidata-zu-L677327-S1" ili="wikidata-zu-L677327-S1">
         <Definition></Definition>
       </Sense>
@@ -27,7 +27,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L736571">
-      <Lemma writtenForm="lo" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="lo" partOfSpeech="h"/>
       <Sense id="L736571-S1" synset="wikidata-zu-L736571-S1" ili="wikidata-zu-L736571-S1">
         <Definition></Definition>
       </Sense>
@@ -51,7 +51,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740300">
-      <Lemma writtenForm="nke" partOfSpeech="determiner"/>
+      <Lemma writtenForm="nke" partOfSpeech="d"/>
       <Sense id="L740300-S1" synset="wikidata-zu-L740300-S1" ili="wikidata-zu-L740300-S1">
         <Definition></Definition>
       </Sense>
@@ -63,7 +63,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L700299">
-      <Lemma writtenForm="na" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="na" partOfSpeech="c"/>
       <Sense id="L700299-S1" synset="wikidata-zu-L700299-S1" ili="wikidata-zu-L700299-S1">
         <Definition></Definition>
       </Sense>
@@ -210,7 +210,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L737301">
-      <Lemma writtenForm="mina" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="mina" partOfSpeech="h"/>
       <Sense id="L737301-S1" synset="wikidata-zu-L737301-S1" ili="wikidata-zu-L737301-S1">
         <Definition></Definition>
       </Sense>
@@ -245,136 +245,136 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-zu-L677327-S1" ili="wikidata-zu-L677327-S1">
+    <Synset id="wikidata-zu-L677327-S1" ili="wikidata-zu-L677327-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L732472-S1" ili="wikidata-zu-L732472-S1">
+    <Synset id="wikidata-zu-L732472-S1" ili="wikidata-zu-L732472-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L736566-S1" ili="wikidata-zu-L736566-S1">
+    <Synset id="wikidata-zu-L736566-S1" ili="wikidata-zu-L736566-S1" partOfSpeech="relative adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L736571-S1" ili="wikidata-zu-L736571-S1">
+    <Synset id="wikidata-zu-L736571-S1" ili="wikidata-zu-L736571-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741477-S1" ili="wikidata-zu-L741477-S1">
+    <Synset id="wikidata-zu-L741477-S1" ili="wikidata-zu-L741477-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741482-S1" ili="wikidata-zu-L741482-S1">
+    <Synset id="wikidata-zu-L741482-S1" ili="wikidata-zu-L741482-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L732280-S1" ili="wikidata-zu-L732280-S1">
+    <Synset id="wikidata-zu-L732280-S1" ili="wikidata-zu-L732280-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740300-S1" ili="wikidata-zu-L740300-S1">
+    <Synset id="wikidata-zu-L740300-S1" ili="wikidata-zu-L740300-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L689510-S1" ili="wikidata-zu-L689510-S1">
+    <Synset id="wikidata-zu-L689510-S1" ili="wikidata-zu-L689510-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L700299-S1" ili="wikidata-zu-L700299-S1">
+    <Synset id="wikidata-zu-L700299-S1" ili="wikidata-zu-L700299-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740188-S1" ili="wikidata-zu-L740188-S1">
+    <Synset id="wikidata-zu-L740188-S1" ili="wikidata-zu-L740188-S1" partOfSpeech="relative adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740294-S1" ili="wikidata-zu-L740294-S1">
+    <Synset id="wikidata-zu-L740294-S1" ili="wikidata-zu-L740294-S1" partOfSpeech="mesoclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740297-S1" ili="wikidata-zu-L740297-S1">
+    <Synset id="wikidata-zu-L740297-S1" ili="wikidata-zu-L740297-S1" partOfSpeech="mesoclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741478-S1" ili="wikidata-zu-L741478-S1">
+    <Synset id="wikidata-zu-L741478-S1" ili="wikidata-zu-L741478-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741478-S2" ili="wikidata-zu-L741478-S2">
+    <Synset id="wikidata-zu-L741478-S2" ili="wikidata-zu-L741478-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741479-S1" ili="wikidata-zu-L741479-S1">
+    <Synset id="wikidata-zu-L741479-S1" ili="wikidata-zu-L741479-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741479-S2" ili="wikidata-zu-L741479-S2">
+    <Synset id="wikidata-zu-L741479-S2" ili="wikidata-zu-L741479-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741479-S3" ili="wikidata-zu-L741479-S3">
+    <Synset id="wikidata-zu-L741479-S3" ili="wikidata-zu-L741479-S3" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741485-S1" ili="wikidata-zu-L741485-S1">
+    <Synset id="wikidata-zu-L741485-S1" ili="wikidata-zu-L741485-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L737304-S1" ili="wikidata-zu-L737304-S1">
+    <Synset id="wikidata-zu-L737304-S1" ili="wikidata-zu-L737304-S1" partOfSpeech="relative adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L677329-S1" ili="wikidata-zu-L677329-S1">
+    <Synset id="wikidata-zu-L677329-S1" ili="wikidata-zu-L677329-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L677329-S2" ili="wikidata-zu-L677329-S2">
+    <Synset id="wikidata-zu-L677329-S2" ili="wikidata-zu-L677329-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L677329-S3" ili="wikidata-zu-L677329-S3">
+    <Synset id="wikidata-zu-L677329-S3" ili="wikidata-zu-L677329-S3" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L705896-S1" ili="wikidata-zu-L705896-S1">
+    <Synset id="wikidata-zu-L705896-S1" ili="wikidata-zu-L705896-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L705896-S2" ili="wikidata-zu-L705896-S2">
+    <Synset id="wikidata-zu-L705896-S2" ili="wikidata-zu-L705896-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L705896-S3" ili="wikidata-zu-L705896-S3">
+    <Synset id="wikidata-zu-L705896-S3" ili="wikidata-zu-L705896-S3" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L731135-S1" ili="wikidata-zu-L731135-S1">
+    <Synset id="wikidata-zu-L731135-S1" ili="wikidata-zu-L731135-S1" partOfSpeech="relative adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L736562-S1" ili="wikidata-zu-L736562-S1">
+    <Synset id="wikidata-zu-L736562-S1" ili="wikidata-zu-L736562-S1" partOfSpeech="enclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741480-S1" ili="wikidata-zu-L741480-S1">
+    <Synset id="wikidata-zu-L741480-S1" ili="wikidata-zu-L741480-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741480-S2" ili="wikidata-zu-L741480-S2">
+    <Synset id="wikidata-zu-L741480-S2" ili="wikidata-zu-L741480-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741481-S1" ili="wikidata-zu-L741481-S1">
+    <Synset id="wikidata-zu-L741481-S1" ili="wikidata-zu-L741481-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741481-S2" ili="wikidata-zu-L741481-S2">
+    <Synset id="wikidata-zu-L741481-S2" ili="wikidata-zu-L741481-S2" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741486-S1" ili="wikidata-zu-L741486-S1">
+    <Synset id="wikidata-zu-L741486-S1" ili="wikidata-zu-L741486-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L677331-S1" ili="wikidata-zu-L677331-S1">
+    <Synset id="wikidata-zu-L677331-S1" ili="wikidata-zu-L677331-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L688517-S1" ili="wikidata-zu-L688517-S1">
+    <Synset id="wikidata-zu-L688517-S1" ili="wikidata-zu-L688517-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L731129-S1" ili="wikidata-zu-L731129-S1">
+    <Synset id="wikidata-zu-L731129-S1" ili="wikidata-zu-L731129-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L731131-S1" ili="wikidata-zu-L731131-S1">
+    <Synset id="wikidata-zu-L731131-S1" ili="wikidata-zu-L731131-S1" partOfSpeech="relative adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L736568-S1" ili="wikidata-zu-L736568-S1">
+    <Synset id="wikidata-zu-L736568-S1" ili="wikidata-zu-L736568-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L737301-S1" ili="wikidata-zu-L737301-S1">
+    <Synset id="wikidata-zu-L737301-S1" ili="wikidata-zu-L737301-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740039-S1" ili="wikidata-zu-L740039-S1">
+    <Synset id="wikidata-zu-L740039-S1" ili="wikidata-zu-L740039-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741483-S1" ili="wikidata-zu-L741483-S1">
+    <Synset id="wikidata-zu-L741483-S1" ili="wikidata-zu-L741483-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L741484-S1" ili="wikidata-zu-L741484-S1">
+    <Synset id="wikidata-zu-L741484-S1" ili="wikidata-zu-L741484-S1" partOfSpeech="true adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L731133-S1" ili="wikidata-zu-L731133-S1">
+    <Synset id="wikidata-zu-L731133-S1" ili="wikidata-zu-L731133-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-zu-L740299-S1" ili="wikidata-zu-L740299-S1">
+    <Synset id="wikidata-zu-L740299-S1" ili="wikidata-zu-L740299-S1" partOfSpeech="proclitic">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

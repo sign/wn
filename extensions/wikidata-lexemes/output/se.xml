@@ -9,48 +9,48 @@
                     version="1.0">
     <Extends id="omw-se" version="1.4"/>
     <LexicalEntry id="L23259">
-      <Lemma writtenForm="golbma" partOfSpeech="numeral"/>
+      <Lemma writtenForm="golbma" partOfSpeech="m"/>
       <Sense id="L23259-S1" synset="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525204">
-      <Lemma writtenForm="buorre iđit" partOfSpeech="interjection"/>
+      <Lemma writtenForm="buorre iđit" partOfSpeech="i"/>
       <Sense id="L525204-S1" synset="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L22956">
-      <Lemma writtenForm="njeallje" partOfSpeech="numeral"/>
+      <Lemma writtenForm="njeallje" partOfSpeech="m"/>
       <Sense id="L22956-S1" synset="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525203">
-      <Lemma writtenForm="giitu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="giitu" partOfSpeech="i"/>
       <Sense id="L525203-S1" synset="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L727345">
-      <Lemma writtenForm="okta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="okta" partOfSpeech="m"/>
       <Sense id="L727345-S1" synset="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1">
+    <Synset id="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1">
+    <Synset id="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1">
+    <Synset id="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1">
+    <Synset id="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1">
+    <Synset id="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

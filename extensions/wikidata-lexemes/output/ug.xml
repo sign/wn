@@ -9,48 +9,48 @@
                     version="1.0">
     <Extends id="omw-ug" version="1.4"/>
     <LexicalEntry id="L1013402">
-      <Lemma writtenForm="ئۇلار" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ئۇلار" partOfSpeech="h"/>
       <Sense id="L1013402-S1" synset="wikidata-ug-L1013402-S1" ili="wikidata-ug-L1013402-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1013398">
-      <Lemma writtenForm="ئۇ" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ئۇ" partOfSpeech="h"/>
       <Sense id="L1013398-S1" synset="wikidata-ug-L1013398-S1" ili="wikidata-ug-L1013398-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L414242">
-      <Lemma writtenForm="بىز" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="بىز" partOfSpeech="h"/>
       <Sense id="L414242-S1" synset="wikidata-ug-L414242-S1" ili="wikidata-ug-L414242-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L349254">
-      <Lemma writtenForm="مەن" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="مەن" partOfSpeech="h"/>
       <Sense id="L349254-S1" synset="wikidata-ug-L349254-S1" ili="wikidata-ug-L349254-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407042">
-      <Lemma writtenForm="ھەئە" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ھەئە" partOfSpeech="i"/>
       <Sense id="L407042-S1" synset="wikidata-ug-L407042-S1" ili="wikidata-ug-L407042-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ug-L1013402-S1" ili="wikidata-ug-L1013402-S1">
+    <Synset id="wikidata-ug-L1013402-S1" ili="wikidata-ug-L1013402-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ug-L1013398-S1" ili="wikidata-ug-L1013398-S1">
+    <Synset id="wikidata-ug-L1013398-S1" ili="wikidata-ug-L1013398-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ug-L414242-S1" ili="wikidata-ug-L414242-S1">
+    <Synset id="wikidata-ug-L414242-S1" ili="wikidata-ug-L414242-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ug-L349254-S1" ili="wikidata-ug-L349254-S1">
+    <Synset id="wikidata-ug-L349254-S1" ili="wikidata-ug-L349254-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ug-L407042-S1" ili="wikidata-ug-L407042-S1">
+    <Synset id="wikidata-ug-L407042-S1" ili="wikidata-ug-L407042-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-gv" version="1.4"/>
     <LexicalEntry id="L727353">
-      <Lemma writtenForm="un" partOfSpeech="numeral"/>
+      <Lemma writtenForm="un" partOfSpeech="m"/>
       <Sense id="L727353-S1" synset="wikidata-gv-L727353-S1" ili="wikidata-gv-L727353-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-gv-L727353-S1" ili="wikidata-gv-L727353-S1">
+    <Synset id="wikidata-gv-L727353-S1" ili="wikidata-gv-L727353-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

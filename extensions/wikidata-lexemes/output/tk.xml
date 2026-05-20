@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-tk" version="1.4"/>
     <LexicalEntry id="L45215">
-      <Lemma writtenForm="bir" partOfSpeech="numeral"/>
+      <Lemma writtenForm="bir" partOfSpeech="m"/>
       <Sense id="L45215-S1" synset="wikidata-tk-L45215-S1" ili="wikidata-tk-L45215-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-tk-L45215-S1" ili="wikidata-tk-L45215-S1">
+    <Synset id="wikidata-tk-L45215-S1" ili="wikidata-tk-L45215-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

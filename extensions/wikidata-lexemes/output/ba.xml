@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-ba" version="1.4"/>
     <LexicalEntry id="L700702">
-      <Lemma writtenForm="бер" partOfSpeech="numeral"/>
+      <Lemma writtenForm="бер" partOfSpeech="m"/>
       <Sense id="L700702-S1" synset="wikidata-ba-L700702-S1" ili="wikidata-ba-L700702-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ba-L700702-S1" ili="wikidata-ba-L700702-S1">
+    <Synset id="wikidata-ba-L700702-S1" ili="wikidata-ba-L700702-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

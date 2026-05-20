@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-ka" version="1.4"/>
     <LexicalEntry id="L2716">
-      <Lemma writtenForm="და" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="და" partOfSpeech="c"/>
       <Sense id="L2716-S1" synset="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466208">
-      <Lemma writtenForm="არა" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="არა" partOfSpeech="y"/>
       <Sense id="L1466208-S1" synset="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1">
         <Definition></Definition>
       </Sense>
@@ -24,48 +24,48 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691658">
-      <Lemma writtenForm="ერთი" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ერთი" partOfSpeech="m"/>
       <Sense id="L691658-S1" synset="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466211">
-      <Lemma writtenForm="ან" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ან" partOfSpeech="c"/>
       <Sense id="L1466211-S1" synset="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L55005">
-      <Lemma writtenForm="ხუთი" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ხუთი" partOfSpeech="m"/>
       <Sense id="L55005-S1" synset="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1231">
-      <Lemma writtenForm="მე" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="მე" partOfSpeech="h"/>
       <Sense id="L1231-S1" synset="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1">
+    <Synset id="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1">
+    <Synset id="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2">
+    <Synset id="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1">
+    <Synset id="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1">
+    <Synset id="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1">
+    <Synset id="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1">
+    <Synset id="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

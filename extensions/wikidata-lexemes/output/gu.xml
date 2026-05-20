@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-gu" version="1.4"/>
     <LexicalEntry id="L228189">
-      <Lemma writtenForm="હું" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="હું" partOfSpeech="h"/>
       <Sense id="L228189-S1" synset="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1">
         <Definition></Definition>
       </Sense>
@@ -20,10 +20,10 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1">
+    <Synset id="wikidata-gu-L228189-S1" ili="wikidata-gu-L228189-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1">
+    <Synset id="wikidata-gu-L1337572-S1" ili="wikidata-gu-L1337572-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

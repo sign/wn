@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-xh" version="1.4"/>
     <LexicalEntry id="L6868">
-      <Lemma writtenForm="enkosi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="enkosi" partOfSpeech="i"/>
       <Sense id="L6868-S1" synset="wikidata-xh-L6868-S1" ili="wikidata-xh-L6868-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-xh-L6868-S1" ili="wikidata-xh-L6868-S1">
+    <Synset id="wikidata-xh-L6868-S1" ili="wikidata-xh-L6868-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

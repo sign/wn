@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-te" version="1.4"/>
     <LexicalEntry id="L306960">
-      <Lemma writtenForm="అకట" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="అకట" partOfSpeech="y"/>
       <Sense id="L306960-S1" synset="wikidata-te-L306960-S1" ili="wikidata-te-L306960-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-te-L306960-S1" ili="wikidata-te-L306960-S1">
+    <Synset id="wikidata-te-L306960-S1" ili="wikidata-te-L306960-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

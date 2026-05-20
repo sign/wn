@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-th" version="1.4"/>
     <LexicalEntry id="L418016">
-      <Lemma writtenForm="ของ" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ของ" partOfSpeech="p"/>
       <Sense id="L418016-S1" synset="wikidata-th-L418016-S1" ili="l2986-s3">
         <Definition>แห่ง (ใช้สำหรับนำหน้านามที่เป็นผู้ครอบครอง)</Definition>
         <SenseRelation relType="similar" target="wikidata-th-L451359-S1"/>
@@ -17,7 +17,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451359">
-      <Lemma writtenForm="ใน" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ใน" partOfSpeech="p"/>
       <Sense id="L451359-S1" synset="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1">
         <Definition>แห่ง, ของ</Definition>
         <Example>พระราชนิพนธ์ในพระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว</Example>
@@ -29,7 +29,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451360">
-      <Lemma writtenForm="แห่ง" partOfSpeech="preposition"/>
+      <Lemma writtenForm="แห่ง" partOfSpeech="p"/>
       <Sense id="L451360-S1" synset="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-th-L418016-S1"/>
@@ -37,24 +37,24 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L692524">
-      <Lemma writtenForm="หนึ่ง" partOfSpeech="numeral"/>
+      <Lemma writtenForm="หนึ่ง" partOfSpeech="m"/>
       <Sense id="L692524-S1" synset="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-th-L418016-S1" ili="l2986-s3">
+    <Synset id="wikidata-th-L418016-S1" ili="l2986-s3" partOfSpeech="p">
       <Definition>แห่ง (ใช้สำหรับนำหน้านามที่เป็นผู้ครอบครอง)</Definition>
     </Synset>
-    <Synset id="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1">
+    <Synset id="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1" partOfSpeech="p">
       <Definition>แห่ง, ของ</Definition>
     </Synset>
-    <Synset id="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2">
+    <Synset id="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1">
+    <Synset id="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1">
+    <Synset id="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

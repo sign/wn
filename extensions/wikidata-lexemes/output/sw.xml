@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-sw" version="1.4"/>
     <LexicalEntry id="L1230623">
-      <Lemma writtenForm="na" partOfSpeech="preposition"/>
+      <Lemma writtenForm="na" partOfSpeech="p"/>
       <Sense id="L1230623-S1" synset="wikidata-sw-L1230623-S1" ili="wikidata-sw-L1230623-S1">
         <Definition></Definition>
       </Sense>
@@ -18,7 +18,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230678">
-      <Lemma writtenForm="wao" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="wao" partOfSpeech="h"/>
       <Sense id="L1230678-S1" synset="wikidata-sw-L1230678-S1" ili="wikidata-sw-L1230678-S1">
         <Definition></Definition>
       </Sense>
@@ -30,7 +30,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1226165">
-      <Lemma writtenForm="hadi" partOfSpeech="preposition"/>
+      <Lemma writtenForm="hadi" partOfSpeech="p"/>
       <Sense id="L1226165-S1" synset="wikidata-sw-L1226165-S1" ili="wikidata-sw-L1226165-S1">
         <Definition></Definition>
       </Sense>
@@ -42,13 +42,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230640">
-      <Lemma writtenForm="wewe" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="wewe" partOfSpeech="h"/>
       <Sense id="L1230640-S1" synset="wikidata-sw-L1230640-S1" ili="wikidata-sw-L1230640-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230659">
-      <Lemma writtenForm="nyinyi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="nyinyi" partOfSpeech="h"/>
       <Sense id="L1230659-S1" synset="wikidata-sw-L1230659-S1" ili="wikidata-sw-L1230659-S1">
         <Definition></Definition>
       </Sense>
@@ -60,13 +60,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1226698">
-      <Lemma writtenForm="habedari" partOfSpeech="interjection"/>
+      <Lemma writtenForm="habedari" partOfSpeech="i"/>
       <Sense id="L1226698-S1" synset="wikidata-sw-L1226698-S1" ili="wikidata-sw-L1226698-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230612">
-      <Lemma writtenForm="mimi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="mimi" partOfSpeech="h"/>
       <Sense id="L1230612-S1" synset="wikidata-sw-L1230612-S1" ili="wikidata-sw-L1230612-S1">
         <Definition></Definition>
       </Sense>
@@ -78,7 +78,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1320176">
-      <Lemma writtenForm="kwa" partOfSpeech="preposition"/>
+      <Lemma writtenForm="kwa" partOfSpeech="p"/>
       <Sense id="L1320176-S1" synset="wikidata-sw-L1320176-S1" ili="wikidata-sw-L1320176-S1">
         <Definition></Definition>
       </Sense>
@@ -102,7 +102,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L228334">
-      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L228334-S1" synset="wikidata-sw-L228334-S1" ili="wikidata-sw-L228334-S1">
         <Definition></Definition>
       </Sense>
@@ -114,7 +114,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215195">
-      <Lemma writtenForm="nani" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="nani" partOfSpeech="h"/>
       <Sense id="L1215195-S1" synset="wikidata-sw-L1215195-S1" ili="wikidata-sw-L1215195-S1">
         <Definition></Definition>
       </Sense>
@@ -141,19 +141,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230676">
-      <Lemma writtenForm="yeye" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="yeye" partOfSpeech="h"/>
       <Sense id="L1230676-S1" synset="wikidata-sw-L1230676-S1" ili="wikidata-sw-L1230676-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1228845">
-      <Lemma writtenForm="lahaula" partOfSpeech="interjection"/>
+      <Lemma writtenForm="lahaula" partOfSpeech="i"/>
       <Sense id="L1228845-S1" synset="wikidata-sw-L1228845-S1" ili="wikidata-sw-L1228845-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230625">
-      <Lemma writtenForm="sisi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="sisi" partOfSpeech="h"/>
       <Sense id="L1230625-S1" synset="wikidata-sw-L1230625-S1" ili="wikidata-sw-L1230625-S1">
         <Definition></Definition>
       </Sense>
@@ -165,96 +165,96 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230709">
-      <Lemma writtenForm="amba" partOfSpeech="relative pronoun"/>
+      <Lemma writtenForm="amba" partOfSpeech="h"/>
       <Sense id="L1230709-S1" synset="wikidata-sw-L1230709-S1" ili="wikidata-sw-L1230709-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-sw-L1230623-S1" ili="wikidata-sw-L1230623-S1">
+    <Synset id="wikidata-sw-L1230623-S1" ili="wikidata-sw-L1230623-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230623-S2" ili="wikidata-sw-L1230623-S2">
+    <Synset id="wikidata-sw-L1230623-S2" ili="wikidata-sw-L1230623-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230678-S1" ili="wikidata-sw-L1230678-S1">
+    <Synset id="wikidata-sw-L1230678-S1" ili="wikidata-sw-L1230678-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1256052-S1" ili="wikidata-sw-L1256052-S1">
+    <Synset id="wikidata-sw-L1256052-S1" ili="wikidata-sw-L1256052-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1226165-S1" ili="wikidata-sw-L1226165-S1">
+    <Synset id="wikidata-sw-L1226165-S1" ili="wikidata-sw-L1226165-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230685-S1" ili="wikidata-sw-L1230685-S1">
+    <Synset id="wikidata-sw-L1230685-S1" ili="wikidata-sw-L1230685-S1" partOfSpeech="determinative pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230640-S1" ili="wikidata-sw-L1230640-S1">
+    <Synset id="wikidata-sw-L1230640-S1" ili="wikidata-sw-L1230640-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230659-S1" ili="wikidata-sw-L1230659-S1">
+    <Synset id="wikidata-sw-L1230659-S1" ili="wikidata-sw-L1230659-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1346422-S1" ili="wikidata-sw-L1346422-S1">
+    <Synset id="wikidata-sw-L1346422-S1" ili="wikidata-sw-L1346422-S1" partOfSpeech="indefinite adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1226698-S1" ili="wikidata-sw-L1226698-S1">
+    <Synset id="wikidata-sw-L1226698-S1" ili="wikidata-sw-L1226698-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230612-S1" ili="wikidata-sw-L1230612-S1">
+    <Synset id="wikidata-sw-L1230612-S1" ili="wikidata-sw-L1230612-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230767-S1" ili="wikidata-sw-L1230767-S1">
+    <Synset id="wikidata-sw-L1230767-S1" ili="wikidata-sw-L1230767-S1" partOfSpeech="object pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1320176-S1" ili="wikidata-sw-L1320176-S1">
+    <Synset id="wikidata-sw-L1320176-S1" ili="wikidata-sw-L1320176-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1320176-S2" ili="wikidata-sw-L1320176-S2">
+    <Synset id="wikidata-sw-L1320176-S2" ili="wikidata-sw-L1320176-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1320176-S3" ili="wikidata-sw-L1320176-S3">
+    <Synset id="wikidata-sw-L1320176-S3" ili="wikidata-sw-L1320176-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1227896-S1" ili="wikidata-sw-L1227896-S1">
+    <Synset id="wikidata-sw-L1227896-S1" ili="wikidata-sw-L1227896-S1" partOfSpeech="subject pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230613-S1" ili="wikidata-sw-L1230613-S1">
+    <Synset id="wikidata-sw-L1230613-S1" ili="wikidata-sw-L1230613-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L228334-S1" ili="wikidata-sw-L228334-S1">
+    <Synset id="wikidata-sw-L228334-S1" ili="wikidata-sw-L228334-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L689565-S1" ili="wikidata-sw-L689565-S1">
+    <Synset id="wikidata-sw-L689565-S1" ili="wikidata-sw-L689565-S1" partOfSpeech="noun prefix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1215195-S1" ili="wikidata-sw-L1215195-S1">
+    <Synset id="wikidata-sw-L1215195-S1" ili="wikidata-sw-L1215195-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230655-S1" ili="wikidata-sw-L1230655-S1">
+    <Synset id="wikidata-sw-L1230655-S1" ili="wikidata-sw-L1230655-S1" partOfSpeech="copula">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230655-S2" ili="wikidata-sw-L1230655-S2">
+    <Synset id="wikidata-sw-L1230655-S2" ili="wikidata-sw-L1230655-S2" partOfSpeech="copula">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230690-S1" ili="wikidata-sw-L1230690-S1">
+    <Synset id="wikidata-sw-L1230690-S1" ili="wikidata-sw-L1230690-S1" partOfSpeech="possessive adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1227899-S1" ili="wikidata-sw-L1227899-S1">
+    <Synset id="wikidata-sw-L1227899-S1" ili="wikidata-sw-L1227899-S1" partOfSpeech="subject pronoun">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230676-S1" ili="wikidata-sw-L1230676-S1">
+    <Synset id="wikidata-sw-L1230676-S1" ili="wikidata-sw-L1230676-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1228845-S1" ili="wikidata-sw-L1228845-S1">
+    <Synset id="wikidata-sw-L1228845-S1" ili="wikidata-sw-L1228845-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230625-S1" ili="wikidata-sw-L1230625-S1">
+    <Synset id="wikidata-sw-L1230625-S1" ili="wikidata-sw-L1230625-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230688-S1" ili="wikidata-sw-L1230688-S1">
+    <Synset id="wikidata-sw-L1230688-S1" ili="wikidata-sw-L1230688-S1" partOfSpeech="possessive adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sw-L1230709-S1" ili="wikidata-sw-L1230709-S1">
+    <Synset id="wikidata-sw-L1230709-S1" ili="wikidata-sw-L1230709-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

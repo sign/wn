@@ -9,75 +9,75 @@
                     version="1.0">
     <Extends id="omw-st" version="1.4"/>
     <LexicalEntry id="L1337287">
-      <Lemma writtenForm="leshome" partOfSpeech="numeral"/>
+      <Lemma writtenForm="leshome" partOfSpeech="m"/>
       <Sense id="L1337287-S1" synset="wikidata-st-L1337287-S1" ili="wikidata-st-L1337287-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337282">
-      <Lemma writtenForm="hlano" partOfSpeech="numeral"/>
+      <Lemma writtenForm="hlano" partOfSpeech="m"/>
       <Sense id="L1337282-S1" synset="wikidata-st-L1337282-S1" ili="wikidata-st-L1337282-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337239">
-      <Lemma writtenForm="empa" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="empa" partOfSpeech="c"/>
       <Sense id="L1337239-S1" synset="wikidata-st-L1337239-S1" ili="wikidata-st-L1337239-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337289">
-      <Lemma writtenForm="sekete" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sekete" partOfSpeech="m"/>
       <Sense id="L1337289-S1" synset="wikidata-st-L1337289-S1" ili="wikidata-st-L1337289-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1335434">
-      <Lemma writtenForm="le" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="le" partOfSpeech="c"/>
       <Sense id="L1335434-S1" synset="wikidata-st-L1335434-S1" ili="wikidata-st-L1335434-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337286">
-      <Lemma writtenForm="robong" partOfSpeech="numeral"/>
+      <Lemma writtenForm="robong" partOfSpeech="m"/>
       <Sense id="L1337286-S1" synset="wikidata-st-L1337286-S1" ili="wikidata-st-L1337286-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337280">
-      <Lemma writtenForm="tharo" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tharo" partOfSpeech="m"/>
       <Sense id="L1337280-S1" synset="wikidata-st-L1337280-S1" ili="wikidata-st-L1337280-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1337284">
-      <Lemma writtenForm="supa" partOfSpeech="numeral"/>
+      <Lemma writtenForm="supa" partOfSpeech="m"/>
       <Sense id="L1337284-S1" synset="wikidata-st-L1337284-S1" ili="wikidata-st-L1337284-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-st-L1337287-S1" ili="wikidata-st-L1337287-S1">
+    <Synset id="wikidata-st-L1337287-S1" ili="wikidata-st-L1337287-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337282-S1" ili="wikidata-st-L1337282-S1">
+    <Synset id="wikidata-st-L1337282-S1" ili="wikidata-st-L1337282-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337239-S1" ili="wikidata-st-L1337239-S1">
+    <Synset id="wikidata-st-L1337239-S1" ili="wikidata-st-L1337239-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337289-S1" ili="wikidata-st-L1337289-S1">
+    <Synset id="wikidata-st-L1337289-S1" ili="wikidata-st-L1337289-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1335434-S1" ili="wikidata-st-L1335434-S1">
+    <Synset id="wikidata-st-L1335434-S1" ili="wikidata-st-L1335434-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337286-S1" ili="wikidata-st-L1337286-S1">
+    <Synset id="wikidata-st-L1337286-S1" ili="wikidata-st-L1337286-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337280-S1" ili="wikidata-st-L1337280-S1">
+    <Synset id="wikidata-st-L1337280-S1" ili="wikidata-st-L1337280-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-st-L1337284-S1" ili="wikidata-st-L1337284-S1">
+    <Synset id="wikidata-st-L1337284-S1" ili="wikidata-st-L1337284-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

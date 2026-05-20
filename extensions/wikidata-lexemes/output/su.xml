@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-su" version="1.4"/>
     <LexicalEntry id="L1118977">
-      <Lemma writtenForm="simkuring" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="simkuring" partOfSpeech="h"/>
       <Sense id="L1118977-S1" synset="wikidata-su-L1118977-S1" ili="l487-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-su-L1118977-S1" ili="l487-s1">
+    <Synset id="wikidata-su-L1118977-S1" ili="l487-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

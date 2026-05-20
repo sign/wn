@@ -9,30 +9,30 @@
                     version="1.0">
     <Extends id="omw-fy" version="1.4"/>
     <LexicalEntry id="L401975">
-      <Lemma writtenForm="en" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="en" partOfSpeech="c"/>
       <Sense id="L401975-S1" synset="wikidata-fy-L401975-S1" ili="wikidata-fy-L401975-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1453149">
-      <Lemma writtenForm="troch" partOfSpeech="preposition"/>
+      <Lemma writtenForm="troch" partOfSpeech="p"/>
       <Sense id="L1453149-S1" synset="wikidata-fy-L1453149-S1" ili="wikidata-fy-L1453149-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406988">
-      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ja" partOfSpeech="i"/>
       <Sense id="L406988-S1" synset="wikidata-fy-L406988-S1" ili="wikidata-fy-L406988-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-fy-L401975-S1" ili="wikidata-fy-L401975-S1">
+    <Synset id="wikidata-fy-L401975-S1" ili="wikidata-fy-L401975-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fy-L1453149-S1" ili="wikidata-fy-L1453149-S1">
+    <Synset id="wikidata-fy-L1453149-S1" ili="wikidata-fy-L1453149-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fy-L406988-S1" ili="wikidata-fy-L406988-S1">
+    <Synset id="wikidata-fy-L406988-S1" ili="wikidata-fy-L406988-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

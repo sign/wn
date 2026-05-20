@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-an" version="1.4"/>
     <LexicalEntry id="L1411275">
-      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L1411275-S1" synset="wikidata-an-L1411275-S1" ili="wikidata-an-L1411275-S1">
         <Definition></Definition>
       </Sense>
@@ -18,7 +18,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411278">
-      <Lemma writtenForm="el" partOfSpeech="definite article"/>
+      <Lemma writtenForm="el" partOfSpeech="d"/>
       <Sense id="L1411278-S1" synset="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1">
         <Definition></Definition>
       </Sense>
@@ -29,16 +29,16 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-an-L1411275-S1" ili="wikidata-an-L1411275-S1">
+    <Synset id="wikidata-an-L1411275-S1" ili="wikidata-an-L1411275-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-an-L1411275-S2" ili="wikidata-an-L1411275-S2">
+    <Synset id="wikidata-an-L1411275-S2" ili="wikidata-an-L1411275-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1">
+    <Synset id="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1">
+    <Synset id="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1" partOfSpeech="prenominal adjective">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

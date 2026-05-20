@@ -9,44 +9,44 @@
                     version="1.0">
     <Extends id="omw-et" version="1.4"/>
     <LexicalEntry id="L350575">
-      <Lemma writtenForm="amps" partOfSpeech="interjection"/>
+      <Lemma writtenForm="amps" partOfSpeech="i"/>
       <Sense id="L350575-S1" synset="wikidata-et-L350575-S1" ili="wikidata-et-L350575-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L363189">
-      <Lemma writtenForm="klõnks" partOfSpeech="interjection"/>
+      <Lemma writtenForm="klõnks" partOfSpeech="i"/>
       <Sense id="L363189-S1" synset="wikidata-et-L363189-S1" ili="wikidata-et-L363189-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L363902">
-      <Lemma writtenForm="kolm" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kolm" partOfSpeech="m"/>
       <Sense id="L363902-S1" synset="wikidata-et-L363902-S1" ili="wikidata-et-L363902-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L364755">
-      <Lemma writtenForm="kop-kop" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kop-kop" partOfSpeech="i"/>
       <Sense id="L364755-S1" synset="wikidata-et-L364755-S1" ili="wikidata-et-L364755-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L364761-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L387035">
-      <Lemma writtenForm="siuh" partOfSpeech="interjection"/>
+      <Lemma writtenForm="siuh" partOfSpeech="i"/>
       <Sense id="L387035-S1" synset="wikidata-et-L387035-S1" ili="wikidata-et-L387035-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L396978">
-      <Lemma writtenForm="või" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="või" partOfSpeech="c"/>
       <Sense id="L396978-S1" synset="wikidata-et-L396978-S1" ili="wikidata-et-L396978-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L349848">
-      <Lemma writtenForm="aitäh" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aitäh" partOfSpeech="i"/>
       <Sense id="L349848-S1" synset="wikidata-et-L349848-S1" ili="wikidata-et-L349848-S1">
         <Definition></Definition>
       </Sense>
@@ -58,7 +58,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L357486">
-      <Lemma writtenForm="ih-ih-hii" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ih-ih-hii" partOfSpeech="i"/>
       <Sense id="L357486-S1" synset="wikidata-et-L357486-S1" ili="wikidata-et-L357486-S1">
         <Definition></Definition>
       </Sense>
@@ -70,56 +70,56 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L373459">
-      <Lemma writtenForm="muahahhaa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="muahahhaa" partOfSpeech="i"/>
       <Sense id="L373459-S1" synset="wikidata-et-L373459-S1" ili="wikidata-et-L373459-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L373458-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L374881">
-      <Lemma writtenForm="need" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="need" partOfSpeech="h"/>
       <Sense id="L374881-S1" synset="wikidata-et-L374881-S1" ili="wikidata-et-L374881-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390983">
-      <Lemma writtenForm="tere päevast" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tere päevast" partOfSpeech="i"/>
       <Sense id="L390983-S1" synset="wikidata-et-L390983-S1" ili="wikidata-et-L390983-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390990">
-      <Lemma writtenForm="tere õhtust" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tere õhtust" partOfSpeech="i"/>
       <Sense id="L390990-S1" synset="wikidata-et-L390990-S1" ili="wikidata-et-L390990-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L394573">
-      <Lemma writtenForm="vabandust" partOfSpeech="interjection"/>
+      <Lemma writtenForm="vabandust" partOfSpeech="i"/>
       <Sense id="L394573-S1" synset="wikidata-et-L394573-S1" ili="wikidata-et-L394573-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L399131">
-      <Lemma writtenForm="üks" partOfSpeech="numeral"/>
+      <Lemma writtenForm="üks" partOfSpeech="m"/>
       <Sense id="L399131-S1" synset="wikidata-et-L399131-S1" ili="wikidata-et-L399131-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L212">
-      <Lemma writtenForm="sada" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sada" partOfSpeech="m"/>
       <Sense id="L212-S1" synset="wikidata-et-L212-S1" ili="wikidata-et-L212-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L214">
-      <Lemma writtenForm="kümme" partOfSpeech="numeral"/>
+      <Lemma writtenForm="kümme" partOfSpeech="m"/>
       <Sense id="L214-S1" synset="wikidata-et-L214-S1" ili="wikidata-et-L214-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L349541">
-      <Lemma writtenForm="aamen" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aamen" partOfSpeech="i"/>
       <Sense id="L349541-S1" synset="wikidata-et-L349541-S1" ili="wikidata-et-L349541-S1">
         <Definition></Definition>
       </Sense>
@@ -134,112 +134,112 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L356710">
-      <Lemma writtenForm="hosianna" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hosianna" partOfSpeech="i"/>
       <Sense id="L356710-S1" synset="wikidata-et-L356710-S1" ili="wikidata-et-L356710-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L361244">
-      <Lemma writtenForm="kassa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kassa" partOfSpeech="i"/>
       <Sense id="L361244-S1" synset="wikidata-et-L361244-S1" ili="wikidata-et-L361244-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L350122">
-      <Lemma writtenForm="alates" partOfSpeech="preposition"/>
+      <Lemma writtenForm="alates" partOfSpeech="p"/>
       <Sense id="L350122-S1" synset="wikidata-et-L350122-S1" ili="wikidata-et-L350122-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L353942">
-      <Lemma writtenForm="enese" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="enese" partOfSpeech="h"/>
       <Sense id="L353942-S1" synset="wikidata-et-L353942-S1" ili="wikidata-et-L353942-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L357329">
-      <Lemma writtenForm="hüvasti" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hüvasti" partOfSpeech="i"/>
       <Sense id="L357329-S1" synset="wikidata-et-L357329-S1" ili="wikidata-et-L357329-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L358428">
-      <Lemma writtenForm="ja" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ja" partOfSpeech="c"/>
       <Sense id="L358428-S1" synset="wikidata-et-L358428-S1" ili="wikidata-et-L358428-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L375283-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L365466">
-      <Lemma writtenForm="krooks" partOfSpeech="interjection"/>
+      <Lemma writtenForm="krooks" partOfSpeech="i"/>
       <Sense id="L365466-S1" synset="wikidata-et-L365466-S1" ili="wikidata-et-L365466-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L386643">
-      <Lemma writtenForm="sina" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="sina" partOfSpeech="h"/>
       <Sense id="L386643-S1" synset="wikidata-et-L386643-S1" ili="wikidata-et-L386643-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390977">
-      <Lemma writtenForm="tere hommikust" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tere hommikust" partOfSpeech="i"/>
       <Sense id="L390977-S1" synset="wikidata-et-L390977-S1" ili="wikidata-et-L390977-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L271">
-      <Lemma writtenForm="seitse" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seitse" partOfSpeech="m"/>
       <Sense id="L271-S1" synset="wikidata-et-L271-S1" ili="wikidata-et-L271-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L349631">
-      <Lemma writtenForm="aga" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="aga" partOfSpeech="c"/>
       <Sense id="L349631-S1" synset="wikidata-et-L349631-S1" ili="wikidata-et-L349631-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L351941">
-      <Lemma writtenForm="bingo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="bingo" partOfSpeech="i"/>
       <Sense id="L351941-S1" synset="wikidata-et-L351941-S1" ili="wikidata-et-L351941-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L353351">
-      <Lemma writtenForm="ehk" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ehk" partOfSpeech="c"/>
       <Sense id="L353351-S1" synset="wikidata-et-L353351-S1" ili="wikidata-et-L353351-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L357064">
-      <Lemma writtenForm="hä-hä-hää" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hä-hä-hää" partOfSpeech="i"/>
       <Sense id="L357064-S1" synset="wikidata-et-L357064-S1" ili="wikidata-et-L357064-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L364761">
-      <Lemma writtenForm="kopp-kopp" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kopp-kopp" partOfSpeech="i"/>
       <Sense id="L364761-S1" synset="wikidata-et-L364761-S1" ili="wikidata-et-L364761-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L364755-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L372990">
-      <Lemma writtenForm="miljon" partOfSpeech="numeral"/>
+      <Lemma writtenForm="miljon" partOfSpeech="m"/>
       <Sense id="L372990-S1" synset="wikidata-et-L372990-S1" ili="wikidata-et-L372990-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L373458">
-      <Lemma writtenForm="muahahaa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="muahahaa" partOfSpeech="i"/>
       <Sense id="L373458-S1" synset="wikidata-et-L373458-S1" ili="wikidata-et-L373458-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L373459-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L385927">
-      <Lemma writtenForm="sekstiljon" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sekstiljon" partOfSpeech="m"/>
       <Sense id="L385927-S1" synset="wikidata-et-L385927-S1" ili="wikidata-et-L385927-S1">
         <Definition></Definition>
       </Sense>
@@ -257,74 +257,74 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L358983">
-      <Lemma writtenForm="jumalaga" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumalaga" partOfSpeech="i"/>
       <Sense id="L358983-S1" synset="wikidata-et-L358983-S1" ili="wikidata-et-L358983-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L372167">
-      <Lemma writtenForm="marss" partOfSpeech="interjection"/>
+      <Lemma writtenForm="marss" partOfSpeech="i"/>
       <Sense id="L372167-S1" synset="wikidata-et-L372167-S1" ili="wikidata-et-L372167-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390976">
-      <Lemma writtenForm="tere" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tere" partOfSpeech="i"/>
       <Sense id="L390976-S1" synset="wikidata-et-L390976-S1" ili="wikidata-et-L390976-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L373017">
-      <Lemma writtenForm="mina" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="mina" partOfSpeech="h"/>
       <Sense id="L373017-S1" synset="wikidata-et-L373017-S1" ili="wikidata-et-L373017-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L375283">
-      <Lemma writtenForm="ning" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ning" partOfSpeech="c"/>
       <Sense id="L375283-S1" synset="wikidata-et-L375283-S1" ili="wikidata-et-L375283-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-et-L358428-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L377110">
-      <Lemma writtenForm="paar" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="paar" partOfSpeech="h"/>
       <Sense id="L377110-S1" synset="wikidata-et-L377110-S1" ili="wikidata-et-L377110-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L377573">
-      <Lemma writtenForm="palju" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="palju" partOfSpeech="h"/>
       <Sense id="L377573-S1" synset="wikidata-et-L377573-S1" ili="wikidata-et-L377573-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L382250">
-      <Lemma writtenForm="pöörd" partOfSpeech="interjection"/>
+      <Lemma writtenForm="pöörd" partOfSpeech="i"/>
       <Sense id="L382250-S1" synset="wikidata-et-L382250-S1" ili="wikidata-et-L382250-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L385669">
-      <Lemma writtenForm="see" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="see" partOfSpeech="h"/>
       <Sense id="L385669-S1" synset="wikidata-et-L385669-S1" ili="wikidata-et-L385669-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390838">
-      <Lemma writtenForm="tema" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="tema" partOfSpeech="h"/>
       <Sense id="L390838-S1" synset="wikidata-et-L390838-S1" ili="wikidata-et-L390838-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L390985">
-      <Lemma writtenForm="tere tulemast" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tere tulemast" partOfSpeech="i"/>
       <Sense id="L390985-S1" synset="wikidata-et-L390985-S1" ili="wikidata-et-L390985-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L350857">
-      <Lemma writtenForm="appi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="appi" partOfSpeech="i"/>
       <Sense id="L350857-S1" synset="wikidata-et-L350857-S1" ili="wikidata-et-L350857-S1">
         <Definition></Definition>
       </Sense>
@@ -333,177 +333,177 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L358379">
-      <Lemma writtenForm="issand" partOfSpeech="interjection"/>
+      <Lemma writtenForm="issand" partOfSpeech="i"/>
       <Sense id="L358379-S1" synset="wikidata-et-L358379-S1" ili="wikidata-et-L358379-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-et-L350575-S1" ili="wikidata-et-L350575-S1">
+    <Synset id="wikidata-et-L350575-S1" ili="wikidata-et-L350575-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L363189-S1" ili="wikidata-et-L363189-S1">
+    <Synset id="wikidata-et-L363189-S1" ili="wikidata-et-L363189-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L363902-S1" ili="wikidata-et-L363902-S1">
+    <Synset id="wikidata-et-L363902-S1" ili="wikidata-et-L363902-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L364755-S1" ili="wikidata-et-L364755-S1">
+    <Synset id="wikidata-et-L364755-S1" ili="wikidata-et-L364755-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L387035-S1" ili="wikidata-et-L387035-S1">
+    <Synset id="wikidata-et-L387035-S1" ili="wikidata-et-L387035-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L396978-S1" ili="wikidata-et-L396978-S1">
+    <Synset id="wikidata-et-L396978-S1" ili="wikidata-et-L396978-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L349848-S1" ili="wikidata-et-L349848-S1">
+    <Synset id="wikidata-et-L349848-S1" ili="wikidata-et-L349848-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350121-S1" ili="wikidata-et-L350121-S1">
+    <Synset id="wikidata-et-L350121-S1" ili="wikidata-et-L350121-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L357486-S1" ili="wikidata-et-L357486-S1">
+    <Synset id="wikidata-et-L357486-S1" ili="wikidata-et-L357486-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L358617-S1" ili="wikidata-et-L358617-S1">
+    <Synset id="wikidata-et-L358617-S1" ili="wikidata-et-L358617-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L373459-S1" ili="wikidata-et-L373459-S1">
+    <Synset id="wikidata-et-L373459-S1" ili="wikidata-et-L373459-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L374881-S1" ili="wikidata-et-L374881-S1">
+    <Synset id="wikidata-et-L374881-S1" ili="wikidata-et-L374881-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390983-S1" ili="wikidata-et-L390983-S1">
+    <Synset id="wikidata-et-L390983-S1" ili="wikidata-et-L390983-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390990-S1" ili="wikidata-et-L390990-S1">
+    <Synset id="wikidata-et-L390990-S1" ili="wikidata-et-L390990-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L394573-S1" ili="wikidata-et-L394573-S1">
+    <Synset id="wikidata-et-L394573-S1" ili="wikidata-et-L394573-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L399131-S1" ili="wikidata-et-L399131-S1">
+    <Synset id="wikidata-et-L399131-S1" ili="wikidata-et-L399131-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L212-S1" ili="wikidata-et-L212-S1">
+    <Synset id="wikidata-et-L212-S1" ili="wikidata-et-L212-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L214-S1" ili="wikidata-et-L214-S1">
+    <Synset id="wikidata-et-L214-S1" ili="wikidata-et-L214-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L349541-S1" ili="wikidata-et-L349541-S1">
+    <Synset id="wikidata-et-L349541-S1" ili="wikidata-et-L349541-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L349541-S2" ili="wikidata-et-L349541-S2">
+    <Synset id="wikidata-et-L349541-S2" ili="wikidata-et-L349541-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350209-S1" ili="wikidata-et-L350209-S1">
+    <Synset id="wikidata-et-L350209-S1" ili="wikidata-et-L350209-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L356710-S1" ili="wikidata-et-L356710-S1">
+    <Synset id="wikidata-et-L356710-S1" ili="wikidata-et-L356710-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L361244-S1" ili="wikidata-et-L361244-S1">
+    <Synset id="wikidata-et-L361244-S1" ili="wikidata-et-L361244-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350122-S1" ili="wikidata-et-L350122-S1">
+    <Synset id="wikidata-et-L350122-S1" ili="wikidata-et-L350122-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L353942-S1" ili="wikidata-et-L353942-S1">
+    <Synset id="wikidata-et-L353942-S1" ili="wikidata-et-L353942-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L357329-S1" ili="wikidata-et-L357329-S1">
+    <Synset id="wikidata-et-L357329-S1" ili="wikidata-et-L357329-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L358428-S1" ili="wikidata-et-L358428-S1">
+    <Synset id="wikidata-et-L358428-S1" ili="wikidata-et-L358428-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L365466-S1" ili="wikidata-et-L365466-S1">
+    <Synset id="wikidata-et-L365466-S1" ili="wikidata-et-L365466-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L386643-S1" ili="wikidata-et-L386643-S1">
+    <Synset id="wikidata-et-L386643-S1" ili="wikidata-et-L386643-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390977-S1" ili="wikidata-et-L390977-S1">
+    <Synset id="wikidata-et-L390977-S1" ili="wikidata-et-L390977-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L271-S1" ili="wikidata-et-L271-S1">
+    <Synset id="wikidata-et-L271-S1" ili="wikidata-et-L271-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L349631-S1" ili="wikidata-et-L349631-S1">
+    <Synset id="wikidata-et-L349631-S1" ili="wikidata-et-L349631-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L351941-S1" ili="wikidata-et-L351941-S1">
+    <Synset id="wikidata-et-L351941-S1" ili="wikidata-et-L351941-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L353351-S1" ili="wikidata-et-L353351-S1">
+    <Synset id="wikidata-et-L353351-S1" ili="wikidata-et-L353351-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L357064-S1" ili="wikidata-et-L357064-S1">
+    <Synset id="wikidata-et-L357064-S1" ili="wikidata-et-L357064-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L364761-S1" ili="wikidata-et-L364761-S1">
+    <Synset id="wikidata-et-L364761-S1" ili="wikidata-et-L364761-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L372990-S1" ili="wikidata-et-L372990-S1">
+    <Synset id="wikidata-et-L372990-S1" ili="wikidata-et-L372990-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L373458-S1" ili="wikidata-et-L373458-S1">
+    <Synset id="wikidata-et-L373458-S1" ili="wikidata-et-L373458-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L385927-S1" ili="wikidata-et-L385927-S1">
+    <Synset id="wikidata-et-L385927-S1" ili="wikidata-et-L385927-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S1" ili="wikidata-et-L350399-S1">
+    <Synset id="wikidata-et-L350399-S1" ili="wikidata-et-L350399-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S2" ili="wikidata-et-L350399-S2">
+    <Synset id="wikidata-et-L350399-S2" ili="wikidata-et-L350399-S2" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350399-S3" ili="wikidata-et-L350399-S3">
+    <Synset id="wikidata-et-L350399-S3" ili="wikidata-et-L350399-S3" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L358983-S1" ili="wikidata-et-L358983-S1">
+    <Synset id="wikidata-et-L358983-S1" ili="wikidata-et-L358983-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L372167-S1" ili="wikidata-et-L372167-S1">
+    <Synset id="wikidata-et-L372167-S1" ili="wikidata-et-L372167-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390976-S1" ili="wikidata-et-L390976-S1">
+    <Synset id="wikidata-et-L390976-S1" ili="wikidata-et-L390976-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L373017-S1" ili="wikidata-et-L373017-S1">
+    <Synset id="wikidata-et-L373017-S1" ili="wikidata-et-L373017-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L375283-S1" ili="wikidata-et-L375283-S1">
+    <Synset id="wikidata-et-L375283-S1" ili="wikidata-et-L375283-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L377110-S1" ili="wikidata-et-L377110-S1">
+    <Synset id="wikidata-et-L377110-S1" ili="wikidata-et-L377110-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L377573-S1" ili="wikidata-et-L377573-S1">
+    <Synset id="wikidata-et-L377573-S1" ili="wikidata-et-L377573-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L382250-S1" ili="wikidata-et-L382250-S1">
+    <Synset id="wikidata-et-L382250-S1" ili="wikidata-et-L382250-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L385669-S1" ili="wikidata-et-L385669-S1">
+    <Synset id="wikidata-et-L385669-S1" ili="wikidata-et-L385669-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390838-S1" ili="wikidata-et-L390838-S1">
+    <Synset id="wikidata-et-L390838-S1" ili="wikidata-et-L390838-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L390985-S1" ili="wikidata-et-L390985-S1">
+    <Synset id="wikidata-et-L390985-S1" ili="wikidata-et-L390985-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350857-S1" ili="wikidata-et-L350857-S1">
+    <Synset id="wikidata-et-L350857-S1" ili="wikidata-et-L350857-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L350857-S2" ili="wikidata-et-L350857-S2">
+    <Synset id="wikidata-et-L350857-S2" ili="wikidata-et-L350857-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-et-L358379-S1" ili="wikidata-et-L358379-S1">
+    <Synset id="wikidata-et-L358379-S1" ili="wikidata-et-L358379-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-tl" version="1.4"/>
     <LexicalEntry id="L613965">
-      <Lemma writtenForm="isa" partOfSpeech="numeral"/>
+      <Lemma writtenForm="isa" partOfSpeech="m"/>
       <Sense id="L613965-S1" synset="wikidata-tl-L613965-S1" ili="wikidata-tl-L613965-S1">
         <Definition></Definition>
       </Sense>
@@ -29,16 +29,16 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-tl-L613965-S1" ili="wikidata-tl-L613965-S1">
+    <Synset id="wikidata-tl-L613965-S1" ili="wikidata-tl-L613965-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tl-L691243-S1" ili="wikidata-tl-L691243-S1">
+    <Synset id="wikidata-tl-L691243-S1" ili="wikidata-tl-L691243-S1" partOfSpeech="greeting">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tl-L1476746-S1" ili="wikidata-tl-L1476746-S1">
+    <Synset id="wikidata-tl-L1476746-S1" ili="wikidata-tl-L1476746-S1" partOfSpeech="infix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tl-L1476746-S2" ili="wikidata-tl-L1476746-S2">
+    <Synset id="wikidata-tl-L1476746-S2" ili="wikidata-tl-L1476746-S2" partOfSpeech="infix">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

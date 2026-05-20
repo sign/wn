@@ -9,75 +9,75 @@
                     version="1.0">
     <Extends id="omw-dz" version="1.4"/>
     <LexicalEntry id="L1327626">
-      <Lemma writtenForm="ཁྱོད་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ཁྱོད་" partOfSpeech="h"/>
       <Sense id="L1327626-S1" synset="wikidata-dz-L1327626-S1" ili="wikidata-dz-L1327626-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327628">
-      <Lemma writtenForm="མོ་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="མོ་" partOfSpeech="h"/>
       <Sense id="L1327628-S1" synset="wikidata-dz-L1327628-S1" ili="wikidata-dz-L1327628-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L727363">
-      <Lemma writtenForm="གཅིག" partOfSpeech="numeral"/>
+      <Lemma writtenForm="གཅིག" partOfSpeech="m"/>
       <Sense id="L727363-S1" synset="wikidata-dz-L727363-S1" ili="wikidata-dz-L727363-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327627">
-      <Lemma writtenForm="ཁ་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ཁ་" partOfSpeech="h"/>
       <Sense id="L1327627-S1" synset="wikidata-dz-L1327627-S1" ili="wikidata-dz-L1327627-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327625">
-      <Lemma writtenForm="ང་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ང་" partOfSpeech="h"/>
       <Sense id="L1327625-S1" synset="wikidata-dz-L1327625-S1" ili="wikidata-dz-L1327625-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327629">
-      <Lemma writtenForm="ང་བཅས་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ང་བཅས་" partOfSpeech="h"/>
       <Sense id="L1327629-S1" synset="wikidata-dz-L1327629-S1" ili="wikidata-dz-L1327629-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327631">
-      <Lemma writtenForm="ཁོང་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ཁོང་" partOfSpeech="h"/>
       <Sense id="L1327631-S1" synset="wikidata-dz-L1327631-S1" ili="wikidata-dz-L1327631-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327630">
-      <Lemma writtenForm="ཁྱེད་" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ཁྱེད་" partOfSpeech="h"/>
       <Sense id="L1327630-S1" synset="wikidata-dz-L1327630-S1" ili="wikidata-dz-L1327630-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-dz-L1327626-S1" ili="wikidata-dz-L1327626-S1">
+    <Synset id="wikidata-dz-L1327626-S1" ili="wikidata-dz-L1327626-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327628-S1" ili="wikidata-dz-L1327628-S1">
+    <Synset id="wikidata-dz-L1327628-S1" ili="wikidata-dz-L1327628-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L727363-S1" ili="wikidata-dz-L727363-S1">
+    <Synset id="wikidata-dz-L727363-S1" ili="wikidata-dz-L727363-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327627-S1" ili="wikidata-dz-L1327627-S1">
+    <Synset id="wikidata-dz-L1327627-S1" ili="wikidata-dz-L1327627-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327625-S1" ili="wikidata-dz-L1327625-S1">
+    <Synset id="wikidata-dz-L1327625-S1" ili="wikidata-dz-L1327625-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327629-S1" ili="wikidata-dz-L1327629-S1">
+    <Synset id="wikidata-dz-L1327629-S1" ili="wikidata-dz-L1327629-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327631-S1" ili="wikidata-dz-L1327631-S1">
+    <Synset id="wikidata-dz-L1327631-S1" ili="wikidata-dz-L1327631-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-dz-L1327630-S1" ili="wikidata-dz-L1327630-S1">
+    <Synset id="wikidata-dz-L1327630-S1" ili="wikidata-dz-L1327630-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,129 +9,129 @@
                     version="1.0">
     <Extends id="omw-ga" version="1.4"/>
     <LexicalEntry id="L1328502">
-      <Lemma writtenForm="ar" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ar" partOfSpeech="p"/>
       <Sense id="L1328502-S1" synset="wikidata-ga-L1328502-S1" ili="wikidata-ga-L1328502-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1379146">
-      <Lemma writtenForm="mar" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="mar" partOfSpeech="c"/>
       <Sense id="L1379146-S1" synset="wikidata-ga-L1379146-S1" ili="wikidata-ga-L1379146-S1">
         <Definition>ar an gcúis go</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328284">
-      <Lemma writtenForm="ár" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="ár" partOfSpeech="h"/>
       <Sense id="L1328284-S1" synset="wikidata-ga-L1328284-S1" ili="wikidata-ga-L1328284-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L941923">
-      <Lemma writtenForm="mé" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="mé" partOfSpeech="h"/>
       <Sense id="L941923-S1" synset="wikidata-ga-L941923-S1" ili="wikidata-ga-L941923-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1273417">
-      <Lemma writtenForm="agus" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="agus" partOfSpeech="c"/>
       <Sense id="L1273417-S1" synset="wikidata-ga-L1273417-S1" ili="wikidata-ga-L1273417-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328261">
-      <Lemma writtenForm="an" partOfSpeech="definite article"/>
+      <Lemma writtenForm="an" partOfSpeech="d"/>
       <Sense id="L1328261-S1" synset="wikidata-ga-L1328261-S1" ili="wikidata-ga-L1328261-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328520">
-      <Lemma writtenForm="trasna" partOfSpeech="preposition"/>
+      <Lemma writtenForm="trasna" partOfSpeech="p"/>
       <Sense id="L1328520-S1" synset="wikidata-ga-L1328520-S1" ili="wikidata-ga-L1328520-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328544">
-      <Lemma writtenForm="don" partOfSpeech="prepositional locution"/>
+      <Lemma writtenForm="don" partOfSpeech="p"/>
       <Sense id="L1328544-S1" synset="wikidata-ga-L1328544-S1" ili="wikidata-ga-L1328544-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328286">
-      <Lemma writtenForm="a" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="a" partOfSpeech="h"/>
       <Sense id="L1328286-S1" synset="wikidata-ga-L1328286-S1" ili="wikidata-ga-L1328286-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328517">
-      <Lemma writtenForm="ag" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ag" partOfSpeech="p"/>
       <Sense id="L1328517-S1" synset="wikidata-ga-L1328517-S1" ili="wikidata-ga-L1328517-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328285">
-      <Lemma writtenForm="bhur" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="bhur" partOfSpeech="h"/>
       <Sense id="L1328285-S1" synset="wikidata-ga-L1328285-S1" ili="wikidata-ga-L1328285-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328519">
-      <Lemma writtenForm="ó" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ó" partOfSpeech="p"/>
       <Sense id="L1328519-S1" synset="wikidata-ga-L1328519-S1" ili="wikidata-ga-L1328519-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328518">
-      <Lemma writtenForm="trí" partOfSpeech="preposition"/>
+      <Lemma writtenForm="trí" partOfSpeech="p"/>
       <Sense id="L1328518-S1" synset="wikidata-ga-L1328518-S1" ili="wikidata-ga-L1328518-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328543">
-      <Lemma writtenForm="do" partOfSpeech="preposition"/>
+      <Lemma writtenForm="do" partOfSpeech="p"/>
       <Sense id="L1328543-S1" synset="wikidata-ga-L1328543-S1" ili="wikidata-ga-L1328543-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ga-L1328502-S1" ili="wikidata-ga-L1328502-S1">
+    <Synset id="wikidata-ga-L1328502-S1" ili="wikidata-ga-L1328502-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1379146-S1" ili="wikidata-ga-L1379146-S1">
+    <Synset id="wikidata-ga-L1379146-S1" ili="wikidata-ga-L1379146-S1" partOfSpeech="c">
       <Definition>ar an gcúis go</Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328284-S1" ili="wikidata-ga-L1328284-S1">
+    <Synset id="wikidata-ga-L1328284-S1" ili="wikidata-ga-L1328284-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L941923-S1" ili="wikidata-ga-L941923-S1">
+    <Synset id="wikidata-ga-L941923-S1" ili="wikidata-ga-L941923-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1273417-S1" ili="wikidata-ga-L1273417-S1">
+    <Synset id="wikidata-ga-L1273417-S1" ili="wikidata-ga-L1273417-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328261-S1" ili="wikidata-ga-L1328261-S1">
+    <Synset id="wikidata-ga-L1328261-S1" ili="wikidata-ga-L1328261-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328520-S1" ili="wikidata-ga-L1328520-S1">
+    <Synset id="wikidata-ga-L1328520-S1" ili="wikidata-ga-L1328520-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328544-S1" ili="wikidata-ga-L1328544-S1">
+    <Synset id="wikidata-ga-L1328544-S1" ili="wikidata-ga-L1328544-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328286-S1" ili="wikidata-ga-L1328286-S1">
+    <Synset id="wikidata-ga-L1328286-S1" ili="wikidata-ga-L1328286-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328517-S1" ili="wikidata-ga-L1328517-S1">
+    <Synset id="wikidata-ga-L1328517-S1" ili="wikidata-ga-L1328517-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328285-S1" ili="wikidata-ga-L1328285-S1">
+    <Synset id="wikidata-ga-L1328285-S1" ili="wikidata-ga-L1328285-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328519-S1" ili="wikidata-ga-L1328519-S1">
+    <Synset id="wikidata-ga-L1328519-S1" ili="wikidata-ga-L1328519-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328518-S1" ili="wikidata-ga-L1328518-S1">
+    <Synset id="wikidata-ga-L1328518-S1" ili="wikidata-ga-L1328518-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ga-L1328543-S1" ili="wikidata-ga-L1328543-S1">
+    <Synset id="wikidata-ga-L1328543-S1" ili="wikidata-ga-L1328543-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

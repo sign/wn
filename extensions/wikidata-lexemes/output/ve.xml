@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-ve" version="1.4"/>
     <LexicalEntry id="L407045">
-      <Lemma writtenForm="ee" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ee" partOfSpeech="y"/>
       <Sense id="L407045-S1" synset="wikidata-ve-L407045-S1" ili="wikidata-ve-L407045-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407046">
-      <Lemma writtenForm="hai" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="hai" partOfSpeech="y"/>
       <Sense id="L407046-S1" synset="wikidata-ve-L407046-S1" ili="wikidata-ve-L407046-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ve-L407045-S1" ili="wikidata-ve-L407045-S1">
+    <Synset id="wikidata-ve-L407045-S1" ili="wikidata-ve-L407045-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ve-L407046-S1" ili="wikidata-ve-L407046-S1">
+    <Synset id="wikidata-ve-L407046-S1" ili="wikidata-ve-L407046-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

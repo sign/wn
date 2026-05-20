@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-kv" version="1.4"/>
     <LexicalEntry id="L47722">
-      <Lemma writtenForm="тэ" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="тэ" partOfSpeech="h"/>
       <Sense id="L47722-S1" synset="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1">
         <Definition></Definition>
       </Sense>
@@ -27,48 +27,48 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47723">
-      <Lemma writtenForm="сійӧ" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="сійӧ" partOfSpeech="h"/>
       <Sense id="L47723-S1" synset="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47721">
-      <Lemma writtenForm="ме" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ме" partOfSpeech="h"/>
       <Sense id="L47721-S1" synset="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47720">
-      <Lemma writtenForm="ӧти" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ӧти" partOfSpeech="m"/>
       <Sense id="L47720-S1" synset="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L54522">
-      <Lemma writtenForm="да" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="да" partOfSpeech="y"/>
       <Sense id="L54522-S1" synset="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1">
+    <Synset id="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1">
+    <Synset id="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1" partOfSpeech="adposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1">
+    <Synset id="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1" partOfSpeech="adposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1">
+    <Synset id="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1">
+    <Synset id="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1">
+    <Synset id="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1">
+    <Synset id="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

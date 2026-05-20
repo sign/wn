@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-fa" version="1.4"/>
     <LexicalEntry id="L1096604">
-      <Lemma writtenForm="بهر" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="بهر" partOfSpeech="c"/>
       <Sense id="L1096604-S1" synset="wikidata-fa-L1096604-S1" ili="wikidata-fa-L1096604-S1">
         <Definition>بخش</Definition>
       </Sense>
@@ -21,25 +21,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1017658">
-      <Lemma writtenForm="شاباش" partOfSpeech="interjection"/>
+      <Lemma writtenForm="شاباش" partOfSpeech="i"/>
       <Sense id="L1017658-S1" synset="wikidata-fa-L1017658-S1" ili="wikidata-fa-L1017658-S1">
         <Definition>آفرین!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098397">
-      <Lemma writtenForm="رون" partOfSpeech="preposition"/>
+      <Lemma writtenForm="رون" partOfSpeech="p"/>
       <Sense id="L1098397-S1" synset="wikidata-fa-L1098397-S1" ili="wikidata-fa-L1098397-S1">
         <Definition>سبب، جهت</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098415">
-      <Lemma writtenForm="اینان" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="اینان" partOfSpeech="h"/>
       <Sense id="L1098415-S1" synset="wikidata-fa-L1098415-S1" ili="wikidata-fa-L1098415-S1">
         <Definition>ضمیر اشاره برای اشخاص نزدیک</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098392">
-      <Lemma writtenForm="بجای" partOfSpeech="preposition"/>
+      <Lemma writtenForm="بجای" partOfSpeech="p"/>
       <Sense id="L1098392-S1" synset="wikidata-fa-L1098392-S1" ili="wikidata-fa-L1098392-S1">
         <Definition>در حق کسی، برای کسی</Definition>
       </Sense>
@@ -51,13 +51,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098414">
-      <Lemma writtenForm="همین" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="همین" partOfSpeech="h"/>
       <Sense id="L1098414-S1" synset="wikidata-fa-L1098414-S1" ili="wikidata-fa-L1098414-S1">
         <Definition>این</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1096606">
-      <Lemma writtenForm="تو" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="تو" partOfSpeech="c"/>
       <Sense id="L1096606-S1" synset="wikidata-fa-L1096606-S1" ili="wikidata-fa-L1096606-S1">
         <Definition>اندرون</Definition>
       </Sense>
@@ -69,7 +69,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098413">
-      <Lemma writtenForm="انا" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="انا" partOfSpeech="h"/>
       <Sense id="L1098413-S1" synset="wikidata-fa-L1098413-S1" ili="wikidata-fa-L1098413-S1">
         <Definition>من</Definition>
       </Sense>
@@ -78,7 +78,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1098411">
-      <Lemma writtenForm="خود" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="خود" partOfSpeech="h"/>
       <Sense id="L1098411-S1" synset="wikidata-fa-L1098411-S1" ili="wikidata-fa-L1098411-S1">
         <Definition>ضمیر مشترک که در میان متکلم، مخاطب و غایب مشترک است و همیشه مفرد آید</Definition>
       </Sense>
@@ -86,55 +86,55 @@
         <Definition>شخص، ذات، وجود</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-fa-L1096604-S1" ili="wikidata-fa-L1096604-S1">
+    <Synset id="wikidata-fa-L1096604-S1" ili="wikidata-fa-L1096604-S1" partOfSpeech="c">
       <Definition>بخش</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1096604-S2" ili="wikidata-fa-L1096604-S2">
+    <Synset id="wikidata-fa-L1096604-S2" ili="wikidata-fa-L1096604-S2" partOfSpeech="c">
       <Definition>برای</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1096604-S3" ili="wikidata-fa-L1096604-S3">
+    <Synset id="wikidata-fa-L1096604-S3" ili="wikidata-fa-L1096604-S3" partOfSpeech="c">
       <Definition>پاره</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1017658-S1" ili="wikidata-fa-L1017658-S1">
+    <Synset id="wikidata-fa-L1017658-S1" ili="wikidata-fa-L1017658-S1" partOfSpeech="i">
       <Definition>آفرین!</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098397-S1" ili="wikidata-fa-L1098397-S1">
+    <Synset id="wikidata-fa-L1098397-S1" ili="wikidata-fa-L1098397-S1" partOfSpeech="p">
       <Definition>سبب، جهت</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098415-S1" ili="wikidata-fa-L1098415-S1">
+    <Synset id="wikidata-fa-L1098415-S1" ili="wikidata-fa-L1098415-S1" partOfSpeech="h">
       <Definition>ضمیر اشاره برای اشخاص نزدیک</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098392-S1" ili="wikidata-fa-L1098392-S1">
+    <Synset id="wikidata-fa-L1098392-S1" ili="wikidata-fa-L1098392-S1" partOfSpeech="p">
       <Definition>در حق کسی، برای کسی</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098392-S2" ili="wikidata-fa-L1098392-S2">
+    <Synset id="wikidata-fa-L1098392-S2" ili="wikidata-fa-L1098392-S2" partOfSpeech="p">
       <Definition>از جهت، از حیث</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098392-S3" ili="wikidata-fa-L1098392-S3">
+    <Synset id="wikidata-fa-L1098392-S3" ili="wikidata-fa-L1098392-S3" partOfSpeech="p">
       <Definition>در برابر، در مقابل (برای مقایسه)</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098414-S1" ili="wikidata-fa-L1098414-S1">
+    <Synset id="wikidata-fa-L1098414-S1" ili="wikidata-fa-L1098414-S1" partOfSpeech="h">
       <Definition>این</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1096606-S1" ili="wikidata-fa-L1096606-S1">
+    <Synset id="wikidata-fa-L1096606-S1" ili="wikidata-fa-L1096606-S1" partOfSpeech="c">
       <Definition>اندرون</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1096606-S2" ili="wikidata-fa-L1096606-S2">
+    <Synset id="wikidata-fa-L1096606-S2" ili="wikidata-fa-L1096606-S2" partOfSpeech="c">
       <Definition>پرده</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1096606-S3" ili="wikidata-fa-L1096606-S3">
+    <Synset id="wikidata-fa-L1096606-S3" ili="wikidata-fa-L1096606-S3" partOfSpeech="c">
       <Definition>رشته</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098413-S1" ili="wikidata-fa-L1098413-S1">
+    <Synset id="wikidata-fa-L1098413-S1" ili="wikidata-fa-L1098413-S1" partOfSpeech="h">
       <Definition>من</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098413-S2" ili="wikidata-fa-L1098413-S2">
+    <Synset id="wikidata-fa-L1098413-S2" ili="wikidata-fa-L1098413-S2" partOfSpeech="h">
       <Definition>مخفف انا الحق (من خدایم)</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098411-S1" ili="wikidata-fa-L1098411-S1">
+    <Synset id="wikidata-fa-L1098411-S1" ili="wikidata-fa-L1098411-S1" partOfSpeech="h">
       <Definition>ضمیر مشترک که در میان متکلم، مخاطب و غایب مشترک است و همیشه مفرد آید</Definition>
     </Synset>
-    <Synset id="wikidata-fa-L1098411-S2" ili="wikidata-fa-L1098411-S2">
+    <Synset id="wikidata-fa-L1098411-S2" ili="wikidata-fa-L1098411-S2" partOfSpeech="h">
       <Definition>شخص، ذات، وجود</Definition>
     </Synset>
   </LexiconExtension>

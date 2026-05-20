@@ -9,84 +9,84 @@
                     version="1.0">
     <Extends id="omw-af" version="1.4"/>
     <LexicalEntry id="L1143585">
-      <Lemma writtenForm="hy" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="hy" partOfSpeech="h"/>
       <Sense id="L1143585-S1" synset="wikidata-af-L1143585-S1" ili="wikidata-af-L1143585-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143586">
-      <Lemma writtenForm="sy" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="sy" partOfSpeech="h"/>
       <Sense id="L1143586-S1" synset="wikidata-af-L1143586-S1" ili="wikidata-af-L1143586-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143587">
-      <Lemma writtenForm="dit" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="dit" partOfSpeech="h"/>
       <Sense id="L1143587-S1" synset="wikidata-af-L1143587-S1" ili="wikidata-af-L1143587-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143583">
-      <Lemma writtenForm="ek" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ek" partOfSpeech="h"/>
       <Sense id="L1143583-S1" synset="wikidata-af-L1143583-S1" ili="wikidata-af-L1143583-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143584">
-      <Lemma writtenForm="jy" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="jy" partOfSpeech="h"/>
       <Sense id="L1143584-S1" synset="wikidata-af-L1143584-S1" ili="wikidata-af-L1143584-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143589">
-      <Lemma writtenForm="ons" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ons" partOfSpeech="h"/>
       <Sense id="L1143589-S1" synset="wikidata-af-L1143589-S1" ili="wikidata-af-L1143589-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143590">
-      <Lemma writtenForm="julle" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="julle" partOfSpeech="h"/>
       <Sense id="L1143590-S1" synset="wikidata-af-L1143590-S1" ili="wikidata-af-L1143590-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143591">
-      <Lemma writtenForm="hulle" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="hulle" partOfSpeech="h"/>
       <Sense id="L1143591-S1" synset="wikidata-af-L1143591-S1" ili="wikidata-af-L1143591-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406986">
-      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ja" partOfSpeech="i"/>
       <Sense id="L406986-S1" synset="wikidata-af-L406986-S1" ili="wikidata-af-L406986-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-af-L1143585-S1" ili="wikidata-af-L1143585-S1">
+    <Synset id="wikidata-af-L1143585-S1" ili="wikidata-af-L1143585-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143586-S1" ili="wikidata-af-L1143586-S1">
+    <Synset id="wikidata-af-L1143586-S1" ili="wikidata-af-L1143586-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143587-S1" ili="wikidata-af-L1143587-S1">
+    <Synset id="wikidata-af-L1143587-S1" ili="wikidata-af-L1143587-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143583-S1" ili="wikidata-af-L1143583-S1">
+    <Synset id="wikidata-af-L1143583-S1" ili="wikidata-af-L1143583-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143584-S1" ili="wikidata-af-L1143584-S1">
+    <Synset id="wikidata-af-L1143584-S1" ili="wikidata-af-L1143584-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143589-S1" ili="wikidata-af-L1143589-S1">
+    <Synset id="wikidata-af-L1143589-S1" ili="wikidata-af-L1143589-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143590-S1" ili="wikidata-af-L1143590-S1">
+    <Synset id="wikidata-af-L1143590-S1" ili="wikidata-af-L1143590-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L1143591-S1" ili="wikidata-af-L1143591-S1">
+    <Synset id="wikidata-af-L1143591-S1" ili="wikidata-af-L1143591-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-af-L406986-S1" ili="wikidata-af-L406986-S1">
+    <Synset id="wikidata-af-L406986-S1" ili="wikidata-af-L406986-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>
