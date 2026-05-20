@@ -236,6 +236,19 @@ def build_ili_index(lexemes: list[dict]) -> dict[str, str]:
     return ili_index
 
 
+def _pick_gloss(glosses: dict, lang_iso: str) -> str:
+    """Prefer the lemma language; fall back to English, then any other."""
+    for candidate in (lang_iso, "en"):
+        text = glosses.get(candidate, {}).get("value", "")
+        if text:
+            return text
+    for entry in glosses.values():
+        text = entry.get("value", "")
+        if text:
+            return text
+    return ""
+
+
 def _extract_sense_examples(lexeme: dict, lang_iso: str) -> dict[str, list[str]]:
     """Build mapping of sense_id -> examples from P5831 claims."""
     sense_examples: dict[str, list[str]] = {}
@@ -308,7 +321,7 @@ def build_xml_entry(
     for sense in senses:
         sense_id = sense["id"]
         glosses = sense.get("glosses", {})
-        gloss = glosses.get(lang_iso, {}).get("value", "")
+        gloss = _pick_gloss(glosses, lang_iso)
         relations = _build_sense_relations(sense, lang_iso, kept_lang_senses)
         examples = sense_examples.get(sense_id, [])
 
@@ -331,6 +344,8 @@ def build_xml_entry(
             f'    <Synset id="{synset_id}"{ili_attr} partOfSpeech="{pos_code}">\n'
         )
         synset_content += f'      <Definition>{escape_xml(gloss)}</Definition>\n'
+        for example in examples:
+            synset_content += f'      <Example>{escape_xml(example)}</Example>\n'
         synset_content += "    </Synset>"
         synset_entries.append(synset_content)
 

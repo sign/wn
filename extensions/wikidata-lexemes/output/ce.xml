@@ -11,20 +11,20 @@
     <LexicalEntry id="L1331902">
       <Lemma writtenForm="уьш" partOfSpeech="h"/>
       <Sense id="L1331902-S1" synset="wikidata-ce-L1331902-S1" ili="wikidata-ce-L1331902-S1">
-        <Definition></Definition>
+        <Definition>они</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685344">
       <Lemma writtenForm="цхьаъ" partOfSpeech="m"/>
       <Sense id="L685344-S1" synset="wikidata-ce-L685344-S1" ili="wikidata-ce-L685344-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ce-L1331902-S1" ili="wikidata-ce-L1331902-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>они</Definition>
     </Synset>
     <Synset id="wikidata-ce-L685344-S1" ili="wikidata-ce-L685344-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

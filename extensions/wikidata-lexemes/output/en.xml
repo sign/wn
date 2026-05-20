@@ -705,13 +705,13 @@
     <LexicalEntry id="L1320247">
       <Lemma writtenForm="eighty-four" partOfSpeech="d"/>
       <Sense id="L1320247-S1" synset="wikidata-en-L1320247-S1" ili="l1320247-s1">
-        <Definition></Definition>
+        <Definition>سو گھٹ سولاں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1320731">
       <Lemma writtenForm="according to" partOfSpeech="p"/>
       <Sense id="L1320731-S1" synset="wikidata-en-L1320731-S1" ili="l1320731-s1">
-        <Definition></Definition>
+        <Definition>malillugu</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1323942">
@@ -1389,7 +1389,7 @@
     <LexicalEntry id="L203954">
       <Lemma writtenForm="word for word" partOfSpeech="r"/>
       <Sense id="L203954-S1" synset="wikidata-en-L203954-S1" ili="l203954-s1">
-        <Definition></Definition>
+        <Definition>mot pour mot</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L227504">
@@ -1822,7 +1822,7 @@
     <LexicalEntry id="L192560">
       <Lemma writtenForm="in God’s name" partOfSpeech="r"/>
       <Sense id="L192560-S1" synset="wikidata-en-L192560-S1" ili="l192560-s1">
-        <Definition></Definition>
+        <Definition>بِ إسم أللَه</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305841">
@@ -2042,7 +2042,7 @@
     <LexicalEntry id="L335">
       <Lemma writtenForm="seven" partOfSpeech="d"/>
       <Sense id="L335-S1" synset="wikidata-en-L335-S1" ili="l335-s1">
-        <Definition></Definition>
+        <Definition>the number 7</Definition>
       </Sense>
       <Sense id="L335-S2" synset="wikidata-en-L335-S2" ili="l335-s2">
         <Definition>playing card</Definition>
@@ -2921,7 +2921,7 @@
     <LexicalEntry id="L411287">
       <Lemma writtenForm="and/or" partOfSpeech="c"/>
       <Sense id="L411287-S1" synset="wikidata-en-L411287-S1" ili="l411287-s1">
-        <Definition></Definition>
+        <Definition>und/oder</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L705189">
@@ -3048,12 +3048,14 @@
     </LexicalEntry>
     <Synset id="wikidata-en-L13-S1" ili="l13-s1" partOfSpeech="d">
       <Definition>number between 12 and 14</Definition>
+      <Example>article thirteen (13) of the Constitution of Louisiana</Example>
     </Synset>
     <Synset id="wikidata-en-L63-S1" ili="l63-s1" partOfSpeech="q">
       <Definition>For what cause, reason, or purpose</Definition>
     </Synset>
     <Synset id="wikidata-en-L338-S1" ili="l338-s1" partOfSpeech="d">
       <Definition>the number 10</Definition>
+      <Example>the Interim Constitution was amended ten times</Example>
     </Synset>
     <Synset id="wikidata-en-L338-S2" ili="l338-s2" partOfSpeech="d">
       <Definition>playing card</Definition>
@@ -3075,21 +3077,26 @@
     </Synset>
     <Synset id="wikidata-en-L2263-S1" ili="l2263-s1" partOfSpeech="d">
       <Definition>third power of ten</Definition>
+      <Example>Solomon is said to have written three thousand proverbs, and those contained in this book may be a selection from these</Example>
     </Synset>
     <Synset id="wikidata-en-L2264-S1" ili="l2264-s1" partOfSpeech="m">
       <Definition>sixth power of ten</Definition>
     </Synset>
     <Synset id="wikidata-en-L2459-S1" ili="l2459-s1" partOfSpeech="p">
       <Definition>Concerning, with regard to, on the subject of</Definition>
+      <Example>Let&apos;s get serious about plagiarism</Example>
     </Synset>
     <Synset id="wikidata-en-L2768-S1" ili="l2768-s1" partOfSpeech="d">
       <Definition>word denoting something already mentioned, or assumed to be known</Definition>
+      <Example>Did you see my car over there? The exterior was spray-painted red yesterday.</Example>
     </Synset>
     <Synset id="wikidata-en-L2993-S1" ili="l2993-s1" partOfSpeech="c">
       <Definition>In the (same) way or manner that; to the (same) degree that</Definition>
+      <Example>it is hereby ordered as follows</Example>
     </Synset>
     <Synset id="wikidata-en-L3217-S1" ili="l3217-s1" partOfSpeech="p">
       <Definition>later in time</Definition>
+      <Example>for 50 years after the year of first publication</Example>
     </Synset>
     <Synset id="wikidata-en-L3261-S1" ili="l3261-s1" partOfSpeech="p">
       <Definition>enclosing in a circle or other curve</Definition>
@@ -3120,6 +3127,7 @@
     </Synset>
     <Synset id="wikidata-en-L4155-S1" ili="l4155-s1" partOfSpeech="p">
       <Definition>On the outside of, not inside</Definition>
+      <Example>This work is in the public domain in some countries and areas outside the United Kingdom, including the United States.</Example>
     </Synset>
     <Synset id="wikidata-en-L4315-S1" ili="l4315-s1" partOfSpeech="c">
       <Definition>also not</Definition>
@@ -3171,6 +3179,7 @@
     </Synset>
     <Synset id="wikidata-en-L35183-S1" ili="l35183-s1" partOfSpeech="h">
       <Definition>deliberately incorrect version of “who” or “whom”, used humorously in place of those words</Definition>
+      <Example>Yes, even though she’s one of the YouTubers whomst is bad.</Example>
     </Synset>
     <Synset id="wikidata-en-L43819-S1" ili="l43819-s1" partOfSpeech="h">
       <Definition>quality of object</Definition>
@@ -3273,9 +3282,11 @@
     </Synset>
     <Synset id="wikidata-en-L482-S1" ili="l482-s1" partOfSpeech="h">
       <Definition>person spoken to or written to</Definition>
+      <Example>You, in the red shirt: what&apos;s your name?</Example>
     </Synset>
     <Synset id="wikidata-en-L482-S2" ili="l482-s2" partOfSpeech="h">
       <Definition>people spoken or written to</Definition>
+      <Example>All 20 of you forgot to do your homework.</Example>
     </Synset>
     <Synset id="wikidata-en-L482-S3" ili="l482-s3" partOfSpeech="h">
       <Definition>anyone, one; unspecified individual or group of individuals</Definition>
@@ -3288,6 +3299,7 @@
     </Synset>
     <Synset id="wikidata-en-L2986-S1" ili="l2986-s1" partOfSpeech="p">
       <Definition>indicates the composition of a given collective or quantitative noun</Definition>
+      <Example>a group of students</Example>
     </Synset>
     <Synset id="wikidata-en-L2986-S2" ili="l2986-s2" partOfSpeech="p">
       <Definition>indicates an ancestral source or origin of descent</Definition>
@@ -3431,10 +3443,10 @@
       <Definition>(expressing surprise, doubt, joy, anger)</Definition>
     </Synset>
     <Synset id="wikidata-en-L1320247-S1" ili="l1320247-s1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>سو گھٹ سولاں</Definition>
     </Synset>
     <Synset id="wikidata-en-L1320731-S1" ili="l1320731-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>malillugu</Definition>
     </Synset>
     <Synset id="wikidata-en-L1323942-S1" ili="l1323942-s1" partOfSpeech="h">
       <Definition>more in addition to someone or something</Definition>
@@ -3522,6 +3534,7 @@
     </Synset>
     <Synset id="wikidata-en-L483-S1" ili="l483-s1" partOfSpeech="h">
       <Definition>speakers/writers, or the speaker/writer and at least one other person</Definition>
+      <Example>so we believe there should be a highway leading directly from this Department to every school house in Michigan</Example>
     </Synset>
     <Synset id="wikidata-en-L483-S2" ili="l483-s2" partOfSpeech="h">
       <Definition>speaker(s)/writer(s) and the person(s) being addressed</Definition>
@@ -3555,9 +3568,11 @@
     </Synset>
     <Synset id="wikidata-en-L3438-S1" ili="l3438-s1" partOfSpeech="p">
       <Definition>relation of spatial context</Definition>
+      <Example>She found it was tucked under the desk</Example>
     </Synset>
     <Synset id="wikidata-en-L3438-S2" ili="l3438-s2" partOfSpeech="p">
       <Definition>relation of heirarchy, authority, or importance</Definition>
+      <Example>While under the supervision of his mentor</Example>
     </Synset>
     <Synset id="wikidata-en-L4040-S1" ili="l4040-s1" partOfSpeech="h">
       <Definition>Every person</Definition>
@@ -3726,6 +3741,7 @@
     </Synset>
     <Synset id="wikidata-en-L56-S2" ili="l56-s2" partOfSpeech="h">
       <Definition>person or people that</Definition>
+      <Example>It was a nice man who helped us.</Example>
     </Synset>
     <Synset id="wikidata-en-L65-S1" ili="l65-s1" partOfSpeech="q">
       <Definition>which mode</Definition>
@@ -3747,6 +3763,8 @@
     </Synset>
     <Synset id="wikidata-en-L487-S1" ili="l487-s1" partOfSpeech="h">
       <Definition>(first-person singular personal pronoun) speaker or writer of a sentence</Definition>
+      <Example>That belongs to me, not you.</Example>
+      <Example>I am Ozymandias, King of Kings!</Example>
     </Synset>
     <Synset id="wikidata-en-L507-S1" ili="l507-s1" partOfSpeech="h">
       <Definition>inanimate object or animal</Definition>
@@ -3818,7 +3836,7 @@
       <Definition>from within/the inside</Definition>
     </Synset>
     <Synset id="wikidata-en-L203954-S1" ili="l203954-s1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>mot pour mot</Definition>
     </Synset>
     <Synset id="wikidata-en-L227504-S1" ili="l227504-s1" partOfSpeech="p">
       <Definition>in the middle of</Definition>
@@ -3966,6 +3984,7 @@
     </Synset>
     <Synset id="wikidata-en-L333-S1" ili="l333-s1" partOfSpeech="d">
       <Definition>the number between four and six</Definition>
+      <Example>The five books of Moses were collectively called the Pentateuch, a word of Greek origin meaning &quot;the five-fold book.&quot;</Example>
     </Synset>
     <Synset id="wikidata-en-L339-S1" ili="l339-s1" partOfSpeech="m">
       <Definition>the number 11</Definition>
@@ -3975,6 +3994,7 @@
     </Synset>
     <Synset id="wikidata-en-L2168-S2" ili="l2168-s2" partOfSpeech="p">
       <Definition>used to indicate starting point, temporally or spatially</Definition>
+      <Example>A history of public transportation in Kansas City, from cable cars to buses and beyond</Example>
     </Synset>
     <Synset id="wikidata-en-L2996-S1" ili="l2996-s1" partOfSpeech="d">
       <Definition>the whole amount, quantity, or extent of</Definition>
@@ -4049,7 +4069,7 @@
       <Definition>(to do with time) each, per, in, on, by</Definition>
     </Synset>
     <Synset id="wikidata-en-L192560-S1" ili="l192560-s1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>بِ إسم أللَه</Definition>
     </Synset>
     <Synset id="wikidata-en-L305841-S1" ili="l305841-s1" partOfSpeech="h">
       <Definition>third-person singular neopronoun</Definition>
@@ -4160,7 +4180,7 @@
       <Definition>the number 2</Definition>
     </Synset>
     <Synset id="wikidata-en-L335-S1" ili="l335-s1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the number 7</Definition>
     </Synset>
     <Synset id="wikidata-en-L335-S2" ili="l335-s2" partOfSpeech="d">
       <Definition>playing card</Definition>
@@ -4176,6 +4196,7 @@
     </Synset>
     <Synset id="wikidata-en-L2767-S1" ili="l2767-s1" partOfSpeech="d">
       <Definition>one; any indefinite example of</Definition>
+      <Example>An yttrium sulfate compound is generally soluble.</Example>
     </Synset>
     <Synset id="wikidata-en-L2988-S1" ili="l2988-s1" partOfSpeech="c">
       <Definition>(introduces a clause which is the subject or object of a verb)</Definition>
@@ -4251,9 +4272,11 @@
     </Synset>
     <Synset id="wikidata-en-L333961-S1" ili="l333961-s1" partOfSpeech="c">
       <Definition>because</Definition>
+      <Example>I wanted to attend the concert, for it featured my favorite band.</Example>
     </Synset>
     <Synset id="wikidata-en-L333961-S2" ili="l333961-s2" partOfSpeech="c">
       <Definition>since / because</Definition>
+      <Example>She prepared thoroughly for the meeting was crucial to her career.</Example>
     </Synset>
     <Synset id="wikidata-en-L333965-S1" ili="l333965-s1" partOfSpeech="h">
       <Definition>some large quantity of something</Definition>
@@ -4275,6 +4298,7 @@
     </Synset>
     <Synset id="wikidata-en-L643260-S1" ili="l643260-s1" partOfSpeech="h">
       <Definition>The thing, item, etc. being indicated.</Definition>
+      <Example>This is a pronoun.</Example>
     </Synset>
     <Synset id="wikidata-en-L713632-S1" ili="l713632-s1" partOfSpeech="i">
       <Definition>used to express discontent or dismay</Definition>
@@ -4302,6 +4326,7 @@
     </Synset>
     <Synset id="wikidata-en-L1324309-S1" ili="l1324309-s1" partOfSpeech="p">
       <Definition>coming outside from</Definition>
+      <Example>Preparations for their departure out of Egypt</Example>
     </Synset>
     <Synset id="wikidata-en-L1327674-S1" ili="l1327674-s1" partOfSpeech="h">
       <Definition>that which shares attributes with another or with itself at another time</Definition>
@@ -4350,6 +4375,7 @@
     </Synset>
     <Synset id="wikidata-en-L2994-S1" ili="l2994-s1" partOfSpeech="d">
       <Definition>The (thing) here (used in indicating something or someone nearby).</Definition>
+      <Example>This word is a determiner.</Example>
     </Synset>
     <Synset id="wikidata-en-L2994-S2" ili="l2994-s2" partOfSpeech="d">
       <Definition>The known (thing) (used in indicating something or someone just mentioned).</Definition>
@@ -4377,6 +4403,7 @@
     </Synset>
     <Synset id="wikidata-en-L3229-S1" ili="l3229-s1" partOfSpeech="d">
       <Definition>The (thing, person, idea, etc) indicated or understood from context, especially if more remote physically, temporally or mentally than one designated as &quot;this&quot;, or if expressing distinction.</Definition>
+      <Example>That pronoun is different with this determiner.</Example>
     </Synset>
     <Synset id="wikidata-en-L3263-S1" ili="l3263-s1" partOfSpeech="p">
       <Definition>target of an action</Definition>
@@ -4416,6 +4443,7 @@
     </Synset>
     <Synset id="wikidata-en-L18745-S1" ili="l18745-s1" partOfSpeech="h">
       <Definition>English archaic personal pronoun</Definition>
+      <Example>Thou shalt not steal</Example>
     </Synset>
     <Synset id="wikidata-en-L20940-S1" ili="l20940-s1" partOfSpeech="i">
       <Definition>that is perfect; that is it</Definition>
@@ -4440,6 +4468,7 @@
     </Synset>
     <Synset id="wikidata-en-L45026-S3" ili="l45026-s3" partOfSpeech="c">
       <Definition>at the time of the action of the following clause</Definition>
+      <Example>The show will begin when I get there.</Example>
     </Synset>
     <Synset id="wikidata-en-L45026-S4" ili="l45026-s4" partOfSpeech="c">
       <Definition>conjunction</Definition>
@@ -4620,6 +4649,7 @@
     </Synset>
     <Synset id="wikidata-en-L333971-S1" ili="l333971-s1" partOfSpeech="h">
       <Definition>indicating something that is far away from both the speaker and the listener</Definition>
+      <Example>That is a determiner.</Example>
     </Synset>
     <Synset id="wikidata-en-L334076-S1" ili="l334076-s1" partOfSpeech="i">
       <Definition>goodbye</Definition>
@@ -4628,7 +4658,7 @@
       <Definition>expression of pain</Definition>
     </Synset>
     <Synset id="wikidata-en-L411287-S1" ili="l411287-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>und/oder</Definition>
     </Synset>
     <Synset id="wikidata-en-L705189-S1" ili="l705189-s1" partOfSpeech="i">
       <Definition>when something does not go your way</Definition>

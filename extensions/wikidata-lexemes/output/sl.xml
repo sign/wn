@@ -11,20 +11,20 @@
     <LexicalEntry id="L1419033">
       <Lemma writtenForm="po" partOfSpeech="p"/>
       <Sense id="L1419033-S1" synset="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1">
-        <Definition></Definition>
+        <Definition>by, per</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419022">
       <Lemma writtenForm="vsak" partOfSpeech="a"/>
       <Sense id="L1419022-S1" synset="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1">
-        <Definition></Definition>
+        <Definition>every, each</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>by, per</Definition>
     </Synset>
     <Synset id="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>every, each</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

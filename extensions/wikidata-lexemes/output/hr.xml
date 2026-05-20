@@ -11,7 +11,7 @@
     <LexicalEntry id="L58847">
       <Lemma writtenForm="i" partOfSpeech="c"/>
       <Sense id="L58847-S1" synset="wikidata-hr-L58847-S1" ili="l1385-s1">
-        <Definition></Definition>
+        <Definition>conjunction meaning both</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641130">
@@ -600,7 +600,7 @@
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-hr-L58847-S1" ili="l1385-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>conjunction meaning both</Definition>
     </Synset>
     <Synset id="wikidata-hr-L641130-S1" ili="wikidata-hr-L641130-S1" partOfSpeech="p">
       <Definition>priejdlog koji oznakuje početak i drugo</Definition>

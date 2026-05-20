@@ -11,7 +11,7 @@
     <LexicalEntry id="L46853">
       <Lemma writtenForm="um" partOfSpeech="d"/>
       <Sense id="L46853-S1" synset="wikidata-pt-L46853-S1" ili="wikidata-pt-L46853-S1">
-        <Definition></Definition>
+        <Definition>a, an</Definition>
         <Example>Após a morte de Lênin, em 1924, Stalin ascende ao poder, iniciando um período de autoritarismo</Example>
       </Sense>
     </LexicalEntry>
@@ -51,7 +51,7 @@
     <LexicalEntry id="L646316">
       <Lemma writtenForm="cada" partOfSpeech="h"/>
       <Sense id="L646316-S1" synset="wikidata-pt-L646316-S1" ili="wikidata-pt-L646316-S1">
-        <Definition></Definition>
+        <Definition>each</Definition>
         <Example>Quero cada uma dessas folhas carimbadas.</Example>
       </Sense>
     </LexicalEntry>
@@ -74,7 +74,7 @@
     <LexicalEntry id="L676264">
       <Lemma writtenForm="desde" partOfSpeech="p"/>
       <Sense id="L676264-S1" synset="wikidata-pt-L676264-S1" ili="wikidata-pt-L676264-S1">
-        <Definition></Definition>
+        <Definition>since</Definition>
         <Example>Não o vejo desde aquele dia.</Example>
       </Sense>
       <Sense id="L676264-S2" synset="wikidata-pt-L676264-S2" ili="wikidata-pt-L676264-S2">
@@ -137,7 +137,7 @@
     <LexicalEntry id="L663725">
       <Lemma writtenForm="quando" partOfSpeech="c"/>
       <Sense id="L663725-S1" synset="wikidata-pt-L663725-S1" ili="l45026-s4">
-        <Definition></Definition>
+        <Definition>when</Definition>
         <Example>Culpamos ele quando na verdade tinha sido sua irmã.</Example>
       </Sense>
     </LexicalEntry>
@@ -196,11 +196,11 @@
     <LexicalEntry id="L1017458">
       <Lemma writtenForm="até" partOfSpeech="p"/>
       <Sense id="L1017458-S1" synset="wikidata-pt-L1017458-S1" ili="wikidata-pt-L1017458-S1">
-        <Definition></Definition>
+        <Definition>indica limite temporal</Definition>
         <Example>Num sentido amplo, o Absolutismo sempre existiu em muitos países da Terra e continua sendo praticado até hoje.</Example>
       </Sense>
       <Sense id="L1017458-S2" synset="wikidata-pt-L1017458-S2" ili="wikidata-pt-L1017458-S2">
-        <Definition></Definition>
+        <Definition>indica limite espacial</Definition>
       </Sense>
       <Sense id="L1017458-S3" synset="wikidata-pt-L1017458-S3" ili="wikidata-pt-L1017458-S3">
         <Definition>indica limite quantitativo</Definition>
@@ -241,7 +241,7 @@
     <LexicalEntry id="L46870">
       <Lemma writtenForm="cinco" partOfSpeech="m"/>
       <Sense id="L46870-S1" synset="wikidata-pt-L46870-S1" ili="wikidata-pt-L46870-S1">
-        <Definition></Definition>
+        <Definition>the number five</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L502636">
@@ -318,13 +318,13 @@
     <LexicalEntry id="L674368">
       <Lemma writtenForm="muito" partOfSpeech="h"/>
       <Sense id="L674368-S1" synset="wikidata-pt-L674368-S1" ili="wikidata-pt-L674368-S1">
-        <Definition></Definition>
+        <Definition>many, much</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L674370">
       <Lemma writtenForm="então" partOfSpeech="i"/>
       <Sense id="L674370-S1" synset="wikidata-pt-L674370-S1" ili="wikidata-pt-L674370-S1">
-        <Definition></Definition>
+        <Definition>so</Definition>
         <Example>Então, o que aconteceu?</Example>
       </Sense>
       <Sense id="L674370-S2" synset="wikidata-pt-L674370-S2" ili="wikidata-pt-L674370-S2">
@@ -402,7 +402,7 @@
     <LexicalEntry id="L669652">
       <Lemma writtenForm="onde" partOfSpeech="h"/>
       <Sense id="L669652-S1" synset="wikidata-pt-L669652-S1" ili="wikidata-pt-L669652-S1">
-        <Definition></Definition>
+        <Definition>where (place in which something happens)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119534">
@@ -420,16 +420,16 @@
     <LexicalEntry id="L1490851">
       <Lemma writtenForm="ab absurdo" partOfSpeech="r"/>
       <Sense id="L1490851-S1" synset="wikidata-pt-L1490851-S1" ili="wikidata-pt-L1490851-S1">
-        <Definition></Definition>
+        <Definition>in an absurd manner</Definition>
       </Sense>
       <Sense id="L1490851-S2" synset="wikidata-pt-L1490851-S2" ili="wikidata-pt-L1490851-S2">
-        <Definition></Definition>
+        <Definition>using reasoning in the opposite direction to what is proposed to arrive at a result</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L15889">
       <Lemma writtenForm="olá" partOfSpeech="i"/>
       <Sense id="L15889-S1" synset="wikidata-pt-L15889-S1" ili="l8885-s1">
-        <Definition></Definition>
+        <Definition>hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L44970">
@@ -577,19 +577,19 @@
     <LexicalEntry id="L46868">
       <Lemma writtenForm="três" partOfSpeech="m"/>
       <Sense id="L46868-S2" synset="wikidata-pt-L46868-S2" ili="l330-s1">
-        <Definition></Definition>
+        <Definition>the number 3 between two and four</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46872">
       <Lemma writtenForm="sete" partOfSpeech="m"/>
       <Sense id="L46872-S1" synset="wikidata-pt-L46872-S1" ili="wikidata-pt-L46872-S1">
-        <Definition></Definition>
+        <Definition>the number seven</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618640">
       <Lemma writtenForm="e" partOfSpeech="c"/>
       <Sense id="L618640-S1" synset="wikidata-pt-L618640-S1" ili="wikidata-pt-L618640-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L676267">
@@ -620,7 +620,7 @@
     <LexicalEntry id="L680184">
       <Lemma writtenForm="nem que a vaca tussa" partOfSpeech="r"/>
       <Sense id="L680184-S1" synset="wikidata-pt-L680184-S1" ili="wikidata-pt-L680184-S1">
-        <Definition></Definition>
+        <Definition>literally, &quot;not even if the cow coughs&quot;: by no means, definitely not</Definition>
         <Example>O que ele disse a mim não te conto nem que a vaca tussa!</Example>
       </Sense>
     </LexicalEntry>
@@ -652,13 +652,13 @@
     <LexicalEntry id="L46869">
       <Lemma writtenForm="quatro" partOfSpeech="m"/>
       <Sense id="L46869-S1" synset="wikidata-pt-L46869-S1" ili="wikidata-pt-L46869-S1">
-        <Definition></Definition>
+        <Definition>the number four</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46875">
       <Lemma writtenForm="dez" partOfSpeech="m"/>
       <Sense id="L46875-S1" synset="wikidata-pt-L46875-S1" ili="wikidata-pt-L46875-S1">
-        <Definition></Definition>
+        <Definition>the number ten</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477316">
@@ -751,13 +751,13 @@
     <LexicalEntry id="L46871">
       <Lemma writtenForm="seis" partOfSpeech="m"/>
       <Sense id="L46871-S1" synset="wikidata-pt-L46871-S1" ili="wikidata-pt-L46871-S1">
-        <Definition></Definition>
+        <Definition>the number six</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46873">
       <Lemma writtenForm="oito" partOfSpeech="m"/>
       <Sense id="L46873-S1" synset="wikidata-pt-L46873-S1" ili="wikidata-pt-L46873-S1">
-        <Definition></Definition>
+        <Definition>the number eight</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46874">
@@ -811,7 +811,7 @@
     <LexicalEntry id="L647640">
       <Lemma writtenForm="que" partOfSpeech="c"/>
       <Sense id="L647640-S1" synset="wikidata-pt-L647640-S1" ili="wikidata-pt-L647640-S1">
-        <Definition></Definition>
+        <Definition>that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L901082">
@@ -829,7 +829,7 @@
     <LexicalEntry id="L1119757">
       <Lemma writtenForm="a preço de banana" partOfSpeech="r"/>
       <Sense id="L1119757-S1" synset="wikidata-pt-L1119757-S1" ili="wikidata-pt-L1119757-S1">
-        <Definition></Definition>
+        <Definition>&quot;at the price of bananas&quot;: cheaply</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1490453">
@@ -848,13 +848,16 @@
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-pt-L46853-S1" ili="wikidata-pt-L46853-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>a, an</Definition>
+      <Example>Após a morte de Lênin, em 1924, Stalin ascende ao poder, iniciando um período de autoritarismo</Example>
     </Synset>
     <Synset id="wikidata-pt-L46867-S1" ili="l329-s1" partOfSpeech="m">
       <Definition>número cardinal</Definition>
+      <Example>Dois dias depois, convidou os seus dous validos para um banquete no palacio</Example>
     </Synset>
     <Synset id="wikidata-pt-L488745-S1" ili="l485-s1" partOfSpeech="h">
       <Definition>pronominal pessoal masculino</Definition>
+      <Example>Para ele, nada existe além da natureza observável.</Example>
     </Synset>
     <Synset id="wikidata-pt-L488745-S2" ili="wikidata-pt-L488745-S2" partOfSpeech="h">
       <Definition>pronome pessoal epiceno</Definition>
@@ -867,12 +870,15 @@
     </Synset>
     <Synset id="wikidata-pt-L492444-S1" ili="wikidata-pt-L492444-S1" partOfSpeech="h">
       <Definition>indica qualquer um dos indivíduos da espécie mencionada, mas sem determinar qual</Definition>
+      <Example>De um modo geral, literatura é o que foi escrito sobre algum assunto</Example>
     </Synset>
     <Synset id="wikidata-pt-L646316-S1" ili="wikidata-pt-L646316-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>each</Definition>
+      <Example>Quero cada uma dessas folhas carimbadas.</Example>
     </Synset>
     <Synset id="wikidata-pt-L663729-S1" ili="wikidata-pt-L663729-S1" partOfSpeech="h">
       <Definition>no qual</Definition>
+      <Example>A Idade do Bronze foi a era quando as civilizações surgiram</Example>
     </Synset>
     <Synset id="wikidata-pt-L669660-S1" ili="l1323942-s2" partOfSpeech="h">
       <Definition>um diferente</Definition>
@@ -881,22 +887,28 @@
       <Definition>em adição a</Definition>
     </Synset>
     <Synset id="wikidata-pt-L676264-S1" ili="wikidata-pt-L676264-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>since</Definition>
+      <Example>Não o vejo desde aquele dia.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676264-S2" ili="wikidata-pt-L676264-S2" partOfSpeech="p">
       <Definition>com a condição</Definition>
+      <Example>Vou deixar você entrar, desde que se comporte.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676264-S3" ili="wikidata-pt-L676264-S3" partOfSpeech="p">
       <Definition>de</Definition>
+      <Example>Percorremos tudo, desde o norte até o sul.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676265-S1" ili="wikidata-pt-L676265-S1" partOfSpeech="p">
       <Definition>desprovido de</Definition>
+      <Example>Nunca vi uma cadeira sem encosto.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676265-S2" ili="wikidata-pt-L676265-S2" partOfSpeech="p">
       <Definition>deixando de fazer</Definition>
+      <Example>E você está indo sem avisar?</Example>
     </Synset>
     <Synset id="wikidata-pt-L43388-S1" ili="l484-s1" partOfSpeech="h">
       <Definition>pronominal pessoal feminino</Definition>
+      <Example>Mas ela não lhe foi fiel.</Example>
     </Synset>
     <Synset id="wikidata-pt-L43388-S2" ili="wikidata-pt-L43388-S2" partOfSpeech="h">
       <Definition>pronome pessoal epiceno</Definition>
@@ -906,18 +918,23 @@
     </Synset>
     <Synset id="wikidata-pt-L502640-S1" ili="wikidata-pt-L502640-S1" partOfSpeech="h">
       <Definition>todo, todos</Definition>
+      <Example>Qualquer pessoa nota sua presença.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502640-S2" ili="wikidata-pt-L502640-S2" partOfSpeech="h">
       <Definition>pessoa ou coisa indeterminada</Definition>
+      <Example>Agora, quem for flagrado em qualquer situação, também pode ser preso.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503958-S1" ili="wikidata-pt-L503958-S1" partOfSpeech="h">
       <Definition>faz referência a algo que está perto de quem fala</Definition>
+      <Example>O que é isto aqui na mesa?</Example>
     </Synset>
     <Synset id="wikidata-pt-L503958-S2" ili="wikidata-pt-L503958-S2" partOfSpeech="h">
       <Definition>faz referência a algo que ainda será falado</Definition>
+      <Example>É isto o que querem: justiça.</Example>
     </Synset>
     <Synset id="wikidata-pt-L663725-S1" ili="l45026-s4" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>when</Definition>
+      <Example>Culpamos ele quando na verdade tinha sido sua irmã.</Example>
     </Synset>
     <Synset id="wikidata-pt-L670817-S1" ili="wikidata-pt-L670817-S1" partOfSpeech="m">
       <Definition>número ordinal para 1</Definition>
@@ -948,15 +965,17 @@
     </Synset>
     <Synset id="wikidata-pt-L908661-S2" ili="wikidata-pt-L908661-S2" partOfSpeech="i">
       <Definition>expressa desespero</Definition>
+      <Example>Uma barata! Ai, uma barata!</Example>
     </Synset>
     <Synset id="wikidata-pt-L983887-S1" ili="wikidata-pt-L983887-S1" partOfSpeech="i">
       <Definition>expressa descrença</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1017458-S1" ili="wikidata-pt-L1017458-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>indica limite temporal</Definition>
+      <Example>Num sentido amplo, o Absolutismo sempre existiu em muitos países da Terra e continua sendo praticado até hoje.</Example>
     </Synset>
     <Synset id="wikidata-pt-L1017458-S2" ili="wikidata-pt-L1017458-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>indica limite espacial</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1017458-S3" ili="wikidata-pt-L1017458-S3" partOfSpeech="p">
       <Definition>indica limite quantitativo</Definition>
@@ -966,6 +985,7 @@
     </Synset>
     <Synset id="wikidata-pt-L1217794-S1" ili="wikidata-pt-L1217794-S1" partOfSpeech="r">
       <Definition>totalmente</Definition>
+      <Example>Cuidado com José, que ele é doidinho da silva.</Example>
     </Synset>
     <Synset id="wikidata-pt-L1417720-S1" ili="l14712-s1" partOfSpeech="i">
       <Definition>forma de saudação usada para despedida</Definition>
@@ -977,40 +997,51 @@
       <Definition>artigo definido que denota gênero e número à palavra a que se refere</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46870-S1" ili="wikidata-pt-L46870-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number five</Definition>
     </Synset>
     <Synset id="wikidata-pt-L502636-S1" ili="wikidata-pt-L502636-S1" partOfSpeech="p">
       <Definition>na parte superior de, em cima de, por cima ou acima de</Definition>
+      <Example>O jornal dobrado sobre a mesa simples.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S2" ili="wikidata-pt-L502636-S2" partOfSpeech="p">
       <Definition>em posição superior e distante</Definition>
+      <Example>O sol estava aberto sobre mim.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S3" ili="wikidata-pt-L502636-S3" partOfSpeech="p">
       <Definition>acima de, em lugar superior, em situação dominante ou de influência</Definition>
+      <Example>Pedro II reinou sobre o Brasil.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S4" ili="wikidata-pt-L502636-S4" partOfSpeech="p">
       <Definition>pela superfície de</Definition>
+      <Example>A Bíblia diz que Jesus andou sobre o mar.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S5" ili="wikidata-pt-L502636-S5" partOfSpeech="p">
       <Definition>em comparação de, para</Definition>
+      <Example>Três metros de comprimento sobre dois de largura.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S6" ili="wikidata-pt-L502636-S6" partOfSpeech="p">
       <Definition>a respeito de, assunto</Definition>
+      <Example>Felipe e Márcia amam conversar sobre política.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502636-S7" ili="wikidata-pt-L502636-S7" partOfSpeech="p">
       <Definition>direção</Definition>
+      <Example>O soldado ansiava por ir sobre seu adversário.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503959-S1" ili="wikidata-pt-L503959-S1" partOfSpeech="h">
       <Definition>faz referência a algo que está perto de quem ouve</Definition>
+      <Example>Pegue esse copo aí.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503959-S2" ili="wikidata-pt-L503959-S2" partOfSpeech="h">
       <Definition>faz referência a algo que já foi falado</Definition>
+      <Example>Ficar quieto e imóvel, essas eram as regras.</Example>
     </Synset>
     <Synset id="wikidata-pt-L618867-S1" ili="wikidata-pt-L618867-S1" partOfSpeech="p">
       <Definition>indica direção</Definition>
+      <Example>Ele pediu que você fosse pra lá.</Example>
     </Synset>
     <Synset id="wikidata-pt-L618867-S2" ili="wikidata-pt-L618867-S2" partOfSpeech="p">
       <Definition>denota destino</Definition>
+      <Example>Vamos para a minha casa.</Example>
     </Synset>
     <Synset id="wikidata-pt-L618867-S3" ili="wikidata-pt-L618867-S3" partOfSpeech="p">
       <Definition>indica objetivo</Definition>
@@ -1020,36 +1051,45 @@
     </Synset>
     <Synset id="wikidata-pt-L618867-S5" ili="wikidata-pt-L618867-S5" partOfSpeech="p">
       <Definition>indica finalidade</Definition>
+      <Example>Comprei um baixo para tocar numa banda.</Example>
     </Synset>
     <Synset id="wikidata-pt-L618867-S6" ili="wikidata-pt-L618867-S6" partOfSpeech="p">
       <Definition>de acordo com, segundo</Definition>
+      <Example>Para mim, esse livro é um dos melhores da história.</Example>
     </Synset>
     <Synset id="wikidata-pt-L618867-S7" ili="wikidata-pt-L618867-S7" partOfSpeech="p">
       <Definition>prestes a</Definition>
+      <Example>Fiquem quietos que o filme está para começar.</Example>
     </Synset>
     <Synset id="wikidata-pt-L674368-S1" ili="wikidata-pt-L674368-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>many, much</Definition>
     </Synset>
     <Synset id="wikidata-pt-L674370-S1" ili="wikidata-pt-L674370-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>so</Definition>
+      <Example>Então, o que aconteceu?</Example>
     </Synset>
     <Synset id="wikidata-pt-L674370-S2" ili="wikidata-pt-L674370-S2" partOfSpeech="i">
       <Definition>introduz resposta mais complexa que a esperada</Definition>
+      <Example>Então... era sobre isso mesmo que eu queria falar.</Example>
     </Synset>
     <Synset id="wikidata-pt-L674370-S3" ili="wikidata-pt-L674370-S3" partOfSpeech="i">
       <Definition>exatamente, isso, exato</Definition>
     </Synset>
     <Synset id="wikidata-pt-L676261-S1" ili="wikidata-pt-L676261-S1" partOfSpeech="p">
       <Definition>em oposição a</Definition>
+      <Example>Não obtivemos sucesso, éramos dois contra cinco.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676261-S2" ili="wikidata-pt-L676261-S2" partOfSpeech="p">
       <Definition>de encontro com</Definition>
+      <Example>João atirou a garrafa contra a parede.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676568-S1" ili="wikidata-pt-L676568-S1" partOfSpeech="h">
       <Definition>refere-se a algo anteriormente falado</Definition>
+      <Example>Vi Júlio, o qual não encontrava fazia anos.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676568-S2" ili="wikidata-pt-L676568-S2" partOfSpeech="h">
       <Definition>um entre vários</Definition>
+      <Example>Qual dos carrinhos é o seu?</Example>
     </Synset>
     <Synset id="wikidata-pt-L900242-S1" ili="wikidata-pt-L900242-S1" partOfSpeech="i">
       <Definition>olhe</Definition>
@@ -1076,7 +1116,7 @@
       <Definition>faz referência a algo que está longe de quem fala e de quem ouve</Definition>
     </Synset>
     <Synset id="wikidata-pt-L669652-S1" ili="wikidata-pt-L669652-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>where (place in which something happens)</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1119534-S1" ili="wikidata-pt-L1119534-S1" partOfSpeech="r">
       <Definition>de maneira forçada</Definition>
@@ -1085,13 +1125,13 @@
       <Definition>[ir] de uma situação ruim para uma pior</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1490851-S1" ili="wikidata-pt-L1490851-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>in an absurd manner</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1490851-S2" ili="wikidata-pt-L1490851-S2" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>using reasoning in the opposite direction to what is proposed to arrive at a result</Definition>
     </Synset>
     <Synset id="wikidata-pt-L15889-S1" ili="l8885-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hello</Definition>
     </Synset>
     <Synset id="wikidata-pt-L44970-S1" ili="l327-s1" partOfSpeech="m">
       <Definition>número cardinal</Definition>
@@ -1101,54 +1141,70 @@
     </Synset>
     <Synset id="wikidata-pt-L477314-S1" ili="wikidata-pt-L477314-S1" partOfSpeech="p">
       <Definition>indica localidade</Definition>
+      <Example>Ontem eu não pude dormir em casa.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477314-S2" ili="wikidata-pt-L477314-S2" partOfSpeech="p">
       <Definition>denota preço ou valor</Definition>
+      <Example>A mansão está avaliada em oito milhões de reais.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477314-S3" ili="wikidata-pt-L477314-S3" partOfSpeech="p">
       <Definition>indica tempo</Definition>
+      <Example>Maria faz aniversário em agosto.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477314-S4" ili="wikidata-pt-L477314-S4" partOfSpeech="p">
       <Definition>indica meio ou modo</Definition>
+      <Example>Vocês deverão permanecer em silêncio.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490717-S1" ili="wikidata-pt-L490717-S1" partOfSpeech="p">
       <Definition>indica meio ou modo</Definition>
+      <Example>Ele veio a pé.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490717-S2" ili="wikidata-pt-L490717-S2" partOfSpeech="p">
       <Definition>indica distância</Definition>
+      <Example>Estávamos a um quilómetro daqui.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490717-S3" ili="wikidata-pt-L490717-S3" partOfSpeech="p">
       <Definition>indica preço</Definition>
+      <Example>O pão está a dez centavos cada.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490717-S4" ili="wikidata-pt-L490717-S4" partOfSpeech="p">
       <Definition>indica tempo</Definition>
+      <Example>Esses animais entraram em extinção a aproximadamente 65 milhões de anos atrás.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503957-S1" ili="wikidata-pt-L503957-S1" partOfSpeech="h">
       <Definition>faz referência a algo que está perto de quem fala</Definition>
+      <Example>Pegue este copo aqui.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503957-S2" ili="wikidata-pt-L503957-S2" partOfSpeech="h">
       <Definition>faz referência a algo que ainda será falado</Definition>
+      <Example>Minha ideia é esta: esperar até que venham.</Example>
     </Synset>
     <Synset id="wikidata-pt-L503960-S1" ili="wikidata-pt-L503960-S1" partOfSpeech="h">
       <Definition>faz referência a algo que está perto de quem ouve</Definition>
+      <Example>O que é isso aí em seu bolso?</Example>
     </Synset>
     <Synset id="wikidata-pt-L503960-S2" ili="wikidata-pt-L503960-S2" partOfSpeech="h">
       <Definition>faz referência a algo que já foi falado</Definition>
+      <Example>Justiça, era isso o que queriam.</Example>
     </Synset>
     <Synset id="wikidata-pt-L524070-S1" ili="wikidata-pt-L524070-S1" partOfSpeech="c">
       <Definition>indica uma contradição</Definition>
+      <Example>Formou-se, mas nunca fez uso da carta.</Example>
     </Synset>
     <Synset id="wikidata-pt-L524070-S2" ili="wikidata-pt-L524070-S2" partOfSpeech="c">
       <Definition>indica a informação correta a partir de algo negado anteriormente</Definition>
+      <Example>Fomos recebidos não com aplausos, mas pedradas.</Example>
     </Synset>
     <Synset id="wikidata-pt-L524070-S3" ili="wikidata-pt-L524070-S3" partOfSpeech="c">
       <Definition>indica a causa de algo, implicando que aquilo já era esperado acontecer</Definition>
+      <Example>Todos alunos reprovaram em matemática, mas ninguém estudou mesmo.</Example>
     </Synset>
     <Synset id="wikidata-pt-L680183-S1" ili="wikidata-pt-L680183-S1" partOfSpeech="r">
       <Definition>em lugar algum</Definition>
     </Synset>
     <Synset id="wikidata-pt-L680183-S2" ili="wikidata-pt-L680183-S2" partOfSpeech="r">
       <Definition>de maneira alguma, de jeito nenhum</Definition>
+      <Example>Isso não é arte nem aqui, nem na China.</Example>
     </Synset>
     <Synset id="wikidata-pt-L942478-S1" ili="wikidata-pt-L942478-S1" partOfSpeech="t">
       <Definition>e outros</Definition>
@@ -1175,28 +1231,33 @@
       <Definition>tu</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46868-S2" ili="l330-s1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 3 between two and four</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46872-S1" ili="wikidata-pt-L46872-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number seven</Definition>
     </Synset>
     <Synset id="wikidata-pt-L618640-S1" ili="wikidata-pt-L618640-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-pt-L676267-S1" ili="wikidata-pt-L676267-S1" partOfSpeech="c">
       <Definition>ao mesmo tempo em que</Definition>
+      <Example>Maria fazia biscoitos enquanto as crianças brincavam no jardim.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676267-S2" ili="wikidata-pt-L676267-S2" partOfSpeech="c">
       <Definition>introduz situação que contrasta com outra</Definition>
+      <Example>Enquanto eles são violentos e perigosos, nós somos pacíficos e amigáveis.</Example>
     </Synset>
     <Synset id="wikidata-pt-L676570-S1" ili="wikidata-pt-L676570-S1" partOfSpeech="c">
       <Definition>porque</Definition>
+      <Example>Amanhã não poderei ir, pois terei ensaio.</Example>
     </Synset>
     <Synset id="wikidata-pt-L678116-S1" ili="wikidata-pt-L678116-S1" partOfSpeech="c">
       <Definition>explica trecho anterior</Definition>
+      <Example>Aproveita tua vida porque ela é curta!</Example>
     </Synset>
     <Synset id="wikidata-pt-L680184-S1" ili="wikidata-pt-L680184-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>literally, &quot;not even if the cow coughs&quot;: by no means, definitely not</Definition>
+      <Example>O que ele disse a mim não te conto nem que a vaca tussa!</Example>
     </Synset>
     <Synset id="wikidata-pt-L900413-S1" ili="wikidata-pt-L900413-S1" partOfSpeech="i">
       <Definition>expressa surpresa</Definition>
@@ -1212,39 +1273,48 @@
     </Synset>
     <Synset id="wikidata-pt-L1119607-S1" ili="wikidata-pt-L1119607-S1" partOfSpeech="r">
       <Definition>por cima</Definition>
+      <Example>As quaes se ajuntavaõ por baixo, e tambem se ajuntavaõ por riba com huã argola: assi fez com ellas ambas em as duas esquinas.</Example>
     </Synset>
     <Synset id="wikidata-pt-L46869-S1" ili="wikidata-pt-L46869-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number four</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46875-S1" ili="wikidata-pt-L46875-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number ten</Definition>
     </Synset>
     <Synset id="wikidata-pt-L477316-S1" ili="wikidata-pt-L477316-S1" partOfSpeech="p">
       <Definition>indica companhia ou associação</Definition>
+      <Example>Sara saiu com as crianças.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477316-S2" ili="wikidata-pt-L477316-S2" partOfSpeech="p">
       <Definition>indica modo, meio ou instrumento</Definition>
+      <Example>Ele ficou rico com aquele trabalho.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477316-S3" ili="wikidata-pt-L477316-S3" partOfSpeech="p">
       <Definition>indica conteúdo de algo</Definition>
+      <Example>Traga para mim o pote com geleia.</Example>
     </Synset>
     <Synset id="wikidata-pt-L477316-S4" ili="wikidata-pt-L477316-S4" partOfSpeech="p">
       <Definition>indica causa ou motivo</Definition>
+      <Example>Ele ficou tonto com o empurrão que levou.</Example>
     </Synset>
     <Synset id="wikidata-pt-L480992-S1" ili="wikidata-pt-L480992-S1" partOfSpeech="h">
       <Definition>indica posse na segunda pessoa</Definition>
     </Synset>
     <Synset id="wikidata-pt-L480996-S1" ili="wikidata-pt-L480996-S1" partOfSpeech="h">
       <Definition>indica posse na terceira pessoa</Definition>
+      <Example>Entre seus triunfos, notável é a conquista da Índia, dominando o povo pelo seu poder místico.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490719-S1" ili="wikidata-pt-L490719-S1" partOfSpeech="c">
       <Definition>indica incerteza</Definition>
+      <Example>Não sei se escolho a gravata de listras ou a de bolinhas.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490719-S2" ili="wikidata-pt-L490719-S2" partOfSpeech="c">
       <Definition>expõe alternativas</Definition>
+      <Example>Esse comprimido pode ser tomado antes ou depois das refeições.</Example>
     </Synset>
     <Synset id="wikidata-pt-L490719-S3" ili="wikidata-pt-L490719-S3" partOfSpeech="c">
       <Definition>indica equivalência</Definition>
+      <Example>Héracles, entre os gregos, ou Hércules para os romanos.</Example>
     </Synset>
     <Synset id="wikidata-pt-L491661-S1" ili="wikidata-pt-L491661-S1" partOfSpeech="h">
       <Definition>indica a primeira pessoa gramatical</Definition>
@@ -1257,6 +1327,7 @@
     </Synset>
     <Synset id="wikidata-pt-L674371-S1" ili="wikidata-pt-L674371-S1" partOfSpeech="c">
       <Definition>portanto, consequentemente</Definition>
+      <Example>A previsão diz que choverá mais tarde, então teremos que esperar aqui mais um pouco.</Example>
     </Synset>
     <Synset id="wikidata-pt-L900094-S1" ili="wikidata-pt-L900094-S1" partOfSpeech="i">
       <Definition>oh, ei</Definition>
@@ -1268,10 +1339,10 @@
       <Definition>da maneira que se fazia antigamente</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46871-S1" ili="wikidata-pt-L46871-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number six</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46873-S1" ili="wikidata-pt-L46873-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number eight</Definition>
     </Synset>
     <Synset id="wikidata-pt-L46874-S1" ili="l337-s1" partOfSpeech="m">
       <Definition>o número 9</Definition>
@@ -1290,18 +1361,21 @@
     </Synset>
     <Synset id="wikidata-pt-L501786-S1" ili="wikidata-pt-L501786-S1" partOfSpeech="p">
       <Definition>depois de</Definition>
+      <Example>Almoçaremos após a aula.</Example>
     </Synset>
     <Synset id="wikidata-pt-L501786-S2" ili="wikidata-pt-L501786-S2" partOfSpeech="p">
       <Definition>além de</Definition>
+      <Example>O prédio fica logo após da escola.</Example>
     </Synset>
     <Synset id="wikidata-pt-L501786-S3" ili="wikidata-pt-L501786-S3" partOfSpeech="p">
       <Definition>e mais</Definition>
+      <Example>Um ano inteiro de fracasso após fracasso.</Example>
     </Synset>
     <Synset id="wikidata-pt-L502867-S1" ili="wikidata-pt-L502867-S1" partOfSpeech="p">
       <Definition>no papel de, na função de, no status de</Definition>
     </Synset>
     <Synset id="wikidata-pt-L647640-S1" ili="wikidata-pt-L647640-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>that</Definition>
     </Synset>
     <Synset id="wikidata-pt-L901082-S1" ili="wikidata-pt-L901082-S1" partOfSpeech="i">
       <Definition>Nossa Senhora!, meu Deus!</Definition>
@@ -1310,16 +1384,19 @@
       <Definition>salve</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1119757-S1" ili="wikidata-pt-L1119757-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>&quot;at the price of bananas&quot;: cheaply</Definition>
     </Synset>
     <Synset id="wikidata-pt-L1490453-S1" ili="wikidata-pt-L1490453-S1" partOfSpeech="h">
       <Definition>qual pessoa</Definition>
+      <Example>Quem deixou isso aqui?</Example>
     </Synset>
     <Synset id="wikidata-pt-L1490453-S2" ili="wikidata-pt-L1490453-S2" partOfSpeech="h">
       <Definition>a pessoa que</Definition>
+      <Example>Foi ela quem pediu.</Example>
     </Synset>
     <Synset id="wikidata-pt-L1490453-S3" ili="wikidata-pt-L1490453-S3" partOfSpeech="h">
       <Definition>aqueles que</Definition>
+      <Example>Não lembro quem me chamou.</Example>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

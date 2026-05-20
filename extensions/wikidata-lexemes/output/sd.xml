@@ -17,13 +17,13 @@
     <LexicalEntry id="L1124870">
       <Lemma writtenForm="آئُون" partOfSpeech="h"/>
       <Sense id="L1124870-S1" synset="wikidata-sd-L1124870-S1" ili="wikidata-sd-L1124870-S1">
-        <Definition></Definition>
+        <Definition>میں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124902">
       <Lemma writtenForm="ڇا" partOfSpeech="h"/>
       <Sense id="L1124902-S1" synset="wikidata-sd-L1124902-S1" ili="wikidata-sd-L1124902-S1">
-        <Definition></Definition>
+        <Definition>کیہہ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1321664">
@@ -35,41 +35,41 @@
     <LexicalEntry id="L741122">
       <Lemma writtenForm="جو" partOfSpeech="p"/>
       <Sense id="L741122-S1" synset="wikidata-sd-L741122-S1" ili="wikidata-sd-L741122-S1">
-        <Definition></Definition>
+        <Definition>ਦਾ</Definition>
         <SenseRelation relType="similar" target="wikidata-sd-L1124982-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087364">
       <Lemma writtenForm="آهي" partOfSpeech="v"/>
       <Sense id="L1087364-S1" synset="wikidata-sd-L1087364-S1" ili="wikidata-sd-L1087364-S1">
-        <Definition></Definition>
+        <Definition>اے، ہے</Definition>
       </Sense>
       <Sense id="L1087364-S2" synset="wikidata-sd-L1087364-S2" ili="wikidata-sd-L1087364-S2">
-        <Definition></Definition>
+        <Definition>ਇਹ ਚੀਜ਼ ਹੁੰਦੀ ਏ, ਹਾਂ ਹੁੰਦੀ ਏ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087515">
       <Lemma writtenForm="کان" partOfSpeech="p"/>
       <Sense id="L1087515-S1" synset="wikidata-sd-L1087515-S1" ili="wikidata-sd-L1087515-S1">
-        <Definition></Definition>
+        <Definition>توں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124896">
       <Lemma writtenForm="هِي" partOfSpeech="h"/>
       <Sense id="L1124896-S1" synset="wikidata-sd-L1124896-S1" ili="wikidata-sd-L1124896-S1">
-        <Definition></Definition>
+        <Definition>ایہہ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124897">
       <Lemma writtenForm="اِجھو" partOfSpeech="h"/>
       <Sense id="L1124897-S1" synset="wikidata-sd-L1124897-S1" ili="wikidata-sd-L1124897-S1">
-        <Definition></Definition>
+        <Definition>ایہہ جو</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124904">
       <Lemma writtenForm="هرڪو" partOfSpeech="h"/>
       <Sense id="L1124904-S1" synset="wikidata-sd-L1124904-S1" ili="wikidata-sd-L1124904-S1">
-        <Definition></Definition>
+        <Definition>ہر کوئی</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124982">
@@ -82,7 +82,7 @@
     <LexicalEntry id="L1124996">
       <Lemma writtenForm="اَسَان جو" partOfSpeech="a"/>
       <Sense id="L1124996-S1" synset="wikidata-sd-L1124996-S1" ili="wikidata-sd-L1124996-S1">
-        <Definition></Definition>
+        <Definition>ساڈا</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125366">
@@ -94,7 +94,7 @@
     <LexicalEntry id="L1087512">
       <Lemma writtenForm="تي" partOfSpeech="p"/>
       <Sense id="L1087512-S1" synset="wikidata-sd-L1087512-S1" ili="wikidata-sd-L1087512-S1">
-        <Definition></Definition>
+        <Definition>اُتّے</Definition>
       </Sense>
       <Sense id="L1087512-S2" synset="wikidata-sd-L1087512-S2" ili="wikidata-sd-L1087512-S2">
         <Definition>جي مٿان</Definition>
@@ -161,13 +161,13 @@
     <LexicalEntry id="L1124871">
       <Lemma writtenForm="اَسِين" partOfSpeech="h"/>
       <Sense id="L1124871-S1" synset="wikidata-sd-L1124871-S1" ili="wikidata-sd-L1124871-S1">
-        <Definition></Definition>
+        <Definition>اسیں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124903">
       <Lemma writtenForm="ڪوهُہ" partOfSpeech="h"/>
       <Sense id="L1124903-S1" synset="wikidata-sd-L1124903-S1" ili="wikidata-sd-L1124903-S1">
-        <Definition></Definition>
+        <Definition>کیوں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125017">
@@ -185,7 +185,7 @@
     <LexicalEntry id="L1132228">
       <Lemma writtenForm="ڪيرُ" partOfSpeech="h"/>
       <Sense id="L1132228-S1" synset="wikidata-sd-L1132228-S1" ili="wikidata-sd-L1132228-S1">
-        <Definition></Definition>
+        <Definition>کوݨ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132898">
@@ -203,7 +203,7 @@
     <LexicalEntry id="L1001974">
       <Lemma writtenForm="ھاءِ" partOfSpeech="i"/>
       <Sense id="L1001974-S1" synset="wikidata-sd-L1001974-S1" ili="wikidata-sd-L1001974-S1">
-        <Definition></Definition>
+        <Definition>ہاۓ!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087510">
@@ -222,7 +222,7 @@
     <LexicalEntry id="L1124872">
       <Lemma writtenForm="تُون" partOfSpeech="h"/>
       <Sense id="L1124872-S1" synset="wikidata-sd-L1124872-S1" ili="wikidata-sd-L1124872-S1">
-        <Definition></Definition>
+        <Definition>تُوں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1011780">
@@ -243,13 +243,13 @@
     <LexicalEntry id="L1124873">
       <Lemma writtenForm="تَوھِين" partOfSpeech="h"/>
       <Sense id="L1124873-S1" synset="wikidata-sd-L1124873-S1" ili="wikidata-sd-L1124873-S1">
-        <Definition></Definition>
+        <Definition>تسیں</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124898">
       <Lemma writtenForm="هُو" partOfSpeech="h"/>
       <Sense id="L1124898-S1" synset="wikidata-sd-L1124898-S1" ili="wikidata-sd-L1124898-S1">
-        <Definition></Definition>
+        <Definition>اوہ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124901">
@@ -267,71 +267,71 @@
     <LexicalEntry id="L1125002">
       <Lemma writtenForm="مُنهِن جو" partOfSpeech="a"/>
       <Sense id="L1125002-S1" synset="wikidata-sd-L1125002-S1" ili="wikidata-sd-L1125002-S1">
-        <Definition></Definition>
+        <Definition>میرا</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125539">
       <Lemma writtenForm="مِ" partOfSpeech="x"/>
       <Sense id="L1125539-S1" synset="wikidata-sd-L1125539-S1" ili="wikidata-sd-L1125539-S1">
-        <Definition></Definition>
+        <Definition>“ਮੈਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124899">
       <Lemma writtenForm="اُجھو" partOfSpeech="h"/>
       <Sense id="L1124899-S1" synset="wikidata-sd-L1124899-S1" ili="wikidata-sd-L1124899-S1">
-        <Definition></Definition>
+        <Definition>اوہ جو</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132243">
       <Lemma writtenForm="ڪُڄَاڙِئَا" partOfSpeech="r"/>
       <Sense id="L1132243-S1" synset="wikidata-sd-L1132243-S1" ili="wikidata-sd-L1132243-S1">
-        <Definition></Definition>
+        <Definition>کیوں</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-sd-L1088190-S1" ili="wikidata-sd-L1088190-S1" partOfSpeech="c">
       <Definition>پِڻ، ڀِي</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124870-S1" ili="wikidata-sd-L1124870-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>میں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124902-S1" ili="wikidata-sd-L1124902-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>کیہہ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1321664-S1" ili="wikidata-sd-L1321664-S1" partOfSpeech="i">
       <Definition>افسوس!</Definition>
     </Synset>
     <Synset id="wikidata-sd-L741122-S1" ili="wikidata-sd-L741122-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>ਦਾ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087364-S1" ili="wikidata-sd-L1087364-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>اے، ہے</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087364-S2" ili="wikidata-sd-L1087364-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>ਇਹ ਚੀਜ਼ ਹੁੰਦੀ ਏ, ਹਾਂ ਹੁੰਦੀ ਏ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087515-S1" ili="wikidata-sd-L1087515-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>توں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124896-S1" ili="wikidata-sd-L1124896-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>ایہہ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124897-S1" ili="wikidata-sd-L1124897-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>ایہہ جو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124904-S1" ili="wikidata-sd-L1124904-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>ہر کوئی</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124982-S1" ili="wikidata-sd-L1124982-S1" partOfSpeech="p">
       <Definition>جو، وارو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124996-S1" ili="wikidata-sd-L1124996-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>ساڈا</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1125366-S1" ili="wikidata-sd-L1125366-S1" partOfSpeech="p">
       <Definition>واهر لاءِ دانهن</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087512-S1" ili="wikidata-sd-L1087512-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>اُتّے</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087512-S2" ili="wikidata-sd-L1087512-S2" partOfSpeech="p">
       <Definition>جي مٿان</Definition>
@@ -379,10 +379,10 @@
       <Definition>ڪوئِي هڪڙو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124871-S1" ili="wikidata-sd-L1124871-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>اسیں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124903-S1" ili="wikidata-sd-L1124903-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>کیوں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1125017-S1" ili="wikidata-sd-L1125017-S1" partOfSpeech="c">
       <Definition>يا، يان</Definition>
@@ -394,7 +394,7 @@
       <Definition>جنهن وقت، جنهن مهل</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1132228-S1" ili="wikidata-sd-L1132228-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>کوݨ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1132898-S1" ili="wikidata-sd-L1132898-S1" partOfSpeech="h">
       <Definition>ذرو، ٿورو، رَتي، ڪُڇُ</Definition>
@@ -403,7 +403,7 @@
       <Definition>هر هڪ تي</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1001974-S1" ili="wikidata-sd-L1001974-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>ہاۓ!</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1087510-S1" ili="wikidata-sd-L1087510-S1" partOfSpeech="p">
       <Definition>ڏي، ڪول</Definition>
@@ -412,7 +412,7 @@
       <Definition>سان، سين ڀيڙو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124872-S1" ili="wikidata-sd-L1124872-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>تُوں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1011780-S1" ili="wikidata-sd-L1011780-S1" partOfSpeech="p">
       <Definition>اندر، منجهه</Definition>
@@ -424,10 +424,10 @@
       <Definition>ٻيو وڌيڪ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124873-S1" ili="wikidata-sd-L1124873-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>تسیں</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124898-S1" ili="wikidata-sd-L1124898-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>اوہ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124901-S1" ili="wikidata-sd-L1124901-S1" partOfSpeech="h">
       <Definition>خود، پنڊ</Definition>
@@ -436,16 +436,16 @@
       <Definition>ويجهو، نزديڪ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1125002-S1" ili="wikidata-sd-L1125002-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>میرا</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1125539-S1" ili="wikidata-sd-L1125539-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>“ਮੈਂ” ਮਾਅਨੇ ਤੋਂ ਲਾਹਿਕਾ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124899-S1" ili="wikidata-sd-L1124899-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>اوہ جو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1132243-S1" ili="wikidata-sd-L1132243-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>کیوں</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

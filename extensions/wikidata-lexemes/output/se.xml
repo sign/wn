@@ -11,47 +11,47 @@
     <LexicalEntry id="L23259">
       <Lemma writtenForm="golbma" partOfSpeech="m"/>
       <Sense id="L23259-S1" synset="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1">
-        <Definition></Definition>
+        <Definition>the number three</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525204">
       <Lemma writtenForm="buorre iđit" partOfSpeech="i"/>
       <Sense id="L525204-S1" synset="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1">
-        <Definition></Definition>
+        <Definition>good morning</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L22956">
       <Lemma writtenForm="njeallje" partOfSpeech="m"/>
       <Sense id="L22956-S1" synset="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1">
-        <Definition></Definition>
+        <Definition>the number four</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525203">
       <Lemma writtenForm="giitu" partOfSpeech="i"/>
       <Sense id="L525203-S1" synset="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1">
-        <Definition></Definition>
+        <Definition>thank you</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L727345">
       <Lemma writtenForm="okta" partOfSpeech="m"/>
       <Sense id="L727345-S1" synset="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-se-L23259-S1" ili="wikidata-se-L23259-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number three</Definition>
     </Synset>
     <Synset id="wikidata-se-L525204-S1" ili="wikidata-se-L525204-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>good morning</Definition>
     </Synset>
     <Synset id="wikidata-se-L22956-S1" ili="wikidata-se-L22956-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number four</Definition>
     </Synset>
     <Synset id="wikidata-se-L525203-S1" ili="wikidata-se-L525203-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thank you</Definition>
     </Synset>
     <Synset id="wikidata-se-L727345-S1" ili="wikidata-se-L727345-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

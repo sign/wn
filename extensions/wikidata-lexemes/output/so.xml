@@ -11,20 +11,20 @@
     <LexicalEntry id="L691650">
       <Lemma writtenForm="kow" partOfSpeech="m"/>
       <Sense id="L691650-S1" synset="wikidata-so-L691650-S1" ili="wikidata-so-L691650-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329226">
       <Lemma writtenForm="wallaahi" partOfSpeech="i"/>
       <Sense id="L1329226-S1" synset="wikidata-so-L1329226-S1" ili="wikidata-so-L1329226-S1">
-        <Definition></Definition>
+        <Definition>swear to God</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-so-L691650-S1" ili="wikidata-so-L691650-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-so-L1329226-S1" ili="wikidata-so-L1329226-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>swear to God</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

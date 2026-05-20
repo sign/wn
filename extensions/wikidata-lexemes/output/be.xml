@@ -11,20 +11,20 @@
     <LexicalEntry id="L1224898">
       <Lemma writtenForm="чатыры" partOfSpeech="m"/>
       <Sense id="L1224898-S1" synset="wikidata-be-L1224898-S1" ili="wikidata-be-L1224898-S1">
-        <Definition></Definition>
+        <Definition>the number 4</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L44972">
       <Lemma writtenForm="адзін" partOfSpeech="m"/>
       <Sense id="L44972-S1" synset="wikidata-be-L44972-S1" ili="wikidata-be-L44972-S1">
-        <Definition></Definition>
+        <Definition>cardinal number 1</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-be-L1224898-S1" ili="wikidata-be-L1224898-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 4</Definition>
     </Synset>
     <Synset id="wikidata-be-L44972-S1" ili="wikidata-be-L44972-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>cardinal number 1</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

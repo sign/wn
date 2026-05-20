@@ -11,20 +11,20 @@
     <LexicalEntry id="L940736">
       <Lemma writtenForm="&apos;ikai" partOfSpeech="i"/>
       <Sense id="L940736-S1" synset="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1">
-        <Definition></Definition>
+        <Definition>no</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407957">
       <Lemma writtenForm="Nukuʻalofa" partOfSpeech="n"/>
       <Sense id="L1407957-S1" synset="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1">
-        <Definition></Definition>
+        <Definition>capital of Tonga</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>no</Definition>
     </Synset>
     <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1" partOfSpeech="n">
-      <Definition></Definition>
+      <Definition>capital of Tonga</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

@@ -11,17 +11,17 @@
     <LexicalEntry id="L1331757">
       <Lemma writtenForm="-qaqtuq" partOfSpeech="v"/>
       <Sense id="L1331757-S1" synset="wikidata-ik-L1331757-S1" ili="wikidata-ik-L1331757-S1">
-        <Definition></Definition>
+        <Definition>have, has</Definition>
       </Sense>
       <Sense id="L1331757-S2" synset="wikidata-ik-L1331757-S2" ili="wikidata-ik-L1331757-S2">
-        <Definition></Definition>
+        <Definition>there is</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ik-L1331757-S1" ili="wikidata-ik-L1331757-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>have, has</Definition>
     </Synset>
     <Synset id="wikidata-ik-L1331757-S2" ili="wikidata-ik-L1331757-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>there is</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

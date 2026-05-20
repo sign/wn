@@ -11,62 +11,62 @@
     <LexicalEntry id="L2716">
       <Lemma writtenForm="და" partOfSpeech="c"/>
       <Sense id="L2716-S1" synset="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466208">
       <Lemma writtenForm="არა" partOfSpeech="y"/>
       <Sense id="L1466208-S1" synset="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1">
-        <Definition></Definition>
+        <Definition>not</Definition>
       </Sense>
       <Sense id="L1466208-S2" synset="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2">
-        <Definition></Definition>
+        <Definition>no</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691658">
       <Lemma writtenForm="ერთი" partOfSpeech="m"/>
       <Sense id="L691658-S1" synset="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1466211">
       <Lemma writtenForm="ან" partOfSpeech="c"/>
       <Sense id="L1466211-S1" synset="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L55005">
       <Lemma writtenForm="ხუთი" partOfSpeech="m"/>
       <Sense id="L55005-S1" synset="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1">
-        <Definition></Definition>
+        <Definition>number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1231">
       <Lemma writtenForm="მე" partOfSpeech="h"/>
       <Sense id="L1231-S1" synset="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1">
-        <Definition></Definition>
+        <Definition>I, me</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ka-L2716-S1" ili="wikidata-ka-L2716-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-ka-L1466208-S1" ili="wikidata-ka-L1466208-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>not</Definition>
     </Synset>
     <Synset id="wikidata-ka-L1466208-S2" ili="wikidata-ka-L1466208-S2" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>no</Definition>
     </Synset>
     <Synset id="wikidata-ka-L691658-S1" ili="wikidata-ka-L691658-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-ka-L1466211-S1" ili="wikidata-ka-L1466211-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-ka-L55005-S1" ili="wikidata-ka-L55005-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number</Definition>
     </Synset>
     <Synset id="wikidata-ka-L1231-S1" ili="wikidata-ka-L1231-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I, me</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

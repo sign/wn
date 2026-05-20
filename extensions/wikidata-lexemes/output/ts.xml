@@ -11,11 +11,11 @@
     <LexicalEntry id="L700304">
       <Lemma writtenForm="mahewu" partOfSpeech="n"/>
       <Sense id="L700304-S1" synset="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1">
-        <Definition></Definition>
+        <Definition>beer</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1" partOfSpeech="n">
-      <Definition></Definition>
+      <Definition>beer</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

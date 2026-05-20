@@ -20,50 +20,50 @@
     <LexicalEntry id="L646377">
       <Lemma writtenForm="qua" partOfSpeech="p"/>
       <Sense id="L646377-S1" synset="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1">
-        <Definition></Definition>
+        <Definition>via</Definition>
       </Sense>
       <Sense id="L646377-S2" synset="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2">
-        <Definition></Definition>
+        <Definition>through</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640550">
       <Lemma writtenForm="cái" partOfSpeech="m"/>
       <Sense id="L640550-S1" synset="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1">
-        <Definition></Definition>
+        <Definition>indicates an inanimate object</Definition>
       </Sense>
       <Sense id="L640550-S2" synset="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2">
-        <Definition></Definition>
+        <Definition>precedes another classifier for emphasis</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L405260">
       <Lemma writtenForm="con" partOfSpeech="m"/>
       <Sense id="L405260-S1" synset="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1">
-        <Definition></Definition>
+        <Definition>indicates an individual animal or human</Definition>
       </Sense>
       <Sense id="L405260-S2" synset="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2">
-        <Definition></Definition>
+        <Definition>indicates a knife or razor</Definition>
       </Sense>
       <Sense id="L405260-S3" synset="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3">
-        <Definition></Definition>
+        <Definition>indicates a boat, ship, train, or airplane</Definition>
       </Sense>
       <Sense id="L405260-S4" synset="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4">
-        <Definition></Definition>
+        <Definition>indicates a road, river, stream, or wave</Definition>
       </Sense>
       <Sense id="L405260-S5" synset="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5">
-        <Definition></Definition>
+        <Definition>indicates a wheeled vehicle</Definition>
         <SenseRelation relType="hypernym" target="wikidata-vi-L405260-S3"/>
       </Sense>
       <Sense id="L405260-S6" synset="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6">
-        <Definition></Definition>
+        <Definition>indicates a written character</Definition>
       </Sense>
       <Sense id="L405260-S7" synset="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7">
-        <Definition></Definition>
+        <Definition>indicates a film, television show, or video game</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L646389">
       <Lemma writtenForm="quả" partOfSpeech="m"/>
       <Sense id="L646389-S1" synset="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1">
-        <Definition></Definition>
+        <Definition>a ball of</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-vi-L619034-S1" ili="l1385-s1" partOfSpeech="c">
@@ -73,40 +73,40 @@
       <Definition>từ nối</Definition>
     </Synset>
     <Synset id="wikidata-vi-L646377-S1" ili="wikidata-vi-L646377-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>via</Definition>
     </Synset>
     <Synset id="wikidata-vi-L646377-S2" ili="wikidata-vi-L646377-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>through</Definition>
     </Synset>
     <Synset id="wikidata-vi-L640550-S1" ili="wikidata-vi-L640550-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates an inanimate object</Definition>
     </Synset>
     <Synset id="wikidata-vi-L640550-S2" ili="wikidata-vi-L640550-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>precedes another classifier for emphasis</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S1" ili="wikidata-vi-L405260-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates an individual animal or human</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S2" ili="wikidata-vi-L405260-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a knife or razor</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S3" ili="wikidata-vi-L405260-S3" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a boat, ship, train, or airplane</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S4" ili="wikidata-vi-L405260-S4" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a road, river, stream, or wave</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S5" ili="wikidata-vi-L405260-S5" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a wheeled vehicle</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S6" ili="wikidata-vi-L405260-S6" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a written character</Definition>
     </Synset>
     <Synset id="wikidata-vi-L405260-S7" ili="wikidata-vi-L405260-S7" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates a film, television show, or video game</Definition>
     </Synset>
     <Synset id="wikidata-vi-L646389-S1" ili="wikidata-vi-L646389-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>a ball of</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

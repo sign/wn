@@ -11,56 +11,56 @@
     <LexicalEntry id="L294427">
       <Lemma writtenForm="lu" partOfSpeech="h"/>
       <Sense id="L294427-S1" synset="wikidata-io-L294427-S1" ili="wikidata-io-L294427-S1">
-        <Definition></Definition>
+        <Definition>he, she, it, they (singular)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407014">
       <Lemma writtenForm="yes" partOfSpeech="i"/>
       <Sense id="L407014-S1" synset="wikidata-io-L407014-S1" ili="wikidata-io-L407014-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406379">
       <Lemma writtenForm="le" partOfSpeech="d"/>
       <Sense id="L406379-S1" synset="wikidata-io-L406379-S1" ili="wikidata-io-L406379-S1">
-        <Definition></Definition>
+        <Definition>the; plural form of the definite article, used instead of &quot;la&quot; when plurality is not indicated by another word</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328817">
       <Lemma writtenForm="me" partOfSpeech="h"/>
       <Sense id="L1328817-S1" synset="wikidata-io-L1328817-S1" ili="wikidata-io-L1328817-S1">
-        <Definition></Definition>
+        <Definition>I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406367">
       <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L406367-S1" synset="wikidata-io-L406367-S1" ili="wikidata-io-L406367-S1">
-        <Definition></Definition>
+        <Definition>preposition indicating origin</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406378">
       <Lemma writtenForm="la" partOfSpeech="d"/>
       <Sense id="L406378-S1" synset="wikidata-io-L406378-S1" ili="wikidata-io-L406378-S1">
-        <Definition></Definition>
+        <Definition>the</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-io-L294427-S1" ili="wikidata-io-L294427-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>he, she, it, they (singular)</Definition>
     </Synset>
     <Synset id="wikidata-io-L407014-S1" ili="wikidata-io-L407014-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-io-L406379-S1" ili="wikidata-io-L406379-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the; plural form of the definite article, used instead of &quot;la&quot; when plurality is not indicated by another word</Definition>
     </Synset>
     <Synset id="wikidata-io-L1328817-S1" ili="wikidata-io-L1328817-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I</Definition>
     </Synset>
     <Synset id="wikidata-io-L406367-S1" ili="wikidata-io-L406367-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>preposition indicating origin</Definition>
     </Synset>
     <Synset id="wikidata-io-L406378-S1" ili="wikidata-io-L406378-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

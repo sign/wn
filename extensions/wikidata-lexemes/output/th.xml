@@ -25,13 +25,13 @@
         <SenseRelation relType="similar" target="wikidata-th-L451360-S1"/>
       </Sense>
       <Sense id="L451359-S2" synset="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2">
-        <Definition></Definition>
+        <Definition>(of time) on; at; during.</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451360">
       <Lemma writtenForm="แห่ง" partOfSpeech="p"/>
       <Sense id="L451360-S1" synset="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1">
-        <Definition></Definition>
+        <Definition>of.</Definition>
         <SenseRelation relType="similar" target="wikidata-th-L418016-S1"/>
         <SenseRelation relType="similar" target="wikidata-th-L451359-S1"/>
       </Sense>
@@ -39,7 +39,7 @@
     <LexicalEntry id="L692524">
       <Lemma writtenForm="หนึ่ง" partOfSpeech="m"/>
       <Sense id="L692524-S1" synset="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-th-L418016-S1" ili="l2986-s3" partOfSpeech="p">
@@ -47,15 +47,16 @@
     </Synset>
     <Synset id="wikidata-th-L451359-S1" ili="wikidata-th-L451359-S1" partOfSpeech="p">
       <Definition>แห่ง, ของ</Definition>
+      <Example>พระราชนิพนธ์ในพระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว</Example>
     </Synset>
     <Synset id="wikidata-th-L451359-S2" ili="wikidata-th-L451359-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(of time) on; at; during.</Definition>
     </Synset>
     <Synset id="wikidata-th-L451360-S1" ili="wikidata-th-L451360-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of.</Definition>
     </Synset>
     <Synset id="wikidata-th-L692524-S1" ili="wikidata-th-L692524-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

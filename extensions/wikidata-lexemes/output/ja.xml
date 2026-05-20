@@ -56,7 +56,7 @@
     <LexicalEntry id="L600">
       <Lemma writtenForm="だから" partOfSpeech="c"/>
       <Sense id="L600-S1" synset="wikidata-ja-L600-S1" ili="wikidata-ja-L600-S1">
-        <Definition></Definition>
+        <Definition>so/therefore</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L607">
@@ -168,32 +168,32 @@
     <LexicalEntry id="L625227">
       <Lemma writtenForm="二" partOfSpeech="m"/>
       <Sense id="L625227-S1" synset="wikidata-ja-L625227-S1" ili="wikidata-ja-L625227-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625734">
       <Lemma writtenForm="申し" partOfSpeech="i"/>
       <Sense id="L625734-S1" synset="wikidata-ja-L625734-S1" ili="wikidata-ja-L625734-S1">
-        <Definition></Definition>
+        <Definition>when starting a phone call</Definition>
         <SenseRelation relType="similar" target="wikidata-ja-L691140-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625739">
       <Lemma writtenForm="つ" partOfSpeech="m"/>
       <Sense id="L625739-S1" synset="wikidata-ja-L625739-S1" ili="wikidata-ja-L625739-S1">
-        <Definition></Definition>
+        <Definition>counter for numbers</Definition>
       </Sense>
       <Sense id="L625739-S2" synset="wikidata-ja-L625739-S2" ili="wikidata-ja-L625739-S2">
-        <Definition></Definition>
+        <Definition>general purpose counter</Definition>
       </Sense>
       <Sense id="L625739-S3" synset="wikidata-ja-L625739-S3" ili="wikidata-ja-L625739-S3">
-        <Definition></Definition>
+        <Definition>counter for three-dimensional objects</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L673284">
       <Lemma writtenForm="大丈夫" partOfSpeech="a"/>
       <Sense id="L673284-S1" synset="wikidata-ja-L673284-S1" ili="wikidata-ja-L673284-S1">
-        <Definition></Definition>
+        <Definition>agreeable</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L673419">
@@ -205,13 +205,13 @@
     <LexicalEntry id="L678806">
       <Lemma writtenForm="十二" partOfSpeech="m"/>
       <Sense id="L678806-S1" synset="wikidata-ja-L678806-S1" ili="wikidata-ja-L678806-S1">
-        <Definition></Definition>
+        <Definition>le nombre 12</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678825">
       <Lemma writtenForm="十四" partOfSpeech="m"/>
       <Sense id="L678825-S1" synset="wikidata-ja-L678825-S1" ili="wikidata-ja-L678825-S1">
-        <Definition></Definition>
+        <Definition>the number fourteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L679224">
@@ -230,49 +230,49 @@
     <LexicalEntry id="L686344">
       <Lemma writtenForm="二" partOfSpeech="m"/>
       <Sense id="L686344-S1" synset="wikidata-ja-L686344-S1" ili="wikidata-ja-L686344-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686346">
       <Lemma writtenForm="ワン" partOfSpeech="m"/>
       <Sense id="L686346-S1" synset="wikidata-ja-L686346-S1" ili="wikidata-ja-L686346-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686402">
       <Lemma writtenForm="三" partOfSpeech="m"/>
       <Sense id="L686402-S1" synset="wikidata-ja-L686402-S1" ili="wikidata-ja-L686402-S1">
-        <Definition></Definition>
+        <Definition>the natural number 3</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686767">
       <Lemma writtenForm="二つ" partOfSpeech="m"/>
       <Sense id="L686767-S1" synset="wikidata-ja-L686767-S1" ili="wikidata-ja-L686767-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686777">
       <Lemma writtenForm="八つ" partOfSpeech="m"/>
       <Sense id="L686777-S1" synset="wikidata-ja-L686777-S1" ili="wikidata-ja-L686777-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691300">
       <Lemma writtenForm="三枚" partOfSpeech="m"/>
       <Sense id="L691300-S1" synset="wikidata-ja-L691300-S1" ili="wikidata-ja-L691300-S1">
-        <Definition></Definition>
+        <Definition>three flat objects</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701031">
       <Lemma writtenForm="十七" partOfSpeech="m"/>
       <Sense id="L701031-S1" synset="wikidata-ja-L701031-S1" ili="wikidata-ja-L701031-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L734738">
       <Lemma writtenForm="十九" partOfSpeech="m"/>
       <Sense id="L734738-S1" synset="wikidata-ja-L734738-S1" ili="wikidata-ja-L734738-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1023930">
@@ -302,20 +302,20 @@
     <LexicalEntry id="L1113769">
       <Lemma writtenForm="箱" partOfSpeech="m"/>
       <Sense id="L1113769-S1" synset="wikidata-ja-L1113769-S1" ili="wikidata-ja-L1113769-S1">
-        <Definition></Definition>
+        <Definition>counter for boxes</Definition>
         <Example>一箱いくらですか？</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1115876">
       <Lemma writtenForm="三つ" partOfSpeech="m"/>
       <Sense id="L1115876-S1" synset="wikidata-ja-L1115876-S1" ili="wikidata-ja-L1115876-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1148029">
       <Lemma writtenForm="八千" partOfSpeech="m"/>
       <Sense id="L1148029-S1" synset="wikidata-ja-L1148029-S1" ili="wikidata-ja-L1148029-S1">
-        <Definition></Definition>
+        <Definition>number between 7999 and 8001</Definition>
         <Example>八千以上だ！</Example>
       </Sense>
     </LexicalEntry>
@@ -335,7 +335,7 @@
     <LexicalEntry id="L1157277">
       <Lemma writtenForm="どこも" partOfSpeech="h"/>
       <Sense id="L1157277-S1" synset="wikidata-ja-L1157277-S1" ili="wikidata-ja-L1157277-S1">
-        <Definition></Definition>
+        <Definition>in or to all locations</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1219898">
@@ -600,7 +600,7 @@
     <LexicalEntry id="L1451509">
       <Lemma writtenForm="分厚" partOfSpeech="a"/>
       <Sense id="L1451509-S1" synset="wikidata-ja-L1451509-S1" ili="wikidata-ja-L1451509-S1">
-        <Definition></Definition>
+        <Definition>thickness</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1453885">
@@ -612,10 +612,10 @@
     <LexicalEntry id="L1458008">
       <Lemma writtenForm="日" partOfSpeech="m"/>
       <Sense id="L1458008-S1" synset="wikidata-ja-L1458008-S1" ili="wikidata-ja-L1458008-S1">
-        <Definition></Definition>
+        <Definition>counter for days</Definition>
       </Sense>
       <Sense id="L1458008-S2" synset="wikidata-ja-L1458008-S2" ili="wikidata-ja-L1458008-S2">
-        <Definition></Definition>
+        <Definition>counter for days of a particular month</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1476380">
@@ -627,7 +627,7 @@
     <LexicalEntry id="L1491427">
       <Lemma writtenForm="二千" partOfSpeech="m"/>
       <Sense id="L1491427-S1" synset="wikidata-ja-L1491427-S1" ili="wikidata-ja-L1491427-S1">
-        <Definition></Definition>
+        <Definition>2000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1499965">
@@ -920,7 +920,7 @@
     <LexicalEntry id="L612">
       <Lemma writtenForm="ところで" partOfSpeech="c"/>
       <Sense id="L612-S1" synset="wikidata-ja-L612-S1" ili="wikidata-ja-L612-S1">
-        <Definition></Definition>
+        <Definition>by the way, incidentally</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L623">
@@ -944,7 +944,7 @@
     <LexicalEntry id="L654">
       <Lemma writtenForm="我が" partOfSpeech="a"/>
       <Sense id="L654-S1" synset="wikidata-ja-L654-S1" ili="wikidata-ja-L654-S1">
-        <Definition></Definition>
+        <Definition>my</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L679">
@@ -987,7 +987,7 @@
     <LexicalEntry id="L625413">
       <Lemma writtenForm="其れ" partOfSpeech="h"/>
       <Sense id="L625413-S1" synset="wikidata-ja-L625413-S1" ili="wikidata-ja-L625413-S1">
-        <Definition></Definition>
+        <Definition>that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625706">
@@ -996,13 +996,13 @@
         <Definition>整数</Definition>
       </Sense>
       <Sense id="L625706-S2" synset="wikidata-ja-L625706-S2" ili="wikidata-ja-L625706-S2">
-        <Definition></Definition>
+        <Definition>complete absence of anything; the opposite of everything</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625708">
       <Lemma writtenForm="八" partOfSpeech="m"/>
       <Sense id="L625708-S1" synset="wikidata-ja-L625708-S1" ili="wikidata-ja-L625708-S1">
-        <Definition></Definition>
+        <Definition>eight</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625710">
@@ -1014,55 +1014,55 @@
     <LexicalEntry id="L626057">
       <Lemma writtenForm="人" partOfSpeech="m"/>
       <Sense id="L626057-S1" synset="wikidata-ja-L626057-S1" ili="wikidata-ja-L626057-S1">
-        <Definition></Definition>
+        <Definition>indicates that the preceding number represents a number of people</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680105">
       <Lemma writtenForm="九" partOfSpeech="m"/>
       <Sense id="L680105-S1" synset="wikidata-ja-L680105-S1" ili="wikidata-ja-L680105-S1">
-        <Definition></Definition>
+        <Definition>the number 9</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686615">
       <Lemma writtenForm="ナイン" partOfSpeech="m"/>
       <Sense id="L686615-S1" synset="wikidata-ja-L686615-S1" ili="wikidata-ja-L686615-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686775">
       <Lemma writtenForm="七つ" partOfSpeech="m"/>
       <Sense id="L686775-S1" synset="wikidata-ja-L686775-S1" ili="wikidata-ja-L686775-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691293">
       <Lemma writtenForm="来" partOfSpeech="x"/>
       <Sense id="L691293-S1" synset="wikidata-ja-L691293-S1" ili="wikidata-ja-L691293-S1">
-        <Definition></Definition>
+        <Definition>immediately after</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691299">
       <Lemma writtenForm="二枚" partOfSpeech="m"/>
       <Sense id="L691299-S1" synset="wikidata-ja-L691299-S1" ili="wikidata-ja-L691299-S1">
-        <Definition></Definition>
+        <Definition>two flat objects</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701030">
       <Lemma writtenForm="十七" partOfSpeech="m"/>
       <Sense id="L701030-S1" synset="wikidata-ja-L701030-S1" ili="wikidata-ja-L701030-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701060">
       <Lemma writtenForm="十八" partOfSpeech="m"/>
       <Sense id="L701060-S1" synset="wikidata-ja-L701060-S1" ili="wikidata-ja-L701060-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L751461">
       <Lemma writtenForm="うん" partOfSpeech="i"/>
       <Sense id="L751461-S1" synset="wikidata-ja-L751461-S1" ili="wikidata-ja-L751461-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
         <SenseRelation relType="antonym" target="wikidata-ja-L1273422-S1"/>
       </Sense>
     </LexicalEntry>
@@ -1075,13 +1075,13 @@
     <LexicalEntry id="L989136">
       <Lemma writtenForm="ですから" partOfSpeech="c"/>
       <Sense id="L989136-S1" synset="wikidata-ja-L989136-S1" ili="wikidata-ja-L989136-S1">
-        <Definition></Definition>
+        <Definition>therefore</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L989138">
       <Lemma writtenForm="ですか" partOfSpeech="c"/>
       <Sense id="L989138-S1" synset="wikidata-ja-L989138-S1" ili="wikidata-ja-L989138-S1">
-        <Definition></Definition>
+        <Definition>indicates a question</Definition>
         <SenseRelation relType="similar" target="wikidata-ja-L585-S1"/>
         <SenseRelation relType="similar" target="wikidata-ja-L585-S1"/>
       </Sense>
@@ -1119,17 +1119,17 @@
     <LexicalEntry id="L1093788">
       <Lemma writtenForm="上手" partOfSpeech="a"/>
       <Sense id="L1093788-S1" synset="wikidata-ja-L1093788-S1" ili="wikidata-ja-L1093788-S1">
-        <Definition></Definition>
+        <Definition>posessing skill</Definition>
         <SenseRelation relType="antonym" target="wikidata-ja-L1093782-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1116862">
       <Lemma writtenForm="二回" partOfSpeech="m"/>
       <Sense id="L1116862-S1" synset="wikidata-ja-L1116862-S1" ili="wikidata-ja-L1116862-S1">
-        <Definition></Definition>
+        <Definition>two times</Definition>
       </Sense>
       <Sense id="L1116862-S2" synset="wikidata-ja-L1116862-S2" ili="wikidata-ja-L1116862-S2">
-        <Definition></Definition>
+        <Definition>two repetitions</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1152147">
@@ -1699,31 +1699,31 @@
     <LexicalEntry id="L346020">
       <Lemma writtenForm="申し申し" partOfSpeech="i"/>
       <Sense id="L346020-S1" synset="wikidata-ja-L346020-S1" ili="wikidata-ja-L346020-S1">
-        <Definition></Definition>
+        <Definition>greeting used when answering a telephone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625255">
       <Lemma writtenForm="六" partOfSpeech="m"/>
       <Sense id="L625255-S1" synset="wikidata-ja-L625255-S1" ili="wikidata-ja-L625255-S1">
-        <Definition></Definition>
+        <Definition>six</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625285">
       <Lemma writtenForm="九" partOfSpeech="m"/>
       <Sense id="L625285-S1" synset="wikidata-ja-L625285-S1" ili="l337-s1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625400">
       <Lemma writtenForm="ええ" partOfSpeech="i"/>
       <Sense id="L625400-S1" synset="wikidata-ja-L625400-S1" ili="wikidata-ja-L625400-S1">
-        <Definition></Definition>
+        <Definition>linguistic particle used to show agreement, acceptance, consensus, appreciation or an affirmative opinion</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626231">
       <Lemma writtenForm="ようこそ" partOfSpeech="i"/>
       <Sense id="L626231-S1" synset="wikidata-ja-L626231-S1" ili="wikidata-ja-L626231-S1">
-        <Definition></Definition>
+        <Definition>welcome</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641164">
@@ -1741,47 +1741,47 @@
     <LexicalEntry id="L686409">
       <Lemma writtenForm="八" partOfSpeech="x"/>
       <Sense id="L686409-S2" synset="wikidata-ja-L686409-S2" ili="wikidata-ja-L686409-S2">
-        <Definition></Definition>
+        <Definition>the sound &quot;ha&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686770">
       <Lemma writtenForm="五" partOfSpeech="m"/>
       <Sense id="L686770-S1" synset="wikidata-ja-L686770-S1" ili="wikidata-ja-L686770-S1">
-        <Definition></Definition>
+        <Definition>natural number 5</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689123">
       <Lemma writtenForm="葉" partOfSpeech="m"/>
       <Sense id="L689123-S1" synset="wikidata-ja-L689123-S1" ili="wikidata-ja-L689123-S1">
-        <Definition></Definition>
+        <Definition>counter for leaves or pieces of paper</Definition>
       </Sense>
       <Sense id="L689123-S2" synset="wikidata-ja-L689123-S2" ili="wikidata-ja-L689123-S2">
-        <Definition></Definition>
+        <Definition>counter for boats</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691140">
       <Lemma writtenForm="申し申し" partOfSpeech="i"/>
       <Sense id="L691140-S1" synset="wikidata-ja-L691140-S1" ili="wikidata-ja-L691140-S1">
-        <Definition></Definition>
+        <Definition>when starting a phone call</Definition>
         <SenseRelation relType="similar" target="wikidata-ja-L625734-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691298">
       <Lemma writtenForm="一枚" partOfSpeech="m"/>
       <Sense id="L691298-S1" synset="wikidata-ja-L691298-S1" ili="wikidata-ja-L691298-S1">
-        <Definition></Definition>
+        <Definition>one flat object</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L735976">
       <Lemma writtenForm="七十" partOfSpeech="m"/>
       <Sense id="L735976-S1" synset="wikidata-ja-L735976-S1" ili="wikidata-ja-L735976-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1003453">
       <Lemma writtenForm="賑やか" partOfSpeech="a"/>
       <Sense id="L1003453-S1" synset="wikidata-ja-L1003453-S1" ili="wikidata-ja-L1003453-S1">
-        <Definition></Definition>
+        <Definition>lively, bustling, active</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1021016">
@@ -1832,7 +1832,7 @@
     <LexicalEntry id="L1113522">
       <Lemma writtenForm="一個" partOfSpeech="m"/>
       <Sense id="L1113522-S1" synset="wikidata-ja-L1113522-S1" ili="wikidata-ja-L1113522-S1">
-        <Definition></Definition>
+        <Definition>one thing</Definition>
         <SenseRelation relType="similar" target="wikidata-ja-L686295-S2"/>
       </Sense>
     </LexicalEntry>
@@ -1845,29 +1845,29 @@
     <LexicalEntry id="L1130396">
       <Lemma writtenForm="残念" partOfSpeech="a"/>
       <Sense id="L1130396-S1" synset="wikidata-ja-L1130396-S1" ili="wikidata-ja-L1130396-S1">
-        <Definition></Definition>
+        <Definition>deserving of regret or sorrow</Definition>
         <Example>残念だが無理だ。</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143885">
       <Lemma writtenForm="自分" partOfSpeech="h"/>
       <Sense id="L1143885-S1" synset="wikidata-ja-L1143885-S1" ili="l1143892-s1">
-        <Definition></Definition>
+        <Definition>relexive pronoun for the first person</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L1143885-S3"/>
       </Sense>
       <Sense id="L1143885-S2" synset="wikidata-ja-L1143885-S2" ili="l1143893-s1">
-        <Definition></Definition>
+        <Definition>relexive pronoun for the second person</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L1143885-S3"/>
       </Sense>
       <Sense id="L1143885-S3" synset="wikidata-ja-L1143885-S3" ili="wikidata-ja-L1143885-S3">
-        <Definition></Definition>
+        <Definition>relexive pronoun</Definition>
       </Sense>
       <Sense id="L1143885-S4" synset="wikidata-ja-L1143885-S4" ili="wikidata-ja-L1143885-S4">
-        <Definition></Definition>
+        <Definition>relexive pronoun for the third person</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L1143885-S3"/>
       </Sense>
       <Sense id="L1143885-S5" synset="wikidata-ja-L1143885-S5" ili="l618580-s1">
-        <Definition></Definition>
+        <Definition>pronoun used to refer reflexively to a hypothetical or generic person</Definition>
       </Sense>
       <Sense id="L1143885-S6" synset="wikidata-ja-L1143885-S6" ili="wikidata-ja-L1143885-S6">
         <Definition>一人称単数、私</Definition>
@@ -1883,7 +1883,7 @@
     <LexicalEntry id="L1162001">
       <Lemma writtenForm="九十" partOfSpeech="m"/>
       <Sense id="L1162001-S1" synset="wikidata-ja-L1162001-S1" ili="wikidata-ja-L1162001-S1">
-        <Definition></Definition>
+        <Definition>natural number between 89 and 91</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218678">
@@ -2111,7 +2111,7 @@
     <LexicalEntry id="L1313492">
       <Lemma writtenForm="寺" partOfSpeech="m"/>
       <Sense id="L1313492-S1" synset="wikidata-ja-L1313492-S1" ili="wikidata-ja-L1313492-S1">
-        <Definition></Definition>
+        <Definition>counter for temples</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1317021">
@@ -2191,7 +2191,7 @@
     <LexicalEntry id="L1371793">
       <Lemma writtenForm="足" partOfSpeech="m"/>
       <Sense id="L1371793-S1" synset="wikidata-ja-L1371793-S1" ili="wikidata-ja-L1371793-S1">
-        <Definition></Definition>
+        <Definition>counter for pairs</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1372238">
@@ -2215,7 +2215,7 @@
     <LexicalEntry id="L1409189">
       <Lemma writtenForm="ボンソワール" partOfSpeech="i"/>
       <Sense id="L1409189-S1" synset="wikidata-ja-L1409189-S1" ili="wikidata-ja-L1409189-S1">
-        <Definition></Definition>
+        <Definition>bonsoir</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409809">
@@ -2257,7 +2257,7 @@
     <LexicalEntry id="L1457950">
       <Lemma writtenForm="品" partOfSpeech="m"/>
       <Sense id="L1457950-S1" synset="wikidata-ja-L1457950-S1" ili="wikidata-ja-L1457950-S1">
-        <Definition></Definition>
+        <Definition>counter for food items</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1476377">
@@ -2545,7 +2545,7 @@
     <LexicalEntry id="L670">
       <Lemma writtenForm="我らが" partOfSpeech="a"/>
       <Sense id="L670-S1" synset="wikidata-ja-L670-S1" ili="wikidata-ja-L670-S1">
-        <Definition></Definition>
+        <Definition>our</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L681">
@@ -2560,10 +2560,10 @@
     <LexicalEntry id="L2454">
       <Lemma writtenForm="元気" partOfSpeech="a"/>
       <Sense id="L2454-S1" synset="wikidata-ja-L2454-S1" ili="wikidata-ja-L2454-S1">
-        <Definition></Definition>
+        <Definition>full of energy</Definition>
       </Sense>
       <Sense id="L2454-S2" synset="wikidata-ja-L2454-S2" ili="wikidata-ja-L2454-S2">
-        <Definition></Definition>
+        <Definition>of good health</Definition>
         <Example>元気ですか。</Example>
       </Sense>
     </LexicalEntry>
@@ -2602,7 +2602,7 @@
     <LexicalEntry id="L307238">
       <Lemma writtenForm="何" partOfSpeech="h"/>
       <Sense id="L307238-S1" synset="wikidata-ja-L307238-S1" ili="l57-s1">
-        <Definition></Definition>
+        <Definition>which thing, which object</Definition>
         <Example>何すんだよ</Example>
       </Sense>
     </LexicalEntry>
@@ -2618,7 +2618,7 @@
     <LexicalEntry id="L310609">
       <Lemma writtenForm="こんばんは" partOfSpeech="i"/>
       <Sense id="L310609-S1" synset="wikidata-ja-L310609-S1" ili="l310610-s1">
-        <Definition></Definition>
+        <Definition>salutation used in the evening</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L404524">
@@ -2642,7 +2642,7 @@
     <LexicalEntry id="L625704">
       <Lemma writtenForm="十" partOfSpeech="m"/>
       <Sense id="L625704-S1" synset="wikidata-ja-L625704-S1" ili="wikidata-ja-L625704-S1">
-        <Definition></Definition>
+        <Definition>ten</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625738">
@@ -2652,71 +2652,71 @@
         <SenseRelation relType="hypernym" target="wikidata-ja-L625738-S3"/>
       </Sense>
       <Sense id="L625738-S2" synset="wikidata-ja-L625738-S2" ili="wikidata-ja-L625738-S2">
-        <Definition></Definition>
+        <Definition>counter for military units</Definition>
       </Sense>
       <Sense id="L625738-S3" synset="wikidata-ja-L625738-S3" ili="wikidata-ja-L625738-S3">
-        <Definition></Definition>
+        <Definition>counter for three-dimensional objects</Definition>
       </Sense>
       <Sense id="L625738-S4" synset="wikidata-ja-L625738-S4" ili="wikidata-ja-L625738-S4">
-        <Definition></Definition>
+        <Definition>counter for empty containers</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L625738-S3"/>
       </Sense>
       <Sense id="L625738-S5" synset="wikidata-ja-L625738-S5" ili="wikidata-ja-L625738-S5">
-        <Definition></Definition>
+        <Definition>counter for meteorites</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L625738-S3"/>
       </Sense>
       <Sense id="L625738-S6" synset="wikidata-ja-L625738-S6" ili="wikidata-ja-L625738-S6">
-        <Definition></Definition>
+        <Definition>counter for planets</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L625738-S1"/>
       </Sense>
       <Sense id="L625738-S7" synset="wikidata-ja-L625738-S7" ili="wikidata-ja-L625738-S7">
-        <Definition></Definition>
+        <Definition>counter for clouds</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L625738-S3"/>
       </Sense>
       <Sense id="L625738-S8" synset="wikidata-ja-L625738-S8" ili="wikidata-ja-L625738-S8">
-        <Definition></Definition>
+        <Definition>counter for typhoons</Definition>
       </Sense>
       <Sense id="L625738-S9" synset="wikidata-ja-L625738-S9" ili="wikidata-ja-L625738-S9">
-        <Definition></Definition>
+        <Definition>counter for tornadoes</Definition>
       </Sense>
       <Sense id="L625738-S10" synset="wikidata-ja-L625738-S10" ili="wikidata-ja-L625738-S10">
-        <Definition></Definition>
+        <Definition>counter for cells</Definition>
       </Sense>
       <Sense id="L625738-S11" synset="wikidata-ja-L625738-S11" ili="wikidata-ja-L625738-S11">
-        <Definition></Definition>
+        <Definition>counter for viruses</Definition>
       </Sense>
       <Sense id="L625738-S12" synset="wikidata-ja-L625738-S12" ili="wikidata-ja-L625738-S12">
-        <Definition></Definition>
+        <Definition>counter for bacteria</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L673668">
       <Lemma writtenForm="四十二" partOfSpeech="m"/>
       <Sense id="L673668-S1" synset="wikidata-ja-L673668-S1" ili="wikidata-ja-L673668-S1">
-        <Definition></Definition>
+        <Definition>forty-two</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678808">
       <Lemma writtenForm="十三" partOfSpeech="m"/>
       <Sense id="L678808-S1" synset="wikidata-ja-L678808-S1" ili="wikidata-ja-L678808-S1">
-        <Definition></Definition>
+        <Definition>the number 13</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678829">
       <Lemma writtenForm="十五" partOfSpeech="m"/>
       <Sense id="L678829-S1" synset="wikidata-ja-L678829-S1" ili="wikidata-ja-L678829-S1">
-        <Definition></Definition>
+        <Definition>the number 15</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686609">
       <Lemma writtenForm="ファイブ" partOfSpeech="m"/>
       <Sense id="L686609-S1" synset="wikidata-ja-L686609-S1" ili="wikidata-ja-L686609-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689088">
       <Lemma writtenForm="波" partOfSpeech="m"/>
       <Sense id="L689088-S1" synset="wikidata-ja-L689088-S1" ili="wikidata-ja-L689088-S1">
-        <Definition></Definition>
+        <Definition>counter for waves</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L718794">
@@ -2780,7 +2780,7 @@
     <LexicalEntry id="L1150494">
       <Lemma writtenForm="変" partOfSpeech="a"/>
       <Sense id="L1150494-S1" synset="wikidata-ja-L1150494-S1" ili="wikidata-ja-L1150494-S1">
-        <Definition></Definition>
+        <Definition>weired, strange</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1191912">
@@ -2792,7 +2792,7 @@
     <LexicalEntry id="L1195944">
       <Lemma writtenForm="ワン" partOfSpeech="i"/>
       <Sense id="L1195944-S1" synset="wikidata-ja-L1195944-S1" ili="wikidata-ja-L1195944-S1">
-        <Definition></Definition>
+        <Definition>imitates barking of a dog</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218973">
@@ -3332,10 +3332,10 @@
     <LexicalEntry id="L543">
       <Lemma writtenForm="に" partOfSpeech="y"/>
       <Sense id="L543-S1" synset="wikidata-ja-L543-S1" ili="wikidata-ja-L543-S1">
-        <Definition></Definition>
+        <Definition>at (a place or time), in, on, during</Definition>
       </Sense>
       <Sense id="L543-S2" synset="wikidata-ja-L543-S2" ili="wikidata-ja-L543-S2">
-        <Definition></Definition>
+        <Definition>to (a direction or state), towards, into</Definition>
       </Sense>
       <Sense id="L543-S3" synset="wikidata-ja-L543-S3" ili="wikidata-ja-L543-S3">
         <Definition>目的の場所を示す</Definition>
@@ -3453,16 +3453,16 @@
     <LexicalEntry id="L605">
       <Lemma writtenForm="また" partOfSpeech="c"/>
       <Sense id="L605-S1" synset="wikidata-ja-L605-S1" ili="wikidata-ja-L605-S1">
-        <Definition></Definition>
+        <Definition>joins words and sentence parts together</Definition>
       </Sense>
       <Sense id="L605-S2" synset="wikidata-ja-L605-S2" ili="l11799-s1">
-        <Definition></Definition>
+        <Definition>In addition, in addition to</Definition>
       </Sense>
       <Sense id="L605-S3" synset="wikidata-ja-L605-S3" ili="l333924-s1">
-        <Definition></Definition>
+        <Definition>in addition to what has been said previously</Definition>
       </Sense>
       <Sense id="L605-S4" synset="wikidata-ja-L605-S4" ili="l1386-s1">
-        <Definition></Definition>
+        <Definition>connects at least two alternatives</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L621">
@@ -3499,13 +3499,13 @@
     <LexicalEntry id="L661">
       <Lemma writtenForm="大きな" partOfSpeech="a"/>
       <Sense id="L661-S1" synset="wikidata-ja-L661-S1" ili="wikidata-ja-L661-S1">
-        <Definition></Definition>
+        <Definition>big</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L662">
       <Lemma writtenForm="小さな" partOfSpeech="a"/>
       <Sense id="L662-S1" synset="wikidata-ja-L662-S1" ili="wikidata-ja-L662-S1">
-        <Definition></Definition>
+        <Definition>small</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L25044">
@@ -3525,10 +3525,10 @@
     <LexicalEntry id="L307232">
       <Lemma writtenForm="好き" partOfSpeech="a"/>
       <Sense id="L307232-S1" synset="wikidata-ja-L307232-S1" ili="wikidata-ja-L307232-S1">
-        <Definition></Definition>
+        <Definition>liked or favoured</Definition>
       </Sense>
       <Sense id="L307232-S2" synset="wikidata-ja-L307232-S2" ili="wikidata-ja-L307232-S2">
-        <Definition></Definition>
+        <Definition>to have a strong, positive emotion based on affection</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579545">
@@ -3543,19 +3543,19 @@
     <LexicalEntry id="L625229">
       <Lemma writtenForm="七" partOfSpeech="m"/>
       <Sense id="L625229-S1" synset="wikidata-ja-L625229-S1" ili="wikidata-ja-L625229-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625414">
       <Lemma writtenForm="此れ" partOfSpeech="h"/>
       <Sense id="L625414-S1" synset="wikidata-ja-L625414-S1" ili="wikidata-ja-L625414-S1">
-        <Definition></Definition>
+        <Definition>this</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625725">
       <Lemma writtenForm="年" partOfSpeech="m"/>
       <Sense id="L625725-S1" synset="wikidata-ja-L625725-S1" ili="wikidata-ja-L625725-S1">
-        <Definition></Definition>
+        <Definition>indicates the preceiding number is an amount of years</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640386">
@@ -3567,19 +3567,19 @@
     <LexicalEntry id="L641752">
       <Lemma writtenForm="四" partOfSpeech="m"/>
       <Sense id="L641752-S1" synset="wikidata-ja-L641752-S1" ili="wikidata-ja-L641752-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643742">
       <Lemma writtenForm="結構" partOfSpeech="a"/>
       <Sense id="L643742-S1" synset="wikidata-ja-L643742-S1" ili="wikidata-ja-L643742-S1">
-        <Definition></Definition>
+        <Definition>tolerable</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678762">
       <Lemma writtenForm="十一" partOfSpeech="m"/>
       <Sense id="L678762-S1" synset="wikidata-ja-L678762-S1" ili="wikidata-ja-L678762-S1">
-        <Definition></Definition>
+        <Definition>le nombre 11</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678964">
@@ -3594,13 +3594,13 @@
     <LexicalEntry id="L679425">
       <Lemma writtenForm="九" partOfSpeech="m"/>
       <Sense id="L679425-S1" synset="wikidata-ja-L679425-S1" ili="wikidata-ja-L679425-S1">
-        <Definition></Definition>
+        <Definition>the number 9</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685723">
       <Lemma writtenForm="八" partOfSpeech="m"/>
       <Sense id="L685723-S1" synset="wikidata-ja-L685723-S1" ili="wikidata-ja-L685723-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685908">
@@ -3612,47 +3612,47 @@
     <LexicalEntry id="L686295">
       <Lemma writtenForm="一つ" partOfSpeech="m"/>
       <Sense id="L686295-S1" synset="wikidata-ja-L686295-S1" ili="wikidata-ja-L686295-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
       <Sense id="L686295-S2" synset="wikidata-ja-L686295-S2" ili="wikidata-ja-L686295-S2">
-        <Definition></Definition>
+        <Definition>one thing</Definition>
         <SenseRelation relType="similar" target="wikidata-ja-L1113522-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686347">
       <Lemma writtenForm="二" partOfSpeech="m"/>
       <Sense id="L686347-S1" synset="wikidata-ja-L686347-S1" ili="wikidata-ja-L686347-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686608">
       <Lemma writtenForm="スリー" partOfSpeech="m"/>
       <Sense id="L686608-S1" synset="wikidata-ja-L686608-S1" ili="wikidata-ja-L686608-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686612">
       <Lemma writtenForm="エイト" partOfSpeech="m"/>
       <Sense id="L686612-S1" synset="wikidata-ja-L686612-S1" ili="wikidata-ja-L686612-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686768">
       <Lemma writtenForm="四つ" partOfSpeech="m"/>
       <Sense id="L686768-S1" synset="wikidata-ja-L686768-S1" ili="wikidata-ja-L686768-S1">
-        <Definition></Definition>
+        <Definition>4</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686773">
       <Lemma writtenForm="五つ" partOfSpeech="m"/>
       <Sense id="L686773-S1" synset="wikidata-ja-L686773-S1" ili="wikidata-ja-L686773-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689194">
       <Lemma writtenForm="丁" partOfSpeech="m"/>
       <Sense id="L689194-S1" synset="wikidata-ja-L689194-S1" ili="wikidata-ja-L689194-S1">
-        <Definition></Definition>
+        <Definition>counter for long and narrow objects</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689309">
@@ -3665,19 +3665,19 @@
     <LexicalEntry id="L726734">
       <Lemma writtenForm="バイバイ" partOfSpeech="i"/>
       <Sense id="L726734-S1" synset="wikidata-ja-L726734-S1" ili="wikidata-ja-L726734-S1">
-        <Definition></Definition>
+        <Definition>a colloquial or informal way to say goodbye or farewell</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L735977">
       <Lemma writtenForm="七十" partOfSpeech="m"/>
       <Sense id="L735977-S1" synset="wikidata-ja-L735977-S1" ili="wikidata-ja-L735977-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1001480">
       <Lemma writtenForm="有名" partOfSpeech="a"/>
       <Sense id="L1001480-S1" synset="wikidata-ja-L1001480-S1" ili="wikidata-ja-L1001480-S1">
-        <Definition></Definition>
+        <Definition>having fame</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1034603">
@@ -3720,7 +3720,7 @@
     <LexicalEntry id="L1133042">
       <Lemma writtenForm="何か" partOfSpeech="h"/>
       <Sense id="L1133042-S1" synset="wikidata-ja-L1133042-S1" ili="wikidata-ja-L1133042-S1">
-        <Definition></Definition>
+        <Definition>uncertain or unspecified entity</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149541">
@@ -3750,7 +3750,7 @@
     <LexicalEntry id="L1155141">
       <Lemma writtenForm="ハロー" partOfSpeech="i"/>
       <Sense id="L1155141-S1" synset="wikidata-ja-L1155141-S1" ili="wikidata-ja-L1155141-S1">
-        <Definition></Definition>
+        <Definition>salutation or greeting</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1220288">
@@ -3982,7 +3982,7 @@
     <LexicalEntry id="L1320947">
       <Lemma writtenForm="順" partOfSpeech="a"/>
       <Sense id="L1320947-S1" synset="wikidata-ja-L1320947-S1" ili="wikidata-ja-L1320947-S1">
-        <Definition></Definition>
+        <Definition>obedience</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1321503">
@@ -4042,7 +4042,7 @@
     <LexicalEntry id="L1376613">
       <Lemma writtenForm="たら" partOfSpeech="y"/>
       <Sense id="L1376613-S1" synset="wikidata-ja-L1376613-S1" ili="wikidata-ja-L1376613-S1">
-        <Definition></Definition>
+        <Definition>if…</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1399597">
@@ -4083,7 +4083,7 @@
     <LexicalEntry id="L1403736">
       <Lemma writtenForm="私" partOfSpeech="h"/>
       <Sense id="L1403736-S1" synset="wikidata-ja-L1403736-S1" ili="wikidata-ja-L1403736-S1">
-        <Definition></Definition>
+        <Definition>first person pronoun used by woman</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407059">
@@ -4113,10 +4113,10 @@
     <LexicalEntry id="L1460664">
       <Lemma writtenForm="毛" partOfSpeech="x"/>
       <Sense id="L1460664-S1" synset="wikidata-ja-L1460664-S1" ili="wikidata-ja-L1460664-S1">
-        <Definition></Definition>
+        <Definition>thousandth</Definition>
       </Sense>
       <Sense id="L1460664-S2" synset="wikidata-ja-L1460664-S2" ili="wikidata-ja-L1460664-S2">
-        <Definition></Definition>
+        <Definition>old monitary unit</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1476592">
@@ -4400,7 +4400,7 @@
     <LexicalEntry id="L682">
       <Lemma writtenForm="皆" partOfSpeech="h"/>
       <Sense id="L682-S1" synset="wikidata-ja-L682-S1" ili="l4040-s1">
-        <Definition></Definition>
+        <Definition>everyone</Definition>
         <Example>みんなはどこ？</Example>
       </Sense>
     </LexicalEntry>
@@ -4441,19 +4441,19 @@
     <LexicalEntry id="L307871">
       <Lemma writtenForm="お願いします" partOfSpeech="i"/>
       <Sense id="L307871-S1" synset="wikidata-ja-L307871-S1" ili="l307873-s1">
-        <Definition></Definition>
+        <Definition>please</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L309381">
       <Lemma writtenForm="OK" partOfSpeech="i"/>
       <Sense id="L309381-S1" synset="wikidata-ja-L309381-S1" ili="l5836-s1">
-        <Definition></Definition>
+        <Definition>denoting approval</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625228">
       <Lemma writtenForm="四" partOfSpeech="m"/>
       <Sense id="L625228-S1" synset="wikidata-ja-L625228-S1" ili="wikidata-ja-L625228-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625705">
@@ -4465,7 +4465,7 @@
     <LexicalEntry id="L625713">
       <Lemma writtenForm="羽" partOfSpeech="m"/>
       <Sense id="L625713-S1" synset="wikidata-ja-L625713-S1" ili="wikidata-ja-L625713-S1">
-        <Definition></Definition>
+        <Definition>indicates the preceding number represents an amount of birds</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626075">
@@ -4486,25 +4486,25 @@
         <Definition>愚かであること</Definition>
       </Sense>
       <Sense id="L678872-S2" synset="wikidata-ja-L678872-S2" ili="wikidata-ja-L678872-S2">
-        <Definition></Definition>
+        <Definition>being foolish</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686610">
       <Lemma writtenForm="シックス" partOfSpeech="m"/>
       <Sense id="L686610-S1" synset="wikidata-ja-L686610-S1" ili="wikidata-ja-L686610-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L734743">
       <Lemma writtenForm="二十" partOfSpeech="m"/>
       <Sense id="L734743-S1" synset="wikidata-ja-L734743-S1" ili="wikidata-ja-L734743-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L735812">
       <Lemma writtenForm="三十" partOfSpeech="m"/>
       <Sense id="L735812-S1" synset="wikidata-ja-L735812-S1" ili="wikidata-ja-L735812-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L745387">
@@ -4516,13 +4516,13 @@
     <LexicalEntry id="L745388">
       <Lemma writtenForm="何方" partOfSpeech="h"/>
       <Sense id="L745388-S1" synset="wikidata-ja-L745388-S1" ili="l56-s1">
-        <Definition></Definition>
+        <Definition>which person</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1019727">
       <Lemma writtenForm="大変" partOfSpeech="a"/>
       <Sense id="L1019727-S1" synset="wikidata-ja-L1019727-S1" ili="wikidata-ja-L1019727-S1">
-        <Definition></Definition>
+        <Definition>enormous</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1037596">
@@ -4540,7 +4540,7 @@
     <LexicalEntry id="L1043775">
       <Lemma writtenForm="サンキュー" partOfSpeech="i"/>
       <Sense id="L1043775-S1" synset="wikidata-ja-L1043775-S1" ili="l579678-s1">
-        <Definition></Definition>
+        <Definition>Expression of gratitude</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1073090">
@@ -4578,7 +4578,7 @@
     <LexicalEntry id="L1093782">
       <Lemma writtenForm="下手" partOfSpeech="a"/>
       <Sense id="L1093782-S1" synset="wikidata-ja-L1093782-S1" ili="wikidata-ja-L1093782-S1">
-        <Definition></Definition>
+        <Definition>not posessing skill</Definition>
         <SenseRelation relType="antonym" target="wikidata-ja-L1093788-S1"/>
       </Sense>
     </LexicalEntry>
@@ -4797,7 +4797,7 @@
         <Definition>列挙を表す</Definition>
       </Sense>
       <Sense id="L1244201-S2" synset="wikidata-ja-L1244201-S2" ili="wikidata-ja-L1244201-S2">
-        <Definition></Definition>
+        <Definition>Konjunktion um Alternativen oder Auswahlmöglichkeiten darzustellen; oder</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1244204">
@@ -4927,7 +4927,7 @@
     <LexicalEntry id="L1340724">
       <Lemma writtenForm="色" partOfSpeech="m"/>
       <Sense id="L1340724-S1" synset="wikidata-ja-L1340724-S1" ili="wikidata-ja-L1340724-S1">
-        <Definition></Definition>
+        <Definition>counter word for colors</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1380484">
@@ -4942,7 +4942,7 @@
         <Definition>部屋の広さを表す語</Definition>
       </Sense>
       <Sense id="L1399658-S2" synset="wikidata-ja-L1399658-S2" ili="wikidata-ja-L1399658-S2">
-        <Definition></Definition>
+        <Definition>unit of area</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408109">
@@ -4981,19 +4981,19 @@
     <LexicalEntry id="L1474818">
       <Lemma writtenForm="真逆" partOfSpeech="a"/>
       <Sense id="L1474818-S1" synset="wikidata-ja-L1474818-S1" ili="wikidata-ja-L1474818-S1">
-        <Definition></Definition>
+        <Definition>opposite</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1491525">
       <Lemma writtenForm="九千" partOfSpeech="m"/>
       <Sense id="L1491525-S1" synset="wikidata-ja-L1491525-S1" ili="wikidata-ja-L1491525-S1">
-        <Definition></Definition>
+        <Definition>9000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1492976">
       <Lemma writtenForm="十分" partOfSpeech="a"/>
       <Sense id="L1492976-S1" synset="wikidata-ja-L1492976-S1" ili="wikidata-ja-L1492976-S1">
-        <Definition></Definition>
+        <Definition>Enough</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1499963">
@@ -5302,29 +5302,29 @@
     <LexicalEntry id="L306031">
       <Lemma writtenForm="さようなら" partOfSpeech="i"/>
       <Sense id="L306031-S1" synset="wikidata-ja-L306031-S1" ili="wikidata-ja-L306031-S1">
-        <Definition></Definition>
+        <Definition>freundschaftlicher Verabschiedungsgruß</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L619048">
       <Lemma writtenForm="歳" partOfSpeech="m"/>
       <Sense id="L619048-S1" synset="wikidata-ja-L619048-S1" ili="wikidata-ja-L619048-S1">
-        <Definition></Definition>
+        <Definition>counter for the age of a person in years</Definition>
         <Example>娘は十八歳ですか？</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L625376">
       <Lemma writtenForm="いいえ" partOfSpeech="i"/>
       <Sense id="L625376-S1" synset="wikidata-ja-L625376-S1" ili="wikidata-ja-L625376-S1">
-        <Definition></Definition>
+        <Definition>word used for grammatical negation; linguistic particle with which disagreement, disdain, or a negative opinion is expressed</Definition>
       </Sense>
       <Sense id="L625376-S2" synset="wikidata-ja-L625376-S2" ili="wikidata-ja-L625376-S2">
-        <Definition></Definition>
+        <Definition>response to a &quot;Thank you&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626074">
       <Lemma writtenForm="ここ" partOfSpeech="h"/>
       <Sense id="L626074-S1" synset="wikidata-ja-L626074-S1" ili="wikidata-ja-L626074-S1">
-        <Definition></Definition>
+        <Definition>indicating something close to the speaker</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626182">
@@ -5338,7 +5338,7 @@
     <LexicalEntry id="L686405">
       <Lemma writtenForm="六" partOfSpeech="m"/>
       <Sense id="L686405-S1" synset="wikidata-ja-L686405-S1" ili="wikidata-ja-L686405-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691297">
@@ -5347,19 +5347,19 @@
         <Definition>人数を数える値</Definition>
       </Sense>
       <Sense id="L691297-S2" synset="wikidata-ja-L691297-S2" ili="wikidata-ja-L691297-S2">
-        <Definition></Definition>
+        <Definition>counter for reservations</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L713771">
       <Lemma writtenForm="どんな" partOfSpeech="a"/>
       <Sense id="L713771-S1" synset="wikidata-ja-L713771-S1" ili="wikidata-ja-L713771-S1">
-        <Definition></Definition>
+        <Definition>&quot;what kind of&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L717593">
       <Lemma writtenForm="気になる" partOfSpeech="t"/>
       <Sense id="L717593-S1" synset="wikidata-ja-L717593-S1" ili="wikidata-ja-L717593-S1">
-        <Definition></Definition>
+        <Definition>to be invested in something</Definition>
       </Sense>
       <Sense id="L717593-S2" synset="wikidata-ja-L717593-S2" ili="wikidata-ja-L717593-S2">
         <Definition>心配になる</Definition>
@@ -5561,7 +5561,7 @@
     <LexicalEntry id="L1273422">
       <Lemma writtenForm="ううん" partOfSpeech="i"/>
       <Sense id="L1273422-S1" synset="wikidata-ja-L1273422-S1" ili="wikidata-ja-L1273422-S1">
-        <Definition></Definition>
+        <Definition>no</Definition>
         <SenseRelation relType="antonym" target="wikidata-ja-L751461-S1"/>
       </Sense>
     </LexicalEntry>
@@ -5790,10 +5790,10 @@
     <LexicalEntry id="L1530791">
       <Lemma writtenForm="そっくり" partOfSpeech="a"/>
       <Sense id="L1530791-S1" synset="wikidata-ja-L1530791-S1" ili="wikidata-ja-L1530791-S1">
-        <Definition></Definition>
+        <Definition>entirely</Definition>
       </Sense>
       <Sense id="L1530791-S2" synset="wikidata-ja-L1530791-S2" ili="wikidata-ja-L1530791-S2">
-        <Definition></Definition>
+        <Definition>exactly alike</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1530947">
@@ -6026,19 +6026,19 @@
     <LexicalEntry id="L307874">
       <Lemma writtenForm="御免" partOfSpeech="i"/>
       <Sense id="L307874-S1" synset="wikidata-ja-L307874-S1" ili="wikidata-ja-L307874-S1">
-        <Definition></Definition>
+        <Definition>sorry</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L311225">
       <Lemma writtenForm="またね" partOfSpeech="i"/>
       <Sense id="L311225-S1" synset="wikidata-ja-L311225-S1" ili="l14712-s1">
-        <Definition></Definition>
+        <Definition>formule de salutation utilisée lorsqu’on quitte quelqu’un</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407018">
       <Lemma writtenForm="はい" partOfSpeech="i"/>
       <Sense id="L407018-S1" synset="wikidata-ja-L407018-S1" ili="l3282-s1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L412063">
@@ -6056,22 +6056,22 @@
     <LexicalEntry id="L626069">
       <Lemma writtenForm="万" partOfSpeech="m"/>
       <Sense id="L626069-S1" synset="wikidata-ja-L626069-S1" ili="wikidata-ja-L626069-S1">
-        <Definition></Definition>
+        <Definition>ten thousand</Definition>
       </Sense>
       <Sense id="L626069-S2" synset="wikidata-ja-L626069-S2" ili="wikidata-ja-L626069-S2">
-        <Definition></Definition>
+        <Definition>a large number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626073">
       <Lemma writtenForm="あれ" partOfSpeech="h"/>
       <Sense id="L626073-S1" synset="wikidata-ja-L626073-S1" ili="l333971-s1">
-        <Definition></Definition>
+        <Definition>idicating something that is far away from both the speaker and the listener</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641828">
       <Lemma writtenForm="三" partOfSpeech="m"/>
       <Sense id="L641828-S1" synset="wikidata-ja-L641828-S1" ili="wikidata-ja-L641828-S1">
-        <Definition></Definition>
+        <Definition>the natural number 3</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L679421">
@@ -6080,87 +6080,87 @@
         <Definition>細長いものを数える語</Definition>
       </Sense>
       <Sense id="L679421-S2" synset="wikidata-ja-L679421-S2" ili="wikidata-ja-L679421-S2">
-        <Definition></Definition>
+        <Definition>counter for home runs</Definition>
       </Sense>
       <Sense id="L679421-S3" synset="wikidata-ja-L679421-S3" ili="wikidata-ja-L679421-S3">
-        <Definition></Definition>
+        <Definition>counter for telephone calls</Definition>
       </Sense>
       <Sense id="L679421-S4" synset="wikidata-ja-L679421-S4" ili="wikidata-ja-L679421-S4">
-        <Definition></Definition>
+        <Definition>counter for long objects</Definition>
       </Sense>
       <Sense id="L679421-S5" synset="wikidata-ja-L679421-S5" ili="wikidata-ja-L679421-S5">
-        <Definition></Definition>
+        <Definition>counter for trees</Definition>
         <SenseRelation relType="hypernym" target="wikidata-ja-L679421-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680773">
       <Lemma writtenForm="本当" partOfSpeech="a"/>
       <Sense id="L680773-S1" synset="wikidata-ja-L680773-S1" ili="wikidata-ja-L680773-S1">
-        <Definition></Definition>
+        <Definition>what is in accord with fact or reality</Definition>
       </Sense>
       <Sense id="L680773-S2" synset="wikidata-ja-L680773-S2" ili="wikidata-ja-L680773-S2">
-        <Definition></Definition>
+        <Definition>statement in accordance with the real world</Definition>
       </Sense>
       <Sense id="L680773-S3" synset="wikidata-ja-L680773-S3" ili="wikidata-ja-L680773-S3">
-        <Definition></Definition>
+        <Definition>sum or aggregate of all that is real or existent</Definition>
       </Sense>
       <Sense id="L680773-S4" synset="wikidata-ja-L680773-S4" ili="wikidata-ja-L680773-S4">
-        <Definition></Definition>
+        <Definition>having a quality of appropriateness</Definition>
       </Sense>
       <Sense id="L680773-S5" synset="wikidata-ja-L680773-S5" ili="wikidata-ja-L680773-S5">
-        <Definition></Definition>
+        <Definition>in accordance with reality</Definition>
         <Example>それも本当の名前じゃない</Example>
       </Sense>
       <Sense id="L680773-S6" synset="wikidata-ja-L680773-S6" ili="wikidata-ja-L680773-S6">
-        <Definition></Definition>
+        <Definition>degree of certainty about the origin or precedence attributed to an object</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686343">
       <Lemma writtenForm="二" partOfSpeech="m"/>
       <Sense id="L686343-S1" synset="wikidata-ja-L686343-S1" ili="wikidata-ja-L686343-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686348">
       <Lemma writtenForm="ツー" partOfSpeech="m"/>
       <Sense id="L686348-S1" synset="wikidata-ja-L686348-S1" ili="wikidata-ja-L686348-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L686611">
       <Lemma writtenForm="セブン" partOfSpeech="m"/>
       <Sense id="L686611-S1" synset="wikidata-ja-L686611-S1" ili="wikidata-ja-L686611-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689124">
       <Lemma writtenForm="一泊" partOfSpeech="m"/>
       <Sense id="L689124-S1" synset="wikidata-ja-L689124-S1" ili="wikidata-ja-L689124-S1">
-        <Definition></Definition>
+        <Definition>one night</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701027">
       <Lemma writtenForm="十四" partOfSpeech="m"/>
       <Sense id="L701027-S1" synset="wikidata-ja-L701027-S1" ili="wikidata-ja-L701027-S1">
-        <Definition></Definition>
+        <Definition>the number fourteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701029">
       <Lemma writtenForm="十六" partOfSpeech="m"/>
       <Sense id="L701029-S1" synset="wikidata-ja-L701029-S1" ili="wikidata-ja-L701029-S1">
-        <Definition></Definition>
+        <Definition>the number 16</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L735964">
       <Lemma writtenForm="四十" partOfSpeech="m"/>
       <Sense id="L735964-S1" synset="wikidata-ja-L735964-S1" ili="wikidata-ja-L735964-S1">
-        <Definition></Definition>
+        <Definition>natural number</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L738572">
       <Lemma writtenForm="あちら" partOfSpeech="h"/>
       <Sense id="L738572-S1" synset="wikidata-ja-L738572-S1" ili="wikidata-ja-L738572-S1">
-        <Definition></Definition>
+        <Definition>that way</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1022011">
@@ -6201,7 +6201,7 @@
     <LexicalEntry id="L1133043">
       <Lemma writtenForm="何か" partOfSpeech="h"/>
       <Sense id="L1133043-S1" synset="wikidata-ja-L1133043-S1" ili="wikidata-ja-L1133043-S1">
-        <Definition></Definition>
+        <Definition>uncertain or unspecified entity</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1150363">
@@ -6273,7 +6273,7 @@
     <LexicalEntry id="L1221847">
       <Lemma writtenForm="それでも" partOfSpeech="c"/>
       <Sense id="L1221847-S1" synset="wikidata-ja-L1221847-S1" ili="l1387-s1">
-        <Definition></Definition>
+        <Definition>einen Gegensatz ausdrückend</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1222111">
@@ -6602,7 +6602,7 @@
     <LexicalEntry id="L1412112">
       <Lemma writtenForm="罰当たり" partOfSpeech="a"/>
       <Sense id="L1412112-S1" synset="wikidata-ja-L1412112-S1" ili="wikidata-ja-L1412112-S1">
-        <Definition></Definition>
+        <Definition>to be damned</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1422342">
@@ -6746,33 +6746,42 @@
     </LexicalEntry>
     <Synset id="wikidata-ja-L550-S1" ili="wikidata-ja-L550-S1" partOfSpeech="y">
       <Definition>材料や手段を表す。「によって」</Definition>
+      <Example>ウィキペディアでいつかバイアグラを検索するなんて思ってもみなかったわ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L550-S2" ili="wikidata-ja-L550-S2" partOfSpeech="y">
       <Definition>動作や作用が行われる場所や時間を表す。「において」</Definition>
+      <Example>上野で飲む</Example>
     </Synset>
     <Synset id="wikidata-ja-L550-S3" ili="wikidata-ja-L550-S3" partOfSpeech="y">
       <Definition>原因や理由を表す。「のために」</Definition>
+      <Example>病気で休む</Example>
     </Synset>
     <Synset id="wikidata-ja-L564-S1" ili="wikidata-ja-L564-S1" partOfSpeech="y">
       <Definition>感動、詠嘆を表す</Definition>
+      <Example>やっと手紙が来たよ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L564-S2" ili="wikidata-ja-L564-S2" partOfSpeech="y">
       <Definition>呼びかけを表す</Definition>
+      <Example>早く行けよ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L564-S3" ili="wikidata-ja-L564-S3" partOfSpeech="y">
       <Definition>長音形「よう」で強調の意</Definition>
+      <Example>困ったよう。</Example>
     </Synset>
     <Synset id="wikidata-ja-L584-S1" ili="wikidata-ja-L584-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>頑張ったけれども、不合格だった</Example>
     </Synset>
     <Synset id="wikidata-ja-L584-S2" ili="wikidata-ja-L584-S2" partOfSpeech="y">
       <Definition>反対の二つのことえを対比的に表す</Definition>
+      <Example>親を大事にするのも良いけれど、奥さんのことも考えてあげてくださいね</Example>
     </Synset>
     <Synset id="wikidata-ja-L584-S3" ili="wikidata-ja-L584-S3" partOfSpeech="y">
       <Definition>事実を述べる語に接続詞て単に後に続けることを表す</Definition>
+      <Example>ここまで調査を続けてきたけれども、ようやく分かってきたことがある</Example>
     </Synset>
     <Synset id="wikidata-ja-L600-S1" ili="wikidata-ja-L600-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>so/therefore</Definition>
     </Synset>
     <Synset id="wikidata-ja-L607-S1" ili="wikidata-ja-L607-S1" partOfSpeech="c">
       <Definition>その上に</Definition>
@@ -6788,21 +6797,37 @@
     </Synset>
     <Synset id="wikidata-ja-L622-S1" ili="wikidata-ja-L622-S1" partOfSpeech="v">
       <Definition>否定、打消を表す。「ない」の別形</Definition>
+      <Example>行かず</Example>
+      <Example>行かぬ</Example>
+      <Example>ありません</Example>
+      <Example>行かぬとき</Example>
+      <Example>ありませんとき</Example>
+      <Example>行かねば</Example>
     </Synset>
     <Synset id="wikidata-ja-L624-S1" ili="wikidata-ja-L624-S1" partOfSpeech="v">
       <Definition>推量（伝聞情報を根拠とした推量）</Definition>
+      <Example>大変だろう</Example>
     </Synset>
     <Synset id="wikidata-ja-L624-S2" ili="wikidata-ja-L624-S2" partOfSpeech="v">
       <Definition>意志</Definition>
+      <Example>行こう</Example>
     </Synset>
     <Synset id="wikidata-ja-L624-S3" ili="wikidata-ja-L624-S3" partOfSpeech="v">
       <Definition>勧誘</Definition>
+      <Example>行こうか</Example>
     </Synset>
     <Synset id="wikidata-ja-L632-S1" ili="wikidata-ja-L632-S1" partOfSpeech="v">
       <Definition>伝聞（伝聞情報の伝達）</Definition>
+      <Example>言ったそうで</Example>
+      <Example>言ったそうだ</Example>
+      <Example>言ったそうなら</Example>
     </Synset>
     <Synset id="wikidata-ja-L632-S2" ili="wikidata-ja-L632-S2" partOfSpeech="v">
       <Definition>様態（外見による性質や状態の判断）</Definition>
+      <Example>言いたそうだろう</Example>
+      <Example>言いたそうだった</Example>
+      <Example>言いたそうに</Example>
+      <Example>言いたそうな</Example>
     </Synset>
     <Synset id="wikidata-ja-L676-S1" ili="wikidata-ja-L676-S1" partOfSpeech="h">
       <Definition>一人称単数、私</Definition>
@@ -6815,36 +6840,37 @@
     </Synset>
     <Synset id="wikidata-ja-L296172-S1" ili="wikidata-ja-L296172-S1" partOfSpeech="a">
       <Definition>あのよう（彼様）を見よ。あのよう。あの様子。</Definition>
+      <Example>金玉のう釣りあげてうっちぬべいと、あげえこげえに騒ぎやることよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L296502-S1" ili="wikidata-ja-L296502-S1" partOfSpeech="t">
       <Definition>荷が重すぎる。負担が過重だ。任務が重大過ぎる。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625227-S1" ili="wikidata-ja-L625227-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625734-S1" ili="wikidata-ja-L625734-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>when starting a phone call</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625739-S1" ili="wikidata-ja-L625739-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for numbers</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625739-S2" ili="wikidata-ja-L625739-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>general purpose counter</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625739-S3" ili="wikidata-ja-L625739-S3" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for three-dimensional objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L673284-S1" ili="wikidata-ja-L673284-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>agreeable</Definition>
     </Synset>
     <Synset id="wikidata-ja-L673419-S1" ili="wikidata-ja-L673419-S1" partOfSpeech="a">
       <Definition>怪奇な、怪異な</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678806-S1" ili="wikidata-ja-L678806-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>le nombre 12</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678825-S1" ili="wikidata-ja-L678825-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number fourteen</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679224-S1" ili="wikidata-ja-L679224-S1" partOfSpeech="h">
       <Definition>一人称単数、私</Definition>
@@ -6853,28 +6879,28 @@
       <Definition>人の数を数える語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686344-S1" ili="wikidata-ja-L686344-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686346-S1" ili="wikidata-ja-L686346-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686402-S1" ili="wikidata-ja-L686402-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the natural number 3</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686767-S1" ili="wikidata-ja-L686767-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686777-S1" ili="wikidata-ja-L686777-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691300-S1" ili="wikidata-ja-L691300-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>three flat objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L701031-S1" ili="wikidata-ja-L701031-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L734738-S1" ili="wikidata-ja-L734738-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1023930-S1" ili="wikidata-ja-L1023930-S1" partOfSpeech="n">
       <Definition>一度失敗したものが改めて勢いを盛り返してくること</Definition>
@@ -6889,13 +6915,15 @@
       <Definition>疑って問う語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1113769-S1" ili="wikidata-ja-L1113769-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for boxes</Definition>
+      <Example>一箱いくらですか？</Example>
     </Synset>
     <Synset id="wikidata-ja-L1115876-S1" ili="wikidata-ja-L1115876-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1148029-S1" ili="wikidata-ja-L1148029-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number between 7999 and 8001</Definition>
+      <Example>八千以上だ！</Example>
     </Synset>
     <Synset id="wikidata-ja-L1152040-S1" ili="wikidata-ja-L1152040-S1" partOfSpeech="t">
       <Definition>一心に思い込んで、人の言うことを聞かないひと</Definition>
@@ -6904,7 +6932,7 @@
       <Definition>われ、自分、自分の</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1157277-S1" ili="wikidata-ja-L1157277-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>in or to all locations</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1219898-S1" ili="wikidata-ja-L1219898-S1" partOfSpeech="m">
       <Definition>小動物などの数をかぞえる語</Definition>
@@ -6935,6 +6963,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1226489-S1" ili="wikidata-ja-L1226489-S1" partOfSpeech="n">
       <Definition>少しも飾らず天から与えられたままの性質を表すこと、自然のままに美しいこと</Definition>
+      <Example>天真爛漫な子供</Example>
     </Synset>
     <Synset id="wikidata-ja-L1227279-S1" ili="wikidata-ja-L1227279-S1" partOfSpeech="n">
       <Definition>自分の生命をも惜しまずに尽力すること</Definition>
@@ -6947,33 +6976,43 @@
     </Synset>
     <Synset id="wikidata-ja-L1235328-S1" ili="wikidata-ja-L1235328-S1" partOfSpeech="y">
       <Definition>順接の仮定条件を表す</Definition>
+      <Example>布団に入るとすぐに眠くなる</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235328-S2" ili="wikidata-ja-L1235328-S2" partOfSpeech="y">
       <Definition>恒常条件を表す</Definition>
+      <Example>天候不順になると野菜の値段が上がる</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235328-S3" ili="wikidata-ja-L1235328-S3" partOfSpeech="y">
       <Definition>継起的関係を表す</Definition>
+      <Example>バスから下りると、歩き出した</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235328-S4" ili="wikidata-ja-L1235328-S4" partOfSpeech="y">
       <Definition>ある事柄を仮定してそれに拘束されないことを表す</Definition>
+      <Example>たとえ反対されようと、我が道を行く</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235408-S1" ili="wikidata-ja-L1235408-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>知らんぷりを決め込んでいれば良いものを、わざわざ火中の栗を拾いに行くなんで馬鹿げている。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235414-S1" ili="wikidata-ja-L1235414-S1" partOfSpeech="y">
       <Definition>それだけと限定して程度を表す</Definition>
+      <Example>お会いするのは、もうこれっきりにさせてください。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235414-S2" ili="wikidata-ja-L1235414-S2" partOfSpeech="y">
       <Definition>打消表現を伴い「それを最後として」のように使われる</Definition>
+      <Example>海外へ行ったきり、音沙汰がなくなった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235414-S3" ili="wikidata-ja-L1235414-S3" partOfSpeech="y">
       <Definition>「~のまま」の意を表す</Definition>
+      <Example>事故で寝たきりになった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235644-S1" ili="wikidata-ja-L1235644-S1" partOfSpeech="y">
       <Definition>問いかけや確認を表す</Definition>
+      <Example>これはあなたのものじゃなくって？</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235644-S2" ili="wikidata-ja-L1235644-S2" partOfSpeech="y">
       <Definition>依頼を表す</Definition>
+      <Example>急ぐから、走って行って。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244232-S1" ili="wikidata-ja-L1244232-S1" partOfSpeech="c">
       <Definition>（原因を接続）</Definition>
@@ -7042,22 +7081,22 @@
       <Definition>国内の憂いと国外の患い</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1451509-S1" ili="wikidata-ja-L1451509-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>thickness</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1453885-S1" ili="wikidata-ja-L1453885-S1" partOfSpeech="i">
       <Definition>新年を祝う挨拶</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1458008-S1" ili="wikidata-ja-L1458008-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for days</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1458008-S2" ili="wikidata-ja-L1458008-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for days of a particular month</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1476380-S1" ili="wikidata-ja-L1476380-S1" partOfSpeech="n">
       <Definition>しとやかで雅やかなこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1491427-S1" ili="wikidata-ja-L1491427-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>2000</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1499965-S1" ili="wikidata-ja-L1499965-S1" partOfSpeech="m">
       <Definition>紙面や画面での折り返しまでの文字の並び数を表す語、行方向が左から右への横並びの場合は上端の行からの順序や数</Definition>
@@ -7133,33 +7172,43 @@
     </Synset>
     <Synset id="wikidata-ja-L544-S1" ili="wikidata-ja-L544-S1" partOfSpeech="y">
       <Definition>共に、あるいは相互に行う動作の相手を示す</Definition>
+      <Example>友人と会う</Example>
     </Synset>
     <Synset id="wikidata-ja-L544-S2" ili="wikidata-ja-L544-S2" partOfSpeech="y">
       <Definition>列挙を示す</Definition>
+      <Example>赤と黄色と緑</Example>
     </Synset>
     <Synset id="wikidata-ja-L544-S3" ili="wikidata-ja-L544-S3" partOfSpeech="y">
       <Definition>関連する対象を示す</Definition>
+      <Example>彼女とは幼馴染だ</Example>
     </Synset>
     <Synset id="wikidata-ja-L544-S4" ili="wikidata-ja-L544-S4" partOfSpeech="y">
       <Definition>発言などの引用を示す</Definition>
+      <Example>愛していると言った</Example>
     </Synset>
     <Synset id="wikidata-ja-L544-S5" ili="wikidata-ja-L544-S5" partOfSpeech="y">
       <Definition>判断結果や状態を示す</Definition>
+      <Example>これで作業は完了とみなす</Example>
     </Synset>
     <Synset id="wikidata-ja-L553-S1" ili="wikidata-ja-L553-S1" partOfSpeech="y">
       <Definition>動作の後にすぐ別の動作が生じることを表す</Definition>
+      <Example>駆けつけるやいなや、一気に飲み干した。</Example>
     </Synset>
     <Synset id="wikidata-ja-L553-S2" ili="wikidata-ja-L553-S2" partOfSpeech="y">
       <Definition>事物の並立を表す</Definition>
+      <Example>友人や同僚には感謝してもしきれない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L555-S1" ili="wikidata-ja-L555-S1" partOfSpeech="y">
       <Definition>不確実であるという意を表す（疑問文、否定文の場合）</Definition>
+      <Example>ややこしくて何が何やら分からなくなってしまいました。</Example>
     </Synset>
     <Synset id="wikidata-ja-L555-S2" ili="wikidata-ja-L555-S2" partOfSpeech="y">
       <Definition>事物を並立することを表す</Definition>
+      <Example>犬やら猫やら飼っている人もいる。</Example>
     </Synset>
     <Synset id="wikidata-ja-L563-S1" ili="wikidata-ja-L563-S1" partOfSpeech="y">
       <Definition>主張を強調する。反駁を表す。</Definition>
+      <Example>だから嫌われるのさ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L563-S2" ili="wikidata-ja-L563-S2" partOfSpeech="y">
       <Definition>気楽に構えたり、投げやりな気持ちをこめたりする</Definition>
@@ -7178,33 +7227,46 @@
     </Synset>
     <Synset id="wikidata-ja-L575-S1" ili="wikidata-ja-L575-S1" partOfSpeech="y">
       <Definition>ひとつ例示し、他の同類のものでも構わないことを表す</Definition>
+      <Example>まぁ、お茶でも飲んで行きなさい。</Example>
     </Synset>
     <Synset id="wikidata-ja-L575-S2" ili="wikidata-ja-L575-S2" partOfSpeech="y">
       <Definition>程度の軽いものを挙げて他を類推させることを表す</Definition>
+      <Example>少しでもお役に立てるように頑張ります。</Example>
     </Synset>
     <Synset id="wikidata-ja-L576-S1" ili="wikidata-ja-L576-S1" partOfSpeech="y">
       <Definition>下に打消表現を伴って他を排して限定や強調の意を表す</Definition>
+      <Example>病み上がりで、まだおかゆしか食べられない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L580-S1" ili="wikidata-ja-L580-S1" partOfSpeech="y">
       <Definition>対等の文節をつくる</Definition>
+      <Example>上着を着て、手袋を着ける</Example>
     </Synset>
     <Synset id="wikidata-ja-L580-S2" ili="wikidata-ja-L580-S2" partOfSpeech="y">
       <Definition>原因や理由を表す</Definition>
+      <Example>古くて使えない</Example>
     </Synset>
     <Synset id="wikidata-ja-L580-S3" ili="wikidata-ja-L580-S3" partOfSpeech="y">
       <Definition>逆接を表す</Definition>
+      <Example>二十歳にもなって、責任ある言動がとれないようでは残念である</Example>
     </Synset>
     <Synset id="wikidata-ja-L580-S4" ili="wikidata-ja-L580-S4" partOfSpeech="y">
       <Definition>用言に接続して補助用言を下に伴う</Definition>
+      <Example>手を繋いでいる</Example>
     </Synset>
     <Synset id="wikidata-ja-L581-S1" ili="wikidata-ja-L581-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>独りなのに、寂しくない</Example>
     </Synset>
     <Synset id="wikidata-ja-L585-S1" ili="wikidata-ja-L585-S1" partOfSpeech="y">
       <Definition>疑いや問や反語の意を表す</Definition>
+      <Example>子どもには分からなかったのだろうか。</Example>
+      <Example>明日から来られますか。</Example>
+      <Example>このままおめおめと顔を出せようか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L585-S2" ili="wikidata-ja-L585-S2" partOfSpeech="y">
       <Definition>詠嘆・願望・要求・勧誘を表す</Definition>
+      <Example>素敵な絵じゃないか。</Example>
+      <Example>外に行ってみないか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L603-S1" ili="l333953-s1" partOfSpeech="c">
       <Definition>（逆接）</Definition>
@@ -7213,16 +7275,22 @@
       <Definition>（前述を抽象化して後述する）</Definition>
     </Synset>
     <Synset id="wikidata-ja-L612-S1" ili="wikidata-ja-L612-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>by the way, incidentally</Definition>
     </Synset>
     <Synset id="wikidata-ja-L623-S1" ili="wikidata-ja-L623-S1" partOfSpeech="v">
       <Definition>~でない</Definition>
     </Synset>
     <Synset id="wikidata-ja-L627-S1" ili="wikidata-ja-L627-S1" partOfSpeech="v">
       <Definition>希望</Definition>
+      <Example>何食べたい？</Example>
+      <Example>食べたかろう</Example>
+      <Example>食べたくなる</Example>
+      <Example>食べたかった</Example>
+      <Example>食べたいとき</Example>
+      <Example>食べたければ</Example>
     </Synset>
     <Synset id="wikidata-ja-L654-S1" ili="wikidata-ja-L654-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>my</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679-S1" ili="l485-s1" partOfSpeech="h">
       <Definition>あの人。男性を指す。</Definition>
@@ -7241,57 +7309,58 @@
     </Synset>
     <Synset id="wikidata-ja-L315608-S1" ili="wikidata-ja-L315608-S1" partOfSpeech="a">
       <Definition>とても面白い、とてもうまい、見事だ、好ましい</Definition>
+      <Example>あなたは素敵な downtown boy</Example>
     </Synset>
     <Synset id="wikidata-ja-L625413-S1" ili="wikidata-ja-L625413-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>that</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625706-S1" ili="wikidata-ja-L625706-S1" partOfSpeech="m">
       <Definition>整数</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625706-S2" ili="wikidata-ja-L625706-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>complete absence of anything; the opposite of everything</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625708-S1" ili="wikidata-ja-L625708-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>eight</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625710-S1" ili="wikidata-ja-L625710-S1" partOfSpeech="m">
       <Definition>皆無であること</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626057-S1" ili="wikidata-ja-L626057-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates that the preceding number represents a number of people</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680105-S1" ili="wikidata-ja-L680105-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 9</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686615-S1" ili="wikidata-ja-L686615-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686775-S1" ili="wikidata-ja-L686775-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691293-S1" ili="wikidata-ja-L691293-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>immediately after</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691299-S1" ili="wikidata-ja-L691299-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>two flat objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L701030-S1" ili="wikidata-ja-L701030-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L701060-S1" ili="wikidata-ja-L701060-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L751461-S1" ili="wikidata-ja-L751461-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-ja-L763351-S1" ili="wikidata-ja-L763351-S1" partOfSpeech="m">
       <Definition>幾何学図形のひとつ</Definition>
     </Synset>
     <Synset id="wikidata-ja-L989136-S1" ili="wikidata-ja-L989136-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>therefore</Definition>
     </Synset>
     <Synset id="wikidata-ja-L989138-S1" ili="wikidata-ja-L989138-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>indicates a question</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1011289-S1" ili="wikidata-ja-L1011289-S1" partOfSpeech="c">
       <Definition>語句の累加を表す</Definition>
@@ -7309,19 +7378,21 @@
       <Definition>そなた、おまえ</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1093788-S1" ili="wikidata-ja-L1093788-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>posessing skill</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1116862-S1" ili="wikidata-ja-L1116862-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>two times</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1116862-S2" ili="wikidata-ja-L1116862-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>two repetitions</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1152147-S1" ili="wikidata-ja-L1152147-S1" partOfSpeech="i">
       <Definition>呼びかける声</Definition>
+      <Example>ああ、ちょっと待って、ストップ！</Example>
     </Synset>
     <Synset id="wikidata-ja-L1152147-S2" ili="wikidata-ja-L1152147-S2" partOfSpeech="i">
       <Definition>人に応える声</Definition>
+      <Example>ああ、そうだったな。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1152241-S1" ili="wikidata-ja-L1152241-S1" partOfSpeech="i">
       <Definition>ああ、そうではない</Definition>
@@ -7364,6 +7435,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1225149-S1" ili="wikidata-ja-L1225149-S1" partOfSpeech="c">
       <Definition>すなわち、とりもなおさず（語句の言い換え）</Definition>
+      <Example>信号機の赤は即ち止まれの意味だ</Example>
     </Synset>
     <Synset id="wikidata-ja-L1225791-S1" ili="wikidata-ja-L1225791-S1" partOfSpeech="n">
       <Definition>真正面から直接に説破すること、冒頭を置かずに直ちに本題に入ること</Definition>
@@ -7403,15 +7475,22 @@
     </Synset>
     <Synset id="wikidata-ja-L1235302-S1" ili="wikidata-ja-L1235302-S1" partOfSpeech="v">
       <Definition>伝聞（伝聞情報の伝達）</Definition>
+      <Example>晴れるそうでした</Example>
+      <Example>晴れるそうですから</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235302-S2" ili="wikidata-ja-L1235302-S2" partOfSpeech="v">
       <Definition>様態（外見による性質や状態の判断）</Definition>
+      <Example>泣きそうでしょう</Example>
+      <Example>泣きそうです</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235409-S1" ili="wikidata-ja-L1235409-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>気持ちは分かるものの、このまま進めるのはやはり無理がある。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235431-S1" ili="wikidata-ja-L1235431-S1" partOfSpeech="y">
       <Definition>詠嘆、呼び掛け、促しを表す</Definition>
+      <Example>娘や、大きく育つんだぞ。</Example>
+      <Example>みんなで行こうや。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244198-S1" ili="wikidata-ja-L1244198-S1" partOfSpeech="c">
       <Definition>語句の累加を表す</Definition>
@@ -7553,30 +7632,39 @@
     </Synset>
     <Synset id="wikidata-ja-L571-S1" ili="wikidata-ja-L571-S1" partOfSpeech="y">
       <Definition>あるものを例示して他にまだあることを表す</Definition>
+      <Example>お気づきの点などありましたらお知らせください。</Example>
     </Synset>
     <Synset id="wikidata-ja-L571-S2" ili="wikidata-ja-L571-S2" partOfSpeech="y">
       <Definition>例示するものが同等の事柄であることを表す</Definition>
+      <Example>野菜や乳製品などが値上がりしている。</Example>
     </Synset>
     <Synset id="wikidata-ja-L571-S3" ili="wikidata-ja-L571-S3" partOfSpeech="y">
       <Definition>例示の対象を「そのことはよくない」のように否定的に表す</Definition>
+      <Example>自分なんかが参加してもよいものか躊躇う。</Example>
     </Synset>
     <Synset id="wikidata-ja-L577-S1" ili="wikidata-ja-L577-S1" partOfSpeech="y">
       <Definition>一例を上げて他を類推させることを表す</Definition>
+      <Example>厳かな会議で、咳払いさえ躊躇われた。</Example>
     </Synset>
     <Synset id="wikidata-ja-L577-S2" ili="wikidata-ja-L577-S2" partOfSpeech="y">
       <Definition>追加や至り及ぶことを表す</Definition>
+      <Example>なぜ私は大事な本でさえ捨ててしまったのか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L577-S3" ili="wikidata-ja-L577-S3" partOfSpeech="y">
       <Definition>仮定条件であるものだけを限定し他を顧みないことを表す</Definition>
+      <Example>自分さえ良ければいいのだ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L582-S1" ili="wikidata-ja-L582-S1" partOfSpeech="y">
       <Definition>前が後で示す動作や作用の原因や理由であることを表す</Definition>
+      <Example>誤りを放置するわけには行かないので、直ちに訂正した</Example>
+      <Example>考え事をしていたんで、返事が遅れたんだ</Example>
     </Synset>
     <Synset id="wikidata-ja-L583-S1" ili="wikidata-ja-L583-S1" partOfSpeech="y">
       <Definition>前に対して後が予想外であることを表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L586-S1" ili="wikidata-ja-L586-S1" partOfSpeech="y">
       <Definition>一言いった後に、自分の考えをほのめかす</Definition>
+      <Example>ここから始めると良いのでしょうかね。よくは分かりませんけれども。</Example>
     </Synset>
     <Synset id="wikidata-ja-L599-S1" ili="wikidata-ja-L599-S1" partOfSpeech="y">
       <Definition>東北方言などで、動作や作用の向けられる方向・場所・相手を示す</Definition>
@@ -7586,30 +7674,37 @@
     </Synset>
     <Synset id="wikidata-ja-L634-S1" ili="wikidata-ja-L634-S1" partOfSpeech="v">
       <Definition>推量（伝聞情報を根拠とした推量）</Definition>
+      <Example>早いらしく</Example>
+      <Example>早いらしゅう</Example>
+      <Example>早いらしかった</Example>
+      <Example>早いらしい</Example>
+      <Example>早いらしいこと</Example>
     </Synset>
     <Synset id="wikidata-ja-L650-S1" ili="wikidata-ja-L650-S1" partOfSpeech="a">
       <Definition>取り上げて言うほどのこと、程度が並外れている様子</Definition>
+      <Example>たいした男だ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L294893-S1" ili="wikidata-ja-L294893-S1" partOfSpeech="n">
       <Definition>諸法の本体は空であるが、因縁の相続によって歴然として存在し、そのまま有る、ということ。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L296501-S1" ili="wikidata-ja-L296501-S1" partOfSpeech="t">
       <Definition>責任が除かれる。義務が完了する。重荷が下りる。</Definition>
+      <Example>御念が入って忝い、私の荷が下りました</Example>
     </Synset>
     <Synset id="wikidata-ja-L346020-S1" ili="wikidata-ja-L346020-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>greeting used when answering a telephone</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625255-S1" ili="wikidata-ja-L625255-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>six</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625285-S1" ili="l337-s1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625400-S1" ili="wikidata-ja-L625400-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>linguistic particle used to show agreement, acceptance, consensus, appreciation or an affirmative opinion</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626231-S1" ili="wikidata-ja-L626231-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>welcome</Definition>
     </Synset>
     <Synset id="wikidata-ja-L641164-S1" ili="wikidata-ja-L641164-S1" partOfSpeech="h">
       <Definition>同輩に用いる敬称、あなた</Definition>
@@ -7621,28 +7716,28 @@
       <Definition>主人、主君</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686409-S2" ili="wikidata-ja-L686409-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>the sound &quot;ha&quot;</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686770-S1" ili="wikidata-ja-L686770-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number 5</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689123-S1" ili="wikidata-ja-L689123-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for leaves or pieces of paper</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689123-S2" ili="wikidata-ja-L689123-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for boats</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691140-S1" ili="wikidata-ja-L691140-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>when starting a phone call</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691298-S1" ili="wikidata-ja-L691298-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one flat object</Definition>
     </Synset>
     <Synset id="wikidata-ja-L735976-S1" ili="wikidata-ja-L735976-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1003453-S1" ili="wikidata-ja-L1003453-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>lively, bustling, active</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1021016-S1" ili="wikidata-ja-L1021016-S1" partOfSpeech="n">
       <Definition>古い物事を研究して、新しい知識を開くこと</Definition>
@@ -7669,28 +7764,29 @@
       <Definition>驚いたり落胆したりしたときに出す声</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1113522-S1" ili="wikidata-ja-L1113522-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one thing</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1113720-S1" ili="wikidata-ja-L1113720-S1" partOfSpeech="a">
       <Definition>客体を土台として認識・観察・思考等を行うこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1130396-S1" ili="wikidata-ja-L1130396-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>deserving of regret or sorrow</Definition>
+      <Example>残念だが無理だ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S1" ili="l1143892-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>relexive pronoun for the first person</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S2" ili="l1143893-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>relexive pronoun for the second person</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S3" ili="wikidata-ja-L1143885-S3" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>relexive pronoun</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S4" ili="wikidata-ja-L1143885-S4" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>relexive pronoun for the third person</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S5" ili="l618580-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>pronoun used to refer reflexively to a hypothetical or generic person</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1143885-S6" ili="wikidata-ja-L1143885-S6" partOfSpeech="h">
       <Definition>一人称単数、私</Definition>
@@ -7699,10 +7795,16 @@
       <Definition>二人称単数</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1162001-S1" ili="wikidata-ja-L1162001-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number between 89 and 91</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1218678-S1" ili="wikidata-ja-L1218678-S1" partOfSpeech="a">
       <Definition>どう見ても明白であるさま</Definition>
+      <Example>誰の目にも明らかだろう。</Example>
+      <Example>追ってくる気がないのは明らかだった。</Example>
+      <Example>地球の円形なことは明らかである。</Example>
+      <Example>豊富なエピソードによって明らかにされる。</Example>
+      <Example>大混乱を招くのは火を見るよりも明らかだ。</Example>
+      <Example>明らかな特徴の一つといってよいだろう。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1218678-S2" ili="wikidata-ja-L1218678-S2" partOfSpeech="a">
       <Definition>光が満ちてはっきり見える様子</Definition>
@@ -7742,6 +7844,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1226790-S1" ili="wikidata-ja-L1226790-S1" partOfSpeech="n">
       <Definition>絶えず旅行すること</Definition>
+      <Example>その当時の不遇政客の轍を踏んで南船北馬席暖まる遑なしと云う有様であったが</Example>
     </Synset>
     <Synset id="wikidata-ja-L1230882-S1" ili="wikidata-ja-L1230882-S1" partOfSpeech="c">
       <Definition>そうではあるが、されど</Definition>
@@ -7751,6 +7854,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1230890-S2" ili="wikidata-ja-L1230890-S2" partOfSpeech="a">
       <Definition>広く限りない様子</Definition>
+      <Example>彼の前途は洋々としている。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1230890-S3" ili="wikidata-ja-L1230890-S3" partOfSpeech="a">
       <Definition>善美な様子</Definition>
@@ -7763,12 +7867,16 @@
     </Synset>
     <Synset id="wikidata-ja-L1235400-S1" ili="wikidata-ja-L1235400-S1" partOfSpeech="y">
       <Definition>前が後の動作や作用の原因や理由であることを表す</Definition>
+      <Example>辛いから涙が出た</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235400-S2" ili="wikidata-ja-L1235400-S2" partOfSpeech="y">
       <Definition>前述を事実と認めた上で決意や判断を表す</Definition>
+      <Example>明確な事実を突きつけられたからには、動かないわけにはいかない</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235432-S1" ili="wikidata-ja-L1235432-S1" partOfSpeech="y">
       <Definition>軽く念押ししたり、自信をもって相手を軽んずることを表す</Definition>
+      <Example>立ち呑み屋なんかはごめんだぜ。</Example>
+      <Example>好きな方を選んでいいぜ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235636-S1" ili="wikidata-ja-L1235636-S1" partOfSpeech="t">
       <Definition>値段を安くしてたくさん売ること</Definition>
@@ -7813,7 +7921,7 @@
       <Definition>名刺の代わりに持参する手土産のこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1313492-S1" ili="wikidata-ja-L1313492-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for temples</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1317021-S1" ili="wikidata-ja-L1317021-S1" partOfSpeech="t">
       <Definition>避けることも退くこともできない様子</Definition>
@@ -7855,7 +7963,7 @@
       <Definition>誇大に言うこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1371793-S1" ili="wikidata-ja-L1371793-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for pairs</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1372238-S1" ili="wikidata-ja-L1372238-S1" partOfSpeech="m">
       <Definition>1000メートル</Definition>
@@ -7867,7 +7975,7 @@
       <Definition>片意地を張る様子</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1409189-S1" ili="wikidata-ja-L1409189-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bonsoir</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1409809-S1" ili="wikidata-ja-L1409809-S1" partOfSpeech="n">
       <Definition>攻めるのが難しくなかなか陥落しないこと</Definition>
@@ -7888,7 +7996,7 @@
       <Definition>要領を得ず理解しがたいこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1457950-S1" ili="wikidata-ja-L1457950-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for food items</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1476377-S1" ili="wikidata-ja-L1476377-S1" partOfSpeech="t">
       <Definition>人の世の栄枯盛衰がはかないことのたとえ</Definition>
@@ -7901,6 +8009,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1476600-S1" ili="wikidata-ja-L1476600-S1" partOfSpeech="a">
       <Definition>（主に気象や気温が）寒くない</Definition>
+      <Example>暖かな毛布</Example>
     </Synset>
     <Synset id="wikidata-ja-L1482367-S1" ili="wikidata-ja-L1482367-S1" partOfSpeech="t">
       <Definition>文明の進歩によって発明応用される器械など</Definition>
@@ -7979,60 +8088,89 @@
     </Synset>
     <Synset id="wikidata-ja-L560-S1" ili="wikidata-ja-L560-S1" partOfSpeech="y">
       <Definition>詠嘆や柔らかい断定を表す</Definition>
+      <Example>びっくりしたわ。</Example>
+      <Example>もう帰るわね。</Example>
     </Synset>
     <Synset id="wikidata-ja-L562-S1" ili="wikidata-ja-L562-S1" partOfSpeech="y">
       <Definition>疑問詞に付いて不定のものを表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L568-S1" ili="wikidata-ja-L568-S1" partOfSpeech="y">
       <Definition>限定することを表す</Definition>
+      <Example>お水を一杯だけ頂けませんか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L568-S2" ili="wikidata-ja-L568-S2" partOfSpeech="y">
       <Definition>程度を表す</Definition>
+      <Example>家族四人が住めるだけの家を建てた。</Example>
     </Synset>
     <Synset id="wikidata-ja-L579-S1" ili="wikidata-ja-L579-S1" partOfSpeech="y">
       <Definition>順接の仮定条件を表す</Definition>
+      <Example>こう言えばああ言う</Example>
     </Synset>
     <Synset id="wikidata-ja-L579-S2" ili="wikidata-ja-L579-S2" partOfSpeech="y">
       <Definition>恒常条件を表す</Definition>
+      <Example>人の顔を見れば文句を言う</Example>
     </Synset>
     <Synset id="wikidata-ja-L579-S3" ili="wikidata-ja-L579-S3" partOfSpeech="y">
       <Definition>順接の確定条件を表す</Definition>
+      <Example>苦労があればこそ楽しみが生まれる</Example>
     </Synset>
     <Synset id="wikidata-ja-L579-S4" ili="wikidata-ja-L579-S4" partOfSpeech="y">
       <Definition>同趣の事柄を並べることを表す</Definition>
+      <Example>良いこともあれば悪いこともあった</Example>
     </Synset>
     <Synset id="wikidata-ja-L579-S5" ili="wikidata-ja-L579-S5" partOfSpeech="y">
       <Definition>順接の仮定条件</Definition>
+      <Example>寄らば大樹の陰</Example>
     </Synset>
     <Synset id="wikidata-ja-L592-S1" ili="wikidata-ja-L592-S1" partOfSpeech="y">
       <Definition>ある動作と同時に他の動作を行うことを表す</Definition>
+      <Example>相手の顔色を伺いつつお願いした。</Example>
     </Synset>
     <Synset id="wikidata-ja-L592-S2" ili="wikidata-ja-L592-S2" partOfSpeech="y">
       <Definition>ある動作が継続、実現しようとしていることを表す</Definition>
+      <Example>自分が負けつつあることを悟った。</Example>
     </Synset>
     <Synset id="wikidata-ja-L592-S3" ili="wikidata-ja-L592-S3" partOfSpeech="y">
       <Definition>二つの動作が逆接であることを表す</Definition>
+      <Example>目先の対応はしつつ、本当に大丈夫かどうか不安は拭えない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L593-S1" ili="wikidata-ja-L593-S1" partOfSpeech="y">
       <Definition>自分の意見を強調、念押しすることを表す</Definition>
+      <Example>みんな、行くぞ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L597-S1" ili="wikidata-ja-L597-S1" partOfSpeech="y">
       <Definition>反論や自己主張を表す</Definition>
+      <Example>だって、本当に分からないんだもん。</Example>
     </Synset>
     <Synset id="wikidata-ja-L606-S1" ili="wikidata-ja-L606-S1" partOfSpeech="c">
       <Definition>そして（単純列挙）</Definition>
     </Synset>
     <Synset id="wikidata-ja-L628-S1" ili="wikidata-ja-L628-S1" partOfSpeech="v">
       <Definition>希望</Definition>
+      <Example>会いたがらない</Example>
+      <Example>会いたがろうと</Example>
+      <Example>会いたがります</Example>
+      <Example>会いたがった</Example>
+      <Example>会いたがる</Example>
+      <Example>会いたがるとき</Example>
+      <Example>会いたがれば</Example>
     </Synset>
     <Synset id="wikidata-ja-L629-S1" ili="wikidata-ja-L629-S1" partOfSpeech="v">
       <Definition>過去・完了・確認</Definition>
+      <Example>育ったろう</Example>
+      <Example>喜んだろう</Example>
+      <Example>育った</Example>
+      <Example>喜んだ</Example>
+      <Example>育ったとき</Example>
+      <Example>喜んだとき</Example>
+      <Example>育ったら</Example>
+      <Example>喜んだら</Example>
     </Synset>
     <Synset id="wikidata-ja-L649-S1" ili="wikidata-ja-L649-S1" partOfSpeech="a">
       <Definition>世にいうところの、俗に云う</Definition>
     </Synset>
     <Synset id="wikidata-ja-L670-S1" ili="wikidata-ja-L670-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>our</Definition>
     </Synset>
     <Synset id="wikidata-ja-L681-S1" ili="wikidata-ja-L681-S1" partOfSpeech="h">
       <Definition>一人称単数</Definition>
@@ -8041,10 +8179,11 @@
       <Definition>二人称単数</Definition>
     </Synset>
     <Synset id="wikidata-ja-L2454-S1" ili="wikidata-ja-L2454-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>full of energy</Definition>
     </Synset>
     <Synset id="wikidata-ja-L2454-S2" ili="wikidata-ja-L2454-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>of good health</Definition>
+      <Example>元気ですか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L21613-S1" ili="wikidata-ja-L21613-S1" partOfSpeech="a">
       <Definition>風流、風雅、優美であること</Definition>
@@ -8062,7 +8201,8 @@
       <Definition>荷が重すぎる。負担が過重だ。任務が重大過ぎる。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L307238-S1" ili="l57-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>which thing, which object</Definition>
+      <Example>何すんだよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L310591-S1" ili="l310592-s1" partOfSpeech="i">
       <Definition>朝、人に挨拶する言葉</Definition>
@@ -8071,7 +8211,7 @@
       <Definition>早いことの敬語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L310609-S1" ili="l310610-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>salutation used in the evening</Definition>
     </Synset>
     <Synset id="wikidata-ja-L404524-S1" ili="wikidata-ja-L404524-S1" partOfSpeech="h">
       <Definition>あの人たち</Definition>
@@ -8083,58 +8223,58 @@
       <Definition>最も自分に近い物事を指して言う語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625704-S1" ili="wikidata-ja-L625704-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>ten</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S1" ili="wikidata-ja-L625738-S1" partOfSpeech="m">
       <Definition>個数を表す語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S2" ili="wikidata-ja-L625738-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for military units</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S3" ili="wikidata-ja-L625738-S3" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for three-dimensional objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S4" ili="wikidata-ja-L625738-S4" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for empty containers</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S5" ili="wikidata-ja-L625738-S5" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for meteorites</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S6" ili="wikidata-ja-L625738-S6" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for planets</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S7" ili="wikidata-ja-L625738-S7" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for clouds</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S8" ili="wikidata-ja-L625738-S8" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for typhoons</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S9" ili="wikidata-ja-L625738-S9" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for tornadoes</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S10" ili="wikidata-ja-L625738-S10" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for cells</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S11" ili="wikidata-ja-L625738-S11" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for viruses</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625738-S12" ili="wikidata-ja-L625738-S12" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for bacteria</Definition>
     </Synset>
     <Synset id="wikidata-ja-L673668-S1" ili="wikidata-ja-L673668-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>forty-two</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678808-S1" ili="wikidata-ja-L678808-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 13</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678829-S1" ili="wikidata-ja-L678829-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 15</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686609-S1" ili="wikidata-ja-L686609-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689088-S1" ili="wikidata-ja-L689088-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for waves</Definition>
     </Synset>
     <Synset id="wikidata-ja-L718794-S1" ili="wikidata-ja-L718794-S1" partOfSpeech="a">
       <Definition>さまざまであること</Definition>
@@ -8165,15 +8305,16 @@
     </Synset>
     <Synset id="wikidata-ja-L1077740-S1" ili="wikidata-ja-L1077740-S1" partOfSpeech="c">
       <Definition>ならびに、及び、同様に</Definition>
+      <Example>それにともない、都営三田線の延長、東急目黒線との直通運転も同じく延期となった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1150494-S1" ili="wikidata-ja-L1150494-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>weired, strange</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1191912-S1" ili="wikidata-ja-L1191912-S1" partOfSpeech="t">
       <Definition>ゆっくりと同じ調子で歩く</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1195944-S1" ili="wikidata-ja-L1195944-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>imitates barking of a dog</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1218973-S1" ili="wikidata-ja-L1218973-S1" partOfSpeech="v">
       <Definition>断定をあらわす</Definition>
@@ -8273,18 +8414,23 @@
     </Synset>
     <Synset id="wikidata-ja-L1235423-S1" ili="wikidata-ja-L1235423-S1" partOfSpeech="y">
       <Definition>同程度の量が繰り返されたり割り当てられたりすることを表す</Definition>
+      <Example>ショートケーキをひとり一個ずつ食べた。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235426-S1" ili="wikidata-ja-L1235426-S1" partOfSpeech="y">
       <Definition>感動、詠嘆を表す</Definition>
+      <Example>よく分かったな。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235426-S2" ili="wikidata-ja-L1235426-S2" partOfSpeech="y">
       <Definition>念押しを表す</Definition>
+      <Example>お風呂はもう入ったな。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235649-S1" ili="wikidata-ja-L1235649-S1" partOfSpeech="y">
       <Definition>強い否定を表す</Definition>
+      <Example>酔ってなんかいるもんか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235650-S1" ili="wikidata-ja-L1235650-S1" partOfSpeech="y">
       <Definition>無念さを含んだ詠嘆を表す</Definition>
+      <Example>あと一時間早ければ間に合ったものを。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244540-S1" ili="wikidata-ja-L1244540-S1" partOfSpeech="t">
       <Definition>金属（鉄）製の草鞋、とことん歩き回っても履き潰れないことの喩え</Definition>
@@ -8455,52 +8601,66 @@
       <Definition>解雇する</Definition>
     </Synset>
     <Synset id="wikidata-ja-L543-S1" ili="wikidata-ja-L543-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>at (a place or time), in, on, during</Definition>
     </Synset>
     <Synset id="wikidata-ja-L543-S2" ili="wikidata-ja-L543-S2" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>to (a direction or state), towards, into</Definition>
     </Synset>
     <Synset id="wikidata-ja-L543-S3" ili="wikidata-ja-L543-S3" partOfSpeech="y">
       <Definition>目的の場所を示す</Definition>
+      <Example>会社に着いた</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S4" ili="wikidata-ja-L543-S4" partOfSpeech="y">
       <Definition>行動の相手を示す</Definition>
+      <Example>知人に頼んだ</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S5" ili="wikidata-ja-L543-S5" partOfSpeech="y">
       <Definition>所在の場所を示す</Definition>
+      <Example>机に本がある</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S6" ili="wikidata-ja-L543-S6" partOfSpeech="y">
       <Definition>感情や状態の原因や根拠を示す</Definition>
+      <Example>方針に賛同する</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S7" ili="wikidata-ja-L543-S7" partOfSpeech="y">
       <Definition>行動の主体を示す</Definition>
+      <Example>あなたに分かりますか？</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S8" ili="wikidata-ja-L543-S8" partOfSpeech="y">
       <Definition>行動や所有の対象を示す</Definition>
+      <Example>友人に聞いた</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S9" ili="wikidata-ja-L543-S9" partOfSpeech="y">
       <Definition>手段、内容、付着物を示す</Definition>
+      <Example>箱に入れる</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S10" ili="wikidata-ja-L543-S10" partOfSpeech="y">
       <Definition>時間や時点を示す</Definition>
+      <Example>7時に起きた</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S11" ili="wikidata-ja-L543-S11" partOfSpeech="y">
       <Definition>領域を示す</Definition>
+      <Example>技術者に向いている</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S12" ili="wikidata-ja-L543-S12" partOfSpeech="y">
       <Definition>目的を示す</Definition>
+      <Example>遊びに行く</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S13" ili="wikidata-ja-L543-S13" partOfSpeech="y">
       <Definition>役割を示す</Definition>
+      <Example>貯蓄に回す</Example>
     </Synset>
     <Synset id="wikidata-ja-L543-S14" ili="wikidata-ja-L543-S14" partOfSpeech="y">
       <Definition>割合を示す</Definition>
+      <Example>国民の5人に1人</Example>
     </Synset>
     <Synset id="wikidata-ja-L548-S1" ili="wikidata-ja-L548-S1" partOfSpeech="y">
       <Definition>主格を表す語</Definition>
+      <Example>鳥が鳴く</Example>
     </Synset>
     <Synset id="wikidata-ja-L548-S2" ili="wikidata-ja-L548-S2" partOfSpeech="y">
       <Definition>対象格を示す</Definition>
+      <Example>水が飲みたい</Example>
     </Synset>
     <Synset id="wikidata-ja-L548-S3" ili="wikidata-ja-L548-S3" partOfSpeech="y">
       <Definition>「にある」の意を表す語</Definition>
@@ -8510,57 +8670,82 @@
     </Synset>
     <Synset id="wikidata-ja-L551-S1" ili="l2168-s1" partOfSpeech="y">
       <Definition>場所や時間・作用の起点を表す</Definition>
+      <Example>夏頃から体調を崩した</Example>
     </Synset>
     <Synset id="wikidata-ja-L551-S2" ili="wikidata-ja-L551-S2" partOfSpeech="y">
       <Definition>主語文節をつくる</Definition>
+      <Example>会社から連絡が行く</Example>
     </Synset>
     <Synset id="wikidata-ja-L567-S1" ili="wikidata-ja-L567-S1" partOfSpeech="y">
       <Definition>動作や作用の至り及ぶところを表す</Definition>
+      <Example>駅まで行きましょう。</Example>
     </Synset>
     <Synset id="wikidata-ja-L567-S2" ili="wikidata-ja-L567-S2" partOfSpeech="y">
       <Definition>限度を表す。「だけ」</Definition>
+      <Example>当初予定どおりに取り組んだまでです。</Example>
     </Synset>
     <Synset id="wikidata-ja-L567-S3" ili="wikidata-ja-L567-S3" partOfSpeech="y">
       <Definition>添加を表す</Definition>
+      <Example>老人までが立ち上がって踊りだした。</Example>
     </Synset>
     <Synset id="wikidata-ja-L588-S1" ili="wikidata-ja-L588-S1" partOfSpeech="y">
       <Definition>原因や理由を表す</Definition>
+      <Example>このあたりは便利だし、住みやすい</Example>
     </Synset>
     <Synset id="wikidata-ja-L588-S2" ili="wikidata-ja-L588-S2" partOfSpeech="y">
       <Definition>事物を並立して強調する</Definition>
+      <Example>宿題は忘れるし、先生には怒られるしで散々だった</Example>
     </Synset>
     <Synset id="wikidata-ja-L588-S3" ili="wikidata-ja-L588-S3" partOfSpeech="y">
       <Definition>軽侮の否定を表す</Definition>
+      <Example>子どもじゃあるまいし、ゲームなんか貰っても嬉しくないよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L588-S4" ili="wikidata-ja-L588-S4" partOfSpeech="y">
       <Definition>終助詞的な用法</Definition>
+      <Example>もういいよ、手遅れだし。</Example>
     </Synset>
     <Synset id="wikidata-ja-L605-S1" ili="wikidata-ja-L605-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>joins words and sentence parts together</Definition>
     </Synset>
     <Synset id="wikidata-ja-L605-S2" ili="l11799-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>In addition, in addition to</Definition>
     </Synset>
     <Synset id="wikidata-ja-L605-S3" ili="l333924-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>in addition to what has been said previously</Definition>
     </Synset>
     <Synset id="wikidata-ja-L605-S4" ili="l1386-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>connects at least two alternatives</Definition>
     </Synset>
     <Synset id="wikidata-ja-L621-S1" ili="wikidata-ja-L621-S1" partOfSpeech="v">
       <Definition>打消・否定を表す</Definition>
+      <Example>しなかろう</Example>
+      <Example>しなくなる</Example>
+      <Example>しなかった</Example>
+      <Example>しない</Example>
+      <Example>しないとき</Example>
+      <Example>しなければ</Example>
     </Synset>
     <Synset id="wikidata-ja-L621-S2" ili="wikidata-ja-L621-S2" partOfSpeech="v">
       <Definition>「か」を伴って勧誘を表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L630-S1" ili="wikidata-ja-L630-S1" partOfSpeech="v">
       <Definition>断定</Definition>
+      <Example>雨だろう</Example>
+      <Example>雨だった</Example>
+      <Example>雨で、</Example>
+      <Example>雨だ</Example>
+      <Example>雨なのか</Example>
+      <Example>雨ならば</Example>
+      <Example>雨なれど</Example>
+      <Example>雨やろ</Example>
+      <Example>雨やった</Example>
+      <Example>雨や</Example>
     </Synset>
     <Synset id="wikidata-ja-L661-S1" ili="wikidata-ja-L661-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>big</Definition>
     </Synset>
     <Synset id="wikidata-ja-L662-S1" ili="wikidata-ja-L662-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>small</Definition>
     </Synset>
     <Synset id="wikidata-ja-L25044-S1" ili="wikidata-ja-L25044-S1" partOfSpeech="a">
       <Definition>都合が良いこと</Definition>
@@ -8569,10 +8754,10 @@
       <Definition>負担が重い。任務が重大だ。責任が重い。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L307232-S1" ili="wikidata-ja-L307232-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>liked or favoured</Definition>
     </Synset>
     <Synset id="wikidata-ja-L307232-S2" ili="wikidata-ja-L307232-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>to have a strong, positive emotion based on affection</Definition>
     </Synset>
     <Synset id="wikidata-ja-L579545-S1" ili="l3229-s1" partOfSpeech="h">
       <Definition>自分より少し離れた物事を指して言う語</Definition>
@@ -8581,25 +8766,25 @@
       <Definition>直前に述べた物事を指して言う語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625229-S1" ili="wikidata-ja-L625229-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625414-S1" ili="wikidata-ja-L625414-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>this</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625725-S1" ili="wikidata-ja-L625725-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates the preceiding number is an amount of years</Definition>
     </Synset>
     <Synset id="wikidata-ja-L640386-S1" ili="wikidata-ja-L640386-S1" partOfSpeech="h">
       <Definition>決まっていなかったり不特定の物事を指す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L641752-S1" ili="wikidata-ja-L641752-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L643742-S1" ili="wikidata-ja-L643742-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>tolerable</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678762-S1" ili="wikidata-ja-L678762-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>le nombre 11</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678964-S1" ili="wikidata-ja-L678964-S1" partOfSpeech="m">
       <Definition>車輪の数</Definition>
@@ -8608,55 +8793,56 @@
       <Definition>花の数</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679425-S1" ili="wikidata-ja-L679425-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 9</Definition>
     </Synset>
     <Synset id="wikidata-ja-L685723-S1" ili="wikidata-ja-L685723-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L685908-S1" ili="wikidata-ja-L685908-S1" partOfSpeech="a">
       <Definition>今までになくできたばかりである</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686295-S1" ili="wikidata-ja-L686295-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686295-S2" ili="wikidata-ja-L686295-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one thing</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686347-S1" ili="wikidata-ja-L686347-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686608-S1" ili="wikidata-ja-L686608-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686612-S1" ili="wikidata-ja-L686612-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686768-S1" ili="wikidata-ja-L686768-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>4</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686773-S1" ili="wikidata-ja-L686773-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689194-S1" ili="wikidata-ja-L689194-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for long and narrow objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689309-S1" ili="wikidata-ja-L689309-S1" partOfSpeech="m">
       <Definition>人の数を数える語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L726734-S1" ili="wikidata-ja-L726734-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>a colloquial or informal way to say goodbye or farewell</Definition>
     </Synset>
     <Synset id="wikidata-ja-L735977-S1" ili="wikidata-ja-L735977-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1001480-S1" ili="wikidata-ja-L1001480-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>having fame</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1034603-S1" ili="wikidata-ja-L1034603-S1" partOfSpeech="t">
       <Definition>貧しいときから連れ添って苦労をともにした妻</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1036900-S1" ili="wikidata-ja-L1036900-S1" partOfSpeech="n">
       <Definition>相手を倒さずにはおかないほどの深い恨み</Definition>
+      <Example>不倶戴天の敵</Example>
     </Synset>
     <Synset id="wikidata-ja-L1037298-S1" ili="wikidata-ja-L1037298-S1" partOfSpeech="a">
       <Definition>間が透けてばらばらなこと、繁っていないこと</Definition>
@@ -8671,7 +8857,7 @@
       <Definition>日数を数える語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1133042-S1" ili="wikidata-ja-L1133042-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>uncertain or unspecified entity</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1149541-S1" ili="wikidata-ja-L1149541-S1" partOfSpeech="h">
       <Definition>三人称代名詞で他人のぞんざいな呼称</Definition>
@@ -8686,7 +8872,7 @@
       <Definition>兄弟・妻子など、常に親愛する人と離別する悲しみのこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1155141-S1" ili="wikidata-ja-L1155141-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>salutation or greeting</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1220288-S1" ili="wikidata-ja-L1220288-S1" partOfSpeech="t">
       <Definition>トントン拍子に調子の良いこと</Definition>
@@ -8735,6 +8921,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1226809-S1" ili="wikidata-ja-L1226809-S1" partOfSpeech="t">
       <Definition>人がまだ成し遂げていないことを率先して行うこと</Definition>
+      <Example>破天荒な生き様</Example>
     </Synset>
     <Synset id="wikidata-ja-L1226809-S2" ili="wikidata-ja-L1226809-S2" partOfSpeech="t">
       <Definition>（原義）混沌たる天地を破ること</Definition>
@@ -8756,24 +8943,31 @@
     </Synset>
     <Synset id="wikidata-ja-L1235401-S1" ili="wikidata-ja-L1235401-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>明け方の五時だったが、すぐさま飛び起きた。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235401-S2" ili="wikidata-ja-L1235401-S2" partOfSpeech="y">
       <Definition>反対の二つのことを対比的に表す</Definition>
+      <Example>見た目は悪いが、びっくりするほど美味しかった</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235401-S3" ili="wikidata-ja-L1235401-S3" partOfSpeech="y">
       <Definition>前述の語を単に後に続けることを表す</Definition>
+      <Example>話を聞きましたが、大変だったようですね</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235642-S1" ili="wikidata-ja-L1235642-S1" partOfSpeech="y">
       <Definition>断定を表す</Definition>
+      <Example>忙しいのよ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235642-S2" ili="wikidata-ja-L1235642-S2" partOfSpeech="y">
       <Definition>問いや確認を表す</Definition>
+      <Example>何やってるの。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235642-S3" ili="wikidata-ja-L1235642-S3" partOfSpeech="y">
       <Definition>「な」由来の「のう」</Definition>
+      <Example>そういうことじゃないんだがのう。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235651-S1" ili="wikidata-ja-L1235651-S1" partOfSpeech="y">
       <Definition>問いかけや念押しを表す</Definition>
+      <Example>きょうは学校かえ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244235-S1" ili="wikidata-ja-L1244235-S1" partOfSpeech="c">
       <Definition>（後から注釈などを接続）</Definition>
@@ -8812,7 +9006,7 @@
       <Definition>近いうちに</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1320947-S1" ili="wikidata-ja-L1320947-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>obedience</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1321503-S1" ili="wikidata-ja-L1321503-S1" partOfSpeech="d">
       <Definition>ひとつの握り寿司</Definition>
@@ -8842,7 +9036,7 @@
       <Definition>1000グラム</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1376613-S1" ili="wikidata-ja-L1376613-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>if…</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1399597-S1" ili="wikidata-ja-L1399597-S1" partOfSpeech="h">
       <Definition>指示代名詞。向こうの方。あちら。</Definition>
@@ -8863,7 +9057,7 @@
       <Definition>いずれかの。どれかの。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1403736-S1" ili="wikidata-ja-L1403736-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>first person pronoun used by woman</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1407059-S1" ili="wikidata-ja-L1407059-S1" partOfSpeech="t">
       <Definition>婚礼の儀式</Definition>
@@ -8878,16 +9072,17 @@
       <Definition>物事に心を奪われ我を忘れて一切のことを顧みないこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1460664-S1" ili="wikidata-ja-L1460664-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>thousandth</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1460664-S2" ili="wikidata-ja-L1460664-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>old monitary unit</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1476592-S1" ili="wikidata-ja-L1476592-S1" partOfSpeech="a">
       <Definition>（主に物が）冷たくない</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1476592-S2" ili="wikidata-ja-L1476592-S2" partOfSpeech="a">
       <Definition>愛情や思いやりが感じられる</Definition>
+      <Example>温かな家庭</Example>
     </Synset>
     <Synset id="wikidata-ja-L1482366-S1" ili="wikidata-ja-L1482366-S1" partOfSpeech="n">
       <Definition>文学と武術と両方の道</Definition>
@@ -8975,63 +9170,84 @@
     </Synset>
     <Synset id="wikidata-ja-L541-S1" ili="wikidata-ja-L541-S1" partOfSpeech="y">
       <Definition>主題を示す、他と区別して特に取り立てて表す</Definition>
+      <Example>スマホは便利だ</Example>
     </Synset>
     <Synset id="wikidata-ja-L541-S2" ili="wikidata-ja-L541-S2" partOfSpeech="y">
       <Definition>複数の主語文節を対比して表す</Definition>
+      <Example>勉強の成績は悪いがスポーツは得意だ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L541-S3" ili="wikidata-ja-L541-S3" partOfSpeech="y">
       <Definition>体言化した動詞を特に強調して表す</Definition>
+      <Example>どこまでも謝りはしなかった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L541-S4" ili="wikidata-ja-L541-S4" partOfSpeech="y">
       <Definition>連用修飾語に接続して強意を表す</Definition>
+      <Example>決して寒くはない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L541-S5" ili="wikidata-ja-L541-S5" partOfSpeech="y">
       <Definition>補助される文節に接続してその意味を強調する</Definition>
+      <Example>早めに見たいのなら、朝から来てはいかがですか。</Example>
     </Synset>
     <Synset id="wikidata-ja-L541-S6" ili="wikidata-ja-L541-S6" partOfSpeech="y">
       <Definition>述語が連文節になっている場合の主語を表す</Definition>
+      <Example>彼は頭の回転が早い。</Example>
     </Synset>
     <Synset id="wikidata-ja-L549-S1" ili="l2986-s1" partOfSpeech="y">
       <Definition>次の文節を修飾し限定する。連体助詞</Definition>
+      <Example>頭の上</Example>
     </Synset>
     <Synset id="wikidata-ja-L549-S2" ili="wikidata-ja-L549-S2" partOfSpeech="y">
       <Definition>主語文節をつくる</Definition>
+      <Example>愛のない日々</Example>
     </Synset>
     <Synset id="wikidata-ja-L549-S3" ili="wikidata-ja-L549-S3" partOfSpeech="y">
       <Definition>「~のもの」を表す。準体助詞</Definition>
+      <Example>このお金は君のだ</Example>
     </Synset>
     <Synset id="wikidata-ja-L549-S4" ili="wikidata-ja-L549-S4" partOfSpeech="y">
       <Definition>並立を表す。並立助詞</Definition>
+      <Example>苦しいの苦しくないのって</Example>
     </Synset>
     <Synset id="wikidata-ja-L570-S1" ili="wikidata-ja-L570-S1" partOfSpeech="y">
       <Definition>物理的な分量を示す。ほど、だけ</Definition>
+      <Example>そこから湯村までは歩いて二十分くらい。</Example>
     </Synset>
     <Synset id="wikidata-ja-L570-S2" ili="wikidata-ja-L570-S2" partOfSpeech="y">
       <Definition>論理的な状態や動作の度合いを示す</Definition>
+      <Example>強者の権利ぐらいなら昔から知っている。</Example>
     </Synset>
     <Synset id="wikidata-ja-L574-S1" ili="wikidata-ja-L574-S1" partOfSpeech="y">
       <Definition>特に強く指示することを表す</Definition>
+      <Example>今度こそ勝てよ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L574-S2" ili="wikidata-ja-L574-S2" partOfSpeech="y">
       <Definition>形容詞に接続する（まれ）</Definition>
+      <Example>ここで怪我でもしたら、それこそ大変だ。</Example>
+      <Example>ようこそいらっしゃいませ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L591-S1" ili="wikidata-ja-L591-S1" partOfSpeech="y">
       <Definition>概括を表す</Definition>
+      <Example>手を抜いたりしないでくださいね</Example>
     </Synset>
     <Synset id="wikidata-ja-L591-S2" ili="wikidata-ja-L591-S2" partOfSpeech="y">
       <Definition>動作や作用の並立を表す</Definition>
+      <Example>滑ったり転んだり</Example>
     </Synset>
     <Synset id="wikidata-ja-L633-S1" ili="wikidata-ja-L633-S1" partOfSpeech="v">
       <Definition>動詞や助動詞の連用形に続いて軽蔑や非難の意をあらわす</Definition>
     </Synset>
     <Synset id="wikidata-ja-L638-S1" ili="wikidata-ja-L638-S1" partOfSpeech="v">
       <Definition>「だ」（断定）の丁寧な表現</Definition>
+      <Example>雨でしょう</Example>
+      <Example>雨でした</Example>
+      <Example>雨ですもの</Example>
     </Synset>
     <Synset id="wikidata-ja-L677-S1" ili="wikidata-ja-L677-S1" partOfSpeech="h">
       <Definition>二人称単数</Definition>
     </Synset>
     <Synset id="wikidata-ja-L682-S1" ili="l4040-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>everyone</Definition>
+      <Example>みんなはどこ？</Example>
     </Synset>
     <Synset id="wikidata-ja-L685-S1" ili="wikidata-ja-L685-S1" partOfSpeech="h">
       <Definition>二人称の代名詞、同輩以下の対称</Definition>
@@ -9050,21 +9266,22 @@
     </Synset>
     <Synset id="wikidata-ja-L296504-S1" ili="wikidata-ja-L296504-S1" partOfSpeech="t">
       <Definition>積み荷の一部を捨てる。多くは船荷について言う。</Definition>
+      <Example>沈石を下し、荷を刎ね、船を直しけれども</Example>
     </Synset>
     <Synset id="wikidata-ja-L307871-S1" ili="l307873-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>please</Definition>
     </Synset>
     <Synset id="wikidata-ja-L309381-S1" ili="l5836-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>denoting approval</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625228-S1" ili="wikidata-ja-L625228-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625705-S1" ili="wikidata-ja-L625705-S1" partOfSpeech="m">
       <Definition>数字の5</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625713-S1" ili="wikidata-ja-L625713-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>indicates the preceding number represents an amount of birds</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626075-S1" ili="wikidata-ja-L626075-S1" partOfSpeech="a">
       <Definition>嫌うこと</Definition>
@@ -9076,25 +9293,25 @@
       <Definition>愚かであること</Definition>
     </Synset>
     <Synset id="wikidata-ja-L678872-S2" ili="wikidata-ja-L678872-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>being foolish</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686610-S1" ili="wikidata-ja-L686610-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L734743-S1" ili="wikidata-ja-L734743-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L735812-S1" ili="wikidata-ja-L735812-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L745387-S1" ili="wikidata-ja-L745387-S1" partOfSpeech="a">
       <Definition>きれい、みごと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L745388-S1" ili="l56-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>which person</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1019727-S1" ili="wikidata-ja-L1019727-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>enormous</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1037596-S1" ili="wikidata-ja-L1037596-S1" partOfSpeech="n">
       <Definition>見かけは立派であるが実際の中身はこれに及ばないことの喩え</Definition>
@@ -9103,7 +9320,7 @@
       <Definition>あいまいなこと、ぼんやりしていること</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1043775-S1" ili="l579678-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>Expression of gratitude</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1073090-S1" ili="wikidata-ja-L1073090-S1" partOfSpeech="a">
       <Definition>平穏無事であること</Definition>
@@ -9124,7 +9341,7 @@
       <Definition>組合・取組などを数える語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1093782-S1" ili="wikidata-ja-L1093782-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>not posessing skill</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1149526-S1" ili="wikidata-ja-L1149526-S1" partOfSpeech="h">
       <Definition>古語の三人称代名詞で他人のぞんざいな呼称</Definition>
@@ -9134,6 +9351,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1152145-S1" ili="wikidata-ja-L1152145-S1" partOfSpeech="i">
       <Definition>物事に感じて歓喜または悲嘆の情を表す声</Definition>
+      <Example>嗚呼、なんて柔らかいんだろう・・・。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1219625-S1" ili="wikidata-ja-L1219625-S1" partOfSpeech="t">
       <Definition>いろいろやった結果、最終的に</Definition>
@@ -9155,6 +9373,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1221467-S1" ili="wikidata-ja-L1221467-S1" partOfSpeech="h">
       <Definition>わたし</Definition>
+      <Example>小生</Example>
     </Synset>
     <Synset id="wikidata-ja-L1224115-S1" ili="wikidata-ja-L1224115-S1" partOfSpeech="t">
       <Definition>優劣を決めること</Definition>
@@ -9176,6 +9395,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1225990-S1" ili="wikidata-ja-L1225990-S1" partOfSpeech="n">
       <Definition>昼夜休まずに急行したり従事すること</Definition>
+      <Example>昼夜兼行でたどり着いた</Example>
     </Synset>
     <Synset id="wikidata-ja-L1226825-S1" ili="wikidata-ja-L1226825-S1" partOfSpeech="t">
       <Definition>退路を絶って活路を見出そうとする必死の覚悟</Definition>
@@ -9206,18 +9426,28 @@
     </Synset>
     <Synset id="wikidata-ja-L1235299-S1" ili="wikidata-ja-L1235299-S1" partOfSpeech="v">
       <Definition>「ようだ」（比況）の丁寧形</Definition>
+      <Example>あるようでしょう</Example>
+      <Example>あるようでした</Example>
+      <Example>あるようです</Example>
+      <Example>あるようですもの</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235301-S1" ili="wikidata-ja-L1235301-S1" partOfSpeech="v">
       <Definition>「みたいだ」（比況）の丁寧形（伝聞情報を根拠としない判断）</Definition>
+      <Example>あるみたいでしょう</Example>
+      <Example>あるみたいでした</Example>
+      <Example>あるみたいです</Example>
+      <Example>あるみたいですもの</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235410-S1" ili="wikidata-ja-L1235410-S1" partOfSpeech="y">
       <Definition>疑問語を受けて不確実なことを表す</Definition>
+      <Example>どうしたら良いのか、全くわからない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235410-S2" ili="wikidata-ja-L1235410-S2" partOfSpeech="y">
       <Definition>事物を並立してひとつ選ぶことを表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1235652-S1" ili="wikidata-ja-L1235652-S1" partOfSpeech="y">
       <Definition>念押しを表す</Definition>
+      <Example>おまえ、どこへ行くのかい。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244195-S1" ili="wikidata-ja-L1244195-S1" partOfSpeech="c">
       <Definition>語句の累加を表す</Definition>
@@ -9229,7 +9459,7 @@
       <Definition>列挙を表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1244201-S2" ili="wikidata-ja-L1244201-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>Konjunktion um Alternativen oder Auswahlmöglichkeiten darzustellen; oder</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1244204-S1" ili="wikidata-ja-L1244204-S1" partOfSpeech="c">
       <Definition>そうするうちに</Definition>
@@ -9295,7 +9525,7 @@
       <Definition>束ねられたものの数の単位</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1340724-S1" ili="wikidata-ja-L1340724-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter word for colors</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1380484-S1" ili="wikidata-ja-L1380484-S1" partOfSpeech="m">
       <Definition>建物を数える単位</Definition>
@@ -9304,7 +9534,7 @@
       <Definition>部屋の広さを表す語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1399658-S2" ili="wikidata-ja-L1399658-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>unit of area</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1408109-S1" ili="wikidata-ja-L1408109-S1" partOfSpeech="t">
       <Definition>助力すること</Definition>
@@ -9325,13 +9555,13 @@
       <Definition>面前では媚び従うが、後で陰口をたたくこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1474818-S1" ili="wikidata-ja-L1474818-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>opposite</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1491525-S1" ili="wikidata-ja-L1491525-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>9000</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1492976-S1" ili="wikidata-ja-L1492976-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>Enough</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1499963-S1" ili="wikidata-ja-L1499963-S1" partOfSpeech="m">
       <Definition>建物の階数を表す語（日本では1から始まる）</Definition>
@@ -9413,75 +9643,111 @@
     </Synset>
     <Synset id="wikidata-ja-L542-S1" ili="wikidata-ja-L542-S1" partOfSpeech="y">
       <Definition>対象や目的を表す</Definition>
+      <Example>絵を描く</Example>
     </Synset>
     <Synset id="wikidata-ja-L542-S2" ili="wikidata-ja-L542-S2" partOfSpeech="y">
       <Definition>動作の起点を表す</Definition>
+      <Example>学校を卒業する</Example>
     </Synset>
     <Synset id="wikidata-ja-L542-S3" ili="wikidata-ja-L542-S3" partOfSpeech="y">
       <Definition>経過する場所や時間を表す</Definition>
+      <Example>隠居生活を過ごす</Example>
     </Synset>
     <Synset id="wikidata-ja-L542-S5" ili="wikidata-ja-L542-S5" partOfSpeech="y">
       <Definition>動作の方向を表す</Definition>
+      <Example>母親の方を向いた</Example>
     </Synset>
     <Synset id="wikidata-ja-L565-S1" ili="wikidata-ja-L565-S1" partOfSpeech="y">
       <Definition>念押し、詠嘆を表す</Definition>
+      <Example>立派に育ちましたね。</Example>
     </Synset>
     <Synset id="wikidata-ja-L565-S2" ili="wikidata-ja-L565-S2" partOfSpeech="y">
       <Definition>「ねえ」で意味を強調</Definition>
+      <Example>どれが良いですかねえ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L566-S1" ili="wikidata-ja-L566-S1" partOfSpeech="y">
       <Definition>限定することを表す</Definition>
+      <Example>お肉ばかりじゃなくてお野菜も食べなさい。</Example>
     </Synset>
     <Synset id="wikidata-ja-L566-S2" ili="wikidata-ja-L566-S2" partOfSpeech="y">
       <Definition>時間や程度を表す</Definition>
+      <Example>一時間ばかり、話し込んだ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L569-S1" ili="wikidata-ja-L569-S1" partOfSpeech="y">
       <Definition>程度を表す</Definition>
+      <Example>吐く息が白くなるほど気温が下がった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L569-S2" ili="wikidata-ja-L569-S2" partOfSpeech="y">
       <Definition>特別なものを挙げ、打消表現を伴って動作や作用の程度を表す</Definition>
+      <Example>母ほど私のことを愛してくれた人はいない。</Example>
     </Synset>
     <Synset id="wikidata-ja-L569-S3" ili="wikidata-ja-L569-S3" partOfSpeech="y">
       <Definition>「~ば~ほど」の形で用いられる</Definition>
+      <Example>夢は大きければ大きいほど良い。</Example>
     </Synset>
     <Synset id="wikidata-ja-L573-S1" ili="wikidata-ja-L573-S1" partOfSpeech="y">
       <Definition>決定しがたい二つ以上の事柄を並列および列挙する意を表す</Definition>
     </Synset>
     <Synset id="wikidata-ja-L590-S1" ili="wikidata-ja-L590-S1" partOfSpeech="y">
       <Definition>2つの動作が同時に行われることを表す</Definition>
+      <Example>歩きながら考える</Example>
     </Synset>
     <Synset id="wikidata-ja-L590-S2" ili="wikidata-ja-L590-S2" partOfSpeech="y">
       <Definition>2つの動作が逆接であることを表す</Definition>
+      <Example>早くやろうと思いながら、ついつい後回しになってしまった。</Example>
     </Synset>
     <Synset id="wikidata-ja-L598-S1" ili="wikidata-ja-L598-S1" partOfSpeech="y">
       <Definition>疑念を含む問いかけ</Definition>
+      <Example>これであなたの思い通りになったのかしら。</Example>
     </Synset>
     <Synset id="wikidata-ja-L598-S2" ili="wikidata-ja-L598-S2" partOfSpeech="y">
       <Definition>疑念。自問</Definition>
+      <Example>これで良かったのかしら。</Example>
     </Synset>
     <Synset id="wikidata-ja-L598-S3" ili="wikidata-ja-L598-S3" partOfSpeech="y">
       <Definition>願望や依頼</Definition>
+      <Example>私のかわりに銀行まで行ってくれないかしら。</Example>
     </Synset>
     <Synset id="wikidata-ja-L618-S1" ili="wikidata-ja-L618-S1" partOfSpeech="v">
       <Definition>自発</Definition>
+      <Example>信じられない</Example>
+      <Example>信じられれば</Example>
     </Synset>
     <Synset id="wikidata-ja-L618-S2" ili="wikidata-ja-L618-S2" partOfSpeech="v">
       <Definition>受身</Definition>
+      <Example>信じられた</Example>
+      <Example>信じられろ</Example>
     </Synset>
     <Synset id="wikidata-ja-L618-S3" ili="wikidata-ja-L618-S3" partOfSpeech="v">
       <Definition>可能</Definition>
+      <Example>信じられる</Example>
     </Synset>
     <Synset id="wikidata-ja-L618-S4" ili="wikidata-ja-L618-S4" partOfSpeech="v">
       <Definition>尊敬</Definition>
+      <Example>信じられるとき</Example>
+      <Example>信じられよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L626-S1" ili="wikidata-ja-L626-S1" partOfSpeech="v">
       <Definition>打消の推量</Definition>
+      <Example>降るまい</Example>
+      <Example>降るまいに</Example>
     </Synset>
     <Synset id="wikidata-ja-L626-S2" ili="wikidata-ja-L626-S2" partOfSpeech="v">
       <Definition>打消の意志</Definition>
+      <Example>思うまい</Example>
+      <Example>思うまいと</Example>
     </Synset>
     <Synset id="wikidata-ja-L631-S1" ili="wikidata-ja-L631-S1" partOfSpeech="v">
       <Definition>丁寧</Definition>
+      <Example>ありません</Example>
+      <Example>しましょう</Example>
+      <Example>ありました</Example>
+      <Example>します</Example>
+      <Example>ありますとき</Example>
+      <Example>ありまするとき</Example>
+      <Example>しますれば</Example>
+      <Example>いらっしゃいませ</Example>
+      <Example>お待ち下さいまし</Example>
     </Synset>
     <Synset id="wikidata-ja-L817-S1" ili="wikidata-ja-L817-S1" partOfSpeech="a">
       <Definition>中国古代の歴史書『史記』中の列伝の篇名、饒舌なさま、転じて笑いやユーモアと同義の用語</Definition>
@@ -9490,37 +9756,39 @@
       <Definition>さとく行動などが素早いこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L306031-S1" ili="wikidata-ja-L306031-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>freundschaftlicher Verabschiedungsgruß</Definition>
     </Synset>
     <Synset id="wikidata-ja-L619048-S1" ili="wikidata-ja-L619048-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for the age of a person in years</Definition>
+      <Example>娘は十八歳ですか？</Example>
     </Synset>
     <Synset id="wikidata-ja-L625376-S1" ili="wikidata-ja-L625376-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>word used for grammatical negation; linguistic particle with which disagreement, disdain, or a negative opinion is expressed</Definition>
     </Synset>
     <Synset id="wikidata-ja-L625376-S2" ili="wikidata-ja-L625376-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>response to a &quot;Thank you&quot;</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626074-S1" ili="wikidata-ja-L626074-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>indicating something close to the speaker</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626182-S1" ili="wikidata-ja-L626182-S1" partOfSpeech="m">
       <Definition>紙を綴じた本などの数を表す語</Definition>
+      <Example>あなたは二冊の本を持っています。</Example>
     </Synset>
     <Synset id="wikidata-ja-L686405-S1" ili="wikidata-ja-L686405-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691297-S1" ili="wikidata-ja-L691297-S1" partOfSpeech="m">
       <Definition>人数を数える値</Definition>
     </Synset>
     <Synset id="wikidata-ja-L691297-S2" ili="wikidata-ja-L691297-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for reservations</Definition>
     </Synset>
     <Synset id="wikidata-ja-L713771-S1" ili="wikidata-ja-L713771-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>&quot;what kind of&quot;</Definition>
     </Synset>
     <Synset id="wikidata-ja-L717593-S1" ili="wikidata-ja-L717593-S1" partOfSpeech="t">
-      <Definition></Definition>
+      <Definition>to be invested in something</Definition>
     </Synset>
     <Synset id="wikidata-ja-L717593-S2" ili="wikidata-ja-L717593-S2" partOfSpeech="t">
       <Definition>心配になる</Definition>
@@ -9584,6 +9852,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1226513-S1" ili="wikidata-ja-L1226513-S1" partOfSpeech="t">
       <Definition>眼中に置かないこと、気に留めないこと</Definition>
+      <Example>採算を度外視した価格</Example>
     </Synset>
     <Synset id="wikidata-ja-L1226808-S1" ili="wikidata-ja-L1226808-S1" partOfSpeech="t">
       <Definition>竹を割るように非常な勢いで進んでいく様子</Definition>
@@ -9599,6 +9868,7 @@
     </Synset>
     <Synset id="wikidata-ja-L1235402-S1" ili="wikidata-ja-L1235402-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>よくよく見るに、探していたものではなかった</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244236-S1" ili="wikidata-ja-L1244236-S1" partOfSpeech="c">
       <Definition>（後から注釈などを接続）</Definition>
@@ -9622,7 +9892,7 @@
       <Definition>奇抜で激しい</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1273422-S1" ili="wikidata-ja-L1273422-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>no</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1291166-S1" ili="wikidata-ja-L1291166-S1" partOfSpeech="a">
       <Definition>後世にまで伝え、歴史に残るようなという意味</Definition>
@@ -9710,9 +9980,11 @@
     </Synset>
     <Synset id="wikidata-ja-L1508436-S1" ili="wikidata-ja-L1508436-S1" partOfSpeech="a">
       <Definition>極めて赤みが強い様子</Definition>
+      <Example>真っ赤な太陽</Example>
     </Synset>
     <Synset id="wikidata-ja-L1508436-S2" ili="wikidata-ja-L1508436-S2" partOfSpeech="a">
       <Definition>極端な様子</Definition>
+      <Example>真っ赤な嘘</Example>
     </Synset>
     <Synset id="wikidata-ja-L1512023-S1" ili="wikidata-ja-L1512023-S1" partOfSpeech="t">
       <Definition>お辞儀する</Definition>
@@ -9739,10 +10011,10 @@
       <Definition>次第や順序を追って統一してある様子</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1530791-S1" ili="wikidata-ja-L1530791-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>entirely</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1530791-S2" ili="wikidata-ja-L1530791-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>exactly alike</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1530947-S1" ili="wikidata-ja-L1530947-S1" partOfSpeech="a">
       <Definition>一般的な水準よりも先に進んでいる様子</Definition>
@@ -9779,75 +10051,103 @@
     </Synset>
     <Synset id="wikidata-ja-L546-S1" ili="wikidata-ja-L546-S1" partOfSpeech="y">
       <Definition>同一の事物の並立を表す</Definition>
+      <Example>男も女も平等に雇用しましょう</Example>
     </Synset>
     <Synset id="wikidata-ja-L546-S2" ili="wikidata-ja-L546-S2" partOfSpeech="y">
       <Definition>同種の事物の中からひとつを挙げて他を類推させることを表す</Definition>
+      <Example>犬も悲しんでいるのだろう</Example>
     </Synset>
     <Synset id="wikidata-ja-L546-S3" ili="wikidata-ja-L546-S3" partOfSpeech="y">
       <Definition>強意や感嘆を表す</Definition>
+      <Example>珍しくもない話</Example>
     </Synset>
     <Synset id="wikidata-ja-L546-S4" ili="wikidata-ja-L546-S4" partOfSpeech="y">
       <Definition>すべてを包括する意味になることを表す</Definition>
+      <Example>どう考えても有罪だ</Example>
     </Synset>
     <Synset id="wikidata-ja-L547-S1" ili="wikidata-ja-L547-S1" partOfSpeech="y">
       <Definition>動作の行われる方向を表す</Definition>
+      <Example>駅へ向かう</Example>
     </Synset>
     <Synset id="wikidata-ja-L547-S2" ili="wikidata-ja-L547-S2" partOfSpeech="y">
       <Definition>動作の帰着する場所を表す</Definition>
+      <Example>会社へ到着した</Example>
     </Synset>
     <Synset id="wikidata-ja-L547-S3" ili="wikidata-ja-L547-S3" partOfSpeech="y">
       <Definition>動作に影響を及ぼす対象を表す</Definition>
+      <Example>親へ連絡を入れる</Example>
     </Synset>
     <Synset id="wikidata-ja-L552-S1" ili="wikidata-ja-L552-S1" partOfSpeech="y">
       <Definition>比較を示す</Definition>
+      <Example>私は赤より青のほうが好きです。</Example>
     </Synset>
     <Synset id="wikidata-ja-L552-S2" ili="wikidata-ja-L552-S2" partOfSpeech="y">
       <Definition>動作や作用の起点を示す</Definition>
+      <Example>隗より始めよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L552-S3" ili="wikidata-ja-L552-S3" partOfSpeech="y">
       <Definition>動作の行なわれる場所や経由地を示す</Definition>
+      <Example>井戸より水を汲む</Example>
     </Synset>
     <Synset id="wikidata-ja-L552-S4" ili="wikidata-ja-L552-S4" partOfSpeech="y">
       <Definition>動作や作用の手段や方法を示す</Definition>
+      <Example>徒より行く</Example>
     </Synset>
     <Synset id="wikidata-ja-L552-S5" ili="wikidata-ja-L552-S5" partOfSpeech="y">
       <Definition>範囲を限定する意を示す</Definition>
+      <Example>進むより他に無し</Example>
     </Synset>
     <Synset id="wikidata-ja-L556-S1" ili="wikidata-ja-L556-S1" partOfSpeech="y">
       <Definition>複数例示して選ぶことを表す</Definition>
+      <Example>起きるなり寝るなり</Example>
     </Synset>
     <Synset id="wikidata-ja-L556-S2" ili="wikidata-ja-L556-S2" partOfSpeech="y">
       <Definition>大体の目安を表す</Definition>
+      <Example>多少なりとも金銭的に支援する。</Example>
     </Synset>
     <Synset id="wikidata-ja-L556-S3" ili="wikidata-ja-L556-S3" partOfSpeech="y">
       <Definition>程度の軽いものを挙げて強調を表す</Definition>
+      <Example>せめて一口なりと、食べていってください。</Example>
     </Synset>
     <Synset id="wikidata-ja-L557-S1" ili="wikidata-ja-L557-S1" partOfSpeech="y">
       <Definition>同類のものからいくつか列挙することを表す</Definition>
+      <Example>猿だの猪だのが畑を荒らして行った。</Example>
     </Synset>
     <Synset id="wikidata-ja-L559-S1" ili="wikidata-ja-L559-S1" partOfSpeech="y">
       <Definition>禁止を表す</Definition>
+      <Example>独りで行くな。</Example>
     </Synset>
     <Synset id="wikidata-ja-L587-S1" ili="wikidata-ja-L587-S1" partOfSpeech="y">
       <Definition>逆接の仮定条件を表す。「たとえ~しても」</Definition>
+      <Example>寝ても覚めても忘れない</Example>
     </Synset>
     <Synset id="wikidata-ja-L587-S2" ili="wikidata-ja-L587-S2" partOfSpeech="y">
       <Definition>逆接の確定条件を表す。「~したのにも関わらず」</Definition>
+      <Example>何日経っても来ない</Example>
     </Synset>
     <Synset id="wikidata-ja-L587-S3" ili="wikidata-ja-L587-S3" partOfSpeech="y">
       <Definition>恒常条件を示し、前後で順当していないことも表す</Definition>
+      <Example>無関係でも疑われた</Example>
     </Synset>
     <Synset id="wikidata-ja-L617-S1" ili="wikidata-ja-L617-S1" partOfSpeech="v">
       <Definition>自発</Definition>
+      <Example>思い出されない</Example>
+      <Example>思い出されれば</Example>
     </Synset>
     <Synset id="wikidata-ja-L617-S2" ili="wikidata-ja-L617-S2" partOfSpeech="v">
       <Definition>受身</Definition>
+      <Example>返された</Example>
+      <Example>返されろ</Example>
     </Synset>
     <Synset id="wikidata-ja-L617-S3" ili="wikidata-ja-L617-S3" partOfSpeech="v">
       <Definition>可能</Definition>
+      <Example>泣かれる</Example>
+      <Example>返されよ</Example>
     </Synset>
     <Synset id="wikidata-ja-L617-S4" ili="wikidata-ja-L617-S4" partOfSpeech="v">
       <Definition>尊敬</Definition>
+      <Example>落とされるとき</Example>
+      <Example>落とされい</Example>
     </Synset>
     <Synset id="wikidata-ja-L625-S1" ili="wikidata-ja-L625-S1" partOfSpeech="v">
       <Definition>推量</Definition>
@@ -9860,6 +10160,13 @@
     </Synset>
     <Synset id="wikidata-ja-L636-S1" ili="wikidata-ja-L636-S1" partOfSpeech="v">
       <Definition>比況</Definition>
+      <Example>あるようだろう</Example>
+      <Example>あるようだった</Example>
+      <Example>あるようでした</Example>
+      <Example>あるように見える</Example>
+      <Example>あるようだ</Example>
+      <Example>あるような気がする</Example>
+      <Example>あるようなら</Example>
     </Synset>
     <Synset id="wikidata-ja-L684-S1" ili="wikidata-ja-L684-S1" partOfSpeech="h">
       <Definition>一人称の代名詞で同輩またはそれ以下に対していう語</Definition>
@@ -9868,13 +10175,13 @@
       <Definition>衣服や器具を数える単位。</Definition>
     </Synset>
     <Synset id="wikidata-ja-L307874-S1" ili="wikidata-ja-L307874-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sorry</Definition>
     </Synset>
     <Synset id="wikidata-ja-L311225-S1" ili="l14712-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>formule de salutation utilisée lorsqu’on quitte quelqu’un</Definition>
     </Synset>
     <Synset id="wikidata-ja-L407018-S1" ili="l3282-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-ja-L412063-S1" ili="wikidata-ja-L412063-S1" partOfSpeech="x">
       <Definition>文中の意味の切れめにつける符号</Definition>
@@ -9883,73 +10190,74 @@
       <Definition>数字の1000</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626069-S1" ili="wikidata-ja-L626069-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>ten thousand</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626069-S2" ili="wikidata-ja-L626069-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>a large number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L626073-S1" ili="l333971-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>idicating something that is far away from both the speaker and the listener</Definition>
     </Synset>
     <Synset id="wikidata-ja-L641828-S1" ili="wikidata-ja-L641828-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the natural number 3</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679421-S1" ili="wikidata-ja-L679421-S1" partOfSpeech="m">
       <Definition>細長いものを数える語</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679421-S2" ili="wikidata-ja-L679421-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for home runs</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679421-S3" ili="wikidata-ja-L679421-S3" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for telephone calls</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679421-S4" ili="wikidata-ja-L679421-S4" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for long objects</Definition>
     </Synset>
     <Synset id="wikidata-ja-L679421-S5" ili="wikidata-ja-L679421-S5" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>counter for trees</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680773-S1" ili="wikidata-ja-L680773-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>what is in accord with fact or reality</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680773-S2" ili="wikidata-ja-L680773-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>statement in accordance with the real world</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680773-S3" ili="wikidata-ja-L680773-S3" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>sum or aggregate of all that is real or existent</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680773-S4" ili="wikidata-ja-L680773-S4" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>having a quality of appropriateness</Definition>
     </Synset>
     <Synset id="wikidata-ja-L680773-S5" ili="wikidata-ja-L680773-S5" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>in accordance with reality</Definition>
+      <Example>それも本当の名前じゃない</Example>
     </Synset>
     <Synset id="wikidata-ja-L680773-S6" ili="wikidata-ja-L680773-S6" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>degree of certainty about the origin or precedence attributed to an object</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686343-S1" ili="wikidata-ja-L686343-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686348-S1" ili="wikidata-ja-L686348-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L686611-S1" ili="wikidata-ja-L686611-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L689124-S1" ili="wikidata-ja-L689124-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one night</Definition>
     </Synset>
     <Synset id="wikidata-ja-L701027-S1" ili="wikidata-ja-L701027-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number fourteen</Definition>
     </Synset>
     <Synset id="wikidata-ja-L701029-S1" ili="wikidata-ja-L701029-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 16</Definition>
     </Synset>
     <Synset id="wikidata-ja-L735964-S1" ili="wikidata-ja-L735964-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>natural number</Definition>
     </Synset>
     <Synset id="wikidata-ja-L738572-S1" ili="wikidata-ja-L738572-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>that way</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1022011-S1" ili="wikidata-ja-L1022011-S1" partOfSpeech="t">
       <Definition>望むに遠いことを夢に見ること</Definition>
@@ -9968,9 +10276,10 @@
     </Synset>
     <Synset id="wikidata-ja-L1082290-S1" ili="wikidata-ja-L1082290-S1" partOfSpeech="y">
       <Definition>だが、しかし</Definition>
+      <Example>道は険しいが頑張ろう</Example>
     </Synset>
     <Synset id="wikidata-ja-L1133043-S1" ili="wikidata-ja-L1133043-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>uncertain or unspecified entity</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1150363-S1" ili="wikidata-ja-L1150363-S1" partOfSpeech="t">
       <Definition>役者の演技が板（舞台）の上で危なげなく見える様子から転じて、わざとらしいところがなく、ぴったりと当てはまること</Definition>
@@ -9980,15 +10289,18 @@
     </Synset>
     <Synset id="wikidata-ja-L1215786-S1" ili="wikidata-ja-L1215786-S1" partOfSpeech="y">
       <Definition>ある事柄のうち軽いものを挙げて、他を類推させることを表す</Definition>
+      <Example>子どもだって、いつかは大人になるんだよ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1218643-S1" ili="wikidata-ja-L1218643-S1" partOfSpeech="t">
       <Definition>いともたやすいこと</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1218974-S1" ili="wikidata-ja-L1218974-S1" partOfSpeech="y">
       <Definition>動作が連動している状態を表す</Definition>
+      <Example>横になるなりぐっすり眠った</Example>
     </Synset>
     <Synset id="wikidata-ja-L1218974-S2" ili="wikidata-ja-L1218974-S2" partOfSpeech="y">
       <Definition>動作が続いている状態を表す。「~たなり」の形をとる。</Definition>
+      <Example>立ち止まったなり、話し始めた。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1220290-S1" ili="wikidata-ja-L1220290-S1" partOfSpeech="t">
       <Definition>世の中の色々な人、群衆</Definition>
@@ -10009,7 +10321,7 @@
       <Definition>数字の50</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1221847-S1" ili="l1387-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>einen Gegensatz ausdrückend</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1222111-S1" ili="wikidata-ja-L1222111-S1" partOfSpeech="n">
       <Definition>もってのほか、話にならない、言うにたえない</Definition>
@@ -10067,18 +10379,28 @@
     </Synset>
     <Synset id="wikidata-ja-L1235300-S1" ili="wikidata-ja-L1235300-S1" partOfSpeech="v">
       <Definition>比況（伝聞情報を根拠としない判断）</Definition>
+      <Example>あるみたいだろう</Example>
+      <Example>あるみたいだった</Example>
+      <Example>あるみたいで、</Example>
+      <Example>あるみたいに</Example>
+      <Example>あるみたいだ</Example>
+      <Example>あるみたいな</Example>
+      <Example>あるみたいなら</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235329-S1" ili="wikidata-ja-L1235329-S1" partOfSpeech="y">
       <Definition>逆接の仮定条件を表す</Definition>
+      <Example>水を探そうとするも、なかなか見つからない</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235403-S1" ili="wikidata-ja-L1235403-S1" partOfSpeech="y">
       <Definition>逆接の確定条件を表す</Definition>
+      <Example>はたらけどはたらけどわが生活楽にならざりぢっと手をみる</Example>
     </Synset>
     <Synset id="wikidata-ja-L1235405-S1" ili="wikidata-ja-L1235405-S1" partOfSpeech="v">
       <Definition>（古典文法）完了や存続の意味を付け加える</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1235407-S1" ili="wikidata-ja-L1235407-S1" partOfSpeech="y">
       <Definition>前の仮定が実現しても期待通りにはならないことを表す</Definition>
+      <Example>いくら騒いだところで、だれもやって来ないぞ。</Example>
     </Synset>
     <Synset id="wikidata-ja-L1244202-S1" ili="wikidata-ja-L1244202-S1" partOfSpeech="c">
       <Definition>列挙を表す</Definition>
@@ -10174,7 +10496,7 @@
       <Definition>絶え間なく進歩すること</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1412112-S1" ili="wikidata-ja-L1412112-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>to be damned</Definition>
     </Synset>
     <Synset id="wikidata-ja-L1422342-S1" ili="wikidata-ja-L1422342-S1" partOfSpeech="n">
       <Definition>つかず離れず</Definition>

@@ -11,13 +11,13 @@
     <LexicalEntry id="L708473">
       <Lemma writtenForm="bir" partOfSpeech="d"/>
       <Sense id="L708473-S1" synset="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1375217">
       <Lemma writtenForm="və" partOfSpeech="c"/>
       <Sense id="L1375217-S1" synset="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1375549">
@@ -27,10 +27,10 @@
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1" partOfSpeech="h">
       <Definition>(sual əvəz)</Definition>

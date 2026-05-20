@@ -11,13 +11,13 @@
     <LexicalEntry id="L1329015">
       <Lemma writtenForm="a" partOfSpeech="h"/>
       <Sense id="L1329015-S1" synset="wikidata-kl-L1329015-S1" ili="wikidata-kl-L1329015-S1">
-        <Definition></Definition>
+        <Definition>(third person singular possession of preceding nominal)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329041">
       <Lemma writtenForm="-gaq" partOfSpeech="x"/>
       <Sense id="L1329041-S1" synset="wikidata-kl-L1329041-S1" ili="wikidata-kl-L1329041-S1">
-        <Definition></Definition>
+        <Definition>(one who/that is acted on) [verb]-ee</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329165-S1"/>
         <SenseRelation relType="similar" target="wikidata-kl-L1400548-S1"/>
       </Sense>
@@ -34,7 +34,7 @@
         <Definition>kisiat</Definition>
       </Sense>
       <Sense id="L1329057-S2" synset="wikidata-kl-L1329057-S2" ili="wikidata-kl-L1329057-S2">
-        <Definition></Definition>
+        <Definition>although, unless</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329355">
@@ -46,7 +46,7 @@
     <LexicalEntry id="L1329395">
       <Lemma writtenForm="+tarpoq" partOfSpeech="v"/>
       <Sense id="L1329395-S1" synset="wikidata-kl-L1329395-S1" ili="wikidata-kl-L1329395-S1">
-        <Definition></Definition>
+        <Definition>recurring, habitually</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329650">
@@ -58,30 +58,30 @@
     <LexicalEntry id="L1329722">
       <Lemma writtenForm="-nngilaq" partOfSpeech="r"/>
       <Sense id="L1329722-S1" synset="wikidata-kl-L1329722-S1" ili="wikidata-kl-L1329722-S1">
-        <Definition></Definition>
+        <Definition>(negative verbal modifier)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330704">
       <Lemma writtenForm="-innaq" partOfSpeech="a"/>
       <Sense id="L1330704-S1" synset="wikidata-kl-L1330704-S1" ili="wikidata-kl-L1330704-S1">
-        <Definition></Definition>
+        <Definition>just, merely, a mere</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330705">
       <Lemma writtenForm="+fik" partOfSpeech="x"/>
       <Sense id="L1330705-S1" synset="wikidata-kl-L1330705-S1" ili="wikidata-kl-L1330705-S1">
-        <Definition></Definition>
+        <Definition>place where one does</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1409096-S1"/>
       </Sense>
       <Sense id="L1330705-S2" synset="wikidata-kl-L1330705-S2" ili="wikidata-kl-L1330705-S2">
-        <Definition></Definition>
+        <Definition>time when one does</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1409096-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1331293">
       <Lemma writtenForm="to" partOfSpeech="d"/>
       <Sense id="L1331293-S1" synset="wikidata-kl-L1331293-S1" ili="wikidata-kl-L1331293-S1">
-        <Definition></Definition>
+        <Definition>two (used with currency and units of measurement)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400398">
@@ -105,25 +105,25 @@
     <LexicalEntry id="L1421393">
       <Lemma writtenForm="innga" partOfSpeech="h"/>
       <Sense id="L1421393-S1" synset="wikidata-kl-L1421393-S1" ili="wikidata-kl-L1421393-S1">
-        <Definition></Definition>
+        <Definition>derhenne</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1422497">
       <Lemma writtenForm="+niarpoq" partOfSpeech="r"/>
       <Sense id="L1422497-S1" synset="wikidata-kl-L1422497-S1" ili="wikidata-kl-L1422497-S1">
-        <Definition></Definition>
+        <Definition>(indicates intention to perform an action)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449063">
       <Lemma writtenForm="+torpoq" partOfSpeech="x"/>
       <Sense id="L1449063-S1" synset="wikidata-kl-L1449063-S1" ili="wikidata-kl-L1449063-S1">
-        <Definition></Definition>
+        <Definition>indtage, drikke, spise</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1461674">
       <Lemma writtenForm="tretteniat" partOfSpeech="m"/>
       <Sense id="L1461674-S1" synset="wikidata-kl-L1461674-S1" ili="wikidata-kl-L1461674-S1">
-        <Definition></Definition>
+        <Definition>thirteenth</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328524">
@@ -135,33 +135,33 @@
     <LexicalEntry id="L1328938">
       <Lemma writtenForm="-kkut" partOfSpeech="a"/>
       <Sense id="L1328938-S1" synset="wikidata-kl-L1328938-S1" ili="wikidata-kl-L1328938-S1">
-        <Definition></Definition>
+        <Definition>(forms collective family names)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329025">
       <Lemma writtenForm="+neq" partOfSpeech="x"/>
       <Sense id="L1329025-S1" synset="wikidata-kl-L1329025-S1" ili="wikidata-kl-L1329025-S1">
-        <Definition></Definition>
+        <Definition>(the act of doing something)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S1"/>
       </Sense>
       <Sense id="L1329025-S2" synset="wikidata-kl-L1329025-S2" ili="wikidata-kl-L1329025-S2">
-        <Definition></Definition>
+        <Definition>(the acting of the possessor)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S2"/>
       </Sense>
       <Sense id="L1329025-S3" synset="wikidata-kl-L1329025-S3" ili="wikidata-kl-L1329025-S3">
-        <Definition></Definition>
+        <Definition>(while possessor acted)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S3"/>
       </Sense>
       <Sense id="L1329025-S4" synset="wikidata-kl-L1329025-S4" ili="wikidata-kl-L1329025-S4">
-        <Definition></Definition>
+        <Definition>(before possessor acted)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S4"/>
       </Sense>
       <Sense id="L1329025-S5" synset="wikidata-kl-L1329025-S5" ili="wikidata-kl-L1329025-S5">
-        <Definition></Definition>
+        <Definition>(because of action)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S5"/>
       </Sense>
       <Sense id="L1329025-S6" synset="wikidata-kl-L1329025-S6" ili="wikidata-kl-L1329025-S6">
-        <Definition></Definition>
+        <Definition>(the more/most acting)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S6"/>
       </Sense>
     </LexicalEntry>
@@ -186,13 +186,13 @@
     <LexicalEntry id="L1329991">
       <Lemma writtenForm="+ga" partOfSpeech="h"/>
       <Sense id="L1329991-S1" synset="wikidata-kl-L1329991-S1" ili="wikidata-kl-L1329991-S1">
-        <Definition></Definition>
+        <Definition>my (first person singular possessive)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1331307">
       <Lemma writtenForm="tre" partOfSpeech="d"/>
       <Sense id="L1331307-S1" synset="wikidata-kl-L1331307-S1" ili="wikidata-kl-L1331307-S1">
-        <Definition></Definition>
+        <Definition>three (used with currency and units of measurement)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400397">
@@ -210,7 +210,7 @@
     <LexicalEntry id="L1410811">
       <Lemma writtenForm="assorsuaq" partOfSpeech="y"/>
       <Sense id="L1410811-S1" synset="wikidata-kl-L1410811-S1" ili="wikidata-kl-L1410811-S1">
-        <Definition></Definition>
+        <Definition>very much</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1418595">
@@ -222,13 +222,13 @@
     <LexicalEntry id="L1451948">
       <Lemma writtenForm="-rusuppoq" partOfSpeech="x"/>
       <Sense id="L1451948-S1" synset="wikidata-kl-L1451948-S1" ili="wikidata-kl-L1451948-S1">
-        <Definition></Definition>
+        <Definition>wants to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1463247">
       <Lemma writtenForm="-ssuseq" partOfSpeech="x"/>
       <Sense id="L1463247-S1" synset="wikidata-kl-L1463247-S1" ili="wikidata-kl-L1463247-S1">
-        <Definition></Definition>
+        <Definition>-hed</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21622">
@@ -240,46 +240,46 @@
     <LexicalEntry id="L1328940">
       <Lemma writtenForm="+paat" partOfSpeech="a"/>
       <Sense id="L1328940-S1" synset="wikidata-kl-L1328940-S1" ili="wikidata-kl-L1328940-S1">
-        <Definition></Definition>
+        <Definition>(group of)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328941">
       <Lemma writtenForm="-aluit" partOfSpeech="a"/>
       <Sense id="L1328941-S1" synset="wikidata-kl-L1328941-S1" ili="wikidata-kl-L1328941-S1">
-        <Definition></Definition>
+        <Definition>(group of many)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329024">
       <Lemma writtenForm="+neq" partOfSpeech="x"/>
       <Sense id="L1329024-S1" synset="wikidata-kl-L1329024-S1" ili="wikidata-kl-L1329024-S1">
-        <Definition></Definition>
+        <Definition>(the act of doing something)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S1"/>
       </Sense>
       <Sense id="L1329024-S2" synset="wikidata-kl-L1329024-S2" ili="wikidata-kl-L1329024-S2">
-        <Definition></Definition>
+        <Definition>(the acting of the possessor)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S2"/>
       </Sense>
       <Sense id="L1329024-S3" synset="wikidata-kl-L1329024-S3" ili="wikidata-kl-L1329024-S3">
-        <Definition></Definition>
+        <Definition>(while possessor acted)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S3"/>
       </Sense>
       <Sense id="L1329024-S4" synset="wikidata-kl-L1329024-S4" ili="wikidata-kl-L1329024-S4">
-        <Definition></Definition>
+        <Definition>(before possessor acted)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S4"/>
       </Sense>
       <Sense id="L1329024-S5" synset="wikidata-kl-L1329024-S5" ili="wikidata-kl-L1329024-S5">
-        <Definition></Definition>
+        <Definition>(because of action)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S5"/>
       </Sense>
       <Sense id="L1329024-S6" synset="wikidata-kl-L1329024-S6" ili="wikidata-kl-L1329024-S6">
-        <Definition></Definition>
+        <Definition>(the more/most acting)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S6"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329343">
       <Lemma writtenForm="ni" partOfSpeech="h"/>
       <Sense id="L1329343-S1" synset="wikidata-kl-L1329343-S1" ili="wikidata-kl-L1329343-S1">
-        <Definition></Definition>
+        <Definition>(obviative singular possessive)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329354">
@@ -297,34 +297,34 @@
     <LexicalEntry id="L1330405">
       <Lemma writtenForm="+siut" partOfSpeech="a"/>
       <Sense id="L1330405-S1" synset="wikidata-kl-L1330405-S1" ili="wikidata-kl-L1330405-S1">
-        <Definition></Definition>
+        <Definition>means to search for</Definition>
       </Sense>
       <Sense id="L1330405-S2" synset="wikidata-kl-L1330405-S2" ili="wikidata-kl-L1330405-S2">
-        <Definition></Definition>
+        <Definition>means to travel in/through</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330732">
       <Lemma writtenForm="+neqarpoq" partOfSpeech="r"/>
       <Sense id="L1330732-S1" synset="wikidata-kl-L1330732-S1" ili="wikidata-kl-L1330732-S1">
-        <Definition></Definition>
+        <Definition>(dynanic passive; patientive valency-reducing verbal modifier)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330735">
       <Lemma writtenForm="-toqaq" partOfSpeech="a"/>
       <Sense id="L1330735-S1" synset="wikidata-kl-L1330735-S1" ili="wikidata-kl-L1330735-S1">
-        <Definition></Definition>
+        <Definition>old</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408816">
       <Lemma writtenForm="-livik" partOfSpeech="a"/>
       <Sense id="L1408816-S1" synset="wikidata-kl-L1408816-S1" ili="wikidata-kl-L1408816-S1">
-        <Definition></Definition>
+        <Definition>(place where kept or stored)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410809">
       <Lemma writtenForm="assut" partOfSpeech="y"/>
       <Sense id="L1410809-S1" synset="wikidata-kl-L1410809-S1" ili="wikidata-kl-L1410809-S1">
-        <Definition></Definition>
+        <Definition>meget</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1416306">
@@ -336,55 +336,55 @@
     <LexicalEntry id="L1419751">
       <Lemma writtenForm="-mukarpoq" partOfSpeech="v"/>
       <Sense id="L1419751-S1" synset="wikidata-kl-L1419751-S1" ili="wikidata-kl-L1419751-S1">
-        <Definition></Definition>
+        <Definition>go to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1421418">
       <Lemma writtenForm="aajuna" partOfSpeech="h"/>
       <Sense id="L1421418-S1" synset="wikidata-kl-L1421418-S1" ili="wikidata-kl-L1421418-S1">
-        <Definition></Definition>
+        <Definition>her er den</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1436543">
       <Lemma writtenForm="-qaaq" partOfSpeech="r"/>
       <Sense id="L1436543-S1" synset="wikidata-kl-L1436543-S1" ili="wikidata-kl-L1436543-S1">
-        <Definition></Definition>
+        <Definition>very</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1451950">
       <Lemma writtenForm="-kkaluarpoq" partOfSpeech="r"/>
       <Sense id="L1451950-S1" synset="wikidata-kl-L1451950-S1" ili="wikidata-kl-L1451950-S1">
-        <Definition></Definition>
+        <Definition>(ellers god nok, men ...)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1459852">
       <Lemma writtenForm="aqagu" partOfSpeech="y"/>
       <Sense id="L1459852-S1" synset="wikidata-kl-L1459852-S1" ili="wikidata-kl-L1459852-S1">
-        <Definition></Definition>
+        <Definition>tomorrow</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460207">
       <Lemma writtenForm="-simavoq" partOfSpeech="x"/>
       <Sense id="L1460207-S1" synset="wikidata-kl-L1460207-S1" ili="wikidata-kl-L1460207-S1">
-        <Definition></Definition>
+        <Definition>har afsluttet</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1461673">
       <Lemma writtenForm="pingajuat" partOfSpeech="m"/>
       <Sense id="L1461673-S1" synset="wikidata-kl-L1461673-S1" ili="wikidata-kl-L1461673-S1">
-        <Definition></Definition>
+        <Definition>third</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521868">
       <Lemma writtenForm="-nnguaq" partOfSpeech="x"/>
       <Sense id="L1521868-S1" synset="wikidata-kl-L1521868-S1" ili="wikidata-kl-L1521868-S1">
-        <Definition></Definition>
+        <Definition>lille, søde</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142420">
       <Lemma writtenForm="aluu" partOfSpeech="i"/>
       <Sense id="L1142420-S1" synset="wikidata-kl-L1142420-S1" ili="wikidata-kl-L1142420-S1">
-        <Definition></Definition>
+        <Definition>hej</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328526">
@@ -396,7 +396,7 @@
     <LexicalEntry id="L1329165">
       <Lemma writtenForm="-saq" partOfSpeech="x"/>
       <Sense id="L1329165-S1" synset="wikidata-kl-L1329165-S1" ili="wikidata-kl-L1329165-S1">
-        <Definition></Definition>
+        <Definition>(one who/that is acted on) [verb]-ee</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329041-S1"/>
         <SenseRelation relType="similar" target="wikidata-kl-L1400548-S1"/>
       </Sense>
@@ -404,10 +404,10 @@
     <LexicalEntry id="L1329389">
       <Lemma writtenForm="-rippoq" partOfSpeech="v"/>
       <Sense id="L1329389-S1" synset="wikidata-kl-L1329389-S1" ili="wikidata-kl-L1329389-S1">
-        <Definition></Definition>
+        <Definition>has good/beautiful (monovalent verbalizing affix)</Definition>
       </Sense>
       <Sense id="L1329389-S2" synset="wikidata-kl-L1329389-S2" ili="wikidata-kl-L1329389-S2">
-        <Definition></Definition>
+        <Definition>there is a good/beautiful (avelent verbalizing affix)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329681">
@@ -423,14 +423,14 @@
         <SenseRelation relType="similar" target="wikidata-kl-L1400418-S1"/>
       </Sense>
       <Sense id="L1400417-S2" synset="wikidata-kl-L1400417-S2" ili="wikidata-kl-L1400417-S2">
-        <Definition></Definition>
+        <Definition>(young of)</Definition>
         <SenseRelation relType="hypernym" target="wikidata-kl-L1400417-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400418">
       <Lemma writtenForm="+suk" partOfSpeech="a"/>
       <Sense id="L1400418-S1" synset="wikidata-kl-L1400418-S1" ili="wikidata-kl-L1400418-S1">
-        <Definition></Definition>
+        <Definition>(resembling)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1400417-S1"/>
       </Sense>
     </LexicalEntry>
@@ -443,25 +443,25 @@
     <LexicalEntry id="L1408808">
       <Lemma writtenForm="+mioq" partOfSpeech="a"/>
       <Sense id="L1408808-S1" synset="wikidata-kl-L1408808-S1" ili="wikidata-kl-L1408808-S1">
-        <Definition></Definition>
+        <Definition>(inhabitant of)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1414626">
       <Lemma writtenForm="qujanarsuaq" partOfSpeech="i"/>
       <Sense id="L1414626-S1" synset="wikidata-kl-L1414626-S1" ili="wikidata-kl-L1414626-S1">
-        <Definition></Definition>
+        <Definition>mange tak</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1440303">
       <Lemma writtenForm="+sorpaa" partOfSpeech="r"/>
       <Sense id="L1440303-S1" synset="wikidata-kl-L1440303-S1" ili="wikidata-kl-L1440303-S1">
-        <Definition></Definition>
+        <Definition>(one by one, piece by piece)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1452095">
       <Lemma writtenForm="-liorpoq" partOfSpeech="x"/>
       <Sense id="L1452095-S1" synset="wikidata-kl-L1452095-S1" ili="wikidata-kl-L1452095-S1">
-        <Definition></Definition>
+        <Definition>make</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328944">
@@ -479,7 +479,7 @@
     <LexicalEntry id="L1329166">
       <Lemma writtenForm="-ssaq" partOfSpeech="a"/>
       <Sense id="L1329166-S1" synset="wikidata-kl-L1329166-S1" ili="wikidata-kl-L1329166-S1">
-        <Definition></Definition>
+        <Definition>(irrealis nominal suffix; supposed, destined, or intended)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329963">
@@ -500,19 +500,19 @@
         <Definition>buy, acquire</Definition>
       </Sense>
       <Sense id="L1330416-S2" synset="wikidata-kl-L1330416-S2" ili="wikidata-kl-L1330416-S2">
-        <Definition></Definition>
+        <Definition>encounter, find, meet</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1377439">
       <Lemma writtenForm="tretten" partOfSpeech="d"/>
       <Sense id="L1377439-S1" synset="wikidata-kl-L1377439-S1" ili="wikidata-kl-L1377439-S1">
-        <Definition></Definition>
+        <Definition>tretten, tallet 13</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400548">
       <Lemma writtenForm="-aq" partOfSpeech="x"/>
       <Sense id="L1400548-S1" synset="wikidata-kl-L1400548-S1" ili="wikidata-kl-L1400548-S1">
-        <Definition></Definition>
+        <Definition>(one who/that is acted on) [verb]-ee</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329165-S1"/>
         <SenseRelation relType="similar" target="wikidata-kl-L1329041-S1"/>
       </Sense>
@@ -520,22 +520,22 @@
     <LexicalEntry id="L1409094">
       <Lemma writtenForm="-lerpaa" partOfSpeech="v"/>
       <Sense id="L1409094-S1" synset="wikidata-kl-L1409094-S1" ili="wikidata-kl-L1409094-S1">
-        <Definition></Definition>
+        <Definition>(agent provides/equips patient with)</Definition>
       </Sense>
       <Sense id="L1409094-S2" synset="wikidata-kl-L1409094-S2" ili="wikidata-kl-L1409094-S2">
-        <Definition></Definition>
+        <Definition>(actor turns a number of years old)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1414622">
       <Lemma writtenForm="qujanaq" partOfSpeech="i"/>
       <Sense id="L1414622-S1" synset="wikidata-kl-L1414622-S1" ili="wikidata-kl-L1414622-S1">
-        <Definition></Definition>
+        <Definition>tak</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419744">
       <Lemma writtenForm="-liarpoq" partOfSpeech="x"/>
       <Sense id="L1419744-S1" synset="wikidata-kl-L1419744-S1" ili="wikidata-kl-L1419744-S1">
-        <Definition></Definition>
+        <Definition>rejse til</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328047">
@@ -544,7 +544,7 @@
         <Definition>aamma</Definition>
       </Sense>
       <Sense id="L1328047-S2" synset="wikidata-kl-L1328047-S2" ili="wikidata-kl-L1328047-S2">
-        <Definition></Definition>
+        <Definition>[subject] and I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329013">
@@ -556,25 +556,25 @@
     <LexicalEntry id="L1329021">
       <Lemma writtenForm="-livoq" partOfSpeech="v"/>
       <Sense id="L1329021-S1" synset="wikidata-kl-L1329021-S1" ili="wikidata-kl-L1329021-S1">
-        <Definition></Definition>
+        <Definition>(makes something)</Definition>
       </Sense>
       <Sense id="L1329021-S2" synset="wikidata-kl-L1329021-S2" ili="wikidata-kl-L1329021-S2">
-        <Definition></Definition>
+        <Definition>(spends some period of time)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329052">
       <Lemma writtenForm="+luunniit" partOfSpeech="c"/>
       <Sense id="L1329052-S1" synset="wikidata-kl-L1329052-S1" ili="wikidata-kl-L1329052-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
       <Sense id="L1329052-S2" synset="wikidata-kl-L1329052-S2" ili="wikidata-kl-L1329052-S2">
-        <Definition></Definition>
+        <Definition>(with interrogatives) any</Definition>
       </Sense>
       <Sense id="L1329052-S3" synset="wikidata-kl-L1329052-S3" ili="wikidata-kl-L1329052-S3">
-        <Definition></Definition>
+        <Definition>(with negation) not even, not at all</Definition>
       </Sense>
       <Sense id="L1329052-S4" synset="wikidata-kl-L1329052-S4" ili="wikidata-kl-L1329052-S4">
-        <Definition></Definition>
+        <Definition>(with -galuaq- and conditional mood) even though</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329053">
@@ -596,22 +596,22 @@
         <Definition>pisarnermisut</Definition>
       </Sense>
       <Sense id="L1329308-S2" synset="wikidata-kl-L1329308-S2" ili="wikidata-kl-L1329308-S2">
-        <Definition></Definition>
+        <Definition>now again</Definition>
       </Sense>
       <Sense id="L1329308-S3" synset="wikidata-kl-L1329308-S3" ili="wikidata-kl-L1329308-S3">
-        <Definition></Definition>
+        <Definition>how typical of, unsurprisingly</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329347">
       <Lemma writtenForm="-ippoq" partOfSpeech="v"/>
       <Sense id="L1329347-S1" synset="wikidata-kl-L1329347-S1" ili="wikidata-kl-L1329347-S1">
-        <Definition></Definition>
+        <Definition>un-, in-; -less, there is/are no (reversive verbalizer)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329677">
       <Lemma writtenForm="asu" partOfSpeech="i"/>
       <Sense id="L1329677-S1" synset="wikidata-kl-L1329677-S1" ili="wikidata-kl-L1329677-S1">
-        <Definition></Definition>
+        <Definition>stop! that’s enough!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329933">
@@ -629,43 +629,43 @@
     <LexicalEntry id="L1330013">
       <Lemma writtenForm="-ppoq" partOfSpeech="v"/>
       <Sense id="L1330013-S1" synset="wikidata-kl-L1330013-S1" ili="wikidata-kl-L1330013-S1">
-        <Definition></Definition>
+        <Definition>(with noun stem for an animal) catch, kill</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330069">
       <Lemma writtenForm="qaqqaqqaa" partOfSpeech="i"/>
       <Sense id="L1330069-S1" synset="wikidata-kl-L1330069-S1" ili="wikidata-kl-L1330069-S1">
-        <Definition></Definition>
+        <Definition>(imitation of a raven’s call)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330408">
       <Lemma writtenForm="+siorpoq" partOfSpeech="v"/>
       <Sense id="L1330408-S1" synset="wikidata-kl-L1330408-S1" ili="wikidata-kl-L1330408-S1">
-        <Definition></Definition>
+        <Definition>search for, be looking for</Definition>
       </Sense>
       <Sense id="L1330408-S2" synset="wikidata-kl-L1330408-S2" ili="wikidata-kl-L1330408-S2">
-        <Definition></Definition>
+        <Definition>be exposed to</Definition>
       </Sense>
       <Sense id="L1330408-S3" synset="wikidata-kl-L1330408-S3" ili="wikidata-kl-L1330408-S3">
-        <Definition></Definition>
+        <Definition>celebrate (a holiday)</Definition>
       </Sense>
       <Sense id="L1330408-S4" synset="wikidata-kl-L1330408-S4" ili="wikidata-kl-L1330408-S4">
-        <Definition></Definition>
+        <Definition>travel around in/on (a place)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330420">
       <Lemma writtenForm="-orpoq" partOfSpeech="r"/>
       <Sense id="L1330420-S1" synset="wikidata-kl-L1330420-S1" ili="wikidata-kl-L1330420-S1">
-        <Definition></Definition>
+        <Definition>repeated/prolonged activity</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330701">
       <Lemma writtenForm="-qarpoq" partOfSpeech="v"/>
       <Sense id="L1330701-S1" synset="wikidata-kl-L1330701-S1" ili="wikidata-kl-L1330701-S1">
-        <Definition></Definition>
+        <Definition>have, has</Definition>
       </Sense>
       <Sense id="L1330701-S2" synset="wikidata-kl-L1330701-S2" ili="wikidata-kl-L1330701-S2">
-        <Definition></Definition>
+        <Definition>there is</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400553">
@@ -680,10 +680,10 @@
         <Definition>(inunngorpoq / allanngorpoq)</Definition>
       </Sense>
       <Sense id="L1401048-S2" synset="wikidata-kl-L1401048-S2" ili="wikidata-kl-L1401048-S2">
-        <Definition></Definition>
+        <Definition>o’clock</Definition>
       </Sense>
       <Sense id="L1401048-S3" synset="wikidata-kl-L1401048-S3" ili="wikidata-kl-L1401048-S3">
-        <Definition></Definition>
+        <Definition>([agent] makes [patient] be [noun])</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21629">
@@ -695,7 +695,7 @@
     <LexicalEntry id="L1320757">
       <Lemma writtenForm="at" partOfSpeech="h"/>
       <Sense id="L1320757-S1" synset="wikidata-kl-L1320757-S1" ili="wikidata-kl-L1320757-S1">
-        <Definition></Definition>
+        <Definition>(third-person plural possessive)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1327943">
@@ -725,7 +725,7 @@
     <LexicalEntry id="L1329033">
       <Lemma writtenForm="-lik" partOfSpeech="a"/>
       <Sense id="L1329033-S1" synset="wikidata-kl-L1329033-S1" ili="wikidata-kl-L1329033-S1">
-        <Definition></Definition>
+        <Definition>(numeral modifier)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329307">
@@ -737,25 +737,25 @@
     <LexicalEntry id="L1329674">
       <Lemma writtenForm="uaguk" partOfSpeech="h"/>
       <Sense id="L1329674-S1" synset="wikidata-kl-L1329674-S1" ili="wikidata-kl-L1329674-S1">
-        <Definition></Definition>
+        <Definition>(first person dual) us two</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329683">
       <Lemma writtenForm="-ssaaq" partOfSpeech="r"/>
       <Sense id="L1329683-S1" synset="wikidata-kl-L1329683-S1" ili="wikidata-kl-L1329683-S1">
-        <Definition></Definition>
+        <Definition>shall</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330014">
       <Lemma writtenForm="+niaq" partOfSpeech="x"/>
       <Sense id="L1330014-S1" synset="wikidata-kl-L1330014-S1" ili="wikidata-kl-L1330014-S1">
-        <Definition></Definition>
+        <Definition>(often with verbalisations for hunting for a particular animal) one who tries to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330039">
       <Lemma writtenForm="-gaa" partOfSpeech="v"/>
       <Sense id="L1330039-S1" synset="wikidata-kl-L1330039-S1" ili="wikidata-kl-L1330039-S1">
-        <Definition></Definition>
+        <Definition>(agent of verb has patient of noun)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330412">
@@ -764,10 +764,10 @@
         <Definition>sumut atortoq</Definition>
       </Sense>
       <Sense id="L1330412-S2" synset="wikidata-kl-L1330412-S2" ili="wikidata-kl-L1330412-S2">
-        <Definition></Definition>
+        <Definition>reason for</Definition>
       </Sense>
       <Sense id="L1330412-S3" synset="wikidata-kl-L1330412-S3" ili="wikidata-kl-L1330412-S3">
-        <Definition></Definition>
+        <Definition>time when</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1360531">
@@ -782,13 +782,13 @@
     <LexicalEntry id="L1377360">
       <Lemma writtenForm="+suaq" partOfSpeech="a"/>
       <Sense id="L1377360-S1" synset="wikidata-kl-L1377360-S1" ili="wikidata-kl-L1377360-S1">
-        <Definition></Definition>
+        <Definition>big</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400364">
       <Lemma writtenForm="-tsiaq" partOfSpeech="a"/>
       <Sense id="L1400364-S1" synset="wikidata-kl-L1400364-S1" ili="wikidata-kl-L1400364-S1">
-        <Definition></Definition>
+        <Definition>(fair-sized)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400497">
@@ -806,18 +806,18 @@
     <LexicalEntry id="L1409096">
       <Lemma writtenForm="-vik" partOfSpeech="x"/>
       <Sense id="L1409096-S1" synset="wikidata-kl-L1409096-S1" ili="wikidata-kl-L1409096-S1">
-        <Definition></Definition>
+        <Definition>place where one does</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1330705-S1"/>
       </Sense>
       <Sense id="L1409096-S2" synset="wikidata-kl-L1409096-S2" ili="wikidata-kl-L1409096-S2">
-        <Definition></Definition>
+        <Definition>time when one does</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1330705-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460065">
       <Lemma writtenForm="tyvit" partOfSpeech="m"/>
       <Sense id="L1460065-S1" synset="wikidata-kl-L1460065-S1" ili="wikidata-kl-L1460065-S1">
-        <Definition></Definition>
+        <Definition>tyve</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329051">
@@ -848,7 +848,7 @@
     <LexicalEntry id="L1330854">
       <Lemma writtenForm="en" partOfSpeech="d"/>
       <Sense id="L1330854-S1" synset="wikidata-kl-L1330854-S1" ili="wikidata-kl-L1330854-S1">
-        <Definition></Definition>
+        <Definition>one (used with currency and measurement units)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400416">
@@ -866,13 +866,13 @@
     <LexicalEntry id="L1414348">
       <Lemma writtenForm="kutaa" partOfSpeech="i"/>
       <Sense id="L1414348-S1" synset="wikidata-kl-L1414348-S1" ili="wikidata-kl-L1414348-S1">
-        <Definition></Definition>
+        <Definition>goddag</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1418593">
       <Lemma writtenForm="illillu" partOfSpeech="i"/>
       <Sense id="L1418593-S1" synset="wikidata-kl-L1418593-S1" ili="wikidata-kl-L1418593-S1">
-        <Definition></Definition>
+        <Definition>i lige måde</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1418605">
@@ -884,38 +884,38 @@
     <LexicalEntry id="L1418612">
       <Lemma writtenForm="kumoorn" partOfSpeech="i"/>
       <Sense id="L1418612-S1" synset="wikidata-kl-L1418612-S1" ili="wikidata-kl-L1418612-S1">
-        <Definition></Definition>
+        <Definition>godmorgen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1421421">
       <Lemma writtenForm="tamanna" partOfSpeech="h"/>
       <Sense id="L1421421-S1" synset="wikidata-kl-L1421421-S1" ili="wikidata-kl-L1421421-S1">
-        <Definition></Definition>
+        <Definition>this (one)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460209">
       <Lemma writtenForm="-lerpoq" partOfSpeech="x"/>
       <Sense id="L1460209-S1" synset="wikidata-kl-L1460209-S1" ili="wikidata-kl-L1460209-S1">
-        <Definition></Definition>
+        <Definition>skal til at</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460805">
       <Lemma writtenForm="sisamaat" partOfSpeech="m"/>
       <Sense id="L1460805-S1" synset="wikidata-kl-L1460805-S1" ili="wikidata-kl-L1460805-S1">
-        <Definition></Definition>
+        <Definition>fjerde</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1461676">
       <Lemma writtenForm="-innerpoq" partOfSpeech="x"/>
       <Sense id="L1461676-S1" synset="wikidata-kl-L1461676-S1" ili="wikidata-kl-L1461676-S1">
-        <Definition></Definition>
+        <Definition>only</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-kl-L1329015-S1" ili="wikidata-kl-L1329015-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>(third person singular possession of preceding nominal)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329041-S1" ili="wikidata-kl-L1329041-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(one who/that is acted on) [verb]-ee</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329054-S1" ili="wikidata-kl-L1329054-S1" partOfSpeech="r">
       <Definition>nangaavunga</Definition>
@@ -924,31 +924,31 @@
       <Definition>kisiat</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329057-S2" ili="wikidata-kl-L1329057-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>although, unless</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329355-S1" ili="wikidata-kl-L1329355-S1" partOfSpeech="h">
       <Definition>inna / anna / una</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329395-S1" ili="wikidata-kl-L1329395-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>recurring, habitually</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329650-S1" ili="wikidata-kl-L1329650-S1" partOfSpeech="x">
       <Definition>(allaaseq, atuaaseq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329722-S1" ili="wikidata-kl-L1329722-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(negative verbal modifier)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330704-S1" ili="wikidata-kl-L1330704-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>just, merely, a mere</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330705-S1" ili="wikidata-kl-L1330705-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>place where one does</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330705-S2" ili="wikidata-kl-L1330705-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>time when one does</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1331293-S1" ili="wikidata-kl-L1331293-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>two (used with currency and units of measurement)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400398-S1" ili="wikidata-kl-L1400398-S1" partOfSpeech="a">
       <Definition>(amikoq / illukoq)</Definition>
@@ -960,40 +960,40 @@
       <Definition>sunaana, tusaajuk</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1421393-S1" ili="wikidata-kl-L1421393-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>derhenne</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1422497-S1" ili="wikidata-kl-L1422497-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(indicates intention to perform an action)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1449063-S1" ili="wikidata-kl-L1449063-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>indtage, drikke, spise</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1461674-S1" ili="wikidata-kl-L1461674-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>thirteenth</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328524-S2" ili="wikidata-kl-L1328524-S2" partOfSpeech="x">
       <Definition>(iserportoq / tikipportoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328938-S1" ili="wikidata-kl-L1328938-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(forms collective family names)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S1" ili="wikidata-kl-L1329025-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the act of doing something)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S2" ili="wikidata-kl-L1329025-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the acting of the possessor)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S3" ili="wikidata-kl-L1329025-S3" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(while possessor acted)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S4" ili="wikidata-kl-L1329025-S4" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(before possessor acted)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S5" ili="wikidata-kl-L1329025-S5" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(because of action)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329025-S6" ili="wikidata-kl-L1329025-S6" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the more/most acting)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329565-S1" ili="wikidata-kl-L1329565-S1" partOfSpeech="i">
       <Definition>qanoq oqarpit?</Definition>
@@ -1005,10 +1005,10 @@
       <Definition>massa, aana</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329991-S1" ili="wikidata-kl-L1329991-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>my (first person singular possessive)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1331307-S1" ili="wikidata-kl-L1331307-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>three (used with currency and units of measurement)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400397-S1" ili="wikidata-kl-L1400397-S1" partOfSpeech="v">
       <Definition>(sikukkoorpoq / aputikkoorpoq)</Definition>
@@ -1017,46 +1017,46 @@
       <Definition>(inukasik / qimmikasik)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1410811-S1" ili="wikidata-kl-L1410811-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>very much</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1418595-S1" ili="wikidata-kl-L1418595-S1" partOfSpeech="i">
       <Definition>nasmi, naagga</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1451948-S1" ili="wikidata-kl-L1451948-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>wants to</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1463247-S1" ili="wikidata-kl-L1463247-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>-hed</Definition>
     </Synset>
     <Synset id="wikidata-kl-L21622-S1" ili="wikidata-kl-L21622-S1" partOfSpeech="h">
       <Definition>una</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328940-S1" ili="wikidata-kl-L1328940-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(group of)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328941-S1" ili="wikidata-kl-L1328941-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(group of many)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S1" ili="wikidata-kl-L1329024-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the act of doing something)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S2" ili="wikidata-kl-L1329024-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the acting of the possessor)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S3" ili="wikidata-kl-L1329024-S3" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(while possessor acted)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S4" ili="wikidata-kl-L1329024-S4" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(before possessor acted)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S5" ili="wikidata-kl-L1329024-S5" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(because of action)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329024-S6" ili="wikidata-kl-L1329024-S6" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(the more/most acting)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329343-S1" ili="wikidata-kl-L1329343-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>(obviative singular possessive)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329354-S1" ili="wikidata-kl-L1329354-S1" partOfSpeech="r">
       <Definition>allatut oqaatigalugu</Definition>
@@ -1065,64 +1065,64 @@
       <Definition>timmiaaraq, timmiaq</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330405-S1" ili="wikidata-kl-L1330405-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>means to search for</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330405-S2" ili="wikidata-kl-L1330405-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>means to travel in/through</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330732-S1" ili="wikidata-kl-L1330732-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(dynanic passive; patientive valency-reducing verbal modifier)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330735-S1" ili="wikidata-kl-L1330735-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>old</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1408816-S1" ili="wikidata-kl-L1408816-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(place where kept or stored)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1410809-S1" ili="wikidata-kl-L1410809-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>meget</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1416306-S1" ili="wikidata-kl-L1416306-S1" partOfSpeech="h">
       <Definition>taanna</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1419751-S1" ili="wikidata-kl-L1419751-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>go to</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1421418-S1" ili="wikidata-kl-L1421418-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>her er den</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1436543-S1" ili="wikidata-kl-L1436543-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>very</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1451950-S1" ili="wikidata-kl-L1451950-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(ellers god nok, men ...)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1459852-S1" ili="wikidata-kl-L1459852-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>tomorrow</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460207-S1" ili="wikidata-kl-L1460207-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>har afsluttet</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1461673-S1" ili="wikidata-kl-L1461673-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>third</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1521868-S1" ili="wikidata-kl-L1521868-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>lille, søde</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1142420-S1" ili="wikidata-kl-L1142420-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hej</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328526-S1" ili="wikidata-kl-L1328526-S1" partOfSpeech="r">
       <Definition>ilimanarpoq / qasunarpo</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329165-S1" ili="wikidata-kl-L1329165-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(one who/that is acted on) [verb]-ee</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329389-S1" ili="wikidata-kl-L1329389-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>has good/beautiful (monovalent verbalizing affix)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329389-S2" ili="wikidata-kl-L1329389-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>there is a good/beautiful (avelent verbalizing affix)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329681-S1" ili="wikidata-kl-L1329681-S1" partOfSpeech="v">
       <Definition>(allallaqqippoq / pillaqqippoq)</Definition>
@@ -1131,25 +1131,25 @@
       <Definition>(appaaq, nerlaaq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400417-S2" ili="wikidata-kl-L1400417-S2" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(young of)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400418-S1" ili="wikidata-kl-L1400418-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(resembling)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400555-S1" ili="wikidata-kl-L1400555-S1" partOfSpeech="r">
       <Definition>(qalaarpoq, qaquaarpoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1408808-S1" ili="wikidata-kl-L1408808-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(inhabitant of)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414626-S1" ili="wikidata-kl-L1414626-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>mange tak</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1440303-S1" ili="wikidata-kl-L1440303-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(one by one, piece by piece)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1452095-S1" ili="wikidata-kl-L1452095-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>make</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328944-S1" ili="wikidata-kl-L1328944-S1" partOfSpeech="h">
       <Definition>uangaanngitsoq</Definition>
@@ -1158,7 +1158,7 @@
       <Definition>uaguunngitsoq ilissi</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329166-S1" ili="wikidata-kl-L1329166-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(irrealis nominal suffix; supposed, destined, or intended)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329963-S1" ili="wikidata-kl-L1329963-S1" partOfSpeech="h">
       <Definition>inuk sorleq</Definition>
@@ -1170,52 +1170,52 @@
       <Definition>buy, acquire</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330416-S2" ili="wikidata-kl-L1330416-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>encounter, find, meet</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1377439-S1" ili="wikidata-kl-L1377439-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>tretten, tallet 13</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400548-S1" ili="wikidata-kl-L1400548-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(one who/that is acted on) [verb]-ee</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1409094-S1" ili="wikidata-kl-L1409094-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(agent provides/equips patient with)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1409094-S2" ili="wikidata-kl-L1409094-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(actor turns a number of years old)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414622-S1" ili="wikidata-kl-L1414622-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>tak</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1419744-S1" ili="wikidata-kl-L1419744-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>rejse til</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328047-S1" ili="wikidata-kl-L1328047-S1" partOfSpeech="c">
       <Definition>aamma</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328047-S2" ili="wikidata-kl-L1328047-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>[subject] and I</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329013-S1" ili="wikidata-kl-L1329013-S1" partOfSpeech="i">
       <Definition>suli, suli</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329021-S1" ili="wikidata-kl-L1329021-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(makes something)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329021-S2" ili="wikidata-kl-L1329021-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(spends some period of time)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329052-S1" ili="wikidata-kl-L1329052-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329052-S2" ili="wikidata-kl-L1329052-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>(with interrogatives) any</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329052-S3" ili="wikidata-kl-L1329052-S3" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>(with negation) not even, not at all</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329052-S4" ili="wikidata-kl-L1329052-S4" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>(with -galuaq- and conditional mood) even though</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329053-S1" ili="wikidata-kl-L1329053-S1" partOfSpeech="c">
       <Definition>imatulluunniit</Definition>
@@ -1227,16 +1227,16 @@
       <Definition>pisarnermisut</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329308-S2" ili="wikidata-kl-L1329308-S2" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>now again</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329308-S3" ili="wikidata-kl-L1329308-S3" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>how typical of, unsurprisingly</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329347-S1" ili="wikidata-kl-L1329347-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>un-, in-; -less, there is/are no (reversive verbalizer)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329677-S1" ili="wikidata-kl-L1329677-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>stop! that’s enough!</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329933-S1" ili="wikidata-kl-L1329933-S1" partOfSpeech="i">
       <Definition>(aarmeerpoq)</Definition>
@@ -1245,31 +1245,31 @@
       <Definition>ukiut marluk qaangiuppata</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330013-S1" ili="wikidata-kl-L1330013-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(with noun stem for an animal) catch, kill</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330069-S1" ili="wikidata-kl-L1330069-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>(imitation of a raven’s call)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330408-S1" ili="wikidata-kl-L1330408-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>search for, be looking for</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330408-S2" ili="wikidata-kl-L1330408-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>be exposed to</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330408-S3" ili="wikidata-kl-L1330408-S3" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>celebrate (a holiday)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330408-S4" ili="wikidata-kl-L1330408-S4" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>travel around in/on (a place)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330420-S1" ili="wikidata-kl-L1330420-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>repeated/prolonged activity</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330701-S1" ili="wikidata-kl-L1330701-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>have, has</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330701-S2" ili="wikidata-kl-L1330701-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>there is</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400553-S1" ili="wikidata-kl-L1400553-S1" partOfSpeech="r">
       <Definition>(kissalaarpoq / kialaarpoq)</Definition>
@@ -1278,16 +1278,16 @@
       <Definition>(inunngorpoq / allanngorpoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1401048-S2" ili="wikidata-kl-L1401048-S2" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>o’clock</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1401048-S3" ili="wikidata-kl-L1401048-S3" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>([agent] makes [patient] be [noun])</Definition>
     </Synset>
     <Synset id="wikidata-kl-L21629-S1" ili="wikidata-kl-L21629-S1" partOfSpeech="r">
       <Definition>uani</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1320757-S1" ili="wikidata-kl-L1320757-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>(third-person plural possessive)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1327943-S1" ili="wikidata-kl-L1327943-S1" partOfSpeech="y">
       <Definition>ilumut, suu</Definition>
@@ -1302,31 +1302,31 @@
       <Definition>taamaalimmat</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329033-S1" ili="wikidata-kl-L1329033-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(numeral modifier)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329307-S1" ili="wikidata-kl-L1329307-S1" partOfSpeech="y">
       <Definition>uumaangaa</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329674-S1" ili="wikidata-kl-L1329674-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>(first person dual) us two</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329683-S1" ili="wikidata-kl-L1329683-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>shall</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330014-S1" ili="wikidata-kl-L1330014-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>(often with verbalisations for hunting for a particular animal) one who tries to</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330039-S1" ili="wikidata-kl-L1330039-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(agent of verb has patient of noun)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330412-S1" ili="wikidata-kl-L1330412-S1" partOfSpeech="x">
       <Definition>sumut atortoq</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330412-S2" ili="wikidata-kl-L1330412-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>reason for</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330412-S3" ili="wikidata-kl-L1330412-S3" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>time when</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1360531-S1" ili="wikidata-kl-L1360531-S1" partOfSpeech="r">
       <Definition>(apeqqippoq)</Definition>
@@ -1335,10 +1335,10 @@
       <Definition>(innaaqqippoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1377360-S1" ili="wikidata-kl-L1377360-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>big</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400364-S1" ili="wikidata-kl-L1400364-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(fair-sized)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400497-S1" ili="wikidata-kl-L1400497-S1" partOfSpeech="i">
       <Definition>innga!</Definition>
@@ -1347,13 +1347,13 @@
       <Definition>(oqalualaarpoq, siorsualaarpoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1409096-S1" ili="wikidata-kl-L1409096-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>place where one does</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1409096-S2" ili="wikidata-kl-L1409096-S2" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>time when one does</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460065-S1" ili="wikidata-kl-L1460065-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>tyve</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329051-S1" ili="wikidata-kl-L1329051-S1" partOfSpeech="r">
       <Definition>imatut</Definition>
@@ -1368,7 +1368,7 @@
       <Definition>(angerlajaarpoq, aallajaarpoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330854-S1" ili="wikidata-kl-L1330854-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>one (used with currency and measurement units)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400416-S1" ili="wikidata-kl-L1400416-S1" partOfSpeech="a">
       <Definition>(appaliarsuk, angutaarsuk)</Definition>
@@ -1377,28 +1377,28 @@
       <Definition>(assingusoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414348-S1" ili="wikidata-kl-L1414348-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goddag</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1418593-S1" ili="wikidata-kl-L1418593-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>i lige måde</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1418605-S1" ili="wikidata-kl-L1418605-S1" partOfSpeech="i">
       <Definition>aap</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1418612-S1" ili="wikidata-kl-L1418612-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>godmorgen</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1421421-S1" ili="wikidata-kl-L1421421-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>this (one)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460209-S1" ili="wikidata-kl-L1460209-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>skal til at</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460805-S1" ili="wikidata-kl-L1460805-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>fjerde</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1461676-S1" ili="wikidata-kl-L1461676-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>only</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

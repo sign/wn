@@ -225,7 +225,7 @@
     <LexicalEntry id="L1337828">
       <Lemma writtenForm="со" partOfSpeech="v"/>
       <Sense id="L1337828-S1" synset="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1">
-        <Definition></Definition>
+        <Definition>con-, co-</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1373410">
@@ -791,7 +791,7 @@
     <LexicalEntry id="L476293">
       <Lemma writtenForm="вокруг" partOfSpeech="p"/>
       <Sense id="L476293-S1" synset="wikidata-ru-L476293-S1" ili="wikidata-ru-L476293-S1">
-        <Definition></Definition>
+        <Definition>гирд, дар гирди</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579894">
@@ -860,7 +860,7 @@
     <LexicalEntry id="L1419096">
       <Lemma writtenForm="а" partOfSpeech="c"/>
       <Sense id="L1419096-S1" synset="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1">
-        <Definition></Definition>
+        <Definition>but, and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1450783">
@@ -1048,7 +1048,7 @@
     <LexicalEntry id="L1416330">
       <Lemma writtenForm="почему" partOfSpeech="h"/>
       <Sense id="L1416330-S1" synset="wikidata-ru-L1416330-S1" ili="wikidata-ru-L1416330-S1">
-        <Definition></Definition>
+        <Definition>why</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L245942">
@@ -1057,7 +1057,7 @@
         <Definition>натуральное число</Definition>
       </Sense>
       <Sense id="L245942-S2" synset="wikidata-ru-L245942-S2" ili="wikidata-ru-L245942-S2">
-        <Definition></Definition>
+        <Definition>digit 4 (four)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L245948">
@@ -1498,15 +1498,18 @@
     </LexicalEntry>
     <Synset id="wikidata-ru-L2124-S1" ili="wikidata-ru-L2124-S1" partOfSpeech="x">
       <Definition>звук, издаваемый кукушкой</Definition>
+      <Example>«Ку-ку! ку-ку!» раздавалось в лесу.</Example>
     </Synset>
     <Synset id="wikidata-ru-L32930-S1" ili="wikidata-ru-L32930-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
+      <Example>Скряга Скрудж и три добрых духа.</Example>
     </Synset>
     <Synset id="wikidata-ru-L32930-S2" ili="wikidata-ru-L32930-S2" partOfSpeech="m">
       <Definition>цифра</Definition>
     </Synset>
     <Synset id="wikidata-ru-L59524-S1" ili="wikidata-ru-L59524-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
+      <Example>Один из крупнейших словарей русского языка.</Example>
     </Synset>
     <Synset id="wikidata-ru-L183954-S1" ili="wikidata-ru-L183954-S1" partOfSpeech="v">
       <Definition>помещённый внутрь</Definition>
@@ -1567,6 +1570,7 @@
     </Synset>
     <Synset id="wikidata-ru-L447101-S3" ili="wikidata-ru-L447101-S3" partOfSpeech="y">
       <Definition>усиливает, эмоционально выделяет, подчёркивает следующее за ним слово</Definition>
+      <Example>И какой чудный воздух: дышишь ― и сердце веселится.</Example>
     </Synset>
     <Synset id="wikidata-ru-L447101-S4" ili="wikidata-ru-L447101-S4" partOfSpeech="y">
       <Definition>подчёркивает, что действие или предмет вполне соответствуют чему-либо предварительно упомянутому</Definition>
@@ -1650,7 +1654,7 @@
       <Definition>выражает приказ, требование</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1337828-S1" ili="wikidata-ru-L1337828-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>con-, co-</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1373410-S1" ili="wikidata-ru-L1373410-S1" partOfSpeech="x">
       <Definition>обозначает действие, направленное на самого актора</Definition>
@@ -1750,15 +1754,19 @@
     </Synset>
     <Synset id="wikidata-ru-L409467-S1" ili="wikidata-ru-L409467-S1" partOfSpeech="h">
       <Definition>тот предмет, человек и т. п.; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным м. р. ед. ч.</Definition>
+      <Example>Тогда он оглянулся назад и, увидев меня, позвал меня.</Example>
     </Synset>
     <Synset id="wikidata-ru-L409467-S2" ili="wikidata-ru-L409467-S2" partOfSpeech="h">
       <Definition>местоимение третьего лица</Definition>
     </Synset>
     <Synset id="wikidata-ru-L447104-S1" ili="wikidata-ru-L447104-S1" partOfSpeech="i">
       <Definition>выражает несогласие со словами собеседника, возражение ему, увещание</Definition>
+      <Example>― Ел? ― И-и! Боже упаси, и смотреть не стал…</Example>
     </Synset>
     <Synset id="wikidata-ru-L447104-S2" ili="wikidata-ru-L447104-S2" partOfSpeech="i">
       <Definition>подчёркивает высокую степень, величину чего-либо</Definition>
+      <Example>Не смотрите, он таким общипанным кажет: он это так, для виду… у него деньги-то и-и!</Example>
+      <Example>― Учится-то он хорошо? — И-и, как учится! первый ученик-с</Example>
     </Synset>
     <Synset id="wikidata-ru-L447105-S1" ili="wikidata-ru-L447105-S1" partOfSpeech="x">
       <Definition>русская буква</Definition>
@@ -1780,6 +1788,7 @@
     </Synset>
     <Synset id="wikidata-ru-L582437-S1" ili="wikidata-ru-L582437-S1" partOfSpeech="h">
       <Definition>это лицо женского пола или этот объект, ассоциируемый с женским родом; указывает на предмет речи, выраженный в предшествующем или в последующем повествовании существительным женского рода</Definition>
+      <Example>Поэзия — светлый и свежий водоём, и когда душа прикасается к этой влаге, она пьёт из источника вечной юности.</Example>
     </Synset>
     <Synset id="wikidata-ru-L582438-S1" ili="wikidata-ru-L582438-S1" partOfSpeech="h">
       <Definition>принадлежащий или относящийся к тому, что выражено третьим лицом женского рода</Definition>
@@ -1846,9 +1855,11 @@
     </Synset>
     <Synset id="wikidata-ru-L2115-S1" ili="wikidata-ru-L2115-S1" partOfSpeech="i">
       <Definition>употребляется как категорическое решение окончить, прекратить, завершить что-либо</Definition>
+      <Example>Ну всё! Я ухожу.</Example>
     </Synset>
     <Synset id="wikidata-ru-L2115-S2" ili="wikidata-ru-L2115-S2" partOfSpeech="i">
       <Definition> употребляется как констатация чьей-то наступившей кончины; умер, скончался </Definition>
+      <Example>Изя всё</Example>
     </Synset>
     <Synset id="wikidata-ru-L245941-S1" ili="wikidata-ru-L245941-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
@@ -2070,7 +2081,7 @@
       <Definition>тёмная область на Солнце</Definition>
     </Synset>
     <Synset id="wikidata-ru-L476293-S1" ili="wikidata-ru-L476293-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>гирд, дар гирди</Definition>
     </Synset>
     <Synset id="wikidata-ru-L579894-S1" ili="wikidata-ru-L579894-S1" partOfSpeech="c">
       <Definition>употребляется при соотнесении однородных членов предложения или целых предложений (по значению взаимоисключающих или заменяющих друг друга), указывая на необходимость выбора между ними</Definition>
@@ -2121,7 +2132,7 @@
       <Definition>усилительная частица</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1419096-S1" ili="wikidata-ru-L1419096-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but, and</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1450783-S1" ili="wikidata-ru-L1450783-S1" partOfSpeech="p">
       <Definition>указывает на объект глагола: предмет, на который направлена мысль, речь, чувство, действие</Definition>
@@ -2158,9 +2169,11 @@
     </Synset>
     <Synset id="wikidata-ru-L2114-S1" ili="wikidata-ru-L2114-S1" partOfSpeech="c">
       <Definition>употребляется при выражении противопоставления</Definition>
+      <Example>Дай, — думает, — отвернусь, — всё не так страшно.</Example>
     </Synset>
     <Synset id="wikidata-ru-L2114-S2" ili="wikidata-ru-L2114-S2" partOfSpeech="c">
       <Definition> употребляется при подчёркивании, усилении значения (обычно в сочетании со сравнительной степенью прилагательных или наречий, а также с глаголами, обозначающими увеличение или уменьшение чего-либо)</Definition>
+      <Example>Она гуляла одна, всё в том же берете, с белым шпицем; никто не знал, кто она, и называли её просто так: дама с собачкой.</Example>
     </Synset>
     <Synset id="wikidata-ru-L2126-S1" ili="wikidata-ru-L2126-S1" partOfSpeech="a">
       <Definition>о чувстве удовлетворения, удовольствия, радости и т. п., испытываемом кем-либо</Definition>
@@ -2241,13 +2254,13 @@
       <Definition>выражает математическую необходимость в составе выражений</Definition>
     </Synset>
     <Synset id="wikidata-ru-L1416330-S1" ili="wikidata-ru-L1416330-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>why</Definition>
     </Synset>
     <Synset id="wikidata-ru-L245942-S1" ili="wikidata-ru-L245942-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-ru-L245942-S2" ili="wikidata-ru-L245942-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>digit 4 (four)</Definition>
     </Synset>
     <Synset id="wikidata-ru-L245948-S1" ili="wikidata-ru-L245948-S1" partOfSpeech="m">
       <Definition>натуральное число</Definition>
@@ -2425,6 +2438,7 @@
     </Synset>
     <Synset id="wikidata-ru-L37633-S1" ili="l2263-s1" partOfSpeech="m">
       <Definition>натуральное число между 999 и 1001, десять сотен</Definition>
+      <Example>Вы, я вижу, бескорыстно любите деньги. Скажите, какая сумма вам нравится? ― Пять тысяч, ― быстро ответил Балаганов.</Example>
     </Synset>
     <Synset id="wikidata-ru-L37633-S2" ili="wikidata-ru-L37633-S2" partOfSpeech="m">
       <Definition>большое неопределённое кол-во</Definition>

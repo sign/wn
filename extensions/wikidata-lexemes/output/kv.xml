@@ -11,65 +11,65 @@
     <LexicalEntry id="L47722">
       <Lemma writtenForm="тэ" partOfSpeech="h"/>
       <Sense id="L47722-S1" synset="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1">
-        <Definition></Definition>
+        <Definition>singular you</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47718">
       <Lemma writtenForm="вылын" partOfSpeech="p"/>
       <Sense id="L47718-S1" synset="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1">
-        <Definition></Definition>
+        <Definition>at the surface</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47719">
       <Lemma writtenForm="вӧсна" partOfSpeech="p"/>
       <Sense id="L47719-S1" synset="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1">
-        <Definition></Definition>
+        <Definition>because of something</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47723">
       <Lemma writtenForm="сійӧ" partOfSpeech="h"/>
       <Sense id="L47723-S1" synset="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1">
-        <Definition></Definition>
+        <Definition>third person singular personal pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47721">
       <Lemma writtenForm="ме" partOfSpeech="h"/>
       <Sense id="L47721-S1" synset="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1">
-        <Definition></Definition>
+        <Definition>I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47720">
       <Lemma writtenForm="ӧти" partOfSpeech="m"/>
       <Sense id="L47720-S1" synset="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L54522">
       <Lemma writtenForm="да" partOfSpeech="y"/>
       <Sense id="L54522-S1" synset="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-kv-L47722-S1" ili="wikidata-kv-L47722-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>singular you</Definition>
     </Synset>
     <Synset id="wikidata-kv-L47718-S1" ili="wikidata-kv-L47718-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>at the surface</Definition>
     </Synset>
     <Synset id="wikidata-kv-L47719-S1" ili="wikidata-kv-L47719-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of something</Definition>
     </Synset>
     <Synset id="wikidata-kv-L47723-S1" ili="wikidata-kv-L47723-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>third person singular personal pronoun</Definition>
     </Synset>
     <Synset id="wikidata-kv-L47721-S1" ili="wikidata-kv-L47721-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I</Definition>
     </Synset>
     <Synset id="wikidata-kv-L47720-S1" ili="wikidata-kv-L47720-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-kv-L54522-S1" ili="wikidata-kv-L54522-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

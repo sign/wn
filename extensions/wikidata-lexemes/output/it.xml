@@ -30,20 +30,20 @@
     <LexicalEntry id="L409873">
       <Lemma writtenForm="della" partOfSpeech="p"/>
       <Sense id="L409873-S1" synset="wikidata-it-L409873-S1" ili="wikidata-it-L409873-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
         <Example>Storia della letteratura italiana</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409874">
       <Lemma writtenForm="dei" partOfSpeech="p"/>
       <Sense id="L409874-S1" synset="wikidata-it-L409874-S1" ili="wikidata-it-L409874-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409876">
       <Lemma writtenForm="delle" partOfSpeech="p"/>
       <Sense id="L409876-S1" synset="wikidata-it-L409876-S1" ili="wikidata-it-L409876-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411104">
@@ -52,7 +52,7 @@
         <Definition>dentro</Definition>
       </Sense>
       <Sense id="L411104-S2" synset="wikidata-it-L411104-S2" ili="wikidata-it-L411104-S2">
-        <Definition></Definition>
+        <Definition>in</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165724">
@@ -64,7 +64,7 @@
     <LexicalEntry id="L1165821">
       <Lemma writtenForm="a meno che" partOfSpeech="c"/>
       <Sense id="L1165821-S1" synset="wikidata-it-L1165821-S1" ili="wikidata-it-L1165821-S1">
-        <Definition></Definition>
+        <Definition>unless</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165850">
@@ -184,7 +184,7 @@
     <LexicalEntry id="L1729">
       <Lemma writtenForm="perché" partOfSpeech="h"/>
       <Sense id="L1729-S1" synset="wikidata-it-L1729-S1" ili="wikidata-it-L1729-S1">
-        <Definition></Definition>
+        <Definition>why</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5159">
@@ -199,13 +199,13 @@
         <Definition>simbolo matematico</Definition>
       </Sense>
       <Sense id="L7407-S2" synset="wikidata-it-L7407-S2" ili="l2989-s1">
-        <Definition></Definition>
+        <Definition>intended to belong to, or be used by, or be used in connection with</Definition>
       </Sense>
       <Sense id="L7407-S3" synset="wikidata-it-L7407-S3" ili="l2989-s2">
         <Definition>indica uno scopo</Definition>
       </Sense>
       <Sense id="L7407-S4" synset="wikidata-it-L7407-S4" ili="l2989-s3">
-        <Definition></Definition>
+        <Definition>to the benefit of</Definition>
       </Sense>
       <Sense id="L7407-S5" synset="wikidata-it-L7407-S5" ili="l2989-s4">
         <Definition>indica un periodo</Definition>
@@ -226,7 +226,7 @@
     <LexicalEntry id="L409871">
       <Lemma writtenForm="del" partOfSpeech="p"/>
       <Sense id="L409871-S1" synset="wikidata-it-L409871-S1" ili="wikidata-it-L409871-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640216">
@@ -307,7 +307,7 @@
     <LexicalEntry id="L1201800">
       <Lemma writtenForm="diciotto" partOfSpeech="m"/>
       <Sense id="L1201800-S1" synset="wikidata-it-L1201800-S1" ili="wikidata-it-L1201800-S1">
-        <Definition></Definition>
+        <Definition>eighteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201819">
@@ -409,7 +409,7 @@
     <LexicalEntry id="L5163">
       <Lemma writtenForm="dieci" partOfSpeech="m"/>
       <Sense id="L5163-S1" synset="wikidata-it-L5163-S1" ili="wikidata-it-L5163-S1">
-        <Definition></Definition>
+        <Definition>ten</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7401">
@@ -464,7 +464,7 @@
     <LexicalEntry id="L1165767">
       <Lemma writtenForm="grazie" partOfSpeech="i"/>
       <Sense id="L1165767-S1" synset="wikidata-it-L1165767-S1" ili="wikidata-it-L1165767-S1">
-        <Definition></Definition>
+        <Definition>thanks</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165780">
@@ -500,13 +500,13 @@
     <LexicalEntry id="L1201797">
       <Lemma writtenForm="sedici" partOfSpeech="m"/>
       <Sense id="L1201797-S1" synset="wikidata-it-L1201797-S1" ili="wikidata-it-L1201797-S1">
-        <Definition></Definition>
+        <Definition>sixteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201799">
       <Lemma writtenForm="diciassette" partOfSpeech="m"/>
       <Sense id="L1201799-S1" synset="wikidata-it-L1201799-S1" ili="wikidata-it-L1201799-S1">
-        <Definition></Definition>
+        <Definition>seventeen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201803">
@@ -626,13 +626,13 @@
     <LexicalEntry id="L5160">
       <Lemma writtenForm="sette" partOfSpeech="m"/>
       <Sense id="L5160-S1" synset="wikidata-it-L5160-S1" ili="wikidata-it-L5160-S1">
-        <Definition></Definition>
+        <Definition>seven</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7404">
       <Lemma writtenForm="in" partOfSpeech="p"/>
       <Sense id="L7404-S1" synset="wikidata-it-L7404-S1" ili="l2987-s1">
-        <Definition></Definition>
+        <Definition>located within</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8480">
@@ -662,10 +662,10 @@
     <LexicalEntry id="L642867">
       <Lemma writtenForm="allo" partOfSpeech="p"/>
       <Sense id="L642867-S1" synset="wikidata-it-L642867-S1" ili="wikidata-it-L642867-S1">
-        <Definition></Definition>
+        <Definition>to the</Definition>
       </Sense>
       <Sense id="L642867-S2" synset="wikidata-it-L642867-S2" ili="wikidata-it-L642867-S2">
-        <Definition></Definition>
+        <Definition>in the style of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643347">
@@ -809,7 +809,7 @@
     <LexicalEntry id="L1727">
       <Lemma writtenForm="quando" partOfSpeech="h"/>
       <Sense id="L1727-S1" synset="wikidata-it-L1727-S1" ili="wikidata-it-L1727-S1">
-        <Definition></Definition>
+        <Definition>adverbe interrogatif</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2774">
@@ -822,7 +822,7 @@
     <LexicalEntry id="L2779">
       <Lemma writtenForm="o" partOfSpeech="c"/>
       <Sense id="L2779-S1" synset="wikidata-it-L2779-S1" ili="wikidata-it-L2779-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5155">
@@ -840,7 +840,7 @@
     <LexicalEntry id="L7406">
       <Lemma writtenForm="su" partOfSpeech="p"/>
       <Sense id="L7406-S2" synset="wikidata-it-L7406-S2" ili="l2260-s1">
-        <Definition></Definition>
+        <Definition>placed above</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7409">
@@ -895,7 +895,7 @@
     <LexicalEntry id="L1165877">
       <Lemma writtenForm="mentre" partOfSpeech="c"/>
       <Sense id="L1165877-S1" synset="wikidata-it-L1165877-S1" ili="l3318-s1">
-        <Definition></Definition>
+        <Definition>during the same time as</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201777">
@@ -1078,7 +1078,7 @@
     <LexicalEntry id="L8366">
       <Lemma writtenForm="il" partOfSpeech="d"/>
       <Sense id="L8366-S3" synset="wikidata-it-L8366-S3" ili="wikidata-it-L8366-S3">
-        <Definition></Definition>
+        <Definition>the (definite article)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21234">
@@ -1165,16 +1165,16 @@
     <LexicalEntry id="L1201790">
       <Lemma writtenForm="undici" partOfSpeech="m"/>
       <Sense id="L1201790-S1" synset="wikidata-it-L1201790-S1" ili="wikidata-it-L1201790-S1">
-        <Definition></Definition>
+        <Definition>eleven</Definition>
       </Sense>
       <Sense id="L1201790-S2" synset="wikidata-it-L1201790-S2" ili="wikidata-it-L1201790-S2">
-        <Definition></Definition>
+        <Definition>football team</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201795">
       <Lemma writtenForm="quattordici" partOfSpeech="m"/>
       <Sense id="L1201795-S1" synset="wikidata-it-L1201795-S1" ili="wikidata-it-L1201795-S1">
-        <Definition></Definition>
+        <Definition>fourteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201805">
@@ -1300,10 +1300,10 @@
     <LexicalEntry id="L7403">
       <Lemma writtenForm="da" partOfSpeech="p"/>
       <Sense id="L7403-S1" synset="wikidata-it-L7403-S1" ili="l2168-s1">
-        <Definition></Definition>
+        <Definition>used to indicate source/origin</Definition>
       </Sense>
       <Sense id="L7403-S2" synset="wikidata-it-L7403-S2" ili="l2168-s2">
-        <Definition></Definition>
+        <Definition>used to indicate starting point, temporally or spatially</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7408">
@@ -1393,10 +1393,10 @@
     <LexicalEntry id="L1201796">
       <Lemma writtenForm="quindici" partOfSpeech="m"/>
       <Sense id="L1201796-S1" synset="wikidata-it-L1201796-S1" ili="wikidata-it-L1201796-S1">
-        <Definition></Definition>
+        <Definition>fifteen</Definition>
       </Sense>
       <Sense id="L1201796-S2" synset="wikidata-it-L1201796-S2" ili="wikidata-it-L1201796-S2">
-        <Definition></Definition>
+        <Definition>fifteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201802">
@@ -1462,13 +1462,13 @@
     <LexicalEntry id="L1728">
       <Lemma writtenForm="dove" partOfSpeech="h"/>
       <Sense id="L1728-S1" synset="wikidata-it-L1728-S1" ili="wikidata-it-L1728-S1">
-        <Definition></Definition>
+        <Definition>where</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1730">
       <Lemma writtenForm="quanto" partOfSpeech="h"/>
       <Sense id="L1730-S1" synset="wikidata-it-L1730-S1" ili="wikidata-it-L1730-S1">
-        <Definition></Definition>
+        <Definition>adverbe interrogatif</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5161">
@@ -1486,19 +1486,19 @@
     <LexicalEntry id="L21245">
       <Lemma writtenForm="dello" partOfSpeech="p"/>
       <Sense id="L21245-S1" synset="wikidata-it-L21245-S1" ili="wikidata-it-L21245-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409875">
       <Lemma writtenForm="degli" partOfSpeech="p"/>
       <Sense id="L409875-S1" synset="wikidata-it-L409875-S1" ili="wikidata-it-L409875-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L592385">
       <Lemma writtenForm="all&apos;arme" partOfSpeech="i"/>
       <Sense id="L592385-S1" synset="wikidata-it-L592385-S1" ili="wikidata-it-L592385-S1">
-        <Definition></Definition>
+        <Definition>to arms</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1145348">
@@ -1528,7 +1528,7 @@
     <LexicalEntry id="L1165774">
       <Lemma writtenForm="in bocca al lupo" partOfSpeech="i"/>
       <Sense id="L1165774-S1" synset="wikidata-it-L1165774-S1" ili="wikidata-it-L1165774-S1">
-        <Definition></Definition>
+        <Definition>held og lykke</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165813">
@@ -1576,13 +1576,13 @@
     <LexicalEntry id="L1201792">
       <Lemma writtenForm="dodici" partOfSpeech="m"/>
       <Sense id="L1201792-S1" synset="wikidata-it-L1201792-S1" ili="wikidata-it-L1201792-S1">
-        <Definition></Definition>
+        <Definition>twelve</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201793">
       <Lemma writtenForm="tredici" partOfSpeech="m"/>
       <Sense id="L1201793-S1" synset="wikidata-it-L1201793-S1" ili="wikidata-it-L1201793-S1">
-        <Definition></Definition>
+        <Definition>thirteen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201812">
@@ -1676,6 +1676,7 @@
     </LexicalEntry>
     <Synset id="wikidata-it-L5156-S1" ili="wikidata-it-L5156-S1" partOfSpeech="m">
       <Definition>numero naturale che segue due e precede quattro</Definition>
+      <Example>Pigliami una giovenca di tre anni, ed una capra di tre anni, ed un montone di tre anni</Example>
     </Synset>
     <Synset id="wikidata-it-L7402-S1" ili="wikidata-it-L7402-S1" partOfSpeech="p">
       <Definition>verso un posto</Definition>
@@ -1687,25 +1688,26 @@
       <Definition>per il beneficio di qualcuno</Definition>
     </Synset>
     <Synset id="wikidata-it-L409873-S1" ili="wikidata-it-L409873-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
+      <Example>Storia della letteratura italiana</Example>
     </Synset>
     <Synset id="wikidata-it-L409874-S1" ili="wikidata-it-L409874-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-it-L409876-S1" ili="wikidata-it-L409876-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-it-L411104-S1" ili="wikidata-it-L411104-S1" partOfSpeech="p">
       <Definition>dentro</Definition>
     </Synset>
     <Synset id="wikidata-it-L411104-S2" ili="wikidata-it-L411104-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165724-S1" ili="wikidata-it-L1165724-S1" partOfSpeech="i">
       <Definition>usata per esortare, incitare e simili</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165821-S1" ili="wikidata-it-L1165821-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>unless</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165850-S1" ili="wikidata-it-L1165850-S1" partOfSpeech="c">
       <Definition>nel luogo in cui</Definition>
@@ -1765,7 +1767,7 @@
       <Definition>che cosa, quale oggetto</Definition>
     </Synset>
     <Synset id="wikidata-it-L1729-S1" ili="wikidata-it-L1729-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>why</Definition>
     </Synset>
     <Synset id="wikidata-it-L5159-S1" ili="wikidata-it-L5159-S1" partOfSpeech="m">
       <Definition>numero naturale che segue cinque e precede sette</Definition>
@@ -1774,13 +1776,13 @@
       <Definition>simbolo matematico</Definition>
     </Synset>
     <Synset id="wikidata-it-L7407-S2" ili="l2989-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>intended to belong to, or be used by, or be used in connection with</Definition>
     </Synset>
     <Synset id="wikidata-it-L7407-S3" ili="l2989-s2" partOfSpeech="p">
       <Definition>indica uno scopo</Definition>
     </Synset>
     <Synset id="wikidata-it-L7407-S4" ili="l2989-s3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to the benefit of</Definition>
     </Synset>
     <Synset id="wikidata-it-L7407-S5" ili="l2989-s4" partOfSpeech="p">
       <Definition>indica un periodo</Definition>
@@ -1792,13 +1794,15 @@
       <Definition>pronome</Definition>
     </Synset>
     <Synset id="wikidata-it-L409871-S1" ili="wikidata-it-L409871-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-it-L640216-S1" ili="wikidata-it-L640216-S1" partOfSpeech="r">
       <Definition>Messo in serbo con l&apos;intenzione di servirsene o occuparsene in un secondo momento</Definition>
+      <Example>Ho messo da parte dei risparmi per ogni evenienza</Example>
     </Synset>
     <Synset id="wikidata-it-L640216-S2" ili="wikidata-it-L640216-S2" partOfSpeech="r">
       <Definition>Separato da un gruppo</Definition>
+      <Example>Alla festa è restato da parte per tutto il tempo</Example>
     </Synset>
     <Synset id="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1" partOfSpeech="n">
       <Definition>materiale colloidale bifasico elastico, costituito da un liquido disperso e inglobato nella fase solida</Definition>
@@ -1834,7 +1838,7 @@
       <Definition>4000</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201800-S1" ili="wikidata-it-L1201800-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>eighteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201819-S1" ili="wikidata-it-L1201819-S1" partOfSpeech="m">
       <Definition>30</Definition>
@@ -1885,13 +1889,15 @@
       <Definition>per chiedere di identificare una o più persone</Definition>
     </Synset>
     <Synset id="wikidata-it-L5163-S1" ili="wikidata-it-L5163-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>ten</Definition>
     </Synset>
     <Synset id="wikidata-it-L7401-S1" ili="l2986-s1" partOfSpeech="p">
       <Definition>Indica la composizione di un gruppo</Definition>
+      <Example>una mandria di bufali</Example>
     </Synset>
     <Synset id="wikidata-it-L7401-S2" ili="wikidata-it-L7401-S2" partOfSpeech="p">
       <Definition>Indica l&apos;autore di un&apos;azione</Definition>
+      <Example>il canto degli uccelli</Example>
     </Synset>
     <Synset id="wikidata-it-L7401-S3" ili="wikidata-it-L7401-S3" partOfSpeech="p">
       <Definition>indica una relazione di possesso/appartenenza</Definition>
@@ -1901,9 +1907,11 @@
     </Synset>
     <Synset id="wikidata-it-L640545-S1" ili="wikidata-it-L640545-S1" partOfSpeech="r">
       <Definition>in forma succinta, coincisa</Definition>
+      <Example>nella mia denuncia ho scritto un resoconto in breve di quanto mi è successo</Example>
     </Synset>
     <Synset id="wikidata-it-L640545-S2" ili="wikidata-it-L640545-S2" partOfSpeech="r">
       <Definition>locuzione che si usa prima di riassumere quanto detto in precedenza o arrivare in fretta al punto principale della questione</Definition>
+      <Example>la lezione di oggi era una noia che non ti dico. In breve, ho dormito tutto il tempo</Example>
     </Synset>
     <Synset id="wikidata-it-L643346-S1" ili="wikidata-it-L643346-S1" partOfSpeech="h">
       <Definition>terza persona singolare femminile</Definition>
@@ -1915,7 +1923,7 @@
       <Definition>comando di interruzione o sospensione repentina di un&apos;azione</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165767-S1" ili="wikidata-it-L1165767-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thanks</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165780-S1" ili="wikidata-it-L1165780-S1" partOfSpeech="i">
       <Definition>esprime contrarietà, rabbia o frustrazione</Definition>
@@ -1933,10 +1941,10 @@
       <Definition>uno seguito da cento zeri</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201797-S1" ili="wikidata-it-L1201797-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>sixteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201799-S1" ili="wikidata-it-L1201799-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>seventeen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201803-S1" ili="wikidata-it-L1201803-S1" partOfSpeech="m">
       <Definition>20</Definition>
@@ -1996,10 +2004,10 @@
       <Definition>cardinale</Definition>
     </Synset>
     <Synset id="wikidata-it-L5160-S1" ili="wikidata-it-L5160-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>seven</Definition>
     </Synset>
     <Synset id="wikidata-it-L7404-S1" ili="l2987-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>located within</Definition>
     </Synset>
     <Synset id="wikidata-it-L8480-S2" ili="wikidata-it-L8480-S2" partOfSpeech="d">
       <Definition>articolo indeterminato che accompagna un elemento non meglio identificato</Definition>
@@ -2014,10 +2022,10 @@
       <Definition>detto di qualcosa che non era mai successo</Definition>
     </Synset>
     <Synset id="wikidata-it-L642867-S1" ili="wikidata-it-L642867-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to the</Definition>
     </Synset>
     <Synset id="wikidata-it-L642867-S2" ili="wikidata-it-L642867-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in the style of</Definition>
     </Synset>
     <Synset id="wikidata-it-L643347-S1" ili="wikidata-it-L643347-S1" partOfSpeech="h">
       <Definition>seconda persona plurale</Definition>
@@ -2089,13 +2097,14 @@
       <Definition>numero</Definition>
     </Synset>
     <Synset id="wikidata-it-L1727-S1" ili="wikidata-it-L1727-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>adverbe interrogatif</Definition>
     </Synset>
     <Synset id="wikidata-it-L2774-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>congiunzione semplice, copulativa e positiva</Definition>
+      <Example>Erbaggi e legumi</Example>
     </Synset>
     <Synset id="wikidata-it-L2779-S1" ili="wikidata-it-L2779-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-it-L5155-S1" ili="wikidata-it-L5155-S1" partOfSpeech="m">
       <Definition>una coppia di</Definition>
@@ -2104,7 +2113,7 @@
       <Definition>cardinale</Definition>
     </Synset>
     <Synset id="wikidata-it-L7406-S2" ili="l2260-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>placed above</Definition>
     </Synset>
     <Synset id="wikidata-it-L7409-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>in mezzo a</Definition>
@@ -2131,7 +2140,7 @@
       <Definition>persino, perfino</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165877-S1" ili="l3318-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>during the same time as</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201777-S1" ili="wikidata-it-L1201777-S1" partOfSpeech="m">
       <Definition>2000</Definition>
@@ -2224,7 +2233,7 @@
       <Definition>che appartiene a noi</Definition>
     </Synset>
     <Synset id="wikidata-it-L8366-S3" ili="wikidata-it-L8366-S3" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the (definite article)</Definition>
     </Synset>
     <Synset id="wikidata-it-L21234-S1" ili="wikidata-it-L21234-S1" partOfSpeech="m">
       <Definition>numero dopo novantanove e prima di centouno</Definition>
@@ -2234,12 +2243,15 @@
     </Synset>
     <Synset id="wikidata-it-L640214-S1" ili="wikidata-it-L640214-S1" partOfSpeech="r">
       <Definition>Separatamente, in altro contesto o occasione</Definition>
+      <Example>Pagherò il mio conto a parte</Example>
     </Synset>
     <Synset id="wikidata-it-L640214-S2" ili="wikidata-it-L640214-S2" partOfSpeech="r">
       <Definition>Non incluso nel costo</Definition>
+      <Example>Il coperto è a parte e costa 1 Euro a testa</Example>
     </Synset>
     <Synset id="wikidata-it-L640214-S3" ili="wikidata-it-L640214-S3" partOfSpeech="r">
       <Definition>Con l&apos;eccezione di, nonostante</Definition>
+      <Example>A parte i problemi con la macchina, è stata una bellissima vacanza</Example>
     </Synset>
     <Synset id="wikidata-it-L643344-S1" ili="l482-s1" partOfSpeech="h">
       <Definition>seconda persona singolare</Definition>
@@ -2269,13 +2281,13 @@
       <Definition>7000</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201790-S1" ili="wikidata-it-L1201790-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>eleven</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201790-S2" ili="wikidata-it-L1201790-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>football team</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201795-S1" ili="wikidata-it-L1201795-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>fourteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201805-S1" ili="wikidata-it-L1201805-S1" partOfSpeech="m">
       <Definition>21</Definition>
@@ -2338,16 +2350,17 @@
       <Definition>numero ordinale per 9</Definition>
     </Synset>
     <Synset id="wikidata-it-L7403-S1" ili="l2168-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>used to indicate source/origin</Definition>
     </Synset>
     <Synset id="wikidata-it-L7403-S2" ili="l2168-s2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>used to indicate starting point, temporally or spatially</Definition>
     </Synset>
     <Synset id="wikidata-it-L7408-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>in mezzo a</Definition>
     </Synset>
     <Synset id="wikidata-it-L640221-S1" ili="wikidata-it-L640221-S1" partOfSpeech="r">
       <Definition>Parzialmente, non completamente</Definition>
+      <Example>Ho preparato la valigia solo in parte</Example>
     </Synset>
     <Synset id="wikidata-it-L640221-S2" ili="wikidata-it-L640221-S2" partOfSpeech="r">
       <Definition>In disparte, da parte</Definition>
@@ -2386,10 +2399,10 @@
       <Definition>400</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201796-S1" ili="wikidata-it-L1201796-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>fifteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201796-S2" ili="wikidata-it-L1201796-S2" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>fifteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201802-S1" ili="wikidata-it-L1201802-S1" partOfSpeech="m">
       <Definition>19</Definition>
@@ -2422,10 +2435,10 @@
       <Definition>chiunque</Definition>
     </Synset>
     <Synset id="wikidata-it-L1728-S1" ili="wikidata-it-L1728-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>where</Definition>
     </Synset>
     <Synset id="wikidata-it-L1730-S1" ili="wikidata-it-L1730-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>adverbe interrogatif</Definition>
     </Synset>
     <Synset id="wikidata-it-L5161-S1" ili="wikidata-it-L5161-S1" partOfSpeech="m">
       <Definition>numero naturale che segue sette e precede nove</Definition>
@@ -2434,13 +2447,13 @@
       <Definition>che appartiene a lui/lei</Definition>
     </Synset>
     <Synset id="wikidata-it-L21245-S1" ili="wikidata-it-L21245-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-it-L409875-S1" ili="wikidata-it-L409875-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-it-L592385-S1" ili="wikidata-it-L592385-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>to arms</Definition>
     </Synset>
     <Synset id="wikidata-it-L1145348-S1" ili="wikidata-it-L1145348-S1" partOfSpeech="m">
       <Definition>1000000000</Definition>
@@ -2455,7 +2468,7 @@
       <Definition>sottolinea un&apos;intuizione o una scoperta</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165774-S1" ili="wikidata-it-L1165774-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>held og lykke</Definition>
     </Synset>
     <Synset id="wikidata-it-L1165813-S1" ili="wikidata-it-L1165813-S1" partOfSpeech="i">
       <Definition>espressione con riferimento a qualcosa di inaspettato, talvolta esagerato, al di là di quanto si vede comunemente</Definition>
@@ -2479,10 +2492,10 @@
       <Definition>9000</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201792-S1" ili="wikidata-it-L1201792-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>twelve</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201793-S1" ili="wikidata-it-L1201793-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>thirteen</Definition>
     </Synset>
     <Synset id="wikidata-it-L1201812-S1" ili="wikidata-it-L1201812-S1" partOfSpeech="m">
       <Definition>25</Definition>
@@ -2492,9 +2505,11 @@
     </Synset>
     <Synset id="wikidata-it-L1201846-S1" ili="wikidata-it-L1201846-S1" partOfSpeech="m">
       <Definition>48</Definition>
+      <Example>Sei per otto, quarantotto.</Example>
     </Synset>
     <Synset id="wikidata-it-L1201846-S2" ili="wikidata-it-L1201846-S2" partOfSpeech="m">
       <Definition>subbuglio, rivoluzione (paragonando ai moti italiani del 1848)</Definition>
+      <Example>Stai facendo un quarantotto con questi documenti.</Example>
     </Synset>
     <Synset id="wikidata-it-L1201879-S1" ili="wikidata-it-L1201879-S1" partOfSpeech="m">
       <Definition>71</Definition>

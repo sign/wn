@@ -11,20 +11,20 @@
     <LexicalEntry id="L1091117">
       <Lemma writtenForm="چھُ" partOfSpeech="v"/>
       <Sense id="L1091117-S1" synset="wikidata-ks-L1091117-S1" ili="wikidata-ks-L1091117-S1">
-        <Definition></Definition>
+        <Definition>existence</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1134450">
       <Lemma writtenForm="مَگَر" partOfSpeech="c"/>
       <Sense id="L1134450-S1" synset="wikidata-ks-L1134450-S1" ili="wikidata-ks-L1134450-S1">
-        <Definition></Definition>
+        <Definition>but</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ks-L1091117-S1" ili="wikidata-ks-L1091117-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>existence</Definition>
     </Synset>
     <Synset id="wikidata-ks-L1134450-S1" ili="wikidata-ks-L1134450-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

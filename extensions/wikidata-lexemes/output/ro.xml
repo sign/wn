@@ -11,38 +11,38 @@
     <LexicalEntry id="L941798">
       <Lemma writtenForm="eu" partOfSpeech="h"/>
       <Sense id="L941798-S1" synset="wikidata-ro-L941798-S1" ili="wikidata-ro-L941798-S1">
-        <Definition></Definition>
+        <Definition>I; first-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449929">
       <Lemma writtenForm="pa" partOfSpeech="i"/>
       <Sense id="L1449929-S1" synset="wikidata-ro-L1449929-S1" ili="wikidata-ro-L1449929-S1">
-        <Definition></Definition>
+        <Definition>farvel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L684435">
       <Lemma writtenForm="unu" partOfSpeech="d"/>
       <Sense id="L684435-S1" synset="wikidata-ro-L684435-S1" ili="wikidata-ro-L684435-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449931">
       <Lemma writtenForm="pardon" partOfSpeech="i"/>
       <Sense id="L1449931-S1" synset="wikidata-ro-L1449931-S1" ili="wikidata-ro-L1449931-S1">
-        <Definition></Definition>
+        <Definition>undskyld</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ro-L941798-S1" ili="wikidata-ro-L941798-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I; first-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-ro-L1449929-S1" ili="wikidata-ro-L1449929-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>farvel</Definition>
     </Synset>
     <Synset id="wikidata-ro-L684435-S1" ili="wikidata-ro-L684435-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-ro-L1449931-S1" ili="wikidata-ro-L1449931-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>undskyld</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

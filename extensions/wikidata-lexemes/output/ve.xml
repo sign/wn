@@ -11,20 +11,20 @@
     <LexicalEntry id="L407045">
       <Lemma writtenForm="ee" partOfSpeech="y"/>
       <Sense id="L407045-S1" synset="wikidata-ve-L407045-S1" ili="wikidata-ve-L407045-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L407046">
       <Lemma writtenForm="hai" partOfSpeech="y"/>
       <Sense id="L407046-S1" synset="wikidata-ve-L407046-S1" ili="wikidata-ve-L407046-S1">
-        <Definition></Definition>
+        <Definition>no</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-ve-L407045-S1" ili="wikidata-ve-L407045-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-ve-L407046-S1" ili="wikidata-ve-L407046-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>no</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

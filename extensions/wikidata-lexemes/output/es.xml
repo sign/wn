@@ -11,7 +11,7 @@
     <LexicalEntry id="L11720">
       <Lemma writtenForm="un" partOfSpeech="d"/>
       <Sense id="L11720-S1" synset="wikidata-es-L11720-S1" ili="wikidata-es-L11720-S1">
-        <Definition></Definition>
+        <Definition>a(n), indefinite article</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11739">
@@ -179,7 +179,7 @@
     <LexicalEntry id="L1411934">
       <Lemma writtenForm="vamos" partOfSpeech="i"/>
       <Sense id="L1411934-S1" synset="wikidata-es-L1411934-S1" ili="wikidata-es-L1411934-S1">
-        <Definition></Definition>
+        <Definition>let’s go!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11728">
@@ -192,7 +192,7 @@
     <LexicalEntry id="L11768">
       <Lemma writtenForm="vía" partOfSpeech="p"/>
       <Sense id="L11768-S1" synset="wikidata-es-L11768-S1" ili="l8964-s1">
-        <Definition></Definition>
+        <Definition>igennem</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40971">
@@ -230,7 +230,7 @@
     <LexicalEntry id="L56999">
       <Lemma writtenForm="vosotros" partOfSpeech="h"/>
       <Sense id="L56999-S1" synset="wikidata-es-L56999-S1" ili="wikidata-es-L56999-S1">
-        <Definition></Definition>
+        <Definition>second-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L57009">
@@ -399,7 +399,7 @@
     <LexicalEntry id="L1410269">
       <Lemma writtenForm="ay" partOfSpeech="i"/>
       <Sense id="L1410269-S1" synset="wikidata-es-L1410269-S1" ili="wikidata-es-L1410269-S1">
-        <Definition></Definition>
+        <Definition>(expression of pain or pleasure)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11724">
@@ -590,7 +590,7 @@
     <LexicalEntry id="L622351">
       <Lemma writtenForm="por si las moscas" partOfSpeech="r"/>
       <Sense id="L622351-S1" synset="wikidata-es-L622351-S1" ili="wikidata-es-L622351-S1">
-        <Definition></Definition>
+        <Definition>just in case</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L692468">
@@ -626,7 +626,7 @@
     <LexicalEntry id="L2776">
       <Lemma writtenForm="y" partOfSpeech="c"/>
       <Sense id="L2776-S1" synset="wikidata-es-L2776-S1" ili="wikidata-es-L2776-S1">
-        <Definition></Definition>
+        <Definition>and; joins words and equal sentence parts together</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11730">
@@ -655,7 +655,7 @@
     <LexicalEntry id="L11749">
       <Lemma writtenForm="según" partOfSpeech="p"/>
       <Sense id="L11749-S1" synset="wikidata-es-L11749-S1" ili="wikidata-es-L11749-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40745">
@@ -701,7 +701,7 @@
     <LexicalEntry id="L57355">
       <Lemma writtenForm="se" partOfSpeech="h"/>
       <Sense id="L57355-S1" synset="wikidata-es-L57355-S1" ili="wikidata-es-L57355-S1">
-        <Definition></Definition>
+        <Definition>self</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L57879">
@@ -837,10 +837,10 @@
     <LexicalEntry id="L11737">
       <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L11737-S1" synset="wikidata-es-L11737-S1" ili="wikidata-es-L11737-S1">
-        <Definition></Definition>
+        <Definition>of, concerning, about</Definition>
       </Sense>
       <Sense id="L11737-S2" synset="wikidata-es-L11737-S2" ili="wikidata-es-L11737-S2">
-        <Definition></Definition>
+        <Definition>from, away from, down from, out of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11742">
@@ -852,7 +852,7 @@
     <LexicalEntry id="L56588">
       <Lemma writtenForm="mi" partOfSpeech="h"/>
       <Sense id="L56588-S2" synset="wikidata-es-L56588-S2" ili="wikidata-es-L56588-S2">
-        <Definition></Definition>
+        <Definition>a mía, a mío</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L56677">
@@ -1168,7 +1168,7 @@
     <LexicalEntry id="L56997">
       <Lemma writtenForm="usted" partOfSpeech="h"/>
       <Sense id="L56997-S1" synset="wikidata-es-L56997-S1" ili="wikidata-es-L56997-S1">
-        <Definition></Definition>
+        <Definition>Formal second-person address form</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L57006">
@@ -1223,7 +1223,7 @@
     <LexicalEntry id="L57886">
       <Lemma writtenForm="para siempre" partOfSpeech="r"/>
       <Sense id="L57886-S1" synset="wikidata-es-L57886-S1" ili="wikidata-es-L57886-S1">
-        <Definition></Definition>
+        <Definition>For always</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L58219">
@@ -1272,7 +1272,7 @@
     <LexicalEntry id="L727552">
       <Lemma writtenForm="en lontananza" partOfSpeech="r"/>
       <Sense id="L727552-S1" synset="wikidata-es-L727552-S1" ili="wikidata-es-L727552-S1">
-        <Definition></Definition>
+        <Definition>box</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L755292">
@@ -1322,7 +1322,7 @@
     <LexicalEntry id="L11718">
       <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L11718-S1" synset="wikidata-es-L11718-S1" ili="wikidata-es-L11718-S1">
-        <Definition></Definition>
+        <Definition>to (destination of action)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11719">
@@ -1397,7 +1397,7 @@
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-es-L11720-S1" ili="wikidata-es-L11720-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>a(n), indefinite article</Definition>
     </Synset>
     <Synset id="wikidata-es-L11739-S1" ili="wikidata-es-L11739-S1" partOfSpeech="p">
       <Definition>Preposición que indica el origen o inicio de una actividad, tanto en sentido locativo, como cronológico.</Definition>
@@ -1407,12 +1407,15 @@
     </Synset>
     <Synset id="wikidata-es-L11744-S1" ili="wikidata-es-L11744-S1" partOfSpeech="p">
       <Definition>indica el fin o término de una actividad en sentido locativo</Definition>
+      <Example>Se extiende desde el océano Glacial Ártico hasta el Antártico.</Example>
     </Synset>
     <Synset id="wikidata-es-L11744-S2" ili="wikidata-es-L11744-S2" partOfSpeech="p">
       <Definition>indica el fin o término de una actividad en sentido cronológico</Definition>
+      <Example>Se mantuvo activo publicando artículos hasta su muerte.</Example>
     </Synset>
     <Synset id="wikidata-es-L11744-S3" ili="wikidata-es-L11744-S3" partOfSpeech="p">
       <Definition>indica el fin o término de una actividad en sentido cuantitativo</Definition>
+      <Example>Los motores de gasolina abarcaban hasta 2 litros.</Example>
     </Synset>
     <Synset id="wikidata-es-L45673-S1" ili="l371-s1" partOfSpeech="h">
       <Definition>tercera persona neutral</Definition>
@@ -1425,6 +1428,7 @@
     </Synset>
     <Synset id="wikidata-es-L57206-S1" ili="wikidata-es-L57206-S1" partOfSpeech="r">
       <Definition>casi no</Definition>
+      <Example>Apenas si podía mantenerse en pie.</Example>
     </Synset>
     <Synset id="wikidata-es-L57860-S1" ili="wikidata-es-L57860-S1" partOfSpeech="r">
       <Definition>al mismo tiempo que</Definition>
@@ -1434,9 +1438,11 @@
     </Synset>
     <Synset id="wikidata-es-L57903-S1" ili="wikidata-es-L57903-S1" partOfSpeech="c">
       <Definition>introduce una excepción</Definition>
+      <Example>Estoy siempre en Madrid, menos en las vacaciones.</Example>
     </Synset>
     <Synset id="wikidata-es-L57903-S2" ili="wikidata-es-L57903-S2" partOfSpeech="c">
       <Definition>en la operación aritmética de la resta indica sustracción</Definition>
+      <Example>Tres menos dos son uno.</Example>
     </Synset>
     <Synset id="wikidata-es-L58030-S1" ili="wikidata-es-L58030-S1" partOfSpeech="r">
       <Definition>por su parte</Definition>
@@ -1475,19 +1481,21 @@
       <Definition>se usa para expresar ira, frustración o desagrado</Definition>
     </Synset>
     <Synset id="wikidata-es-L1411934-S1" ili="wikidata-es-L1411934-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>let’s go!</Definition>
     </Synset>
     <Synset id="wikidata-es-L11728-S1" ili="wikidata-es-L11728-S1" partOfSpeech="p">
       <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
     </Synset>
     <Synset id="wikidata-es-L11768-S1" ili="l8964-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>igennem</Definition>
     </Synset>
     <Synset id="wikidata-es-L40971-S1" ili="wikidata-es-L40971-S1" partOfSpeech="c">
       <Definition>palabra que introduce una oración subordinada sustantiva</Definition>
+      <Example>Es necesario que estudie.</Example>
     </Synset>
     <Synset id="wikidata-es-L40971-S2" ili="wikidata-es-L40971-S2" partOfSpeech="c">
       <Definition>elemento de frases comparativas</Definition>
+      <Example>Su casa es más grande que la mía.</Example>
     </Synset>
     <Synset id="wikidata-es-L55951-S1" ili="l487-s1" partOfSpeech="h">
       <Definition>pronombre personal en primera persona del singular</Definition>
@@ -1502,7 +1510,7 @@
       <Definition>pronombre personal en primera personal plural</Definition>
     </Synset>
     <Synset id="wikidata-es-L56999-S1" ili="wikidata-es-L56999-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-es-L57009-S1" ili="wikidata-es-L57009-S1" partOfSpeech="c">
       <Definition>introduce un impedimento</Definition>
@@ -1518,9 +1526,11 @@
     </Synset>
     <Synset id="wikidata-es-L57205-S1" ili="wikidata-es-L57205-S1" partOfSpeech="r">
       <Definition>inmediatamente después</Definition>
+      <Example>En cuanto deje de llover, saldré a comprar.</Example>
     </Synset>
     <Synset id="wikidata-es-L57344-S1" ili="wikidata-es-L57344-S1" partOfSpeech="r">
       <Definition>durante toda una vida</Definition>
+      <Example>Mantuvo su promesa de por vida.</Example>
     </Synset>
     <Synset id="wikidata-es-L57819-S1" ili="wikidata-es-L57819-S1" partOfSpeech="r">
       <Definition>en consecuencia</Definition>
@@ -1533,15 +1543,19 @@
     </Synset>
     <Synset id="wikidata-es-L58231-S1" ili="wikidata-es-L58231-S1" partOfSpeech="c">
       <Definition>por el contrario; introduce una idea o frase que contradice y se prefiere a otra previa</Definition>
+      <Example>No temo los peligros, antes los busco.</Example>
     </Synset>
     <Synset id="wikidata-es-L227971-S1" ili="wikidata-es-L227971-S1" partOfSpeech="r">
       <Definition>que ocurre en la vida real, aunque no esté legislado</Definition>
     </Synset>
     <Synset id="wikidata-es-L303609-S1" ili="l484-s1" partOfSpeech="h">
       <Definition>pronombre en tercera persona femenina</Definition>
+      <Example>Ella comentó que el mayor miedo que tenia se hizo realidad cuando contrajo el virus mientras vendía comida.</Example>
+      <Example>Ella comentó sobre las historias, los mitos y las cosmovisiones de los pueblos indígenas de la Amazonía y sus vínculos con las luchas por la autodeterminación y la preservación de los territorios ancestrales.</Example>
     </Synset>
     <Synset id="wikidata-es-L584572-S1" ili="wikidata-es-L584572-S1" partOfSpeech="p">
       <Definition>indica una posición inferior</Definition>
+      <Example>Debajo de nuestra ventana está el jardín</Example>
     </Synset>
     <Synset id="wikidata-es-L619485-S1" ili="wikidata-es-L619485-S1" partOfSpeech="i">
       <Definition>expresión con la que se da término a un tema o discusión</Definition>
@@ -1551,12 +1565,16 @@
     </Synset>
     <Synset id="wikidata-es-L646358-S1" ili="wikidata-es-L646358-S1" partOfSpeech="h">
       <Definition>el cual; los cuales; hace referencia a una persona o personas ya referidas anteriormente</Definition>
+      <Example>El actual arzobispo, quien fue entronizado en la catedral de la ciudad.</Example>
+      <Example>En 1648 llegaron los primeros pobladores, quienes le dieron su actual nombre.</Example>
     </Synset>
     <Synset id="wikidata-es-L646358-S2" ili="wikidata-es-L646358-S2" partOfSpeech="h">
       <Definition>hace referencia a una persona o personas de forma general, sin haber sido referidas anteriormente</Definition>
+      <Example>Deben revisarse correctamente o de lo contrario quien salga electo no tendrá ninguna legitimidad.</Example>
     </Synset>
     <Synset id="wikidata-es-L646358-S3" ili="wikidata-es-L646358-S3" partOfSpeech="h">
       <Definition>nadie que; alguien que</Definition>
+      <Example>No consiguió encontrar quien le entendiera.</Example>
     </Synset>
     <Synset id="wikidata-es-L673471-S1" ili="wikidata-es-L673471-S1" partOfSpeech="i">
       <Definition>invita a repetir lo dicho o a explicarlo</Definition>
@@ -1586,25 +1604,31 @@
       <Definition>utilizado para despedirse</Definition>
     </Synset>
     <Synset id="wikidata-es-L1410269-S1" ili="wikidata-es-L1410269-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>(expression of pain or pleasure)</Definition>
     </Synset>
     <Synset id="wikidata-es-L11724-S1" ili="wikidata-es-L11724-S1" partOfSpeech="p">
       <Definition>indica una posición inferior</Definition>
+      <Example>Bajo nuestra ventana está el jardín</Example>
     </Synset>
     <Synset id="wikidata-es-L11724-S2" ili="wikidata-es-L11724-S2" partOfSpeech="p">
       <Definition>indica subordinación o dependiencia</Definition>
+      <Example>Las tropas bajo su mando</Example>
     </Synset>
     <Synset id="wikidata-es-L11724-S3" ili="wikidata-es-L11724-S3" partOfSpeech="p">
       <Definition>indica la ubicación dentro de un periodo de tiempo</Definition>
+      <Example>Bajo la última dinastía de los faraones</Example>
     </Synset>
     <Synset id="wikidata-es-L11724-S4" ili="wikidata-es-L11724-S4" partOfSpeech="p">
       <Definition>indica inclusión dentro de un grupo</Definition>
+      <Example>Bajo las diversas formas de la esgrima, prefiero el florete por su velocidad</Example>
     </Synset>
     <Synset id="wikidata-es-L11724-S5" ili="wikidata-es-L11724-S5" partOfSpeech="p">
       <Definition>indica ocultamiento</Definition>
+      <Example>Bajo su disfraz de mendigo, salió el rey a conocer la opinión de Bagdad</Example>
     </Synset>
     <Synset id="wikidata-es-L11724-S6" ili="wikidata-es-L11724-S6" partOfSpeech="p">
       <Definition>indica una opinión o punto de vista</Definition>
+      <Example>Bajo nuestro punto de vista</Example>
     </Synset>
     <Synset id="wikidata-es-L11733-S1" ili="wikidata-es-L11733-S1" partOfSpeech="p">
       <Definition>indica oposición</Definition>
@@ -1614,18 +1638,23 @@
     </Synset>
     <Synset id="wikidata-es-L11743-S1" ili="wikidata-es-L11743-S1" partOfSpeech="p">
       <Definition>indica la dirección del movimiento con relación a su destino aparente o real</Definition>
+      <Example>El avión despega y se eleva hacia el cielo.</Example>
     </Synset>
     <Synset id="wikidata-es-L11743-S2" ili="wikidata-es-L11743-S2" partOfSpeech="p">
       <Definition>indica la orientación</Definition>
+      <Example>En la ventana que está hacia el norte.</Example>
     </Synset>
     <Synset id="wikidata-es-L11743-S3" ili="wikidata-es-L11743-S3" partOfSpeech="p">
       <Definition>cerca de; alrededor de; indica proximidad espacial</Definition>
+      <Example>Hicimos un alto en nuestro viaje, hacia el kilómetro 50 de la autovía.</Example>
     </Synset>
     <Synset id="wikidata-es-L11743-S4" ili="wikidata-es-L11743-S4" partOfSpeech="p">
       <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+      <Example>Aquí se come hacia las cinco de la tarde.</Example>
     </Synset>
     <Synset id="wikidata-es-L40976-S1" ili="wikidata-es-L40976-S1" partOfSpeech="p">
       <Definition>indica el tiempo en oraciones sin verbo</Definition>
+      <Example>Cuando joven, tenía buena memoria.</Example>
     </Synset>
     <Synset id="wikidata-es-L55954-S1" ili="wikidata-es-L55954-S1" partOfSpeech="c">
       <Definition>introduce una contraposición</Definition>
@@ -1688,7 +1717,7 @@
       <Definition>de forma igual</Definition>
     </Synset>
     <Synset id="wikidata-es-L622351-S1" ili="wikidata-es-L622351-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>just in case</Definition>
     </Synset>
     <Synset id="wikidata-es-L692468-S1" ili="wikidata-es-L692468-S1" partOfSpeech="i">
       <Definition>se emplea para expresar sorpresa, dolor, desaprobación, etc.</Definition>
@@ -1706,49 +1735,60 @@
       <Definition>pronombre personal, tercera persona singular neutra</Definition>
     </Synset>
     <Synset id="wikidata-es-L2776-S1" ili="wikidata-es-L2776-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and; joins words and equal sentence parts together</Definition>
     </Synset>
     <Synset id="wikidata-es-L11730-S1" ili="wikidata-es-L11730-S1" partOfSpeech="p">
       <Definition>indica el medio empleado para hacer algo</Definition>
+      <Example>Comer con cuchillo y tenedor</Example>
     </Synset>
     <Synset id="wikidata-es-L11730-S2" ili="wikidata-es-L11730-S2" partOfSpeech="p">
       <Definition>en compañía de</Definition>
+      <Example>Antonio está con Felipe</Example>
     </Synset>
     <Synset id="wikidata-es-L11730-S3" ili="wikidata-es-L11730-S3" partOfSpeech="p">
       <Definition>combinado con un infinitivo actúa como gerundio</Definition>
+      <Example>Con pelearse no se arregla nada</Example>
     </Synset>
     <Synset id="wikidata-es-L11730-S4" ili="wikidata-es-L11730-S4" partOfSpeech="p">
       <Definition>a pesar de, indica un contrasentido o contraposición</Definition>
+      <Example>Con llevar tantos años en la empresa, aun no lo ascienden</Example>
     </Synset>
     <Synset id="wikidata-es-L11730-S5" ili="wikidata-es-L11730-S5" partOfSpeech="p">
       <Definition>contenido o adherencia</Definition>
+      <Example>Una moto con un sidecar</Example>
     </Synset>
     <Synset id="wikidata-es-L11749-S1" ili="wikidata-es-L11749-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-es-L40745-S1" ili="wikidata-es-L40745-S1" partOfSpeech="h">
       <Definition>cantidad o número escaso</Definition>
+      <Example>Vinieron pocos de sus compañeros de clase.</Example>
     </Synset>
     <Synset id="wikidata-es-L40745-S2" ili="wikidata-es-L40745-S2" partOfSpeech="h">
       <Definition>cantidad insuficiente</Definition>
+      <Example>No fueron pocas las oportunidades que tuvo en la vida.</Example>
     </Synset>
     <Synset id="wikidata-es-L40745-S3" ili="wikidata-es-L40745-S3" partOfSpeech="h">
       <Definition>pocas personas</Definition>
+      <Example>Hoy en día, pocos confían en los políticos.</Example>
     </Synset>
     <Synset id="wikidata-es-L40745-S4" ili="wikidata-es-L40745-S4" partOfSpeech="h">
       <Definition>pocas cosas</Definition>
+      <Example>Poco de lo que dijo tenía sentido.</Example>
     </Synset>
     <Synset id="wikidata-es-L40970-S1" ili="wikidata-es-L40970-S1" partOfSpeech="h">
       <Definition>palabra que introduce una oración relativa y conecta a un antecedente</Definition>
+      <Example>Compró la casa que quería</Example>
     </Synset>
     <Synset id="wikidata-es-L40978-S1" ili="wikidata-es-L40978-S1" partOfSpeech="c">
       <Definition>indica diferencia, separación o alternativa</Definition>
+      <Example>Ganar o perder</Example>
     </Synset>
     <Synset id="wikidata-es-L57007-S1" ili="wikidata-es-L57007-S1" partOfSpeech="c">
       <Definition>introduce una excepción</Definition>
     </Synset>
     <Synset id="wikidata-es-L57355-S1" ili="wikidata-es-L57355-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>self</Definition>
     </Synset>
     <Synset id="wikidata-es-L57879-S1" ili="wikidata-es-L57879-S1" partOfSpeech="r">
       <Definition>inmediatamente después de que</Definition>
@@ -1817,16 +1857,16 @@
       <Definition>conjunción disyuntiva usada sólo frente a las palabras comenzadas por el fonema /o/</Definition>
     </Synset>
     <Synset id="wikidata-es-L11737-S1" ili="wikidata-es-L11737-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of, concerning, about</Definition>
     </Synset>
     <Synset id="wikidata-es-L11737-S2" ili="wikidata-es-L11737-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from, away from, down from, out of</Definition>
     </Synset>
     <Synset id="wikidata-es-L11742-S1" ili="wikidata-es-L11742-S1" partOfSpeech="p">
       <Definition>en medio de, indica ubicación en medio de otras cosas</Definition>
     </Synset>
     <Synset id="wikidata-es-L56588-S2" ili="wikidata-es-L56588-S2" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>a mía, a mío</Definition>
     </Synset>
     <Synset id="wikidata-es-L56677-S2" ili="l485-s1" partOfSpeech="h">
       <Definition>pronombre personal, tercera persona singular masculina</Definition>
@@ -1836,6 +1876,7 @@
     </Synset>
     <Synset id="wikidata-es-L57346-S1" ili="wikidata-es-L57346-S1" partOfSpeech="r">
       <Definition>mientras estuvo con vida</Definition>
+      <Example>No se arrepintió de nada en vida.</Example>
     </Synset>
     <Synset id="wikidata-es-L57884-S1" ili="wikidata-es-L57884-S1" partOfSpeech="r">
       <Definition>en consecuencia</Definition>
@@ -1893,15 +1934,19 @@
     </Synset>
     <Synset id="wikidata-es-L11754-S1" ili="wikidata-es-L11754-S1" partOfSpeech="p">
       <Definition>indica el procedimiento o la forma como se hace algo</Definition>
+      <Example>Se le extrajo su tumor mediante una cirugía.</Example>
     </Synset>
     <Synset id="wikidata-es-L11756-S1" ili="wikidata-es-L11756-S1" partOfSpeech="p">
       <Definition>indica la ausencia, carencia o falta de algo</Definition>
+      <Example>Me he quedado sin ánimo para competir.</Example>
     </Synset>
     <Synset id="wikidata-es-L11756-S2" ili="wikidata-es-L11756-S2" partOfSpeech="p">
       <Definition>indica exclusión</Definition>
+      <Example>Fuimos todos, sin nuestras esposas.</Example>
     </Synset>
     <Synset id="wikidata-es-L11756-S3" ili="wikidata-es-L11756-S3" partOfSpeech="p">
       <Definition>indica negación delante de un verbo en infinitivo, equivalente a &quot;no&quot; delante del gerundio</Definition>
+      <Example>Sin haber descansado.</Example>
     </Synset>
     <Synset id="wikidata-es-L57019-S1" ili="wikidata-es-L57019-S1" partOfSpeech="r">
       <Definition>por el contrario</Definition>
@@ -1917,9 +1962,11 @@
     </Synset>
     <Synset id="wikidata-es-L57068-S1" ili="wikidata-es-L57068-S1" partOfSpeech="c">
       <Definition>para contraponer una afirmación tras una negación</Definition>
+      <Example>No fue culpa de Pedro, sino de Manuel</Example>
     </Synset>
     <Synset id="wikidata-es-L57068-S2" ili="wikidata-es-L57068-S2" partOfSpeech="c">
       <Definition>para añadir elementos a una declaración</Definition>
+      <Example>No solo fue cortés, sino también amable y servicial.</Example>
     </Synset>
     <Synset id="wikidata-es-L57352-S1" ili="wikidata-es-L57352-S1" partOfSpeech="h">
       <Definition>designa a la persona a quién se dirige el hablante o enunciador de la frase, es decir, a la segunda persona del singular, usado cuando tiene función de dativo o acusativo</Definition>
@@ -1929,6 +1976,7 @@
     </Synset>
     <Synset id="wikidata-es-L57817-S1" ili="wikidata-es-L57817-S1" partOfSpeech="c">
       <Definition>inicia una coordinación copulativa</Definition>
+      <Example>Tanto el perro como el gato esperaban ser alimentados.</Example>
     </Synset>
     <Synset id="wikidata-es-L58064-S1" ili="wikidata-es-L58064-S1" partOfSpeech="p">
       <Definition>con oposición de</Definition>
@@ -1941,6 +1989,7 @@
     </Synset>
     <Synset id="wikidata-es-L651860-S1" ili="wikidata-es-L651860-S1" partOfSpeech="p">
       <Definition>cerca de; alrededor de; indica proximidad temporal</Definition>
+      <Example>La institución fue abolida circa 1453 y restaurada en junio de 1655.</Example>
     </Synset>
     <Synset id="wikidata-es-L651865-S1" ili="wikidata-es-L651865-S1" partOfSpeech="p">
       <Definition>indica que la ubicación es al lado o al borde de algo</Definition>
@@ -1962,12 +2011,15 @@
     </Synset>
     <Synset id="wikidata-es-L11721-S1" ili="wikidata-es-L11721-S1" partOfSpeech="p">
       <Definition>delante de; frente a</Definition>
+      <Example>El partido debía enfrentar a los Países Bajos ante Francia.</Example>
     </Synset>
     <Synset id="wikidata-es-L11721-S2" ili="wikidata-es-L11721-S2" partOfSpeech="p">
       <Definition>en presencia de</Definition>
+      <Example>Tengo que comparecer ante el juez.</Example>
     </Synset>
     <Synset id="wikidata-es-L11721-S3" ili="wikidata-es-L11721-S3" partOfSpeech="p">
       <Definition>comparado con</Definition>
+      <Example>El conflicto bélico no fue tan violento ante los anteriores.</Example>
     </Synset>
     <Synset id="wikidata-es-L56595-S1" ili="wikidata-es-L56595-S1" partOfSpeech="c">
       <Definition>aunque</Definition>
@@ -1979,7 +2031,7 @@
       <Definition>pronombre personal en segunda persona singular</Definition>
     </Synset>
     <Synset id="wikidata-es-L56997-S1" ili="wikidata-es-L56997-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>Formal second-person address form</Definition>
     </Synset>
     <Synset id="wikidata-es-L57006-S1" ili="wikidata-es-L57006-S1" partOfSpeech="c">
       <Definition>excepto</Definition>
@@ -1989,9 +2041,12 @@
     </Synset>
     <Synset id="wikidata-es-L57207-S1" ili="wikidata-es-L57207-S1" partOfSpeech="p">
       <Definition>con la condición o función de</Definition>
+      <Example>En calidad de presidente, dirimió la disputa.</Example>
     </Synset>
     <Synset id="wikidata-es-L57821-S1" ili="wikidata-es-L57821-S1" partOfSpeech="h">
       <Definition>refiere al objeto directo de tercera persona cuando éste ya es conocido</Definition>
+      <Example>Yo bebo agua -&gt; Yo la bebí.</Example>
+      <Example>Come el bocadillo en tu descanso -&gt; Cómelo en tu descanso.</Example>
     </Synset>
     <Synset id="wikidata-es-L57876-S1" ili="wikidata-es-L57876-S1" partOfSpeech="i">
       <Definition>expresa deseo de que algo suceda</Definition>
@@ -2003,7 +2058,7 @@
       <Definition>introduce una comparación</Definition>
     </Synset>
     <Synset id="wikidata-es-L57886-S1" ili="wikidata-es-L57886-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>For always</Definition>
     </Synset>
     <Synset id="wikidata-es-L58219-S1" ili="wikidata-es-L58219-S1" partOfSpeech="p">
       <Definition>próximo a</Definition>
@@ -2027,7 +2082,7 @@
       <Definition>voz que se usa para espantar a algunos animales, como a un perro o a un gato</Definition>
     </Synset>
     <Synset id="wikidata-es-L727552-S1" ili="wikidata-es-L727552-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>box</Definition>
     </Synset>
     <Synset id="wikidata-es-L755292-S1" ili="wikidata-es-L755292-S1" partOfSpeech="h">
       <Definition>qué o cuál persona</Definition>
@@ -2048,7 +2103,7 @@
       <Definition>de forma injusta</Definition>
     </Synset>
     <Synset id="wikidata-es-L11718-S1" ili="wikidata-es-L11718-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to (destination of action)</Definition>
     </Synset>
     <Synset id="wikidata-es-L11719-S1" ili="wikidata-es-L11719-S1" partOfSpeech="d">
       <Definition>artículo determinante</Definition>

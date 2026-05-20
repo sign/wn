@@ -11,29 +11,29 @@
     <LexicalEntry id="L401975">
       <Lemma writtenForm="en" partOfSpeech="c"/>
       <Sense id="L401975-S1" synset="wikidata-fy-L401975-S1" ili="wikidata-fy-L401975-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1453149">
       <Lemma writtenForm="troch" partOfSpeech="p"/>
       <Sense id="L1453149-S1" synset="wikidata-fy-L1453149-S1" ili="wikidata-fy-L1453149-S1">
-        <Definition></Definition>
+        <Definition>through</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406988">
       <Lemma writtenForm="ja" partOfSpeech="i"/>
       <Sense id="L406988-S1" synset="wikidata-fy-L406988-S1" ili="wikidata-fy-L406988-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-fy-L401975-S1" ili="wikidata-fy-L401975-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-fy-L1453149-S1" ili="wikidata-fy-L1453149-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>through</Definition>
     </Synset>
     <Synset id="wikidata-fy-L406988-S1" ili="wikidata-fy-L406988-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

@@ -11,38 +11,38 @@
     <LexicalEntry id="L1549947">
       <Lemma writtenForm="sen" partOfSpeech="h"/>
       <Sense id="L1549947-S1" synset="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1">
-        <Definition></Definition>
+        <Definition>you (singular)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549960">
       <Lemma writtenForm="va" partOfSpeech="c"/>
       <Sense id="L1549960-S1" synset="wikidata-uz-L1549960-S1" ili="l1385-s1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1547535">
       <Lemma writtenForm="u" partOfSpeech="h"/>
       <Sense id="L1547535-S1" synset="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1">
-        <Definition></Definition>
+        <Definition>третье лицо единственное число - он, она, оно</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549554">
       <Lemma writtenForm="i" partOfSpeech="p"/>
       <Sense id="L1549554-S1" synset="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1">
-        <Definition></Definition>
+        <Definition>(indicates genitive relationship between preceding and following noun)</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>you (singular)</Definition>
     </Synset>
     <Synset id="wikidata-uz-L1549960-S1" ili="l1385-s1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>третье лицо единственное число - он, она, оно</Definition>
     </Synset>
     <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(indicates genitive relationship between preceding and following noun)</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

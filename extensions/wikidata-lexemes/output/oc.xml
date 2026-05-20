@@ -11,13 +11,13 @@
     <LexicalEntry id="L57930">
       <Lemma writtenForm="aqueste" partOfSpeech="d"/>
       <Sense id="L57930-S1" synset="wikidata-oc-L57930-S1" ili="wikidata-oc-L57930-S1">
-        <Definition></Definition>
+        <Definition>ce</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L57929">
       <Lemma writtenForm="lo" partOfSpeech="d"/>
       <Sense id="L57929-S1" synset="wikidata-oc-L57929-S1" ili="wikidata-oc-L57929-S1">
-        <Definition></Definition>
+        <Definition>the, definite article</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41768">
@@ -27,10 +27,10 @@
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-oc-L57930-S1" ili="wikidata-oc-L57930-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>ce</Definition>
     </Synset>
     <Synset id="wikidata-oc-L57929-S1" ili="wikidata-oc-L57929-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the, definite article</Definition>
     </Synset>
     <Synset id="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2" partOfSpeech="n">
       <Definition>bastiment fach per l&apos;albèrgament</Definition>

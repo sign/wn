@@ -17,7 +17,7 @@
     <LexicalEntry id="L21188">
       <Lemma writtenForm="my" partOfSpeech="h"/>
       <Sense id="L21188-S1" synset="wikidata-pl-L21188-S1" ili="wikidata-pl-L21188-S1">
-        <Definition></Definition>
+        <Definition>we; first-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21196">
@@ -95,7 +95,7 @@
     <LexicalEntry id="L1419361">
       <Lemma writtenForm="dalej" partOfSpeech="i"/>
       <Sense id="L1419361-S1" synset="wikidata-pl-L1419361-S1" ili="wikidata-pl-L1419361-S1">
-        <Definition></Definition>
+        <Definition>further, next, come on</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L13353">
@@ -180,7 +180,7 @@
     <LexicalEntry id="L6410">
       <Lemma writtenForm="ja" partOfSpeech="h"/>
       <Sense id="L6410-S1" synset="wikidata-pl-L6410-S1" ili="wikidata-pl-L6410-S1">
-        <Definition></Definition>
+        <Definition>first person singular, I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6569">
@@ -262,7 +262,7 @@
     <LexicalEntry id="L10881">
       <Lemma writtenForm="ty" partOfSpeech="h"/>
       <Sense id="L10881-S1" synset="wikidata-pl-L10881-S1" ili="wikidata-pl-L10881-S1">
-        <Definition></Definition>
+        <Definition>you; second-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20117">
@@ -302,7 +302,7 @@
     <LexicalEntry id="L1259868">
       <Lemma writtenForm="on" partOfSpeech="h"/>
       <Sense id="L1259868-S1" synset="wikidata-pl-L1259868-S1" ili="wikidata-pl-L1259868-S1">
-        <Definition></Definition>
+        <Definition>he or it</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2977">
@@ -578,7 +578,7 @@
     <LexicalEntry id="L204164">
       <Lemma writtenForm="sto" partOfSpeech="n"/>
       <Sense id="L204164-S1" synset="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1">
-        <Definition></Definition>
+        <Definition>100</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740127">
@@ -590,38 +590,44 @@
     <LexicalEntry id="L1259339">
       <Lemma writtenForm="gdzie" partOfSpeech="h"/>
       <Sense id="L1259339-S1" synset="wikidata-pl-L1259339-S1" ili="wikidata-pl-L1259339-S1">
-        <Definition></Definition>
+        <Definition>where</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1259358">
       <Lemma writtenForm="podczas" partOfSpeech="p"/>
       <Sense id="L1259358-S1" synset="wikidata-pl-L1259358-S1" ili="wikidata-pl-L1259358-S1">
-        <Definition></Definition>
+        <Definition>during</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1" partOfSpeech="n">
       <Definition>o jeden więcej niż dwadzieścia dziewięć</Definition>
     </Synset>
     <Synset id="wikidata-pl-L21188-S1" ili="wikidata-pl-L21188-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>we; first-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-pl-L21196-S1" ili="wikidata-pl-L21196-S1" partOfSpeech="h">
       <Definition>każdy jeden bez wyjątku</Definition>
     </Synset>
     <Synset id="wikidata-pl-L33580-S1" ili="wikidata-pl-L33580-S1" partOfSpeech="r">
       <Definition>o wykonywanej czynności: robiąc bardzo wolno, ślimacząc się</Definition>
+      <Example>Papierosa podnosił do ust jak na zwolnionym filmie. Jego powolność spowodowała, że zelżało napięcie w moich mięśniach.</Example>
+      <Example>Woda była tu zimniejsza niż na otwartej plaży, tak czysta, że bajkowo kolorowy świat alg, ławic rybnych, meduz i skorupiaków oblepiających omszałe głazy przesuwał się jak na zwolnionym filmie przed oczyma nurków.</Example>
     </Synset>
     <Synset id="wikidata-pl-L34809-S1" ili="wikidata-pl-L34809-S1" partOfSpeech="r">
       <Definition>systematycznie każdego tygodnia</Definition>
     </Synset>
     <Synset id="wikidata-pl-L36642-S1" ili="wikidata-pl-L36642-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Rolnicy pracują codziennie - w świątek, piątek i niedzielę. Nie mają świąt, nie mają urlopu wypoczynkowego.</Example>
     </Synset>
     <Synset id="wikidata-pl-L36649-S1" ili="wikidata-pl-L36649-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Jej skrywanym marzeniem jest, aby ludzkość chodziła w dresach świątek i piątek.</Example>
     </Synset>
     <Synset id="wikidata-pl-L38153-S1" ili="wikidata-pl-L38153-S1" partOfSpeech="y">
       <Definition>wskazanie, że to o czym mowa jest prawdą, ponieważ to co było powiedziane wcześniej jest prawdą</Definition>
+      <Example>Polacy, z którymi się stykał po wojnie, nie znali go, nie byli więc wcale wylewni, ani tym bardziej przyjaźni.</Example>
+      <Example>- Proszę mi wybaczyć, Suzanne, pomyliłem się. Takie pomyłki zdarzają się w życiu, tym bardziej mogą się zdarzyć tu.</Example>
     </Synset>
     <Synset id="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1" partOfSpeech="v">
       <Definition>wyrok w zawieszeniu</Definition>
@@ -633,7 +639,7 @@
       <Definition>naprawdę, na pewno, zaiste</Definition>
     </Synset>
     <Synset id="wikidata-pl-L1419361-S1" ili="wikidata-pl-L1419361-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>further, next, come on</Definition>
     </Synset>
     <Synset id="wikidata-pl-L13353-S1" ili="wikidata-pl-L13353-S1" partOfSpeech="h">
       <Definition>zaimek przymiotny pytajny, służący do tworzenia pytań o numer elementu w danej grupie</Definition>
@@ -643,18 +649,23 @@
     </Synset>
     <Synset id="wikidata-pl-L30577-S1" ili="wikidata-pl-L30577-S1" partOfSpeech="y">
       <Definition>partykuła stwierdzająca, że nie wiadomo czy tak jest</Definition>
+      <Example>Aby zrozumieliście, o co pytałem?</Example>
     </Synset>
     <Synset id="wikidata-pl-L30577-S2" ili="wikidata-pl-L30577-S2" partOfSpeech="y">
       <Definition>partykuła określająca życzenie</Definition>
+      <Example>Aby wam się dobrze działo!</Example>
     </Synset>
     <Synset id="wikidata-pl-L30577-S3" ili="wikidata-pl-L30577-S3" partOfSpeech="y">
       <Definition>partykuła określająca wątpliwość co do stwierdzenia zawierającego się w pytaniu</Definition>
+      <Example>Aby nie za późno na wizytę?</Example>
     </Synset>
     <Synset id="wikidata-pl-L36640-S1" ili="wikidata-pl-L36640-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Józek, jej zięć, przez wiele lat mleko woził. W świątek, piątek. Dobrze się natyrał przez kilkanaście lat.</Example>
     </Synset>
     <Synset id="wikidata-pl-L36650-S1" ili="wikidata-pl-L36650-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Na granicy służbę trzeba pełnić w świątek i piątek, niezależnie od pogody.</Example>
     </Synset>
     <Synset id="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1" partOfSpeech="n">
       <Definition>liczba</Definition>
@@ -669,19 +680,23 @@
       <Definition>skrót: na przykład</Definition>
     </Synset>
     <Synset id="wikidata-pl-L6410-S1" ili="wikidata-pl-L6410-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>first person singular, I</Definition>
     </Synset>
     <Synset id="wikidata-pl-L6569-S1" ili="wikidata-pl-L6569-S1" partOfSpeech="p">
       <Definition>wprowadzający porównanie</Definition>
     </Synset>
     <Synset id="wikidata-pl-L7049-S1" ili="wikidata-pl-L7049-S1" partOfSpeech="y">
       <Definition>nawiązanie do kontekstu lub sytuacji i jednocześnie wprowadzenie wypowiedzenia o zróżnicowanych odcieniach intonacyjnych</Definition>
+      <Example>A nie mówiłam?</Example>
+      <Example>A niech sobie śpiewa.</Example>
     </Synset>
     <Synset id="wikidata-pl-L17516-S1" ili="wikidata-pl-L17516-S1" partOfSpeech="r">
       <Definition>taktownie, dyplomatycznie, bez rozgłosu</Definition>
     </Synset>
     <Synset id="wikidata-pl-L38149-S1" ili="wikidata-pl-L38149-S1" partOfSpeech="y">
       <Definition>potwierdzenie tego co zostało powiedziane</Definition>
+      <Example>- Łaskawy kolego! - pyta Franek. - Czy rzeczywiście w tych sprawach radził się pan u naszego kochanego Rokity? - Ależ jak najbardziej! Wspominałem mu o tych planach i zamiarach! - puszy się odurzony nadziejami adiunkt Piaskawy.</Example>
+      <Example>- Pan mówi poważnie? - Jak najbardziej, szefie - mówię.</Example>
     </Synset>
     <Synset id="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1" partOfSpeech="v">
       <Definition>poddanie działaniu gazów celem pozbycia się szkodliwych organizmów z obiektu</Definition>
@@ -703,9 +718,11 @@
     </Synset>
     <Synset id="wikidata-pl-L7050-S1" ili="wikidata-pl-L7050-S1" partOfSpeech="i">
       <Definition>wykrzyknik wyrażający przypomnienie sobie o czymś lub zauważenie czegoś</Definition>
+      <Example>- Aaa, listy - policjant machnął lekceważąco ręką.</Example>
+      <Example>- A, pan Edek! Proszę, niech pan wejdzie.</Example>
     </Synset>
     <Synset id="wikidata-pl-L10881-S1" ili="wikidata-pl-L10881-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>you; second-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-pl-L20117-S1" ili="wikidata-pl-L20117-S1" partOfSpeech="i">
       <Definition>przekleństwo, w mowie potocznej często jako przerywnik w zdaniu</Definition>
@@ -718,15 +735,19 @@
     </Synset>
     <Synset id="wikidata-pl-L36464-S1" ili="wikidata-pl-L36464-S1" partOfSpeech="r">
       <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+      <Example>Okazał się bowiem młodzieńcem inteligentnym, nad wiek dojrzałym i o ogromnym poczuciu humoru.</Example>
+      <Example>Była to siedmioletnia, chuda i nad wiek długa dziewczynka, oczy miała równie piękne jak ojciec, ale o daleko przyjemniejszym wyrazie.</Example>
     </Synset>
     <Synset id="wikidata-pl-L734171-S1" ili="wikidata-pl-L734171-S1" partOfSpeech="y">
       <Definition>przecież</Definition>
     </Synset>
     <Synset id="wikidata-pl-L1259868-S1" ili="wikidata-pl-L1259868-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>he or it</Definition>
     </Synset>
     <Synset id="wikidata-pl-L2977-S1" ili="wikidata-pl-L2977-S1" partOfSpeech="c">
       <Definition>spójnik przyłączający nową informację ułatwiającą zrozumienie tego, co powiedziano wcześniej</Definition>
+      <Example>Ośrodek znowu wyglądał jak wymarły, albowiem wczasowicze gnieździli się na malutkiej plaży, skąd dochodziły krzyki kąpiących się.</Example>
+      <Example>Najpierw się schował na widok obcej kobiety, albowiem był tylko w spodniach i podkoszulku, a potem zaraz rozpoznał w obcej kobiecie Kreskę i wszedł do kuchni z powrotem, oznajmiając, że chyba zjadłby coś smażonego.</Example>
     </Synset>
     <Synset id="wikidata-pl-L13358-S1" ili="wikidata-pl-L13358-S1" partOfSpeech="h">
       <Definition>zaimek zwrotny</Definition>
@@ -739,6 +760,7 @@
     </Synset>
     <Synset id="wikidata-pl-L36645-S1" ili="wikidata-pl-L36645-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Kowalski należy do klubu morsów, tapla się w przeręblach, u szyi, na tasiemce, zawieszony ma krokomierz, wedle którego w świątek czy piątek, wykonać ma rekruckim truchtem cztery kilometry.</Example>
     </Synset>
     <Synset id="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1" partOfSpeech="v">
       <Definition>ogarnięty (o osobie)</Definition>
@@ -751,27 +773,35 @@
     </Synset>
     <Synset id="wikidata-pl-L30576-S1" ili="wikidata-pl-L30576-S1" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne określające cel tego, o czym mowa w zdaniu nadrzędnym</Definition>
+      <Example>Wyciągnął rękę, aby zerwać kwiat.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S2" ili="wikidata-pl-L30576-S2" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne określające to, co jest warunkiem tego, o czym mowa w zdaniu nadrzędnym</Definition>
+      <Example>Od dawna bliskie mi jest przekonanie, że trzeba być konserwatystą, aby móc być liberałem.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S3" ili="wikidata-pl-L30576-S3" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne określające sposób osiągniecia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+      <Example>Chciała zaznać rozkoszy, ale tak, aby on się nie zorientował.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S4" ili="wikidata-pl-L30576-S4" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne określające cel zależny od stopnia tego, o czym mowa w zdaniu nadrzędnym</Definition>
+      <Example>Był zbyt dumny, aby przyjąć pomoc.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S5" ili="wikidata-pl-L30576-S5" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne komunikujące o zdarzeniu nieoczekiwanym w stosunku do tego, o czym mowa w zdaniu nadrzędnym</Definition>
+      <Example>Deszcz przestał siąpić, aby po chwili rozpadać się na dobre.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S6" ili="wikidata-pl-L30576-S6" partOfSpeech="c">
       <Definition>spójnik wprowadzający zdanie podrzędne, po zdaniu nadrzędnym wyrażającym wolę, sąd, propozycję lub inny cel jaki chce osiągnąć osoba mówiąca</Definition>
+      <Example>Prezydent Andrzej Duda chce, aby 10 i 11 listopada 2018 roku odbyło się referendum konstytucyjne.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S7" ili="wikidata-pl-L30576-S7" partOfSpeech="c">
       <Definition>spójnik wprowadzający składnik wyrażający życzenie albo warunek</Definition>
+      <Example>Napisz coś, aby na temat.</Example>
     </Synset>
     <Synset id="wikidata-pl-L30576-S8" ili="wikidata-pl-L30576-S8" partOfSpeech="c">
       <Definition>spójnik wprowadzający składnik mówiący o tym, że to co jest robione nie przynosi efektów</Definition>
+      <Example>Daj jakieś argumenty sensowne, bo jak masz gadać aby gadać, to szkoda mojego i Twojego czasu.</Example>
     </Synset>
     <Synset id="wikidata-pl-L34815-S1" ili="wikidata-pl-L34815-S1" partOfSpeech="r">
       <Definition>stopniowo, przez kilka i więcej tygodni</Definition>
@@ -802,18 +832,23 @@
     </Synset>
     <Synset id="wikidata-pl-L20549-S1" ili="wikidata-pl-L20549-S1" partOfSpeech="p">
       <Definition>koło, około, wokół</Definition>
+      <Example>Było to kole Gwiozdki 1918, pore dni potem, kiedy to tyn dekorz ze Śródki wlozł na rotusz poznański, dycht na samum szpycę.</Example>
     </Synset>
     <Synset id="wikidata-pl-L25470-S1" ili="wikidata-pl-L25470-S1" partOfSpeech="c">
       <Definition>spójnik łączący słowa i zdania równorzędne</Definition>
     </Synset>
     <Synset id="wikidata-pl-L36465-S1" ili="wikidata-pl-L36465-S1" partOfSpeech="r">
       <Definition>w taki sposób, że omawiana cecha występuje w większym nasileniu niż zwykle u równolatków</Definition>
+      <Example>Moja nadzwyczajna, ponad wiek rozwinięta mądrość nie przysparzała mi sympatii otoczenia, budząc raczej podejrzenie o konszachty z demonem.</Example>
+      <Example>Staraliśmy się być poważni ponad wiek.</Example>
     </Synset>
     <Synset id="wikidata-pl-L36641-S1" ili="wikidata-pl-L36641-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>Brakuje 70 000 ludzi w górnictwie. Pracujemy świątek, piątek, na okrągło.</Example>
     </Synset>
     <Synset id="wikidata-pl-L36643-S1" ili="wikidata-pl-L36643-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>A może dziewczyny z ONR wysłać na studia pielęgniarskie, a potem w imię patriotyzmu niech zasuwają za dwa tysiące świątek, piątek i niedziela?</Example>
     </Synset>
     <Synset id="wikidata-pl-L727796-S1" ili="wikidata-pl-L727796-S1" partOfSpeech="c">
       <Definition>i, oraz</Definition>
@@ -835,24 +870,29 @@
     </Synset>
     <Synset id="wikidata-pl-L34806-S1" ili="wikidata-pl-L34806-S1" partOfSpeech="r">
       <Definition>tak, że trwa to przez okres zbliżony do tygodnia lub przez cały tydzień na okrągło</Definition>
+      <Example>Ciepły, przypieczony chleb, to moje ukochane śniadanie i mogłabym jeść takie kromki jak tydzień długi, nawet same samiuteńkie, bez żadnych dodatków!</Example>
+      <Example>Jak tydzień długi, przez godzinę dziennie bus ten staje się moim mobilnym biurem na kółkach, miejscem, w którym pracuję… zanim jeszcze do pracy dotrę.</Example>
     </Synset>
     <Synset id="wikidata-pl-L36644-S1" ili="wikidata-pl-L36644-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
+      <Example>- Dobrze, ci tak mówić. Ty, który nie masz zobowiązań na wolnym powietrzu. Ale ja pracuję, świątek czy piątek, i to właśnie pod gołym niebem. Trzeba żyć.</Example>
     </Synset>
     <Synset id="wikidata-pl-L38147-S1" ili="wikidata-pl-L38147-S1" partOfSpeech="r">
       <Definition>do uzdrowiska, w którym znajdują się źródła wód mineralnych</Definition>
+      <Example>- Dla mnie też jest za gorąco - wtrącił się do rozmowy pan Campilli. - Ale póki kuria czynna, to znaczy, dopóki monsignorowie nie porozjeżdżają się do wód na wielkie wakacje, muszę siedzieć w Rzymie.</Example>
+      <Example>Zawsze mnie coś spotyka, gdy taka niespokojna chodzę i nie mogę sobie miejsca znaleźć. Że też to na mnie popadło. Do wód mogłam jechać. Już się od trzech lat wybieram.</Example>
     </Synset>
     <Synset id="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1" partOfSpeech="n">
-      <Definition></Definition>
+      <Definition>100</Definition>
     </Synset>
     <Synset id="wikidata-pl-L740127-S1" ili="wikidata-pl-L740127-S1" partOfSpeech="c">
       <Definition>albo</Definition>
     </Synset>
     <Synset id="wikidata-pl-L1259339-S1" ili="wikidata-pl-L1259339-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>where</Definition>
     </Synset>
     <Synset id="wikidata-pl-L1259358-S1" ili="wikidata-pl-L1259358-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>during</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

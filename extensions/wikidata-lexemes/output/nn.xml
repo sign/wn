@@ -11,26 +11,26 @@
     <LexicalEntry id="L855">
       <Lemma writtenForm="kven" partOfSpeech="h"/>
       <Sense id="L855-S1" synset="wikidata-nn-L855-S1" ili="wikidata-nn-L855-S1">
-        <Definition></Definition>
+        <Definition>who (in questions)</Definition>
       </Sense>
       <Sense id="L855-S2" synset="wikidata-nn-L855-S2" ili="wikidata-nn-L855-S2">
-        <Definition></Definition>
+        <Definition>whoever</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L911">
       <Lemma writtenForm="nokon" partOfSpeech="d"/>
       <Sense id="L911-S1" synset="wikidata-nn-L911-S1" ili="wikidata-nn-L911-S1">
-        <Definition></Definition>
+        <Definition>some</Definition>
       </Sense>
       <Sense id="L911-S2" synset="wikidata-nn-L911-S2" ili="wikidata-nn-L911-S2">
-        <Definition></Definition>
+        <Definition>any</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L11402-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4294">
       <Lemma writtenForm="bortover" partOfSpeech="p"/>
       <Sense id="L4294-S1" synset="wikidata-nn-L4294-S1" ili="wikidata-nn-L4294-S1">
-        <Definition></Definition>
+        <Definition>along</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4296-S2"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1125252-S1"/>
       </Sense>
@@ -38,122 +38,122 @@
     <LexicalEntry id="L5000">
       <Lemma writtenForm="jau" partOfSpeech="i"/>
       <Sense id="L5000-S1" synset="wikidata-nn-L5000-S1" ili="wikidata-nn-L5000-S1">
-        <Definition></Definition>
+        <Definition>yes (in opposition to a negatively phrased question)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740899-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9785">
       <Lemma writtenForm="å" partOfSpeech="p"/>
       <Sense id="L9785-S1" synset="wikidata-nn-L9785-S1" ili="wikidata-nn-L9785-S1">
-        <Definition></Definition>
+        <Definition>on (in certain expressions)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9813">
       <Lemma writtenForm="vi" partOfSpeech="h"/>
       <Sense id="L9813-S1" synset="wikidata-nn-L9813-S1" ili="wikidata-nn-L9813-S1">
-        <Definition></Definition>
+        <Definition>we; first-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9954">
       <Lemma writtenForm="attmed" partOfSpeech="p"/>
       <Sense id="L9954-S1" synset="wikidata-nn-L9954-S1" ili="wikidata-nn-L9954-S1">
-        <Definition></Definition>
+        <Definition>next to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11401">
       <Lemma writtenForm="kringom" partOfSpeech="p"/>
       <Sense id="L11401-S1" synset="wikidata-nn-L11401-S1" ili="wikidata-nn-L11401-S1">
-        <Definition></Definition>
+        <Definition>around, about</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11402">
       <Lemma writtenForm="einkvan" partOfSpeech="d"/>
       <Sense id="L11402-S1" synset="wikidata-nn-L11402-S1" ili="wikidata-nn-L11402-S1">
-        <Definition></Definition>
+        <Definition>any</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L911-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11897">
       <Lemma writtenForm="innanfrå" partOfSpeech="p"/>
       <Sense id="L11897-S1" synset="wikidata-nn-L11897-S1" ili="wikidata-nn-L11897-S1">
-        <Definition></Definition>
+        <Definition>from the inside</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L748637-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20115">
       <Lemma writtenForm="innanfor" partOfSpeech="p"/>
       <Sense id="L20115-S1" synset="wikidata-nn-L20115-S1" ili="wikidata-nn-L20115-S1">
-        <Definition></Definition>
+        <Definition>inside, behind</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L37960">
       <Lemma writtenForm="til" partOfSpeech="p"/>
       <Sense id="L37960-S1" synset="wikidata-nn-L37960-S1" ili="wikidata-nn-L37960-S1">
-        <Definition></Definition>
+        <Definition>to (a destination)</Definition>
       </Sense>
       <Sense id="L37960-S2" synset="wikidata-nn-L37960-S2" ili="wikidata-nn-L37960-S2">
-        <Definition></Definition>
+        <Definition>towards</Definition>
       </Sense>
       <Sense id="L37960-S3" synset="wikidata-nn-L37960-S3" ili="wikidata-nn-L37960-S3">
-        <Definition></Definition>
+        <Definition>(intended) for</Definition>
       </Sense>
       <Sense id="L37960-S4" synset="wikidata-nn-L37960-S4" ili="wikidata-nn-L37960-S4">
-        <Definition></Definition>
+        <Definition>(in order) to</Definition>
       </Sense>
       <Sense id="L37960-S5" synset="wikidata-nn-L37960-S5" ili="wikidata-nn-L37960-S5">
-        <Definition></Definition>
+        <Definition>belonging to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4400-S3"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L38299">
       <Lemma writtenForm="nedanfrå" partOfSpeech="p"/>
       <Sense id="L38299-S1" synset="wikidata-nn-L38299-S1" ili="wikidata-nn-L38299-S1">
-        <Definition></Definition>
+        <Definition>from below</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L749362-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739937">
       <Lemma writtenForm="-s-" partOfSpeech="y"/>
       <Sense id="L739937-S1" synset="wikidata-nn-L739937-S1" ili="wikidata-nn-L739937-S1">
-        <Definition></Definition>
+        <Definition>a connecting morpheme often used when words are combined</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740596">
       <Lemma writtenForm="bø" partOfSpeech="i"/>
       <Sense id="L740596-S1" synset="wikidata-nn-L740596-S1" ili="wikidata-nn-L740596-S1">
-        <Definition></Definition>
+        <Definition>used for scaring someone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740636">
       <Lemma writtenForm="enn" partOfSpeech="c"/>
       <Sense id="L740636-S1" synset="wikidata-nn-L740636-S1" ili="wikidata-nn-L740636-S1">
-        <Definition></Definition>
+        <Definition>than</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740728">
       <Lemma writtenForm="ifrå" partOfSpeech="p"/>
       <Sense id="L740728-S1" synset="wikidata-nn-L740728-S1" ili="wikidata-nn-L740728-S1">
-        <Definition></Definition>
+        <Definition>from</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L887-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740870">
       <Lemma writtenForm="ingenting" partOfSpeech="h"/>
       <Sense id="L740870-S1" synset="wikidata-nn-L740870-S1" ili="wikidata-nn-L740870-S1">
-        <Definition></Definition>
+        <Definition>nothing</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L860-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742073">
       <Lemma writtenForm="både" partOfSpeech="c"/>
       <Sense id="L742073-S1" synset="wikidata-nn-L742073-S1" ili="wikidata-nn-L742073-S1">
-        <Definition></Definition>
+        <Definition>both, as well as</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743193">
       <Lemma writtenForm="å" partOfSpeech="i"/>
       <Sense id="L743193-S1" synset="wikidata-nn-L743193-S1" ili="wikidata-nn-L743193-S1">
-        <Definition></Definition>
+        <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908281-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1316231-S1"/>
       </Sense>
@@ -161,137 +161,137 @@
     <LexicalEntry id="L743408">
       <Lemma writtenForm="den" partOfSpeech="d"/>
       <Sense id="L743408-S1" synset="wikidata-nn-L743408-S1" ili="wikidata-nn-L743408-S1">
-        <Definition></Definition>
+        <Definition>that (one)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743827">
       <Lemma writtenForm="for di" partOfSpeech="c"/>
       <Sense id="L743827-S1" synset="wikidata-nn-L743827-S1" ili="wikidata-nn-L743827-S1">
-        <Definition></Definition>
+        <Definition>because</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743826-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747908">
       <Lemma writtenForm="opptil" partOfSpeech="p"/>
       <Sense id="L747908-S1" synset="wikidata-nn-L747908-S1" ili="wikidata-nn-L747908-S1">
-        <Definition></Definition>
+        <Definition>right next to, against</Definition>
       </Sense>
       <Sense id="L747908-S2" synset="wikidata-nn-L747908-S2" ili="wikidata-nn-L747908-S2">
-        <Definition></Definition>
+        <Definition>up to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L749260">
       <Lemma writtenForm="som" partOfSpeech="c"/>
       <Sense id="L749260-S1" synset="wikidata-nn-L749260-S1" ili="wikidata-nn-L749260-S1">
-        <Definition></Definition>
+        <Definition>like</Definition>
       </Sense>
       <Sense id="L749260-S2" synset="wikidata-nn-L749260-S2" ili="wikidata-nn-L749260-S2">
-        <Definition></Definition>
+        <Definition>that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L846078">
       <Lemma writtenForm="prositt" partOfSpeech="i"/>
       <Sense id="L846078-S1" synset="wikidata-nn-L846078-S1" ili="wikidata-nn-L846078-S1">
-        <Definition></Definition>
+        <Definition>exclamation said to one who sneezes (&quot;Bless you!&quot;)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L846077-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908343">
       <Lemma writtenForm="à la" partOfSpeech="p"/>
       <Sense id="L908343-S1" synset="wikidata-nn-L908343-S1" ili="wikidata-nn-L908343-S1">
-        <Definition></Definition>
+        <Definition>à la; in the style/manner of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908342-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L943016">
       <Lemma writtenForm="klikk-klakk" partOfSpeech="i"/>
       <Sense id="L943016-S1" synset="wikidata-nn-L943016-S1" ili="wikidata-nn-L943016-S1">
-        <Definition></Definition>
+        <Definition>used to imitate the sound of clicking</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L992158">
       <Lemma writtenForm="hens" partOfSpeech="d"/>
       <Sense id="L992158-S1" synset="wikidata-nn-L992158-S1" ili="wikidata-nn-L992158-S1">
-        <Definition></Definition>
+        <Definition>their (possessive, singular gender-neutral)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119921">
       <Lemma writtenForm="austanfor" partOfSpeech="p"/>
       <Sense id="L1119921-S1" synset="wikidata-nn-L1119921-S1" ili="wikidata-nn-L1119921-S1">
-        <Definition></Definition>
+        <Definition>east of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1119922-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119970">
       <Lemma writtenForm="austetter" partOfSpeech="p"/>
       <Sense id="L1119970-S1" synset="wikidata-nn-L1119970-S1" ili="wikidata-nn-L1119970-S1">
-        <Definition></Definition>
+        <Definition>in an easterly direction</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125289">
       <Lemma writtenForm="bortpå" partOfSpeech="p"/>
       <Sense id="L1125289-S1" synset="wikidata-nn-L1125289-S1" ili="wikidata-nn-L1125289-S1">
-        <Definition></Definition>
+        <Definition>over on, over there</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125301">
       <Lemma writtenForm="borttil" partOfSpeech="p"/>
       <Sense id="L1125301-S1" synset="wikidata-nn-L1125301-S1" ili="wikidata-nn-L1125301-S1">
-        <Definition></Definition>
+        <Definition>by, up to (about proximity)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125303">
       <Lemma writtenForm="bortunder" partOfSpeech="p"/>
       <Sense id="L1125303-S1" synset="wikidata-nn-L1125303-S1" ili="wikidata-nn-L1125303-S1">
-        <Definition></Definition>
+        <Definition>below and over there</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1138730">
       <Lemma writtenForm="byss" partOfSpeech="i"/>
       <Sense id="L1138730-S1" synset="wikidata-nn-L1138730-S1" ili="wikidata-nn-L1138730-S1">
-        <Definition></Definition>
+        <Definition>something said to children to make them sleep</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230929">
       <Lemma writtenForm="ex" partOfSpeech="p"/>
       <Sense id="L1230929-S1" synset="wikidata-nn-L1230929-S1" ili="wikidata-nn-L1230929-S1">
-        <Definition></Definition>
+        <Definition>out of, from (only used in some Latin-based expressions)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1230941">
       <Lemma writtenForm="et" partOfSpeech="c"/>
       <Sense id="L1230941-S1" synset="wikidata-nn-L1230941-S1" ili="wikidata-nn-L1230941-S1">
-        <Definition></Definition>
+        <Definition>and (in Latin expressions)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1234895">
       <Lemma writtenForm="det" partOfSpeech="d"/>
       <Sense id="L1234895-S1" synset="wikidata-nn-L1234895-S1" ili="wikidata-nn-L1234895-S1">
-        <Definition></Definition>
+        <Definition>used as a dummy subject</Definition>
       </Sense>
       <Sense id="L1234895-S2" synset="wikidata-nn-L1234895-S2" ili="wikidata-nn-L1234895-S2">
-        <Definition></Definition>
+        <Definition>used as a dummy object</Definition>
       </Sense>
       <Sense id="L1234895-S3" synset="wikidata-nn-L1234895-S3" ili="wikidata-nn-L1234895-S3">
-        <Definition></Definition>
+        <Definition>used as a predicative</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1234896">
       <Lemma writtenForm="det" partOfSpeech="d"/>
       <Sense id="L1234896-S1" synset="wikidata-nn-L1234896-S1" ili="wikidata-nn-L1234896-S1">
-        <Definition></Definition>
+        <Definition>the</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1473615">
       <Lemma writtenForm="kvekk" partOfSpeech="i"/>
       <Sense id="L1473615-S1" synset="wikidata-nn-L1473615-S1" ili="wikidata-nn-L1473615-S1">
-        <Definition></Definition>
+        <Definition>used to imitate the sound of frogs or ducks</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L846">
       <Lemma writtenForm="dei" partOfSpeech="h"/>
       <Sense id="L846-S1" synset="wikidata-nn-L846-S1" ili="wikidata-nn-L846-S1">
-        <Definition></Definition>
+        <Definition>they; third-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L888">
@@ -333,168 +333,168 @@
     <LexicalEntry id="L3023">
       <Lemma writtenForm="unna" partOfSpeech="p"/>
       <Sense id="L3023-S1" synset="wikidata-nn-L3023-S1" ili="wikidata-nn-L3023-S1">
-        <Definition></Definition>
+        <Definition>away (from)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L3031">
       <Lemma writtenForm="om" partOfSpeech="c"/>
       <Sense id="L3031-S1" synset="wikidata-nn-L3031-S1" ili="wikidata-nn-L3031-S1">
-        <Definition></Definition>
+        <Definition>if, whether</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9798">
       <Lemma writtenForm="oppå" partOfSpeech="p"/>
       <Sense id="L9798-S1" synset="wikidata-nn-L9798-S1" ili="wikidata-nn-L9798-S1">
-        <Definition></Definition>
+        <Definition>on the top of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9812">
       <Lemma writtenForm="det" partOfSpeech="h"/>
       <Sense id="L9812-S1" synset="wikidata-nn-L9812-S1" ili="wikidata-nn-L9812-S1">
-        <Definition></Definition>
+        <Definition>it; third-person singular pronoun (for words of neuter genus)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9924">
       <Lemma writtenForm="som" partOfSpeech="d"/>
       <Sense id="L9924-S1" synset="wikidata-nn-L9924-S1" ili="wikidata-nn-L9924-S1">
-        <Definition></Definition>
+        <Definition>some (a few)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11517">
       <Lemma writtenForm="nedan" partOfSpeech="p"/>
       <Sense id="L11517-S1" synset="wikidata-nn-L11517-S1" ili="wikidata-nn-L11517-S1">
-        <Definition></Definition>
+        <Definition>below</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45202">
       <Lemma writtenForm="og" partOfSpeech="c"/>
       <Sense id="L45202-S1" synset="wikidata-nn-L45202-S1" ili="wikidata-nn-L45202-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305835">
       <Lemma writtenForm="dokker" partOfSpeech="h"/>
       <Sense id="L305835-S1" synset="wikidata-nn-L305835-S1" ili="wikidata-nn-L305835-S1">
-        <Definition></Definition>
+        <Definition>second-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741236">
       <Lemma writtenForm="men" partOfSpeech="c"/>
       <Sense id="L741236-S1" synset="wikidata-nn-L741236-S1" ili="wikidata-nn-L741236-S1">
-        <Definition></Definition>
+        <Definition>but</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742299">
       <Lemma writtenForm="rundt" partOfSpeech="p"/>
       <Sense id="L742299-S1" synset="wikidata-nn-L742299-S1" ili="wikidata-nn-L742299-S1">
-        <Definition></Definition>
+        <Definition>around, encircling</Definition>
       </Sense>
       <Sense id="L742299-S2" synset="wikidata-nn-L742299-S2" ili="wikidata-nn-L742299-S2">
-        <Definition></Definition>
+        <Definition>around (in different parts of a place)</Definition>
       </Sense>
       <Sense id="L742299-S3" synset="wikidata-nn-L742299-S3" ili="wikidata-nn-L742299-S3">
-        <Definition></Definition>
+        <Definition>past, along</Definition>
       </Sense>
       <Sense id="L742299-S4" synset="wikidata-nn-L742299-S4" ili="wikidata-nn-L742299-S4">
-        <Definition></Definition>
+        <Definition>throughout (about time)</Definition>
       </Sense>
       <Sense id="L742299-S5" synset="wikidata-nn-L742299-S5" ili="wikidata-nn-L742299-S5">
-        <Definition></Definition>
+        <Definition>around (near, close)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743602">
       <Lemma writtenForm="viss" partOfSpeech="c"/>
       <Sense id="L743602-S1" synset="wikidata-nn-L743602-S1" ili="wikidata-nn-L743602-S1">
-        <Definition></Definition>
+        <Definition>if</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L742067-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743826">
       <Lemma writtenForm="fordi" partOfSpeech="c"/>
       <Sense id="L743826-S1" synset="wikidata-nn-L743826-S1" ili="wikidata-nn-L743826-S1">
-        <Definition></Definition>
+        <Definition>because</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743827-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747600">
       <Lemma writtenForm="overfor" partOfSpeech="p"/>
       <Sense id="L747600-S1" synset="wikidata-nn-L747600-S1" ili="wikidata-nn-L747600-S1">
-        <Definition></Definition>
+        <Definition>face to face, turned towards</Definition>
       </Sense>
       <Sense id="L747600-S2" synset="wikidata-nn-L747600-S2" ili="wikidata-nn-L747600-S2">
-        <Definition></Definition>
+        <Definition>in relation to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748116">
       <Lemma writtenForm="null" partOfSpeech="d"/>
       <Sense id="L748116-S1" synset="wikidata-nn-L748116-S1" ili="wikidata-nn-L748116-S1">
-        <Definition></Definition>
+        <Definition>zero</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1463589-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L749362">
       <Lemma writtenForm="nedanifrå" partOfSpeech="p"/>
       <Sense id="L749362-S1" synset="wikidata-nn-L749362-S1" ili="wikidata-nn-L749362-S1">
-        <Definition></Definition>
+        <Definition>from below</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L38299-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908097">
       <Lemma writtenForm="hi" partOfSpeech="i"/>
       <Sense id="L908097-S1" synset="wikidata-nn-L908097-S1" ili="wikidata-nn-L908097-S1">
-        <Definition></Definition>
+        <Definition>used to replicate laughter or giggling</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L943554">
       <Lemma writtenForm="adjø" partOfSpeech="i"/>
       <Sense id="L943554-S1" synset="wikidata-nn-L943554-S1" ili="wikidata-nn-L943554-S1">
-        <Definition></Definition>
+        <Definition>goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L983512">
       <Lemma writtenForm="aha" partOfSpeech="i"/>
       <Sense id="L983512-S1" synset="wikidata-nn-L983512-S1" ili="wikidata-nn-L983512-S1">
-        <Definition></Definition>
+        <Definition>used to express a sudden understanding of something</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L983523">
       <Lemma writtenForm="ai" partOfSpeech="i"/>
       <Sense id="L983523-S1" synset="wikidata-nn-L983523-S1" ili="wikidata-nn-L983523-S1">
-        <Definition></Definition>
+        <Definition>used to express surprise</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L989426">
       <Lemma writtenForm="til og med" partOfSpeech="p"/>
       <Sense id="L989426-S1" synset="wikidata-nn-L989426-S1" ili="wikidata-nn-L989426-S1">
-        <Definition></Definition>
+        <Definition>even</Definition>
       </Sense>
       <Sense id="L989426-S2" synset="wikidata-nn-L989426-S2" ili="wikidata-nn-L989426-S2">
-        <Definition></Definition>
+        <Definition>up to and including</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L996404">
       <Lemma writtenForm="attpå" partOfSpeech="p"/>
       <Sense id="L996404-S1" synset="wikidata-nn-L996404-S1" ili="wikidata-nn-L996404-S1">
-        <Definition></Definition>
+        <Definition>on the back (of)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L996406-S1"/>
       </Sense>
       <Sense id="L996404-S2" synset="wikidata-nn-L996404-S2" ili="wikidata-nn-L996404-S2">
-        <Definition></Definition>
+        <Definition>in addition</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1118586">
       <Lemma writtenForm="au" partOfSpeech="i"/>
       <Sense id="L1118586-S1" synset="wikidata-nn-L1118586-S1" ili="wikidata-nn-L1118586-S1">
-        <Definition></Definition>
+        <Definition>sound one makes when in pain</Definition>
       </Sense>
       <Sense id="L1118586-S2" synset="wikidata-nn-L1118586-S2" ili="wikidata-nn-L1118586-S2">
-        <Definition></Definition>
+        <Definition>sound used to express unexpected disappointment</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119927">
       <Lemma writtenForm="austafrå" partOfSpeech="p"/>
       <Sense id="L1119927-S1" synset="wikidata-nn-L1119927-S1" ili="wikidata-nn-L1119927-S1">
-        <Definition></Definition>
+        <Definition>from the east</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1119926-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1119928-S1"/>
       </Sense>
@@ -502,7 +502,7 @@
     <LexicalEntry id="L1119928">
       <Lemma writtenForm="austanifrå" partOfSpeech="p"/>
       <Sense id="L1119928-S1" synset="wikidata-nn-L1119928-S1" ili="wikidata-nn-L1119928-S1">
-        <Definition></Definition>
+        <Definition>from the east</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1119926-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1119927-S1"/>
       </Sense>
@@ -510,38 +510,38 @@
     <LexicalEntry id="L1120051">
       <Lemma writtenForm="austover" partOfSpeech="p"/>
       <Sense id="L1120051-S1" synset="wikidata-nn-L1120051-S1" ili="wikidata-nn-L1120051-S1">
-        <Definition></Definition>
+        <Definition>in as easterly direction</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125272">
       <Lemma writtenForm="bortimot" partOfSpeech="p"/>
       <Sense id="L1125272-S1" synset="wikidata-nn-L1125272-S1" ili="wikidata-nn-L1125272-S1">
-        <Definition></Definition>
+        <Definition>away towards</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1131226">
       <Lemma writtenForm="bravo" partOfSpeech="i"/>
       <Sense id="L1131226-S1" synset="wikidata-nn-L1131226-S1" ili="wikidata-nn-L1131226-S1">
-        <Definition></Definition>
+        <Definition>bravo!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141427">
       <Lemma writtenForm="contra" partOfSpeech="p"/>
       <Sense id="L1141427-S1" synset="wikidata-nn-L1141427-S1" ili="wikidata-nn-L1141427-S1">
-        <Definition></Definition>
+        <Definition>contra; against</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1223302">
       <Lemma writtenForm="dæven" partOfSpeech="i"/>
       <Sense id="L1223302-S1" synset="wikidata-nn-L1223302-S1" ili="wikidata-nn-L1223302-S1">
-        <Definition></Definition>
+        <Definition>damn!</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1315421-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224361">
       <Lemma writtenForm="jaså" partOfSpeech="i"/>
       <Sense id="L1224361-S1" synset="wikidata-nn-L1224361-S1" ili="wikidata-nn-L1224361-S1">
-        <Definition></Definition>
+        <Definition>oh well, oh really</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1224362-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224363-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224364-S1"/>
@@ -550,63 +550,63 @@
     <LexicalEntry id="L1230977">
       <Lemma writtenForm="hin" partOfSpeech="d"/>
       <Sense id="L1230977-S1" synset="wikidata-nn-L1230977-S1" ili="wikidata-nn-L1230977-S1">
-        <Definition></Definition>
+        <Definition>the other (out of two, when used in singular); the others (out of several, when used in plural)</Definition>
       </Sense>
       <Sense id="L1230977-S2" synset="wikidata-nn-L1230977-S2" ili="wikidata-nn-L1230977-S2">
-        <Definition></Definition>
+        <Definition>remote (in time)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1310027">
       <Lemma writtenForm="dikkedikk" partOfSpeech="i"/>
       <Sense id="L1310027-S1" synset="wikidata-nn-L1310027-S1" ili="wikidata-nn-L1310027-S1">
-        <Definition></Definition>
+        <Definition>said when tickling children</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1310381">
       <Lemma writtenForm="ding-dang" partOfSpeech="i"/>
       <Sense id="L1310381-S1" synset="wikidata-nn-L1310381-S1" ili="wikidata-nn-L1310381-S1">
-        <Definition></Definition>
+        <Definition>used to imitate the sound of a doorbell</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1314760">
       <Lemma writtenForm="dunk" partOfSpeech="i"/>
       <Sense id="L1314760-S1" synset="wikidata-nn-L1314760-S1" ili="wikidata-nn-L1314760-S1">
-        <Definition></Definition>
+        <Definition>used to imitate the sound of something hitting something else</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1367844">
       <Lemma writtenForm="hyss" partOfSpeech="i"/>
       <Sense id="L1367844-S1" synset="wikidata-nn-L1367844-S1" ili="wikidata-nn-L1367844-S1">
-        <Definition></Definition>
+        <Definition>hush</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1367843-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1463589">
       <Lemma writtenForm="zero" partOfSpeech="d"/>
       <Sense id="L1463589-S1" synset="wikidata-nn-L1463589-S1" ili="wikidata-nn-L1463589-S1">
-        <Definition></Definition>
+        <Definition>zero</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L748116-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L847">
       <Lemma writtenForm="me" partOfSpeech="h"/>
       <Sense id="L847-S1" synset="wikidata-nn-L847-S1" ili="wikidata-nn-L847-S1">
-        <Definition></Definition>
+        <Definition>we; first-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L849">
       <Lemma writtenForm="de" partOfSpeech="h"/>
       <Sense id="L849-S1" synset="wikidata-nn-L849-S1" ili="wikidata-nn-L849-S1">
-        <Definition></Definition>
+        <Definition>second-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L851">
       <Lemma writtenForm="ho" partOfSpeech="h"/>
       <Sense id="L851-S1" synset="wikidata-nn-L851-S1" ili="wikidata-nn-L851-S1">
-        <Definition></Definition>
+        <Definition>she; third-person singular pronoun</Definition>
       </Sense>
       <Sense id="L851-S2" synset="wikidata-nn-L851-S2" ili="wikidata-nn-L851-S2">
-        <Definition></Definition>
+        <Definition>it (for words of feminine genus)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L948">
@@ -624,14 +624,14 @@
     <LexicalEntry id="L973">
       <Lemma writtenForm="utanfor" partOfSpeech="p"/>
       <Sense id="L973-S1" synset="wikidata-nn-L973-S1" ili="wikidata-nn-L973-S1">
-        <Definition></Definition>
+        <Definition>outside (of)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L750624-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L993">
       <Lemma writtenForm="eigen" partOfSpeech="d"/>
       <Sense id="L993-S1" synset="wikidata-nn-L993-S1" ili="wikidata-nn-L993-S1">
-        <Definition></Definition>
+        <Definition>(one&apos;s) own</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1004">
@@ -643,47 +643,47 @@
     <LexicalEntry id="L2740">
       <Lemma writtenForm="føre" partOfSpeech="p"/>
       <Sense id="L2740-S1" synset="wikidata-nn-L2740-S1" ili="wikidata-nn-L2740-S1">
-        <Definition></Definition>
+        <Definition>in front of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9777">
       <Lemma writtenForm="ein" partOfSpeech="d"/>
       <Sense id="L9777-S1" synset="wikidata-nn-L9777-S1" ili="wikidata-nn-L9777-S1">
-        <Definition></Definition>
+        <Definition>a/an (indefinite article)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9784">
       <Lemma writtenForm="av" partOfSpeech="p"/>
       <Sense id="L9784-S1" synset="wikidata-nn-L9784-S1" ili="wikidata-nn-L9784-S1">
-        <Definition></Definition>
+        <Definition>of</Definition>
       </Sense>
       <Sense id="L9784-S2" synset="wikidata-nn-L9784-S2" ili="wikidata-nn-L9784-S2">
-        <Definition></Definition>
+        <Definition>off</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9955">
       <Lemma writtenForm="attåt" partOfSpeech="p"/>
       <Sense id="L9955-S1" synset="wikidata-nn-L9955-S1" ili="wikidata-nn-L9955-S1">
-        <Definition></Definition>
+        <Definition>next to, beside</Definition>
       </Sense>
       <Sense id="L9955-S2" synset="wikidata-nn-L9955-S2" ili="wikidata-nn-L9955-S2">
-        <Definition></Definition>
+        <Definition>close by</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11515">
       <Lemma writtenForm="nedanfor" partOfSpeech="p"/>
       <Sense id="L11515-S1" synset="wikidata-nn-L11515-S1" ili="wikidata-nn-L11515-S1">
-        <Definition></Definition>
+        <Definition>further down</Definition>
       </Sense>
       <Sense id="L11515-S2" synset="wikidata-nn-L11515-S2" ili="wikidata-nn-L11515-S2">
-        <Definition></Definition>
+        <Definition>below</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1406483-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11896">
       <Lemma writtenForm="utanfrå" partOfSpeech="p"/>
       <Sense id="L11896-S1" synset="wikidata-nn-L11896-S1" ili="wikidata-nn-L11896-S1">
-        <Definition></Definition>
+        <Definition>from the outside</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L749509-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L784122-S1"/>
       </Sense>
@@ -691,45 +691,45 @@
     <LexicalEntry id="L740631">
       <Lemma writtenForm="din" partOfSpeech="d"/>
       <Sense id="L740631-S1" synset="wikidata-nn-L740631-S1" ili="wikidata-nn-L740631-S1">
-        <Definition></Definition>
+        <Definition>your, yours</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742169">
       <Lemma writtenForm="igjennom" partOfSpeech="p"/>
       <Sense id="L742169-S1" synset="wikidata-nn-L742169-S1" ili="wikidata-nn-L742169-S1">
-        <Definition></Definition>
+        <Definition>through</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L742168-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743186">
       <Lemma writtenForm="sin" partOfSpeech="d"/>
       <Sense id="L743186-S1" synset="wikidata-nn-L743186-S1" ili="wikidata-nn-L743186-S1">
-        <Definition></Definition>
+        <Definition>his, her/hers or its</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743524">
       <Lemma writtenForm="hos" partOfSpeech="p"/>
       <Sense id="L743524-S1" synset="wikidata-nn-L743524-S1" ili="wikidata-nn-L743524-S1">
-        <Definition></Definition>
+        <Definition>at (about a location)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L937-S1"/>
       </Sense>
       <Sense id="L743524-S2" synset="wikidata-nn-L743524-S2" ili="wikidata-nn-L743524-S2">
-        <Definition></Definition>
+        <Definition>next to, with</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L937-S2"/>
       </Sense>
       <Sense id="L743524-S3" synset="wikidata-nn-L743524-S3" ili="wikidata-nn-L743524-S3">
-        <Definition></Definition>
+        <Definition>belonging to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L937-S3"/>
       </Sense>
       <Sense id="L743524-S4" synset="wikidata-nn-L743524-S4" ili="wikidata-nn-L743524-S4">
-        <Definition></Definition>
+        <Definition>with(in one&apos;s mind)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L937-S4"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748077">
       <Lemma writtenForm="ifylgje" partOfSpeech="p"/>
       <Sense id="L748077-S1" synset="wikidata-nn-L748077-S1" ili="wikidata-nn-L748077-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L748076-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L748078-S1"/>
       </Sense>
@@ -737,7 +737,7 @@
     <LexicalEntry id="L748078">
       <Lemma writtenForm="ifølge" partOfSpeech="p"/>
       <Sense id="L748078-S1" synset="wikidata-nn-L748078-S1" ili="wikidata-nn-L748078-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L748076-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L748077-S1"/>
       </Sense>
@@ -745,39 +745,39 @@
     <LexicalEntry id="L796603">
       <Lemma writtenForm="minders" partOfSpeech="c"/>
       <Sense id="L796603-S1" synset="wikidata-nn-L796603-S1" ili="wikidata-nn-L796603-S1">
-        <Definition></Definition>
+        <Definition>unless</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L38009-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908108">
       <Lemma writtenForm="hå" partOfSpeech="i"/>
       <Sense id="L908108-S1" synset="wikidata-nn-L908108-S1" ili="wikidata-nn-L908108-S1">
-        <Definition></Definition>
+        <Definition>used to mimic laughter</Definition>
       </Sense>
       <Sense id="L908108-S2" synset="wikidata-nn-L908108-S2" ili="wikidata-nn-L908108-S2">
-        <Definition></Definition>
+        <Definition>used to express surprise or schadenfreude</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908117">
       <Lemma writtenForm="hø" partOfSpeech="i"/>
       <Sense id="L908117-S1" synset="wikidata-nn-L908117-S1" ili="wikidata-nn-L908117-S1">
-        <Definition></Definition>
+        <Definition>used to express confusion</Definition>
       </Sense>
       <Sense id="L908117-S2" synset="wikidata-nn-L908117-S2" ili="wikidata-nn-L908117-S2">
-        <Definition></Definition>
+        <Definition>used to express disagreement or contempt</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908142">
       <Lemma writtenForm="jø" partOfSpeech="i"/>
       <Sense id="L908142-S1" synset="wikidata-nn-L908142-S1" ili="wikidata-nn-L908142-S1">
-        <Definition></Definition>
+        <Definition>used when something is overwhelming or surprising</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908143-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908281">
       <Lemma writtenForm="åh" partOfSpeech="i"/>
       <Sense id="L908281-S1" synset="wikidata-nn-L908281-S1" ili="wikidata-nn-L908281-S1">
-        <Definition></Definition>
+        <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743193-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1316231-S1"/>
       </Sense>
@@ -785,80 +785,80 @@
     <LexicalEntry id="L908342">
       <Lemma writtenForm="a la" partOfSpeech="p"/>
       <Sense id="L908342-S1" synset="wikidata-nn-L908342-S1" ili="wikidata-nn-L908342-S1">
-        <Definition></Definition>
+        <Definition>à la; in the style/manner of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908343-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L942655">
       <Lemma writtenForm="bortigjennom" partOfSpeech="p"/>
       <Sense id="L942655-S1" synset="wikidata-nn-L942655-S1" ili="wikidata-nn-L942655-S1">
-        <Definition></Definition>
+        <Definition>away and through</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L942654-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L984971">
       <Lemma writtenForm="allting" partOfSpeech="d"/>
       <Sense id="L984971-S1" synset="wikidata-nn-L984971-S1" ili="wikidata-nn-L984971-S1">
-        <Definition></Definition>
+        <Definition>everything; all things</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L988919">
       <Lemma writtenForm="anti" partOfSpeech="p"/>
       <Sense id="L988919-S1" synset="wikidata-nn-L988919-S1" ili="wikidata-nn-L988919-S1">
-        <Definition></Definition>
+        <Definition>anti (against)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L989203">
       <Lemma writtenForm="enten" partOfSpeech="c"/>
       <Sense id="L989203-S1" synset="wikidata-nn-L989203-S1" ili="wikidata-nn-L989203-S1">
-        <Definition></Definition>
+        <Definition>either (or)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L7711-S1"/>
       </Sense>
       <Sense id="L989203-S2" synset="wikidata-nn-L989203-S2" ili="wikidata-nn-L989203-S2">
-        <Definition></Definition>
+        <Definition>whether (or not)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L7711-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L992165">
       <Lemma writtenForm="deira" partOfSpeech="d"/>
       <Sense id="L992165-S1" synset="wikidata-nn-L992165-S1" ili="wikidata-nn-L992165-S1">
-        <Definition></Definition>
+        <Definition>their, theirs (plural)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1000758">
       <Lemma writtenForm="bakafor" partOfSpeech="p"/>
       <Sense id="L1000758-S1" synset="wikidata-nn-L1000758-S1" ili="wikidata-nn-L1000758-S1">
-        <Definition></Definition>
+        <Definition>behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1000757-S1"/>
       </Sense>
       <Sense id="L1000758-S2" synset="wikidata-nn-L1000758-S2" ili="wikidata-nn-L1000758-S2">
-        <Definition></Definition>
+        <Definition>to somewhere behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1000757-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1014077">
       <Lemma writtenForm="basta" partOfSpeech="i"/>
       <Sense id="L1014077-S1" synset="wikidata-nn-L1014077-S1" ili="wikidata-nn-L1014077-S1">
-        <Definition></Definition>
+        <Definition>used to indicate that something is decided</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1093659">
       <Lemma writtenForm="bånnski" partOfSpeech="i"/>
       <Sense id="L1093659-S1" synset="wikidata-nn-L1093659-S1" ili="wikidata-nn-L1093659-S1">
-        <Definition></Definition>
+        <Definition>bottoms-up!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119922">
       <Lemma writtenForm="austafor" partOfSpeech="p"/>
       <Sense id="L1119922-S1" synset="wikidata-nn-L1119922-S1" ili="wikidata-nn-L1119922-S1">
-        <Definition></Definition>
+        <Definition>east of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1119921-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119926">
       <Lemma writtenForm="austanfrå" partOfSpeech="p"/>
       <Sense id="L1119926-S1" synset="wikidata-nn-L1119926-S1" ili="wikidata-nn-L1119926-S1">
-        <Definition></Definition>
+        <Definition>from the east</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1119927-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1119928-S1"/>
       </Sense>
@@ -866,14 +866,14 @@
     <LexicalEntry id="L1125241">
       <Lemma writtenForm="bortafor" partOfSpeech="p"/>
       <Sense id="L1125241-S1" synset="wikidata-nn-L1125241-S1" ili="wikidata-nn-L1125241-S1">
-        <Definition></Definition>
+        <Definition>beyond</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L39786-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125252">
       <Lemma writtenForm="bortetter" partOfSpeech="p"/>
       <Sense id="L1125252-S1" synset="wikidata-nn-L1125252-S1" ili="wikidata-nn-L1125252-S1">
-        <Definition></Definition>
+        <Definition>along</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4294-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L4296-S2"/>
       </Sense>
@@ -881,16 +881,16 @@
     <LexicalEntry id="L1125268">
       <Lemma writtenForm="borti" partOfSpeech="p"/>
       <Sense id="L1125268-S1" synset="wikidata-nn-L1125268-S1" ili="wikidata-nn-L1125268-S1">
-        <Definition></Definition>
+        <Definition>touching, in contact with</Definition>
       </Sense>
       <Sense id="L1125268-S2" synset="wikidata-nn-L1125268-S2" ili="wikidata-nn-L1125268-S2">
-        <Definition></Definition>
+        <Definition>over in</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224362">
       <Lemma writtenForm="ja so" partOfSpeech="i"/>
       <Sense id="L1224362-S1" synset="wikidata-nn-L1224362-S1" ili="wikidata-nn-L1224362-S1">
-        <Definition></Definition>
+        <Definition>oh well, oh really</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1224361-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224363-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224364-S1"/>
@@ -899,45 +899,45 @@
     <LexicalEntry id="L1230980">
       <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L1230980-S1" synset="wikidata-nn-L1230980-S1" ili="wikidata-nn-L1230980-S1">
-        <Definition></Definition>
+        <Definition>of, from</Definition>
       </Sense>
       <Sense id="L1230980-S2" synset="wikidata-nn-L1230980-S2" ili="wikidata-nn-L1230980-S2">
-        <Definition></Definition>
+        <Definition>of, in</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1310383">
       <Lemma writtenForm="ding-ding" partOfSpeech="i"/>
       <Sense id="L1310383-S1" synset="wikidata-nn-L1310383-S1" ili="wikidata-nn-L1310383-S1">
-        <Definition></Definition>
+        <Definition>used to imitate the sound of a small bell</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1406487">
       <Lemma writtenForm="nedanom" partOfSpeech="p"/>
       <Sense id="L1406487-S1" synset="wikidata-nn-L1406487-S1" ili="wikidata-nn-L1406487-S1">
-        <Definition></Definition>
+        <Definition>down by; via somewhere that lies further down from one&apos;s location</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1406483-S2"/>
       </Sense>
       <Sense id="L1406487-S2" synset="wikidata-nn-L1406487-S2" ili="wikidata-nn-L1406487-S2">
-        <Definition></Definition>
+        <Definition>in a place that is further down</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1474496">
       <Lemma writtenForm="mjau" partOfSpeech="i"/>
       <Sense id="L1474496-S1" synset="wikidata-nn-L1474496-S1" ili="wikidata-nn-L1474496-S1">
-        <Definition></Definition>
+        <Definition>meow</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L991">
       <Lemma writtenForm="medan" partOfSpeech="c"/>
       <Sense id="L991-S1" synset="wikidata-nn-L991-S1" ili="wikidata-nn-L991-S1">
-        <Definition></Definition>
+        <Definition>while</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743541-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1000">
       <Lemma writtenForm="eg" partOfSpeech="h"/>
       <Sense id="L1000-S1" synset="wikidata-nn-L1000-S1" ili="wikidata-nn-L1000-S1">
-        <Definition></Definition>
+        <Definition>I; first-person singular pronoun; the speaker</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1006">
@@ -961,232 +961,232 @@
     <LexicalEntry id="L5021">
       <Lemma writtenForm="tjueein" partOfSpeech="d"/>
       <Sense id="L5021-S1" synset="wikidata-nn-L5021-S1" ili="wikidata-nn-L5021-S1">
-        <Definition></Definition>
+        <Definition>twenty-one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5470">
       <Lemma writtenForm="etter" partOfSpeech="p"/>
       <Sense id="L5470-S1" synset="wikidata-nn-L5470-S1" ili="wikidata-nn-L5470-S1">
-        <Definition></Definition>
+        <Definition>after</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9787">
       <Lemma writtenForm="å" partOfSpeech="c"/>
       <Sense id="L9787-S1" synset="wikidata-nn-L9787-S1" ili="wikidata-nn-L9787-S1">
-        <Definition></Definition>
+        <Definition>infinitive marker</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9799">
       <Lemma writtenForm="under" partOfSpeech="p"/>
       <Sense id="L9799-S1" synset="wikidata-nn-L9799-S1" ili="wikidata-nn-L9799-S1">
-        <Definition></Definition>
+        <Definition>under, below</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9906">
       <Lemma writtenForm="or" partOfSpeech="p"/>
       <Sense id="L9906-S1" synset="wikidata-nn-L9906-S1" ili="wikidata-nn-L9906-S1">
-        <Definition></Definition>
+        <Definition>out from</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20205">
       <Lemma writtenForm="einannan" partOfSpeech="h"/>
       <Sense id="L20205-S1" synset="wikidata-nn-L20205-S1" ili="wikidata-nn-L20205-S1">
-        <Definition></Definition>
+        <Definition>each other</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L20204-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740585">
       <Lemma writtenForm="båe" partOfSpeech="d"/>
       <Sense id="L740585-S1" synset="wikidata-nn-L740585-S1" ili="wikidata-nn-L740585-S1">
-        <Definition></Definition>
+        <Definition>both</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740584-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740701">
       <Lemma writtenForm="for" partOfSpeech="p"/>
       <Sense id="L740701-S1" synset="wikidata-nn-L740701-S1" ili="wikidata-nn-L740701-S1">
-        <Definition></Definition>
+        <Definition>in front of</Definition>
       </Sense>
       <Sense id="L740701-S2" synset="wikidata-nn-L740701-S2" ili="wikidata-nn-L740701-S2">
-        <Definition></Definition>
+        <Definition>in relation to</Definition>
       </Sense>
       <Sense id="L740701-S3" synset="wikidata-nn-L740701-S3" ili="wikidata-nn-L740701-S3">
-        <Definition></Definition>
+        <Definition>in support of</Definition>
       </Sense>
       <Sense id="L740701-S4" synset="wikidata-nn-L740701-S4" ili="wikidata-nn-L740701-S4">
-        <Definition></Definition>
+        <Definition>considering</Definition>
       </Sense>
       <Sense id="L740701-S5" synset="wikidata-nn-L740701-S5" ili="wikidata-nn-L740701-S5">
-        <Definition></Definition>
+        <Definition>in order (to)</Definition>
       </Sense>
       <Sense id="L740701-S6" synset="wikidata-nn-L740701-S6" ili="wikidata-nn-L740701-S6">
-        <Definition></Definition>
+        <Definition>because of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4400-S2"/>
       </Sense>
       <Sense id="L740701-S7" synset="wikidata-nn-L740701-S7" ili="wikidata-nn-L740701-S7">
-        <Definition></Definition>
+        <Definition>intended for</Definition>
       </Sense>
       <Sense id="L740701-S8" synset="wikidata-nn-L740701-S8" ili="wikidata-nn-L740701-S8">
-        <Definition></Definition>
+        <Definition>in spite of</Definition>
       </Sense>
       <Sense id="L740701-S9" synset="wikidata-nn-L740701-S9" ili="wikidata-nn-L740701-S9">
-        <Definition></Definition>
+        <Definition>for (about time)</Definition>
       </Sense>
       <Sense id="L740701-S10" synset="wikidata-nn-L740701-S10" ili="wikidata-nn-L740701-S10">
-        <Definition></Definition>
+        <Definition>too (much, little, etc.)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741087">
       <Lemma writtenForm="min" partOfSpeech="d"/>
       <Sense id="L741087-S1" synset="wikidata-nn-L741087-S1" ili="wikidata-nn-L741087-S1">
-        <Definition></Definition>
+        <Definition>my, mine</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741238">
       <Lemma writtenForm="mellom" partOfSpeech="p"/>
       <Sense id="L741238-S1" synset="wikidata-nn-L741238-S1" ili="wikidata-nn-L741238-S1">
-        <Definition></Definition>
+        <Definition>between</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742168">
       <Lemma writtenForm="gjennom" partOfSpeech="p"/>
       <Sense id="L742168-S1" synset="wikidata-nn-L742168-S1" ili="wikidata-nn-L742168-S1">
-        <Definition></Definition>
+        <Definition>through</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L742169-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742392">
       <Lemma writtenForm="seg" partOfSpeech="h"/>
       <Sense id="L742392-S1" synset="wikidata-nn-L742392-S1" ili="wikidata-nn-L742392-S1">
-        <Definition></Definition>
+        <Definition>one(self)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743317">
       <Lemma writtenForm="ved" partOfSpeech="p"/>
       <Sense id="L743317-S1" synset="wikidata-nn-L743317-S1" ili="wikidata-nn-L743317-S1">
-        <Definition></Definition>
+        <Definition>near, nearby</Definition>
       </Sense>
       <Sense id="L743317-S2" synset="wikidata-nn-L743317-S2" ili="wikidata-nn-L743317-S2">
-        <Definition></Definition>
+        <Definition>around (about time)</Definition>
       </Sense>
       <Sense id="L743317-S3" synset="wikidata-nn-L743317-S3" ili="wikidata-nn-L743317-S3">
-        <Definition></Definition>
+        <Definition>by</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743592">
       <Lemma writtenForm="slik" partOfSpeech="d"/>
       <Sense id="L743592-S1" synset="wikidata-nn-L743592-S1" ili="wikidata-nn-L743592-S1">
-        <Definition></Definition>
+        <Definition>thus</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L746461">
       <Lemma writtenForm="fy" partOfSpeech="i"/>
       <Sense id="L746461-S1" synset="wikidata-nn-L746461-S1" ili="wikidata-nn-L746461-S1">
-        <Definition></Definition>
+        <Definition>used to express contempt or blame</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908334">
       <Lemma writtenForm="vis-a-vis" partOfSpeech="p"/>
       <Sense id="L908334-S1" synset="wikidata-nn-L908334-S1" ili="wikidata-nn-L908334-S1">
-        <Definition></Definition>
+        <Definition>opposite, facing</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908335-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908336">
       <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L908336-S1" synset="wikidata-nn-L908336-S1" ili="wikidata-nn-L908336-S1">
-        <Definition></Definition>
+        <Definition>to, up, on, for (especially in expressions borrowed from French)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908337-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908337">
       <Lemma writtenForm="à" partOfSpeech="p"/>
       <Sense id="L908337-S1" synset="wikidata-nn-L908337-S1" ili="wikidata-nn-L908337-S1">
-        <Definition></Definition>
+        <Definition>to, up, on, for (especially in expressions borrowed from French)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908336-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L984288">
       <Lemma writtenForm="akk" partOfSpeech="i"/>
       <Sense id="L984288-S1" synset="wikidata-nn-L984288-S1" ili="wikidata-nn-L984288-S1">
-        <Definition></Definition>
+        <Definition>used in expressions to express displeasure</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L992162">
       <Lemma writtenForm="hennar" partOfSpeech="d"/>
       <Sense id="L992162-S1" synset="wikidata-nn-L992162-S1" ili="wikidata-nn-L992162-S1">
-        <Definition></Definition>
+        <Definition>her, hers</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L992164">
       <Lemma writtenForm="deira" partOfSpeech="d"/>
       <Sense id="L992164-S1" synset="wikidata-nn-L992164-S1" ili="wikidata-nn-L992164-S1">
-        <Definition></Definition>
+        <Definition>your, yours (plural)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1000757">
       <Lemma writtenForm="bakanfor" partOfSpeech="p"/>
       <Sense id="L1000757-S1" synset="wikidata-nn-L1000757-S1" ili="wikidata-nn-L1000757-S1">
-        <Definition></Definition>
+        <Definition>behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1000758-S1"/>
       </Sense>
       <Sense id="L1000757-S2" synset="wikidata-nn-L1000757-S2" ili="wikidata-nn-L1000757-S2">
-        <Definition></Definition>
+        <Definition>to somewhere behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1000758-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1090221">
       <Lemma writtenForm="blant" partOfSpeech="p"/>
       <Sense id="L1090221-S1" synset="wikidata-nn-L1090221-S1" ili="wikidata-nn-L1090221-S1">
-        <Definition></Definition>
+        <Definition>among</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1120054">
       <Lemma writtenForm="austpå" partOfSpeech="p"/>
       <Sense id="L1120054-S1" synset="wikidata-nn-L1120054-S1" ili="wikidata-nn-L1120054-S1">
-        <Definition></Definition>
+        <Definition>on the eastern side of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125287">
       <Lemma writtenForm="bortom" partOfSpeech="p"/>
       <Sense id="L1125287-S1" synset="wikidata-nn-L1125287-S1" ili="wikidata-nn-L1125287-S1">
-        <Definition></Definition>
+        <Definition>past, on the other side</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1137194">
       <Lemma writtenForm="bums" partOfSpeech="i"/>
       <Sense id="L1137194-S1" synset="wikidata-nn-L1137194-S1" ili="wikidata-nn-L1137194-S1">
-        <Definition></Definition>
+        <Definition>thump (used to imitate sound of something hitting/falling)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1367842">
       <Lemma writtenForm="fysj" partOfSpeech="i"/>
       <Sense id="L1367842-S1" synset="wikidata-nn-L1367842-S1" ili="wikidata-nn-L1367842-S1">
-        <Definition></Definition>
+        <Definition>used to express contempt or disgust</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1367843">
       <Lemma writtenForm="hysj" partOfSpeech="i"/>
       <Sense id="L1367843-S1" synset="wikidata-nn-L1367843-S1" ili="wikidata-nn-L1367843-S1">
-        <Definition></Definition>
+        <Definition>hush</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1367844-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1406483">
       <Lemma writtenForm="nedom" partOfSpeech="p"/>
       <Sense id="L1406483-S1" synset="wikidata-nn-L1406483-S1" ili="wikidata-nn-L1406483-S1">
-        <Definition></Definition>
+        <Definition>below</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L11515-S2"/>
       </Sense>
       <Sense id="L1406483-S2" synset="wikidata-nn-L1406483-S2" ili="wikidata-nn-L1406483-S2">
-        <Definition></Definition>
+        <Definition>down by; via somewhere that lies further down from one&apos;s location</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1406487-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1474500">
       <Lemma writtenForm="nja" partOfSpeech="i"/>
       <Sense id="L1474500-S1" synset="wikidata-nn-L1474500-S1" ili="wikidata-nn-L1474500-S1">
-        <Definition></Definition>
+        <Definition>used to give a hesitant answer; neither yes nor no</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L949">
@@ -1204,61 +1204,61 @@
     <LexicalEntry id="L4291">
       <Lemma writtenForm="framover" partOfSpeech="p"/>
       <Sense id="L4291-S1" synset="wikidata-nn-L4291-S1" ili="wikidata-nn-L4291-S1">
-        <Definition></Definition>
+        <Definition>forward; in a forward direction</Definition>
       </Sense>
       <Sense id="L4291-S2" synset="wikidata-nn-L4291-S2" ili="wikidata-nn-L4291-S2">
-        <Definition></Definition>
+        <Definition>in the near future</Definition>
       </Sense>
       <Sense id="L4291-S3" synset="wikidata-nn-L4291-S3" ili="wikidata-nn-L4291-S3">
-        <Definition></Definition>
+        <Definition>progress</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9796">
       <Lemma writtenForm="med" partOfSpeech="p"/>
       <Sense id="L9796-S1" synset="wikidata-nn-L9796-S1" ili="wikidata-nn-L9796-S1">
-        <Definition></Definition>
+        <Definition>with</Definition>
       </Sense>
       <Sense id="L9796-S2" synset="wikidata-nn-L9796-S2" ili="wikidata-nn-L9796-S2">
-        <Definition></Definition>
+        <Definition>including</Definition>
       </Sense>
       <Sense id="L9796-S3" synset="wikidata-nn-L9796-S3" ili="wikidata-nn-L9796-S3">
-        <Definition></Definition>
+        <Definition>concurrent</Definition>
       </Sense>
       <Sense id="L9796-S4" synset="wikidata-nn-L9796-S4" ili="wikidata-nn-L9796-S4">
-        <Definition></Definition>
+        <Definition>in the same direction as</Definition>
       </Sense>
       <Sense id="L9796-S5" synset="wikidata-nn-L9796-S5" ili="wikidata-nn-L9796-S5">
-        <Definition></Definition>
+        <Definition>having, containing</Definition>
       </Sense>
       <Sense id="L9796-S6" synset="wikidata-nn-L9796-S6" ili="wikidata-nn-L9796-S6">
-        <Definition></Definition>
+        <Definition>using</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L11708">
       <Lemma writtenForm="andsynes" partOfSpeech="p"/>
       <Sense id="L11708-S1" synset="wikidata-nn-L11708-S1" ili="wikidata-nn-L11708-S1">
-        <Definition></Definition>
+        <Definition>face-to-face</Definition>
       </Sense>
       <Sense id="L11708-S2" synset="wikidata-nn-L11708-S2" ili="wikidata-nn-L11708-S2">
-        <Definition></Definition>
+        <Definition>opposite (location-wise)</Definition>
       </Sense>
       <Sense id="L11708-S3" synset="wikidata-nn-L11708-S3" ili="wikidata-nn-L11708-S3">
-        <Definition></Definition>
+        <Definition>in regards to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L19937">
       <Lemma writtenForm="kvar" partOfSpeech="d"/>
       <Sense id="L19937-S1" synset="wikidata-nn-L19937-S1" ili="wikidata-nn-L19937-S1">
-        <Definition></Definition>
+        <Definition>every</Definition>
       </Sense>
       <Sense id="L19937-S2" synset="wikidata-nn-L19937-S2" ili="wikidata-nn-L19937-S2">
-        <Definition></Definition>
+        <Definition>each</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20114">
       <Lemma writtenForm="innan" partOfSpeech="p"/>
       <Sense id="L20114-S1" synset="wikidata-nn-L20114-S1" ili="wikidata-nn-L20114-S1">
-        <Definition></Definition>
+        <Definition>by, within</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46046">
@@ -1270,102 +1270,102 @@
     <LexicalEntry id="L740638">
       <Lemma writtenForm="eller" partOfSpeech="c"/>
       <Sense id="L740638-S1" synset="wikidata-nn-L740638-S1" ili="wikidata-nn-L740638-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740784">
       <Lemma writtenForm="hei" partOfSpeech="i"/>
       <Sense id="L740784-S1" synset="wikidata-nn-L740784-S1" ili="wikidata-nn-L740784-S1">
-        <Definition></Definition>
+        <Definition>hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741058">
       <Lemma writtenForm="mot" partOfSpeech="p"/>
       <Sense id="L741058-S1" synset="wikidata-nn-L741058-S1" ili="wikidata-nn-L741058-S1">
-        <Definition></Definition>
+        <Definition>towards</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4400-S1"/>
       </Sense>
       <Sense id="L741058-S2" synset="wikidata-nn-L741058-S2" ili="wikidata-nn-L741058-S2">
-        <Definition></Definition>
+        <Definition>just before</Definition>
       </Sense>
       <Sense id="L741058-S3" synset="wikidata-nn-L741058-S3" ili="wikidata-nn-L741058-S3">
-        <Definition></Definition>
+        <Definition>against</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741263">
       <Lemma writtenForm="nå" partOfSpeech="i"/>
       <Sense id="L741263-S1" synset="wikidata-nn-L741263-S1" ili="wikidata-nn-L741263-S1">
-        <Definition></Definition>
+        <Definition>used to express surprise</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741262-S1"/>
       </Sense>
       <Sense id="L741263-S2" synset="wikidata-nn-L741263-S2" ili="wikidata-nn-L741263-S2">
-        <Definition></Definition>
+        <Definition>used to express impatience</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741262-S2"/>
       </Sense>
       <Sense id="L741263-S3" synset="wikidata-nn-L741263-S3" ili="wikidata-nn-L741263-S3">
-        <Definition></Definition>
+        <Definition>used to express annoyance</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741262-S3"/>
       </Sense>
       <Sense id="L741263-S4" synset="wikidata-nn-L741263-S4" ili="wikidata-nn-L741263-S4">
-        <Definition></Definition>
+        <Definition>used to calm someone down</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741262-S4"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908028">
       <Lemma writtenForm="bæ" partOfSpeech="i"/>
       <Sense id="L908028-S1" synset="wikidata-nn-L908028-S1" ili="wikidata-nn-L908028-S1">
-        <Definition></Definition>
+        <Definition>the sound a sheep makes</Definition>
       </Sense>
       <Sense id="L908028-S2" synset="wikidata-nn-L908028-S2" ili="wikidata-nn-L908028-S2">
-        <Definition></Definition>
+        <Definition>used when teasing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908116">
       <Lemma writtenForm="hæ" partOfSpeech="i"/>
       <Sense id="L908116-S1" synset="wikidata-nn-L908116-S1" ili="wikidata-nn-L908116-S1">
-        <Definition></Definition>
+        <Definition>huh</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908210">
       <Lemma writtenForm="pøh" partOfSpeech="i"/>
       <Sense id="L908210-S1" synset="wikidata-nn-L908210-S1" ili="wikidata-nn-L908210-S1">
-        <Definition></Definition>
+        <Definition>used to show contempt</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908209-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1000794">
       <Lemma writtenForm="baketter" partOfSpeech="p"/>
       <Sense id="L1000794-S1" synset="wikidata-nn-L1000794-S1" ili="wikidata-nn-L1000794-S1">
-        <Definition></Definition>
+        <Definition>behind, following something/someone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1088955">
       <Lemma writtenForm="billion" partOfSpeech="d"/>
       <Sense id="L1088955-S1" synset="wikidata-nn-L1088955-S1" ili="wikidata-nn-L1088955-S1">
-        <Definition></Definition>
+        <Definition>billion (long scale)/trillion (short scale)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141681">
       <Lemma writtenForm="då" partOfSpeech="c"/>
       <Sense id="L1141681-S1" synset="wikidata-nn-L1141681-S1" ili="wikidata-nn-L1141681-S1">
-        <Definition></Definition>
+        <Definition>when (starting a clause)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141680-S1"/>
       </Sense>
       <Sense id="L1141681-S2" synset="wikidata-nn-L1141681-S2" ili="wikidata-nn-L1141681-S2">
-        <Definition></Definition>
+        <Definition>since, because (starting a clause)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141680-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1223359">
       <Lemma writtenForm="knips" partOfSpeech="i"/>
       <Sense id="L1223359-S1" synset="wikidata-nn-L1223359-S1" ili="wikidata-nn-L1223359-S1">
-        <Definition></Definition>
+        <Definition>used to replicate the sound of snapping a photo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224363">
       <Lemma writtenForm="ja så" partOfSpeech="i"/>
       <Sense id="L1224363-S1" synset="wikidata-nn-L1224363-S1" ili="wikidata-nn-L1224363-S1">
-        <Definition></Definition>
+        <Definition>oh well, oh really</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1224361-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224362-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224364-S1"/>
@@ -1374,20 +1374,20 @@
     <LexicalEntry id="L1230981">
       <Lemma writtenForm="ad" partOfSpeech="p"/>
       <Sense id="L1230981-S1" synset="wikidata-nn-L1230981-S1" ili="wikidata-nn-L1230981-S1">
-        <Definition></Definition>
+        <Definition>regarding</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1307736">
       <Lemma writtenForm="derne" partOfSpeech="d"/>
       <Sense id="L1307736-S1" synset="wikidata-nn-L1307736-S1" ili="wikidata-nn-L1307736-S1">
-        <Definition></Definition>
+        <Definition>that one (used behind pronouns)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1307735-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1316231">
       <Lemma writtenForm="eia" partOfSpeech="i"/>
       <Sense id="L1316231-S1" synset="wikidata-nn-L1316231-S1" ili="wikidata-nn-L1316231-S1">
-        <Definition></Definition>
+        <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743193-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L908281-S1"/>
       </Sense>
@@ -1395,31 +1395,31 @@
     <LexicalEntry id="L1318225">
       <Lemma writtenForm="ettersom" partOfSpeech="c"/>
       <Sense id="L1318225-S1" synset="wikidata-nn-L1318225-S1" ili="wikidata-nn-L1318225-S1">
-        <Definition></Definition>
+        <Definition>because, due to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L854">
       <Lemma writtenForm="kva" partOfSpeech="h"/>
       <Sense id="L854-S1" synset="wikidata-nn-L854-S1" ili="wikidata-nn-L854-S1">
-        <Definition></Definition>
+        <Definition>what</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L937">
       <Lemma writtenForm="hjå" partOfSpeech="p"/>
       <Sense id="L937-S1" synset="wikidata-nn-L937-S1" ili="wikidata-nn-L937-S1">
-        <Definition></Definition>
+        <Definition>at (about a location)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743524-S1"/>
       </Sense>
       <Sense id="L937-S2" synset="wikidata-nn-L937-S2" ili="wikidata-nn-L937-S2">
-        <Definition></Definition>
+        <Definition>next to, with</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743524-S2"/>
       </Sense>
       <Sense id="L937-S3" synset="wikidata-nn-L937-S3" ili="wikidata-nn-L937-S3">
-        <Definition></Definition>
+        <Definition>belonging to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743524-S3"/>
       </Sense>
       <Sense id="L937-S4" synset="wikidata-nn-L937-S4" ili="wikidata-nn-L937-S4">
-        <Definition></Definition>
+        <Definition>with(in one&apos;s mind)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743524-S4"/>
       </Sense>
     </LexicalEntry>
@@ -1450,54 +1450,54 @@
     <LexicalEntry id="L3030">
       <Lemma writtenForm="om" partOfSpeech="p"/>
       <Sense id="L3030-S1" synset="wikidata-nn-L3030-S1" ili="wikidata-nn-L3030-S1">
-        <Definition></Definition>
+        <Definition>around, about</Definition>
       </Sense>
       <Sense id="L3030-S2" synset="wikidata-nn-L3030-S2" ili="wikidata-nn-L3030-S2">
-        <Definition></Definition>
+        <Definition>via, by</Definition>
       </Sense>
       <Sense id="L3030-S3" synset="wikidata-nn-L3030-S3" ili="wikidata-nn-L3030-S3">
-        <Definition></Definition>
+        <Definition>next to</Definition>
       </Sense>
       <Sense id="L3030-S4" synset="wikidata-nn-L3030-S4" ili="wikidata-nn-L3030-S4">
-        <Definition></Definition>
+        <Definition>relating to, about</Definition>
       </Sense>
       <Sense id="L3030-S5" synset="wikidata-nn-L3030-S5" ili="wikidata-nn-L3030-S5">
-        <Definition></Definition>
+        <Definition>during</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4292">
       <Lemma writtenForm="attover" partOfSpeech="p"/>
       <Sense id="L4292-S1" synset="wikidata-nn-L4292-S1" ili="wikidata-nn-L4292-S1">
-        <Definition></Definition>
+        <Definition>towards the back</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4296">
       <Lemma writtenForm="nedover" partOfSpeech="p"/>
       <Sense id="L4296-S1" synset="wikidata-nn-L4296-S1" ili="wikidata-nn-L4296-S1">
-        <Definition></Definition>
+        <Definition>downwards</Definition>
       </Sense>
       <Sense id="L4296-S2" synset="wikidata-nn-L4296-S2" ili="wikidata-nn-L4296-S2">
-        <Definition></Definition>
+        <Definition>along, down (the street, etc.)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L4294-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1125252-S1"/>
       </Sense>
       <Sense id="L4296-S3" synset="wikidata-nn-L4296-S3" ili="wikidata-nn-L4296-S3">
-        <Definition></Definition>
+        <Definition>southwards</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9786">
       <Lemma writtenForm="på" partOfSpeech="p"/>
       <Sense id="L9786-S1" synset="wikidata-nn-L9786-S1" ili="wikidata-nn-L9786-S1">
-        <Definition></Definition>
+        <Definition>on</Definition>
       </Sense>
       <Sense id="L9786-S2" synset="wikidata-nn-L9786-S2" ili="wikidata-nn-L9786-S2">
-        <Definition></Definition>
+        <Definition>on top of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L38298">
       <Lemma writtenForm="ovanfrå" partOfSpeech="p"/>
       <Sense id="L38298-S1" synset="wikidata-nn-L38298-S1" ili="wikidata-nn-L38298-S1">
-        <Definition></Definition>
+        <Definition>from above</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L781944-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L781946-S1"/>
       </Sense>
@@ -1505,30 +1505,30 @@
     <LexicalEntry id="L44436">
       <Lemma writtenForm="bak" partOfSpeech="p"/>
       <Sense id="L44436-S1" synset="wikidata-nn-L44436-S1" ili="wikidata-nn-L44436-S1">
-        <Definition></Definition>
+        <Definition>behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1001580-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739890">
       <Lemma writtenForm="i" partOfSpeech="p"/>
       <Sense id="L739890-S1" synset="wikidata-nn-L739890-S1" ili="wikidata-nn-L739890-S1">
-        <Definition></Definition>
+        <Definition>in</Definition>
       </Sense>
       <Sense id="L739890-S2" synset="wikidata-nn-L739890-S2" ili="wikidata-nn-L739890-S2">
-        <Definition></Definition>
+        <Definition>inside</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740584">
       <Lemma writtenForm="begge" partOfSpeech="d"/>
       <Sense id="L740584-S1" synset="wikidata-nn-L740584-S1" ili="wikidata-nn-L740584-S1">
-        <Definition></Definition>
+        <Definition>both</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740585-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740629">
       <Lemma writtenForm="di" partOfSpeech="c"/>
       <Sense id="L740629-S1" synset="wikidata-nn-L740629-S1" ili="wikidata-nn-L740629-S1">
-        <Definition></Definition>
+        <Definition>used for &quot;it&quot; in some common phrases</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740650">
@@ -1541,32 +1541,32 @@
     <LexicalEntry id="L741265">
       <Lemma writtenForm="nei" partOfSpeech="i"/>
       <Sense id="L741265-S1" synset="wikidata-nn-L741265-S1" ili="wikidata-nn-L741265-S1">
-        <Definition></Definition>
+        <Definition>no</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742067">
       <Lemma writtenForm="dersom" partOfSpeech="c"/>
       <Sense id="L742067-S1" synset="wikidata-nn-L742067-S1" ili="wikidata-nn-L742067-S1">
-        <Definition></Definition>
+        <Definition>if</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L743602-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747663">
       <Lemma writtenForm="uansett" partOfSpeech="p"/>
       <Sense id="L747663-S1" synset="wikidata-nn-L747663-S1" ili="wikidata-nn-L747663-S1">
-        <Definition></Definition>
+        <Definition>no matter what</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748102">
       <Lemma writtenForm="kring" partOfSpeech="p"/>
       <Sense id="L748102-S1" synset="wikidata-nn-L748102-S1" ili="wikidata-nn-L748102-S1">
-        <Definition></Definition>
+        <Definition>around, about</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L749509">
       <Lemma writtenForm="utanifrå" partOfSpeech="p"/>
       <Sense id="L749509-S1" synset="wikidata-nn-L749509-S1" ili="wikidata-nn-L749509-S1">
-        <Definition></Definition>
+        <Definition>from the outside</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L11896-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L784122-S1"/>
       </Sense>
@@ -1574,7 +1574,7 @@
     <LexicalEntry id="L784122">
       <Lemma writtenForm="utafrå" partOfSpeech="p"/>
       <Sense id="L784122-S1" synset="wikidata-nn-L784122-S1" ili="wikidata-nn-L784122-S1">
-        <Definition></Definition>
+        <Definition>from the outside</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L749509-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L11896-S1"/>
       </Sense>
@@ -1582,83 +1582,83 @@
     <LexicalEntry id="L846077">
       <Lemma writtenForm="prosit" partOfSpeech="i"/>
       <Sense id="L846077-S1" synset="wikidata-nn-L846077-S1" ili="wikidata-nn-L846077-S1">
-        <Definition></Definition>
+        <Definition>exclamation said to one who sneezes (&quot;Bless you!&quot;)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L846078-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908101">
       <Lemma writtenForm="hm" partOfSpeech="i"/>
       <Sense id="L908101-S1" synset="wikidata-nn-L908101-S1" ili="wikidata-nn-L908101-S1">
-        <Definition></Definition>
+        <Definition>used to replicate the sound of clearing one&apos;s throat</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908170">
       <Lemma writtenForm="mø" partOfSpeech="i"/>
       <Sense id="L908170-S1" synset="wikidata-nn-L908170-S1" ili="wikidata-nn-L908170-S1">
-        <Definition></Definition>
+        <Definition>the sound a cow makes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908190">
       <Lemma writtenForm="oi" partOfSpeech="i"/>
       <Sense id="L908190-S1" synset="wikidata-nn-L908190-S1" ili="wikidata-nn-L908190-S1">
-        <Definition></Definition>
+        <Definition>sound used to expressed surprise</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908335">
       <Lemma writtenForm="vis-à-vis" partOfSpeech="p"/>
       <Sense id="L908335-S1" synset="wikidata-nn-L908335-S1" ili="wikidata-nn-L908335-S1">
-        <Definition></Definition>
+        <Definition>opposite, facing</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908334-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L942643">
       <Lemma writtenForm="abrakadabra" partOfSpeech="i"/>
       <Sense id="L942643-S1" synset="wikidata-nn-L942643-S1" ili="wikidata-nn-L942643-S1">
-        <Definition></Definition>
+        <Definition>abracadabra (said when doing a magic trick)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L985532">
       <Lemma writtenForm="amen" partOfSpeech="i"/>
       <Sense id="L985532-S1" synset="wikidata-nn-L985532-S1" ili="wikidata-nn-L985532-S1">
-        <Definition></Definition>
+        <Definition>amen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L989620">
       <Lemma writtenForm="eins" partOfSpeech="d"/>
       <Sense id="L989620-S1" synset="wikidata-nn-L989620-S1" ili="wikidata-nn-L989620-S1">
-        <Definition></Definition>
+        <Definition>one&apos;s (as in &quot;one&apos;s own ...&quot;)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012375">
       <Lemma writtenForm="bang" partOfSpeech="i"/>
       <Sense id="L1012375-S1" synset="wikidata-nn-L1012375-S1" ili="wikidata-nn-L1012375-S1">
-        <Definition></Definition>
+        <Definition>bang</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1307735">
       <Lemma writtenForm="derre" partOfSpeech="d"/>
       <Sense id="L1307735-S1" synset="wikidata-nn-L1307735-S1" ili="wikidata-nn-L1307735-S1">
-        <Definition></Definition>
+        <Definition>that one (used behind pronouns)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1307736-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409679">
       <Lemma writtenForm="hallo" partOfSpeech="i"/>
       <Sense id="L1409679-S1" synset="wikidata-nn-L1409679-S1" ili="wikidata-nn-L1409679-S1">
-        <Definition></Definition>
+        <Definition>hello!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L887">
       <Lemma writtenForm="frå" partOfSpeech="p"/>
       <Sense id="L887-S1" synset="wikidata-nn-L887-S1" ili="wikidata-nn-L887-S1">
-        <Definition></Definition>
+        <Definition>from</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740728-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L922">
       <Lemma writtenForm="utan" partOfSpeech="p"/>
       <Sense id="L922-S1" synset="wikidata-nn-L922-S1" ili="wikidata-nn-L922-S1">
-        <Definition></Definition>
+        <Definition>without</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L938">
@@ -1689,42 +1689,42 @@
     <LexicalEntry id="L3022">
       <Lemma writtenForm="over" partOfSpeech="p"/>
       <Sense id="L3022-S1" synset="wikidata-nn-L3022-S1" ili="wikidata-nn-L3022-S1">
-        <Definition></Definition>
+        <Definition>over, above</Definition>
       </Sense>
       <Sense id="L3022-S2" synset="wikidata-nn-L3022-S2" ili="wikidata-nn-L3022-S2">
-        <Definition></Definition>
+        <Definition>from above</Definition>
       </Sense>
       <Sense id="L3022-S3" synset="wikidata-nn-L3022-S3" ili="wikidata-nn-L3022-S3">
-        <Definition></Definition>
+        <Definition>along the surface of</Definition>
       </Sense>
       <Sense id="L3022-S4" synset="wikidata-nn-L3022-S4" ili="wikidata-nn-L3022-S4">
-        <Definition></Definition>
+        <Definition>via</Definition>
       </Sense>
       <Sense id="L3022-S5" synset="wikidata-nn-L3022-S5" ili="wikidata-nn-L3022-S5">
-        <Definition></Definition>
+        <Definition>more than</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4295">
       <Lemma writtenForm="oppover" partOfSpeech="p"/>
       <Sense id="L4295-S1" synset="wikidata-nn-L4295-S1" ili="wikidata-nn-L4295-S1">
-        <Definition></Definition>
+        <Definition>upwards</Definition>
       </Sense>
       <Sense id="L4295-S2" synset="wikidata-nn-L4295-S2" ili="wikidata-nn-L4295-S2">
-        <Definition></Definition>
+        <Definition>northwards</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4400">
       <Lemma writtenForm="åt" partOfSpeech="p"/>
       <Sense id="L4400-S1" synset="wikidata-nn-L4400-S1" ili="wikidata-nn-L4400-S1">
-        <Definition></Definition>
+        <Definition>towards</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741058-S1"/>
       </Sense>
       <Sense id="L4400-S2" synset="wikidata-nn-L4400-S2" ili="wikidata-nn-L4400-S2">
-        <Definition></Definition>
+        <Definition>because of</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740701-S6"/>
       </Sense>
       <Sense id="L4400-S3" synset="wikidata-nn-L4400-S3" ili="wikidata-nn-L4400-S3">
-        <Definition></Definition>
+        <Definition>belonging to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L37960-S5"/>
       </Sense>
     </LexicalEntry>
@@ -1737,42 +1737,42 @@
     <LexicalEntry id="L7711">
       <Lemma writtenForm="anten" partOfSpeech="c"/>
       <Sense id="L7711-S1" synset="wikidata-nn-L7711-S1" ili="wikidata-nn-L7711-S1">
-        <Definition></Definition>
+        <Definition>either (or)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L989203-S1"/>
       </Sense>
       <Sense id="L7711-S2" synset="wikidata-nn-L7711-S2" ili="wikidata-nn-L7711-S2">
-        <Definition></Definition>
+        <Definition>whether (or not)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L989203-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9810">
       <Lemma writtenForm="du" partOfSpeech="h"/>
       <Sense id="L9810-S1" synset="wikidata-nn-L9810-S1" ili="wikidata-nn-L9810-S1">
-        <Definition></Definition>
+        <Definition>second-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L9811">
       <Lemma writtenForm="han" partOfSpeech="h"/>
       <Sense id="L9811-S1" synset="wikidata-nn-L9811-S1" ili="wikidata-nn-L9811-S1">
-        <Definition></Definition>
+        <Definition>he; third-person singular pronoun</Definition>
       </Sense>
       <Sense id="L9811-S2" synset="wikidata-nn-L9811-S2" ili="wikidata-nn-L9811-S2">
-        <Definition></Definition>
+        <Definition>it (for words of masculine genus)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20106">
       <Lemma writtenForm="utanom" partOfSpeech="p"/>
       <Sense id="L20106-S1" synset="wikidata-nn-L20106-S1" ili="wikidata-nn-L20106-S1">
-        <Definition></Definition>
+        <Definition>except, besides</Definition>
       </Sense>
       <Sense id="L20106-S2" synset="wikidata-nn-L20106-S2" ili="wikidata-nn-L20106-S2">
-        <Definition></Definition>
+        <Definition>(pass) by</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L38009">
       <Lemma writtenForm="minder" partOfSpeech="c"/>
       <Sense id="L38009-S1" synset="wikidata-nn-L38009-S1" ili="wikidata-nn-L38009-S1">
-        <Definition></Definition>
+        <Definition>unless</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L796603-S1"/>
       </Sense>
     </LexicalEntry>
@@ -1785,72 +1785,72 @@
     <LexicalEntry id="L740590">
       <Lemma writtenForm="denne" partOfSpeech="d"/>
       <Sense id="L740590-S1" synset="wikidata-nn-L740590-S1" ili="wikidata-nn-L740590-S1">
-        <Definition></Definition>
+        <Definition>this</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740635">
       <Lemma writtenForm="enn" partOfSpeech="c"/>
       <Sense id="L740635-S1" synset="wikidata-nn-L740635-S1" ili="wikidata-nn-L740635-S1">
-        <Definition></Definition>
+        <Definition>how/what about …</Definition>
       </Sense>
       <Sense id="L740635-S2" synset="wikidata-nn-L740635-S2" ili="wikidata-nn-L740635-S2">
-        <Definition></Definition>
+        <Definition>what if …</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740647">
       <Lemma writtenForm="ein" partOfSpeech="h"/>
       <Sense id="L740647-S1" synset="wikidata-nn-L740647-S1" ili="wikidata-nn-L740647-S1">
-        <Definition></Definition>
+        <Definition>one; a general pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740700">
       <Lemma writtenForm="for" partOfSpeech="c"/>
       <Sense id="L740700-S1" synset="wikidata-nn-L740700-S1" ili="wikidata-nn-L740700-S1">
-        <Definition></Definition>
+        <Definition>because, since</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741262">
       <Lemma writtenForm="no" partOfSpeech="i"/>
       <Sense id="L741262-S1" synset="wikidata-nn-L741262-S1" ili="wikidata-nn-L741262-S1">
-        <Definition></Definition>
+        <Definition>used to express surprise</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741263-S1"/>
       </Sense>
       <Sense id="L741262-S2" synset="wikidata-nn-L741262-S2" ili="wikidata-nn-L741262-S2">
-        <Definition></Definition>
+        <Definition>used to express impatience</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741263-S2"/>
       </Sense>
       <Sense id="L741262-S3" synset="wikidata-nn-L741262-S3" ili="wikidata-nn-L741262-S3">
-        <Definition></Definition>
+        <Definition>used to express annoyance</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741263-S3"/>
       </Sense>
       <Sense id="L741262-S4" synset="wikidata-nn-L741262-S4" ili="wikidata-nn-L741262-S4">
-        <Definition></Definition>
+        <Definition>used to calm someone down</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L741263-S4"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743409">
       <Lemma writtenForm="den" partOfSpeech="d"/>
       <Sense id="L743409-S1" synset="wikidata-nn-L743409-S1" ili="wikidata-nn-L743409-S1">
-        <Definition></Definition>
+        <Definition>the</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743541">
       <Lemma writtenForm="med" partOfSpeech="c"/>
       <Sense id="L743541-S1" synset="wikidata-nn-L743541-S1" ili="wikidata-nn-L743541-S1">
-        <Definition></Definition>
+        <Definition>while</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L991-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743971">
       <Lemma writtenForm="vår" partOfSpeech="d"/>
       <Sense id="L743971-S1" synset="wikidata-nn-L743971-S1" ili="wikidata-nn-L743971-S1">
-        <Definition></Definition>
+        <Definition>our</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748076">
       <Lemma writtenForm="ifølgje" partOfSpeech="p"/>
       <Sense id="L748076-S1" synset="wikidata-nn-L748076-S1" ili="wikidata-nn-L748076-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L748077-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L748078-S1"/>
       </Sense>
@@ -1858,7 +1858,7 @@
     <LexicalEntry id="L781944">
       <Lemma writtenForm="ovafrå" partOfSpeech="p"/>
       <Sense id="L781944-S1" synset="wikidata-nn-L781944-S1" ili="wikidata-nn-L781944-S1">
-        <Definition></Definition>
+        <Definition>from above</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L38298-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L781946-S1"/>
       </Sense>
@@ -1866,7 +1866,7 @@
     <LexicalEntry id="L781946">
       <Lemma writtenForm="ovanifrå" partOfSpeech="p"/>
       <Sense id="L781946-S1" synset="wikidata-nn-L781946-S1" ili="wikidata-nn-L781946-S1">
-        <Definition></Definition>
+        <Definition>from above</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L38298-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L781944-S1"/>
       </Sense>
@@ -1874,96 +1874,96 @@
     <LexicalEntry id="L908105">
       <Lemma writtenForm="hu" partOfSpeech="i"/>
       <Sense id="L908105-S1" synset="wikidata-nn-L908105-S1" ili="wikidata-nn-L908105-S1">
-        <Definition></Definition>
+        <Definition>used to express discomfort</Definition>
       </Sense>
       <Sense id="L908105-S2" synset="wikidata-nn-L908105-S2" ili="wikidata-nn-L908105-S2">
-        <Definition></Definition>
+        <Definition>used to imitate sobbing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908143">
       <Lemma writtenForm="jøye" partOfSpeech="i"/>
       <Sense id="L908143-S1" synset="wikidata-nn-L908143-S1" ili="wikidata-nn-L908143-S1">
-        <Definition></Definition>
+        <Definition>used when something is overwhelming or surprising</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908142-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908209">
       <Lemma writtenForm="pø" partOfSpeech="i"/>
       <Sense id="L908209-S1" synset="wikidata-nn-L908209-S1" ili="wikidata-nn-L908209-S1">
-        <Definition></Definition>
+        <Definition>used to show contempt</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L908210-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908260">
       <Lemma writtenForm="ve" partOfSpeech="i"/>
       <Sense id="L908260-S1" synset="wikidata-nn-L908260-S1" ili="wikidata-nn-L908260-S1">
-        <Definition></Definition>
+        <Definition>used to express sorrow, pain or condemnation</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L942605">
       <Lemma writtenForm="kykeliky" partOfSpeech="i"/>
       <Sense id="L942605-S1" synset="wikidata-nn-L942605-S1" ili="wikidata-nn-L942605-S1">
-        <Definition></Definition>
+        <Definition>cock-a-doodle-doo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L942654">
       <Lemma writtenForm="bortgjennom" partOfSpeech="p"/>
       <Sense id="L942654-S1" synset="wikidata-nn-L942654-S1" ili="wikidata-nn-L942654-S1">
-        <Definition></Definition>
+        <Definition>away and through</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L942655-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L996406">
       <Lemma writtenForm="bakpå" partOfSpeech="p"/>
       <Sense id="L996406-S1" synset="wikidata-nn-L996406-S1" ili="wikidata-nn-L996406-S1">
-        <Definition></Definition>
+        <Definition>on the back (of)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L996404-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1191798">
       <Lemma writtenForm="pst" partOfSpeech="i"/>
       <Sense id="L1191798-S1" synset="wikidata-nn-L1191798-S1" ili="wikidata-nn-L1191798-S1">
-        <Definition></Definition>
+        <Definition>used to attract attention</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1223348">
       <Lemma writtenForm="joho" partOfSpeech="i"/>
       <Sense id="L1223348-S1" synset="wikidata-nn-L1223348-S1" ili="wikidata-nn-L1223348-S1">
-        <Definition></Definition>
+        <Definition>used as an amplified version of &quot;jo&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1231994">
       <Lemma writtenForm="gudskjelov" partOfSpeech="i"/>
       <Sense id="L1231994-S1" synset="wikidata-nn-L1231994-S1" ili="wikidata-nn-L1231994-S1">
-        <Definition></Definition>
+        <Definition>thank God, thank heavens</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1231995-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1231995">
       <Lemma writtenForm="gud skje lov" partOfSpeech="i"/>
       <Sense id="L1231995-S1" synset="wikidata-nn-L1231995-S1" ili="wikidata-nn-L1231995-S1">
-        <Definition></Definition>
+        <Definition>thank God, thank heavens</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1231994-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409739">
       <Lemma writtenForm="uff" partOfSpeech="i"/>
       <Sense id="L1409739-S1" synset="wikidata-nn-L1409739-S1" ili="wikidata-nn-L1409739-S1">
-        <Definition></Definition>
+        <Definition>oof</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1409741-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L860">
       <Lemma writtenForm="inkjevetta" partOfSpeech="h"/>
       <Sense id="L860-S1" synset="wikidata-nn-L860-S1" ili="wikidata-nn-L860-S1">
-        <Definition></Definition>
+        <Definition>nothing</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L740870-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L904">
       <Lemma writtenForm="sjølv" partOfSpeech="d"/>
       <Sense id="L904-S1" synset="wikidata-nn-L904-S1" ili="wikidata-nn-L904-S1">
-        <Definition></Definition>
+        <Definition>self</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L990">
@@ -1993,228 +1993,228 @@
     <LexicalEntry id="L5480">
       <Lemma writtenForm="før" partOfSpeech="p"/>
       <Sense id="L5480-S1" synset="wikidata-nn-L5480-S1" ili="wikidata-nn-L5480-S1">
-        <Definition></Definition>
+        <Definition>before; earlier than</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5488">
       <Lemma writtenForm="frametter" partOfSpeech="p"/>
       <Sense id="L5488-S1" synset="wikidata-nn-L5488-S1" ili="wikidata-nn-L5488-S1">
-        <Definition></Definition>
+        <Definition>forward, along</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L10185">
       <Lemma writtenForm="utor" partOfSpeech="p"/>
       <Sense id="L10185-S1" synset="wikidata-nn-L10185-S1" ili="wikidata-nn-L10185-S1">
-        <Definition></Definition>
+        <Definition>out from</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20113">
       <Lemma writtenForm="innan" partOfSpeech="c"/>
       <Sense id="L20113-S1" synset="wikidata-nn-L20113-S1" ili="wikidata-nn-L20113-S1">
-        <Definition></Definition>
+        <Definition>by the time, before</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L20204">
       <Lemma writtenForm="kvarandre" partOfSpeech="h"/>
       <Sense id="L20204-S1" synset="wikidata-nn-L20204-S1" ili="wikidata-nn-L20204-S1">
-        <Definition></Definition>
+        <Definition>each other</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L20205-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L39786">
       <Lemma writtenForm="bortanfor" partOfSpeech="p"/>
       <Sense id="L39786-S1" synset="wikidata-nn-L39786-S1" ili="wikidata-nn-L39786-S1">
-        <Definition></Definition>
+        <Definition>beyond</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1125241-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739902">
       <Lemma writtenForm="all" partOfSpeech="d"/>
       <Sense id="L739902-S1" synset="wikidata-nn-L739902-S1" ili="wikidata-nn-L739902-S1">
-        <Definition></Definition>
+        <Definition>all</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740553">
       <Lemma writtenForm="at" partOfSpeech="c"/>
       <Sense id="L740553-S1" synset="wikidata-nn-L740553-S1" ili="wikidata-nn-L740553-S1">
-        <Definition></Definition>
+        <Definition>that (as in &quot;he thought that ...&quot;)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740606">
       <Lemma writtenForm="bu" partOfSpeech="i"/>
       <Sense id="L740606-S1" synset="wikidata-nn-L740606-S1" ili="wikidata-nn-L740606-S1">
-        <Definition></Definition>
+        <Definition>boo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740686">
       <Lemma writtenForm="forbi" partOfSpeech="p"/>
       <Sense id="L740686-S1" synset="wikidata-nn-L740686-S1" ili="wikidata-nn-L740686-S1">
-        <Definition></Definition>
+        <Definition>past (passing by)</Definition>
       </Sense>
       <Sense id="L740686-S2" synset="wikidata-nn-L740686-S2" ili="wikidata-nn-L740686-S2">
-        <Definition></Definition>
+        <Definition>past (finished, over)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740872">
       <Lemma writtenForm="ingen" partOfSpeech="d"/>
       <Sense id="L740872-S1" synset="wikidata-nn-L740872-S1" ili="wikidata-nn-L740872-S1">
-        <Definition></Definition>
+        <Definition>no/none</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740899">
       <Lemma writtenForm="jo" partOfSpeech="i"/>
       <Sense id="L740899-S1" synset="wikidata-nn-L740899-S1" ili="wikidata-nn-L740899-S1">
-        <Definition></Definition>
+        <Definition>yes (in opposition to a negatively phrased question)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L5000-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L742012">
       <Lemma writtenForm="same" partOfSpeech="d"/>
       <Sense id="L742012-S1" synset="wikidata-nn-L742012-S1" ili="wikidata-nn-L742012-S1">
-        <Definition></Definition>
+        <Definition>same</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L744009">
       <Lemma writtenForm="innom" partOfSpeech="p"/>
       <Sense id="L744009-S1" synset="wikidata-nn-L744009-S1" ili="wikidata-nn-L744009-S1">
-        <Definition></Definition>
+        <Definition>via, by (as in &quot;stop by&quot;)</Definition>
       </Sense>
       <Sense id="L744009-S2" synset="wikidata-nn-L744009-S2" ili="wikidata-nn-L744009-S2">
-        <Definition></Definition>
+        <Definition>just inside</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747381">
       <Lemma writtenForm="bom" partOfSpeech="i"/>
       <Sense id="L747381-S1" synset="wikidata-nn-L747381-S1" ili="wikidata-nn-L747381-S1">
-        <Definition></Definition>
+        <Definition>used to imitate a sudden, loud sound</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747721">
       <Lemma writtenForm="ja" partOfSpeech="i"/>
       <Sense id="L747721-S1" synset="wikidata-nn-L747721-S1" ili="wikidata-nn-L747721-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747794">
       <Lemma writtenForm="tøff" partOfSpeech="i"/>
       <Sense id="L747794-S1" synset="wikidata-nn-L747794-S1" ili="wikidata-nn-L747794-S1">
-        <Definition></Definition>
+        <Definition>used to mimic the sound of a (steam) train</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748204">
       <Lemma writtenForm="takk" partOfSpeech="i"/>
       <Sense id="L748204-S1" synset="wikidata-nn-L748204-S1" ili="wikidata-nn-L748204-S1">
-        <Definition></Definition>
+        <Definition>thank you</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748637">
       <Lemma writtenForm="innanifrå" partOfSpeech="p"/>
       <Sense id="L748637-S1" synset="wikidata-nn-L748637-S1" ili="wikidata-nn-L748637-S1">
-        <Definition></Definition>
+        <Definition>from the inside</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L11897-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L750624">
       <Lemma writtenForm="utafor" partOfSpeech="p"/>
       <Sense id="L750624-S1" synset="wikidata-nn-L750624-S1" ili="wikidata-nn-L750624-S1">
-        <Definition></Definition>
+        <Definition>outside (of)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L973-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908000">
       <Lemma writtenForm="æ" partOfSpeech="i"/>
       <Sense id="L908000-S1" synset="wikidata-nn-L908000-S1" ili="wikidata-nn-L908000-S1">
-        <Definition></Definition>
+        <Definition>used when teasing (mostly by children)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908093">
       <Lemma writtenForm="ha" partOfSpeech="i"/>
       <Sense id="L908093-S1" synset="wikidata-nn-L908093-S1" ili="wikidata-nn-L908093-S1">
-        <Definition></Definition>
+        <Definition>hah!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908095">
       <Lemma writtenForm="he" partOfSpeech="i"/>
       <Sense id="L908095-S1" synset="wikidata-nn-L908095-S1" ili="wikidata-nn-L908095-S1">
-        <Definition></Definition>
+        <Definition>used to replicate laughter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908102">
       <Lemma writtenForm="ho" partOfSpeech="i"/>
       <Sense id="L908102-S1" synset="wikidata-nn-L908102-S1" ili="wikidata-nn-L908102-S1">
-        <Definition></Definition>
+        <Definition>used to express laughter or joy</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L908119">
       <Lemma writtenForm="ah" partOfSpeech="i"/>
       <Sense id="L908119-S1" synset="wikidata-nn-L908119-S1" ili="wikidata-nn-L908119-S1">
-        <Definition></Definition>
+        <Definition>used to express surprise</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L992161">
       <Lemma writtenForm="hans" partOfSpeech="d"/>
       <Sense id="L992161-S1" synset="wikidata-nn-L992161-S1" ili="wikidata-nn-L992161-S1">
-        <Definition></Definition>
+        <Definition>his</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1000895">
       <Lemma writtenForm="baki" partOfSpeech="p"/>
       <Sense id="L1000895-S1" synset="wikidata-nn-L1000895-S1" ili="wikidata-nn-L1000895-S1">
-        <Definition></Definition>
+        <Definition>in(side) the back part</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1001580">
       <Lemma writtenForm="bakom" partOfSpeech="p"/>
       <Sense id="L1001580-S1" synset="wikidata-nn-L1001580-S1" ili="wikidata-nn-L1001580-S1">
-        <Definition></Definition>
+        <Definition>behind</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L44436-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1101738">
       <Lemma writtenForm="hen" partOfSpeech="h"/>
       <Sense id="L1101738-S1" synset="wikidata-nn-L1101738-S1" ili="wikidata-nn-L1101738-S1">
-        <Definition></Definition>
+        <Definition>they; gender-neutral third-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1119973">
       <Lemma writtenForm="austfrå" partOfSpeech="p"/>
       <Sense id="L1119973-S1" synset="wikidata-nn-L1119973-S1" ili="wikidata-nn-L1119973-S1">
-        <Definition></Definition>
+        <Definition>from the east</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125248">
       <Lemma writtenForm="bortanfrå" partOfSpeech="p"/>
       <Sense id="L1125248-S1" synset="wikidata-nn-L1125248-S1" ili="wikidata-nn-L1125248-S1">
-        <Definition></Definition>
+        <Definition>from some distance away</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125305">
       <Lemma writtenForm="bortved" partOfSpeech="p"/>
       <Sense id="L1125305-S1" synset="wikidata-nn-L1125305-S1" ili="wikidata-nn-L1125305-S1">
-        <Definition></Definition>
+        <Definition>over there and next to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1131220">
       <Lemma writtenForm="bravissimo" partOfSpeech="i"/>
       <Sense id="L1131220-S1" synset="wikidata-nn-L1131220-S1" ili="wikidata-nn-L1131220-S1">
-        <Definition></Definition>
+        <Definition>bravissimo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141680">
       <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L1141680-S1" synset="wikidata-nn-L1141680-S1" ili="wikidata-nn-L1141680-S1">
-        <Definition></Definition>
+        <Definition>when (starting a clause)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141681-S1"/>
       </Sense>
       <Sense id="L1141680-S2" synset="wikidata-nn-L1141680-S2" ili="wikidata-nn-L1141680-S2">
-        <Definition></Definition>
+        <Definition>since, because (starting a clause)</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1141681-S2"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224364">
       <Lemma writtenForm="jaso" partOfSpeech="i"/>
       <Sense id="L1224364-S1" synset="wikidata-nn-L1224364-S1" ili="wikidata-nn-L1224364-S1">
-        <Definition></Definition>
+        <Definition>oh well, oh really</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1224361-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224362-S1"/>
         <SenseRelation relType="similar" target="wikidata-nn-L1224363-S1"/>
@@ -2223,178 +2223,178 @@
     <LexicalEntry id="L1234894">
       <Lemma writtenForm="det" partOfSpeech="d"/>
       <Sense id="L1234894-S1" synset="wikidata-nn-L1234894-S1" ili="wikidata-nn-L1234894-S1">
-        <Definition></Definition>
+        <Definition>that (one)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1315421">
       <Lemma writtenForm="dægeren" partOfSpeech="i"/>
       <Sense id="L1315421-S1" synset="wikidata-nn-L1315421-S1" ili="wikidata-nn-L1315421-S1">
-        <Definition></Definition>
+        <Definition>damn!</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1223302-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409741">
       <Lemma writtenForm="huff" partOfSpeech="i"/>
       <Sense id="L1409741-S1" synset="wikidata-nn-L1409741-S1" ili="wikidata-nn-L1409741-S1">
-        <Definition></Definition>
+        <Definition>oof</Definition>
         <SenseRelation relType="similar" target="wikidata-nn-L1409739-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1414182">
       <Lemma writtenForm="føkk" partOfSpeech="i"/>
       <Sense id="L1414182-S1" synset="wikidata-nn-L1414182-S1" ili="wikidata-nn-L1414182-S1">
-        <Definition></Definition>
+        <Definition>fuck!</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-nn-L855-S1" ili="wikidata-nn-L855-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>who (in questions)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L855-S2" ili="wikidata-nn-L855-S2" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>whoever</Definition>
     </Synset>
     <Synset id="wikidata-nn-L911-S1" ili="wikidata-nn-L911-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>some</Definition>
     </Synset>
     <Synset id="wikidata-nn-L911-S2" ili="wikidata-nn-L911-S2" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>any</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4294-S1" ili="wikidata-nn-L4294-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>along</Definition>
     </Synset>
     <Synset id="wikidata-nn-L5000-S1" ili="wikidata-nn-L5000-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes (in opposition to a negatively phrased question)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9785-S1" ili="wikidata-nn-L9785-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on (in certain expressions)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9813-S1" ili="wikidata-nn-L9813-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>we; first-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9954-S1" ili="wikidata-nn-L9954-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11401-S1" ili="wikidata-nn-L11401-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around, about</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11402-S1" ili="wikidata-nn-L11402-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>any</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11897-S1" ili="wikidata-nn-L11897-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the inside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20115-S1" ili="wikidata-nn-L20115-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>inside, behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L37960-S1" ili="wikidata-nn-L37960-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to (a destination)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L37960-S2" ili="wikidata-nn-L37960-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>towards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L37960-S3" ili="wikidata-nn-L37960-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(intended) for</Definition>
     </Synset>
     <Synset id="wikidata-nn-L37960-S4" ili="wikidata-nn-L37960-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(in order) to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L37960-S5" ili="wikidata-nn-L37960-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>belonging to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L38299-S1" ili="wikidata-nn-L38299-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L739937-S1" ili="wikidata-nn-L739937-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>a connecting morpheme often used when words are combined</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740596-S1" ili="wikidata-nn-L740596-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used for scaring someone</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740636-S1" ili="wikidata-nn-L740636-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>than</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740728-S1" ili="wikidata-nn-L740728-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740870-S1" ili="wikidata-nn-L740870-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>nothing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742073-S1" ili="wikidata-nn-L742073-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>both, as well as</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743193-S1" ili="wikidata-nn-L743193-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743408-S1" ili="wikidata-nn-L743408-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>that (one)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743827-S1" ili="wikidata-nn-L743827-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747908-S1" ili="wikidata-nn-L747908-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>right next to, against</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747908-S2" ili="wikidata-nn-L747908-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>up to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L749260-S1" ili="wikidata-nn-L749260-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>like</Definition>
     </Synset>
     <Synset id="wikidata-nn-L749260-S2" ili="wikidata-nn-L749260-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>that</Definition>
     </Synset>
     <Synset id="wikidata-nn-L846078-S1" ili="wikidata-nn-L846078-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>exclamation said to one who sneezes (&quot;Bless you!&quot;)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908343-S1" ili="wikidata-nn-L908343-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>à la; in the style/manner of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L943016-S1" ili="wikidata-nn-L943016-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate the sound of clicking</Definition>
     </Synset>
     <Synset id="wikidata-nn-L992158-S1" ili="wikidata-nn-L992158-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>their (possessive, singular gender-neutral)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119921-S1" ili="wikidata-nn-L1119921-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>east of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119970-S1" ili="wikidata-nn-L1119970-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in an easterly direction</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125289-S1" ili="wikidata-nn-L1125289-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>over on, over there</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125301-S1" ili="wikidata-nn-L1125301-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>by, up to (about proximity)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125303-S1" ili="wikidata-nn-L1125303-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>below and over there</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1138730-S1" ili="wikidata-nn-L1138730-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>something said to children to make them sleep</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230929-S1" ili="wikidata-nn-L1230929-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>out of, from (only used in some Latin-based expressions)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230941-S1" ili="wikidata-nn-L1230941-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and (in Latin expressions)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1234895-S1" ili="wikidata-nn-L1234895-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>used as a dummy subject</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1234895-S2" ili="wikidata-nn-L1234895-S2" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>used as a dummy object</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1234895-S3" ili="wikidata-nn-L1234895-S3" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>used as a predicative</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1234896-S1" ili="wikidata-nn-L1234896-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1473615-S1" ili="wikidata-nn-L1473615-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate the sound of frogs or ducks</Definition>
     </Synset>
     <Synset id="wikidata-nn-L846-S1" ili="wikidata-nn-L846-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>they; third-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L888-S1" ili="wikidata-nn-L888-S1" partOfSpeech="d">
       <Definition>tal</Definition>
@@ -2415,151 +2415,151 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3023-S1" ili="wikidata-nn-L3023-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>away (from)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3031-S1" ili="wikidata-nn-L3031-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>if, whether</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9798-S1" ili="wikidata-nn-L9798-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on the top of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9812-S1" ili="wikidata-nn-L9812-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>it; third-person singular pronoun (for words of neuter genus)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9924-S1" ili="wikidata-nn-L9924-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>some (a few)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11517-S1" ili="wikidata-nn-L11517-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L45202-S1" ili="wikidata-nn-L45202-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-nn-L305835-S1" ili="wikidata-nn-L305835-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741236-S1" ili="wikidata-nn-L741236-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742299-S1" ili="wikidata-nn-L742299-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around, encircling</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742299-S2" ili="wikidata-nn-L742299-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around (in different parts of a place)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742299-S3" ili="wikidata-nn-L742299-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>past, along</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742299-S4" ili="wikidata-nn-L742299-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>throughout (about time)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742299-S5" ili="wikidata-nn-L742299-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around (near, close)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743602-S1" ili="wikidata-nn-L743602-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>if</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743826-S1" ili="wikidata-nn-L743826-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747600-S1" ili="wikidata-nn-L747600-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>face to face, turned towards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747600-S2" ili="wikidata-nn-L747600-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in relation to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748116-S1" ili="wikidata-nn-L748116-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>zero</Definition>
     </Synset>
     <Synset id="wikidata-nn-L749362-S1" ili="wikidata-nn-L749362-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908097-S1" ili="wikidata-nn-L908097-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to replicate laughter or giggling</Definition>
     </Synset>
     <Synset id="wikidata-nn-L943554-S1" ili="wikidata-nn-L943554-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goodbye</Definition>
     </Synset>
     <Synset id="wikidata-nn-L983512-S1" ili="wikidata-nn-L983512-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express a sudden understanding of something</Definition>
     </Synset>
     <Synset id="wikidata-nn-L983523-S1" ili="wikidata-nn-L983523-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express surprise</Definition>
     </Synset>
     <Synset id="wikidata-nn-L989426-S1" ili="wikidata-nn-L989426-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>even</Definition>
     </Synset>
     <Synset id="wikidata-nn-L989426-S2" ili="wikidata-nn-L989426-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>up to and including</Definition>
     </Synset>
     <Synset id="wikidata-nn-L996404-S1" ili="wikidata-nn-L996404-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on the back (of)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L996404-S2" ili="wikidata-nn-L996404-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in addition</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1118586-S1" ili="wikidata-nn-L1118586-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sound one makes when in pain</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1118586-S2" ili="wikidata-nn-L1118586-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sound used to express unexpected disappointment</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119927-S1" ili="wikidata-nn-L1119927-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the east</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119928-S1" ili="wikidata-nn-L1119928-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the east</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1120051-S1" ili="wikidata-nn-L1120051-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in as easterly direction</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125272-S1" ili="wikidata-nn-L1125272-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>away towards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1131226-S1" ili="wikidata-nn-L1131226-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bravo!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1141427-S1" ili="wikidata-nn-L1141427-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>contra; against</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1223302-S1" ili="wikidata-nn-L1223302-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>damn!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1224361-S1" ili="wikidata-nn-L1224361-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh well, oh really</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230977-S1" ili="wikidata-nn-L1230977-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the other (out of two, when used in singular); the others (out of several, when used in plural)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230977-S2" ili="wikidata-nn-L1230977-S2" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>remote (in time)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1310027-S1" ili="wikidata-nn-L1310027-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>said when tickling children</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1310381-S1" ili="wikidata-nn-L1310381-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate the sound of a doorbell</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1314760-S1" ili="wikidata-nn-L1314760-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate the sound of something hitting something else</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1367844-S1" ili="wikidata-nn-L1367844-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hush</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1463589-S1" ili="wikidata-nn-L1463589-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>zero</Definition>
     </Synset>
     <Synset id="wikidata-nn-L847-S1" ili="wikidata-nn-L847-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>we; first-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L849-S1" ili="wikidata-nn-L849-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L851-S1" ili="wikidata-nn-L851-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>she; third-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L851-S2" ili="wikidata-nn-L851-S2" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>it (for words of feminine genus)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L948-S1" ili="wikidata-nn-L948-S1" partOfSpeech="d">
       <Definition>talet 40</Definition>
@@ -2568,166 +2568,166 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L973-S1" ili="wikidata-nn-L973-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>outside (of)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L993-S1" ili="wikidata-nn-L993-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>(one&apos;s) own</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1004-S1" ili="wikidata-nn-L1004-S1" partOfSpeech="d">
       <Definition>talet 3</Definition>
     </Synset>
     <Synset id="wikidata-nn-L2740-S1" ili="wikidata-nn-L2740-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in front of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9777-S1" ili="wikidata-nn-L9777-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>a/an (indefinite article)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9784-S1" ili="wikidata-nn-L9784-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9784-S2" ili="wikidata-nn-L9784-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>off</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9955-S1" ili="wikidata-nn-L9955-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to, beside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9955-S2" ili="wikidata-nn-L9955-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>close by</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11515-S1" ili="wikidata-nn-L11515-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>further down</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11515-S2" ili="wikidata-nn-L11515-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11896-S1" ili="wikidata-nn-L11896-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the outside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740631-S1" ili="wikidata-nn-L740631-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>your, yours</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742169-S1" ili="wikidata-nn-L742169-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>through</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743186-S1" ili="wikidata-nn-L743186-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>his, her/hers or its</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743524-S1" ili="wikidata-nn-L743524-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>at (about a location)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743524-S2" ili="wikidata-nn-L743524-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to, with</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743524-S3" ili="wikidata-nn-L743524-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>belonging to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743524-S4" ili="wikidata-nn-L743524-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>with(in one&apos;s mind)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748077-S1" ili="wikidata-nn-L748077-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748078-S1" ili="wikidata-nn-L748078-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L796603-S1" ili="wikidata-nn-L796603-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>unless</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908108-S1" ili="wikidata-nn-L908108-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to mimic laughter</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908108-S2" ili="wikidata-nn-L908108-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express surprise or schadenfreude</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908117-S1" ili="wikidata-nn-L908117-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express confusion</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908117-S2" ili="wikidata-nn-L908117-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express disagreement or contempt</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908142-S1" ili="wikidata-nn-L908142-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used when something is overwhelming or surprising</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908281-S1" ili="wikidata-nn-L908281-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908342-S1" ili="wikidata-nn-L908342-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>à la; in the style/manner of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L942655-S1" ili="wikidata-nn-L942655-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>away and through</Definition>
     </Synset>
     <Synset id="wikidata-nn-L984971-S1" ili="wikidata-nn-L984971-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>everything; all things</Definition>
     </Synset>
     <Synset id="wikidata-nn-L988919-S1" ili="wikidata-nn-L988919-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>anti (against)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L989203-S1" ili="wikidata-nn-L989203-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>either (or)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L989203-S2" ili="wikidata-nn-L989203-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>whether (or not)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L992165-S1" ili="wikidata-nn-L992165-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>their, theirs (plural)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000758-S1" ili="wikidata-nn-L1000758-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000758-S2" ili="wikidata-nn-L1000758-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to somewhere behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1014077-S1" ili="wikidata-nn-L1014077-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to indicate that something is decided</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1093659-S1" ili="wikidata-nn-L1093659-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bottoms-up!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119922-S1" ili="wikidata-nn-L1119922-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>east of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119926-S1" ili="wikidata-nn-L1119926-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the east</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125241-S1" ili="wikidata-nn-L1125241-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>beyond</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125252-S1" ili="wikidata-nn-L1125252-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>along</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125268-S1" ili="wikidata-nn-L1125268-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>touching, in contact with</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125268-S2" ili="wikidata-nn-L1125268-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>over in</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1224362-S1" ili="wikidata-nn-L1224362-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh well, oh really</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230980-S1" ili="wikidata-nn-L1230980-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of, from</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230980-S2" ili="wikidata-nn-L1230980-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of, in</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1310383-S1" ili="wikidata-nn-L1310383-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate the sound of a small bell</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1406487-S1" ili="wikidata-nn-L1406487-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>down by; via somewhere that lies further down from one&apos;s location</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1406487-S2" ili="wikidata-nn-L1406487-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in a place that is further down</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1474496-S1" ili="wikidata-nn-L1474496-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>meow</Definition>
     </Synset>
     <Synset id="wikidata-nn-L991-S1" ili="wikidata-nn-L991-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>while</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000-S1" ili="wikidata-nn-L1000-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I; first-person singular pronoun; the speaker</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1006-S1" ili="wikidata-nn-L1006-S1" partOfSpeech="d">
       <Definition>talet 6</Definition>
@@ -2739,133 +2739,133 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L5021-S1" ili="wikidata-nn-L5021-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>twenty-one</Definition>
     </Synset>
     <Synset id="wikidata-nn-L5470-S1" ili="wikidata-nn-L5470-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>after</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9787-S1" ili="wikidata-nn-L9787-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>infinitive marker</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9799-S1" ili="wikidata-nn-L9799-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>under, below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9906-S1" ili="wikidata-nn-L9906-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>out from</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20205-S1" ili="wikidata-nn-L20205-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>each other</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740585-S1" ili="wikidata-nn-L740585-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>both</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S1" ili="wikidata-nn-L740701-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in front of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S2" ili="wikidata-nn-L740701-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in relation to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S3" ili="wikidata-nn-L740701-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in support of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S4" ili="wikidata-nn-L740701-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>considering</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S5" ili="wikidata-nn-L740701-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in order (to)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S6" ili="wikidata-nn-L740701-S6" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S7" ili="wikidata-nn-L740701-S7" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>intended for</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S8" ili="wikidata-nn-L740701-S8" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in spite of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S9" ili="wikidata-nn-L740701-S9" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>for (about time)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740701-S10" ili="wikidata-nn-L740701-S10" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>too (much, little, etc.)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741087-S1" ili="wikidata-nn-L741087-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>my, mine</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741238-S1" ili="wikidata-nn-L741238-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>between</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742168-S1" ili="wikidata-nn-L742168-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>through</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742392-S1" ili="wikidata-nn-L742392-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>one(self)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743317-S1" ili="wikidata-nn-L743317-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>near, nearby</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743317-S2" ili="wikidata-nn-L743317-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around (about time)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743317-S3" ili="wikidata-nn-L743317-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>by</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743592-S1" ili="wikidata-nn-L743592-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>thus</Definition>
     </Synset>
     <Synset id="wikidata-nn-L746461-S1" ili="wikidata-nn-L746461-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express contempt or blame</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908334-S1" ili="wikidata-nn-L908334-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>opposite, facing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908336-S1" ili="wikidata-nn-L908336-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to, up, on, for (especially in expressions borrowed from French)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908337-S1" ili="wikidata-nn-L908337-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to, up, on, for (especially in expressions borrowed from French)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L984288-S1" ili="wikidata-nn-L984288-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used in expressions to express displeasure</Definition>
     </Synset>
     <Synset id="wikidata-nn-L992162-S1" ili="wikidata-nn-L992162-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>her, hers</Definition>
     </Synset>
     <Synset id="wikidata-nn-L992164-S1" ili="wikidata-nn-L992164-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>your, yours (plural)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000757-S1" ili="wikidata-nn-L1000757-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000757-S2" ili="wikidata-nn-L1000757-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to somewhere behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1090221-S1" ili="wikidata-nn-L1090221-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>among</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1120054-S1" ili="wikidata-nn-L1120054-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on the eastern side of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125287-S1" ili="wikidata-nn-L1125287-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>past, on the other side</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1137194-S1" ili="wikidata-nn-L1137194-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thump (used to imitate sound of something hitting/falling)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1367842-S1" ili="wikidata-nn-L1367842-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express contempt or disgust</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1367843-S1" ili="wikidata-nn-L1367843-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hush</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1406483-S1" ili="wikidata-nn-L1406483-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>below</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1406483-S2" ili="wikidata-nn-L1406483-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>down by; via somewhere that lies further down from one&apos;s location</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1474500-S1" ili="wikidata-nn-L1474500-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to give a hesitant answer; neither yes nor no</Definition>
     </Synset>
     <Synset id="wikidata-nn-L949-S1" ili="wikidata-nn-L949-S1" partOfSpeech="d">
       <Definition>tal</Definition>
@@ -2874,136 +2874,136 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4291-S1" ili="wikidata-nn-L4291-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>forward; in a forward direction</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4291-S2" ili="wikidata-nn-L4291-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in the near future</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4291-S3" ili="wikidata-nn-L4291-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>progress</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S1" ili="wikidata-nn-L9796-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>with</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S2" ili="wikidata-nn-L9796-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>including</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S3" ili="wikidata-nn-L9796-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>concurrent</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S4" ili="wikidata-nn-L9796-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in the same direction as</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S5" ili="wikidata-nn-L9796-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>having, containing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9796-S6" ili="wikidata-nn-L9796-S6" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>using</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11708-S1" ili="wikidata-nn-L11708-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>face-to-face</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11708-S2" ili="wikidata-nn-L11708-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>opposite (location-wise)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L11708-S3" ili="wikidata-nn-L11708-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in regards to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L19937-S1" ili="wikidata-nn-L19937-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>every</Definition>
     </Synset>
     <Synset id="wikidata-nn-L19937-S2" ili="wikidata-nn-L19937-S2" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>each</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20114-S1" ili="wikidata-nn-L20114-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>by, within</Definition>
     </Synset>
     <Synset id="wikidata-nn-L46046-S1" ili="wikidata-nn-L46046-S1" partOfSpeech="m">
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740638-S1" ili="wikidata-nn-L740638-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740784-S1" ili="wikidata-nn-L740784-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hello</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741058-S1" ili="wikidata-nn-L741058-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>towards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741058-S2" ili="wikidata-nn-L741058-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>just before</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741058-S3" ili="wikidata-nn-L741058-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>against</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741263-S1" ili="wikidata-nn-L741263-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express surprise</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741263-S2" ili="wikidata-nn-L741263-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express impatience</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741263-S3" ili="wikidata-nn-L741263-S3" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express annoyance</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741263-S4" ili="wikidata-nn-L741263-S4" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to calm someone down</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908028-S1" ili="wikidata-nn-L908028-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>the sound a sheep makes</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908028-S2" ili="wikidata-nn-L908028-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used when teasing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908116-S1" ili="wikidata-nn-L908116-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>huh</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908210-S1" ili="wikidata-nn-L908210-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to show contempt</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000794-S1" ili="wikidata-nn-L1000794-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind, following something/someone</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1088955-S1" ili="wikidata-nn-L1088955-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>billion (long scale)/trillion (short scale)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1141681-S1" ili="wikidata-nn-L1141681-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>when (starting a clause)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1141681-S2" ili="wikidata-nn-L1141681-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>since, because (starting a clause)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1223359-S1" ili="wikidata-nn-L1223359-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to replicate the sound of snapping a photo</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1224363-S1" ili="wikidata-nn-L1224363-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh well, oh really</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1230981-S1" ili="wikidata-nn-L1230981-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>regarding</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1307736-S1" ili="wikidata-nn-L1307736-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>that one (used behind pronouns)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1316231-S1" ili="wikidata-nn-L1316231-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh (used as an exclamation of joy, fear, surprise, etc.)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1318225-S1" ili="wikidata-nn-L1318225-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because, due to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L854-S1" ili="wikidata-nn-L854-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>what</Definition>
     </Synset>
     <Synset id="wikidata-nn-L937-S1" ili="wikidata-nn-L937-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>at (about a location)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L937-S2" ili="wikidata-nn-L937-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to, with</Definition>
     </Synset>
     <Synset id="wikidata-nn-L937-S3" ili="wikidata-nn-L937-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>belonging to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L937-S4" ili="wikidata-nn-L937-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>with(in one&apos;s mind)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L999-S1" ili="wikidata-nn-L999-S1" partOfSpeech="d">
       <Definition>talet 9</Definition>
@@ -3018,115 +3018,115 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3030-S1" ili="wikidata-nn-L3030-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around, about</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3030-S2" ili="wikidata-nn-L3030-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>via, by</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3030-S3" ili="wikidata-nn-L3030-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3030-S4" ili="wikidata-nn-L3030-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>relating to, about</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3030-S5" ili="wikidata-nn-L3030-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>during</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4292-S1" ili="wikidata-nn-L4292-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>towards the back</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4296-S1" ili="wikidata-nn-L4296-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>downwards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4296-S2" ili="wikidata-nn-L4296-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>along, down (the street, etc.)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4296-S3" ili="wikidata-nn-L4296-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>southwards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9786-S1" ili="wikidata-nn-L9786-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9786-S2" ili="wikidata-nn-L9786-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on top of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L38298-S1" ili="wikidata-nn-L38298-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from above</Definition>
     </Synset>
     <Synset id="wikidata-nn-L44436-S1" ili="wikidata-nn-L44436-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L739890-S1" ili="wikidata-nn-L739890-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in</Definition>
     </Synset>
     <Synset id="wikidata-nn-L739890-S2" ili="wikidata-nn-L739890-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>inside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740584-S1" ili="wikidata-nn-L740584-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>both</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740629-S1" ili="wikidata-nn-L740629-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>used for &quot;it&quot; in some common phrases</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740650-S1" ili="wikidata-nn-L740650-S1" partOfSpeech="d">
       <Definition>talet 1</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741265-S1" ili="wikidata-nn-L741265-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>no</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742067-S1" ili="wikidata-nn-L742067-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>if</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747663-S1" ili="wikidata-nn-L747663-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>no matter what</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748102-S1" ili="wikidata-nn-L748102-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>around, about</Definition>
     </Synset>
     <Synset id="wikidata-nn-L749509-S1" ili="wikidata-nn-L749509-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the outside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L784122-S1" ili="wikidata-nn-L784122-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the outside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L846077-S1" ili="wikidata-nn-L846077-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>exclamation said to one who sneezes (&quot;Bless you!&quot;)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908101-S1" ili="wikidata-nn-L908101-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to replicate the sound of clearing one&apos;s throat</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908170-S1" ili="wikidata-nn-L908170-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>the sound a cow makes</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908190-S1" ili="wikidata-nn-L908190-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sound used to expressed surprise</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908335-S1" ili="wikidata-nn-L908335-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>opposite, facing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L942643-S1" ili="wikidata-nn-L942643-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>abracadabra (said when doing a magic trick)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L985532-S1" ili="wikidata-nn-L985532-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>amen</Definition>
     </Synset>
     <Synset id="wikidata-nn-L989620-S1" ili="wikidata-nn-L989620-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>one&apos;s (as in &quot;one&apos;s own ...&quot;)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1012375-S1" ili="wikidata-nn-L1012375-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bang</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1307735-S1" ili="wikidata-nn-L1307735-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>that one (used behind pronouns)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1409679-S1" ili="wikidata-nn-L1409679-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hello!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L887-S1" ili="wikidata-nn-L887-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from</Definition>
     </Synset>
     <Synset id="wikidata-nn-L922-S1" ili="wikidata-nn-L922-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>without</Definition>
     </Synset>
     <Synset id="wikidata-nn-L938-S1" ili="wikidata-nn-L938-S1" partOfSpeech="d">
       <Definition>rekkjetal til to</Definition>
@@ -3141,154 +3141,154 @@
       <Definition>talet 1</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3022-S1" ili="wikidata-nn-L3022-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>over, above</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3022-S2" ili="wikidata-nn-L3022-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from above</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3022-S3" ili="wikidata-nn-L3022-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>along the surface of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3022-S4" ili="wikidata-nn-L3022-S4" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>via</Definition>
     </Synset>
     <Synset id="wikidata-nn-L3022-S5" ili="wikidata-nn-L3022-S5" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>more than</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4295-S1" ili="wikidata-nn-L4295-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>upwards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4295-S2" ili="wikidata-nn-L4295-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>northwards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4400-S1" ili="wikidata-nn-L4400-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>towards</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4400-S2" ili="wikidata-nn-L4400-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4400-S3" ili="wikidata-nn-L4400-S3" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>belonging to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L4444-S1" ili="wikidata-nn-L4444-S1" partOfSpeech="d">
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L7711-S1" ili="wikidata-nn-L7711-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>either (or)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L7711-S2" ili="wikidata-nn-L7711-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>whether (or not)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9810-S1" ili="wikidata-nn-L9810-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9811-S1" ili="wikidata-nn-L9811-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>he; third-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L9811-S2" ili="wikidata-nn-L9811-S2" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>it (for words of masculine genus)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20106-S1" ili="wikidata-nn-L20106-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>except, besides</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20106-S2" ili="wikidata-nn-L20106-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(pass) by</Definition>
     </Synset>
     <Synset id="wikidata-nn-L38009-S1" ili="wikidata-nn-L38009-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>unless</Definition>
     </Synset>
     <Synset id="wikidata-nn-L70001-S1" ili="wikidata-nn-L70001-S1" partOfSpeech="m">
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740590-S1" ili="wikidata-nn-L740590-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>this</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740635-S1" ili="wikidata-nn-L740635-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>how/what about …</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740635-S2" ili="wikidata-nn-L740635-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>what if …</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740647-S1" ili="wikidata-nn-L740647-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>one; a general pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740700-S1" ili="wikidata-nn-L740700-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because, since</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741262-S1" ili="wikidata-nn-L741262-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express surprise</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741262-S2" ili="wikidata-nn-L741262-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express impatience</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741262-S3" ili="wikidata-nn-L741262-S3" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express annoyance</Definition>
     </Synset>
     <Synset id="wikidata-nn-L741262-S4" ili="wikidata-nn-L741262-S4" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to calm someone down</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743409-S1" ili="wikidata-nn-L743409-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743541-S1" ili="wikidata-nn-L743541-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>while</Definition>
     </Synset>
     <Synset id="wikidata-nn-L743971-S1" ili="wikidata-nn-L743971-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>our</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748076-S1" ili="wikidata-nn-L748076-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L781944-S1" ili="wikidata-nn-L781944-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from above</Definition>
     </Synset>
     <Synset id="wikidata-nn-L781946-S1" ili="wikidata-nn-L781946-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from above</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908105-S1" ili="wikidata-nn-L908105-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express discomfort</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908105-S2" ili="wikidata-nn-L908105-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate sobbing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908143-S1" ili="wikidata-nn-L908143-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used when something is overwhelming or surprising</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908209-S1" ili="wikidata-nn-L908209-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to show contempt</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908260-S1" ili="wikidata-nn-L908260-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express sorrow, pain or condemnation</Definition>
     </Synset>
     <Synset id="wikidata-nn-L942605-S1" ili="wikidata-nn-L942605-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>cock-a-doodle-doo</Definition>
     </Synset>
     <Synset id="wikidata-nn-L942654-S1" ili="wikidata-nn-L942654-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>away and through</Definition>
     </Synset>
     <Synset id="wikidata-nn-L996406-S1" ili="wikidata-nn-L996406-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on the back (of)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1191798-S1" ili="wikidata-nn-L1191798-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to attract attention</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1223348-S1" ili="wikidata-nn-L1223348-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used as an amplified version of &quot;jo&quot;</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1231994-S1" ili="wikidata-nn-L1231994-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thank God, thank heavens</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1231995-S1" ili="wikidata-nn-L1231995-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thank God, thank heavens</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1409739-S1" ili="wikidata-nn-L1409739-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oof</Definition>
     </Synset>
     <Synset id="wikidata-nn-L860-S1" ili="wikidata-nn-L860-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>nothing</Definition>
     </Synset>
     <Synset id="wikidata-nn-L904-S1" ili="wikidata-nn-L904-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>self</Definition>
     </Synset>
     <Synset id="wikidata-nn-L990-S1" ili="wikidata-nn-L990-S1" partOfSpeech="d">
       <Definition>tal</Definition>
@@ -3303,130 +3303,130 @@
       <Definition>tal</Definition>
     </Synset>
     <Synset id="wikidata-nn-L5480-S1" ili="wikidata-nn-L5480-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>before; earlier than</Definition>
     </Synset>
     <Synset id="wikidata-nn-L5488-S1" ili="wikidata-nn-L5488-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>forward, along</Definition>
     </Synset>
     <Synset id="wikidata-nn-L10185-S1" ili="wikidata-nn-L10185-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>out from</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20113-S1" ili="wikidata-nn-L20113-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>by the time, before</Definition>
     </Synset>
     <Synset id="wikidata-nn-L20204-S1" ili="wikidata-nn-L20204-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>each other</Definition>
     </Synset>
     <Synset id="wikidata-nn-L39786-S1" ili="wikidata-nn-L39786-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>beyond</Definition>
     </Synset>
     <Synset id="wikidata-nn-L739902-S1" ili="wikidata-nn-L739902-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>all</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740553-S1" ili="wikidata-nn-L740553-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>that (as in &quot;he thought that ...&quot;)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740606-S1" ili="wikidata-nn-L740606-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>boo</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740686-S1" ili="wikidata-nn-L740686-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>past (passing by)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740686-S2" ili="wikidata-nn-L740686-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>past (finished, over)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740872-S1" ili="wikidata-nn-L740872-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>no/none</Definition>
     </Synset>
     <Synset id="wikidata-nn-L740899-S1" ili="wikidata-nn-L740899-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes (in opposition to a negatively phrased question)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L742012-S1" ili="wikidata-nn-L742012-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>same</Definition>
     </Synset>
     <Synset id="wikidata-nn-L744009-S1" ili="wikidata-nn-L744009-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>via, by (as in &quot;stop by&quot;)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L744009-S2" ili="wikidata-nn-L744009-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>just inside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747381-S1" ili="wikidata-nn-L747381-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to imitate a sudden, loud sound</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747721-S1" ili="wikidata-nn-L747721-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-nn-L747794-S1" ili="wikidata-nn-L747794-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to mimic the sound of a (steam) train</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748204-S1" ili="wikidata-nn-L748204-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>thank you</Definition>
     </Synset>
     <Synset id="wikidata-nn-L748637-S1" ili="wikidata-nn-L748637-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the inside</Definition>
     </Synset>
     <Synset id="wikidata-nn-L750624-S1" ili="wikidata-nn-L750624-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>outside (of)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908000-S1" ili="wikidata-nn-L908000-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used when teasing (mostly by children)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908093-S1" ili="wikidata-nn-L908093-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hah!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908095-S1" ili="wikidata-nn-L908095-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to replicate laughter</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908102-S1" ili="wikidata-nn-L908102-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express laughter or joy</Definition>
     </Synset>
     <Synset id="wikidata-nn-L908119-S1" ili="wikidata-nn-L908119-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to express surprise</Definition>
     </Synset>
     <Synset id="wikidata-nn-L992161-S1" ili="wikidata-nn-L992161-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>his</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1000895-S1" ili="wikidata-nn-L1000895-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in(side) the back part</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1001580-S1" ili="wikidata-nn-L1001580-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1101738-S1" ili="wikidata-nn-L1101738-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>they; gender-neutral third-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1119973-S1" ili="wikidata-nn-L1119973-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from the east</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125248-S1" ili="wikidata-nn-L1125248-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from some distance away</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1125305-S1" ili="wikidata-nn-L1125305-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>over there and next to</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1131220-S1" ili="wikidata-nn-L1131220-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bravissimo</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1141680-S1" ili="wikidata-nn-L1141680-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>when (starting a clause)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1141680-S2" ili="wikidata-nn-L1141680-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>since, because (starting a clause)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1224364-S1" ili="wikidata-nn-L1224364-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oh well, oh really</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1234894-S1" ili="wikidata-nn-L1234894-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>that (one)</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1315421-S1" ili="wikidata-nn-L1315421-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>damn!</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1409741-S1" ili="wikidata-nn-L1409741-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oof</Definition>
     </Synset>
     <Synset id="wikidata-nn-L1414182-S1" ili="wikidata-nn-L1414182-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>fuck!</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

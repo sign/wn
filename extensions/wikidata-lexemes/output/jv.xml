@@ -11,20 +11,20 @@
     <LexicalEntry id="L2327">
       <Lemma writtenForm="kula" partOfSpeech="h"/>
       <Sense id="L2327-S1" synset="wikidata-jv-L2327-S1" ili="wikidata-jv-L2327-S1">
-        <Definition></Definition>
+        <Definition>saya</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2328">
       <Lemma writtenForm="kowé" partOfSpeech="h"/>
       <Sense id="L2328-S1" synset="wikidata-jv-L2328-S1" ili="wikidata-jv-L2328-S1">
-        <Definition></Definition>
+        <Definition>kamu</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-jv-L2327-S1" ili="wikidata-jv-L2327-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>saya</Definition>
     </Synset>
     <Synset id="wikidata-jv-L2328-S1" ili="wikidata-jv-L2328-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>kamu</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

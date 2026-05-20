@@ -11,11 +11,11 @@
     <LexicalEntry id="L1415684">
       <Lemma writtenForm="ᐄ" partOfSpeech="i"/>
       <Sense id="L1415684-S1" synset="wikidata-iu-L1415684-S1" ili="wikidata-iu-L1415684-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-iu-L1415684-S1" ili="wikidata-iu-L1415684-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

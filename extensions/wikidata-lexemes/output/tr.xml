@@ -11,14 +11,14 @@
     <LexicalEntry id="L294422">
       <Lemma writtenForm="sen" partOfSpeech="h"/>
       <Sense id="L294422-S1" synset="wikidata-tr-L294422-S1" ili="wikidata-tr-L294422-S1">
-        <Definition></Definition>
+        <Definition>you (singular)</Definition>
         <Example>sen kökü değil, ancak kök seni taşıyor.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L999115">
       <Lemma writtenForm="ya" partOfSpeech="v"/>
       <Sense id="L999115-S1" synset="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1">
-        <Definition></Definition>
+        <Definition>(converb which, attached to both duplicates of a duplicated verb, expresses a continuous/repeated manner of action)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1133346">
@@ -31,13 +31,13 @@
     <LexicalEntry id="L1217105">
       <Lemma writtenForm="herkes" partOfSpeech="h"/>
       <Sense id="L1217105-S1" synset="wikidata-tr-L1217105-S1" ili="wikidata-tr-L1217105-S1">
-        <Definition></Definition>
+        <Definition>everybody/everyone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217412">
       <Lemma writtenForm="gayrı" partOfSpeech="p"/>
       <Sense id="L1217412-S1" synset="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1">
-        <Definition></Definition>
+        <Definition>other than</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1371523">
@@ -49,7 +49,7 @@
     <LexicalEntry id="L1523103">
       <Lemma writtenForm="-yı" partOfSpeech="p"/>
       <Sense id="L1523103-S1" synset="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1">
-        <Definition></Definition>
+        <Definition>(indicates genitive relationship between preceding and following noun)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685337">
@@ -88,51 +88,51 @@
     <LexicalEntry id="L1159029">
       <Lemma writtenForm="gibi" partOfSpeech="p"/>
       <Sense id="L1159029-S1" synset="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1">
-        <Definition></Definition>
+        <Definition>similar to/like</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1159152">
       <Lemma writtenForm="mı" partOfSpeech="r"/>
       <Sense id="L1159152-S1" synset="wikidata-tr-L1159152-S1" ili="wikidata-tr-L1159152-S1">
-        <Definition></Definition>
+        <Definition>(question particle)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1160509">
       <Lemma writtenForm="her" partOfSpeech="d"/>
       <Sense id="L1160509-S1" synset="wikidata-tr-L1160509-S1" ili="wikidata-tr-L1160509-S1">
-        <Definition></Definition>
+        <Definition>each/every</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1161704">
       <Lemma writtenForm="ki" partOfSpeech="c"/>
       <Sense id="L1161704-S1" synset="wikidata-tr-L1161704-S1" ili="wikidata-tr-L1161704-S1">
-        <Definition></Definition>
+        <Definition>who/what (subordinating conjunction)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215983">
       <Lemma writtenForm="doğru" partOfSpeech="p"/>
       <Sense id="L1215983-S1" synset="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1">
-        <Definition></Definition>
+        <Definition>towards</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216856">
       <Lemma writtenForm="bütün" partOfSpeech="d"/>
       <Sense id="L1216856-S1" synset="wikidata-tr-L1216856-S1" ili="wikidata-tr-L1216856-S1">
-        <Definition></Definition>
+        <Definition>all, entire</Definition>
         <SenseRelation relType="similar" target="wikidata-tr-L1216857-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216857">
       <Lemma writtenForm="tüm" partOfSpeech="d"/>
       <Sense id="L1216857-S1" synset="wikidata-tr-L1216857-S1" ili="wikidata-tr-L1216857-S1">
-        <Definition></Definition>
+        <Definition>all, entire</Definition>
         <SenseRelation relType="similar" target="wikidata-tr-L1216856-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217406">
       <Lemma writtenForm="madem" partOfSpeech="c"/>
       <Sense id="L1217406-S1" synset="wikidata-tr-L1217406-S1" ili="wikidata-tr-L1217406-S1">
-        <Definition></Definition>
+        <Definition>now that...</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1258481">
@@ -144,7 +144,7 @@
     <LexicalEntry id="L1407235">
       <Lemma writtenForm="hakkında" partOfSpeech="p"/>
       <Sense id="L1407235-S1" synset="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1">
-        <Definition></Definition>
+        <Definition>about, concerning</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1529700">
@@ -162,7 +162,7 @@
     <LexicalEntry id="L1010942">
       <Lemma writtenForm="bu" partOfSpeech="a"/>
       <Sense id="L1010942-S1" synset="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1">
-        <Definition></Definition>
+        <Definition>this</Definition>
         <Example>Barbarlar hayvanı onun eline asılmış görünce, birbirlerine dediler: Her halde bu adam katildir; denizden kurtuldu ise de, Adalet onu yaşamağa bırakmadı.</Example>
       </Sense>
     </LexicalEntry>
@@ -181,19 +181,19 @@
     <LexicalEntry id="L1161703">
       <Lemma writtenForm="ya" partOfSpeech="c"/>
       <Sense id="L1161703-S1" synset="wikidata-tr-L1161703-S1" ili="wikidata-tr-L1161703-S1">
-        <Definition></Definition>
+        <Definition>either/or (conjunction)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216610">
       <Lemma writtenForm="ancak" partOfSpeech="c"/>
       <Sense id="L1216610-S1" synset="wikidata-tr-L1216610-S1" ili="wikidata-tr-L1216610-S1">
-        <Definition></Definition>
+        <Definition>however/but</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217600">
       <Lemma writtenForm="bile" partOfSpeech="y"/>
       <Sense id="L1217600-S1" synset="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1">
-        <Definition></Definition>
+        <Definition>even, already</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1225986">
@@ -205,19 +205,19 @@
     <LexicalEntry id="L1345299">
       <Lemma writtenForm="birbiri" partOfSpeech="h"/>
       <Sense id="L1345299-S1" synset="wikidata-tr-L1345299-S1" ili="wikidata-tr-L1345299-S1">
-        <Definition></Definition>
+        <Definition>eachother</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408209">
       <Lemma writtenForm="altı" partOfSpeech="d"/>
       <Sense id="L1408209-S1" synset="wikidata-tr-L1408209-S1" ili="wikidata-tr-L1408209-S1">
-        <Definition></Definition>
+        <Definition>six</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408217">
       <Lemma writtenForm="aferim" partOfSpeech="i"/>
       <Sense id="L1408217-S1" synset="wikidata-tr-L1408217-S1" ili="wikidata-tr-L1408217-S1">
-        <Definition></Definition>
+        <Definition>piróll! brávo! aferim!</Definition>
         <SenseRelation relType="similar" target="wikidata-tr-L1408216-S1"/>
       </Sense>
     </LexicalEntry>
@@ -251,47 +251,47 @@
     <LexicalEntry id="L294425">
       <Lemma writtenForm="siz" partOfSpeech="h"/>
       <Sense id="L294425-S1" synset="wikidata-tr-L294425-S1" ili="wikidata-tr-L294425-S1">
-        <Definition></Definition>
+        <Definition>you (plural)</Definition>
         <Example>Siz aşağıdansınız, ben yukarıdanım; siz bu dünyadansınız, ben bu dünyadan değilim.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L401355">
       <Lemma writtenForm="ora" partOfSpeech="h"/>
       <Sense id="L401355-S1" synset="wikidata-tr-L401355-S1" ili="wikidata-tr-L401355-S1">
-        <Definition></Definition>
+        <Definition>there</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1157495">
       <Lemma writtenForm="da" partOfSpeech="y"/>
       <Sense id="L1157495-S1" synset="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1">
-        <Definition></Definition>
+        <Definition>as well/too/also</Definition>
       </Sense>
       <Sense id="L1157495-S2" synset="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2">
-        <Definition></Definition>
+        <Definition>even if/although</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216111">
       <Lemma writtenForm="beri" partOfSpeech="p"/>
       <Sense id="L1216111-S1" synset="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1">
-        <Definition></Definition>
+        <Definition>since</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217415">
       <Lemma writtenForm="şu" partOfSpeech="a"/>
       <Sense id="L1217415-S1" synset="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1">
-        <Definition></Definition>
+        <Definition>that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217601">
       <Lemma writtenForm="hem" partOfSpeech="c"/>
       <Sense id="L1217601-S1" synset="wikidata-tr-L1217601-S1" ili="wikidata-tr-L1217601-S1">
-        <Definition></Definition>
+        <Definition>(used before two entities to mean &apos;both ... and&apos;)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1229679">
       <Lemma writtenForm="hay" partOfSpeech="i"/>
       <Sense id="L1229679-S1" synset="wikidata-tr-L1229679-S1" ili="wikidata-tr-L1229679-S1">
-        <Definition></Definition>
+        <Definition>(expression of surprise)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235204">
@@ -309,49 +309,49 @@
     <LexicalEntry id="L1408894">
       <Lemma writtenForm="bre" partOfSpeech="y"/>
       <Sense id="L1408894-S1" synset="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1">
-        <Definition></Definition>
+        <Definition>(vocative particle used to call out to someone) hey!</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411281">
       <Lemma writtenForm="hayde" partOfSpeech="i"/>
       <Sense id="L1411281-S1" synset="wikidata-tr-L1411281-S1" ili="wikidata-tr-L1411281-S1">
-        <Definition></Definition>
+        <Definition>קדימה</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1473695">
       <Lemma writtenForm="kaçgöç" partOfSpeech="n"/>
       <Sense id="L1473695-S1" synset="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1">
-        <Definition></Definition>
+        <Definition>avoiding (Islamically non-canonical) interactions with the opposite sex</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1159027">
       <Lemma writtenForm="ne" partOfSpeech="h"/>
       <Sense id="L1159027-S1" synset="wikidata-tr-L1159027-S1" ili="wikidata-tr-L1159027-S1">
-        <Definition></Definition>
+        <Definition>what</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1160491">
       <Lemma writtenForm="ama" partOfSpeech="c"/>
       <Sense id="L1160491-S1" synset="wikidata-tr-L1160491-S1" ili="wikidata-tr-L1160491-S1">
-        <Definition></Definition>
+        <Definition>but</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215964">
       <Lemma writtenForm="dolayı" partOfSpeech="p"/>
       <Sense id="L1215964-S1" synset="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1">
-        <Definition></Definition>
+        <Definition>because of/due to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215981">
       <Lemma writtenForm="îtibâren" partOfSpeech="p"/>
       <Sense id="L1215981-S1" synset="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1">
-        <Definition></Definition>
+        <Definition>(with effect) from</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1258465">
       <Lemma writtenForm="o" partOfSpeech="d"/>
       <Sense id="L1258465-S1" synset="wikidata-tr-L1258465-S1" ili="wikidata-tr-L1258465-S1">
-        <Definition></Definition>
+        <Definition>(distal demonstrative determiner)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1258479">
@@ -369,14 +369,14 @@
     <LexicalEntry id="L1408216">
       <Lemma writtenForm="aferin" partOfSpeech="i"/>
       <Sense id="L1408216-S1" synset="wikidata-tr-L1408216-S1" ili="wikidata-tr-L1408216-S1">
-        <Definition></Definition>
+        <Definition>piróll! brávo! aferim!</Definition>
         <SenseRelation relType="similar" target="wikidata-tr-L1408217-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L294424">
       <Lemma writtenForm="biz" partOfSpeech="h"/>
       <Sense id="L294424-S1" synset="wikidata-tr-L294424-S1" ili="wikidata-tr-L294424-S1">
-        <Definition></Definition>
+        <Definition>we</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L720969">
@@ -389,58 +389,58 @@
     <LexicalEntry id="L1160515">
       <Lemma writtenForm="kadar" partOfSpeech="p"/>
       <Sense id="L1160515-S1" synset="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1">
-        <Definition></Definition>
+        <Definition>as much as</Definition>
       </Sense>
       <Sense id="L1160515-S2" synset="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2">
-        <Definition></Definition>
+        <Definition>until/as far as</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215390">
       <Lemma writtenForm="diye" partOfSpeech="c"/>
       <Sense id="L1215390-S1" synset="wikidata-tr-L1215390-S1" ili="wikidata-tr-L1215390-S1">
-        <Definition></Definition>
+        <Definition>in order to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216112">
       <Lemma writtenForm="rağmen" partOfSpeech="p"/>
       <Sense id="L1216112-S1" synset="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1">
-        <Definition></Definition>
+        <Definition>despite</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216113">
       <Lemma writtenForm="karşın" partOfSpeech="p"/>
       <Sense id="L1216113-S1" synset="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1">
-        <Definition></Definition>
+        <Definition>in spite of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216611">
       <Lemma writtenForm="fakat" partOfSpeech="c"/>
       <Sense id="L1216611-S1" synset="wikidata-tr-L1216611-S1" ili="wikidata-tr-L1216611-S1">
-        <Definition></Definition>
+        <Definition>but/however</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217391">
       <Lemma writtenForm="değin" partOfSpeech="p"/>
       <Sense id="L1217391-S1" synset="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1">
-        <Definition></Definition>
+        <Definition>till/until</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217603">
       <Lemma writtenForm="veya" partOfSpeech="c"/>
       <Sense id="L1217603-S1" synset="wikidata-tr-L1217603-S1" ili="wikidata-tr-L1217603-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235210">
       <Lemma writtenForm="dır" partOfSpeech="y"/>
       <Sense id="L1235210-S1" synset="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1">
-        <Definition></Definition>
+        <Definition>(generalizing epistemic modality marker)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1236143">
       <Lemma writtenForm="bi" partOfSpeech="p"/>
       <Sense id="L1236143-S1" synset="wikidata-tr-L1236143-S1" ili="wikidata-tr-L1236143-S1">
-        <Definition></Definition>
+        <Definition>with, by</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1258473">
@@ -473,43 +473,43 @@
     <LexicalEntry id="L1158884">
       <Lemma writtenForm="için" partOfSpeech="p"/>
       <Sense id="L1158884-S1" synset="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1">
-        <Definition></Definition>
+        <Definition>for</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1159026">
       <Lemma writtenForm="çok" partOfSpeech="d"/>
       <Sense id="L1159026-S1" synset="wikidata-tr-L1159026-S1" ili="wikidata-tr-L1159026-S1">
-        <Definition></Definition>
+        <Definition>much/many</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215252">
       <Lemma writtenForm="göre" partOfSpeech="p"/>
       <Sense id="L1215252-S1" synset="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217392">
       <Lemma writtenForm="dek" partOfSpeech="p"/>
       <Sense id="L1217392-S1" synset="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1">
-        <Definition></Definition>
+        <Definition>till/until</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1217413">
       <Lemma writtenForm="başka" partOfSpeech="d"/>
       <Sense id="L1217413-S1" synset="wikidata-tr-L1217413-S1" ili="wikidata-tr-L1217413-S1">
-        <Definition></Definition>
+        <Definition>other</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1345862">
       <Lemma writtenForm="evet" partOfSpeech="i"/>
       <Sense id="L1345862-S1" synset="wikidata-tr-L1345862-S1" ili="wikidata-tr-L1345862-S1">
-        <Definition></Definition>
+        <Definition>yes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1524331">
       <Lemma writtenForm="üç" partOfSpeech="d"/>
       <Sense id="L1524331-S1" synset="wikidata-tr-L1524331-S1" ili="wikidata-tr-L1524331-S1">
-        <Definition></Definition>
+        <Definition>three</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1524508">
@@ -533,31 +533,31 @@
     <LexicalEntry id="L1159151">
       <Lemma writtenForm="kendi" partOfSpeech="h"/>
       <Sense id="L1159151-S1" synset="wikidata-tr-L1159151-S1" ili="wikidata-tr-L1159151-S1">
-        <Definition></Definition>
+        <Definition>(one)self</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215963">
       <Lemma writtenForm="ötürü" partOfSpeech="p"/>
       <Sense id="L1215963-S1" synset="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1">
-        <Definition></Definition>
+        <Definition>because of/due to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1215980">
       <Lemma writtenForm="evvel" partOfSpeech="p"/>
       <Sense id="L1215980-S1" synset="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1">
-        <Definition></Definition>
+        <Definition>before (temporal)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216607">
       <Lemma writtenForm="ilk" partOfSpeech="d"/>
       <Sense id="L1216607-S1" synset="wikidata-tr-L1216607-S1" ili="wikidata-tr-L1216607-S1">
-        <Definition></Definition>
+        <Definition>first</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216612">
       <Lemma writtenForm="lakin" partOfSpeech="c"/>
       <Sense id="L1216612-S1" synset="wikidata-tr-L1216612-S1" ili="wikidata-tr-L1216612-S1">
-        <Definition></Definition>
+        <Definition>but/however</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1258478">
@@ -596,32 +596,34 @@
     <LexicalEntry id="L1529707">
       <Lemma writtenForm="öz" partOfSpeech="h"/>
       <Sense id="L1529707-S1" synset="wikidata-tr-L1529707-S1" ili="wikidata-tr-L1529707-S1">
-        <Definition></Definition>
+        <Definition>self</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-tr-L294422-S1" ili="wikidata-tr-L294422-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>you (singular)</Definition>
+      <Example>sen kökü değil, ancak kök seni taşıyor.</Example>
     </Synset>
     <Synset id="wikidata-tr-L999115-S1" ili="wikidata-tr-L999115-S1" partOfSpeech="v">
-      <Definition></Definition>
+      <Definition>(converb which, attached to both duplicates of a duplicated verb, expresses a continuous/repeated manner of action)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1133346-S1" ili="wikidata-tr-L1133346-S1" partOfSpeech="c">
       <Definition>tümce içinde görevdeş iki öğeyi birbirine bağlar</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217105-S1" ili="wikidata-tr-L1217105-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>everybody/everyone</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217412-S1" ili="wikidata-tr-L1217412-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>other than</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1371523-S1" ili="wikidata-tr-L1371523-S1" partOfSpeech="i">
       <Definition>öyle ise</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1523103-S1" ili="wikidata-tr-L1523103-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(indicates genitive relationship between preceding and following noun)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L685337-S1" ili="l327-s1" partOfSpeech="d">
       <Definition>saymaya başlarken söylenen, ilk pozitif tam sayı</Definition>
+      <Example>Yeruşalimde Koyun kapısı yanında, İbranice Beythesta denilen, beş eyvanlı bir havuz vardı.</Example>
     </Synset>
     <Synset id="wikidata-tr-L685337-S2" ili="wikidata-tr-L685337-S2" partOfSpeech="d">
       <Definition>1 ve I rakamlarının ismi</Definition>
@@ -631,9 +633,11 @@
     </Synset>
     <Synset id="wikidata-tr-L721629-S1" ili="wikidata-tr-L721629-S1" partOfSpeech="i">
       <Definition>Asla</Definition>
+      <Example>Aman matmazel, sakın dışarı çıkmayınız!</Example>
     </Synset>
     <Synset id="wikidata-tr-L721629-S2" ili="wikidata-tr-L721629-S2" partOfSpeech="i">
       <Definition>“Korkutma potansiyeli olacak bir şey olmasın” anlamında kullanılan tabir</Definition>
+      <Example>Sakın vefat etmiş olmasın?</Example>
     </Synset>
     <Synset id="wikidata-tr-L1037022-S1" ili="wikidata-tr-L1037022-S1" partOfSpeech="h">
       <Definition>bir tanesi</Definition>
@@ -642,34 +646,34 @@
       <Definition>bilinmeyen bir kimse</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159029-S1" ili="wikidata-tr-L1159029-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>similar to/like</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159152-S1" ili="wikidata-tr-L1159152-S1" partOfSpeech="r">
-      <Definition></Definition>
+      <Definition>(question particle)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1160509-S1" ili="wikidata-tr-L1160509-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>each/every</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1161704-S1" ili="wikidata-tr-L1161704-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>who/what (subordinating conjunction)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215983-S1" ili="wikidata-tr-L1215983-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>towards</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216856-S1" ili="wikidata-tr-L1216856-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>all, entire</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216857-S1" ili="wikidata-tr-L1216857-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>all, entire</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217406-S1" ili="wikidata-tr-L1217406-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>now that...</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258481-S1" ili="wikidata-tr-L1258481-S1" partOfSpeech="r">
       <Definition>öyle olmazsa</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1407235-S1" ili="wikidata-tr-L1407235-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>about, concerning</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1529700-S1" ili="wikidata-tr-L1529700-S1" partOfSpeech="i">
       <Definition>evet</Definition>
@@ -681,7 +685,8 @@
       <Definition>peki, tamam; okey</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1010942-S1" ili="wikidata-tr-L1010942-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>this</Definition>
+      <Example>Barbarlar hayvanı onun eline asılmış görünce, birbirlerine dediler: Her halde bu adam katildir; denizden kurtuldu ise de, Adalet onu yaşamağa bırakmadı.</Example>
     </Synset>
     <Synset id="wikidata-tr-L1122571-S1" ili="wikidata-tr-L1122571-S1" partOfSpeech="x">
       <Definition>Futbolda Fenerbahçe&apos;ye karşı söylenen bir tezahürat</Definition>
@@ -690,25 +695,25 @@
       <Definition>sözcüğün sonuna getirilerek birliktelik, işteşlik, araç, neden ya da durum bildiren tümleçler oluşturmaya yarar</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1161703-S1" ili="wikidata-tr-L1161703-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>either/or (conjunction)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216610-S1" ili="wikidata-tr-L1216610-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>however/but</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217600-S1" ili="wikidata-tr-L1217600-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>even, already</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1225986-S1" ili="wikidata-tr-L1225986-S1" partOfSpeech="p">
       <Definition>içinde</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1345299-S1" ili="wikidata-tr-L1345299-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>eachother</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1408209-S1" ili="wikidata-tr-L1408209-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>six</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1408217-S1" ili="wikidata-tr-L1408217-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>piróll! brávo! aferim!</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1457567-S1" ili="wikidata-tr-L1457567-S1" partOfSpeech="d">
       <Definition>(harf-i tarif)</Definition>
@@ -726,28 +731,29 @@
       <Definition>Allâh’a yemin olsun</Definition>
     </Synset>
     <Synset id="wikidata-tr-L294425-S1" ili="wikidata-tr-L294425-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>you (plural)</Definition>
+      <Example>Siz aşağıdansınız, ben yukarıdanım; siz bu dünyadansınız, ben bu dünyadan değilim.</Example>
     </Synset>
     <Synset id="wikidata-tr-L401355-S1" ili="wikidata-tr-L401355-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>there</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1157495-S1" ili="wikidata-tr-L1157495-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>as well/too/also</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1157495-S2" ili="wikidata-tr-L1157495-S2" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>even if/although</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216111-S1" ili="wikidata-tr-L1216111-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>since</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217415-S1" ili="wikidata-tr-L1217415-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>that</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217601-S1" ili="wikidata-tr-L1217601-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>(used before two entities to mean &apos;both ... and&apos;)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1229679-S1" ili="wikidata-tr-L1229679-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>(expression of surprise)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1235204-S1" ili="wikidata-tr-L1235204-S1" partOfSpeech="p">
       <Definition>oğul</Definition>
@@ -756,28 +762,28 @@
       <Definition>bu durum karşısında</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1408894-S1" ili="wikidata-tr-L1408894-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>(vocative particle used to call out to someone) hey!</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1411281-S1" ili="wikidata-tr-L1411281-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>קדימה</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1473695-S1" ili="wikidata-tr-L1473695-S1" partOfSpeech="n">
-      <Definition></Definition>
+      <Definition>avoiding (Islamically non-canonical) interactions with the opposite sex</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159027-S1" ili="wikidata-tr-L1159027-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>what</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1160491-S1" ili="wikidata-tr-L1160491-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215964-S1" ili="wikidata-tr-L1215964-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of/due to</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215981-S1" ili="wikidata-tr-L1215981-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>(with effect) from</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258465-S1" ili="wikidata-tr-L1258465-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>(distal demonstrative determiner)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258479-S1" ili="wikidata-tr-L1258479-S1" partOfSpeech="r">
       <Definition>bütün günler</Definition>
@@ -786,76 +792,79 @@
       <Definition>evet</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1408216-S1" ili="wikidata-tr-L1408216-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>piróll! brávo! aferim!</Definition>
     </Synset>
     <Synset id="wikidata-tr-L294424-S1" ili="wikidata-tr-L294424-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>we</Definition>
     </Synset>
     <Synset id="wikidata-tr-L720969-S1" ili="wikidata-tr-L720969-S1" partOfSpeech="h">
       <Definition>Hangi kişi anlamında kullanılan söz</Definition>
+      <Example>Kim sesini çıkarırsa karşısında beni bulur.</Example>
     </Synset>
     <Synset id="wikidata-tr-L1160515-S1" ili="wikidata-tr-L1160515-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>as much as</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1160515-S2" ili="wikidata-tr-L1160515-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>until/as far as</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215390-S1" ili="wikidata-tr-L1215390-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>in order to</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216112-S1" ili="wikidata-tr-L1216112-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>despite</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216113-S1" ili="wikidata-tr-L1216113-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in spite of</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216611-S1" ili="wikidata-tr-L1216611-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but/however</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217391-S1" ili="wikidata-tr-L1217391-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>till/until</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217603-S1" ili="wikidata-tr-L1217603-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1235210-S1" ili="wikidata-tr-L1235210-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>(generalizing epistemic modality marker)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1236143-S1" ili="wikidata-tr-L1236143-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>with, by</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258473-S1" ili="wikidata-tr-L1258473-S1" partOfSpeech="r">
       <Definition>öyle olunca</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1529750-S1" ili="wikidata-tr-L1529750-S1" partOfSpeech="p">
       <Definition>ilişkin, değgin</Definition>
+      <Example>Zihnimden Afganistan’a âit bütün mâlûmâtımı geçirmekteyim</Example>
     </Synset>
     <Synset id="wikidata-tr-L294423-S1" ili="wikidata-tr-L294423-S1" partOfSpeech="h">
       <Definition>Tekil üçüncü şahısı gösteren söz</Definition>
     </Synset>
     <Synset id="wikidata-tr-L482677-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>kelimeleri ve cümleleri birleştirir</Definition>
+      <Example>Ben gerçek asmayım, ve Babam bağcıdır.</Example>
     </Synset>
     <Synset id="wikidata-tr-L1158884-S1" ili="wikidata-tr-L1158884-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>for</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159026-S1" ili="wikidata-tr-L1159026-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>much/many</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215252-S1" ili="wikidata-tr-L1215252-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217392-S1" ili="wikidata-tr-L1217392-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>till/until</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1217413-S1" ili="wikidata-tr-L1217413-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>other</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1345862-S1" ili="wikidata-tr-L1345862-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yes</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1524331-S1" ili="wikidata-tr-L1524331-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>three</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1524508-S1" ili="wikidata-tr-L1524508-S1" partOfSpeech="i">
       <Definition>(bezginlik anlatan bir ünlem)</Definition>
@@ -867,19 +876,19 @@
       <Definition>kişi kendini belirtir</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1159151-S1" ili="wikidata-tr-L1159151-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>(one)self</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215963-S1" ili="wikidata-tr-L1215963-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of/due to</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1215980-S1" ili="wikidata-tr-L1215980-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>before (temporal)</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216607-S1" ili="wikidata-tr-L1216607-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>first</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1216612-S1" ili="wikidata-tr-L1216612-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>but/however</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1258478-S1" ili="wikidata-tr-L1258478-S1" partOfSpeech="r">
       <Definition>hep</Definition>
@@ -903,7 +912,7 @@
       <Definition>gibi, olduğu yolda, olduğu biçimde</Definition>
     </Synset>
     <Synset id="wikidata-tr-L1529707-S1" ili="wikidata-tr-L1529707-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>self</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

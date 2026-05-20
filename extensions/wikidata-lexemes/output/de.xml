@@ -11,7 +11,7 @@
     <LexicalEntry id="L6733">
       <Lemma writtenForm="ohne" partOfSpeech="p"/>
       <Sense id="L6733-S1" synset="wikidata-de-L6733-S1" ili="wikidata-de-L6733-S1">
-        <Definition></Definition>
+        <Definition>without</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6743">
@@ -23,10 +23,10 @@
     <LexicalEntry id="L6745">
       <Lemma writtenForm="nach" partOfSpeech="p"/>
       <Sense id="L6745-S1" synset="wikidata-de-L6745-S1" ili="wikidata-de-L6745-S1">
-        <Definition></Definition>
+        <Definition>after</Definition>
       </Sense>
       <Sense id="L6745-S2" synset="wikidata-de-L6745-S2" ili="wikidata-de-L6745-S2">
-        <Definition></Definition>
+        <Definition>to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41653">
@@ -44,7 +44,7 @@
     <LexicalEntry id="L248793">
       <Lemma writtenForm="dass" partOfSpeech="c"/>
       <Sense id="L248793-S1" synset="wikidata-de-L248793-S1" ili="wikidata-de-L248793-S1">
-        <Definition></Definition>
+        <Definition>that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L297075">
@@ -65,7 +65,7 @@
     <LexicalEntry id="L366649">
       <Lemma writtenForm="beiderseits" partOfSpeech="p"/>
       <Sense id="L366649-S1" synset="wikidata-de-L366649-S1" ili="wikidata-de-L366649-S1">
-        <Definition></Definition>
+        <Definition>on both sides of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408552">
@@ -77,13 +77,13 @@
     <LexicalEntry id="L409404">
       <Lemma writtenForm="bevor" partOfSpeech="c"/>
       <Sense id="L409404-S1" synset="wikidata-de-L409404-S1" ili="wikidata-de-L409404-S1">
-        <Definition></Definition>
+        <Definition>before</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409504">
       <Lemma writtenForm="dank" partOfSpeech="p"/>
       <Sense id="L409504-S1" synset="wikidata-de-L409504-S1" ili="wikidata-de-L409504-S1">
-        <Definition></Definition>
+        <Definition>thanks to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409507">
@@ -95,19 +95,19 @@
     <LexicalEntry id="L409569">
       <Lemma writtenForm="außer" partOfSpeech="c"/>
       <Sense id="L409569-S1" synset="wikidata-de-L409569-S1" ili="wikidata-de-L409569-S1">
-        <Definition></Definition>
+        <Definition>except</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409575">
       <Lemma writtenForm="falls" partOfSpeech="c"/>
       <Sense id="L409575-S1" synset="wikidata-de-L409575-S1" ili="wikidata-de-L409575-S1">
-        <Definition></Definition>
+        <Definition>if; when</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409576">
       <Lemma writtenForm="geschweige" partOfSpeech="c"/>
       <Sense id="L409576-S1" synset="wikidata-de-L409576-S1" ili="wikidata-de-L409576-S1">
-        <Definition></Definition>
+        <Definition>let alone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409582">
@@ -125,121 +125,121 @@
     <LexicalEntry id="L409620">
       <Lemma writtenForm="wie" partOfSpeech="c"/>
       <Sense id="L409620-S1" synset="wikidata-de-L409620-S1" ili="wikidata-de-L409620-S1">
-        <Definition></Definition>
+        <Definition>how</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409624">
       <Lemma writtenForm="wo" partOfSpeech="c"/>
       <Sense id="L409624-S1" synset="wikidata-de-L409624-S1" ili="wikidata-de-L409624-S1">
-        <Definition></Definition>
+        <Definition>where</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410383">
       <Lemma writtenForm="anfangs" partOfSpeech="p"/>
       <Sense id="L410383-S1" synset="wikidata-de-L410383-S1" ili="wikidata-de-L410383-S1">
-        <Definition></Definition>
+        <Definition>at the beginning of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410402">
       <Lemma writtenForm="unweit" partOfSpeech="p"/>
       <Sense id="L410402-S1" synset="wikidata-de-L410402-S1" ili="wikidata-de-L410402-S1">
-        <Definition></Definition>
+        <Definition>not far from</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411092">
       <Lemma writtenForm="unser" partOfSpeech="h"/>
       <Sense id="L411092-S1" synset="wikidata-de-L411092-S1" ili="wikidata-de-L411092-S1">
-        <Definition></Definition>
+        <Definition>ours</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451351">
       <Lemma writtenForm="lang" partOfSpeech="p"/>
       <Sense id="L451351-S1" synset="wikidata-de-L451351-S1" ili="wikidata-de-L451351-S1">
-        <Definition></Definition>
+        <Definition>for (used in temporal expressions)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493824">
       <Lemma writtenForm="siebzehn" partOfSpeech="m"/>
       <Sense id="L493824-S1" synset="wikidata-de-L493824-S1" ili="wikidata-de-L493824-S1">
-        <Definition></Definition>
+        <Definition>the number 17</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493829">
       <Lemma writtenForm="zweiundzwanzig" partOfSpeech="m"/>
       <Sense id="L493829-S1" synset="wikidata-de-L493829-S1" ili="wikidata-de-L493829-S1">
-        <Definition></Definition>
+        <Definition>the number 22</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493833">
       <Lemma writtenForm="sechsundzwanzig" partOfSpeech="m"/>
       <Sense id="L493833-S1" synset="wikidata-de-L493833-S1" ili="wikidata-de-L493833-S1">
-        <Definition></Definition>
+        <Definition>the number 26</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493840">
       <Lemma writtenForm="fünfunddreißig" partOfSpeech="m"/>
       <Sense id="L493840-S1" synset="wikidata-de-L493840-S1" ili="wikidata-de-L493840-S1">
-        <Definition></Definition>
+        <Definition>the number 35</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493846">
       <Lemma writtenForm="einundvierzig" partOfSpeech="m"/>
       <Sense id="L493846-S1" synset="wikidata-de-L493846-S1" ili="wikidata-de-L493846-S1">
-        <Definition></Definition>
+        <Definition>the number 41</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493857">
       <Lemma writtenForm="dreiundfünfzig" partOfSpeech="m"/>
       <Sense id="L493857-S1" synset="wikidata-de-L493857-S1" ili="wikidata-de-L493857-S1">
-        <Definition></Definition>
+        <Definition>the number 53</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493863">
       <Lemma writtenForm="neunundfünfzig" partOfSpeech="m"/>
       <Sense id="L493863-S1" synset="wikidata-de-L493863-S1" ili="wikidata-de-L493863-S1">
-        <Definition></Definition>
+        <Definition>the number 59</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493875">
       <Lemma writtenForm="einundsiebzig" partOfSpeech="m"/>
       <Sense id="L493875-S1" synset="wikidata-de-L493875-S1" ili="wikidata-de-L493875-S1">
-        <Definition></Definition>
+        <Definition>the number 71</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493882">
       <Lemma writtenForm="achtundsiebzig" partOfSpeech="m"/>
       <Sense id="L493882-S1" synset="wikidata-de-L493882-S1" ili="wikidata-de-L493882-S1">
-        <Definition></Definition>
+        <Definition>the number 78</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493883">
       <Lemma writtenForm="neunundsiebzig" partOfSpeech="m"/>
       <Sense id="L493883-S1" synset="wikidata-de-L493883-S1" ili="wikidata-de-L493883-S1">
-        <Definition></Definition>
+        <Definition>the number 79</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493887">
       <Lemma writtenForm="dreiundachtzig" partOfSpeech="m"/>
       <Sense id="L493887-S1" synset="wikidata-de-L493887-S1" ili="wikidata-de-L493887-S1">
-        <Definition></Definition>
+        <Definition>the number 83</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493917">
       <Lemma writtenForm="achthundert" partOfSpeech="m"/>
       <Sense id="L493917-S1" synset="wikidata-de-L493917-S1" ili="wikidata-de-L493917-S1">
-        <Definition></Definition>
+        <Definition>the number 800</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493972">
       <Lemma writtenForm="zwanzigtausend" partOfSpeech="m"/>
       <Sense id="L493972-S1" synset="wikidata-de-L493972-S1" ili="wikidata-de-L493972-S1">
-        <Definition></Definition>
+        <Definition>the number 20,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493975">
       <Lemma writtenForm="zween" partOfSpeech="m"/>
       <Sense id="L493975-S1" synset="wikidata-de-L493975-S1" ili="wikidata-de-L493975-S1">
-        <Definition></Definition>
+        <Definition>the number 2</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496612">
@@ -254,37 +254,37 @@
     <LexicalEntry id="L496678">
       <Lemma writtenForm="muh" partOfSpeech="i"/>
       <Sense id="L496678-S1" synset="wikidata-de-L496678-S1" ili="wikidata-de-L496678-S1">
-        <Definition></Definition>
+        <Definition>moo, the sound a cow makes</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496712">
       <Lemma writtenForm="gluck" partOfSpeech="i"/>
       <Sense id="L496712-S1" synset="wikidata-de-L496712-S1" ili="wikidata-de-L496712-S1">
-        <Definition></Definition>
+        <Definition>glug, the sound made when swallowing a drink</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496932">
       <Lemma writtenForm="ciao" partOfSpeech="i"/>
       <Sense id="L496932-S1" synset="wikidata-de-L496932-S1" ili="wikidata-de-L496932-S1">
-        <Definition></Definition>
+        <Definition>bye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610549">
       <Lemma writtenForm="tausendundein" partOfSpeech="m"/>
       <Sense id="L610549-S1" synset="wikidata-de-L610549-S1" ili="wikidata-de-L610549-S1">
-        <Definition></Definition>
+        <Definition>1001</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610550">
       <Lemma writtenForm="tausendundeins" partOfSpeech="m"/>
       <Sense id="L610550-S1" synset="wikidata-de-L610550-S1" ili="wikidata-de-L610550-S1">
-        <Definition></Definition>
+        <Definition>1001</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617788">
       <Lemma writtenForm="adieu" partOfSpeech="i"/>
       <Sense id="L617788-S1" synset="wikidata-de-L617788-S1" ili="wikidata-de-L617788-S1">
-        <Definition></Definition>
+        <Definition>goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1046137">
@@ -302,10 +302,10 @@
     <LexicalEntry id="L1116902">
       <Lemma writtenForm="bitte schön" partOfSpeech="i"/>
       <Sense id="L1116902-S1" synset="wikidata-de-L1116902-S1" ili="wikidata-de-L1116902-S1">
-        <Definition></Definition>
+        <Definition>polite response to a &quot;Thank you&quot;</Definition>
       </Sense>
       <Sense id="L1116902-S2" synset="wikidata-de-L1116902-S2" ili="wikidata-de-L1116902-S2">
-        <Definition></Definition>
+        <Definition>phrase used when handing a requested item</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142274">
@@ -329,37 +329,37 @@
     <LexicalEntry id="L6734">
       <Lemma writtenForm="gegen" partOfSpeech="p"/>
       <Sense id="L6734-S1" synset="wikidata-de-L6734-S1" ili="wikidata-de-L6734-S1">
-        <Definition></Definition>
+        <Definition>against</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6739">
       <Lemma writtenForm="mit" partOfSpeech="p"/>
       <Sense id="L6739-S1" synset="wikidata-de-L6739-S1" ili="wikidata-de-L6739-S1">
-        <Definition></Definition>
+        <Definition>with</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6741">
       <Lemma writtenForm="unter" partOfSpeech="p"/>
       <Sense id="L6741-S1" synset="wikidata-de-L6741-S1" ili="wikidata-de-L6741-S1">
-        <Definition></Definition>
+        <Definition>under</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6746">
       <Lemma writtenForm="vor" partOfSpeech="p"/>
       <Sense id="L6746-S1" synset="wikidata-de-L6746-S1" ili="wikidata-de-L6746-S1">
-        <Definition></Definition>
+        <Definition>in front of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L226822">
       <Lemma writtenForm="wer" partOfSpeech="h"/>
       <Sense id="L226822-S1" synset="wikidata-de-L226822-S1" ili="wikidata-de-L226822-S1">
-        <Definition></Definition>
+        <Definition>interrogative pronoun or question asking for the identity of one or several persons</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L297073">
       <Lemma writtenForm="oder" partOfSpeech="c"/>
       <Sense id="L297073-S1" synset="wikidata-de-L297073-S1" ili="wikidata-de-L297073-S1">
-        <Definition></Definition>
+        <Definition>or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L344332">
@@ -377,31 +377,31 @@
     <LexicalEntry id="L406984">
       <Lemma writtenForm="ne" partOfSpeech="i"/>
       <Sense id="L406984-S1" synset="wikidata-de-L406984-S1" ili="wikidata-de-L406984-S1">
-        <Definition></Definition>
+        <Definition>used as a tag question</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408933">
       <Lemma writtenForm="sodass" partOfSpeech="c"/>
       <Sense id="L408933-S1" synset="wikidata-de-L408933-S1" ili="wikidata-de-L408933-S1">
-        <Definition></Definition>
+        <Definition>with the effect that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409478">
       <Lemma writtenForm="hinter" partOfSpeech="p"/>
       <Sense id="L409478-S1" synset="wikidata-de-L409478-S1" ili="wikidata-de-L409478-S1">
-        <Definition></Definition>
+        <Definition>behind</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409570">
       <Lemma writtenForm="bis" partOfSpeech="c"/>
       <Sense id="L409570-S2" synset="wikidata-de-L409570-S2" ili="wikidata-de-L409570-S2">
-        <Definition></Definition>
+        <Definition>until</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410468">
       <Lemma writtenForm="westlich" partOfSpeech="p"/>
       <Sense id="L410468-S1" synset="wikidata-de-L410468-S1" ili="wikidata-de-L410468-S1">
-        <Definition></Definition>
+        <Definition>west of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411032">
@@ -413,31 +413,31 @@
     <LexicalEntry id="L411100">
       <Lemma writtenForm="was" partOfSpeech="h"/>
       <Sense id="L411100-S1" synset="wikidata-de-L411100-S1" ili="wikidata-de-L411100-S1">
-        <Definition></Definition>
+        <Definition>that; which</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451354">
       <Lemma writtenForm="nordwestlich" partOfSpeech="p"/>
       <Sense id="L451354-S1" synset="wikidata-de-L451354-S1" ili="wikidata-de-L451354-S1">
-        <Definition></Definition>
+        <Definition>northwest of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L468412">
       <Lemma writtenForm="elf" partOfSpeech="m"/>
       <Sense id="L468412-S1" synset="wikidata-de-L468412-S1" ili="wikidata-de-L468412-S1">
-        <Definition></Definition>
+        <Definition>the number 11</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L468413">
       <Lemma writtenForm="null" partOfSpeech="m"/>
       <Sense id="L468413-S1" synset="wikidata-de-L468413-S1" ili="wikidata-de-L468413-S1">
-        <Definition></Definition>
+        <Definition>the number 0</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L488400">
       <Lemma writtenForm="hi" partOfSpeech="i"/>
       <Sense id="L488400-S1" synset="wikidata-de-L488400-S1" ili="wikidata-de-L488400-S1">
-        <Definition></Definition>
+        <Definition>hi, informal hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L488949">
@@ -449,133 +449,133 @@
     <LexicalEntry id="L492942">
       <Lemma writtenForm="et" partOfSpeech="c"/>
       <Sense id="L492942-S1" synset="wikidata-de-L492942-S1" ili="wikidata-de-L492942-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493827">
       <Lemma writtenForm="zwanzig" partOfSpeech="m"/>
       <Sense id="L493827-S1" synset="wikidata-de-L493827-S1" ili="wikidata-de-L493827-S1">
-        <Definition></Definition>
+        <Definition>the number 20</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493837">
       <Lemma writtenForm="einunddreißig" partOfSpeech="m"/>
       <Sense id="L493837-S1" synset="wikidata-de-L493837-S1" ili="wikidata-de-L493837-S1">
-        <Definition></Definition>
+        <Definition>the number 31</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493839">
       <Lemma writtenForm="vierunddreißig" partOfSpeech="m"/>
       <Sense id="L493839-S1" synset="wikidata-de-L493839-S1" ili="wikidata-de-L493839-S1">
-        <Definition></Definition>
+        <Definition>the number 34</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493856">
       <Lemma writtenForm="zweiundfünfzig" partOfSpeech="m"/>
       <Sense id="L493856-S1" synset="wikidata-de-L493856-S1" ili="wikidata-de-L493856-S1">
-        <Definition></Definition>
+        <Definition>the number 52</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493869">
       <Lemma writtenForm="fünfundsechzig" partOfSpeech="m"/>
       <Sense id="L493869-S1" synset="wikidata-de-L493869-S1" ili="wikidata-de-L493869-S1">
-        <Definition></Definition>
+        <Definition>the number 65</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493872">
       <Lemma writtenForm="achtundsechzig" partOfSpeech="m"/>
       <Sense id="L493872-S1" synset="wikidata-de-L493872-S1" ili="wikidata-de-L493872-S1">
-        <Definition></Definition>
+        <Definition>the number 68</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493874">
       <Lemma writtenForm="siebzig" partOfSpeech="m"/>
       <Sense id="L493874-S1" synset="wikidata-de-L493874-S1" ili="wikidata-de-L493874-S1">
-        <Definition></Definition>
+        <Definition>the number 70</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493881">
       <Lemma writtenForm="siebenundsiebzig" partOfSpeech="m"/>
       <Sense id="L493881-S1" synset="wikidata-de-L493881-S1" ili="wikidata-de-L493881-S1">
-        <Definition></Definition>
+        <Definition>the number 77</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493885">
       <Lemma writtenForm="einundachtzig" partOfSpeech="m"/>
       <Sense id="L493885-S1" synset="wikidata-de-L493885-S1" ili="wikidata-de-L493885-S1">
-        <Definition></Definition>
+        <Definition>the number 81</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493888">
       <Lemma writtenForm="vierundachtzig" partOfSpeech="m"/>
       <Sense id="L493888-S1" synset="wikidata-de-L493888-S1" ili="wikidata-de-L493888-S1">
-        <Definition></Definition>
+        <Definition>the number 84</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493890">
       <Lemma writtenForm="sechsundachtzig" partOfSpeech="m"/>
       <Sense id="L493890-S1" synset="wikidata-de-L493890-S1" ili="wikidata-de-L493890-S1">
-        <Definition></Definition>
+        <Definition>the number 86</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493893">
       <Lemma writtenForm="neunundachtzig" partOfSpeech="m"/>
       <Sense id="L493893-S1" synset="wikidata-de-L493893-S1" ili="wikidata-de-L493893-S1">
-        <Definition></Definition>
+        <Definition>the number 89</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493899">
       <Lemma writtenForm="fünfundneunzig" partOfSpeech="m"/>
       <Sense id="L493899-S1" synset="wikidata-de-L493899-S1" ili="wikidata-de-L493899-S1">
-        <Definition></Definition>
+        <Definition>the number 95</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493900">
       <Lemma writtenForm="sechsundneunzig" partOfSpeech="m"/>
       <Sense id="L493900-S1" synset="wikidata-de-L493900-S1" ili="wikidata-de-L493900-S1">
-        <Definition></Definition>
+        <Definition>the number 96</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493901">
       <Lemma writtenForm="siebenundneunzig" partOfSpeech="m"/>
       <Sense id="L493901-S1" synset="wikidata-de-L493901-S1" ili="wikidata-de-L493901-S1">
-        <Definition></Definition>
+        <Definition>the number 97</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493903">
       <Lemma writtenForm="neunundneunzig" partOfSpeech="m"/>
       <Sense id="L493903-S1" synset="wikidata-de-L493903-S1" ili="wikidata-de-L493903-S1">
-        <Definition></Definition>
+        <Definition>the number 99</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493909">
       <Lemma writtenForm="einhundert" partOfSpeech="m"/>
       <Sense id="L493909-S1" synset="wikidata-de-L493909-S1" ili="wikidata-de-L493909-S1">
-        <Definition></Definition>
+        <Definition>the number 100</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493913">
       <Lemma writtenForm="dreihundert" partOfSpeech="m"/>
       <Sense id="L493913-S1" synset="wikidata-de-L493913-S1" ili="wikidata-de-L493913-S1">
-        <Definition></Definition>
+        <Definition>the number 300</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493919">
       <Lemma writtenForm="hundertachtzig" partOfSpeech="m"/>
       <Sense id="L493919-S1" synset="wikidata-de-L493919-S1" ili="wikidata-de-L493919-S1">
-        <Definition></Definition>
+        <Definition>the number 180</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493929">
       <Lemma writtenForm="zehntausend" partOfSpeech="m"/>
       <Sense id="L493929-S1" synset="wikidata-de-L493929-S1" ili="wikidata-de-L493929-S1">
-        <Definition></Definition>
+        <Definition>the number 10,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493964">
       <Lemma writtenForm="zwölfhundert" partOfSpeech="m"/>
       <Sense id="L493964-S1" synset="wikidata-de-L493964-S1" ili="wikidata-de-L493964-S1">
-        <Definition></Definition>
+        <Definition>the number 1200</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496570">
@@ -593,32 +593,32 @@
     <LexicalEntry id="L496586">
       <Lemma writtenForm="hatschi" partOfSpeech="i"/>
       <Sense id="L496586-S1" synset="wikidata-de-L496586-S1" ili="wikidata-de-L496586-S1">
-        <Definition></Definition>
+        <Definition>achoo, the sound made when sneezing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496681">
       <Lemma writtenForm="tatütata" partOfSpeech="i"/>
       <Sense id="L496681-S1" synset="wikidata-de-L496681-S1" ili="wikidata-de-L496681-S1">
-        <Definition></Definition>
+        <Definition>nee-naw, mimicking the sound made by sirens on emergency vehicles</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L584952">
       <Lemma writtenForm="prosit" partOfSpeech="i"/>
       <Sense id="L584952-S1" synset="wikidata-de-L584952-S1" ili="wikidata-de-L584952-S1">
-        <Definition></Definition>
+        <Definition>cheers, toast when drinking alcohol</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L584953-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610553">
       <Lemma writtenForm="hundertein" partOfSpeech="m"/>
       <Sense id="L610553-S1" synset="wikidata-de-L610553-S1" ili="wikidata-de-L610553-S1">
-        <Definition></Definition>
+        <Definition>101</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610555">
       <Lemma writtenForm="hundertundein" partOfSpeech="m"/>
       <Sense id="L610555-S1" synset="wikidata-de-L610555-S1" ili="wikidata-de-L610555-S1">
-        <Definition></Definition>
+        <Definition>101</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1095380">
@@ -630,26 +630,26 @@
     <LexicalEntry id="L1191929">
       <Lemma writtenForm="bim, bam" partOfSpeech="i"/>
       <Sense id="L1191929-S1" synset="wikidata-de-L1191929-S1" ili="wikidata-de-L1191929-S1">
-        <Definition></Definition>
+        <Definition>sound of bells ringing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218503">
       <Lemma writtenForm="Hals und Beinbruch" partOfSpeech="i"/>
       <Sense id="L1218503-S1" synset="wikidata-de-L1218503-S1" ili="l1218499-s1">
-        <Definition></Definition>
+        <Definition>used to wish someone the best of luck and that events will turn out in favorably</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L1218502-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1332007">
       <Lemma writtenForm="was ist das?" partOfSpeech="x"/>
       <Sense id="L1332007-S1" synset="wikidata-de-L1332007-S1" ili="wikidata-de-L1332007-S1">
-        <Definition></Definition>
+        <Definition>what&apos;s this?</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6750">
       <Lemma writtenForm="aufgrund" partOfSpeech="p"/>
       <Sense id="L6750-S1" synset="wikidata-de-L6750-S1" ili="wikidata-de-L6750-S1">
-        <Definition></Definition>
+        <Definition>because of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7880">
@@ -680,7 +680,7 @@
     <LexicalEntry id="L248791">
       <Lemma writtenForm="bis" partOfSpeech="p"/>
       <Sense id="L248791-S1" synset="wikidata-de-L248791-S1" ili="wikidata-de-L248791-S1">
-        <Definition></Definition>
+        <Definition>until</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L302429">
@@ -692,28 +692,28 @@
     <LexicalEntry id="L304140">
       <Lemma writtenForm="wir" partOfSpeech="h"/>
       <Sense id="L304140-S1" synset="wikidata-de-L304140-S1" ili="wikidata-de-L304140-S1">
-        <Definition></Definition>
+        <Definition>we; first-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304144">
       <Lemma writtenForm="man" partOfSpeech="h"/>
       <Sense id="L304144-S1" synset="wikidata-de-L304144-S1" ili="wikidata-de-L304144-S1">
-        <Definition></Definition>
+        <Definition>indefinite pronoun; one, you</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L349487">
       <Lemma writtenForm="innerhalb" partOfSpeech="p"/>
       <Sense id="L349487-S1" synset="wikidata-de-L349487-S1" ili="wikidata-de-L349487-S1">
-        <Definition></Definition>
+        <Definition>within a place</Definition>
       </Sense>
       <Sense id="L349487-S2" synset="wikidata-de-L349487-S2" ili="wikidata-de-L349487-S2">
-        <Definition></Definition>
+        <Definition>within a period of time</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L356869">
       <Lemma writtenForm="außer" partOfSpeech="p"/>
       <Sense id="L356869-S1" synset="wikidata-de-L356869-S1" ili="wikidata-de-L356869-S1">
-        <Definition></Definition>
+        <Definition>except</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406978">
@@ -731,7 +731,7 @@
     <LexicalEntry id="L409194">
       <Lemma writtenForm="ein" partOfSpeech="d"/>
       <Sense id="L409194-S1" synset="wikidata-de-L409194-S1" ili="wikidata-de-L409194-S1">
-        <Definition></Definition>
+        <Definition>a; an</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409403">
@@ -743,13 +743,13 @@
     <LexicalEntry id="L409613">
       <Lemma writtenForm="während" partOfSpeech="c"/>
       <Sense id="L409613-S1" synset="wikidata-de-L409613-S1" ili="wikidata-de-L409613-S1">
-        <Definition></Definition>
+        <Definition>while</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409616">
       <Lemma writtenForm="weder" partOfSpeech="c"/>
       <Sense id="L409616-S1" synset="wikidata-de-L409616-S1" ili="wikidata-de-L409616-S1">
-        <Definition></Definition>
+        <Definition>neither, used with &quot;noch&quot; to mean &quot;neither ... nor&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410433">
@@ -773,19 +773,19 @@
     <LexicalEntry id="L411101">
       <Lemma writtenForm="was" partOfSpeech="h"/>
       <Sense id="L411101-S1" synset="wikidata-de-L411101-S1" ili="wikidata-de-L411101-S1">
-        <Definition></Definition>
+        <Definition>what</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411163">
       <Lemma writtenForm="zwölf" partOfSpeech="m"/>
       <Sense id="L411163-S1" synset="wikidata-de-L411163-S1" ili="wikidata-de-L411163-S1">
-        <Definition></Definition>
+        <Definition>the number 12</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L413031">
       <Lemma writtenForm="dier" partOfSpeech="d"/>
       <Sense id="L413031-S1" synset="wikidata-de-L413031-S1" ili="wikidata-de-L413031-S1">
-        <Definition></Definition>
+        <Definition>proposed gender-neutral definite article</Definition>
         <Example>Obwohl sier in England geboren wurde, lebt und arbeitet dier nicht-binäre, genderqueere Elektro-Musiker*in seit 2002 in Berlin.</Example>
       </Sense>
     </LexicalEntry>
@@ -798,103 +798,103 @@
     <LexicalEntry id="L493828">
       <Lemma writtenForm="einundzwanzig" partOfSpeech="m"/>
       <Sense id="L493828-S1" synset="wikidata-de-L493828-S1" ili="wikidata-de-L493828-S1">
-        <Definition></Definition>
+        <Definition>the number 21</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493834">
       <Lemma writtenForm="siebenundzwanzig" partOfSpeech="m"/>
       <Sense id="L493834-S1" synset="wikidata-de-L493834-S1" ili="wikidata-de-L493834-S1">
-        <Definition></Definition>
+        <Definition>the number 27</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493844">
       <Lemma writtenForm="neununddreißig" partOfSpeech="m"/>
       <Sense id="L493844-S1" synset="wikidata-de-L493844-S1" ili="wikidata-de-L493844-S1">
-        <Definition></Definition>
+        <Definition>the number 39</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493854">
       <Lemma writtenForm="neunundvierzig" partOfSpeech="m"/>
       <Sense id="L493854-S1" synset="wikidata-de-L493854-S1" ili="wikidata-de-L493854-S1">
-        <Definition></Definition>
+        <Definition>the number 49</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493889">
       <Lemma writtenForm="fünfundachtzig" partOfSpeech="m"/>
       <Sense id="L493889-S1" synset="wikidata-de-L493889-S1" ili="wikidata-de-L493889-S1">
-        <Definition></Definition>
+        <Definition>the number 85</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493891">
       <Lemma writtenForm="siebenundachtzig" partOfSpeech="m"/>
       <Sense id="L493891-S1" synset="wikidata-de-L493891-S1" ili="wikidata-de-L493891-S1">
-        <Definition></Definition>
+        <Definition>the number 87</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493910">
       <Lemma writtenForm="zweihundert" partOfSpeech="m"/>
       <Sense id="L493910-S1" synset="wikidata-de-L493910-S1" ili="wikidata-de-L493910-S1">
-        <Definition></Definition>
+        <Definition>the number 200</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493918">
       <Lemma writtenForm="neunhundert" partOfSpeech="m"/>
       <Sense id="L493918-S1" synset="wikidata-de-L493918-S1" ili="wikidata-de-L493918-S1">
-        <Definition></Definition>
+        <Definition>the number 900</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493981">
       <Lemma writtenForm="dreieinhalbtausend" partOfSpeech="m"/>
       <Sense id="L493981-S1" synset="wikidata-de-L493981-S1" ili="wikidata-de-L493981-S1">
-        <Definition></Definition>
+        <Definition>the number 3500</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493983">
       <Lemma writtenForm="elftausend" partOfSpeech="m"/>
       <Sense id="L493983-S1" synset="wikidata-de-L493983-S1" ili="wikidata-de-L493983-S1">
-        <Definition></Definition>
+        <Definition>the number 11,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496506">
       <Lemma writtenForm="puh" partOfSpeech="i"/>
       <Sense id="L496506-S1" synset="wikidata-de-L496506-S1" ili="wikidata-de-L496506-S1">
-        <Definition></Definition>
+        <Definition>phew, sound made after doing something which took a lot of effort</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496512">
       <Lemma writtenForm="hey" partOfSpeech="i"/>
       <Sense id="L496512-S1" synset="wikidata-de-L496512-S1" ili="wikidata-de-L496512-S1">
-        <Definition></Definition>
+        <Definition>hey, used to get someone&apos;s attention</Definition>
       </Sense>
       <Sense id="L496512-S2" synset="wikidata-de-L496512-S2" ili="wikidata-de-L496512-S2">
-        <Definition></Definition>
+        <Definition>hey, used to express surprise</Definition>
       </Sense>
       <Sense id="L496512-S3" synset="wikidata-de-L496512-S3" ili="wikidata-de-L496512-S3">
-        <Definition></Definition>
+        <Definition>informal hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496522">
       <Lemma writtenForm="hick" partOfSpeech="i"/>
       <Sense id="L496522-S1" synset="wikidata-de-L496522-S1" ili="wikidata-de-L496522-S1">
-        <Definition></Definition>
+        <Definition>hic, the sound of a hiccup</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496541">
       <Lemma writtenForm="miau" partOfSpeech="i"/>
       <Sense id="L496541-S1" synset="wikidata-de-L496541-S1" ili="wikidata-de-L496541-S1">
-        <Definition></Definition>
+        <Definition>vocalization by cats</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496588">
       <Lemma writtenForm="hatzi" partOfSpeech="i"/>
       <Sense id="L496588-S1" synset="wikidata-de-L496588-S1" ili="wikidata-de-L496588-S1">
-        <Definition></Definition>
+        <Definition>achoo, the sound made when sneezing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496620">
       <Lemma writtenForm="hoppla" partOfSpeech="i"/>
       <Sense id="L496620-S1" synset="wikidata-de-L496620-S1" ili="wikidata-de-L496620-S1">
-        <Definition></Definition>
+        <Definition>oops</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496665">
@@ -906,37 +906,37 @@
     <LexicalEntry id="L496728">
       <Lemma writtenForm="ticktack" partOfSpeech="i"/>
       <Sense id="L496728-S1" synset="wikidata-de-L496728-S1" ili="wikidata-de-L496728-S1">
-        <Definition></Definition>
+        <Definition>tick tock, mimicking the sound of a clock ticking</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496923">
       <Lemma writtenForm="adios" partOfSpeech="i"/>
       <Sense id="L496923-S1" synset="wikidata-de-L496923-S1" ili="wikidata-de-L496923-S1">
-        <Definition></Definition>
+        <Definition>goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L584949">
       <Lemma writtenForm="ade" partOfSpeech="i"/>
       <Sense id="L584949-S1" synset="wikidata-de-L584949-S1" ili="wikidata-de-L584949-S1">
-        <Definition></Definition>
+        <Definition>goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591615">
       <Lemma writtenForm="yallah" partOfSpeech="i"/>
       <Sense id="L591615-S1" synset="wikidata-de-L591615-S1" ili="wikidata-de-L591615-S1">
-        <Definition></Definition>
+        <Definition>come on/let&apos;s go/hurry up</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610551">
       <Lemma writtenForm="tausendein" partOfSpeech="m"/>
       <Sense id="L610551-S1" synset="wikidata-de-L610551-S1" ili="wikidata-de-L610551-S1">
-        <Definition></Definition>
+        <Definition>1001</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L613765">
       <Lemma writtenForm="wallah" partOfSpeech="i"/>
       <Sense id="L613765-S1" synset="wikidata-de-L613765-S1" ili="wikidata-de-L613765-S1">
-        <Definition></Definition>
+        <Definition>I swear (expressing confirmation of a statement)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641270">
@@ -948,19 +948,19 @@
     <LexicalEntry id="L936863">
       <Lemma writtenForm="hoppala" partOfSpeech="i"/>
       <Sense id="L936863-S1" synset="wikidata-de-L936863-S1" ili="wikidata-de-L936863-S1">
-        <Definition></Definition>
+        <Definition>oops</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L937906">
       <Lemma writtenForm="put, put" partOfSpeech="i"/>
       <Sense id="L937906-S1" synset="wikidata-de-L937906-S1" ili="wikidata-de-L937906-S1">
-        <Definition></Definition>
+        <Definition>used to attract chicken</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L938878">
       <Lemma writtenForm="wau wau" partOfSpeech="i"/>
       <Sense id="L938878-S1" synset="wikidata-de-L938878-S1" ili="wikidata-de-L938878-S1">
-        <Definition></Definition>
+        <Definition>immitation of a dog vocalisation</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141653">
@@ -978,13 +978,13 @@
     <LexicalEntry id="L6732">
       <Lemma writtenForm="für" partOfSpeech="p"/>
       <Sense id="L6732-S1" synset="wikidata-de-L6732-S1" ili="wikidata-de-L6732-S1">
-        <Definition></Definition>
+        <Definition>for</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6737">
       <Lemma writtenForm="wegen" partOfSpeech="p"/>
       <Sense id="L6737-S1" synset="wikidata-de-L6737-S1" ili="wikidata-de-L6737-S1">
-        <Definition></Definition>
+        <Definition>because of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L34133">
@@ -1005,49 +1005,49 @@
     <LexicalEntry id="L220835">
       <Lemma writtenForm="wow" partOfSpeech="i"/>
       <Sense id="L220835-S1" synset="wikidata-de-L220835-S1" ili="wikidata-de-L220835-S1">
-        <Definition></Definition>
+        <Definition>Expression of awe, terror, surprise or astonishment</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304141">
       <Lemma writtenForm="ihr" partOfSpeech="h"/>
       <Sense id="L304141-S1" synset="wikidata-de-L304141-S1" ili="wikidata-de-L304141-S1">
-        <Definition></Definition>
+        <Definition>second-person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304143">
       <Lemma writtenForm="Sie" partOfSpeech="h"/>
       <Sense id="L304143-S1" synset="wikidata-de-L304143-S1" ili="wikidata-de-L304143-S1">
-        <Definition></Definition>
+        <Definition>second person formal pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347808">
       <Lemma writtenForm="acht" partOfSpeech="m"/>
       <Sense id="L347808-S1" synset="wikidata-de-L347808-S1" ili="wikidata-de-L347808-S1">
-        <Definition></Definition>
+        <Definition>number 8</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366643">
       <Lemma writtenForm="während" partOfSpeech="p"/>
       <Sense id="L366643-S1" synset="wikidata-de-L366643-S1" ili="wikidata-de-L366643-S1">
-        <Definition></Definition>
+        <Definition>during</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408557">
       <Lemma writtenForm="da" partOfSpeech="c"/>
       <Sense id="L408557-S1" synset="wikidata-de-L408557-S1" ili="wikidata-de-L408557-S1">
-        <Definition></Definition>
+        <Definition>because</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409187">
       <Lemma writtenForm="kein" partOfSpeech="h"/>
       <Sense id="L409187-S1" synset="wikidata-de-L409187-S1" ili="wikidata-de-L409187-S1">
-        <Definition></Definition>
+        <Definition>not a; no</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409500">
       <Lemma writtenForm="pro" partOfSpeech="p"/>
       <Sense id="L409500-S1" synset="wikidata-de-L409500-S1" ili="wikidata-de-L409500-S1">
-        <Definition></Definition>
+        <Definition>per</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409588">
@@ -1065,7 +1065,7 @@
     <LexicalEntry id="L410456">
       <Lemma writtenForm="südlich" partOfSpeech="p"/>
       <Sense id="L410456-S1" synset="wikidata-de-L410456-S1" ili="wikidata-de-L410456-S1">
-        <Definition></Definition>
+        <Definition>south of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411025">
@@ -1083,19 +1083,19 @@
     <LexicalEntry id="L411090">
       <Lemma writtenForm="sein" partOfSpeech="h"/>
       <Sense id="L411090-S1" synset="wikidata-de-L411090-S1" ili="wikidata-de-L411090-S1">
-        <Definition></Definition>
+        <Definition>his</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411094">
       <Lemma writtenForm="ihr" partOfSpeech="h"/>
       <Sense id="L411094-S1" synset="wikidata-de-L411094-S1" ili="wikidata-de-L411094-S1">
-        <Definition></Definition>
+        <Definition>their</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451356">
       <Lemma writtenForm="links" partOfSpeech="p"/>
       <Sense id="L451356-S2" synset="wikidata-de-L451356-S2" ili="wikidata-de-L451356-S2">
-        <Definition></Definition>
+        <Definition>left of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493271">
@@ -1107,67 +1107,67 @@
     <LexicalEntry id="L493821">
       <Lemma writtenForm="vierzehn" partOfSpeech="m"/>
       <Sense id="L493821-S1" synset="wikidata-de-L493821-S1" ili="wikidata-de-L493821-S1">
-        <Definition></Definition>
+        <Definition>the number 14</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493826">
       <Lemma writtenForm="neunzehn" partOfSpeech="m"/>
       <Sense id="L493826-S1" synset="wikidata-de-L493826-S1" ili="wikidata-de-L493826-S1">
-        <Definition></Definition>
+        <Definition>the number 19</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493843">
       <Lemma writtenForm="achtunddreißig" partOfSpeech="m"/>
       <Sense id="L493843-S1" synset="wikidata-de-L493843-S1" ili="wikidata-de-L493843-S1">
-        <Definition></Definition>
+        <Definition>the number 38</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493849">
       <Lemma writtenForm="vierundvierzig" partOfSpeech="m"/>
       <Sense id="L493849-S1" synset="wikidata-de-L493849-S1" ili="wikidata-de-L493849-S1">
-        <Definition></Definition>
+        <Definition>the number 44</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493850">
       <Lemma writtenForm="fünfundvierzig" partOfSpeech="m"/>
       <Sense id="L493850-S1" synset="wikidata-de-L493850-S1" ili="wikidata-de-L493850-S1">
-        <Definition></Definition>
+        <Definition>the number 45</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493866">
       <Lemma writtenForm="zweiundsechzig" partOfSpeech="m"/>
       <Sense id="L493866-S1" synset="wikidata-de-L493866-S1" ili="wikidata-de-L493866-S1">
-        <Definition></Definition>
+        <Definition>the number 62</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493884">
       <Lemma writtenForm="achtzig" partOfSpeech="m"/>
       <Sense id="L493884-S1" synset="wikidata-de-L493884-S1" ili="wikidata-de-L493884-S1">
-        <Definition></Definition>
+        <Definition>the number 80</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493926">
       <Lemma writtenForm="sechstausend" partOfSpeech="m"/>
       <Sense id="L493926-S1" synset="wikidata-de-L493926-S1" ili="wikidata-de-L493926-S1">
-        <Definition></Definition>
+        <Definition>the number 6000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493931">
       <Lemma writtenForm="dreißigtausend" partOfSpeech="m"/>
       <Sense id="L493931-S1" synset="wikidata-de-L493931-S1" ili="wikidata-de-L493931-S1">
-        <Definition></Definition>
+        <Definition>the number 30,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493963">
       <Lemma writtenForm="elfhundert" partOfSpeech="m"/>
       <Sense id="L493963-S1" synset="wikidata-de-L493963-S1" ili="wikidata-de-L493963-S1">
-        <Definition></Definition>
+        <Definition>the number 1100</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493982">
       <Lemma writtenForm="zwölftausend" partOfSpeech="m"/>
       <Sense id="L493982-S1" synset="wikidata-de-L493982-S1" ili="wikidata-de-L493982-S1">
-        <Definition></Definition>
+        <Definition>the number 12,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496553">
@@ -1179,16 +1179,16 @@
     <LexicalEntry id="L496729">
       <Lemma writtenForm="summ" partOfSpeech="i"/>
       <Sense id="L496729-S1" synset="wikidata-de-L496729-S1" ili="wikidata-de-L496729-S1">
-        <Definition></Definition>
+        <Definition>bzz, the sound made by flying insects, especially bees</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496925">
       <Lemma writtenForm="salü" partOfSpeech="i"/>
       <Sense id="L496925-S1" synset="wikidata-de-L496925-S1" ili="wikidata-de-L496925-S1">
-        <Definition></Definition>
+        <Definition>informal hello</Definition>
       </Sense>
       <Sense id="L496925-S2" synset="wikidata-de-L496925-S2" ili="wikidata-de-L496925-S2">
-        <Definition></Definition>
+        <Definition>informal goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L497294">
@@ -1200,7 +1200,7 @@
     <LexicalEntry id="L610552">
       <Lemma writtenForm="tausendeins" partOfSpeech="m"/>
       <Sense id="L610552-S1" synset="wikidata-de-L610552-S1" ili="wikidata-de-L610552-S1">
-        <Definition></Definition>
+        <Definition>1001</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L614829">
@@ -1218,7 +1218,7 @@
     <LexicalEntry id="L622857">
       <Lemma writtenForm="Gesundheit" partOfSpeech="i"/>
       <Sense id="L622857-S1" synset="wikidata-de-L622857-S1" ili="l622858-s1">
-        <Definition></Definition>
+        <Definition>response to sneezing</Definition>
       </Sense>
       <Sense id="L622857-S2" synset="wikidata-de-L622857-S2" ili="wikidata-de-L622857-S2">
         <Definition>Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens</Definition>
@@ -1227,19 +1227,19 @@
     <LexicalEntry id="L1180577">
       <Lemma writtenForm="dey" partOfSpeech="h"/>
       <Sense id="L1180577-S1" synset="wikidata-de-L1180577-S1" ili="l371-s1">
-        <Definition></Definition>
+        <Definition>third-person gender-neutral neopronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409841">
       <Lemma writtenForm="andere" partOfSpeech="h"/>
       <Sense id="L1409841-S1" synset="wikidata-de-L1409841-S1" ili="wikidata-de-L1409841-S1">
-        <Definition></Definition>
+        <Definition>other</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L751">
       <Lemma writtenForm="doch" partOfSpeech="y"/>
       <Sense id="L751-S1" synset="wikidata-de-L751-S1" ili="wikidata-de-L751-S1">
-        <Definition></Definition>
+        <Definition>(discourse marking particle for highlighting understood information and corrective utterances)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6748">
@@ -1260,7 +1260,7 @@
     <LexicalEntry id="L248788">
       <Lemma writtenForm="als" partOfSpeech="c"/>
       <Sense id="L248788-S1" synset="wikidata-de-L248788-S1" ili="wikidata-de-L248788-S1">
-        <Definition></Definition>
+        <Definition>&quot;when compared with&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304654">
@@ -1272,31 +1272,31 @@
     <LexicalEntry id="L305973">
       <Lemma writtenForm="hallo" partOfSpeech="i"/>
       <Sense id="L305973-S1" synset="wikidata-de-L305973-S1" ili="l8885-s1">
-        <Definition></Definition>
+        <Definition>greeting of non-binding nature</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L307872">
       <Lemma writtenForm="bitte" partOfSpeech="i"/>
       <Sense id="L307872-S1" synset="wikidata-de-L307872-S1" ili="l307873-s1">
-        <Definition></Definition>
+        <Definition>please</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347769">
       <Lemma writtenForm="zehn" partOfSpeech="m"/>
       <Sense id="L347769-S1" synset="wikidata-de-L347769-S1" ili="wikidata-de-L347769-S1">
-        <Definition></Definition>
+        <Definition>number 10</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347806">
       <Lemma writtenForm="fünf" partOfSpeech="m"/>
       <Sense id="L347806-S1" synset="wikidata-de-L347806-S1" ili="wikidata-de-L347806-S1">
-        <Definition></Definition>
+        <Definition>number 5</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347809">
       <Lemma writtenForm="neun" partOfSpeech="m"/>
       <Sense id="L347809-S1" synset="wikidata-de-L347809-S1" ili="wikidata-de-L347809-S1">
-        <Definition></Definition>
+        <Definition>number 9</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L406531">
@@ -1308,37 +1308,37 @@
     <LexicalEntry id="L408550">
       <Lemma writtenForm="damit" partOfSpeech="c"/>
       <Sense id="L408550-S1" synset="wikidata-de-L408550-S1" ili="wikidata-de-L408550-S1">
-        <Definition></Definition>
+        <Definition>so that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408553">
       <Lemma writtenForm="nachdem" partOfSpeech="c"/>
       <Sense id="L408553-S1" synset="wikidata-de-L408553-S1" ili="wikidata-de-L408553-S1">
-        <Definition></Definition>
+        <Definition>after</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408929">
       <Lemma writtenForm="denn" partOfSpeech="c"/>
       <Sense id="L408929-S1" synset="wikidata-de-L408929-S1" ili="wikidata-de-L408929-S1">
-        <Definition></Definition>
+        <Definition>because</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408931">
       <Lemma writtenForm="entweder" partOfSpeech="c"/>
       <Sense id="L408931-S1" synset="wikidata-de-L408931-S1" ili="wikidata-de-L408931-S1">
-        <Definition></Definition>
+        <Definition>either (... or ...)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409505">
       <Lemma writtenForm="laut" partOfSpeech="p"/>
       <Sense id="L409505-S1" synset="wikidata-de-L409505-S1" ili="wikidata-de-L409505-S1">
-        <Definition></Definition>
+        <Definition>according to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409508">
       <Lemma writtenForm="inklusive" partOfSpeech="p"/>
       <Sense id="L409508-S1" synset="wikidata-de-L409508-S1" ili="wikidata-de-L409508-S1">
-        <Definition></Definition>
+        <Definition>including</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409513">
@@ -1350,13 +1350,13 @@
     <LexicalEntry id="L410403">
       <Lemma writtenForm="via" partOfSpeech="p"/>
       <Sense id="L410403-S1" synset="wikidata-de-L410403-S1" ili="l8964-s1">
-        <Definition></Definition>
+        <Definition>igennem</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410447">
       <Lemma writtenForm="nördlich" partOfSpeech="p"/>
       <Sense id="L410447-S1" synset="wikidata-de-L410447-S1" ili="wikidata-de-L410447-S1">
-        <Definition></Definition>
+        <Definition>north of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411020">
@@ -1368,25 +1368,25 @@
     <LexicalEntry id="L411088">
       <Lemma writtenForm="mein" partOfSpeech="h"/>
       <Sense id="L411088-S1" synset="wikidata-de-L411088-S1" ili="wikidata-de-L411088-S1">
-        <Definition></Definition>
+        <Definition>my</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411095">
       <Lemma writtenForm="Ihr" partOfSpeech="h"/>
       <Sense id="L411095-S1" synset="wikidata-de-L411095-S1" ili="wikidata-de-L411095-S1">
-        <Definition></Definition>
+        <Definition>yours (formal)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451353">
       <Lemma writtenForm="südöstlich" partOfSpeech="p"/>
       <Sense id="L451353-S1" synset="wikidata-de-L451353-S1" ili="wikidata-de-L451353-S1">
-        <Definition></Definition>
+        <Definition>southeast of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L488526">
       <Lemma writtenForm="hahaha" partOfSpeech="i"/>
       <Sense id="L488526-S1" synset="wikidata-de-L488526-S1" ili="wikidata-de-L488526-S1">
-        <Definition></Definition>
+        <Definition>onomatopoeic representation of laughter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L488532">
@@ -1398,133 +1398,133 @@
     <LexicalEntry id="L488950">
       <Lemma writtenForm="aua" partOfSpeech="i"/>
       <Sense id="L488950-S1" synset="wikidata-de-L488950-S1" ili="wikidata-de-L488950-S1">
-        <Definition></Definition>
+        <Definition>ow, ouch</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493825">
       <Lemma writtenForm="achtzehn" partOfSpeech="m"/>
       <Sense id="L493825-S1" synset="wikidata-de-L493825-S1" ili="wikidata-de-L493825-S1">
-        <Definition></Definition>
+        <Definition>the number 18</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493831">
       <Lemma writtenForm="vierundzwanzig" partOfSpeech="m"/>
       <Sense id="L493831-S1" synset="wikidata-de-L493831-S1" ili="wikidata-de-L493831-S1">
-        <Definition></Definition>
+        <Definition>the number 24</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493832">
       <Lemma writtenForm="fünfundzwanzig" partOfSpeech="m"/>
       <Sense id="L493832-S1" synset="wikidata-de-L493832-S1" ili="wikidata-de-L493832-S1">
-        <Definition></Definition>
+        <Definition>the number 25</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493835">
       <Lemma writtenForm="achtundzwanzig" partOfSpeech="m"/>
       <Sense id="L493835-S1" synset="wikidata-de-L493835-S1" ili="wikidata-de-L493835-S1">
-        <Definition></Definition>
+        <Definition>the number 28</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493838">
       <Lemma writtenForm="zweiunddreißig" partOfSpeech="m"/>
       <Sense id="L493838-S1" synset="wikidata-de-L493838-S1" ili="wikidata-de-L493838-S1">
-        <Definition></Definition>
+        <Definition>the number 32</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493842">
       <Lemma writtenForm="siebenunddreißig" partOfSpeech="m"/>
       <Sense id="L493842-S1" synset="wikidata-de-L493842-S1" ili="wikidata-de-L493842-S1">
-        <Definition></Definition>
+        <Definition>the number 37</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493847">
       <Lemma writtenForm="zweiundvierzig" partOfSpeech="m"/>
       <Sense id="L493847-S1" synset="wikidata-de-L493847-S1" ili="wikidata-de-L493847-S1">
-        <Definition></Definition>
+        <Definition>the number 42</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493859">
       <Lemma writtenForm="fünfundfünfzig" partOfSpeech="m"/>
       <Sense id="L493859-S1" synset="wikidata-de-L493859-S1" ili="wikidata-de-L493859-S1">
-        <Definition></Definition>
+        <Definition>the number 55</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493860">
       <Lemma writtenForm="sechsundfünfzig" partOfSpeech="m"/>
       <Sense id="L493860-S1" synset="wikidata-de-L493860-S1" ili="wikidata-de-L493860-S1">
-        <Definition></Definition>
+        <Definition>the number 56</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493861">
       <Lemma writtenForm="siebenundfünfzig" partOfSpeech="m"/>
       <Sense id="L493861-S1" synset="wikidata-de-L493861-S1" ili="wikidata-de-L493861-S1">
-        <Definition></Definition>
+        <Definition>the number 57</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493862">
       <Lemma writtenForm="achtundfünfzig" partOfSpeech="m"/>
       <Sense id="L493862-S1" synset="wikidata-de-L493862-S1" ili="wikidata-de-L493862-S1">
-        <Definition></Definition>
+        <Definition>the number 58</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493877">
       <Lemma writtenForm="dreiundsiebzig" partOfSpeech="m"/>
       <Sense id="L493877-S1" synset="wikidata-de-L493877-S1" ili="wikidata-de-L493877-S1">
-        <Definition></Definition>
+        <Definition>the number 73</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493880">
       <Lemma writtenForm="sechsundsiebzig" partOfSpeech="m"/>
       <Sense id="L493880-S1" synset="wikidata-de-L493880-S1" ili="wikidata-de-L493880-S1">
-        <Definition></Definition>
+        <Definition>the number 76</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493886">
       <Lemma writtenForm="zweiundachtzig" partOfSpeech="m"/>
       <Sense id="L493886-S1" synset="wikidata-de-L493886-S1" ili="wikidata-de-L493886-S1">
-        <Definition></Definition>
+        <Definition>the number 82</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493892">
       <Lemma writtenForm="achtundachtzig" partOfSpeech="m"/>
       <Sense id="L493892-S1" synset="wikidata-de-L493892-S1" ili="wikidata-de-L493892-S1">
-        <Definition></Definition>
+        <Definition>the number 88</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493895">
       <Lemma writtenForm="einundneunzig" partOfSpeech="m"/>
       <Sense id="L493895-S1" synset="wikidata-de-L493895-S1" ili="wikidata-de-L493895-S1">
-        <Definition></Definition>
+        <Definition>the number 91</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493914">
       <Lemma writtenForm="fünfhundert" partOfSpeech="m"/>
       <Sense id="L493914-S1" synset="wikidata-de-L493914-S1" ili="wikidata-de-L493914-S1">
-        <Definition></Definition>
+        <Definition>the number 500</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493921">
       <Lemma writtenForm="eintausend" partOfSpeech="m"/>
       <Sense id="L493921-S1" synset="wikidata-de-L493921-S1" ili="wikidata-de-L493921-S1">
-        <Definition></Definition>
+        <Definition>the number 1000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493923">
       <Lemma writtenForm="dreitausend" partOfSpeech="m"/>
       <Sense id="L493923-S1" synset="wikidata-de-L493923-S1" ili="wikidata-de-L493923-S1">
-        <Definition></Definition>
+        <Definition>the number 3000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493925">
       <Lemma writtenForm="fünftausend" partOfSpeech="m"/>
       <Sense id="L493925-S1" synset="wikidata-de-L493925-S1" ili="wikidata-de-L493925-S1">
-        <Definition></Definition>
+        <Definition>the number 5000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493932">
       <Lemma writtenForm="achtzigtausend" partOfSpeech="m"/>
       <Sense id="L493932-S1" synset="wikidata-de-L493932-S1" ili="wikidata-de-L493932-S1">
-        <Definition></Definition>
+        <Definition>the number 80,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493974">
@@ -1536,31 +1536,31 @@
     <LexicalEntry id="L496583">
       <Lemma writtenForm="kuckuck" partOfSpeech="i"/>
       <Sense id="L496583-S1" synset="wikidata-de-L496583-S1" ili="wikidata-de-L496583-S1">
-        <Definition></Definition>
+        <Definition>onomatopoeic representation of the sound of a cuckoo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496599">
       <Lemma writtenForm="oops" partOfSpeech="i"/>
       <Sense id="L496599-S1" synset="wikidata-de-L496599-S1" ili="wikidata-de-L496599-S1">
-        <Definition></Definition>
+        <Definition>oops</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496666">
       <Lemma writtenForm="piep" partOfSpeech="i"/>
       <Sense id="L496666-S1" synset="wikidata-de-L496666-S1" ili="wikidata-de-L496666-S1">
-        <Definition></Definition>
+        <Definition>cheep, mimicking the sound made by small birds</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496924">
       <Lemma writtenForm="grüezi" partOfSpeech="i"/>
       <Sense id="L496924-S1" synset="wikidata-de-L496924-S1" ili="wikidata-de-L496924-S1">
-        <Definition></Definition>
+        <Definition>informal hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496931">
       <Lemma writtenForm="tschau" partOfSpeech="i"/>
       <Sense id="L496931-S1" synset="wikidata-de-L496931-S1" ili="wikidata-de-L496931-S1">
-        <Definition></Definition>
+        <Definition>bye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L498348">
@@ -1572,13 +1572,13 @@
     <LexicalEntry id="L594420">
       <Lemma writtenForm="allerlei" partOfSpeech="m"/>
       <Sense id="L594420-S1" synset="wikidata-de-L594420-S1" ili="wikidata-de-L594420-S1">
-        <Definition></Definition>
+        <Definition>&quot;all sorts of&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610556">
       <Lemma writtenForm="hundertundeins" partOfSpeech="m"/>
       <Sense id="L610556-S1" synset="wikidata-de-L610556-S1" ili="wikidata-de-L610556-S1">
-        <Definition></Definition>
+        <Definition>101</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L882650">
@@ -1590,7 +1590,7 @@
     <LexicalEntry id="L937725">
       <Lemma writtenForm="kikriki" partOfSpeech="i"/>
       <Sense id="L937725-S1" synset="wikidata-de-L937725-S1" ili="wikidata-de-L937725-S1">
-        <Definition></Definition>
+        <Definition>onomatopoeic representation of the sound of a rooster</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1141740">
@@ -1617,7 +1617,7 @@
     <LexicalEntry id="L7881">
       <Lemma writtenForm="dieser" partOfSpeech="h"/>
       <Sense id="L7881-S1" synset="wikidata-de-L7881-S1" ili="wikidata-de-L7881-S1">
-        <Definition></Definition>
+        <Definition>this one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L220887">
@@ -1629,13 +1629,13 @@
     <LexicalEntry id="L235263">
       <Lemma writtenForm="vierhundert" partOfSpeech="m"/>
       <Sense id="L235263-S1" synset="wikidata-de-L235263-S1" ili="wikidata-de-L235263-S1">
-        <Definition></Definition>
+        <Definition>400</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L302428">
       <Lemma writtenForm="zwischen" partOfSpeech="p"/>
       <Sense id="L302428-S1" synset="wikidata-de-L302428-S1" ili="l3412-s1">
-        <Definition></Definition>
+        <Definition>between</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304659">
@@ -1649,37 +1649,37 @@
     <LexicalEntry id="L343141">
       <Lemma writtenForm="achttausend" partOfSpeech="m"/>
       <Sense id="L343141-S1" synset="wikidata-de-L343141-S1" ili="wikidata-de-L343141-S1">
-        <Definition></Definition>
+        <Definition>the number 8000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409202">
       <Lemma writtenForm="ein" partOfSpeech="h"/>
       <Sense id="L409202-S1" synset="wikidata-de-L409202-S1" ili="wikidata-de-L409202-S1">
-        <Definition></Definition>
+        <Definition>one (as a pronoun); someone; one thing</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410401">
       <Lemma writtenForm="unfern" partOfSpeech="p"/>
       <Sense id="L410401-S1" synset="wikidata-de-L410401-S1" ili="wikidata-de-L410401-S1">
-        <Definition></Definition>
+        <Definition>not far from</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411006">
       <Lemma writtenForm="und/oder" partOfSpeech="c"/>
       <Sense id="L411006-S1" synset="wikidata-de-L411006-S1" ili="wikidata-de-L411006-S1">
-        <Definition></Definition>
+        <Definition>and/or</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411091">
       <Lemma writtenForm="ihr" partOfSpeech="h"/>
       <Sense id="L411091-S1" synset="wikidata-de-L411091-S1" ili="wikidata-de-L411091-S1">
-        <Definition></Definition>
+        <Definition>hers</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411097">
       <Lemma writtenForm="der" partOfSpeech="h"/>
       <Sense id="L411097-S1" synset="wikidata-de-L411097-S1" ili="wikidata-de-L411097-S1">
-        <Definition></Definition>
+        <Definition>the one; this one; that one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L488515">
@@ -1700,79 +1700,79 @@
     <LexicalEntry id="L493822">
       <Lemma writtenForm="fünfzehn" partOfSpeech="m"/>
       <Sense id="L493822-S1" synset="wikidata-de-L493822-S1" ili="wikidata-de-L493822-S1">
-        <Definition></Definition>
+        <Definition>the number 15</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493853">
       <Lemma writtenForm="achtundvierzig" partOfSpeech="m"/>
       <Sense id="L493853-S1" synset="wikidata-de-L493853-S1" ili="wikidata-de-L493853-S1">
-        <Definition></Definition>
+        <Definition>the number 48</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493858">
       <Lemma writtenForm="vierundfünfzig" partOfSpeech="m"/>
       <Sense id="L493858-S1" synset="wikidata-de-L493858-S1" ili="wikidata-de-L493858-S1">
-        <Definition></Definition>
+        <Definition>the number 54</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493864">
       <Lemma writtenForm="sechzig" partOfSpeech="m"/>
       <Sense id="L493864-S1" synset="wikidata-de-L493864-S1" ili="wikidata-de-L493864-S1">
-        <Definition></Definition>
+        <Definition>the number 60</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493867">
       <Lemma writtenForm="dreiundsechzig" partOfSpeech="m"/>
       <Sense id="L493867-S1" synset="wikidata-de-L493867-S1" ili="wikidata-de-L493867-S1">
-        <Definition></Definition>
+        <Definition>the number 63</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493878">
       <Lemma writtenForm="vierundsiebzig" partOfSpeech="m"/>
       <Sense id="L493878-S1" synset="wikidata-de-L493878-S1" ili="wikidata-de-L493878-S1">
-        <Definition></Definition>
+        <Definition>the number 74</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493894">
       <Lemma writtenForm="neunzig" partOfSpeech="m"/>
       <Sense id="L493894-S1" synset="wikidata-de-L493894-S1" ili="wikidata-de-L493894-S1">
-        <Definition></Definition>
+        <Definition>the number 90</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493897">
       <Lemma writtenForm="dreiundneunzig" partOfSpeech="m"/>
       <Sense id="L493897-S1" synset="wikidata-de-L493897-S1" ili="wikidata-de-L493897-S1">
-        <Definition></Definition>
+        <Definition>the number 93</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493933">
       <Lemma writtenForm="dreihunderttausend" partOfSpeech="m"/>
       <Sense id="L493933-S1" synset="wikidata-de-L493933-S1" ili="wikidata-de-L493933-S1">
-        <Definition></Definition>
+        <Definition>the number 300,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493965">
       <Lemma writtenForm="dreizehnhundert" partOfSpeech="m"/>
       <Sense id="L493965-S1" synset="wikidata-de-L493965-S1" ili="wikidata-de-L493965-S1">
-        <Definition></Definition>
+        <Definition>the number 1300</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493968">
       <Lemma writtenForm="sechzehnhundert" partOfSpeech="m"/>
       <Sense id="L493968-S1" synset="wikidata-de-L493968-S1" ili="wikidata-de-L493968-S1">
-        <Definition></Definition>
+        <Definition>the number 1600</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493969">
       <Lemma writtenForm="siebzehnhundert" partOfSpeech="m"/>
       <Sense id="L493969-S1" synset="wikidata-de-L493969-S1" ili="wikidata-de-L493969-S1">
-        <Definition></Definition>
+        <Definition>the number 1700</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496524">
       <Lemma writtenForm="ups" partOfSpeech="i"/>
       <Sense id="L496524-S1" synset="wikidata-de-L496524-S1" ili="wikidata-de-L496524-S1">
-        <Definition></Definition>
+        <Definition>oops</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L496620-S1"/>
         <SenseRelation relType="similar" target="wikidata-de-L936863-S1"/>
         <SenseRelation relType="similar" target="wikidata-de-L496599-S1"/>
@@ -1781,68 +1781,68 @@
     <LexicalEntry id="L496549">
       <Lemma writtenForm="bum" partOfSpeech="i"/>
       <Sense id="L496549-S1" synset="wikidata-de-L496549-S1" ili="wikidata-de-L496549-S1">
-        <Definition></Definition>
+        <Definition>boom</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496580">
       <Lemma writtenForm="kikeriki" partOfSpeech="i"/>
       <Sense id="L496580-S1" synset="wikidata-de-L496580-S1" ili="wikidata-de-L496580-S1">
-        <Definition></Definition>
+        <Definition>onomatopoeic representation of the sound of a rooster</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L937725-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496679">
       <Lemma writtenForm="mäh" partOfSpeech="i"/>
       <Sense id="L496679-S1" synset="wikidata-de-L496679-S1" ili="wikidata-de-L496679-S1">
-        <Definition></Definition>
+        <Definition>baa, the sound made by sheep</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496718">
       <Lemma writtenForm="schnipp" partOfSpeech="i"/>
       <Sense id="L496718-S1" synset="wikidata-de-L496718-S1" ili="wikidata-de-L496718-S1">
-        <Definition></Definition>
+        <Definition>snip, mimicking the sound of cutting with scissors</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L584956">
       <Lemma writtenForm="tschüs" partOfSpeech="i"/>
       <Sense id="L584956-S1" synset="wikidata-de-L584956-S1" ili="wikidata-de-L584956-S1">
-        <Definition></Definition>
+        <Definition>bye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L584957">
       <Lemma writtenForm="addio" partOfSpeech="i"/>
       <Sense id="L584957-S1" synset="wikidata-de-L584957-S1" ili="wikidata-de-L584957-S1">
-        <Definition></Definition>
+        <Definition>goodbye</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L594338">
       <Lemma writtenForm="hallöchen" partOfSpeech="i"/>
       <Sense id="L594338-S1" synset="wikidata-de-L594338-S1" ili="wikidata-de-L594338-S1">
-        <Definition></Definition>
+        <Definition>informal hello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595402">
       <Lemma writtenForm="viertel" partOfSpeech="m"/>
       <Sense id="L595402-S1" synset="wikidata-de-L595402-S1" ili="wikidata-de-L595402-S1">
-        <Definition></Definition>
+        <Definition>quarter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L610554">
       <Lemma writtenForm="hunderteins" partOfSpeech="m"/>
       <Sense id="L610554-S1" synset="wikidata-de-L610554-S1" ili="wikidata-de-L610554-S1">
-        <Definition></Definition>
+        <Definition>101</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L937830">
       <Lemma writtenForm="wau" partOfSpeech="i"/>
       <Sense id="L937830-S1" synset="wikidata-de-L937830-S1" ili="wikidata-de-L937830-S1">
-        <Definition></Definition>
+        <Definition>immitation of a dog vocalisation</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L984525">
       <Lemma writtenForm="hereinspaziert" partOfSpeech="i"/>
       <Sense id="L984525-S1" synset="wikidata-de-L984525-S1" ili="wikidata-de-L984525-S1">
-        <Definition></Definition>
+        <Definition>used to invite someone into one&apos;s home</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142275">
@@ -1854,7 +1854,7 @@
     <LexicalEntry id="L6749">
       <Lemma writtenForm="auf" partOfSpeech="p"/>
       <Sense id="L6749-S1" synset="wikidata-de-L6749-S1" ili="wikidata-de-L6749-S1">
-        <Definition></Definition>
+        <Definition>on top of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7879">
@@ -1866,7 +1866,7 @@
     <LexicalEntry id="L50006">
       <Lemma writtenForm="tausend" partOfSpeech="m"/>
       <Sense id="L50006-S1" synset="wikidata-de-L50006-S1" ili="wikidata-de-L50006-S1">
-        <Definition></Definition>
+        <Definition>1000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L59500">
@@ -1879,19 +1879,19 @@
     <LexicalEntry id="L228333">
       <Lemma writtenForm="und" partOfSpeech="c"/>
       <Sense id="L228333-S1" synset="wikidata-de-L228333-S1" ili="wikidata-de-L228333-S1">
-        <Definition></Definition>
+        <Definition>and, joins words and sentence parts together</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304139">
       <Lemma writtenForm="du" partOfSpeech="h"/>
       <Sense id="L304139-S1" synset="wikidata-de-L304139-S1" ili="wikidata-de-L304139-S1">
-        <Definition></Definition>
+        <Definition>second-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304142">
       <Lemma writtenForm="sie" partOfSpeech="h"/>
       <Sense id="L304142-S1" synset="wikidata-de-L304142-S1" ili="wikidata-de-L304142-S1">
-        <Definition></Definition>
+        <Definition>they; third person plural pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L304660">
@@ -1903,49 +1903,49 @@
     <LexicalEntry id="L347807">
       <Lemma writtenForm="sechs" partOfSpeech="m"/>
       <Sense id="L347807-S1" synset="wikidata-de-L347807-S1" ili="wikidata-de-L347807-S1">
-        <Definition></Definition>
+        <Definition>number 6</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366642">
       <Lemma writtenForm="diesseits" partOfSpeech="p"/>
       <Sense id="L366642-S1" synset="wikidata-de-L366642-S1" ili="wikidata-de-L366642-S1">
-        <Definition></Definition>
+        <Definition>this side of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366645">
       <Lemma writtenForm="jenseits" partOfSpeech="p"/>
       <Sense id="L366645-S1" synset="wikidata-de-L366645-S1" ili="wikidata-de-L366645-S1">
-        <Definition></Definition>
+        <Definition>the other side of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366646">
       <Lemma writtenForm="trotz" partOfSpeech="p"/>
       <Sense id="L366646-S1" synset="wikidata-de-L366646-S1" ili="wikidata-de-L366646-S1">
-        <Definition></Definition>
+        <Definition>despite</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L408932">
       <Lemma writtenForm="obwohl" partOfSpeech="c"/>
       <Sense id="L408932-S1" synset="wikidata-de-L408932-S1" ili="wikidata-de-L408932-S1">
-        <Definition></Definition>
+        <Definition>even though</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409501">
       <Lemma writtenForm="per" partOfSpeech="p"/>
       <Sense id="L409501-S1" synset="wikidata-de-L409501-S1" ili="wikidata-de-L409501-S1">
-        <Definition></Definition>
+        <Definition>by</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409585">
       <Lemma writtenForm="ob" partOfSpeech="c"/>
       <Sense id="L409585-S1" synset="wikidata-de-L409585-S1" ili="wikidata-de-L409585-S1">
-        <Definition></Definition>
+        <Definition>if; whether</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409589">
       <Lemma writtenForm="ohne" partOfSpeech="c"/>
       <Sense id="L409589-S1" synset="wikidata-de-L409589-S1" ili="wikidata-de-L409589-S1">
-        <Definition></Definition>
+        <Definition>without</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410397">
@@ -1957,7 +1957,7 @@
     <LexicalEntry id="L410426">
       <Lemma writtenForm="beidseits" partOfSpeech="p"/>
       <Sense id="L410426-S1" synset="wikidata-de-L410426-S1" ili="wikidata-de-L410426-S1">
-        <Definition></Definition>
+        <Definition>both sides of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L410446">
@@ -1969,7 +1969,7 @@
     <LexicalEntry id="L410450">
       <Lemma writtenForm="östlich" partOfSpeech="p"/>
       <Sense id="L410450-S1" synset="wikidata-de-L410450-S1" ili="wikidata-de-L410450-S1">
-        <Definition></Definition>
+        <Definition>east of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411026">
@@ -1987,142 +1987,142 @@
     <LexicalEntry id="L411093">
       <Lemma writtenForm="euer" partOfSpeech="h"/>
       <Sense id="L411093-S1" synset="wikidata-de-L411093-S1" ili="wikidata-de-L411093-S1">
-        <Definition></Definition>
+        <Definition>yours (plural)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411096">
       <Lemma writtenForm="der" partOfSpeech="h"/>
       <Sense id="L411096-S1" synset="wikidata-de-L411096-S1" ili="wikidata-de-L411096-S1">
-        <Definition></Definition>
+        <Definition>that; which; who</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493820">
       <Lemma writtenForm="dreizehn" partOfSpeech="m"/>
       <Sense id="L493820-S1" synset="wikidata-de-L493820-S1" ili="wikidata-de-L493820-S1">
-        <Definition></Definition>
+        <Definition>the number 13</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493830">
       <Lemma writtenForm="dreiundzwanzig" partOfSpeech="m"/>
       <Sense id="L493830-S1" synset="wikidata-de-L493830-S1" ili="wikidata-de-L493830-S1">
-        <Definition></Definition>
+        <Definition>the number 23</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493845">
       <Lemma writtenForm="vierzig" partOfSpeech="m"/>
       <Sense id="L493845-S1" synset="wikidata-de-L493845-S1" ili="wikidata-de-L493845-S1">
-        <Definition></Definition>
+        <Definition>the number 40</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493852">
       <Lemma writtenForm="siebenundvierzig" partOfSpeech="m"/>
       <Sense id="L493852-S1" synset="wikidata-de-L493852-S1" ili="wikidata-de-L493852-S1">
-        <Definition></Definition>
+        <Definition>the number 47</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493855">
       <Lemma writtenForm="einundfünfzig" partOfSpeech="m"/>
       <Sense id="L493855-S1" synset="wikidata-de-L493855-S1" ili="wikidata-de-L493855-S1">
-        <Definition></Definition>
+        <Definition>the number 51</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493870">
       <Lemma writtenForm="sechsundsechzig" partOfSpeech="m"/>
       <Sense id="L493870-S1" synset="wikidata-de-L493870-S1" ili="wikidata-de-L493870-S1">
-        <Definition></Definition>
+        <Definition>the number 66</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493871">
       <Lemma writtenForm="siebenundsechzig" partOfSpeech="m"/>
       <Sense id="L493871-S1" synset="wikidata-de-L493871-S1" ili="wikidata-de-L493871-S1">
-        <Definition></Definition>
+        <Definition>the number 67</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493876">
       <Lemma writtenForm="zweiundsiebzig" partOfSpeech="m"/>
       <Sense id="L493876-S1" synset="wikidata-de-L493876-S1" ili="wikidata-de-L493876-S1">
-        <Definition></Definition>
+        <Definition>the number 72</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493898">
       <Lemma writtenForm="vierundneunzig" partOfSpeech="m"/>
       <Sense id="L493898-S1" synset="wikidata-de-L493898-S1" ili="wikidata-de-L493898-S1">
-        <Definition></Definition>
+        <Definition>the number 94</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493902">
       <Lemma writtenForm="achtundneunzig" partOfSpeech="m"/>
       <Sense id="L493902-S1" synset="wikidata-de-L493902-S1" ili="wikidata-de-L493902-S1">
-        <Definition></Definition>
+        <Definition>the number 98</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493915">
       <Lemma writtenForm="sechshundert" partOfSpeech="m"/>
       <Sense id="L493915-S1" synset="wikidata-de-L493915-S1" ili="wikidata-de-L493915-S1">
-        <Definition></Definition>
+        <Definition>the number 600</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493916">
       <Lemma writtenForm="siebenhundert" partOfSpeech="m"/>
       <Sense id="L493916-S1" synset="wikidata-de-L493916-S1" ili="wikidata-de-L493916-S1">
-        <Definition></Definition>
+        <Definition>the number 700</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493920">
       <Lemma writtenForm="hundertzehn" partOfSpeech="m"/>
       <Sense id="L493920-S1" synset="wikidata-de-L493920-S1" ili="wikidata-de-L493920-S1">
-        <Definition></Definition>
+        <Definition>the number 110</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493922">
       <Lemma writtenForm="zweitausend" partOfSpeech="m"/>
       <Sense id="L493922-S1" synset="wikidata-de-L493922-S1" ili="wikidata-de-L493922-S1">
-        <Definition></Definition>
+        <Definition>the number 2000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493924">
       <Lemma writtenForm="viertausend" partOfSpeech="m"/>
       <Sense id="L493924-S1" synset="wikidata-de-L493924-S1" ili="wikidata-de-L493924-S1">
-        <Definition></Definition>
+        <Definition>the number 4000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493967">
       <Lemma writtenForm="fünfzehnhundert" partOfSpeech="m"/>
       <Sense id="L493967-S1" synset="wikidata-de-L493967-S1" ili="wikidata-de-L493967-S1">
-        <Definition></Definition>
+        <Definition>the number 1500</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493970">
       <Lemma writtenForm="achtzehnhundert" partOfSpeech="m"/>
       <Sense id="L493970-S1" synset="wikidata-de-L493970-S1" ili="wikidata-de-L493970-S1">
-        <Definition></Definition>
+        <Definition>the number 1800</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493971">
       <Lemma writtenForm="neunzehnhundert" partOfSpeech="m"/>
       <Sense id="L493971-S1" synset="wikidata-de-L493971-S1" ili="wikidata-de-L493971-S1">
-        <Definition></Definition>
+        <Definition>the number 1900</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496556">
       <Lemma writtenForm="mhm" partOfSpeech="y"/>
       <Sense id="L496556-S1" synset="wikidata-de-L496556-S1" ili="wikidata-de-L496556-S1">
-        <Definition></Definition>
+        <Definition>expression of consent</Definition>
       </Sense>
       <Sense id="L496556-S2" synset="wikidata-de-L496556-S2" ili="wikidata-de-L496556-S2">
-        <Definition></Definition>
+        <Definition>expression of thoughtfulness</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496650">
       <Lemma writtenForm="i" partOfSpeech="i"/>
       <Sense id="L496650-S1" synset="wikidata-de-L496650-S1" ili="wikidata-de-L496650-S1">
-        <Definition></Definition>
+        <Definition>ew, an expression of disgust</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L584953">
       <Lemma writtenForm="prost" partOfSpeech="i"/>
       <Sense id="L584953-S1" synset="wikidata-de-L584953-S1" ili="wikidata-de-L584953-S1">
-        <Definition></Definition>
+        <Definition>cheers, toast when drinking alcohol</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L584952-S1"/>
       </Sense>
     </LexicalEntry>
@@ -2135,7 +2135,7 @@
     <LexicalEntry id="L1218502">
       <Lemma writtenForm="viel Glück" partOfSpeech="i"/>
       <Sense id="L1218502-S1" synset="wikidata-de-L1218502-S1" ili="l1218499-s1">
-        <Definition></Definition>
+        <Definition>used to wish someone the best of luck and that events will turn out favorably</Definition>
         <SenseRelation relType="similar" target="wikidata-de-L1218503-S1"/>
       </Sense>
     </LexicalEntry>
@@ -2198,37 +2198,37 @@
     <LexicalEntry id="L50005">
       <Lemma writtenForm="fünfzig" partOfSpeech="m"/>
       <Sense id="L50005-S1" synset="wikidata-de-L50005-S1" ili="wikidata-de-L50005-S1">
-        <Definition></Definition>
+        <Definition>50</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346355">
       <Lemma writtenForm="hie" partOfSpeech="h"/>
       <Sense id="L346355-S1" synset="wikidata-de-L346355-S1" ili="wikidata-de-L346355-S1">
-        <Definition></Definition>
+        <Definition>third-person singular neopronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347805">
       <Lemma writtenForm="drei" partOfSpeech="m"/>
       <Sense id="L347805-S1" synset="wikidata-de-L347805-S1" ili="wikidata-de-L347805-S1">
-        <Definition></Definition>
+        <Definition>number 3</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L356870">
       <Lemma writtenForm="gegenüber" partOfSpeech="p"/>
       <Sense id="L356870-S1" synset="wikidata-de-L356870-S1" ili="wikidata-de-L356870-S1">
-        <Definition></Definition>
+        <Definition>opposite</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366640">
       <Lemma writtenForm="anstatt" partOfSpeech="p"/>
       <Sense id="L366640-S1" synset="wikidata-de-L366640-S1" ili="wikidata-de-L366640-S1">
-        <Definition></Definition>
+        <Definition>instead of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L366644">
       <Lemma writtenForm="außerhalb" partOfSpeech="p"/>
       <Sense id="L366644-S1" synset="wikidata-de-L366644-S1" ili="wikidata-de-L366644-S1">
-        <Definition></Definition>
+        <Definition>outside of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409409">
@@ -2240,13 +2240,13 @@
     <LexicalEntry id="L409479">
       <Lemma writtenForm="neben" partOfSpeech="p"/>
       <Sense id="L409479-S1" synset="wikidata-de-L409479-S1" ili="wikidata-de-L409479-S1">
-        <Definition></Definition>
+        <Definition>next to</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409510">
       <Lemma writtenForm="zuliebe" partOfSpeech="p"/>
       <Sense id="L409510-S1" synset="wikidata-de-L409510-S1" ili="wikidata-de-L409510-S1">
-        <Definition></Definition>
+        <Definition>for the sake of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409606">
@@ -2258,7 +2258,7 @@
     <LexicalEntry id="L409682">
       <Lemma writtenForm="so dass" partOfSpeech="c"/>
       <Sense id="L409682-S1" synset="wikidata-de-L409682-S1" ili="wikidata-de-L409682-S1">
-        <Definition></Definition>
+        <Definition>with the effect that</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409700">
@@ -2282,7 +2282,7 @@
     <LexicalEntry id="L411089">
       <Lemma writtenForm="dein" partOfSpeech="h"/>
       <Sense id="L411089-S1" synset="wikidata-de-L411089-S1" ili="wikidata-de-L411089-S1">
-        <Definition></Definition>
+        <Definition>yours (singular)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411099">
@@ -2294,26 +2294,26 @@
     <LexicalEntry id="L413030">
       <Lemma writtenForm="dier" partOfSpeech="h"/>
       <Sense id="L413030-S1" synset="wikidata-de-L413030-S1" ili="wikidata-de-L413030-S1">
-        <Definition></Definition>
+        <Definition>proposed gender-neutral relative pronoun</Definition>
         <Example>Das Konzert von Planningtorock, dier zuletzt 2011 auf Kampnagel gespielt hat, wird präsentiert</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451352">
       <Lemma writtenForm="nordöstlich" partOfSpeech="p"/>
       <Sense id="L451352-S1" synset="wikidata-de-L451352-S1" ili="wikidata-de-L451352-S1">
-        <Definition></Definition>
+        <Definition>northeast of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L451355">
       <Lemma writtenForm="südwestlich" partOfSpeech="p"/>
       <Sense id="L451355-S1" synset="wikidata-de-L451355-S1" ili="wikidata-de-L451355-S1">
-        <Definition></Definition>
+        <Definition>southwest of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493823">
       <Lemma writtenForm="sechzehn" partOfSpeech="m"/>
       <Sense id="L493823-S1" synset="wikidata-de-L493823-S1" ili="wikidata-de-L493823-S1">
-        <Definition></Definition>
+        <Definition>the number 16</Definition>
       </Sense>
       <Sense id="L493823-S2" synset="wikidata-de-L493823-S2" ili="wikidata-de-L493823-S2">
         <Definition>Zahlwort</Definition>
@@ -2322,118 +2322,118 @@
     <LexicalEntry id="L493836">
       <Lemma writtenForm="neunundzwanzig" partOfSpeech="m"/>
       <Sense id="L493836-S1" synset="wikidata-de-L493836-S1" ili="wikidata-de-L493836-S1">
-        <Definition></Definition>
+        <Definition>the number 29</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493841">
       <Lemma writtenForm="sechsunddreißig" partOfSpeech="m"/>
       <Sense id="L493841-S1" synset="wikidata-de-L493841-S1" ili="wikidata-de-L493841-S1">
-        <Definition></Definition>
+        <Definition>the number 36</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493848">
       <Lemma writtenForm="dreiundvierzig" partOfSpeech="m"/>
       <Sense id="L493848-S1" synset="wikidata-de-L493848-S1" ili="wikidata-de-L493848-S1">
-        <Definition></Definition>
+        <Definition>the number 43</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493851">
       <Lemma writtenForm="sechsundvierzig" partOfSpeech="m"/>
       <Sense id="L493851-S1" synset="wikidata-de-L493851-S1" ili="wikidata-de-L493851-S1">
-        <Definition></Definition>
+        <Definition>the number 46</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493865">
       <Lemma writtenForm="einundsechzig" partOfSpeech="m"/>
       <Sense id="L493865-S1" synset="wikidata-de-L493865-S1" ili="wikidata-de-L493865-S1">
-        <Definition></Definition>
+        <Definition>the number 61</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493868">
       <Lemma writtenForm="vierundsechzig" partOfSpeech="m"/>
       <Sense id="L493868-S1" synset="wikidata-de-L493868-S1" ili="wikidata-de-L493868-S1">
-        <Definition></Definition>
+        <Definition>the number 64</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493873">
       <Lemma writtenForm="neunundsechzig" partOfSpeech="m"/>
       <Sense id="L493873-S1" synset="wikidata-de-L493873-S1" ili="wikidata-de-L493873-S1">
-        <Definition></Definition>
+        <Definition>the number 69</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493879">
       <Lemma writtenForm="fünfundsiebzig" partOfSpeech="m"/>
       <Sense id="L493879-S1" synset="wikidata-de-L493879-S1" ili="wikidata-de-L493879-S1">
-        <Definition></Definition>
+        <Definition>the number 75</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493896">
       <Lemma writtenForm="zweiundneunzig" partOfSpeech="m"/>
       <Sense id="L493896-S1" synset="wikidata-de-L493896-S1" ili="wikidata-de-L493896-S1">
-        <Definition></Definition>
+        <Definition>the number 92</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493927">
       <Lemma writtenForm="siebentausend" partOfSpeech="m"/>
       <Sense id="L493927-S1" synset="wikidata-de-L493927-S1" ili="wikidata-de-L493927-S1">
-        <Definition></Definition>
+        <Definition>the number 7000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493928">
       <Lemma writtenForm="neuntausend" partOfSpeech="m"/>
       <Sense id="L493928-S1" synset="wikidata-de-L493928-S1" ili="wikidata-de-L493928-S1">
-        <Definition></Definition>
+        <Definition>the number 9000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493930">
       <Lemma writtenForm="hunderttausend" partOfSpeech="m"/>
       <Sense id="L493930-S1" synset="wikidata-de-L493930-S1" ili="wikidata-de-L493930-S1">
-        <Definition></Definition>
+        <Definition>the number 100,000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L493966">
       <Lemma writtenForm="vierzehnhundert" partOfSpeech="m"/>
       <Sense id="L493966-S1" synset="wikidata-de-L493966-S1" ili="wikidata-de-L493966-S1">
-        <Definition></Definition>
+        <Definition>the number 1400</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496507">
       <Lemma writtenForm="tja" partOfSpeech="i"/>
       <Sense id="L496507-S1" synset="wikidata-de-L496507-S1" ili="wikidata-de-L496507-S1">
-        <Definition></Definition>
+        <Definition>expresses resignation</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496604">
       <Lemma writtenForm="igitt" partOfSpeech="i"/>
       <Sense id="L496604-S1" synset="wikidata-de-L496604-S1" ili="wikidata-de-L496604-S1">
-        <Definition></Definition>
+        <Definition>yuck</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496611">
       <Lemma writtenForm="autsch" partOfSpeech="i"/>
       <Sense id="L496611-S1" synset="wikidata-de-L496611-S1" ili="wikidata-de-L496611-S1">
-        <Definition></Definition>
+        <Definition>(expression of physical pain)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496617">
       <Lemma writtenForm="bäh" partOfSpeech="i"/>
       <Sense id="L496617-S1" synset="wikidata-de-L496617-S1" ili="wikidata-de-L496617-S1">
-        <Definition></Definition>
+        <Definition>yuck</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496618">
       <Lemma writtenForm="sch" partOfSpeech="i"/>
       <Sense id="L496618-S1" synset="wikidata-de-L496618-S1" ili="wikidata-de-L496618-S1">
-        <Definition></Definition>
+        <Definition>shh, sound used to indicate that someone should be quiet</Definition>
       </Sense>
       <Sense id="L496618-S2" synset="wikidata-de-L496618-S2" ili="wikidata-de-L496618-S2">
-        <Definition></Definition>
+        <Definition>shoo, sound used to indicate that someone or something should go away</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496670">
       <Lemma writtenForm="quak" partOfSpeech="i"/>
       <Sense id="L496670-S1" synset="wikidata-de-L496670-S1" ili="wikidata-de-L496670-S1">
-        <Definition></Definition>
+        <Definition>sound made by a frog or a duck</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496721">
@@ -2445,13 +2445,13 @@
     <LexicalEntry id="L497068">
       <Lemma writtenForm="irgendwas" partOfSpeech="h"/>
       <Sense id="L497068-S1" synset="wikidata-de-L497068-S1" ili="wikidata-de-L497068-S1">
-        <Definition></Definition>
+        <Definition>undefined entity</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L590992">
       <Lemma writtenForm="prösterchen" partOfSpeech="i"/>
       <Sense id="L590992-S1" synset="wikidata-de-L590992-S1" ili="wikidata-de-L590992-S1">
-        <Definition></Definition>
+        <Definition>cheers, toast when drinking alcohol</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L716945">
@@ -2469,38 +2469,38 @@
     <LexicalEntry id="L937787">
       <Lemma writtenForm="moin" partOfSpeech="i"/>
       <Sense id="L937787-S1" synset="wikidata-de-L937787-S1" ili="wikidata-de-L937787-S1">
-        <Definition></Definition>
+        <Definition>greeting</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1116899">
       <Lemma writtenForm="gern geschehen" partOfSpeech="i"/>
       <Sense id="L1116899-S1" synset="wikidata-de-L1116899-S1" ili="wikidata-de-L1116899-S1">
-        <Definition></Definition>
+        <Definition>polite response to a &quot;Thank you&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216989">
       <Lemma writtenForm="ick" partOfSpeech="h"/>
       <Sense id="L1216989-S1" synset="wikidata-de-L1216989-S1" ili="wikidata-de-L1216989-S1">
-        <Definition></Definition>
+        <Definition>first-person singular pronoun; I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1543329">
       <Lemma writtenForm="siehre" partOfSpeech="h"/>
       <Sense id="L1543329-S1" synset="wikidata-de-L1543329-S1" ili="wikidata-de-L1543329-S1">
-        <Definition></Definition>
+        <Definition>third-person singular possessive pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-de-L6733-S1" ili="wikidata-de-L6733-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>without</Definition>
     </Synset>
     <Synset id="wikidata-de-L6743-S1" ili="wikidata-de-L6743-S1" partOfSpeech="p">
       <Definition>ungefährer Ort</Definition>
     </Synset>
     <Synset id="wikidata-de-L6745-S1" ili="wikidata-de-L6745-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>after</Definition>
     </Synset>
     <Synset id="wikidata-de-L6745-S2" ili="wikidata-de-L6745-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>to</Definition>
     </Synset>
     <Synset id="wikidata-de-L41653-S1" ili="l484-s1" partOfSpeech="h">
       <Definition>weibliche Person, die zuvor erwähnt wurde oder deren Identität sonstig bekannt ist</Definition>
@@ -2509,7 +2509,7 @@
       <Definition>freundschaftlicher Verabschiedungsgruß</Definition>
     </Synset>
     <Synset id="wikidata-de-L248793-S1" ili="wikidata-de-L248793-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>that</Definition>
     </Synset>
     <Synset id="wikidata-de-L297075-S1" ili="wikidata-de-L297075-S1" partOfSpeech="c">
       <Definition>sobald</Definition>
@@ -2524,28 +2524,28 @@
       <Definition>obwohl</Definition>
     </Synset>
     <Synset id="wikidata-de-L366649-S1" ili="wikidata-de-L366649-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on both sides of</Definition>
     </Synset>
     <Synset id="wikidata-de-L408552-S1" ili="wikidata-de-L408552-S1" partOfSpeech="c">
       <Definition>rechtfertigende Konjunktion, da</Definition>
     </Synset>
     <Synset id="wikidata-de-L409404-S1" ili="wikidata-de-L409404-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>before</Definition>
     </Synset>
     <Synset id="wikidata-de-L409504-S1" ili="wikidata-de-L409504-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>thanks to</Definition>
     </Synset>
     <Synset id="wikidata-de-L409507-S1" ili="wikidata-de-L409507-S1" partOfSpeech="p">
       <Definition>weit weg vom bezeichneten Ort</Definition>
     </Synset>
     <Synset id="wikidata-de-L409569-S1" ili="wikidata-de-L409569-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>except</Definition>
     </Synset>
     <Synset id="wikidata-de-L409575-S1" ili="wikidata-de-L409575-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>if; when</Definition>
     </Synset>
     <Synset id="wikidata-de-L409576-S1" ili="wikidata-de-L409576-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>let alone</Definition>
     </Synset>
     <Synset id="wikidata-de-L409582-S1" ili="wikidata-de-L409582-S1" partOfSpeech="c">
       <Definition>multipliziert mit</Definition>
@@ -2554,64 +2554,64 @@
       <Definition>(in der Eigenschaft) als</Definition>
     </Synset>
     <Synset id="wikidata-de-L409620-S1" ili="wikidata-de-L409620-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>how</Definition>
     </Synset>
     <Synset id="wikidata-de-L409624-S1" ili="wikidata-de-L409624-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>where</Definition>
     </Synset>
     <Synset id="wikidata-de-L410383-S1" ili="wikidata-de-L410383-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>at the beginning of</Definition>
     </Synset>
     <Synset id="wikidata-de-L410402-S1" ili="wikidata-de-L410402-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>not far from</Definition>
     </Synset>
     <Synset id="wikidata-de-L411092-S1" ili="wikidata-de-L411092-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>ours</Definition>
     </Synset>
     <Synset id="wikidata-de-L451351-S1" ili="wikidata-de-L451351-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>for (used in temporal expressions)</Definition>
     </Synset>
     <Synset id="wikidata-de-L493824-S1" ili="wikidata-de-L493824-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 17</Definition>
     </Synset>
     <Synset id="wikidata-de-L493829-S1" ili="wikidata-de-L493829-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 22</Definition>
     </Synset>
     <Synset id="wikidata-de-L493833-S1" ili="wikidata-de-L493833-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 26</Definition>
     </Synset>
     <Synset id="wikidata-de-L493840-S1" ili="wikidata-de-L493840-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 35</Definition>
     </Synset>
     <Synset id="wikidata-de-L493846-S1" ili="wikidata-de-L493846-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 41</Definition>
     </Synset>
     <Synset id="wikidata-de-L493857-S1" ili="wikidata-de-L493857-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 53</Definition>
     </Synset>
     <Synset id="wikidata-de-L493863-S1" ili="wikidata-de-L493863-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 59</Definition>
     </Synset>
     <Synset id="wikidata-de-L493875-S1" ili="wikidata-de-L493875-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 71</Definition>
     </Synset>
     <Synset id="wikidata-de-L493882-S1" ili="wikidata-de-L493882-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 78</Definition>
     </Synset>
     <Synset id="wikidata-de-L493883-S1" ili="wikidata-de-L493883-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 79</Definition>
     </Synset>
     <Synset id="wikidata-de-L493887-S1" ili="wikidata-de-L493887-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 83</Definition>
     </Synset>
     <Synset id="wikidata-de-L493917-S1" ili="wikidata-de-L493917-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 800</Definition>
     </Synset>
     <Synset id="wikidata-de-L493972-S1" ili="wikidata-de-L493972-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 20,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493975-S1" ili="wikidata-de-L493975-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 2</Definition>
     </Synset>
     <Synset id="wikidata-de-L496612-S1" ili="wikidata-de-L496612-S1" partOfSpeech="i">
       <Definition>Ausruf des Erstaunens</Definition>
@@ -2620,22 +2620,22 @@
       <Definition>hallo</Definition>
     </Synset>
     <Synset id="wikidata-de-L496678-S1" ili="wikidata-de-L496678-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>moo, the sound a cow makes</Definition>
     </Synset>
     <Synset id="wikidata-de-L496712-S1" ili="wikidata-de-L496712-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>glug, the sound made when swallowing a drink</Definition>
     </Synset>
     <Synset id="wikidata-de-L496932-S1" ili="wikidata-de-L496932-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bye</Definition>
     </Synset>
     <Synset id="wikidata-de-L610549-S1" ili="wikidata-de-L610549-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>1001</Definition>
     </Synset>
     <Synset id="wikidata-de-L610550-S1" ili="wikidata-de-L610550-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>1001</Definition>
     </Synset>
     <Synset id="wikidata-de-L617788-S1" ili="wikidata-de-L617788-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goodbye</Definition>
     </Synset>
     <Synset id="wikidata-de-L1046137-S1" ili="wikidata-de-L1046137-S1" partOfSpeech="x">
       <Definition>umgangssprachliches Wortbildungselement, das in Verbindung mit Substantiven eine leicht pejorative Bedeutung annimmt, das die Gewöhnlichkeit des Gegenstands ausdrückt</Definition>
@@ -2644,10 +2644,10 @@
       <Definition>vorangestelltes Wortbildungselement bei Substantiven zur Verdeutlichung einer idealen, extrem guten oder extrem gut laufenden Variante</Definition>
     </Synset>
     <Synset id="wikidata-de-L1116902-S1" ili="wikidata-de-L1116902-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>polite response to a &quot;Thank you&quot;</Definition>
     </Synset>
     <Synset id="wikidata-de-L1116902-S2" ili="wikidata-de-L1116902-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>phrase used when handing a requested item</Definition>
     </Synset>
     <Synset id="wikidata-de-L1142274-S1" ili="wikidata-de-L1142274-S1" partOfSpeech="p">
       <Definition>frei von</Definition>
@@ -2659,22 +2659,22 @@
       <Definition>Wortbildungselement, das in Verbindung mit Adjektiven eine Verstärkung der bezeichneten Eigenschaft ausdrückt</Definition>
     </Synset>
     <Synset id="wikidata-de-L6734-S1" ili="wikidata-de-L6734-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>against</Definition>
     </Synset>
     <Synset id="wikidata-de-L6739-S1" ili="wikidata-de-L6739-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>with</Definition>
     </Synset>
     <Synset id="wikidata-de-L6741-S1" ili="wikidata-de-L6741-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>under</Definition>
     </Synset>
     <Synset id="wikidata-de-L6746-S1" ili="wikidata-de-L6746-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>in front of</Definition>
     </Synset>
     <Synset id="wikidata-de-L226822-S1" ili="wikidata-de-L226822-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>interrogative pronoun or question asking for the identity of one or several persons</Definition>
     </Synset>
     <Synset id="wikidata-de-L297073-S1" ili="wikidata-de-L297073-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>or</Definition>
     </Synset>
     <Synset id="wikidata-de-L344332-S1" ili="wikidata-de-L344332-S1" partOfSpeech="h">
       <Definition>genau solcher, solche, solches</Definition>
@@ -2683,106 +2683,106 @@
       <Definition>nein</Definition>
     </Synset>
     <Synset id="wikidata-de-L406984-S1" ili="wikidata-de-L406984-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used as a tag question</Definition>
     </Synset>
     <Synset id="wikidata-de-L408933-S1" ili="wikidata-de-L408933-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>with the effect that</Definition>
     </Synset>
     <Synset id="wikidata-de-L409478-S1" ili="wikidata-de-L409478-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>behind</Definition>
     </Synset>
     <Synset id="wikidata-de-L409570-S2" ili="wikidata-de-L409570-S2" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>until</Definition>
     </Synset>
     <Synset id="wikidata-de-L410468-S1" ili="wikidata-de-L410468-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>west of</Definition>
     </Synset>
     <Synset id="wikidata-de-L411032-S1" ili="wikidata-de-L411032-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
     </Synset>
     <Synset id="wikidata-de-L411100-S1" ili="wikidata-de-L411100-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>that; which</Definition>
     </Synset>
     <Synset id="wikidata-de-L451354-S1" ili="wikidata-de-L451354-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>northwest of</Definition>
     </Synset>
     <Synset id="wikidata-de-L468412-S1" ili="wikidata-de-L468412-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 11</Definition>
     </Synset>
     <Synset id="wikidata-de-L468413-S1" ili="wikidata-de-L468413-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 0</Definition>
     </Synset>
     <Synset id="wikidata-de-L488400-S1" ili="wikidata-de-L488400-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hi, informal hello</Definition>
     </Synset>
     <Synset id="wikidata-de-L488949-S1" ili="wikidata-de-L488949-S1" partOfSpeech="i">
       <Definition>Ausruf bei körperlichem Schmerz</Definition>
     </Synset>
     <Synset id="wikidata-de-L492942-S1" ili="wikidata-de-L492942-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-de-L493827-S1" ili="wikidata-de-L493827-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 20</Definition>
     </Synset>
     <Synset id="wikidata-de-L493837-S1" ili="wikidata-de-L493837-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 31</Definition>
     </Synset>
     <Synset id="wikidata-de-L493839-S1" ili="wikidata-de-L493839-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 34</Definition>
     </Synset>
     <Synset id="wikidata-de-L493856-S1" ili="wikidata-de-L493856-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 52</Definition>
     </Synset>
     <Synset id="wikidata-de-L493869-S1" ili="wikidata-de-L493869-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 65</Definition>
     </Synset>
     <Synset id="wikidata-de-L493872-S1" ili="wikidata-de-L493872-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 68</Definition>
     </Synset>
     <Synset id="wikidata-de-L493874-S1" ili="wikidata-de-L493874-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 70</Definition>
     </Synset>
     <Synset id="wikidata-de-L493881-S1" ili="wikidata-de-L493881-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 77</Definition>
     </Synset>
     <Synset id="wikidata-de-L493885-S1" ili="wikidata-de-L493885-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 81</Definition>
     </Synset>
     <Synset id="wikidata-de-L493888-S1" ili="wikidata-de-L493888-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 84</Definition>
     </Synset>
     <Synset id="wikidata-de-L493890-S1" ili="wikidata-de-L493890-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 86</Definition>
     </Synset>
     <Synset id="wikidata-de-L493893-S1" ili="wikidata-de-L493893-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 89</Definition>
     </Synset>
     <Synset id="wikidata-de-L493899-S1" ili="wikidata-de-L493899-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 95</Definition>
     </Synset>
     <Synset id="wikidata-de-L493900-S1" ili="wikidata-de-L493900-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 96</Definition>
     </Synset>
     <Synset id="wikidata-de-L493901-S1" ili="wikidata-de-L493901-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 97</Definition>
     </Synset>
     <Synset id="wikidata-de-L493903-S1" ili="wikidata-de-L493903-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 99</Definition>
     </Synset>
     <Synset id="wikidata-de-L493909-S1" ili="wikidata-de-L493909-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 100</Definition>
     </Synset>
     <Synset id="wikidata-de-L493913-S1" ili="wikidata-de-L493913-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 300</Definition>
     </Synset>
     <Synset id="wikidata-de-L493919-S1" ili="wikidata-de-L493919-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 180</Definition>
     </Synset>
     <Synset id="wikidata-de-L493929-S1" ili="wikidata-de-L493929-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 10,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493964-S1" ili="wikidata-de-L493964-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1200</Definition>
     </Synset>
     <Synset id="wikidata-de-L496570-S1" ili="wikidata-de-L496570-S1" partOfSpeech="y">
       <Definition>zu jeder Zeit, stets</Definition>
@@ -2791,34 +2791,34 @@
       <Definition>Begrüßung</Definition>
     </Synset>
     <Synset id="wikidata-de-L496586-S1" ili="wikidata-de-L496586-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>achoo, the sound made when sneezing</Definition>
     </Synset>
     <Synset id="wikidata-de-L496681-S1" ili="wikidata-de-L496681-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>nee-naw, mimicking the sound made by sirens on emergency vehicles</Definition>
     </Synset>
     <Synset id="wikidata-de-L584952-S1" ili="wikidata-de-L584952-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>cheers, toast when drinking alcohol</Definition>
     </Synset>
     <Synset id="wikidata-de-L610553-S1" ili="wikidata-de-L610553-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>101</Definition>
     </Synset>
     <Synset id="wikidata-de-L610555-S1" ili="wikidata-de-L610555-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>101</Definition>
     </Synset>
     <Synset id="wikidata-de-L1095380-S1" ili="wikidata-de-L1095380-S1" partOfSpeech="x">
       <Definition>vorangestelltes Wortbildungselement bei Substantiven zur Verdeutlichung einer besonders stark ausgeprägten Variante</Definition>
     </Synset>
     <Synset id="wikidata-de-L1191929-S1" ili="wikidata-de-L1191929-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sound of bells ringing</Definition>
     </Synset>
     <Synset id="wikidata-de-L1218503-S1" ili="l1218499-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to wish someone the best of luck and that events will turn out in favorably</Definition>
     </Synset>
     <Synset id="wikidata-de-L1332007-S1" ili="wikidata-de-L1332007-S1" partOfSpeech="x">
-      <Definition></Definition>
+      <Definition>what&apos;s this?</Definition>
     </Synset>
     <Synset id="wikidata-de-L6750-S1" ili="wikidata-de-L6750-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of</Definition>
     </Synset>
     <Synset id="wikidata-de-L7880-S1" ili="l327-s1" partOfSpeech="m">
       <Definition>die Natürliche Zahl zwischen Null und Zwei</Definition>
@@ -2833,25 +2833,25 @@
       <Definition>Personalpronomen</Definition>
     </Synset>
     <Synset id="wikidata-de-L248791-S1" ili="wikidata-de-L248791-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>until</Definition>
     </Synset>
     <Synset id="wikidata-de-L302429-S1" ili="l332-s1" partOfSpeech="m">
       <Definition>die natürliche Zahl zwischen Drei und Fünf</Definition>
     </Synset>
     <Synset id="wikidata-de-L304140-S1" ili="wikidata-de-L304140-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>we; first-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L304144-S1" ili="wikidata-de-L304144-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>indefinite pronoun; one, you</Definition>
     </Synset>
     <Synset id="wikidata-de-L349487-S1" ili="wikidata-de-L349487-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>within a place</Definition>
     </Synset>
     <Synset id="wikidata-de-L349487-S2" ili="wikidata-de-L349487-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>within a period of time</Definition>
     </Synset>
     <Synset id="wikidata-de-L356869-S1" ili="wikidata-de-L356869-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>except</Definition>
     </Synset>
     <Synset id="wikidata-de-L406978-S1" ili="wikidata-de-L406978-S1" partOfSpeech="y">
       <Definition>nein</Definition>
@@ -2860,16 +2860,16 @@
       <Definition>nein</Definition>
     </Synset>
     <Synset id="wikidata-de-L409194-S1" ili="wikidata-de-L409194-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>a; an</Definition>
     </Synset>
     <Synset id="wikidata-de-L409403-S1" ili="wikidata-de-L409403-S1" partOfSpeech="c">
       <Definition>außer wenn</Definition>
     </Synset>
     <Synset id="wikidata-de-L409613-S1" ili="wikidata-de-L409613-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>while</Definition>
     </Synset>
     <Synset id="wikidata-de-L409616-S1" ili="wikidata-de-L409616-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>neither, used with &quot;noch&quot; to mean &quot;neither ... nor&quot;</Definition>
     </Synset>
     <Synset id="wikidata-de-L410433-S1" ili="wikidata-de-L410433-S1" partOfSpeech="p">
       <Definition>wie</Definition>
@@ -2881,103 +2881,104 @@
       <Definition>Tonsilbe</Definition>
     </Synset>
     <Synset id="wikidata-de-L411101-S1" ili="wikidata-de-L411101-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>what</Definition>
     </Synset>
     <Synset id="wikidata-de-L411163-S1" ili="wikidata-de-L411163-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 12</Definition>
     </Synset>
     <Synset id="wikidata-de-L413031-S1" ili="wikidata-de-L413031-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>proposed gender-neutral definite article</Definition>
+      <Example>Obwohl sier in England geboren wurde, lebt und arbeitet dier nicht-binäre, genderqueere Elektro-Musiker*in seit 2002 in Berlin.</Example>
     </Synset>
     <Synset id="wikidata-de-L466843-S1" ili="wikidata-de-L466843-S1" partOfSpeech="m">
       <Definition>zwei</Definition>
     </Synset>
     <Synset id="wikidata-de-L493828-S1" ili="wikidata-de-L493828-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 21</Definition>
     </Synset>
     <Synset id="wikidata-de-L493834-S1" ili="wikidata-de-L493834-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 27</Definition>
     </Synset>
     <Synset id="wikidata-de-L493844-S1" ili="wikidata-de-L493844-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 39</Definition>
     </Synset>
     <Synset id="wikidata-de-L493854-S1" ili="wikidata-de-L493854-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 49</Definition>
     </Synset>
     <Synset id="wikidata-de-L493889-S1" ili="wikidata-de-L493889-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 85</Definition>
     </Synset>
     <Synset id="wikidata-de-L493891-S1" ili="wikidata-de-L493891-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 87</Definition>
     </Synset>
     <Synset id="wikidata-de-L493910-S1" ili="wikidata-de-L493910-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 200</Definition>
     </Synset>
     <Synset id="wikidata-de-L493918-S1" ili="wikidata-de-L493918-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 900</Definition>
     </Synset>
     <Synset id="wikidata-de-L493981-S1" ili="wikidata-de-L493981-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 3500</Definition>
     </Synset>
     <Synset id="wikidata-de-L493983-S1" ili="wikidata-de-L493983-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 11,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L496506-S1" ili="wikidata-de-L496506-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>phew, sound made after doing something which took a lot of effort</Definition>
     </Synset>
     <Synset id="wikidata-de-L496512-S1" ili="wikidata-de-L496512-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hey, used to get someone&apos;s attention</Definition>
     </Synset>
     <Synset id="wikidata-de-L496512-S2" ili="wikidata-de-L496512-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hey, used to express surprise</Definition>
     </Synset>
     <Synset id="wikidata-de-L496512-S3" ili="wikidata-de-L496512-S3" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>informal hello</Definition>
     </Synset>
     <Synset id="wikidata-de-L496522-S1" ili="wikidata-de-L496522-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>hic, the sound of a hiccup</Definition>
     </Synset>
     <Synset id="wikidata-de-L496541-S1" ili="wikidata-de-L496541-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>vocalization by cats</Definition>
     </Synset>
     <Synset id="wikidata-de-L496588-S1" ili="wikidata-de-L496588-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>achoo, the sound made when sneezing</Definition>
     </Synset>
     <Synset id="wikidata-de-L496620-S1" ili="wikidata-de-L496620-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oops</Definition>
     </Synset>
     <Synset id="wikidata-de-L496665-S1" ili="wikidata-de-L496665-S1" partOfSpeech="i">
       <Definition>Ausruf mit mehreren Bedeutungen im Deutschen, Schwedischen, Dänischen etc.</Definition>
     </Synset>
     <Synset id="wikidata-de-L496728-S1" ili="wikidata-de-L496728-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>tick tock, mimicking the sound of a clock ticking</Definition>
     </Synset>
     <Synset id="wikidata-de-L496923-S1" ili="wikidata-de-L496923-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goodbye</Definition>
     </Synset>
     <Synset id="wikidata-de-L584949-S1" ili="wikidata-de-L584949-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goodbye</Definition>
     </Synset>
     <Synset id="wikidata-de-L591615-S1" ili="wikidata-de-L591615-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>come on/let&apos;s go/hurry up</Definition>
     </Synset>
     <Synset id="wikidata-de-L610551-S1" ili="wikidata-de-L610551-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>1001</Definition>
     </Synset>
     <Synset id="wikidata-de-L613765-S1" ili="wikidata-de-L613765-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>I swear (expressing confirmation of a statement)</Definition>
     </Synset>
     <Synset id="wikidata-de-L641270-S1" ili="wikidata-de-L641270-S1" partOfSpeech="m">
       <Definition>eintausendfünfhundert</Definition>
     </Synset>
     <Synset id="wikidata-de-L936863-S1" ili="wikidata-de-L936863-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oops</Definition>
     </Synset>
     <Synset id="wikidata-de-L937906-S1" ili="wikidata-de-L937906-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to attract chicken</Definition>
     </Synset>
     <Synset id="wikidata-de-L938878-S1" ili="wikidata-de-L938878-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>immitation of a dog vocalisation</Definition>
     </Synset>
     <Synset id="wikidata-de-L1141653-S1" ili="wikidata-de-L1141653-S1" partOfSpeech="p">
       <Definition>außer</Definition>
@@ -2986,10 +2987,10 @@
       <Definition>in der Nähe</Definition>
     </Synset>
     <Synset id="wikidata-de-L6732-S1" ili="wikidata-de-L6732-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>for</Definition>
     </Synset>
     <Synset id="wikidata-de-L6737-S1" ili="wikidata-de-L6737-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>because of</Definition>
     </Synset>
     <Synset id="wikidata-de-L34133-S1" ili="l329-s1" partOfSpeech="m">
       <Definition>Kardinalzahl zwischen 1 und 3</Definition>
@@ -3001,28 +3002,28 @@
       <Definition>Bezugsobjekt der grammatisch männlichen Phrase, für die dieses Pronomen steht</Definition>
     </Synset>
     <Synset id="wikidata-de-L220835-S1" ili="wikidata-de-L220835-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>Expression of awe, terror, surprise or astonishment</Definition>
     </Synset>
     <Synset id="wikidata-de-L304141-S1" ili="wikidata-de-L304141-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L304143-S1" ili="wikidata-de-L304143-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second person formal pronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L347808-S1" ili="wikidata-de-L347808-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 8</Definition>
     </Synset>
     <Synset id="wikidata-de-L366643-S1" ili="wikidata-de-L366643-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>during</Definition>
     </Synset>
     <Synset id="wikidata-de-L408557-S1" ili="wikidata-de-L408557-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because</Definition>
     </Synset>
     <Synset id="wikidata-de-L409187-S1" ili="wikidata-de-L409187-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>not a; no</Definition>
     </Synset>
     <Synset id="wikidata-de-L409500-S1" ili="wikidata-de-L409500-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>per</Definition>
     </Synset>
     <Synset id="wikidata-de-L409588-S1" ili="wikidata-de-L409588-S1" partOfSpeech="c">
       <Definition>obwohl</Definition>
@@ -3031,7 +3032,7 @@
       <Definition>obwohl, obgleich</Definition>
     </Synset>
     <Synset id="wikidata-de-L410456-S1" ili="wikidata-de-L410456-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>south of</Definition>
     </Synset>
     <Synset id="wikidata-de-L411025-S1" ili="wikidata-de-L411025-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
@@ -3040,67 +3041,67 @@
       <Definition>Tonsilbe</Definition>
     </Synset>
     <Synset id="wikidata-de-L411090-S1" ili="wikidata-de-L411090-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>his</Definition>
     </Synset>
     <Synset id="wikidata-de-L411094-S1" ili="wikidata-de-L411094-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>their</Definition>
     </Synset>
     <Synset id="wikidata-de-L451356-S2" ili="wikidata-de-L451356-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>left of</Definition>
     </Synset>
     <Synset id="wikidata-de-L493271-S1" ili="wikidata-de-L493271-S1" partOfSpeech="p">
       <Definition>halber</Definition>
     </Synset>
     <Synset id="wikidata-de-L493821-S1" ili="wikidata-de-L493821-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 14</Definition>
     </Synset>
     <Synset id="wikidata-de-L493826-S1" ili="wikidata-de-L493826-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 19</Definition>
     </Synset>
     <Synset id="wikidata-de-L493843-S1" ili="wikidata-de-L493843-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 38</Definition>
     </Synset>
     <Synset id="wikidata-de-L493849-S1" ili="wikidata-de-L493849-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 44</Definition>
     </Synset>
     <Synset id="wikidata-de-L493850-S1" ili="wikidata-de-L493850-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 45</Definition>
     </Synset>
     <Synset id="wikidata-de-L493866-S1" ili="wikidata-de-L493866-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 62</Definition>
     </Synset>
     <Synset id="wikidata-de-L493884-S1" ili="wikidata-de-L493884-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 80</Definition>
     </Synset>
     <Synset id="wikidata-de-L493926-S1" ili="wikidata-de-L493926-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 6000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493931-S1" ili="wikidata-de-L493931-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 30,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493963-S1" ili="wikidata-de-L493963-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1100</Definition>
     </Synset>
     <Synset id="wikidata-de-L493982-S1" ili="wikidata-de-L493982-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 12,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L496553-S1" ili="wikidata-de-L496553-S1" partOfSpeech="y">
       <Definition>den folgenden Satzteil verstärkend</Definition>
     </Synset>
     <Synset id="wikidata-de-L496729-S1" ili="wikidata-de-L496729-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bzz, the sound made by flying insects, especially bees</Definition>
     </Synset>
     <Synset id="wikidata-de-L496925-S1" ili="wikidata-de-L496925-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>informal hello</Definition>
     </Synset>
     <Synset id="wikidata-de-L496925-S2" ili="wikidata-de-L496925-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>informal goodbye</Definition>
     </Synset>
     <Synset id="wikidata-de-L497294-S1" ili="wikidata-de-L497294-S1" partOfSpeech="h">
       <Definition>diejenige Person, die</Definition>
     </Synset>
     <Synset id="wikidata-de-L610552-S1" ili="wikidata-de-L610552-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>1001</Definition>
     </Synset>
     <Synset id="wikidata-de-L614829-S1" ili="wikidata-de-L614829-S1" partOfSpeech="x">
       <Definition>Wortbildungselement, das in Verbindung mit Adjektiven eine Verstärkung der bezeichneten Eigenschaft ausdrückt</Definition>
@@ -3112,19 +3113,19 @@
       <Definition>Wortbildungselement, das in Verbindung mit Substantiven einen besonders hohen Erfüllungsgrad anzeigt</Definition>
     </Synset>
     <Synset id="wikidata-de-L622857-S1" ili="l622858-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>response to sneezing</Definition>
     </Synset>
     <Synset id="wikidata-de-L622857-S2" ili="wikidata-de-L622857-S2" partOfSpeech="i">
       <Definition>Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens</Definition>
     </Synset>
     <Synset id="wikidata-de-L1180577-S1" ili="l371-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>third-person gender-neutral neopronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L1409841-S1" ili="wikidata-de-L1409841-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>other</Definition>
     </Synset>
     <Synset id="wikidata-de-L751-S1" ili="wikidata-de-L751-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>(discourse marking particle for highlighting understood information and corrective utterances)</Definition>
     </Synset>
     <Synset id="wikidata-de-L6748-S1" ili="wikidata-de-L6748-S1" partOfSpeech="p">
       <Definition>Angabe einer Richtung</Definition>
@@ -3136,172 +3137,172 @@
       <Definition>die natürliche Zahl zwischen 99 und 101</Definition>
     </Synset>
     <Synset id="wikidata-de-L248788-S1" ili="wikidata-de-L248788-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>&quot;when compared with&quot;</Definition>
     </Synset>
     <Synset id="wikidata-de-L304654-S1" ili="wikidata-de-L304654-S1" partOfSpeech="h">
       <Definition>Neopronomen</Definition>
     </Synset>
     <Synset id="wikidata-de-L305973-S1" ili="l8885-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>greeting of non-binding nature</Definition>
     </Synset>
     <Synset id="wikidata-de-L307872-S1" ili="l307873-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>please</Definition>
     </Synset>
     <Synset id="wikidata-de-L347769-S1" ili="wikidata-de-L347769-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 10</Definition>
     </Synset>
     <Synset id="wikidata-de-L347806-S1" ili="wikidata-de-L347806-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 5</Definition>
     </Synset>
     <Synset id="wikidata-de-L347809-S1" ili="wikidata-de-L347809-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 9</Definition>
     </Synset>
     <Synset id="wikidata-de-L406531-S1" ili="wikidata-de-L406531-S1" partOfSpeech="m">
       <Definition>Kardinalzahl zwischen zweiunddreißig und vierunddreißig</Definition>
     </Synset>
     <Synset id="wikidata-de-L408550-S1" ili="wikidata-de-L408550-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>so that</Definition>
     </Synset>
     <Synset id="wikidata-de-L408553-S1" ili="wikidata-de-L408553-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>after</Definition>
     </Synset>
     <Synset id="wikidata-de-L408929-S1" ili="wikidata-de-L408929-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>because</Definition>
     </Synset>
     <Synset id="wikidata-de-L408931-S1" ili="wikidata-de-L408931-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>either (... or ...)</Definition>
     </Synset>
     <Synset id="wikidata-de-L409505-S1" ili="wikidata-de-L409505-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>according to</Definition>
     </Synset>
     <Synset id="wikidata-de-L409508-S1" ili="wikidata-de-L409508-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>including</Definition>
     </Synset>
     <Synset id="wikidata-de-L409513-S1" ili="wikidata-de-L409513-S1" partOfSpeech="c">
       <Definition>minus</Definition>
     </Synset>
     <Synset id="wikidata-de-L410403-S1" ili="l8964-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>igennem</Definition>
     </Synset>
     <Synset id="wikidata-de-L410447-S1" ili="wikidata-de-L410447-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>north of</Definition>
     </Synset>
     <Synset id="wikidata-de-L411020-S1" ili="wikidata-de-L411020-S1" partOfSpeech="i">
       <Definition>Wohlwollende Erwiderung</Definition>
     </Synset>
     <Synset id="wikidata-de-L411088-S1" ili="wikidata-de-L411088-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>my</Definition>
     </Synset>
     <Synset id="wikidata-de-L411095-S1" ili="wikidata-de-L411095-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>yours (formal)</Definition>
     </Synset>
     <Synset id="wikidata-de-L451353-S1" ili="wikidata-de-L451353-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>southeast of</Definition>
     </Synset>
     <Synset id="wikidata-de-L488526-S1" ili="wikidata-de-L488526-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>onomatopoeic representation of laughter</Definition>
     </Synset>
     <Synset id="wikidata-de-L488532-S1" ili="wikidata-de-L488532-S1" partOfSpeech="i">
       <Definition>nein</Definition>
     </Synset>
     <Synset id="wikidata-de-L488950-S1" ili="wikidata-de-L488950-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>ow, ouch</Definition>
     </Synset>
     <Synset id="wikidata-de-L493825-S1" ili="wikidata-de-L493825-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 18</Definition>
     </Synset>
     <Synset id="wikidata-de-L493831-S1" ili="wikidata-de-L493831-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 24</Definition>
     </Synset>
     <Synset id="wikidata-de-L493832-S1" ili="wikidata-de-L493832-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 25</Definition>
     </Synset>
     <Synset id="wikidata-de-L493835-S1" ili="wikidata-de-L493835-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 28</Definition>
     </Synset>
     <Synset id="wikidata-de-L493838-S1" ili="wikidata-de-L493838-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 32</Definition>
     </Synset>
     <Synset id="wikidata-de-L493842-S1" ili="wikidata-de-L493842-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 37</Definition>
     </Synset>
     <Synset id="wikidata-de-L493847-S1" ili="wikidata-de-L493847-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 42</Definition>
     </Synset>
     <Synset id="wikidata-de-L493859-S1" ili="wikidata-de-L493859-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 55</Definition>
     </Synset>
     <Synset id="wikidata-de-L493860-S1" ili="wikidata-de-L493860-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 56</Definition>
     </Synset>
     <Synset id="wikidata-de-L493861-S1" ili="wikidata-de-L493861-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 57</Definition>
     </Synset>
     <Synset id="wikidata-de-L493862-S1" ili="wikidata-de-L493862-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 58</Definition>
     </Synset>
     <Synset id="wikidata-de-L493877-S1" ili="wikidata-de-L493877-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 73</Definition>
     </Synset>
     <Synset id="wikidata-de-L493880-S1" ili="wikidata-de-L493880-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 76</Definition>
     </Synset>
     <Synset id="wikidata-de-L493886-S1" ili="wikidata-de-L493886-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 82</Definition>
     </Synset>
     <Synset id="wikidata-de-L493892-S1" ili="wikidata-de-L493892-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 88</Definition>
     </Synset>
     <Synset id="wikidata-de-L493895-S1" ili="wikidata-de-L493895-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 91</Definition>
     </Synset>
     <Synset id="wikidata-de-L493914-S1" ili="wikidata-de-L493914-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 500</Definition>
     </Synset>
     <Synset id="wikidata-de-L493921-S1" ili="wikidata-de-L493921-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493923-S1" ili="wikidata-de-L493923-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 3000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493925-S1" ili="wikidata-de-L493925-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 5000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493932-S1" ili="wikidata-de-L493932-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 80,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493974-S1" ili="wikidata-de-L493974-S1" partOfSpeech="y">
       <Definition>danke</Definition>
     </Synset>
     <Synset id="wikidata-de-L496583-S1" ili="wikidata-de-L496583-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>onomatopoeic representation of the sound of a cuckoo</Definition>
     </Synset>
     <Synset id="wikidata-de-L496599-S1" ili="wikidata-de-L496599-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oops</Definition>
     </Synset>
     <Synset id="wikidata-de-L496666-S1" ili="wikidata-de-L496666-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>cheep, mimicking the sound made by small birds</Definition>
     </Synset>
     <Synset id="wikidata-de-L496924-S1" ili="wikidata-de-L496924-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>informal hello</Definition>
     </Synset>
     <Synset id="wikidata-de-L496931-S1" ili="wikidata-de-L496931-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bye</Definition>
     </Synset>
     <Synset id="wikidata-de-L498348-S1" ili="wikidata-de-L498348-S1" partOfSpeech="m">
       <Definition>Zahlwort für 1,5</Definition>
     </Synset>
     <Synset id="wikidata-de-L594420-S1" ili="wikidata-de-L594420-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>&quot;all sorts of&quot;</Definition>
     </Synset>
     <Synset id="wikidata-de-L610556-S1" ili="wikidata-de-L610556-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>101</Definition>
     </Synset>
     <Synset id="wikidata-de-L882650-S1" ili="wikidata-de-L882650-S1" partOfSpeech="c">
       <Definition>deswegen</Definition>
     </Synset>
     <Synset id="wikidata-de-L937725-S1" ili="wikidata-de-L937725-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>onomatopoeic representation of the sound of a rooster</Definition>
     </Synset>
     <Synset id="wikidata-de-L1141740-S1" ili="wikidata-de-L1141740-S1" partOfSpeech="p">
       <Definition>bezüglich, hinsichtlich</Definition>
@@ -3316,37 +3317,39 @@
       <Definition>vorangestelltes Wortbildungselement bei Substantiven zur Verdeutlichung einer besonders stark ausgeprägten Variante</Definition>
     </Synset>
     <Synset id="wikidata-de-L7881-S1" ili="wikidata-de-L7881-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>this one</Definition>
     </Synset>
     <Synset id="wikidata-de-L220887-S1" ili="wikidata-de-L220887-S1" partOfSpeech="m">
       <Definition>Kardinalzahl zwischen 6 und 8</Definition>
     </Synset>
     <Synset id="wikidata-de-L235263-S1" ili="wikidata-de-L235263-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>400</Definition>
     </Synset>
     <Synset id="wikidata-de-L302428-S1" ili="l3412-s1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>between</Definition>
     </Synset>
     <Synset id="wikidata-de-L304659-S1" ili="wikidata-de-L304659-S1" partOfSpeech="h">
       <Definition>Neopronomen</Definition>
+      <Example>Obwohl sier in England geboren wurde, lebt und arbeitet dier nicht-binäre, genderqueere Elektro-Musiker*in Jam Rostrom aka Planningtorock seit 2002 in Berlin.</Example>
+      <Example>Musik baute Brücken zwischen sier und siehrer Mutter und siehrer Schwester.</Example>
     </Synset>
     <Synset id="wikidata-de-L343141-S1" ili="wikidata-de-L343141-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 8000</Definition>
     </Synset>
     <Synset id="wikidata-de-L409202-S1" ili="wikidata-de-L409202-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>one (as a pronoun); someone; one thing</Definition>
     </Synset>
     <Synset id="wikidata-de-L410401-S1" ili="wikidata-de-L410401-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>not far from</Definition>
     </Synset>
     <Synset id="wikidata-de-L411006-S1" ili="wikidata-de-L411006-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and/or</Definition>
     </Synset>
     <Synset id="wikidata-de-L411091-S1" ili="wikidata-de-L411091-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>hers</Definition>
     </Synset>
     <Synset id="wikidata-de-L411097-S1" ili="wikidata-de-L411097-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>the one; this one; that one</Definition>
     </Synset>
     <Synset id="wikidata-de-L488515-S1" ili="wikidata-de-L488515-S1" partOfSpeech="i">
       <Definition>freundschaftlicher Gruß</Definition>
@@ -3358,139 +3361,140 @@
       <Definition>Verwendung zum Ausdruck des Verstehens</Definition>
     </Synset>
     <Synset id="wikidata-de-L493822-S1" ili="wikidata-de-L493822-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 15</Definition>
     </Synset>
     <Synset id="wikidata-de-L493853-S1" ili="wikidata-de-L493853-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 48</Definition>
     </Synset>
     <Synset id="wikidata-de-L493858-S1" ili="wikidata-de-L493858-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 54</Definition>
     </Synset>
     <Synset id="wikidata-de-L493864-S1" ili="wikidata-de-L493864-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 60</Definition>
     </Synset>
     <Synset id="wikidata-de-L493867-S1" ili="wikidata-de-L493867-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 63</Definition>
     </Synset>
     <Synset id="wikidata-de-L493878-S1" ili="wikidata-de-L493878-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 74</Definition>
     </Synset>
     <Synset id="wikidata-de-L493894-S1" ili="wikidata-de-L493894-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 90</Definition>
     </Synset>
     <Synset id="wikidata-de-L493897-S1" ili="wikidata-de-L493897-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 93</Definition>
     </Synset>
     <Synset id="wikidata-de-L493933-S1" ili="wikidata-de-L493933-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 300,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493965-S1" ili="wikidata-de-L493965-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1300</Definition>
     </Synset>
     <Synset id="wikidata-de-L493968-S1" ili="wikidata-de-L493968-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1600</Definition>
     </Synset>
     <Synset id="wikidata-de-L493969-S1" ili="wikidata-de-L493969-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1700</Definition>
     </Synset>
     <Synset id="wikidata-de-L496524-S1" ili="wikidata-de-L496524-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>oops</Definition>
     </Synset>
     <Synset id="wikidata-de-L496549-S1" ili="wikidata-de-L496549-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>boom</Definition>
     </Synset>
     <Synset id="wikidata-de-L496580-S1" ili="wikidata-de-L496580-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>onomatopoeic representation of the sound of a rooster</Definition>
     </Synset>
     <Synset id="wikidata-de-L496679-S1" ili="wikidata-de-L496679-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>baa, the sound made by sheep</Definition>
     </Synset>
     <Synset id="wikidata-de-L496718-S1" ili="wikidata-de-L496718-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>snip, mimicking the sound of cutting with scissors</Definition>
     </Synset>
     <Synset id="wikidata-de-L584956-S1" ili="wikidata-de-L584956-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>bye</Definition>
     </Synset>
     <Synset id="wikidata-de-L584957-S1" ili="wikidata-de-L584957-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>goodbye</Definition>
     </Synset>
     <Synset id="wikidata-de-L594338-S1" ili="wikidata-de-L594338-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>informal hello</Definition>
     </Synset>
     <Synset id="wikidata-de-L595402-S1" ili="wikidata-de-L595402-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>quarter</Definition>
     </Synset>
     <Synset id="wikidata-de-L610554-S1" ili="wikidata-de-L610554-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>101</Definition>
     </Synset>
     <Synset id="wikidata-de-L937830-S1" ili="wikidata-de-L937830-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>immitation of a dog vocalisation</Definition>
     </Synset>
     <Synset id="wikidata-de-L984525-S1" ili="wikidata-de-L984525-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to invite someone into one&apos;s home</Definition>
     </Synset>
     <Synset id="wikidata-de-L1142275-S1" ili="wikidata-de-L1142275-S1" partOfSpeech="p">
       <Definition>gegenüber</Definition>
     </Synset>
     <Synset id="wikidata-de-L6749-S1" ili="wikidata-de-L6749-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>on top of</Definition>
     </Synset>
     <Synset id="wikidata-de-L7879-S1" ili="l1387-s1" partOfSpeech="c">
       <Definition>einen Gegensatz ausdrückend</Definition>
     </Synset>
     <Synset id="wikidata-de-L50006-S1" ili="wikidata-de-L50006-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>1000</Definition>
     </Synset>
     <Synset id="wikidata-de-L59500-S1" ili="l2768-s1" partOfSpeech="d">
       <Definition>bestimmter Artikel</Definition>
+      <Example>Der Mann hat einen Hund.</Example>
     </Synset>
     <Synset id="wikidata-de-L228333-S1" ili="wikidata-de-L228333-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and, joins words and sentence parts together</Definition>
     </Synset>
     <Synset id="wikidata-de-L304139-S1" ili="wikidata-de-L304139-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>second-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L304142-S1" ili="wikidata-de-L304142-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>they; third person plural pronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L304660-S1" ili="wikidata-de-L304660-S1" partOfSpeech="h">
       <Definition>Neopronomen</Definition>
     </Synset>
     <Synset id="wikidata-de-L347807-S1" ili="wikidata-de-L347807-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 6</Definition>
     </Synset>
     <Synset id="wikidata-de-L366642-S1" ili="wikidata-de-L366642-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>this side of</Definition>
     </Synset>
     <Synset id="wikidata-de-L366645-S1" ili="wikidata-de-L366645-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>the other side of</Definition>
     </Synset>
     <Synset id="wikidata-de-L366646-S1" ili="wikidata-de-L366646-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>despite</Definition>
     </Synset>
     <Synset id="wikidata-de-L408932-S1" ili="wikidata-de-L408932-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>even though</Definition>
     </Synset>
     <Synset id="wikidata-de-L409501-S1" ili="wikidata-de-L409501-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>by</Definition>
     </Synset>
     <Synset id="wikidata-de-L409585-S1" ili="wikidata-de-L409585-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>if; whether</Definition>
     </Synset>
     <Synset id="wikidata-de-L409589-S1" ili="wikidata-de-L409589-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>without</Definition>
     </Synset>
     <Synset id="wikidata-de-L410397-S2" ili="wikidata-de-L410397-S2" partOfSpeech="p">
       <Definition>in der Nähe</Definition>
     </Synset>
     <Synset id="wikidata-de-L410426-S1" ili="wikidata-de-L410426-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>both sides of</Definition>
     </Synset>
     <Synset id="wikidata-de-L410446-S1" ili="wikidata-de-L410446-S1" partOfSpeech="p">
       <Definition>unterhalb</Definition>
     </Synset>
     <Synset id="wikidata-de-L410450-S1" ili="wikidata-de-L410450-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>east of</Definition>
     </Synset>
     <Synset id="wikidata-de-L411026-S1" ili="wikidata-de-L411026-S1" partOfSpeech="y">
       <Definition>Tonsilbe</Definition>
@@ -3499,82 +3503,82 @@
       <Definition>Tonsilbe</Definition>
     </Synset>
     <Synset id="wikidata-de-L411093-S1" ili="wikidata-de-L411093-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>yours (plural)</Definition>
     </Synset>
     <Synset id="wikidata-de-L411096-S1" ili="wikidata-de-L411096-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>that; which; who</Definition>
     </Synset>
     <Synset id="wikidata-de-L493820-S1" ili="wikidata-de-L493820-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 13</Definition>
     </Synset>
     <Synset id="wikidata-de-L493830-S1" ili="wikidata-de-L493830-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 23</Definition>
     </Synset>
     <Synset id="wikidata-de-L493845-S1" ili="wikidata-de-L493845-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 40</Definition>
     </Synset>
     <Synset id="wikidata-de-L493852-S1" ili="wikidata-de-L493852-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 47</Definition>
     </Synset>
     <Synset id="wikidata-de-L493855-S1" ili="wikidata-de-L493855-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 51</Definition>
     </Synset>
     <Synset id="wikidata-de-L493870-S1" ili="wikidata-de-L493870-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 66</Definition>
     </Synset>
     <Synset id="wikidata-de-L493871-S1" ili="wikidata-de-L493871-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 67</Definition>
     </Synset>
     <Synset id="wikidata-de-L493876-S1" ili="wikidata-de-L493876-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 72</Definition>
     </Synset>
     <Synset id="wikidata-de-L493898-S1" ili="wikidata-de-L493898-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 94</Definition>
     </Synset>
     <Synset id="wikidata-de-L493902-S1" ili="wikidata-de-L493902-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 98</Definition>
     </Synset>
     <Synset id="wikidata-de-L493915-S1" ili="wikidata-de-L493915-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 600</Definition>
     </Synset>
     <Synset id="wikidata-de-L493916-S1" ili="wikidata-de-L493916-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 700</Definition>
     </Synset>
     <Synset id="wikidata-de-L493920-S1" ili="wikidata-de-L493920-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 110</Definition>
     </Synset>
     <Synset id="wikidata-de-L493922-S1" ili="wikidata-de-L493922-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 2000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493924-S1" ili="wikidata-de-L493924-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 4000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493967-S1" ili="wikidata-de-L493967-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1500</Definition>
     </Synset>
     <Synset id="wikidata-de-L493970-S1" ili="wikidata-de-L493970-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1800</Definition>
     </Synset>
     <Synset id="wikidata-de-L493971-S1" ili="wikidata-de-L493971-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1900</Definition>
     </Synset>
     <Synset id="wikidata-de-L496556-S1" ili="wikidata-de-L496556-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>expression of consent</Definition>
     </Synset>
     <Synset id="wikidata-de-L496556-S2" ili="wikidata-de-L496556-S2" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>expression of thoughtfulness</Definition>
     </Synset>
     <Synset id="wikidata-de-L496650-S1" ili="wikidata-de-L496650-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>ew, an expression of disgust</Definition>
     </Synset>
     <Synset id="wikidata-de-L584953-S1" ili="wikidata-de-L584953-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>cheers, toast when drinking alcohol</Definition>
     </Synset>
     <Synset id="wikidata-de-L1143220-S1" ili="wikidata-de-L1143220-S1" partOfSpeech="t">
       <Definition>nur selten, unregelmäßig</Definition>
     </Synset>
     <Synset id="wikidata-de-L1218502-S1" ili="l1218499-s1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>used to wish someone the best of luck and that events will turn out favorably</Definition>
     </Synset>
     <Synset id="wikidata-de-L1228177-S1" ili="wikidata-de-L1228177-S1" partOfSpeech="x">
       <Definition>vorangestelltes Wortbildungselement bei Adjektiven zur Verdeutlichung einer besonders stark ausgeprägten Eigenschaft</Definition>
@@ -3584,15 +3588,19 @@
     </Synset>
     <Synset id="wikidata-de-L6731-S1" ili="l3439-s1" partOfSpeech="p">
       <Definition>Lokal: Bewegung von einer Seite zur anderen oder das Durchqueren eines Hindernisses/Raumes.</Definition>
+      <Example>Der Weg führt durch den Wald.</Example>
     </Synset>
     <Synset id="wikidata-de-L6731-S2" ili="wikidata-de-L6731-S2" partOfSpeech="p">
       <Definition>Instrumental: Vermittlung, Hilfsmittel oder Handlung, die zu einem Ergebnis führt.</Definition>
+      <Example>Wir haben das Problem durch ein Gespräch gelöst.</Example>
     </Synset>
     <Synset id="wikidata-de-L6731-S3" ili="wikidata-de-L6731-S3" partOfSpeech="p">
       <Definition>Kausal: Grund oder Ursache für eine (oft passive) Wirkung.</Definition>
+      <Example>Die Straße wurde durch das Erdbeben zerstört.</Example>
     </Synset>
     <Synset id="wikidata-de-L6731-S4" ili="wikidata-de-L6731-S4" partOfSpeech="p">
       <Definition>Temporal: Während eines gesamten Zeitraums; von Anfang bis Ende.</Definition>
+      <Example>Es hat die ganze Nacht durch stark geregnet.</Example>
     </Synset>
     <Synset id="wikidata-de-L6742-S1" ili="wikidata-de-L6742-S1" partOfSpeech="p">
       <Definition>Präposition und Bestandteil von Adelstiteln</Definition>
@@ -3607,37 +3615,37 @@
       <Definition>Partikel, die Ablehnung, Verneinung, Negation, Widerspruch bekundet, gewöhnlich auf eine Frage</Definition>
     </Synset>
     <Synset id="wikidata-de-L50005-S1" ili="wikidata-de-L50005-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>50</Definition>
     </Synset>
     <Synset id="wikidata-de-L346355-S1" ili="wikidata-de-L346355-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>third-person singular neopronoun</Definition>
     </Synset>
     <Synset id="wikidata-de-L347805-S1" ili="wikidata-de-L347805-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>number 3</Definition>
     </Synset>
     <Synset id="wikidata-de-L356870-S1" ili="wikidata-de-L356870-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>opposite</Definition>
     </Synset>
     <Synset id="wikidata-de-L366640-S1" ili="wikidata-de-L366640-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>instead of</Definition>
     </Synset>
     <Synset id="wikidata-de-L366644-S1" ili="wikidata-de-L366644-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>outside of</Definition>
     </Synset>
     <Synset id="wikidata-de-L409409-S1" ili="wikidata-de-L409409-S1" partOfSpeech="c">
       <Definition>ehe; bevor</Definition>
     </Synset>
     <Synset id="wikidata-de-L409479-S1" ili="wikidata-de-L409479-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>next to</Definition>
     </Synset>
     <Synset id="wikidata-de-L409510-S1" ili="wikidata-de-L409510-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>for the sake of</Definition>
     </Synset>
     <Synset id="wikidata-de-L409606-S1" ili="wikidata-de-L409606-S1" partOfSpeech="c">
       <Definition>so viele Male; sooft</Definition>
     </Synset>
     <Synset id="wikidata-de-L409682-S1" ili="wikidata-de-L409682-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>with the effect that</Definition>
     </Synset>
     <Synset id="wikidata-de-L409700-S1" ili="wikidata-de-L409700-S1" partOfSpeech="m">
       <Definition>Kardinalzahl zwischen neunundzwanzig und einunddreißig</Definition>
@@ -3649,94 +3657,95 @@
       <Definition>Tonsilbe</Definition>
     </Synset>
     <Synset id="wikidata-de-L411089-S1" ili="wikidata-de-L411089-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>yours (singular)</Definition>
     </Synset>
     <Synset id="wikidata-de-L411099-S1" ili="wikidata-de-L411099-S1" partOfSpeech="h">
       <Definition>etwas</Definition>
     </Synset>
     <Synset id="wikidata-de-L413030-S1" ili="wikidata-de-L413030-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>proposed gender-neutral relative pronoun</Definition>
+      <Example>Das Konzert von Planningtorock, dier zuletzt 2011 auf Kampnagel gespielt hat, wird präsentiert</Example>
     </Synset>
     <Synset id="wikidata-de-L451352-S1" ili="wikidata-de-L451352-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>northeast of</Definition>
     </Synset>
     <Synset id="wikidata-de-L451355-S1" ili="wikidata-de-L451355-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>southwest of</Definition>
     </Synset>
     <Synset id="wikidata-de-L493823-S1" ili="wikidata-de-L493823-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 16</Definition>
     </Synset>
     <Synset id="wikidata-de-L493823-S2" ili="wikidata-de-L493823-S2" partOfSpeech="m">
       <Definition>Zahlwort</Definition>
     </Synset>
     <Synset id="wikidata-de-L493836-S1" ili="wikidata-de-L493836-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 29</Definition>
     </Synset>
     <Synset id="wikidata-de-L493841-S1" ili="wikidata-de-L493841-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 36</Definition>
     </Synset>
     <Synset id="wikidata-de-L493848-S1" ili="wikidata-de-L493848-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 43</Definition>
     </Synset>
     <Synset id="wikidata-de-L493851-S1" ili="wikidata-de-L493851-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 46</Definition>
     </Synset>
     <Synset id="wikidata-de-L493865-S1" ili="wikidata-de-L493865-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 61</Definition>
     </Synset>
     <Synset id="wikidata-de-L493868-S1" ili="wikidata-de-L493868-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 64</Definition>
     </Synset>
     <Synset id="wikidata-de-L493873-S1" ili="wikidata-de-L493873-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 69</Definition>
     </Synset>
     <Synset id="wikidata-de-L493879-S1" ili="wikidata-de-L493879-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 75</Definition>
     </Synset>
     <Synset id="wikidata-de-L493896-S1" ili="wikidata-de-L493896-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 92</Definition>
     </Synset>
     <Synset id="wikidata-de-L493927-S1" ili="wikidata-de-L493927-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 7000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493928-S1" ili="wikidata-de-L493928-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 9000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493930-S1" ili="wikidata-de-L493930-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 100,000</Definition>
     </Synset>
     <Synset id="wikidata-de-L493966-S1" ili="wikidata-de-L493966-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>the number 1400</Definition>
     </Synset>
     <Synset id="wikidata-de-L496507-S1" ili="wikidata-de-L496507-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>expresses resignation</Definition>
     </Synset>
     <Synset id="wikidata-de-L496604-S1" ili="wikidata-de-L496604-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yuck</Definition>
     </Synset>
     <Synset id="wikidata-de-L496611-S1" ili="wikidata-de-L496611-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>(expression of physical pain)</Definition>
     </Synset>
     <Synset id="wikidata-de-L496617-S1" ili="wikidata-de-L496617-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>yuck</Definition>
     </Synset>
     <Synset id="wikidata-de-L496618-S1" ili="wikidata-de-L496618-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>shh, sound used to indicate that someone should be quiet</Definition>
     </Synset>
     <Synset id="wikidata-de-L496618-S2" ili="wikidata-de-L496618-S2" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>shoo, sound used to indicate that someone or something should go away</Definition>
     </Synset>
     <Synset id="wikidata-de-L496670-S1" ili="wikidata-de-L496670-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>sound made by a frog or a duck</Definition>
     </Synset>
     <Synset id="wikidata-de-L496721-S1" ili="wikidata-de-L496721-S1" partOfSpeech="i">
       <Definition>Imitation des Bellens eines Hundes</Definition>
     </Synset>
     <Synset id="wikidata-de-L497068-S1" ili="wikidata-de-L497068-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>undefined entity</Definition>
     </Synset>
     <Synset id="wikidata-de-L590992-S1" ili="wikidata-de-L590992-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>cheers, toast when drinking alcohol</Definition>
     </Synset>
     <Synset id="wikidata-de-L716945-S1" ili="wikidata-de-L716945-S1" partOfSpeech="i">
       <Definition>Aufforderung, still oder leise zu sein</Definition>
@@ -3745,16 +3754,16 @@
       <Definition>Entschuldigung</Definition>
     </Synset>
     <Synset id="wikidata-de-L937787-S1" ili="wikidata-de-L937787-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>greeting</Definition>
     </Synset>
     <Synset id="wikidata-de-L1116899-S1" ili="wikidata-de-L1116899-S1" partOfSpeech="i">
-      <Definition></Definition>
+      <Definition>polite response to a &quot;Thank you&quot;</Definition>
     </Synset>
     <Synset id="wikidata-de-L1216989-S1" ili="wikidata-de-L1216989-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>first-person singular pronoun; I</Definition>
     </Synset>
     <Synset id="wikidata-de-L1543329-S1" ili="wikidata-de-L1543329-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>third-person singular possessive pronoun</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

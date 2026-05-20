@@ -11,35 +11,35 @@
     <LexicalEntry id="L1411275">
       <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L1411275-S1" synset="wikidata-an-L1411275-S1" ili="wikidata-an-L1411275-S1">
-        <Definition></Definition>
+        <Definition>of, concerning, about</Definition>
       </Sense>
       <Sense id="L1411275-S2" synset="wikidata-an-L1411275-S2" ili="wikidata-an-L1411275-S2">
-        <Definition></Definition>
+        <Definition>from, away from, down from, out of</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411278">
       <Lemma writtenForm="el" partOfSpeech="d"/>
       <Sense id="L1411278-S1" synset="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1">
-        <Definition></Definition>
+        <Definition>the (definite article)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411277">
       <Lemma writtenForm="d’el" partOfSpeech="a"/>
       <Sense id="L1411277-S1" synset="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1">
-        <Definition></Definition>
+        <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-an-L1411275-S1" ili="wikidata-an-L1411275-S1" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>of, concerning, about</Definition>
     </Synset>
     <Synset id="wikidata-an-L1411275-S2" ili="wikidata-an-L1411275-S2" partOfSpeech="p">
-      <Definition></Definition>
+      <Definition>from, away from, down from, out of</Definition>
     </Synset>
     <Synset id="wikidata-an-L1411278-S1" ili="wikidata-an-L1411278-S1" partOfSpeech="d">
-      <Definition></Definition>
+      <Definition>the (definite article)</Definition>
     </Synset>
     <Synset id="wikidata-an-L1411277-S1" ili="wikidata-an-L1411277-S1" partOfSpeech="a">
-      <Definition></Definition>
+      <Definition>(contracción de la preposición “de” y el artículo “el”)</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

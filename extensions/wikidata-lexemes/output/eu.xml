@@ -367,7 +367,7 @@
     <LexicalEntry id="L707734">
       <Lemma writtenForm="zazpi" partOfSpeech="m"/>
       <Sense id="L707734-S1" synset="wikidata-eu-L707734-S1" ili="wikidata-eu-L707734-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L82686">
@@ -701,13 +701,13 @@
     <LexicalEntry id="L707731">
       <Lemma writtenForm="lau" partOfSpeech="m"/>
       <Sense id="L707731-S1" synset="wikidata-eu-L707731-S1" ili="wikidata-eu-L707731-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707733">
       <Lemma writtenForm="sei" partOfSpeech="m"/>
       <Sense id="L707733-S1" synset="wikidata-eu-L707733-S1" ili="wikidata-eu-L707733-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L204213">
@@ -946,7 +946,7 @@
     <LexicalEntry id="L707737">
       <Lemma writtenForm="hogei" partOfSpeech="m"/>
       <Sense id="L707737-S1" synset="wikidata-eu-L707737-S1" ili="wikidata-eu-L707737-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208713">
@@ -1234,7 +1234,7 @@
     <LexicalEntry id="L707730">
       <Lemma writtenForm="hiru" partOfSpeech="m"/>
       <Sense id="L707730-S1" synset="wikidata-eu-L707730-S1" ili="wikidata-eu-L707730-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208709">
@@ -1834,13 +1834,13 @@
     <LexicalEntry id="L707729">
       <Lemma writtenForm="bi" partOfSpeech="m"/>
       <Sense id="L707729-S1" synset="wikidata-eu-L707729-S1" ili="wikidata-eu-L707729-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707735">
       <Lemma writtenForm="zortzi" partOfSpeech="m"/>
       <Sense id="L707735-S1" synset="wikidata-eu-L707735-S1" ili="wikidata-eu-L707735-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L204215">
@@ -2167,7 +2167,7 @@
     <LexicalEntry id="L707732">
       <Lemma writtenForm="bost" partOfSpeech="m"/>
       <Sense id="L707732-S1" synset="wikidata-eu-L707732-S1" ili="wikidata-eu-L707732-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L204214">
@@ -2518,7 +2518,7 @@
     <LexicalEntry id="L707736">
       <Lemma writtenForm="hamar" partOfSpeech="m"/>
       <Sense id="L707736-S1" synset="wikidata-eu-L707736-S1" ili="wikidata-eu-L707736-S1">
-        <Definition></Definition>
+        <Definition>натуральное число</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-eu-L53266-S1" ili="wikidata-eu-L53266-S1" partOfSpeech="p">
@@ -2700,24 +2700,30 @@
     </Synset>
     <Synset id="wikidata-eu-L349036-S1" ili="wikidata-eu-L349036-S1" partOfSpeech="d">
       <Definition>osoa</Definition>
+      <Example>egun guztian zehar</Example>
     </Synset>
     <Synset id="wikidata-eu-L349036-S2" ili="wikidata-eu-L349036-S2" partOfSpeech="d">
       <Definition>dena, oro</Definition>
+      <Example>guztia dakiela esaten du</Example>
     </Synset>
     <Synset id="wikidata-eu-L349036-S3" ili="wikidata-eu-L349036-S3" partOfSpeech="d">
       <Definition>multzo oso bat, salbuespenik gabe</Definition>
+      <Example>ekarri zituen janari guztiek glutena zuten</Example>
     </Synset>
     <Synset id="wikidata-eu-L349036-S4" ili="wikidata-eu-L349036-S4" partOfSpeech="d">
       <Definition>dena, izena ezabaturik dagoenean</Definition>
+      <Example>Oso futbolzalea naiz, baina, guztien gainetik, Athleticen jarraitzailea naiz.</Example>
     </Synset>
     <Synset id="wikidata-eu-L349036-S5" ili="wikidata-eu-L349036-S5" partOfSpeech="d">
       <Definition>zenbatzailea</Definition>
+      <Example>Zuek guztiok</Example>
     </Synset>
     <Synset id="wikidata-eu-L707734-S1" ili="wikidata-eu-L707734-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L82686-S1" ili="wikidata-eu-L82686-S1" partOfSpeech="t">
       <Definition>balio oso txikia duenaz esaten da</Definition>
+      <Example>kotxeagatik ordaindu duena ez da ahuntzaren gauerdiko eztula</Example>
     </Synset>
     <Synset id="wikidata-eu-L184949-S1" ili="wikidata-eu-L184949-S1" partOfSpeech="c">
       <Definition>Maila edo izaera bereko kontzeptuak lotzen dituen hitza, gehitzeko balio duena</Definition>
@@ -2909,16 +2915,18 @@
       <Definition>zergaduna</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707731-S1" ili="wikidata-eu-L707731-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707733-S1" ili="wikidata-eu-L707733-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L204213-S1" ili="wikidata-eu-L204213-S1" partOfSpeech="c">
       <Definition>Zenbait hitz, sintagma edo perpaus lotzen dituen hitza</Definition>
+      <Example>hau edo hori nahi duzu?</Example>
     </Synset>
     <Synset id="wikidata-eu-L204213-S2" ili="wikidata-eu-L204213-S2" partOfSpeech="c">
       <Definition>zehaztapen handirik gabeko zerbait adierazteko hitza</Definition>
+      <Example>hiru-edo agertu ziren</Example>
     </Synset>
     <Synset id="wikidata-eu-L208711-S1" ili="wikidata-eu-L208711-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
@@ -3044,7 +3052,7 @@
       <Definition>zerbaitekiko zeharka dagoena</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707737-S1" ili="wikidata-eu-L707737-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L208713-S1" ili="wikidata-eu-L208713-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
@@ -3206,7 +3214,7 @@
       <Definition>zuzengabea</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707730-S1" ili="wikidata-eu-L707730-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L208709-S1" ili="wikidata-eu-L208709-S1" partOfSpeech="i">
       <Definition>norbait agurtzeko erabiltzen den diosala</Definition>
@@ -3530,10 +3538,10 @@
       <Definition>bere eskuinean duen hitzaren gauzetako edo pertsonetako bat aditzera ematen duen lexema</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707729-S1" ili="wikidata-eu-L707729-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707735-S1" ili="wikidata-eu-L707735-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L204215-S1" ili="wikidata-eu-L204215-S1" partOfSpeech="c">
       <Definition>berriz, ordea</Definition>
@@ -3543,12 +3551,15 @@
     </Synset>
     <Synset id="wikidata-eu-L204218-S1" ili="wikidata-eu-L204218-S1" partOfSpeech="p">
       <Definition>Aipatzen diren gauzek mugatzen duten leku edo denboran</Definition>
+      <Example>Europa eta Asia artean dago Istanbul</Example>
     </Synset>
     <Synset id="wikidata-eu-L204218-S2" ili="wikidata-eu-L204218-S2" partOfSpeech="p">
       <Definition>Aipatzen direnen erdian, haiekin, haiek parte hartuz, haiekin batera</Definition>
+      <Example>etsaien artean zegoen</Example>
     </Synset>
     <Synset id="wikidata-eu-L204218-S3" ili="wikidata-eu-L204218-S3" partOfSpeech="p">
       <Definition>arte</Definition>
+      <Example>itxoidazu kantatzen dudan artean</Example>
     </Synset>
     <Synset id="wikidata-eu-L204220-S1" ili="wikidata-eu-L204220-S1" partOfSpeech="c">
       <Definition>norbaiten baitan</Definition>
@@ -3704,7 +3715,7 @@
       <Definition>bat baino gehiago</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707732-S1" ili="wikidata-eu-L707732-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
     <Synset id="wikidata-eu-L204214-S1" ili="wikidata-eu-L204214-S1" partOfSpeech="c">
       <Definition>edo hitzaren forma indartua</Definition>
@@ -3893,7 +3904,7 @@
       <Definition>nornahi</Definition>
     </Synset>
     <Synset id="wikidata-eu-L707736-S1" ili="wikidata-eu-L707736-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>натуральное число</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

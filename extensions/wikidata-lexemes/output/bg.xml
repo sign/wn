@@ -11,29 +11,29 @@
     <LexicalEntry id="L941795">
       <Lemma writtenForm="аз" partOfSpeech="h"/>
       <Sense id="L941795-S1" synset="wikidata-bg-L941795-S1" ili="wikidata-bg-L941795-S1">
-        <Definition></Definition>
+        <Definition>I; first-person singular pronoun</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685328">
       <Lemma writtenForm="един" partOfSpeech="m"/>
       <Sense id="L685328-S1" synset="wikidata-bg-L685328-S1" ili="wikidata-bg-L685328-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1219843">
       <Lemma writtenForm="да" partOfSpeech="y"/>
       <Sense id="L1219843-S1" synset="wikidata-bg-L1219843-S1" ili="wikidata-bg-L1219843-S1">
-        <Definition></Definition>
+        <Definition>(used to mark an infinitive)</Definition>
       </Sense>
     </LexicalEntry>
     <Synset id="wikidata-bg-L941795-S1" ili="wikidata-bg-L941795-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>I; first-person singular pronoun</Definition>
     </Synset>
     <Synset id="wikidata-bg-L685328-S1" ili="wikidata-bg-L685328-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-bg-L1219843-S1" ili="wikidata-bg-L1219843-S1" partOfSpeech="y">
-      <Definition></Definition>
+      <Definition>(used to mark an infinitive)</Definition>
     </Synset>
   </LexiconExtension>
 </LexicalResource>

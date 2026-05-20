@@ -17,7 +17,7 @@
     <LexicalEntry id="L500882">
       <Lemma writtenForm="நான்" partOfSpeech="h"/>
       <Sense id="L500882-S1" synset="wikidata-ta-L500882-S1" ili="wikidata-ta-L500882-S1">
-        <Definition></Definition>
+        <Definition>first person singular, I</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1134382">
@@ -29,13 +29,13 @@
     <LexicalEntry id="L684412">
       <Lemma writtenForm="ஒன்று" partOfSpeech="m"/>
       <Sense id="L684412-S1" synset="wikidata-ta-L684412-S1" ili="wikidata-ta-L684412-S1">
-        <Definition></Definition>
+        <Definition>one</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142877">
       <Lemma writtenForm="அது" partOfSpeech="h"/>
       <Sense id="L1142877-S1" synset="wikidata-ta-L1142877-S1" ili="l333971-s1">
-        <Definition></Definition>
+        <Definition>that, indicating something that is far away from both the speaker and the listener</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1227083">
@@ -47,19 +47,19 @@
     <LexicalEntry id="L1171064">
       <Lemma writtenForm="ஐந்து" partOfSpeech="m"/>
       <Sense id="L1171064-S1" synset="wikidata-ta-L1171064-S1" ili="wikidata-ta-L1171064-S1">
-        <Definition></Definition>
+        <Definition>five, a numeral</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1133601">
       <Lemma writtenForm="மற்றும்" partOfSpeech="c"/>
       <Sense id="L1133601-S1" synset="wikidata-ta-L1133601-S1" ili="wikidata-ta-L1133601-S1">
-        <Definition></Definition>
+        <Definition>and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142421">
       <Lemma writtenForm="நீ" partOfSpeech="h"/>
       <Sense id="L1142421-S1" synset="wikidata-ta-L1142421-S1" ili="wikidata-ta-L1142421-S1">
-        <Definition></Definition>
+        <Definition>you, second person pronoun (informal, impolite) Used while talking to person of lower age or of same age, with equal social status. Not used against elder people</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40035">
@@ -78,28 +78,28 @@
       <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத ஆணைச் சுட்டும் பெயர்</Definition>
     </Synset>
     <Synset id="wikidata-ta-L500882-S1" ili="wikidata-ta-L500882-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>first person singular, I</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1134382-S1" ili="wikidata-ta-L1134382-S1" partOfSpeech="a">
       <Definition>அந்த</Definition>
     </Synset>
     <Synset id="wikidata-ta-L684412-S1" ili="wikidata-ta-L684412-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>one</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1142877-S1" ili="l333971-s1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>that, indicating something that is far away from both the speaker and the listener</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1227083-S1" ili="l329-s1" partOfSpeech="m">
       <Definition>1 மற்றும் 3 இடையே உள்ள எண்</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1171064-S1" ili="wikidata-ta-L1171064-S1" partOfSpeech="m">
-      <Definition></Definition>
+      <Definition>five, a numeral</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1133601-S1" ili="wikidata-ta-L1133601-S1" partOfSpeech="c">
-      <Definition></Definition>
+      <Definition>and</Definition>
     </Synset>
     <Synset id="wikidata-ta-L1142421-S1" ili="wikidata-ta-L1142421-S1" partOfSpeech="h">
-      <Definition></Definition>
+      <Definition>you, second person pronoun (informal, impolite) Used while talking to person of lower age or of same age, with equal social status. Not used against elder people</Definition>
     </Synset>
     <Synset id="wikidata-ta-L40035-S2" ili="wikidata-ta-L40035-S2" partOfSpeech="h">
       <Definition>உயர்திணைப் படர்க்கையில் அருகில் இல்லாத பெண்ணைச் சுட்டும் பெயர்</Definition>
