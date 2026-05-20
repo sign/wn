@@ -53,6 +53,17 @@ docker build -t wn .
 docker run -it -p 8080:8080 wn
 ```
 
+> [!NOTE]
+> On hosts that inject IPv6 CIDR entries into `NO_PROXY` (e.g. OrbStack),
+> `httpx` fails to parse the proxy config during `wn download` in the
+> build. Override the proxy build args to work around it:
+> ```sh
+> docker build --network=host \
+>   --build-arg NO_PROXY= --build-arg no_proxy= \
+>   --build-arg HTTP_PROXY= --build-arg HTTPS_PROXY= \
+>   -t wn .
+> ```
+
 ## Getting Started
 
 First, download some data:
