@@ -41,8 +41,8 @@ COMPATIBLE_SCHEMA_HASHES = {
     "4c2728bb7999685d9748ad6245638a210d0f099d",  # form_lexicon_form_covering_index
     "c1ef1e74d47810fd313383cdb8ecb9a2d9aef7db",  # Migrated database with covering index
     "d0c0f0301bdac6f9f1b81a3ec2c12875c06964a3",  # After ANALYZE (sqlite_stat tables)
-    "f439c9bd27f809f64ee42896fb0fc20c5d00fd99",  # Upstream v1.0+ (resilient to maintenance ops)
-    "0ad4cd9d89be2fc8e949331cd443ef414315f199",  # After merge with upstream (Pronunciation/Tag as lexicon elements)
+    "f439c9bd27f809f64ee42896fb0fc20c5d00fd99",  # Upstream v1.0+ maintenance-resilient
+    "0ad4cd9d89be2fc8e949331cd443ef414315f199",  # Pronunciation/Tag as lexicon elements
 }
 
 

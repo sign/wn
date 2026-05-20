@@ -1,9 +1,8 @@
 """Web interface for Wn databases."""
+from contextlib import asynccontextmanager
 from datetime import UTC, datetime
 from functools import lru_cache, wraps
 from urllib.parse import parse_qs, urlencode, urlsplit
-
-from contextlib import asynccontextmanager
 
 from starlette.applications import Starlette  # type: ignore
 from starlette.exceptions import HTTPException  # type: ignore
