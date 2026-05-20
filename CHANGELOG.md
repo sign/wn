@@ -3,6 +3,35 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.3.0]
+
+**Release date: 2026-05-20**
+
+### Added
+
+* `<Synset>` elements in the Wikidata extension XMLs now carry
+  `<Example>` tags, mirrored from their senses. Usage examples now
+  surface through the wn web API on synset endpoints and via
+  `included` in `/words` — e.g. L482 ("you") now returns
+  `"You, in the red shirt: what's your name?"` at
+  `/lexicons/omw-en:1.4/synsets/wikidata-en-L482-S1`.
+* `extensions/wikidata-lexemes/create_extensions.py` falls back to
+  other-language glosses when the lemma language has no gloss
+  (lemma language → English → any available). Eliminates empty
+  `<Definition>` tags across the 130 shipped XMLs.
+
+### Docs
+
+* README documents the `docker build` workaround for hosts that
+  inject IPv6 CIDR entries into `NO_PROXY` (e.g. OrbStack), which
+  breaks `httpx` during the in-image `wn download` step.
+
+### Fixed
+
+* Ruff `UP038` in `wn/_config.py`: replaced `isinstance(x, (str, Path))`
+  with the PEP-604 union form.
+
+
 ## [v1.2.1]
 
 **Release date: 2026-05-20**
