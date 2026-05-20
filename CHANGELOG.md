@@ -3,6 +3,30 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.2.1]
+
+**Release date: 2026-05-20**
+
+### Changed
+
+* Expanded `extensions/wikidata-lexemes/_pos_map.py` with ~120 new label
+  mappings so the regenerated extension XMLs use standard POS codes for
+  noun/verb/adjective/adverb/conjunction/adposition/numeral/pronoun/
+  determiner/particle/phrase variants from Wikidata. The `x` bucket now
+  only holds genuinely non-POS labels (roots, plurals, sub-word affixes,
+  onomatopoeia, etc.). 5,195 entries across 66 languages moved from `x`
+  to a typed code.
+
+### Fixed
+
+* Normalize unmapped POS values in the shipped extension XMLs to `x`
+  (`OTHER`) to match `create_extensions.py`'s contract — previously
+  ~150 verbose Wikidata labels were stored as-is and ended up outside
+  `wn.constants.PARTS_OF_SPEECH`. Reported by Cursor Bugbot on PR #1.
+* Lint failures on main: import-order in `wn/web.py` and two over-long
+  schema-hash comments in `wn/_db.py`.
+
+
 ## [v1.2.0]
 
 **Release date: 2026-05-20**
