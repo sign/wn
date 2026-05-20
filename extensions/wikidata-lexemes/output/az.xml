@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-az" version="1.4"/>
     <LexicalEntry id="L708473">
-      <Lemma writtenForm="bir" partOfSpeech="determiner"/>
+      <Lemma writtenForm="bir" partOfSpeech="d"/>
       <Sense id="L708473-S1" synset="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1">
         <Definition></Definition>
       </Sense>
@@ -21,18 +21,18 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1375549">
-      <Lemma writtenForm="nə" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="nə" partOfSpeech="h"/>
       <Sense id="L1375549-S1" synset="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1">
         <Definition>(sual əvəz)</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1">
+    <Synset id="wikidata-az-L708473-S1" ili="wikidata-az-L708473-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1">
+    <Synset id="wikidata-az-L1375217-S1" ili="wikidata-az-L1375217-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1">
+    <Synset id="wikidata-az-L1375549-S1" ili="wikidata-az-L1375549-S1" partOfSpeech="h">
       <Definition>(sual əvəz)</Definition>
     </Synset>
   </LexiconExtension>

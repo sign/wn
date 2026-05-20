@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-ln" version="1.4"/>
     <LexicalEntry id="L412055">
-      <Lemma writtenForm="ngáí" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ngáí" partOfSpeech="h"/>
       <Sense id="L412055-S1" synset="wikidata-ln-L412055-S1" ili="l487-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L656855">
-      <Lemma writtenForm="yɔ̌" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="yɔ̌" partOfSpeech="h"/>
       <Sense id="L656855-S1" synset="wikidata-ln-L656855-S1" ili="wikidata-ln-L656855-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ln-L412055-S1" ili="l487-s1">
+    <Synset id="wikidata-ln-L412055-S1" ili="l487-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ln-L656855-S1" ili="wikidata-ln-L656855-S1">
+    <Synset id="wikidata-ln-L656855-S1" ili="wikidata-ln-L656855-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

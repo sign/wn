@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-br" version="1.4"/>
     <LexicalEntry id="L35220">
-      <Lemma writtenForm="ur" partOfSpeech="indefinite article"/>
+      <Lemma writtenForm="ur" partOfSpeech="d"/>
       <Sense id="L35220-S1" synset="wikidata-br-L35220-S1" ili="wikidata-br-L35220-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40123">
-      <Lemma writtenForm="abalamour" partOfSpeech="preposition"/>
+      <Lemma writtenForm="abalamour" partOfSpeech="p"/>
       <Sense id="L40123-S1" synset="wikidata-br-L40123-S1" ili="wikidata-br-L40123-S1">
         <Definition></Definition>
       </Sense>
@@ -27,13 +27,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627804">
-      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L627804-S1" synset="wikidata-br-L627804-S1" ili="wikidata-br-L627804-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629705">
-      <Lemma writtenForm="trema" partOfSpeech="preposition"/>
+      <Lemma writtenForm="trema" partOfSpeech="p"/>
       <Sense id="L629705-S1" synset="wikidata-br-L629705-S1" ili="wikidata-br-L629705-S1">
         <Definition></Definition>
       </Sense>
@@ -42,25 +42,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629797">
-      <Lemma writtenForm="eskoaz" partOfSpeech="preposition"/>
+      <Lemma writtenForm="eskoaz" partOfSpeech="p"/>
       <Sense id="L629797-S1" synset="wikidata-br-L629797-S1" ili="wikidata-br-L629797-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630419">
-      <Lemma writtenForm="a-dreuz-penn" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="a-dreuz-penn" partOfSpeech="r"/>
       <Sense id="L630419-S1" synset="wikidata-br-L630419-S1" ili="wikidata-br-L630419-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L738183">
-      <Lemma writtenForm="daou-ugent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="daou-ugent" partOfSpeech="m"/>
       <Sense id="L738183-S1" synset="wikidata-br-L738183-S1" ili="wikidata-br-L738183-S1">
         <Definition>niver 40</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1150536">
-      <Lemma writtenForm="pa" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="pa" partOfSpeech="c"/>
       <Sense id="L1150536-S1" synset="wikidata-br-L1150536-S1" ili="wikidata-br-L1150536-S1">
         <Definition></Definition>
       </Sense>
@@ -69,67 +69,67 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1244598">
-      <Lemma writtenForm="eil" partOfSpeech="numeral"/>
+      <Lemma writtenForm="eil" partOfSpeech="m"/>
       <Sense id="L1244598-S1" synset="wikidata-br-L1244598-S1" ili="wikidata-br-L1244598-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347660">
-      <Lemma writtenForm="pevar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="pevar" partOfSpeech="m"/>
       <Sense id="L347660-S1" synset="wikidata-br-L347660-S1" ili="wikidata-br-L347660-S1">
         <Definition>niver 4</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347750">
-      <Lemma writtenForm="daouzek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="daouzek" partOfSpeech="m"/>
       <Sense id="L347750-S1" synset="wikidata-br-L347750-S1" ili="wikidata-br-L347750-S1">
         <Definition>niver 12</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348048">
-      <Lemma writtenForm="ugent" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ugent" partOfSpeech="m"/>
       <Sense id="L348048-S1" synset="wikidata-br-L348048-S1" ili="wikidata-br-L348048-S1">
         <Definition>niver 20</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409288">
-      <Lemma writtenForm="eñ" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="eñ" partOfSpeech="h"/>
       <Sense id="L409288-S1" synset="wikidata-br-L409288-S1" ili="wikidata-br-L409288-S1">
         <Definition>gour</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409290">
-      <Lemma writtenForm="ni" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ni" partOfSpeech="h"/>
       <Sense id="L409290-S1" synset="wikidata-br-L409290-S1" ili="wikidata-br-L409290-S1">
         <Definition>gour</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L501753">
-      <Lemma writtenForm="da" partOfSpeech="preposition"/>
+      <Lemma writtenForm="da" partOfSpeech="p"/>
       <Sense id="L501753-S1" synset="wikidata-br-L501753-S1" ili="wikidata-br-L501753-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627510">
-      <Lemma writtenForm="balamour" partOfSpeech="preposition"/>
+      <Lemma writtenForm="balamour" partOfSpeech="p"/>
       <Sense id="L627510-S1" synset="wikidata-br-L627510-S1" ili="wikidata-br-L627510-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628272">
-      <Lemma writtenForm="endra" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="endra" partOfSpeech="c"/>
       <Sense id="L628272-S1" synset="wikidata-br-L628272-S1" ili="wikidata-br-L628272-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L631066">
-      <Lemma writtenForm="e-kreiz" partOfSpeech="preposition"/>
+      <Lemma writtenForm="e-kreiz" partOfSpeech="p"/>
       <Sense id="L631066-S1" synset="wikidata-br-L631066-S1" ili="wikidata-br-L631066-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L642119">
-      <Lemma writtenForm="ma" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ma" partOfSpeech="c"/>
       <Sense id="L642119-S1" synset="wikidata-br-L642119-S1" ili="wikidata-br-L642119-S1">
         <Definition></Definition>
       </Sense>
@@ -141,43 +141,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410440">
-      <Lemma writtenForm="e-pad" partOfSpeech="preposition"/>
+      <Lemma writtenForm="e-pad" partOfSpeech="p"/>
       <Sense id="L1410440-S1" synset="wikidata-br-L1410440-S1" ili="wikidata-br-L1410440-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40124">
-      <Lemma writtenForm="abaoe" partOfSpeech="preposition"/>
+      <Lemma writtenForm="abaoe" partOfSpeech="p"/>
       <Sense id="L40124-S1" synset="wikidata-br-L40124-S1" ili="wikidata-br-L40124-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347607">
-      <Lemma writtenForm="unan" partOfSpeech="numeral"/>
+      <Lemma writtenForm="unan" partOfSpeech="m"/>
       <Sense id="L347607-S1" synset="wikidata-br-L347607-S1" ili="wikidata-br-L347607-S1">
         <Definition>niver 1</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348042">
-      <Lemma writtenForm="pevarzek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="pevarzek" partOfSpeech="m"/>
       <Sense id="L348042-S1" synset="wikidata-br-L348042-S1" ili="wikidata-br-L348042-S1">
         <Definition>niver 14</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348045">
-      <Lemma writtenForm="seitek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seitek" partOfSpeech="m"/>
       <Sense id="L348045-S1" synset="wikidata-br-L348045-S1" ili="wikidata-br-L348045-S1">
         <Definition>niver 17</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348046">
-      <Lemma writtenForm="triwec&apos;h" partOfSpeech="numeral"/>
+      <Lemma writtenForm="triwec&apos;h" partOfSpeech="m"/>
       <Sense id="L348046-S1" synset="wikidata-br-L348046-S1" ili="wikidata-br-L348046-S1">
         <Definition>niver 18</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409286">
-      <Lemma writtenForm="me" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="me" partOfSpeech="h"/>
       <Sense id="L409286-S1" synset="wikidata-br-L409286-S1" ili="wikidata-br-L409286-S1">
         <Definition>gour</Definition>
       </Sense>
@@ -189,13 +189,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627699">
-      <Lemma writtenForm="hep" partOfSpeech="preposition"/>
+      <Lemma writtenForm="hep" partOfSpeech="p"/>
       <Sense id="L627699-S1" synset="wikidata-br-L627699-S1" ili="wikidata-br-L627699-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629271">
-      <Lemma writtenForm="e-biou" partOfSpeech="preposition"/>
+      <Lemma writtenForm="e-biou" partOfSpeech="p"/>
       <Sense id="L629271-S1" synset="wikidata-br-L629271-S1" ili="wikidata-br-L629271-S1">
         <Definition></Definition>
       </Sense>
@@ -204,43 +204,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629741">
-      <Lemma writtenForm="léz" partOfSpeech="preposition"/>
+      <Lemma writtenForm="léz" partOfSpeech="p"/>
       <Sense id="L629741-S1" synset="wikidata-br-L629741-S1" ili="wikidata-br-L629741-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L673553">
-      <Lemma writtenForm="ket" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ket" partOfSpeech="y"/>
       <Sense id="L673553-S1" synset="wikidata-br-L673553-S1" ili="wikidata-br-L673553-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1140595">
-      <Lemma writtenForm="evel" partOfSpeech="preposition"/>
+      <Lemma writtenForm="evel" partOfSpeech="p"/>
       <Sense id="L1140595-S1" synset="wikidata-br-L1140595-S1" ili="wikidata-br-L1140595-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35217">
-      <Lemma writtenForm="ar" partOfSpeech="definite article"/>
+      <Lemma writtenForm="ar" partOfSpeech="d"/>
       <Sense id="L35217-S1" synset="wikidata-br-L35217-S1" ili="wikidata-br-L35217-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347664">
-      <Lemma writtenForm="eizh" partOfSpeech="numeral"/>
+      <Lemma writtenForm="eizh" partOfSpeech="m"/>
       <Sense id="L347664-S1" synset="wikidata-br-L347664-S1" ili="wikidata-br-L347664-S1">
         <Definition>niver 8</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347666">
-      <Lemma writtenForm="dek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dek" partOfSpeech="m"/>
       <Sense id="L347666-S1" synset="wikidata-br-L347666-S1" ili="wikidata-br-L347666-S1">
         <Definition>niver 10</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411246">
-      <Lemma writtenForm="evit" partOfSpeech="preposition"/>
+      <Lemma writtenForm="evit" partOfSpeech="p"/>
       <Sense id="L411246-S1" synset="wikidata-br-L411246-S1" ili="wikidata-br-L411246-S1">
         <Definition></Definition>
       </Sense>
@@ -252,13 +252,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626426">
-      <Lemma writtenForm="anez" partOfSpeech="preposition"/>
+      <Lemma writtenForm="anez" partOfSpeech="p"/>
       <Sense id="L626426-S1" synset="wikidata-br-L626426-S1" ili="wikidata-br-L626426-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627413">
-      <Lemma writtenForm="rak" partOfSpeech="preposition"/>
+      <Lemma writtenForm="rak" partOfSpeech="p"/>
       <Sense id="L627413-S1" synset="wikidata-br-L627413-S1" ili="wikidata-br-L627413-S1">
         <Definition></Definition>
       </Sense>
@@ -270,25 +270,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630520">
-      <Lemma writtenForm="war" partOfSpeech="preposition"/>
+      <Lemma writtenForm="war" partOfSpeech="p"/>
       <Sense id="L630520-S1" synset="wikidata-br-L630520-S1" ili="wikidata-br-L630520-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1244596">
-      <Lemma writtenForm="hini" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="hini" partOfSpeech="h"/>
       <Sense id="L1244596-S1" synset="wikidata-br-L1244596-S1" ili="wikidata-br-L1244596-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347661">
-      <Lemma writtenForm="pemp" partOfSpeech="numeral"/>
+      <Lemma writtenForm="pemp" partOfSpeech="m"/>
       <Sense id="L347661-S1" synset="wikidata-br-L347661-S1" ili="wikidata-br-L347661-S1">
         <Definition>niver 5</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409289">
-      <Lemma writtenForm="hi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="hi" partOfSpeech="h"/>
       <Sense id="L409289-S1" synset="wikidata-br-L409289-S1" ili="wikidata-br-L409289-S1">
         <Definition>gour</Definition>
       </Sense>
@@ -300,43 +300,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627104">
-      <Lemma writtenForm="warc&apos;horré" partOfSpeech="preposition"/>
+      <Lemma writtenForm="warc&apos;horré" partOfSpeech="p"/>
       <Sense id="L627104-S1" synset="wikidata-br-L627104-S1" ili="wikidata-br-L627104-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629157">
-      <Lemma writtenForm="keit" partOfSpeech="preposition"/>
+      <Lemma writtenForm="keit" partOfSpeech="p"/>
       <Sense id="L629157-S1" synset="wikidata-br-L629157-S1" ili="wikidata-br-L629157-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629381">
-      <Lemma writtenForm="kent" partOfSpeech="preposition"/>
+      <Lemma writtenForm="kent" partOfSpeech="p"/>
       <Sense id="L629381-S1" synset="wikidata-br-L629381-S1" ili="wikidata-br-L629381-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630293">
-      <Lemma writtenForm="warzu" partOfSpeech="preposition"/>
+      <Lemma writtenForm="warzu" partOfSpeech="p"/>
       <Sense id="L630293-S1" synset="wikidata-br-L630293-S1" ili="wikidata-br-L630293-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630607">
-      <Lemma writtenForm="*eks-" partOfSpeech="preposition"/>
+      <Lemma writtenForm="*eks-" partOfSpeech="p"/>
       <Sense id="L630607-S1" synset="wikidata-br-L630607-S1" ili="wikidata-br-L630607-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641623">
-      <Lemma writtenForm="ac&apos;h" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ac&apos;h" partOfSpeech="i"/>
       <Sense id="L641623-S1" synset="wikidata-br-L641623-S1" ili="wikidata-br-L641623-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1139301">
-      <Lemma writtenForm="a-bouez" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a-bouez" partOfSpeech="p"/>
       <Sense id="L1139301-S1" synset="wikidata-br-L1139301-S1" ili="wikidata-br-L1139301-S1">
         <Definition></Definition>
       </Sense>
@@ -345,7 +345,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1140596">
-      <Lemma writtenForm="ne" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ne" partOfSpeech="y"/>
       <Sense id="L1140596-S1" synset="wikidata-br-L1140596-S1" ili="wikidata-br-L1140596-S1">
         <Definition></Definition>
       </Sense>
@@ -357,7 +357,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1355620">
-      <Lemma writtenForm="diwar-benn" partOfSpeech="preposition"/>
+      <Lemma writtenForm="diwar-benn" partOfSpeech="p"/>
       <Sense id="L1355620-S1" synset="wikidata-br-L1355620-S1" ili="wikidata-br-L1355620-S1">
         <Definition></Definition>
       </Sense>
@@ -366,37 +366,37 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549459">
-      <Lemma writtenForm="a-enep" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a-enep" partOfSpeech="p"/>
       <Sense id="L1549459-S1" synset="wikidata-br-L1549459-S1" ili="wikidata-br-L1549459-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347742">
-      <Lemma writtenForm="trizek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trizek" partOfSpeech="m"/>
       <Sense id="L347742-S1" synset="wikidata-br-L347742-S1" ili="wikidata-br-L347742-S1">
         <Definition>niver 13</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409292">
-      <Lemma writtenForm="int" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="int" partOfSpeech="h"/>
       <Sense id="L409292-S1" synset="wikidata-br-L409292-S1" ili="wikidata-br-L409292-S1">
         <Definition>gour</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L450118">
-      <Lemma writtenForm="pe" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="pe" partOfSpeech="c"/>
       <Sense id="L450118-S1" synset="wikidata-br-L450118-S1" ili="wikidata-br-L450118-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L501759">
-      <Lemma writtenForm="da" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="da" partOfSpeech="h"/>
       <Sense id="L501759-S1" synset="wikidata-br-L501759-S1" ili="wikidata-br-L501759-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627820">
-      <Lemma writtenForm="ouzh" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ouzh" partOfSpeech="p"/>
       <Sense id="L627820-S1" synset="wikidata-br-L627820-S1" ili="wikidata-br-L627820-S1">
         <Definition></Definition>
       </Sense>
@@ -408,13 +408,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628675">
-      <Lemma writtenForm="étréaé" partOfSpeech="preposition"/>
+      <Lemma writtenForm="étréaé" partOfSpeech="p"/>
       <Sense id="L628675-S1" synset="wikidata-br-L628675-S1" ili="wikidata-br-L628675-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629385">
-      <Lemma writtenForm="war-dro" partOfSpeech="preposition"/>
+      <Lemma writtenForm="war-dro" partOfSpeech="p"/>
       <Sense id="L629385-S1" synset="wikidata-br-L629385-S1" ili="wikidata-br-L629385-S1">
         <Definition></Definition>
       </Sense>
@@ -426,19 +426,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629643">
-      <Lemma writtenForm="enep" partOfSpeech="preposition"/>
+      <Lemma writtenForm="enep" partOfSpeech="p"/>
       <Sense id="L629643-S1" synset="wikidata-br-L629643-S1" ili="wikidata-br-L629643-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630322">
-      <Lemma writtenForm="hervez" partOfSpeech="preposition"/>
+      <Lemma writtenForm="hervez" partOfSpeech="p"/>
       <Sense id="L630322-S1" synset="wikidata-br-L630322-S1" ili="wikidata-br-L630322-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410571">
-      <Lemma writtenForm="diouzh" partOfSpeech="preposition"/>
+      <Lemma writtenForm="diouzh" partOfSpeech="p"/>
       <Sense id="L1410571-S1" synset="wikidata-br-L1410571-S1" ili="wikidata-br-L1410571-S1">
         <Definition></Definition>
       </Sense>
@@ -453,49 +453,49 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L56905">
-      <Lemma writtenForm="ha" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ha" partOfSpeech="c"/>
       <Sense id="L56905-S1" synset="wikidata-br-L56905-S1" ili="wikidata-br-L56905-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314191">
-      <Lemma writtenForm="eus" partOfSpeech="preposition"/>
+      <Lemma writtenForm="eus" partOfSpeech="p"/>
       <Sense id="L314191-S1" synset="wikidata-br-L314191-S1" ili="wikidata-br-L314191-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347659">
-      <Lemma writtenForm="tri" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tri" partOfSpeech="m"/>
       <Sense id="L347659-S1" synset="wikidata-br-L347659-S1" ili="wikidata-br-L347659-S1">
         <Definition>niver 3</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347665">
-      <Lemma writtenForm="nav" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nav" partOfSpeech="m"/>
       <Sense id="L347665-S1" synset="wikidata-br-L347665-S1" ili="wikidata-br-L347665-S1">
         <Definition>niver 9</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348043">
-      <Lemma writtenForm="pemzek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="pemzek" partOfSpeech="m"/>
       <Sense id="L348043-S1" synset="wikidata-br-L348043-S1" ili="wikidata-br-L348043-S1">
         <Definition>niver 15</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348044">
-      <Lemma writtenForm="c&apos;hwezek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="c&apos;hwezek" partOfSpeech="m"/>
       <Sense id="L348044-S1" synset="wikidata-br-L348044-S1" ili="wikidata-br-L348044-S1">
         <Definition>niver 16</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348047">
-      <Lemma writtenForm="naontek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="naontek" partOfSpeech="m"/>
       <Sense id="L348047-S1" synset="wikidata-br-L348047-S1" ili="wikidata-br-L348047-S1">
         <Definition>niver 19</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409291">
-      <Lemma writtenForm="c&apos;hwi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="c&apos;hwi" partOfSpeech="h"/>
       <Sense id="L409291-S1" synset="wikidata-br-L409291-S1" ili="wikidata-br-L409291-S1">
         <Definition>gour</Definition>
       </Sense>
@@ -507,7 +507,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L627139">
-      <Lemma writtenForm="etre" partOfSpeech="preposition"/>
+      <Lemma writtenForm="etre" partOfSpeech="p"/>
       <Sense id="L627139-S1" synset="wikidata-br-L627139-S1" ili="wikidata-br-L627139-S1">
         <Definition></Definition>
       </Sense>
@@ -516,7 +516,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628322">
-      <Lemma writtenForm="dre" partOfSpeech="preposition"/>
+      <Lemma writtenForm="dre" partOfSpeech="p"/>
       <Sense id="L628322-S1" synset="wikidata-br-L628322-S1" ili="wikidata-br-L628322-S1">
         <Definition></Definition>
       </Sense>
@@ -525,7 +525,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628349">
-      <Lemma writtenForm="betek" partOfSpeech="preposition"/>
+      <Lemma writtenForm="betek" partOfSpeech="p"/>
       <Sense id="L628349-S1" synset="wikidata-br-L628349-S1" ili="wikidata-br-L628349-S1">
         <Definition></Definition>
       </Sense>
@@ -537,19 +537,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629023">
-      <Lemma writtenForm="dreist" partOfSpeech="preposition"/>
+      <Lemma writtenForm="dreist" partOfSpeech="p"/>
       <Sense id="L629023-S1" synset="wikidata-br-L629023-S1" ili="wikidata-br-L629023-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629838">
-      <Lemma writtenForm="diwar" partOfSpeech="preposition"/>
+      <Lemma writtenForm="diwar" partOfSpeech="p"/>
       <Sense id="L629838-S1" synset="wikidata-br-L629838-S1" ili="wikidata-br-L629838-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630111">
-      <Lemma writtenForm="e-keñver" partOfSpeech="preposition"/>
+      <Lemma writtenForm="e-keñver" partOfSpeech="p"/>
       <Sense id="L630111-S1" synset="wikidata-br-L630111-S1" ili="wikidata-br-L630111-S1">
         <Definition></Definition>
       </Sense>
@@ -561,73 +561,73 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L738180">
-      <Lemma writtenForm="tregont" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tregont" partOfSpeech="m"/>
       <Sense id="L738180-S1" synset="wikidata-br-L738180-S1" ili="wikidata-br-L738180-S1">
         <Definition>niver 30</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1334356">
-      <Lemma writtenForm="egile" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="egile" partOfSpeech="h"/>
       <Sense id="L1334356-S1" synset="wikidata-br-L1334356-S1" ili="wikidata-br-L1334356-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2127">
-      <Lemma writtenForm="piv" partOfSpeech="interrogative word"/>
+      <Lemma writtenForm="piv" partOfSpeech="q"/>
       <Sense id="L2127-S1" synset="wikidata-br-L2127-S1" ili="wikidata-br-L2127-S1">
         <Definition>peseurt den</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L184227">
-      <Lemma writtenForm="gant" partOfSpeech="preposition"/>
+      <Lemma writtenForm="gant" partOfSpeech="p"/>
       <Sense id="L184227-S1" synset="wikidata-br-L184227-S1" ili="wikidata-br-L184227-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347658">
-      <Lemma writtenForm="daou" partOfSpeech="numeral"/>
+      <Lemma writtenForm="daou" partOfSpeech="m"/>
       <Sense id="L347658-S1" synset="wikidata-br-L347658-S1" ili="wikidata-br-L347658-S1">
         <Definition>niver 2</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347662">
-      <Lemma writtenForm="c&apos;hwec&apos;h" partOfSpeech="numeral"/>
+      <Lemma writtenForm="c&apos;hwec&apos;h" partOfSpeech="m"/>
       <Sense id="L347662-S1" synset="wikidata-br-L347662-S1" ili="wikidata-br-L347662-S1">
         <Definition>niver 6</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347663">
-      <Lemma writtenForm="seizh" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seizh" partOfSpeech="m"/>
       <Sense id="L347663-S1" synset="wikidata-br-L347663-S1" ili="wikidata-br-L347663-S1">
         <Definition>niver 7</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347667">
-      <Lemma writtenForm="zero" partOfSpeech="numeral"/>
+      <Lemma writtenForm="zero" partOfSpeech="m"/>
       <Sense id="L347667-S1" synset="wikidata-br-L347667-S1" ili="wikidata-br-L347667-S1">
         <Definition>niver 0</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347673">
-      <Lemma writtenForm="unnek" partOfSpeech="numeral"/>
+      <Lemma writtenForm="unnek" partOfSpeech="m"/>
       <Sense id="L347673-S1" synset="wikidata-br-L347673-S1" ili="wikidata-br-L347673-S1">
         <Definition>niver 11</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409287">
-      <Lemma writtenForm="te" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="te" partOfSpeech="h"/>
       <Sense id="L409287-S1" synset="wikidata-br-L409287-S1" ili="wikidata-br-L409287-S1">
         <Definition>gour</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628155">
-      <Lemma writtenForm="panévéd" partOfSpeech="preposition"/>
+      <Lemma writtenForm="panévéd" partOfSpeech="p"/>
       <Sense id="L628155-S1" synset="wikidata-br-L628155-S1" ili="wikidata-br-L628155-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628715">
-      <Lemma writtenForm="adal" partOfSpeech="preposition"/>
+      <Lemma writtenForm="adal" partOfSpeech="p"/>
       <Sense id="L628715-S1" synset="wikidata-br-L628715-S1" ili="wikidata-br-L628715-S1">
         <Definition></Definition>
       </Sense>
@@ -636,13 +636,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L629999">
-      <Lemma writtenForm="ac&apos;h" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ac&apos;h" partOfSpeech="p"/>
       <Sense id="L629999-S1" synset="wikidata-br-L629999-S1" ili="wikidata-br-L629999-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630547">
-      <Lemma writtenForm="war-lerc&apos;h" partOfSpeech="preposition"/>
+      <Lemma writtenForm="war-lerc&apos;h" partOfSpeech="p"/>
       <Sense id="L630547-S1" synset="wikidata-br-L630547-S1" ili="wikidata-br-L630547-S1">
         <Definition></Definition>
       </Sense>
@@ -651,13 +651,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630603">
-      <Lemma writtenForm="eme" partOfSpeech="preposition"/>
+      <Lemma writtenForm="eme" partOfSpeech="p"/>
       <Sense id="L630603-S1" synset="wikidata-br-L630603-S1" ili="wikidata-br-L630603-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L630624">
-      <Lemma writtenForm="a-bouez-penn" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="a-bouez-penn" partOfSpeech="r"/>
       <Sense id="L630624-S1" synset="wikidata-br-L630624-S1" ili="wikidata-br-L630624-S1">
         <Definition></Definition>
       </Sense>
@@ -669,372 +669,372 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460511">
-      <Lemma writtenForm="pe" partOfSpeech="interrogative word"/>
+      <Lemma writtenForm="pe" partOfSpeech="q"/>
       <Sense id="L1460511-S1" synset="wikidata-br-L1460511-S1" ili="wikidata-br-L1460511-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-br-L35220-S1" ili="wikidata-br-L35220-S1">
+    <Synset id="wikidata-br-L35220-S1" ili="wikidata-br-L35220-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L40123-S1" ili="wikidata-br-L40123-S1">
+    <Synset id="wikidata-br-L40123-S1" ili="wikidata-br-L40123-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L470611-S1" ili="wikidata-br-L470611-S1">
+    <Synset id="wikidata-br-L470611-S1" ili="wikidata-br-L470611-S1" partOfSpeech="locution">
       <Definition>brumenn dour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L627804-S1" ili="wikidata-br-L627804-S1">
+    <Synset id="wikidata-br-L627804-S1" ili="wikidata-br-L627804-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629705-S1" ili="wikidata-br-L629705-S1">
+    <Synset id="wikidata-br-L629705-S1" ili="wikidata-br-L629705-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629705-S2" ili="wikidata-br-L629705-S2">
+    <Synset id="wikidata-br-L629705-S2" ili="wikidata-br-L629705-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629797-S1" ili="wikidata-br-L629797-S1">
+    <Synset id="wikidata-br-L629797-S1" ili="wikidata-br-L629797-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630419-S1" ili="wikidata-br-L630419-S1">
+    <Synset id="wikidata-br-L630419-S1" ili="wikidata-br-L630419-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L738183-S1" ili="wikidata-br-L738183-S1">
+    <Synset id="wikidata-br-L738183-S1" ili="wikidata-br-L738183-S1" partOfSpeech="m">
       <Definition>niver 40</Definition>
     </Synset>
-    <Synset id="wikidata-br-L1150536-S1" ili="wikidata-br-L1150536-S1">
+    <Synset id="wikidata-br-L1150536-S1" ili="wikidata-br-L1150536-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1150536-S2" ili="wikidata-br-L1150536-S2">
+    <Synset id="wikidata-br-L1150536-S2" ili="wikidata-br-L1150536-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1244598-S1" ili="wikidata-br-L1244598-S1">
+    <Synset id="wikidata-br-L1244598-S1" ili="wikidata-br-L1244598-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347660-S1" ili="wikidata-br-L347660-S1">
+    <Synset id="wikidata-br-L347660-S1" ili="wikidata-br-L347660-S1" partOfSpeech="m">
       <Definition>niver 4</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347750-S1" ili="wikidata-br-L347750-S1">
+    <Synset id="wikidata-br-L347750-S1" ili="wikidata-br-L347750-S1" partOfSpeech="m">
       <Definition>niver 12</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348048-S1" ili="wikidata-br-L348048-S1">
+    <Synset id="wikidata-br-L348048-S1" ili="wikidata-br-L348048-S1" partOfSpeech="m">
       <Definition>niver 20</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409288-S1" ili="wikidata-br-L409288-S1">
+    <Synset id="wikidata-br-L409288-S1" ili="wikidata-br-L409288-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409290-S1" ili="wikidata-br-L409290-S1">
+    <Synset id="wikidata-br-L409290-S1" ili="wikidata-br-L409290-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L501753-S1" ili="wikidata-br-L501753-S1">
+    <Synset id="wikidata-br-L501753-S1" ili="wikidata-br-L501753-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627510-S1" ili="wikidata-br-L627510-S1">
+    <Synset id="wikidata-br-L627510-S1" ili="wikidata-br-L627510-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628272-S1" ili="wikidata-br-L628272-S1">
+    <Synset id="wikidata-br-L628272-S1" ili="wikidata-br-L628272-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L631066-S1" ili="wikidata-br-L631066-S1">
+    <Synset id="wikidata-br-L631066-S1" ili="wikidata-br-L631066-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L642119-S1" ili="wikidata-br-L642119-S1">
+    <Synset id="wikidata-br-L642119-S1" ili="wikidata-br-L642119-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L642124-S1" ili="wikidata-br-L642124-S1">
+    <Synset id="wikidata-br-L642124-S1" ili="wikidata-br-L642124-S1" partOfSpeech="verbal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1410440-S1" ili="wikidata-br-L1410440-S1">
+    <Synset id="wikidata-br-L1410440-S1" ili="wikidata-br-L1410440-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L40124-S1" ili="wikidata-br-L40124-S1">
+    <Synset id="wikidata-br-L40124-S1" ili="wikidata-br-L40124-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347607-S1" ili="wikidata-br-L347607-S1">
+    <Synset id="wikidata-br-L347607-S1" ili="wikidata-br-L347607-S1" partOfSpeech="m">
       <Definition>niver 1</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348042-S1" ili="wikidata-br-L348042-S1">
+    <Synset id="wikidata-br-L348042-S1" ili="wikidata-br-L348042-S1" partOfSpeech="m">
       <Definition>niver 14</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348045-S1" ili="wikidata-br-L348045-S1">
+    <Synset id="wikidata-br-L348045-S1" ili="wikidata-br-L348045-S1" partOfSpeech="m">
       <Definition>niver 17</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348046-S1" ili="wikidata-br-L348046-S1">
+    <Synset id="wikidata-br-L348046-S1" ili="wikidata-br-L348046-S1" partOfSpeech="m">
       <Definition>niver 18</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409286-S1" ili="wikidata-br-L409286-S1">
+    <Synset id="wikidata-br-L409286-S1" ili="wikidata-br-L409286-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L470720-S1" ili="wikidata-br-L470720-S1">
+    <Synset id="wikidata-br-L470720-S1" ili="wikidata-br-L470720-S1" partOfSpeech="locution">
       <Definition>anadenn aergelc&apos;h</Definition>
     </Synset>
-    <Synset id="wikidata-br-L627699-S1" ili="wikidata-br-L627699-S1">
+    <Synset id="wikidata-br-L627699-S1" ili="wikidata-br-L627699-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629271-S1" ili="wikidata-br-L629271-S1">
+    <Synset id="wikidata-br-L629271-S1" ili="wikidata-br-L629271-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629271-S2" ili="wikidata-br-L629271-S2">
+    <Synset id="wikidata-br-L629271-S2" ili="wikidata-br-L629271-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629741-S1" ili="wikidata-br-L629741-S1">
+    <Synset id="wikidata-br-L629741-S1" ili="wikidata-br-L629741-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L673553-S1" ili="wikidata-br-L673553-S1">
+    <Synset id="wikidata-br-L673553-S1" ili="wikidata-br-L673553-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1140595-S1" ili="wikidata-br-L1140595-S1">
+    <Synset id="wikidata-br-L1140595-S1" ili="wikidata-br-L1140595-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L35217-S1" ili="wikidata-br-L35217-S1">
+    <Synset id="wikidata-br-L35217-S1" ili="wikidata-br-L35217-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347664-S1" ili="wikidata-br-L347664-S1">
+    <Synset id="wikidata-br-L347664-S1" ili="wikidata-br-L347664-S1" partOfSpeech="m">
       <Definition>niver 8</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347666-S1" ili="wikidata-br-L347666-S1">
+    <Synset id="wikidata-br-L347666-S1" ili="wikidata-br-L347666-S1" partOfSpeech="m">
       <Definition>niver 10</Definition>
     </Synset>
-    <Synset id="wikidata-br-L411246-S1" ili="wikidata-br-L411246-S1">
+    <Synset id="wikidata-br-L411246-S1" ili="wikidata-br-L411246-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L470579-S1" ili="wikidata-br-L470579-S1">
+    <Synset id="wikidata-br-L470579-S1" ili="wikidata-br-L470579-S1" partOfSpeech="locution">
       <Definition>gremm</Definition>
     </Synset>
-    <Synset id="wikidata-br-L626426-S1" ili="wikidata-br-L626426-S1">
+    <Synset id="wikidata-br-L626426-S1" ili="wikidata-br-L626426-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627413-S1" ili="wikidata-br-L627413-S1">
+    <Synset id="wikidata-br-L627413-S1" ili="wikidata-br-L627413-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628614-S1" ili="wikidata-br-L628614-S1">
+    <Synset id="wikidata-br-L628614-S1" ili="wikidata-br-L628614-S1" partOfSpeech="verbal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630520-S1" ili="wikidata-br-L630520-S1">
+    <Synset id="wikidata-br-L630520-S1" ili="wikidata-br-L630520-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1244596-S1" ili="wikidata-br-L1244596-S1">
+    <Synset id="wikidata-br-L1244596-S1" ili="wikidata-br-L1244596-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347661-S1" ili="wikidata-br-L347661-S1">
+    <Synset id="wikidata-br-L347661-S1" ili="wikidata-br-L347661-S1" partOfSpeech="m">
       <Definition>niver 5</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409289-S1" ili="wikidata-br-L409289-S1">
+    <Synset id="wikidata-br-L409289-S1" ili="wikidata-br-L409289-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L470710-S1" ili="wikidata-br-L470710-S1">
+    <Synset id="wikidata-br-L470710-S1" ili="wikidata-br-L470710-S1" partOfSpeech="locution">
       <Definition>prantad</Definition>
     </Synset>
-    <Synset id="wikidata-br-L627104-S1" ili="wikidata-br-L627104-S1">
+    <Synset id="wikidata-br-L627104-S1" ili="wikidata-br-L627104-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629157-S1" ili="wikidata-br-L629157-S1">
+    <Synset id="wikidata-br-L629157-S1" ili="wikidata-br-L629157-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629381-S1" ili="wikidata-br-L629381-S1">
+    <Synset id="wikidata-br-L629381-S1" ili="wikidata-br-L629381-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630293-S1" ili="wikidata-br-L630293-S1">
+    <Synset id="wikidata-br-L630293-S1" ili="wikidata-br-L630293-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630607-S1" ili="wikidata-br-L630607-S1">
+    <Synset id="wikidata-br-L630607-S1" ili="wikidata-br-L630607-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L641623-S1" ili="wikidata-br-L641623-S1">
+    <Synset id="wikidata-br-L641623-S1" ili="wikidata-br-L641623-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1139301-S1" ili="wikidata-br-L1139301-S1">
+    <Synset id="wikidata-br-L1139301-S1" ili="wikidata-br-L1139301-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1139301-S2" ili="wikidata-br-L1139301-S2">
+    <Synset id="wikidata-br-L1139301-S2" ili="wikidata-br-L1139301-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1140596-S1" ili="wikidata-br-L1140596-S1">
+    <Synset id="wikidata-br-L1140596-S1" ili="wikidata-br-L1140596-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1140598-S1" ili="wikidata-br-L1140598-S1">
+    <Synset id="wikidata-br-L1140598-S1" ili="wikidata-br-L1140598-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1355620-S1" ili="wikidata-br-L1355620-S1">
+    <Synset id="wikidata-br-L1355620-S1" ili="wikidata-br-L1355620-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1355620-S2" ili="wikidata-br-L1355620-S2">
+    <Synset id="wikidata-br-L1355620-S2" ili="wikidata-br-L1355620-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1549459-S1" ili="wikidata-br-L1549459-S1">
+    <Synset id="wikidata-br-L1549459-S1" ili="wikidata-br-L1549459-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347742-S1" ili="wikidata-br-L347742-S1">
+    <Synset id="wikidata-br-L347742-S1" ili="wikidata-br-L347742-S1" partOfSpeech="m">
       <Definition>niver 13</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409292-S1" ili="wikidata-br-L409292-S1">
+    <Synset id="wikidata-br-L409292-S1" ili="wikidata-br-L409292-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L450118-S1" ili="wikidata-br-L450118-S1">
+    <Synset id="wikidata-br-L450118-S1" ili="wikidata-br-L450118-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L501759-S1" ili="wikidata-br-L501759-S1">
+    <Synset id="wikidata-br-L501759-S1" ili="wikidata-br-L501759-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627820-S1" ili="wikidata-br-L627820-S1">
+    <Synset id="wikidata-br-L627820-S1" ili="wikidata-br-L627820-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627820-S2" ili="wikidata-br-L627820-S2">
+    <Synset id="wikidata-br-L627820-S2" ili="wikidata-br-L627820-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627820-S3" ili="wikidata-br-L627820-S3">
+    <Synset id="wikidata-br-L627820-S3" ili="wikidata-br-L627820-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628675-S1" ili="wikidata-br-L628675-S1">
+    <Synset id="wikidata-br-L628675-S1" ili="wikidata-br-L628675-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629385-S1" ili="wikidata-br-L629385-S1">
+    <Synset id="wikidata-br-L629385-S1" ili="wikidata-br-L629385-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629385-S2" ili="wikidata-br-L629385-S2">
+    <Synset id="wikidata-br-L629385-S2" ili="wikidata-br-L629385-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629385-S3" ili="wikidata-br-L629385-S3">
+    <Synset id="wikidata-br-L629385-S3" ili="wikidata-br-L629385-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629643-S1" ili="wikidata-br-L629643-S1">
+    <Synset id="wikidata-br-L629643-S1" ili="wikidata-br-L629643-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630322-S1" ili="wikidata-br-L630322-S1">
+    <Synset id="wikidata-br-L630322-S1" ili="wikidata-br-L630322-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1410571-S1" ili="wikidata-br-L1410571-S1">
+    <Synset id="wikidata-br-L1410571-S1" ili="wikidata-br-L1410571-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1410571-S2" ili="wikidata-br-L1410571-S2">
+    <Synset id="wikidata-br-L1410571-S2" ili="wikidata-br-L1410571-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1410571-S3" ili="wikidata-br-L1410571-S3">
+    <Synset id="wikidata-br-L1410571-S3" ili="wikidata-br-L1410571-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1410571-S4" ili="wikidata-br-L1410571-S4">
+    <Synset id="wikidata-br-L1410571-S4" ili="wikidata-br-L1410571-S4" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L56905-S1" ili="wikidata-br-L56905-S1">
+    <Synset id="wikidata-br-L56905-S1" ili="wikidata-br-L56905-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L314191-S1" ili="wikidata-br-L314191-S1">
+    <Synset id="wikidata-br-L314191-S1" ili="wikidata-br-L314191-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347659-S1" ili="wikidata-br-L347659-S1">
+    <Synset id="wikidata-br-L347659-S1" ili="wikidata-br-L347659-S1" partOfSpeech="m">
       <Definition>niver 3</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347665-S1" ili="wikidata-br-L347665-S1">
+    <Synset id="wikidata-br-L347665-S1" ili="wikidata-br-L347665-S1" partOfSpeech="m">
       <Definition>niver 9</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348043-S1" ili="wikidata-br-L348043-S1">
+    <Synset id="wikidata-br-L348043-S1" ili="wikidata-br-L348043-S1" partOfSpeech="m">
       <Definition>niver 15</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348044-S1" ili="wikidata-br-L348044-S1">
+    <Synset id="wikidata-br-L348044-S1" ili="wikidata-br-L348044-S1" partOfSpeech="m">
       <Definition>niver 16</Definition>
     </Synset>
-    <Synset id="wikidata-br-L348047-S1" ili="wikidata-br-L348047-S1">
+    <Synset id="wikidata-br-L348047-S1" ili="wikidata-br-L348047-S1" partOfSpeech="m">
       <Definition>niver 19</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409291-S1" ili="wikidata-br-L409291-S1">
+    <Synset id="wikidata-br-L409291-S1" ili="wikidata-br-L409291-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L469614-S1" ili="wikidata-br-L469614-S1">
+    <Synset id="wikidata-br-L469614-S1" ili="wikidata-br-L469614-S1" partOfSpeech="locution">
       <Definition>gremm</Definition>
     </Synset>
-    <Synset id="wikidata-br-L627139-S1" ili="wikidata-br-L627139-S1">
+    <Synset id="wikidata-br-L627139-S1" ili="wikidata-br-L627139-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L627139-S2" ili="wikidata-br-L627139-S2">
+    <Synset id="wikidata-br-L627139-S2" ili="wikidata-br-L627139-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628322-S1" ili="wikidata-br-L628322-S1">
+    <Synset id="wikidata-br-L628322-S1" ili="wikidata-br-L628322-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628322-S2" ili="wikidata-br-L628322-S2">
+    <Synset id="wikidata-br-L628322-S2" ili="wikidata-br-L628322-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628349-S1" ili="wikidata-br-L628349-S1">
+    <Synset id="wikidata-br-L628349-S1" ili="wikidata-br-L628349-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628349-S2" ili="wikidata-br-L628349-S2">
+    <Synset id="wikidata-br-L628349-S2" ili="wikidata-br-L628349-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628349-S3" ili="wikidata-br-L628349-S3">
+    <Synset id="wikidata-br-L628349-S3" ili="wikidata-br-L628349-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629023-S1" ili="wikidata-br-L629023-S1">
+    <Synset id="wikidata-br-L629023-S1" ili="wikidata-br-L629023-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629838-S1" ili="wikidata-br-L629838-S1">
+    <Synset id="wikidata-br-L629838-S1" ili="wikidata-br-L629838-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630111-S1" ili="wikidata-br-L630111-S1">
+    <Synset id="wikidata-br-L630111-S1" ili="wikidata-br-L630111-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630111-S2" ili="wikidata-br-L630111-S2">
+    <Synset id="wikidata-br-L630111-S2" ili="wikidata-br-L630111-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630111-S3" ili="wikidata-br-L630111-S3">
+    <Synset id="wikidata-br-L630111-S3" ili="wikidata-br-L630111-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L738180-S1" ili="wikidata-br-L738180-S1">
+    <Synset id="wikidata-br-L738180-S1" ili="wikidata-br-L738180-S1" partOfSpeech="m">
       <Definition>niver 30</Definition>
     </Synset>
-    <Synset id="wikidata-br-L1334356-S1" ili="wikidata-br-L1334356-S1">
+    <Synset id="wikidata-br-L1334356-S1" ili="wikidata-br-L1334356-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L2127-S1" ili="wikidata-br-L2127-S1">
+    <Synset id="wikidata-br-L2127-S1" ili="wikidata-br-L2127-S1" partOfSpeech="q">
       <Definition>peseurt den</Definition>
     </Synset>
-    <Synset id="wikidata-br-L184227-S1" ili="wikidata-br-L184227-S1">
+    <Synset id="wikidata-br-L184227-S1" ili="wikidata-br-L184227-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L347658-S1" ili="wikidata-br-L347658-S1">
+    <Synset id="wikidata-br-L347658-S1" ili="wikidata-br-L347658-S1" partOfSpeech="m">
       <Definition>niver 2</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347662-S1" ili="wikidata-br-L347662-S1">
+    <Synset id="wikidata-br-L347662-S1" ili="wikidata-br-L347662-S1" partOfSpeech="m">
       <Definition>niver 6</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347663-S1" ili="wikidata-br-L347663-S1">
+    <Synset id="wikidata-br-L347663-S1" ili="wikidata-br-L347663-S1" partOfSpeech="m">
       <Definition>niver 7</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347667-S1" ili="wikidata-br-L347667-S1">
+    <Synset id="wikidata-br-L347667-S1" ili="wikidata-br-L347667-S1" partOfSpeech="m">
       <Definition>niver 0</Definition>
     </Synset>
-    <Synset id="wikidata-br-L347673-S1" ili="wikidata-br-L347673-S1">
+    <Synset id="wikidata-br-L347673-S1" ili="wikidata-br-L347673-S1" partOfSpeech="m">
       <Definition>niver 11</Definition>
     </Synset>
-    <Synset id="wikidata-br-L409287-S1" ili="wikidata-br-L409287-S1">
+    <Synset id="wikidata-br-L409287-S1" ili="wikidata-br-L409287-S1" partOfSpeech="h">
       <Definition>gour</Definition>
     </Synset>
-    <Synset id="wikidata-br-L628155-S1" ili="wikidata-br-L628155-S1">
+    <Synset id="wikidata-br-L628155-S1" ili="wikidata-br-L628155-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628715-S1" ili="wikidata-br-L628715-S1">
+    <Synset id="wikidata-br-L628715-S1" ili="wikidata-br-L628715-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L628715-S2" ili="wikidata-br-L628715-S2">
+    <Synset id="wikidata-br-L628715-S2" ili="wikidata-br-L628715-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L629999-S1" ili="wikidata-br-L629999-S1">
+    <Synset id="wikidata-br-L629999-S1" ili="wikidata-br-L629999-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630547-S1" ili="wikidata-br-L630547-S1">
+    <Synset id="wikidata-br-L630547-S1" ili="wikidata-br-L630547-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630547-S2" ili="wikidata-br-L630547-S2">
+    <Synset id="wikidata-br-L630547-S2" ili="wikidata-br-L630547-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630603-S1" ili="wikidata-br-L630603-S1">
+    <Synset id="wikidata-br-L630603-S1" ili="wikidata-br-L630603-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L630624-S1" ili="wikidata-br-L630624-S1">
+    <Synset id="wikidata-br-L630624-S1" ili="wikidata-br-L630624-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1217089-S1" ili="wikidata-br-L1217089-S1">
+    <Synset id="wikidata-br-L1217089-S1" ili="wikidata-br-L1217089-S1" partOfSpeech="indefinite adjective">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-br-L1460511-S1" ili="wikidata-br-L1460511-S1">
+    <Synset id="wikidata-br-L1460511-S1" ili="wikidata-br-L1460511-S1" partOfSpeech="q">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

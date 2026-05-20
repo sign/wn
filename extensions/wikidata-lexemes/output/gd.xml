@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-gd" version="1.4"/>
     <LexicalEntry id="L1273369">
-      <Lemma writtenForm="agus" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="agus" partOfSpeech="c"/>
       <Sense id="L1273369-S1" synset="wikidata-gd-L1273369-S1" ili="wikidata-gd-L1273369-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-gd-L1273369-S1" ili="wikidata-gd-L1273369-S1">
+    <Synset id="wikidata-gd-L1273369-S1" ili="wikidata-gd-L1273369-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

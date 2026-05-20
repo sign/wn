@@ -9,14 +9,14 @@
                     version="1.0">
     <Extends id="omw-it" version="1.4"/>
     <LexicalEntry id="L5156">
-      <Lemma writtenForm="tre" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tre" partOfSpeech="m"/>
       <Sense id="L5156-S1" synset="wikidata-it-L5156-S1" ili="wikidata-it-L5156-S1">
         <Definition>numero naturale che segue due e precede quattro</Definition>
         <Example>Pigliami una giovenca di tre anni, ed una capra di tre anni, ed un montone di tre anni</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7402">
-      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L7402-S1" synset="wikidata-it-L7402-S1" ili="wikidata-it-L7402-S1">
         <Definition>verso un posto</Definition>
       </Sense>
@@ -28,26 +28,26 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409873">
-      <Lemma writtenForm="della" partOfSpeech="preposition"/>
+      <Lemma writtenForm="della" partOfSpeech="p"/>
       <Sense id="L409873-S1" synset="wikidata-it-L409873-S1" ili="wikidata-it-L409873-S1">
         <Definition></Definition>
         <Example>Storia della letteratura italiana</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409874">
-      <Lemma writtenForm="dei" partOfSpeech="preposition"/>
+      <Lemma writtenForm="dei" partOfSpeech="p"/>
       <Sense id="L409874-S1" synset="wikidata-it-L409874-S1" ili="wikidata-it-L409874-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409876">
-      <Lemma writtenForm="delle" partOfSpeech="preposition"/>
+      <Lemma writtenForm="delle" partOfSpeech="p"/>
       <Sense id="L409876-S1" synset="wikidata-it-L409876-S1" ili="wikidata-it-L409876-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411104">
-      <Lemma writtenForm="nel" partOfSpeech="preposition"/>
+      <Lemma writtenForm="nel" partOfSpeech="p"/>
       <Sense id="L411104-S1" synset="wikidata-it-L411104-S1" ili="wikidata-it-L411104-S1">
         <Definition>dentro</Definition>
       </Sense>
@@ -56,145 +56,145 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165724">
-      <Lemma writtenForm="alé" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alé" partOfSpeech="i"/>
       <Sense id="L1165724-S1" synset="wikidata-it-L1165724-S1" ili="wikidata-it-L1165724-S1">
         <Definition>usata per esortare, incitare e simili</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165821">
-      <Lemma writtenForm="a meno che" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="a meno che" partOfSpeech="c"/>
       <Sense id="L1165821-S1" synset="wikidata-it-L1165821-S1" ili="wikidata-it-L1165821-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165850">
-      <Lemma writtenForm="dove" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="dove" partOfSpeech="c"/>
       <Sense id="L1165850-S1" synset="wikidata-it-L1165850-S1" ili="wikidata-it-L1165850-S1">
         <Definition>nel luogo in cui</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201776">
-      <Lemma writtenForm="novecento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novecento" partOfSpeech="m"/>
       <Sense id="L1201776-S1" synset="wikidata-it-L1201776-S1" ili="wikidata-it-L1201776-S1">
         <Definition>900</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201787">
-      <Lemma writtenForm="ottomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottomila" partOfSpeech="m"/>
       <Sense id="L1201787-S1" synset="wikidata-it-L1201787-S1" ili="wikidata-it-L1201787-S1">
         <Definition>8000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201814">
-      <Lemma writtenForm="ventisette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventisette" partOfSpeech="m"/>
       <Sense id="L1201814-S1" synset="wikidata-it-L1201814-S1" ili="wikidata-it-L1201814-S1">
         <Definition>27</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201816">
-      <Lemma writtenForm="ventotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventotto" partOfSpeech="m"/>
       <Sense id="L1201816-S1" synset="wikidata-it-L1201816-S1" ili="wikidata-it-L1201816-S1">
         <Definition>28</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201826">
-      <Lemma writtenForm="trentacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentacinque" partOfSpeech="m"/>
       <Sense id="L1201826-S1" synset="wikidata-it-L1201826-S1" ili="wikidata-it-L1201826-S1">
         <Definition>35</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201842">
-      <Lemma writtenForm="quarantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantacinque" partOfSpeech="m"/>
       <Sense id="L1201842-S1" synset="wikidata-it-L1201842-S1" ili="wikidata-it-L1201842-S1">
         <Definition>45</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201845">
-      <Lemma writtenForm="quarantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantasette" partOfSpeech="m"/>
       <Sense id="L1201845-S1" synset="wikidata-it-L1201845-S1" ili="wikidata-it-L1201845-S1">
         <Definition>47</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201861">
-      <Lemma writtenForm="cinquantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantotto" partOfSpeech="m"/>
       <Sense id="L1201861-S1" synset="wikidata-it-L1201861-S1" ili="wikidata-it-L1201861-S1">
         <Definition>58</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201878">
-      <Lemma writtenForm="settanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settanta" partOfSpeech="m"/>
       <Sense id="L1201878-S1" synset="wikidata-it-L1201878-S1" ili="wikidata-it-L1201878-S1">
         <Definition>70</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201918">
-      <Lemma writtenForm="novantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantotto" partOfSpeech="m"/>
       <Sense id="L1201918-S1" synset="wikidata-it-L1201918-S1" ili="wikidata-it-L1201918-S1">
         <Definition>98</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201927">
-      <Lemma writtenForm="duecentodieci" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentodieci" partOfSpeech="m"/>
       <Sense id="L1201927-S1" synset="wikidata-it-L1201927-S1" ili="wikidata-it-L1201927-S1">
         <Definition>210</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201944">
-      <Lemma writtenForm="trecentotrenta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentotrenta" partOfSpeech="m"/>
       <Sense id="L1201944-S1" synset="wikidata-it-L1201944-S1" ili="wikidata-it-L1201944-S1">
         <Definition>330</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201947">
-      <Lemma writtenForm="centomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="centomila" partOfSpeech="m"/>
       <Sense id="L1201947-S1" synset="wikidata-it-L1201947-S1" ili="wikidata-it-L1201947-S1">
         <Definition>100000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1209999">
-      <Lemma writtenForm="ahi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ahi" partOfSpeech="i"/>
       <Sense id="L1209999-S1" synset="wikidata-it-L1209999-S1" ili="wikidata-it-L1209999-S1">
         <Definition>esprime dolore fisico</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1211866">
-      <Lemma writtenForm="tale" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="tale" partOfSpeech="h"/>
       <Sense id="L1211866-S1" synset="wikidata-it-L1211866-S1" ili="wikidata-it-L1211866-S1">
         <Definition>utilizzato per indicare genericamente una persona</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235569">
-      <Lemma writtenForm="tanto" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="tanto" partOfSpeech="h"/>
       <Sense id="L1235569-S1" synset="wikidata-it-L1235569-S1" ili="wikidata-it-L1235569-S1">
         <Definition>molte persone o cose</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1413197">
-      <Lemma writtenForm="attraverso" partOfSpeech="preposition"/>
+      <Lemma writtenForm="attraverso" partOfSpeech="p"/>
       <Sense id="L1413197-S1" synset="wikidata-it-L1413197-S1" ili="wikidata-it-L1413197-S1">
         <Definition>trasversalmente</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1726">
-      <Lemma writtenForm="che" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="che" partOfSpeech="h"/>
       <Sense id="L1726-S1" synset="wikidata-it-L1726-S1" ili="l57-s1">
         <Definition>che cosa, quale oggetto</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1729">
-      <Lemma writtenForm="perché" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="perché" partOfSpeech="h"/>
       <Sense id="L1729-S1" synset="wikidata-it-L1729-S1" ili="wikidata-it-L1729-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5159">
-      <Lemma writtenForm="sei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sei" partOfSpeech="m"/>
       <Sense id="L5159-S1" synset="wikidata-it-L5159-S1" ili="wikidata-it-L5159-S1">
         <Definition>numero naturale che segue cinque e precede sette</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7407">
-      <Lemma writtenForm="per" partOfSpeech="preposition"/>
+      <Lemma writtenForm="per" partOfSpeech="p"/>
       <Sense id="L7407-S1" synset="wikidata-it-L7407-S1" ili="wikidata-it-L7407-S1">
         <Definition>simbolo matematico</Definition>
       </Sense>
@@ -212,25 +212,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8207">
-      <Lemma writtenForm="tuo" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="tuo" partOfSpeech="h"/>
       <Sense id="L8207-S1" synset="wikidata-it-L8207-S1" ili="l494-s1">
         <Definition>che appartiene a te</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8211">
-      <Lemma writtenForm="loro" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="loro" partOfSpeech="h"/>
       <Sense id="L8211-S1" synset="wikidata-it-L8211-S1" ili="l371-s1">
         <Definition>pronome</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409871">
-      <Lemma writtenForm="del" partOfSpeech="preposition"/>
+      <Lemma writtenForm="del" partOfSpeech="p"/>
       <Sense id="L409871-S1" synset="wikidata-it-L409871-S1" ili="wikidata-it-L409871-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640216">
-      <Lemma writtenForm="da parte" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="da parte" partOfSpeech="r"/>
       <Sense id="L640216-S1" synset="wikidata-it-L640216-S1" ili="wikidata-it-L640216-S1">
         <Definition>Messo in serbo con l&apos;intenzione di servirsene o occuparsene in un secondo momento</Definition>
         <Example>Ho messo da parte dei risparmi per ogni evenienza</Example>
@@ -251,139 +251,139 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165787">
-      <Lemma writtenForm="no" partOfSpeech="interjection"/>
+      <Lemma writtenForm="no" partOfSpeech="i"/>
       <Sense id="L1165787-S1" synset="wikidata-it-L1165787-S1" ili="wikidata-it-L1165787-S1">
         <Definition>particella linguistica con cui si esprime dissenso, disdegno, o un parere o giudizio negativo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165814">
-      <Lemma writtenForm="vaffanculo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="vaffanculo" partOfSpeech="i"/>
       <Sense id="L1165814-S1" synset="wikidata-it-L1165814-S1" ili="wikidata-it-L1165814-S1">
         <Definition>espressione offensiva del registro colloquiale basso</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165831">
-      <Lemma writtenForm="anzi" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="anzi" partOfSpeech="c"/>
       <Sense id="L1165831-S1" synset="wikidata-it-L1165831-S1" ili="wikidata-it-L1165831-S1">
         <Definition>con valore avversativo dopo una frase di senso negativo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165855">
-      <Lemma writtenForm="embè" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="embè" partOfSpeech="c"/>
       <Sense id="L1165855-S1" synset="wikidata-it-L1165855-S1" ili="wikidata-it-L1165855-S1">
         <Definition>forma abbreviata di ebbene, di solito usata in forma interrogativa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201766">
-      <Lemma writtenForm="duecento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecento" partOfSpeech="m"/>
       <Sense id="L1201766-S1" synset="wikidata-it-L1201766-S1" ili="wikidata-it-L1201766-S1">
         <Definition>200</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201770">
-      <Lemma writtenForm="cinquecento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquecento" partOfSpeech="m"/>
       <Sense id="L1201770-S1" synset="wikidata-it-L1201770-S1" ili="wikidata-it-L1201770-S1">
         <Definition>500</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201773">
-      <Lemma writtenForm="settecento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settecento" partOfSpeech="m"/>
       <Sense id="L1201773-S1" synset="wikidata-it-L1201773-S1" ili="wikidata-it-L1201773-S1">
         <Definition>700</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201774">
-      <Lemma writtenForm="ottocento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottocento" partOfSpeech="m"/>
       <Sense id="L1201774-S1" synset="wikidata-it-L1201774-S1" ili="wikidata-it-L1201774-S1">
         <Definition>800</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201780">
-      <Lemma writtenForm="quattromila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattromila" partOfSpeech="m"/>
       <Sense id="L1201780-S1" synset="wikidata-it-L1201780-S1" ili="wikidata-it-L1201780-S1">
         <Definition>4000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201800">
-      <Lemma writtenForm="diciotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="diciotto" partOfSpeech="m"/>
       <Sense id="L1201800-S1" synset="wikidata-it-L1201800-S1" ili="wikidata-it-L1201800-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201819">
-      <Lemma writtenForm="trenta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trenta" partOfSpeech="m"/>
       <Sense id="L1201819-S1" synset="wikidata-it-L1201819-S1" ili="wikidata-it-L1201819-S1">
         <Definition>30</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201822">
-      <Lemma writtenForm="trentadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentadue" partOfSpeech="m"/>
       <Sense id="L1201822-S1" synset="wikidata-it-L1201822-S1" ili="wikidata-it-L1201822-S1">
         <Definition>32</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201829">
-      <Lemma writtenForm="trentasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentasette" partOfSpeech="m"/>
       <Sense id="L1201829-S1" synset="wikidata-it-L1201829-S1" ili="wikidata-it-L1201829-S1">
         <Definition>37</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201830">
-      <Lemma writtenForm="trentotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentotto" partOfSpeech="m"/>
       <Sense id="L1201830-S1" synset="wikidata-it-L1201830-S1" ili="wikidata-it-L1201830-S1">
         <Definition>38</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201855">
-      <Lemma writtenForm="cinquantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantaquattro" partOfSpeech="m"/>
       <Sense id="L1201855-S1" synset="wikidata-it-L1201855-S1" ili="wikidata-it-L1201855-S1">
         <Definition>54</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201858">
-      <Lemma writtenForm="cinquantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantasei" partOfSpeech="m"/>
       <Sense id="L1201858-S1" synset="wikidata-it-L1201858-S1" ili="wikidata-it-L1201858-S1">
         <Definition>56</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201872">
-      <Lemma writtenForm="sessantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantasei" partOfSpeech="m"/>
       <Sense id="L1201872-S1" synset="wikidata-it-L1201872-S1" ili="wikidata-it-L1201872-S1">
         <Definition>66</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201894">
-      <Lemma writtenForm="ottantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantuno" partOfSpeech="m"/>
       <Sense id="L1201894-S1" synset="wikidata-it-L1201894-S1" ili="wikidata-it-L1201894-S1">
         <Definition>81</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201898">
-      <Lemma writtenForm="ottantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantaquattro" partOfSpeech="m"/>
       <Sense id="L1201898-S1" synset="wikidata-it-L1201898-S1" ili="wikidata-it-L1201898-S1">
         <Definition>84</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201901">
-      <Lemma writtenForm="ottantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantasei" partOfSpeech="m"/>
       <Sense id="L1201901-S1" synset="wikidata-it-L1201901-S1" ili="wikidata-it-L1201901-S1">
         <Definition>86</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201921">
-      <Lemma writtenForm="centocinquanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="centocinquanta" partOfSpeech="m"/>
       <Sense id="L1201921-S1" synset="wikidata-it-L1201921-S1" ili="wikidata-it-L1201921-S1">
         <Definition>150</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201922">
-      <Lemma writtenForm="centosessanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="centosessanta" partOfSpeech="m"/>
       <Sense id="L1201922-S1" synset="wikidata-it-L1201922-S1" ili="wikidata-it-L1201922-S1">
         <Definition>160</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201960">
-      <Lemma writtenForm="trecentomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentomila" partOfSpeech="m"/>
       <Sense id="L1201960-S1" synset="wikidata-it-L1201960-S1" ili="wikidata-it-L1201960-S1">
         <Definition>300000</Definition>
       </Sense>
@@ -395,25 +395,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1255655">
-      <Lemma writtenForm="altro" partOfSpeech="indefinite pronoun"/>
+      <Lemma writtenForm="altro" partOfSpeech="h"/>
       <Sense id="L1255655-S1" synset="wikidata-it-L1255655-S1" ili="wikidata-it-L1255655-S1">
         <Definition>una diversa persona o cosa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1725">
-      <Lemma writtenForm="chi" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="chi" partOfSpeech="h"/>
       <Sense id="L1725-S1" synset="wikidata-it-L1725-S1" ili="wikidata-it-L1725-S1">
         <Definition>per chiedere di identificare una o più persone</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5163">
-      <Lemma writtenForm="dieci" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dieci" partOfSpeech="m"/>
       <Sense id="L5163-S1" synset="wikidata-it-L5163-S1" ili="wikidata-it-L5163-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7401">
-      <Lemma writtenForm="di" partOfSpeech="preposition"/>
+      <Lemma writtenForm="di" partOfSpeech="p"/>
       <Sense id="L7401-S1" synset="wikidata-it-L7401-S1" ili="l2986-s1">
         <Definition>Indica la composizione di un gruppo</Definition>
         <Example>una mandria di bufali</Example>
@@ -427,13 +427,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21271">
-      <Lemma writtenForm="io" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="io" partOfSpeech="h"/>
       <Sense id="L21271-S1" synset="wikidata-it-L21271-S1" ili="wikidata-it-L21271-S1">
         <Definition>prima persona singolare</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640545">
-      <Lemma writtenForm="in breve" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="in breve" partOfSpeech="r"/>
       <Sense id="L640545-S1" synset="wikidata-it-L640545-S1" ili="wikidata-it-L640545-S1">
         <Definition>in forma succinta, coincisa</Definition>
         <Example>nella mia denuncia ho scritto un resoconto in breve di quanto mi è successo</Example>
@@ -444,169 +444,169 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643346">
-      <Lemma writtenForm="ella" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ella" partOfSpeech="h"/>
       <Sense id="L643346-S1" synset="wikidata-it-L643346-S1" ili="wikidata-it-L643346-S1">
         <Definition>terza persona singolare femminile</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643349">
-      <Lemma writtenForm="esse" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="esse" partOfSpeech="h"/>
       <Sense id="L643349-S1" synset="wikidata-it-L643349-S1" ili="wikidata-it-L643349-S1">
         <Definition>terza persona plurale femminile</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165722">
-      <Lemma writtenForm="alt" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alt" partOfSpeech="i"/>
       <Sense id="L1165722-S1" synset="wikidata-it-L1165722-S1" ili="wikidata-it-L1165722-S1">
         <Definition>comando di interruzione o sospensione repentina di un&apos;azione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165767">
-      <Lemma writtenForm="grazie" partOfSpeech="interjection"/>
+      <Lemma writtenForm="grazie" partOfSpeech="i"/>
       <Sense id="L1165767-S1" synset="wikidata-it-L1165767-S1" ili="wikidata-it-L1165767-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165780">
-      <Lemma writtenForm="merda" partOfSpeech="interjection"/>
+      <Lemma writtenForm="merda" partOfSpeech="i"/>
       <Sense id="L1165780-S1" synset="wikidata-it-L1165780-S1" ili="wikidata-it-L1165780-S1">
         <Definition>esprime contrarietà, rabbia o frustrazione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165793">
-      <Lemma writtenForm="oibò" partOfSpeech="interjection"/>
+      <Lemma writtenForm="oibò" partOfSpeech="i"/>
       <Sense id="L1165793-S1" synset="wikidata-it-L1165793-S1" ili="wikidata-it-L1165793-S1">
         <Definition>indica disapprovazione, talvolta anche negazione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165806">
-      <Lemma writtenForm="strano" partOfSpeech="interjection"/>
+      <Lemma writtenForm="strano" partOfSpeech="i"/>
       <Sense id="L1165806-S1" synset="wikidata-it-L1165806-S1" ili="wikidata-it-L1165806-S1">
         <Definition>espressione di stupore per qualcosa considerato assurdo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201771">
-      <Lemma writtenForm="seicento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seicento" partOfSpeech="m"/>
       <Sense id="L1201771-S1" synset="wikidata-it-L1201771-S1" ili="wikidata-it-L1201771-S1">
         <Definition>600</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201782">
-      <Lemma writtenForm="googol" partOfSpeech="numeral"/>
+      <Lemma writtenForm="googol" partOfSpeech="m"/>
       <Sense id="L1201782-S1" synset="wikidata-it-L1201782-S1" ili="wikidata-it-L1201782-S1">
         <Definition>uno seguito da cento zeri</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201797">
-      <Lemma writtenForm="sedici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sedici" partOfSpeech="m"/>
       <Sense id="L1201797-S1" synset="wikidata-it-L1201797-S1" ili="wikidata-it-L1201797-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201799">
-      <Lemma writtenForm="diciassette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="diciassette" partOfSpeech="m"/>
       <Sense id="L1201799-S1" synset="wikidata-it-L1201799-S1" ili="wikidata-it-L1201799-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201803">
-      <Lemma writtenForm="venti" partOfSpeech="numeral"/>
+      <Lemma writtenForm="venti" partOfSpeech="m"/>
       <Sense id="L1201803-S1" synset="wikidata-it-L1201803-S1" ili="wikidata-it-L1201803-S1">
         <Definition>20</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201825">
-      <Lemma writtenForm="trentaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentaquattro" partOfSpeech="m"/>
       <Sense id="L1201825-S1" synset="wikidata-it-L1201825-S1" ili="wikidata-it-L1201825-S1">
         <Definition>34</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201828">
-      <Lemma writtenForm="trentasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentasei" partOfSpeech="m"/>
       <Sense id="L1201828-S1" synset="wikidata-it-L1201828-S1" ili="wikidata-it-L1201828-S1">
         <Definition>36</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201833">
-      <Lemma writtenForm="trentanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentanove" partOfSpeech="m"/>
       <Sense id="L1201833-S1" synset="wikidata-it-L1201833-S1" ili="wikidata-it-L1201833-S1">
         <Definition>39</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201843">
-      <Lemma writtenForm="quarantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantasei" partOfSpeech="m"/>
       <Sense id="L1201843-S1" synset="wikidata-it-L1201843-S1" ili="wikidata-it-L1201843-S1">
         <Definition>46</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201866">
-      <Lemma writtenForm="sessantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantadue" partOfSpeech="m"/>
       <Sense id="L1201866-S1" synset="wikidata-it-L1201866-S1" ili="wikidata-it-L1201866-S1">
         <Definition>62</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201875">
-      <Lemma writtenForm="sessantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantotto" partOfSpeech="m"/>
       <Sense id="L1201875-S1" synset="wikidata-it-L1201875-S1" ili="wikidata-it-L1201875-S1">
         <Definition>68</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201888">
-      <Lemma writtenForm="settantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantasette" partOfSpeech="m"/>
       <Sense id="L1201888-S1" synset="wikidata-it-L1201888-S1" ili="wikidata-it-L1201888-S1">
         <Definition>77</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201889">
-      <Lemma writtenForm="settantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantotto" partOfSpeech="m"/>
       <Sense id="L1201889-S1" synset="wikidata-it-L1201889-S1" ili="wikidata-it-L1201889-S1">
         <Definition>78</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201895">
-      <Lemma writtenForm="ottantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantadue" partOfSpeech="m"/>
       <Sense id="L1201895-S1" synset="wikidata-it-L1201895-S1" ili="wikidata-it-L1201895-S1">
         <Definition>82</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201924">
-      <Lemma writtenForm="centottanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="centottanta" partOfSpeech="m"/>
       <Sense id="L1201924-S1" synset="wikidata-it-L1201924-S1" ili="wikidata-it-L1201924-S1">
         <Definition>180</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201936">
-      <Lemma writtenForm="settecentocinquanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settecentocinquanta" partOfSpeech="m"/>
       <Sense id="L1201936-S1" synset="wikidata-it-L1201936-S1" ili="wikidata-it-L1201936-S1">
         <Definition>750</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201938">
-      <Lemma writtenForm="trecentodieci" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentodieci" partOfSpeech="m"/>
       <Sense id="L1201938-S1" synset="wikidata-it-L1201938-S1" ili="wikidata-it-L1201938-S1">
         <Definition>310</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201943">
-      <Lemma writtenForm="trecentosettanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentosettanta" partOfSpeech="m"/>
       <Sense id="L1201943-S1" synset="wikidata-it-L1201943-S1" ili="wikidata-it-L1201943-S1">
         <Definition>370</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201963">
-      <Lemma writtenForm="undicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="undicimila" partOfSpeech="m"/>
       <Sense id="L1201963-S1" synset="wikidata-it-L1201963-S1" ili="wikidata-it-L1201963-S1">
         <Definition>11000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1213311">
-      <Lemma writtenForm="chiunque" partOfSpeech="indefinite pronoun"/>
+      <Lemma writtenForm="chiunque" partOfSpeech="h"/>
       <Sense id="L1213311-S1" synset="wikidata-it-L1213311-S1" ili="wikidata-it-L1213311-S1">
         <Definition>qualunque persona</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1413650">
-      <Lemma writtenForm="cin cin" partOfSpeech="interjection"/>
+      <Lemma writtenForm="cin cin" partOfSpeech="i"/>
       <Sense id="L1413650-S1" synset="wikidata-it-L1413650-S1" ili="wikidata-it-L1413650-S1">
         <Definition>alla salute, alla tua</Definition>
       </Sense>
@@ -618,49 +618,49 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5154">
-      <Lemma writtenForm="uno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="uno" partOfSpeech="m"/>
       <Sense id="L5154-S1" synset="wikidata-it-L5154-S1" ili="l327-s1">
         <Definition>cardinale</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5160">
-      <Lemma writtenForm="sette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sette" partOfSpeech="m"/>
       <Sense id="L5160-S1" synset="wikidata-it-L5160-S1" ili="wikidata-it-L5160-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7404">
-      <Lemma writtenForm="in" partOfSpeech="preposition"/>
+      <Lemma writtenForm="in" partOfSpeech="p"/>
       <Sense id="L7404-S1" synset="wikidata-it-L7404-S1" ili="l2987-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8480">
-      <Lemma writtenForm="uno" partOfSpeech="indefinite article"/>
+      <Lemma writtenForm="uno" partOfSpeech="d"/>
       <Sense id="L8480-S2" synset="wikidata-it-L8480-S2" ili="wikidata-it-L8480-S2">
         <Definition>articolo indeterminato che accompagna un elemento non meglio identificato</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21275">
-      <Lemma writtenForm="noi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="noi" partOfSpeech="h"/>
       <Sense id="L21275-S1" synset="wikidata-it-L21275-S1" ili="wikidata-it-L21275-S1">
         <Definition>prima persona plurale</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L313550">
-      <Lemma writtenForm="ciao" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ciao" partOfSpeech="i"/>
       <Sense id="L313550-S1" synset="wikidata-it-L313550-S1" ili="l8885-s1">
         <Definition>saluto</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640447">
-      <Lemma writtenForm="a memoria d’uomo" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="a memoria d’uomo" partOfSpeech="r"/>
       <Sense id="L640447-S1" synset="wikidata-it-L640447-S1" ili="wikidata-it-L640447-S1">
         <Definition>detto di qualcosa che non era mai successo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L642867">
-      <Lemma writtenForm="allo" partOfSpeech="preposition"/>
+      <Lemma writtenForm="allo" partOfSpeech="p"/>
       <Sense id="L642867-S1" synset="wikidata-it-L642867-S1" ili="wikidata-it-L642867-S1">
         <Definition></Definition>
       </Sense>
@@ -669,182 +669,182 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643347">
-      <Lemma writtenForm="voi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="voi" partOfSpeech="h"/>
       <Sense id="L643347-S1" synset="wikidata-it-L643347-S1" ili="wikidata-it-L643347-S1">
         <Definition>seconda persona plurale</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165762">
-      <Lemma writtenForm="fica" partOfSpeech="interjection"/>
+      <Lemma writtenForm="fica" partOfSpeech="i"/>
       <Sense id="L1165762-S1" synset="wikidata-it-L1165762-S1" ili="wikidata-it-L1165762-S1">
         <Definition>termine volgare per indicare i genitali femminili</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201779">
-      <Lemma writtenForm="tremila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tremila" partOfSpeech="m"/>
       <Sense id="L1201779-S1" synset="wikidata-it-L1201779-S1" ili="wikidata-it-L1201779-S1">
         <Definition>3000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201807">
-      <Lemma writtenForm="ventidue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventidue" partOfSpeech="m"/>
       <Sense id="L1201807-S1" synset="wikidata-it-L1201807-S1" ili="wikidata-it-L1201807-S1">
         <Definition>22</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201813">
-      <Lemma writtenForm="ventisei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventisei" partOfSpeech="m"/>
       <Sense id="L1201813-S1" synset="wikidata-it-L1201813-S1" ili="wikidata-it-L1201813-S1">
         <Definition>26</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201820">
-      <Lemma writtenForm="trentuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentuno" partOfSpeech="m"/>
       <Sense id="L1201820-S1" synset="wikidata-it-L1201820-S1" ili="wikidata-it-L1201820-S1">
         <Definition>31</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201849">
-      <Lemma writtenForm="cinquanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquanta" partOfSpeech="m"/>
       <Sense id="L1201849-S1" synset="wikidata-it-L1201849-S1" ili="wikidata-it-L1201849-S1">
         <Definition>50</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201850">
-      <Lemma writtenForm="cinquantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantuno" partOfSpeech="m"/>
       <Sense id="L1201850-S1" synset="wikidata-it-L1201850-S1" ili="wikidata-it-L1201850-S1">
         <Definition>51</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201852">
-      <Lemma writtenForm="cinquantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantadue" partOfSpeech="m"/>
       <Sense id="L1201852-S1" synset="wikidata-it-L1201852-S1" ili="wikidata-it-L1201852-S1">
         <Definition>52</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201853">
-      <Lemma writtenForm="cinquantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantatré" partOfSpeech="m"/>
       <Sense id="L1201853-S1" synset="wikidata-it-L1201853-S1" ili="wikidata-it-L1201853-S1">
         <Definition>53</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201868">
-      <Lemma writtenForm="sessantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantatré" partOfSpeech="m"/>
       <Sense id="L1201868-S1" synset="wikidata-it-L1201868-S1" ili="wikidata-it-L1201868-S1">
         <Definition>63</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201869">
-      <Lemma writtenForm="sessantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantaquattro" partOfSpeech="m"/>
       <Sense id="L1201869-S1" synset="wikidata-it-L1201869-S1" ili="wikidata-it-L1201869-S1">
         <Definition>64</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201874">
-      <Lemma writtenForm="sessantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantasette" partOfSpeech="m"/>
       <Sense id="L1201874-S1" synset="wikidata-it-L1201874-S1" ili="wikidata-it-L1201874-S1">
         <Definition>67</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201884">
-      <Lemma writtenForm="settantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantaquattro" partOfSpeech="m"/>
       <Sense id="L1201884-S1" synset="wikidata-it-L1201884-S1" ili="wikidata-it-L1201884-S1">
         <Definition>74</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201891">
-      <Lemma writtenForm="settantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantanove" partOfSpeech="m"/>
       <Sense id="L1201891-S1" synset="wikidata-it-L1201891-S1" ili="wikidata-it-L1201891-S1">
         <Definition>79</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201907">
-      <Lemma writtenForm="novanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novanta" partOfSpeech="m"/>
       <Sense id="L1201907-S1" synset="wikidata-it-L1201907-S1" ili="wikidata-it-L1201907-S1">
         <Definition>90</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201910">
-      <Lemma writtenForm="novantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantadue" partOfSpeech="m"/>
       <Sense id="L1201910-S1" synset="wikidata-it-L1201910-S1" ili="wikidata-it-L1201910-S1">
         <Definition>92</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201920">
-      <Lemma writtenForm="novantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantanove" partOfSpeech="m"/>
       <Sense id="L1201920-S1" synset="wikidata-it-L1201920-S1" ili="wikidata-it-L1201920-S1">
         <Definition>99</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201928">
-      <Lemma writtenForm="duecentonovanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentonovanta" partOfSpeech="m"/>
       <Sense id="L1201928-S1" synset="wikidata-it-L1201928-S1" ili="wikidata-it-L1201928-S1">
         <Definition>290</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201930">
-      <Lemma writtenForm="duecentosessanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentosessanta" partOfSpeech="m"/>
       <Sense id="L1201930-S1" synset="wikidata-it-L1201930-S1" ili="wikidata-it-L1201930-S1">
         <Definition>260</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201940">
-      <Lemma writtenForm="trecentonovanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentonovanta" partOfSpeech="m"/>
       <Sense id="L1201940-S1" synset="wikidata-it-L1201940-S1" ili="wikidata-it-L1201940-S1">
         <Definition>390</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201941">
-      <Lemma writtenForm="trecentosessanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentosessanta" partOfSpeech="m"/>
       <Sense id="L1201941-S1" synset="wikidata-it-L1201941-S1" ili="wikidata-it-L1201941-S1">
         <Definition>360</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1333728">
-      <Lemma writtenForm="millecento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="millecento" partOfSpeech="m"/>
       <Sense id="L1333728-S1" synset="wikidata-it-L1333728-S1" ili="wikidata-it-L1333728-S1">
         <Definition>numero</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1727">
-      <Lemma writtenForm="quando" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="quando" partOfSpeech="h"/>
       <Sense id="L1727-S1" synset="wikidata-it-L1727-S1" ili="wikidata-it-L1727-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2774">
-      <Lemma writtenForm="e" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="e" partOfSpeech="c"/>
       <Sense id="L2774-S1" synset="wikidata-it-L2774-S1" ili="l1385-s1">
         <Definition>congiunzione semplice, copulativa e positiva</Definition>
         <Example>Erbaggi e legumi</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L2779">
-      <Lemma writtenForm="o" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="o" partOfSpeech="c"/>
       <Sense id="L2779-S1" synset="wikidata-it-L2779-S1" ili="wikidata-it-L2779-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5155">
-      <Lemma writtenForm="due" partOfSpeech="numeral"/>
+      <Lemma writtenForm="due" partOfSpeech="m"/>
       <Sense id="L5155-S1" synset="wikidata-it-L5155-S1" ili="wikidata-it-L5155-S1">
         <Definition>una coppia di</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5158">
-      <Lemma writtenForm="cinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinque" partOfSpeech="m"/>
       <Sense id="L5158-S1" synset="wikidata-it-L5158-S1" ili="wikidata-it-L5158-S1">
         <Definition>cardinale</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7406">
-      <Lemma writtenForm="su" partOfSpeech="preposition"/>
+      <Lemma writtenForm="su" partOfSpeech="p"/>
       <Sense id="L7406-S2" synset="wikidata-it-L7406-S2" ili="l2260-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7409">
-      <Lemma writtenForm="fra" partOfSpeech="preposition"/>
+      <Lemma writtenForm="fra" partOfSpeech="p"/>
       <Sense id="L7409-S1" synset="wikidata-it-L7409-S1" ili="l3412-s1">
         <Definition>in mezzo a</Definition>
         <SenseRelation relType="similar" target="wikidata-it-L7408-S1"/>
@@ -857,91 +857,91 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1145114">
-      <Lemma writtenForm="cinquecentomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquecentomila" partOfSpeech="m"/>
       <Sense id="L1145114-S1" synset="wikidata-it-L1145114-S1" ili="wikidata-it-L1145114-S1">
         <Definition>500000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165727">
-      <Lemma writtenForm="aria" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aria" partOfSpeech="i"/>
       <Sense id="L1165727-S1" synset="wikidata-it-L1165727-S1" ili="wikidata-it-L1165727-S1">
         <Definition>&quot;vattene via&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165781">
-      <Lemma writtenForm="miao" partOfSpeech="interjection"/>
+      <Lemma writtenForm="miao" partOfSpeech="i"/>
       <Sense id="L1165781-S1" synset="wikidata-it-L1165781-S1" ili="wikidata-it-L1165781-S1">
         <Definition>termine onomatopeico per indicare il caratteristico verso del gatto</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165816">
-      <Lemma writtenForm="via" partOfSpeech="interjection"/>
+      <Lemma writtenForm="via" partOfSpeech="i"/>
       <Sense id="L1165816-S1" synset="wikidata-it-L1165816-S1" ili="wikidata-it-L1165816-S1">
         <Definition>come segnale di partenza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165829">
-      <Lemma writtenForm="anco" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="anco" partOfSpeech="c"/>
       <Sense id="L1165829-S1" synset="wikidata-it-L1165829-S1" ili="wikidata-it-L1165829-S1">
         <Definition>anche</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165861">
-      <Lemma writtenForm="fin" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="fin" partOfSpeech="c"/>
       <Sense id="L1165861-S1" synset="wikidata-it-L1165861-S1" ili="wikidata-it-L1165861-S1">
         <Definition>persino, perfino</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165877">
-      <Lemma writtenForm="mentre" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="mentre" partOfSpeech="c"/>
       <Sense id="L1165877-S1" synset="wikidata-it-L1165877-S1" ili="l3318-s1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201777">
-      <Lemma writtenForm="duemila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duemila" partOfSpeech="m"/>
       <Sense id="L1201777-S1" synset="wikidata-it-L1201777-S1" ili="wikidata-it-L1201777-S1">
         <Definition>2000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201806">
-      <Lemma writtenForm="googolplex" partOfSpeech="numeral"/>
+      <Lemma writtenForm="googolplex" partOfSpeech="m"/>
       <Sense id="L1201806-S1" synset="wikidata-it-L1201806-S1" ili="wikidata-it-L1201806-S1">
         <Definition>uno seguito da un googol di zeri</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201809">
-      <Lemma writtenForm="ventitré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventitré" partOfSpeech="m"/>
       <Sense id="L1201809-S1" synset="wikidata-it-L1201809-S1" ili="wikidata-it-L1201809-S1">
         <Definition>23</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201810">
-      <Lemma writtenForm="ventiquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventiquattro" partOfSpeech="m"/>
       <Sense id="L1201810-S1" synset="wikidata-it-L1201810-S1" ili="wikidata-it-L1201810-S1">
         <Definition>24</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201817">
-      <Lemma writtenForm="ventinove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventinove" partOfSpeech="m"/>
       <Sense id="L1201817-S1" synset="wikidata-it-L1201817-S1" ili="wikidata-it-L1201817-S1">
         <Definition>29</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201840">
-      <Lemma writtenForm="quarantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantaquattro" partOfSpeech="m"/>
       <Sense id="L1201840-S1" synset="wikidata-it-L1201840-S1" ili="wikidata-it-L1201840-S1">
         <Definition>44</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201865">
-      <Lemma writtenForm="sessantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantuno" partOfSpeech="m"/>
       <Sense id="L1201865-S1" synset="wikidata-it-L1201865-S1" ili="wikidata-it-L1201865-S1">
         <Definition>61</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201876">
-      <Lemma writtenForm="sessantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantanove" partOfSpeech="m"/>
       <Sense id="L1201876-S1" synset="wikidata-it-L1201876-S1" ili="wikidata-it-L1201876-S1">
         <Definition>69</Definition>
       </Sense>
@@ -950,151 +950,151 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201881">
-      <Lemma writtenForm="settantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantadue" partOfSpeech="m"/>
       <Sense id="L1201881-S1" synset="wikidata-it-L1201881-S1" ili="wikidata-it-L1201881-S1">
         <Definition>72</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201886">
-      <Lemma writtenForm="settantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantasei" partOfSpeech="m"/>
       <Sense id="L1201886-S1" synset="wikidata-it-L1201886-S1" ili="wikidata-it-L1201886-S1">
         <Definition>76</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201902">
-      <Lemma writtenForm="ottantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantasette" partOfSpeech="m"/>
       <Sense id="L1201902-S1" synset="wikidata-it-L1201902-S1" ili="wikidata-it-L1201902-S1">
         <Definition>87</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201904">
-      <Lemma writtenForm="ottantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantotto" partOfSpeech="m"/>
       <Sense id="L1201904-S1" synset="wikidata-it-L1201904-S1" ili="wikidata-it-L1201904-S1">
         <Definition>88</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201905">
-      <Lemma writtenForm="ottantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantanove" partOfSpeech="m"/>
       <Sense id="L1201905-S1" synset="wikidata-it-L1201905-S1" ili="wikidata-it-L1201905-S1">
         <Definition>89</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201908">
-      <Lemma writtenForm="novantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantuno" partOfSpeech="m"/>
       <Sense id="L1201908-S1" synset="wikidata-it-L1201908-S1" ili="wikidata-it-L1201908-S1">
         <Definition>91</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201911">
-      <Lemma writtenForm="novantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantatré" partOfSpeech="m"/>
       <Sense id="L1201911-S1" synset="wikidata-it-L1201911-S1" ili="wikidata-it-L1201911-S1">
         <Definition>93</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201914">
-      <Lemma writtenForm="novantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantacinque" partOfSpeech="m"/>
       <Sense id="L1201914-S1" synset="wikidata-it-L1201914-S1" ili="wikidata-it-L1201914-S1">
         <Definition>95</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201915">
-      <Lemma writtenForm="novantasei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantasei" partOfSpeech="m"/>
       <Sense id="L1201915-S1" synset="wikidata-it-L1201915-S1" ili="wikidata-it-L1201915-S1">
         <Definition>96</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201933">
-      <Lemma writtenForm="duecentottanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentottanta" partOfSpeech="m"/>
       <Sense id="L1201933-S1" synset="wikidata-it-L1201933-S1" ili="wikidata-it-L1201933-S1">
         <Definition>280</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201934">
-      <Lemma writtenForm="duecentoventi" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentoventi" partOfSpeech="m"/>
       <Sense id="L1201934-S1" synset="wikidata-it-L1201934-S1" ili="wikidata-it-L1201934-S1">
         <Definition>220</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201949">
-      <Lemma writtenForm="diecimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="diecimila" partOfSpeech="m"/>
       <Sense id="L1201949-S1" synset="wikidata-it-L1201949-S1" ili="wikidata-it-L1201949-S1">
         <Definition>10000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201950">
-      <Lemma writtenForm="dodicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dodicimila" partOfSpeech="m"/>
       <Sense id="L1201950-S1" synset="wikidata-it-L1201950-S1" ili="wikidata-it-L1201950-S1">
         <Definition>12000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201952">
-      <Lemma writtenForm="duecentomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentomila" partOfSpeech="m"/>
       <Sense id="L1201952-S1" synset="wikidata-it-L1201952-S1" ili="wikidata-it-L1201952-S1">
         <Definition>200000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201956">
-      <Lemma writtenForm="quattrocentomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattrocentomila" partOfSpeech="m"/>
       <Sense id="L1201956-S1" synset="wikidata-it-L1201956-S1" ili="wikidata-it-L1201956-S1">
         <Definition>400000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201957">
-      <Lemma writtenForm="quindicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quindicimila" partOfSpeech="m"/>
       <Sense id="L1201957-S1" synset="wikidata-it-L1201957-S1" ili="wikidata-it-L1201957-S1">
         <Definition>15000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1233763">
-      <Lemma writtenForm="cui" partOfSpeech="relative pronoun"/>
+      <Lemma writtenForm="cui" partOfSpeech="h"/>
       <Sense id="L1233763-S1" synset="wikidata-it-L1233763-S1" ili="wikidata-it-L1233763-S1">
         <Definition>quale, che</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5157">
-      <Lemma writtenForm="quattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattro" partOfSpeech="m"/>
       <Sense id="L5157-S1" synset="wikidata-it-L5157-S1" ili="wikidata-it-L5157-S1">
         <Definition>cardinale</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7405">
-      <Lemma writtenForm="con" partOfSpeech="preposition"/>
+      <Lemma writtenForm="con" partOfSpeech="p"/>
       <Sense id="L7405-S1" synset="wikidata-it-L7405-S1" ili="l2991-s1">
         <Definition>indica compagnia o unione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8206">
-      <Lemma writtenForm="mio" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="mio" partOfSpeech="h"/>
       <Sense id="L8206-S1" synset="wikidata-it-L8206-S1" ili="l1367828-s1">
         <Definition>che appartiene a me</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8209">
-      <Lemma writtenForm="nostro" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="nostro" partOfSpeech="h"/>
       <Sense id="L8209-S1" synset="wikidata-it-L8209-S1" ili="l1367832-s1">
         <Definition>che appartiene a noi</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8366">
-      <Lemma writtenForm="il" partOfSpeech="definite article"/>
+      <Lemma writtenForm="il" partOfSpeech="d"/>
       <Sense id="L8366-S3" synset="wikidata-it-L8366-S3" ili="wikidata-it-L8366-S3">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21234">
-      <Lemma writtenForm="cento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cento" partOfSpeech="m"/>
       <Sense id="L21234-S1" synset="wikidata-it-L21234-S1" ili="wikidata-it-L21234-S1">
         <Definition>numero dopo novantanove e prima di centouno</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21274">
-      <Lemma writtenForm="ciò" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="ciò" partOfSpeech="h"/>
       <Sense id="L21274-S1" synset="wikidata-it-L21274-S1" ili="wikidata-it-L21274-S1">
         <Definition>questo, quello e codesto con significato neutro</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640214">
-      <Lemma writtenForm="a parte" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="a parte" partOfSpeech="r"/>
       <Sense id="L640214-S1" synset="wikidata-it-L640214-S1" ili="wikidata-it-L640214-S1">
         <Definition>Separatamente, in altro contesto o occasione</Definition>
         <Example>Pagherò il mio conto a parte</Example>
@@ -1109,61 +1109,61 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643344">
-      <Lemma writtenForm="tu" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="tu" partOfSpeech="h"/>
       <Sense id="L643344-S1" synset="wikidata-it-L643344-S1" ili="l482-s1">
         <Definition>seconda persona singolare</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1145349">
-      <Lemma writtenForm="milione" partOfSpeech="numeral"/>
+      <Lemma writtenForm="milione" partOfSpeech="m"/>
       <Sense id="L1145349-S1" synset="wikidata-it-L1145349-S1" ili="wikidata-it-L1145349-S1">
         <Definition>1000000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165735">
-      <Lemma writtenForm="bene" partOfSpeech="interjection"/>
+      <Lemma writtenForm="bene" partOfSpeech="i"/>
       <Sense id="L1165735-S1" synset="wikidata-it-L1165735-S1" ili="wikidata-it-L1165735-S1">
         <Definition>esclamazione di approvazione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165769">
-      <Lemma writtenForm="guai" partOfSpeech="interjection"/>
+      <Lemma writtenForm="guai" partOfSpeech="i"/>
       <Sense id="L1165769-S1" synset="wikidata-it-L1165769-S1" ili="wikidata-it-L1165769-S1">
         <Definition>esclamazione di minaccia</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165803">
-      <Lemma writtenForm="ring" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ring" partOfSpeech="i"/>
       <Sense id="L1165803-S1" synset="wikidata-it-L1165803-S1" ili="wikidata-it-L1165803-S1">
         <Definition>onomatopea che riproduce il suono di un campanello</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201758">
-      <Lemma writtenForm="mille" partOfSpeech="numeral"/>
+      <Lemma writtenForm="mille" partOfSpeech="m"/>
       <Sense id="L1201758-S1" synset="wikidata-it-L1201758-S1" ili="wikidata-it-L1201758-S1">
         <Definition>1000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201783">
-      <Lemma writtenForm="cinquemila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquemila" partOfSpeech="m"/>
       <Sense id="L1201783-S1" synset="wikidata-it-L1201783-S1" ili="wikidata-it-L1201783-S1">
         <Definition>5000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201784">
-      <Lemma writtenForm="seimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seimila" partOfSpeech="m"/>
       <Sense id="L1201784-S1" synset="wikidata-it-L1201784-S1" ili="wikidata-it-L1201784-S1">
         <Definition>6000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201786">
-      <Lemma writtenForm="settemila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settemila" partOfSpeech="m"/>
       <Sense id="L1201786-S1" synset="wikidata-it-L1201786-S1" ili="wikidata-it-L1201786-S1">
         <Definition>7000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201790">
-      <Lemma writtenForm="undici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="undici" partOfSpeech="m"/>
       <Sense id="L1201790-S1" synset="wikidata-it-L1201790-S1" ili="wikidata-it-L1201790-S1">
         <Definition></Definition>
       </Sense>
@@ -1172,133 +1172,133 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201795">
-      <Lemma writtenForm="quattordici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattordici" partOfSpeech="m"/>
       <Sense id="L1201795-S1" synset="wikidata-it-L1201795-S1" ili="wikidata-it-L1201795-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201805">
-      <Lemma writtenForm="ventuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ventuno" partOfSpeech="m"/>
       <Sense id="L1201805-S1" synset="wikidata-it-L1201805-S1" ili="wikidata-it-L1201805-S1">
         <Definition>21</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201836">
-      <Lemma writtenForm="quarantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantuno" partOfSpeech="m"/>
       <Sense id="L1201836-S1" synset="wikidata-it-L1201836-S1" ili="wikidata-it-L1201836-S1">
         <Definition>41</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201848">
-      <Lemma writtenForm="quarantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantanove" partOfSpeech="m"/>
       <Sense id="L1201848-S1" synset="wikidata-it-L1201848-S1" ili="wikidata-it-L1201848-S1">
         <Definition>49</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201859">
-      <Lemma writtenForm="cinquantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantasette" partOfSpeech="m"/>
       <Sense id="L1201859-S1" synset="wikidata-it-L1201859-S1" ili="wikidata-it-L1201859-S1">
         <Definition>57</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201862">
-      <Lemma writtenForm="cinquantanove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantanove" partOfSpeech="m"/>
       <Sense id="L1201862-S1" synset="wikidata-it-L1201862-S1" ili="wikidata-it-L1201862-S1">
         <Definition>59</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201871">
-      <Lemma writtenForm="sessantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sessantacinque" partOfSpeech="m"/>
       <Sense id="L1201871-S1" synset="wikidata-it-L1201871-S1" ili="wikidata-it-L1201871-S1">
         <Definition>65</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201885">
-      <Lemma writtenForm="settantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantacinque" partOfSpeech="m"/>
       <Sense id="L1201885-S1" synset="wikidata-it-L1201885-S1" ili="wikidata-it-L1201885-S1">
         <Definition>75</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201900">
-      <Lemma writtenForm="ottantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantacinque" partOfSpeech="m"/>
       <Sense id="L1201900-S1" synset="wikidata-it-L1201900-S1" ili="wikidata-it-L1201900-S1">
         <Definition>85</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201912">
-      <Lemma writtenForm="novantaquattro" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantaquattro" partOfSpeech="m"/>
       <Sense id="L1201912-S1" synset="wikidata-it-L1201912-S1" ili="wikidata-it-L1201912-S1">
         <Definition>94</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201925">
-      <Lemma writtenForm="duecentocinquanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentocinquanta" partOfSpeech="m"/>
       <Sense id="L1201925-S1" synset="wikidata-it-L1201925-S1" ili="wikidata-it-L1201925-S1">
         <Definition>250</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201931">
-      <Lemma writtenForm="duecentotrenta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="duecentotrenta" partOfSpeech="m"/>
       <Sense id="L1201931-S1" synset="wikidata-it-L1201931-S1" ili="wikidata-it-L1201931-S1">
         <Definition>230</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201946">
-      <Lemma writtenForm="trecentottanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trecentottanta" partOfSpeech="m"/>
       <Sense id="L1201946-S1" synset="wikidata-it-L1201946-S1" ili="wikidata-it-L1201946-S1">
         <Definition>380</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201954">
-      <Lemma writtenForm="quattordicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattordicimila" partOfSpeech="m"/>
       <Sense id="L1201954-S1" synset="wikidata-it-L1201954-S1" ili="wikidata-it-L1201954-S1">
         <Definition>14000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201961">
-      <Lemma writtenForm="tredicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tredicimila" partOfSpeech="m"/>
       <Sense id="L1201961-S1" synset="wikidata-it-L1201961-S1" ili="wikidata-it-L1201961-S1">
         <Definition>13000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1211952">
-      <Lemma writtenForm="sopra" partOfSpeech="preposition"/>
+      <Lemma writtenForm="sopra" partOfSpeech="p"/>
       <Sense id="L1211952-S1" synset="wikidata-it-L1211952-S1" ili="wikidata-it-L1211952-S1">
         <Definition>sovrapporsi di una cosa su un&apos;altra</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1236812">
-      <Lemma writtenForm="de" partOfSpeech="preposition"/>
+      <Lemma writtenForm="de" partOfSpeech="p"/>
       <Sense id="L1236812-S1" synset="wikidata-it-L1236812-S1" ili="wikidata-it-L1236812-S1">
         <Definition>prefisso di cognome</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1244365">
-      <Lemma writtenForm="costui" partOfSpeech="demonstrative pronoun"/>
+      <Lemma writtenForm="costui" partOfSpeech="h"/>
       <Sense id="L1244365-S1" synset="wikidata-it-L1244365-S1" ili="wikidata-it-L1244365-S1">
         <Definition>questo individuo, questa persona</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1493981">
-      <Lemma writtenForm="teco" partOfSpeech="preposition"/>
+      <Lemma writtenForm="teco" partOfSpeech="p"/>
       <Sense id="L1493981-S1" synset="wikidata-it-L1493981-S1" ili="wikidata-it-L1493981-S1">
         <Definition>forma contratta per dire &quot;con te&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521708">
-      <Lemma writtenForm="meco" partOfSpeech="preposition"/>
+      <Lemma writtenForm="meco" partOfSpeech="p"/>
       <Sense id="L1521708-S1" synset="wikidata-it-L1521708-S1" ili="wikidata-it-L1521708-S1">
         <Definition>forma contratta per dire &quot;con me&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5162">
-      <Lemma writtenForm="nove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nove" partOfSpeech="m"/>
       <Sense id="L5162-S1" synset="wikidata-it-L5162-S1" ili="wikidata-it-L5162-S1">
         <Definition>numero ordinale per 9</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7403">
-      <Lemma writtenForm="da" partOfSpeech="preposition"/>
+      <Lemma writtenForm="da" partOfSpeech="p"/>
       <Sense id="L7403-S1" synset="wikidata-it-L7403-S1" ili="l2168-s1">
         <Definition></Definition>
       </Sense>
@@ -1307,14 +1307,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L7408">
-      <Lemma writtenForm="tra" partOfSpeech="preposition"/>
+      <Lemma writtenForm="tra" partOfSpeech="p"/>
       <Sense id="L7408-S1" synset="wikidata-it-L7408-S1" ili="l3412-s1">
         <Definition>in mezzo a</Definition>
         <SenseRelation relType="similar" target="wikidata-it-L7409-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640221">
-      <Lemma writtenForm="in parte" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="in parte" partOfSpeech="r"/>
       <Sense id="L640221-S1" synset="wikidata-it-L640221-S1" ili="wikidata-it-L640221-S1">
         <Definition>Parzialmente, non completamente</Definition>
         <Example>Ho preparato la valigia solo in parte</Example>
@@ -1325,7 +1325,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L640249">
-      <Lemma writtenForm="occhio" partOfSpeech="interjection"/>
+      <Lemma writtenForm="occhio" partOfSpeech="i"/>
       <Sense id="L640249-S1" synset="wikidata-it-L640249-S1" ili="wikidata-it-L640249-S1">
         <Definition>esortazione a prestare attenzione a qualcosa</Definition>
       </Sense>
@@ -1343,37 +1343,37 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643345">
-      <Lemma writtenForm="egli" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="egli" partOfSpeech="h"/>
       <Sense id="L643345-S1" synset="wikidata-it-L643345-S1" ili="wikidata-it-L643345-S1">
         <Definition>terza persona singolare maschile</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643348">
-      <Lemma writtenForm="essi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="essi" partOfSpeech="h"/>
       <Sense id="L643348-S1" synset="wikidata-it-L643348-S1" ili="wikidata-it-L643348-S1">
         <Definition>terza persona plurale maschile</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165725">
-      <Lemma writtenForm="amen" partOfSpeech="interjection"/>
+      <Lemma writtenForm="amen" partOfSpeech="i"/>
       <Sense id="L1165725-S1" synset="wikidata-it-L1165725-S1" ili="wikidata-it-L1165725-S1">
         <Definition>parola ebraica</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165747">
-      <Lemma writtenForm="ciac" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ciac" partOfSpeech="i"/>
       <Sense id="L1165747-S1" synset="wikidata-it-L1165747-S1" ili="wikidata-it-L1165747-S1">
         <Definition>riproduce il suono di un oggetto soffice schiacciato</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165763">
-      <Lemma writtenForm="figa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="figa" partOfSpeech="i"/>
       <Sense id="L1165763-S1" synset="wikidata-it-L1165763-S1" ili="wikidata-it-L1165763-S1">
         <Definition>denota stupore o rabbia</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165903">
-      <Lemma writtenForm="poscia" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="poscia" partOfSpeech="c"/>
       <Sense id="L1165903-S1" synset="wikidata-it-L1165903-S1" ili="wikidata-it-L1165903-S1">
         <Definition>dopo che, allorché</Definition>
       </Sense>
@@ -1385,13 +1385,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201769">
-      <Lemma writtenForm="quattrocento" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quattrocento" partOfSpeech="m"/>
       <Sense id="L1201769-S1" synset="wikidata-it-L1201769-S1" ili="wikidata-it-L1201769-S1">
         <Definition>400</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201796">
-      <Lemma writtenForm="quindici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quindici" partOfSpeech="m"/>
       <Sense id="L1201796-S1" synset="wikidata-it-L1201796-S1" ili="wikidata-it-L1201796-S1">
         <Definition></Definition>
       </Sense>
@@ -1400,43 +1400,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201802">
-      <Lemma writtenForm="diciannove" partOfSpeech="numeral"/>
+      <Lemma writtenForm="diciannove" partOfSpeech="m"/>
       <Sense id="L1201802-S1" synset="wikidata-it-L1201802-S1" ili="wikidata-it-L1201802-S1">
         <Definition>19</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201823">
-      <Lemma writtenForm="trentatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trentatré" partOfSpeech="m"/>
       <Sense id="L1201823-S1" synset="wikidata-it-L1201823-S1" ili="wikidata-it-L1201823-S1">
         <Definition>33</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201832">
-      <Lemma writtenForm="googolplexplex" partOfSpeech="numeral"/>
+      <Lemma writtenForm="googolplexplex" partOfSpeech="m"/>
       <Sense id="L1201832-S1" synset="wikidata-it-L1201832-S1" ili="wikidata-it-L1201832-S1">
         <Definition>uno seguito da un googolplex di zeri</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201837">
-      <Lemma writtenForm="quarantadue" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantadue" partOfSpeech="m"/>
       <Sense id="L1201837-S1" synset="wikidata-it-L1201837-S1" ili="wikidata-it-L1201837-S1">
         <Definition>42</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201839">
-      <Lemma writtenForm="quarantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantatré" partOfSpeech="m"/>
       <Sense id="L1201839-S1" synset="wikidata-it-L1201839-S1" ili="wikidata-it-L1201839-S1">
         <Definition>43</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201856">
-      <Lemma writtenForm="cinquantacinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="cinquantacinque" partOfSpeech="m"/>
       <Sense id="L1201856-S1" synset="wikidata-it-L1201856-S1" ili="wikidata-it-L1201856-S1">
         <Definition>55</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201882">
-      <Lemma writtenForm="settantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantatré" partOfSpeech="m"/>
       <Sense id="L1201882-S1" synset="wikidata-it-L1201882-S1" ili="wikidata-it-L1201882-S1">
         <Definition>73</Definition>
       </Sense>
@@ -1448,157 +1448,157 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1413166">
-      <Lemma writtenForm="alleluia" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alleluia" partOfSpeech="i"/>
       <Sense id="L1413166-S1" synset="wikidata-it-L1413166-S1" ili="wikidata-it-L1413166-S1">
         <Definition>esclamazione usata in ambito liturgico</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1413988">
-      <Lemma writtenForm="chicchessia" partOfSpeech="indefinite pronoun"/>
+      <Lemma writtenForm="chicchessia" partOfSpeech="h"/>
       <Sense id="L1413988-S1" synset="wikidata-it-L1413988-S1" ili="wikidata-it-L1413988-S1">
         <Definition>chiunque</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1728">
-      <Lemma writtenForm="dove" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="dove" partOfSpeech="h"/>
       <Sense id="L1728-S1" synset="wikidata-it-L1728-S1" ili="wikidata-it-L1728-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1730">
-      <Lemma writtenForm="quanto" partOfSpeech="interrogative pronoun"/>
+      <Lemma writtenForm="quanto" partOfSpeech="h"/>
       <Sense id="L1730-S1" synset="wikidata-it-L1730-S1" ili="wikidata-it-L1730-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L5161">
-      <Lemma writtenForm="otto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="otto" partOfSpeech="m"/>
       <Sense id="L5161-S1" synset="wikidata-it-L5161-S1" ili="wikidata-it-L5161-S1">
         <Definition>numero naturale che segue sette e precede nove</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L8208">
-      <Lemma writtenForm="suo" partOfSpeech="possessive determiner"/>
+      <Lemma writtenForm="suo" partOfSpeech="h"/>
       <Sense id="L8208-S1" synset="wikidata-it-L8208-S1" ili="l1370856-s1">
         <Definition>che appartiene a lui/lei</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21245">
-      <Lemma writtenForm="dello" partOfSpeech="preposition"/>
+      <Lemma writtenForm="dello" partOfSpeech="p"/>
       <Sense id="L21245-S1" synset="wikidata-it-L21245-S1" ili="wikidata-it-L21245-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409875">
-      <Lemma writtenForm="degli" partOfSpeech="preposition"/>
+      <Lemma writtenForm="degli" partOfSpeech="p"/>
       <Sense id="L409875-S1" synset="wikidata-it-L409875-S1" ili="wikidata-it-L409875-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L592385">
-      <Lemma writtenForm="all&apos;arme" partOfSpeech="interjection"/>
+      <Lemma writtenForm="all&apos;arme" partOfSpeech="i"/>
       <Sense id="L592385-S1" synset="wikidata-it-L592385-S1" ili="wikidata-it-L592385-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1145348">
-      <Lemma writtenForm="miliardo" partOfSpeech="numeral"/>
+      <Lemma writtenForm="miliardo" partOfSpeech="m"/>
       <Sense id="L1145348-S1" synset="wikidata-it-L1145348-S1" ili="wikidata-it-L1145348-S1">
         <Definition>1000000000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165468">
-      <Lemma writtenForm="cioè" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="cioè" partOfSpeech="c"/>
       <Sense id="L1165468-S1" synset="wikidata-it-L1165468-S1" ili="wikidata-it-L1165468-S1">
         <Definition>introduce una spiegazione, una precisazione o una riformulazione</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165754">
-      <Lemma writtenForm="dai" partOfSpeech="interjection"/>
+      <Lemma writtenForm="dai" partOfSpeech="i"/>
       <Sense id="L1165754-S1" synset="wikidata-it-L1165754-S1" ili="wikidata-it-L1165754-S1">
         <Definition>enfatizza il significato della frase</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165756">
-      <Lemma writtenForm="ecco" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ecco" partOfSpeech="i"/>
       <Sense id="L1165756-S1" synset="wikidata-it-L1165756-S1" ili="wikidata-it-L1165756-S1">
         <Definition>sottolinea un&apos;intuizione o una scoperta</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165774">
-      <Lemma writtenForm="in bocca al lupo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="in bocca al lupo" partOfSpeech="i"/>
       <Sense id="L1165774-S1" synset="wikidata-it-L1165774-S1" ili="wikidata-it-L1165774-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165813">
-      <Lemma writtenForm="urca" partOfSpeech="interjection"/>
+      <Lemma writtenForm="urca" partOfSpeech="i"/>
       <Sense id="L1165813-S1" synset="wikidata-it-L1165813-S1" ili="wikidata-it-L1165813-S1">
         <Definition>espressione con riferimento a qualcosa di inaspettato, talvolta esagerato, al di là di quanto si vede comunemente</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165815">
-      <Lemma writtenForm="vale" partOfSpeech="interjection"/>
+      <Lemma writtenForm="vale" partOfSpeech="i"/>
       <Sense id="L1165815-S1" synset="wikidata-it-L1165815-S1" ili="wikidata-it-L1165815-S1">
         <Definition>saluto di commiato</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165891">
-      <Lemma writtenForm="ossia" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ossia" partOfSpeech="c"/>
       <Sense id="L1165891-S1" synset="wikidata-it-L1165891-S1" ili="wikidata-it-L1165891-S1">
         <Definition>cioè</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165892">
-      <Lemma writtenForm="ove" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ove" partOfSpeech="c"/>
       <Sense id="L1165892-S1" synset="wikidata-it-L1165892-S1" ili="wikidata-it-L1165892-S1">
         <Definition>caso mai</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165896">
-      <Lemma writtenForm="perciò" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="perciò" partOfSpeech="c"/>
       <Sense id="L1165896-S1" synset="wikidata-it-L1165896-S1" ili="wikidata-it-L1165896-S1">
         <Definition>di conseguenza, per questo motivo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1165908">
-      <Lemma writtenForm="pure" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="pure" partOfSpeech="c"/>
       <Sense id="L1165908-S1" synset="wikidata-it-L1165908-S1" ili="wikidata-it-L1165908-S1">
         <Definition>anche</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201789">
-      <Lemma writtenForm="novemila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novemila" partOfSpeech="m"/>
       <Sense id="L1201789-S1" synset="wikidata-it-L1201789-S1" ili="wikidata-it-L1201789-S1">
         <Definition>9000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201792">
-      <Lemma writtenForm="dodici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="dodici" partOfSpeech="m"/>
       <Sense id="L1201792-S1" synset="wikidata-it-L1201792-S1" ili="wikidata-it-L1201792-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201793">
-      <Lemma writtenForm="tredici" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tredici" partOfSpeech="m"/>
       <Sense id="L1201793-S1" synset="wikidata-it-L1201793-S1" ili="wikidata-it-L1201793-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201812">
-      <Lemma writtenForm="venticinque" partOfSpeech="numeral"/>
+      <Lemma writtenForm="venticinque" partOfSpeech="m"/>
       <Sense id="L1201812-S1" synset="wikidata-it-L1201812-S1" ili="wikidata-it-L1201812-S1">
         <Definition>25</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201834">
-      <Lemma writtenForm="quaranta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quaranta" partOfSpeech="m"/>
       <Sense id="L1201834-S1" synset="wikidata-it-L1201834-S1" ili="wikidata-it-L1201834-S1">
         <Definition>40</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201846">
-      <Lemma writtenForm="quarantotto" partOfSpeech="numeral"/>
+      <Lemma writtenForm="quarantotto" partOfSpeech="m"/>
       <Sense id="L1201846-S1" synset="wikidata-it-L1201846-S1" ili="wikidata-it-L1201846-S1">
         <Definition>48</Definition>
         <Example>Sei per otto, quarantotto.</Example>
@@ -1609,924 +1609,924 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201879">
-      <Lemma writtenForm="settantuno" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settantuno" partOfSpeech="m"/>
       <Sense id="L1201879-S1" synset="wikidata-it-L1201879-S1" ili="wikidata-it-L1201879-S1">
         <Definition>71</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201892">
-      <Lemma writtenForm="ottanta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottanta" partOfSpeech="m"/>
       <Sense id="L1201892-S1" synset="wikidata-it-L1201892-S1" ili="wikidata-it-L1201892-S1">
         <Definition>80</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201897">
-      <Lemma writtenForm="ottantatré" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottantatré" partOfSpeech="m"/>
       <Sense id="L1201897-S1" synset="wikidata-it-L1201897-S1" ili="wikidata-it-L1201897-S1">
         <Definition>83</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201917">
-      <Lemma writtenForm="novantasette" partOfSpeech="numeral"/>
+      <Lemma writtenForm="novantasette" partOfSpeech="m"/>
       <Sense id="L1201917-S1" synset="wikidata-it-L1201917-S1" ili="wikidata-it-L1201917-S1">
         <Definition>97</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201937">
-      <Lemma writtenForm="settecentoventi" partOfSpeech="numeral"/>
+      <Lemma writtenForm="settecentoventi" partOfSpeech="m"/>
       <Sense id="L1201937-S1" synset="wikidata-it-L1201937-S1" ili="wikidata-it-L1201937-S1">
         <Definition>720</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201953">
-      <Lemma writtenForm="ottocentomila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ottocentomila" partOfSpeech="m"/>
       <Sense id="L1201953-S1" synset="wikidata-it-L1201953-S1" ili="wikidata-it-L1201953-S1">
         <Definition>800000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1201959">
-      <Lemma writtenForm="sedicimila" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sedicimila" partOfSpeech="m"/>
       <Sense id="L1201959-S1" synset="wikidata-it-L1201959-S1" ili="wikidata-it-L1201959-S1">
         <Definition>16000</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1202905">
-      <Lemma writtenForm="zero" partOfSpeech="numeral"/>
+      <Lemma writtenForm="zero" partOfSpeech="m"/>
       <Sense id="L1202905-S1" synset="wikidata-it-L1202905-S1" ili="wikidata-it-L1202905-S1">
         <Definition>cifra antecedente ad uno</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1259867">
-      <Lemma writtenForm="ceteris paribus" partOfSpeech="adverbial locution"/>
+      <Lemma writtenForm="ceteris paribus" partOfSpeech="r"/>
       <Sense id="L1259867-S1" synset="wikidata-it-L1259867-S1" ili="wikidata-it-L1259867-S1">
         <Definition>locuzione latina che significa &quot;a parità d’altre condizioni&quot;</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1331890">
-      <Lemma writtenForm="verso" partOfSpeech="preposition"/>
+      <Lemma writtenForm="verso" partOfSpeech="p"/>
       <Sense id="L1331890-S1" synset="wikidata-it-L1331890-S1" ili="wikidata-it-L1331890-S1">
         <Definition>in direzione di qualcosa o qualcuno</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1413661">
-      <Lemma writtenForm="diamine" partOfSpeech="interjection"/>
+      <Lemma writtenForm="diamine" partOfSpeech="i"/>
       <Sense id="L1413661-S1" synset="wikidata-it-L1413661-S1" ili="wikidata-it-L1413661-S1">
         <Definition>esclamazione di stupore</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-it-L5156-S1" ili="wikidata-it-L5156-S1">
+    <Synset id="wikidata-it-L5156-S1" ili="wikidata-it-L5156-S1" partOfSpeech="m">
       <Definition>numero naturale che segue due e precede quattro</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7402-S1" ili="wikidata-it-L7402-S1">
+    <Synset id="wikidata-it-L7402-S1" ili="wikidata-it-L7402-S1" partOfSpeech="p">
       <Definition>verso un posto</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7402-S2" ili="wikidata-it-L7402-S2">
+    <Synset id="wikidata-it-L7402-S2" ili="wikidata-it-L7402-S2" partOfSpeech="p">
       <Definition>in un certo tempo, momento</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7402-S3" ili="wikidata-it-L7402-S3">
+    <Synset id="wikidata-it-L7402-S3" ili="wikidata-it-L7402-S3" partOfSpeech="p">
       <Definition>per il beneficio di qualcuno</Definition>
     </Synset>
-    <Synset id="wikidata-it-L409873-S1" ili="wikidata-it-L409873-S1">
+    <Synset id="wikidata-it-L409873-S1" ili="wikidata-it-L409873-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L409874-S1" ili="wikidata-it-L409874-S1">
+    <Synset id="wikidata-it-L409874-S1" ili="wikidata-it-L409874-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L409876-S1" ili="wikidata-it-L409876-S1">
+    <Synset id="wikidata-it-L409876-S1" ili="wikidata-it-L409876-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L411104-S1" ili="wikidata-it-L411104-S1">
+    <Synset id="wikidata-it-L411104-S1" ili="wikidata-it-L411104-S1" partOfSpeech="p">
       <Definition>dentro</Definition>
     </Synset>
-    <Synset id="wikidata-it-L411104-S2" ili="wikidata-it-L411104-S2">
+    <Synset id="wikidata-it-L411104-S2" ili="wikidata-it-L411104-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165724-S1" ili="wikidata-it-L1165724-S1">
+    <Synset id="wikidata-it-L1165724-S1" ili="wikidata-it-L1165724-S1" partOfSpeech="i">
       <Definition>usata per esortare, incitare e simili</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165821-S1" ili="wikidata-it-L1165821-S1">
+    <Synset id="wikidata-it-L1165821-S1" ili="wikidata-it-L1165821-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165850-S1" ili="wikidata-it-L1165850-S1">
+    <Synset id="wikidata-it-L1165850-S1" ili="wikidata-it-L1165850-S1" partOfSpeech="c">
       <Definition>nel luogo in cui</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201776-S1" ili="wikidata-it-L1201776-S1">
+    <Synset id="wikidata-it-L1201776-S1" ili="wikidata-it-L1201776-S1" partOfSpeech="m">
       <Definition>900</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201787-S1" ili="wikidata-it-L1201787-S1">
+    <Synset id="wikidata-it-L1201787-S1" ili="wikidata-it-L1201787-S1" partOfSpeech="m">
       <Definition>8000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201814-S1" ili="wikidata-it-L1201814-S1">
+    <Synset id="wikidata-it-L1201814-S1" ili="wikidata-it-L1201814-S1" partOfSpeech="m">
       <Definition>27</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201816-S1" ili="wikidata-it-L1201816-S1">
+    <Synset id="wikidata-it-L1201816-S1" ili="wikidata-it-L1201816-S1" partOfSpeech="m">
       <Definition>28</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201826-S1" ili="wikidata-it-L1201826-S1">
+    <Synset id="wikidata-it-L1201826-S1" ili="wikidata-it-L1201826-S1" partOfSpeech="m">
       <Definition>35</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201842-S1" ili="wikidata-it-L1201842-S1">
+    <Synset id="wikidata-it-L1201842-S1" ili="wikidata-it-L1201842-S1" partOfSpeech="m">
       <Definition>45</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201845-S1" ili="wikidata-it-L1201845-S1">
+    <Synset id="wikidata-it-L1201845-S1" ili="wikidata-it-L1201845-S1" partOfSpeech="m">
       <Definition>47</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201861-S1" ili="wikidata-it-L1201861-S1">
+    <Synset id="wikidata-it-L1201861-S1" ili="wikidata-it-L1201861-S1" partOfSpeech="m">
       <Definition>58</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201878-S1" ili="wikidata-it-L1201878-S1">
+    <Synset id="wikidata-it-L1201878-S1" ili="wikidata-it-L1201878-S1" partOfSpeech="m">
       <Definition>70</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201918-S1" ili="wikidata-it-L1201918-S1">
+    <Synset id="wikidata-it-L1201918-S1" ili="wikidata-it-L1201918-S1" partOfSpeech="m">
       <Definition>98</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201927-S1" ili="wikidata-it-L1201927-S1">
+    <Synset id="wikidata-it-L1201927-S1" ili="wikidata-it-L1201927-S1" partOfSpeech="m">
       <Definition>210</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201944-S1" ili="wikidata-it-L1201944-S1">
+    <Synset id="wikidata-it-L1201944-S1" ili="wikidata-it-L1201944-S1" partOfSpeech="m">
       <Definition>330</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201947-S1" ili="wikidata-it-L1201947-S1">
+    <Synset id="wikidata-it-L1201947-S1" ili="wikidata-it-L1201947-S1" partOfSpeech="m">
       <Definition>100000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1209999-S1" ili="wikidata-it-L1209999-S1">
+    <Synset id="wikidata-it-L1209999-S1" ili="wikidata-it-L1209999-S1" partOfSpeech="i">
       <Definition>esprime dolore fisico</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1211866-S1" ili="wikidata-it-L1211866-S1">
+    <Synset id="wikidata-it-L1211866-S1" ili="wikidata-it-L1211866-S1" partOfSpeech="h">
       <Definition>utilizzato per indicare genericamente una persona</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1235569-S1" ili="wikidata-it-L1235569-S1">
+    <Synset id="wikidata-it-L1235569-S1" ili="wikidata-it-L1235569-S1" partOfSpeech="h">
       <Definition>molte persone o cose</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1413197-S1" ili="wikidata-it-L1413197-S1">
+    <Synset id="wikidata-it-L1413197-S1" ili="wikidata-it-L1413197-S1" partOfSpeech="p">
       <Definition>trasversalmente</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1726-S1" ili="l57-s1">
+    <Synset id="wikidata-it-L1726-S1" ili="l57-s1" partOfSpeech="h">
       <Definition>che cosa, quale oggetto</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1729-S1" ili="wikidata-it-L1729-S1">
+    <Synset id="wikidata-it-L1729-S1" ili="wikidata-it-L1729-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L5159-S1" ili="wikidata-it-L5159-S1">
+    <Synset id="wikidata-it-L5159-S1" ili="wikidata-it-L5159-S1" partOfSpeech="m">
       <Definition>numero naturale che segue cinque e precede sette</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7407-S1" ili="wikidata-it-L7407-S1">
+    <Synset id="wikidata-it-L7407-S1" ili="wikidata-it-L7407-S1" partOfSpeech="p">
       <Definition>simbolo matematico</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7407-S2" ili="l2989-s1">
+    <Synset id="wikidata-it-L7407-S2" ili="l2989-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7407-S3" ili="l2989-s2">
+    <Synset id="wikidata-it-L7407-S3" ili="l2989-s2" partOfSpeech="p">
       <Definition>indica uno scopo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7407-S4" ili="l2989-s3">
+    <Synset id="wikidata-it-L7407-S4" ili="l2989-s3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7407-S5" ili="l2989-s4">
+    <Synset id="wikidata-it-L7407-S5" ili="l2989-s4" partOfSpeech="p">
       <Definition>indica un periodo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8207-S1" ili="l494-s1">
+    <Synset id="wikidata-it-L8207-S1" ili="l494-s1" partOfSpeech="h">
       <Definition>che appartiene a te</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8211-S1" ili="l371-s1">
+    <Synset id="wikidata-it-L8211-S1" ili="l371-s1" partOfSpeech="h">
       <Definition>pronome</Definition>
     </Synset>
-    <Synset id="wikidata-it-L409871-S1" ili="wikidata-it-L409871-S1">
+    <Synset id="wikidata-it-L409871-S1" ili="wikidata-it-L409871-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L640216-S1" ili="wikidata-it-L640216-S1">
+    <Synset id="wikidata-it-L640216-S1" ili="wikidata-it-L640216-S1" partOfSpeech="r">
       <Definition>Messo in serbo con l&apos;intenzione di servirsene o occuparsene in un secondo momento</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640216-S2" ili="wikidata-it-L640216-S2">
+    <Synset id="wikidata-it-L640216-S2" ili="wikidata-it-L640216-S2" partOfSpeech="r">
       <Definition>Separato da un gruppo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1">
+    <Synset id="wikidata-it-L640470-S1" ili="wikidata-it-L640470-S1" partOfSpeech="indeclinable noun">
       <Definition>materiale colloidale bifasico elastico, costituito da un liquido disperso e inglobato nella fase solida</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640470-S2" ili="wikidata-it-L640470-S2">
+    <Synset id="wikidata-it-L640470-S2" ili="wikidata-it-L640470-S2" partOfSpeech="indeclinable noun">
       <Definition>medicina o cosmetico in forma di sostanza colloidale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165787-S1" ili="wikidata-it-L1165787-S1">
+    <Synset id="wikidata-it-L1165787-S1" ili="wikidata-it-L1165787-S1" partOfSpeech="i">
       <Definition>particella linguistica con cui si esprime dissenso, disdegno, o un parere o giudizio negativo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165814-S1" ili="wikidata-it-L1165814-S1">
+    <Synset id="wikidata-it-L1165814-S1" ili="wikidata-it-L1165814-S1" partOfSpeech="i">
       <Definition>espressione offensiva del registro colloquiale basso</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165831-S1" ili="wikidata-it-L1165831-S1">
+    <Synset id="wikidata-it-L1165831-S1" ili="wikidata-it-L1165831-S1" partOfSpeech="c">
       <Definition>con valore avversativo dopo una frase di senso negativo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165855-S1" ili="wikidata-it-L1165855-S1">
+    <Synset id="wikidata-it-L1165855-S1" ili="wikidata-it-L1165855-S1" partOfSpeech="c">
       <Definition>forma abbreviata di ebbene, di solito usata in forma interrogativa</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201766-S1" ili="wikidata-it-L1201766-S1">
+    <Synset id="wikidata-it-L1201766-S1" ili="wikidata-it-L1201766-S1" partOfSpeech="m">
       <Definition>200</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201770-S1" ili="wikidata-it-L1201770-S1">
+    <Synset id="wikidata-it-L1201770-S1" ili="wikidata-it-L1201770-S1" partOfSpeech="m">
       <Definition>500</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201773-S1" ili="wikidata-it-L1201773-S1">
+    <Synset id="wikidata-it-L1201773-S1" ili="wikidata-it-L1201773-S1" partOfSpeech="m">
       <Definition>700</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201774-S1" ili="wikidata-it-L1201774-S1">
+    <Synset id="wikidata-it-L1201774-S1" ili="wikidata-it-L1201774-S1" partOfSpeech="m">
       <Definition>800</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201780-S1" ili="wikidata-it-L1201780-S1">
+    <Synset id="wikidata-it-L1201780-S1" ili="wikidata-it-L1201780-S1" partOfSpeech="m">
       <Definition>4000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201800-S1" ili="wikidata-it-L1201800-S1">
+    <Synset id="wikidata-it-L1201800-S1" ili="wikidata-it-L1201800-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201819-S1" ili="wikidata-it-L1201819-S1">
+    <Synset id="wikidata-it-L1201819-S1" ili="wikidata-it-L1201819-S1" partOfSpeech="m">
       <Definition>30</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201822-S1" ili="wikidata-it-L1201822-S1">
+    <Synset id="wikidata-it-L1201822-S1" ili="wikidata-it-L1201822-S1" partOfSpeech="m">
       <Definition>32</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201829-S1" ili="wikidata-it-L1201829-S1">
+    <Synset id="wikidata-it-L1201829-S1" ili="wikidata-it-L1201829-S1" partOfSpeech="m">
       <Definition>37</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201830-S1" ili="wikidata-it-L1201830-S1">
+    <Synset id="wikidata-it-L1201830-S1" ili="wikidata-it-L1201830-S1" partOfSpeech="m">
       <Definition>38</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201855-S1" ili="wikidata-it-L1201855-S1">
+    <Synset id="wikidata-it-L1201855-S1" ili="wikidata-it-L1201855-S1" partOfSpeech="m">
       <Definition>54</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201858-S1" ili="wikidata-it-L1201858-S1">
+    <Synset id="wikidata-it-L1201858-S1" ili="wikidata-it-L1201858-S1" partOfSpeech="m">
       <Definition>56</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201872-S1" ili="wikidata-it-L1201872-S1">
+    <Synset id="wikidata-it-L1201872-S1" ili="wikidata-it-L1201872-S1" partOfSpeech="m">
       <Definition>66</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201894-S1" ili="wikidata-it-L1201894-S1">
+    <Synset id="wikidata-it-L1201894-S1" ili="wikidata-it-L1201894-S1" partOfSpeech="m">
       <Definition>81</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201898-S1" ili="wikidata-it-L1201898-S1">
+    <Synset id="wikidata-it-L1201898-S1" ili="wikidata-it-L1201898-S1" partOfSpeech="m">
       <Definition>84</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201901-S1" ili="wikidata-it-L1201901-S1">
+    <Synset id="wikidata-it-L1201901-S1" ili="wikidata-it-L1201901-S1" partOfSpeech="m">
       <Definition>86</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201921-S1" ili="wikidata-it-L1201921-S1">
+    <Synset id="wikidata-it-L1201921-S1" ili="wikidata-it-L1201921-S1" partOfSpeech="m">
       <Definition>150</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201922-S1" ili="wikidata-it-L1201922-S1">
+    <Synset id="wikidata-it-L1201922-S1" ili="wikidata-it-L1201922-S1" partOfSpeech="m">
       <Definition>160</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201960-S1" ili="wikidata-it-L1201960-S1">
+    <Synset id="wikidata-it-L1201960-S1" ili="wikidata-it-L1201960-S1" partOfSpeech="m">
       <Definition>300000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1255652-S1" ili="wikidata-it-L1255652-S1">
+    <Synset id="wikidata-it-L1255652-S1" ili="wikidata-it-L1255652-S1" partOfSpeech="indefinite adjective">
       <Definition>indica qualità o quantità indeterminata</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1255655-S1" ili="wikidata-it-L1255655-S1">
+    <Synset id="wikidata-it-L1255655-S1" ili="wikidata-it-L1255655-S1" partOfSpeech="h">
       <Definition>una diversa persona o cosa</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1725-S1" ili="wikidata-it-L1725-S1">
+    <Synset id="wikidata-it-L1725-S1" ili="wikidata-it-L1725-S1" partOfSpeech="h">
       <Definition>per chiedere di identificare una o più persone</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5163-S1" ili="wikidata-it-L5163-S1">
+    <Synset id="wikidata-it-L5163-S1" ili="wikidata-it-L5163-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7401-S1" ili="l2986-s1">
+    <Synset id="wikidata-it-L7401-S1" ili="l2986-s1" partOfSpeech="p">
       <Definition>Indica la composizione di un gruppo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7401-S2" ili="wikidata-it-L7401-S2">
+    <Synset id="wikidata-it-L7401-S2" ili="wikidata-it-L7401-S2" partOfSpeech="p">
       <Definition>Indica l&apos;autore di un&apos;azione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7401-S3" ili="wikidata-it-L7401-S3">
+    <Synset id="wikidata-it-L7401-S3" ili="wikidata-it-L7401-S3" partOfSpeech="p">
       <Definition>indica una relazione di possesso/appartenenza</Definition>
     </Synset>
-    <Synset id="wikidata-it-L21271-S1" ili="wikidata-it-L21271-S1">
+    <Synset id="wikidata-it-L21271-S1" ili="wikidata-it-L21271-S1" partOfSpeech="h">
       <Definition>prima persona singolare</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640545-S1" ili="wikidata-it-L640545-S1">
+    <Synset id="wikidata-it-L640545-S1" ili="wikidata-it-L640545-S1" partOfSpeech="r">
       <Definition>in forma succinta, coincisa</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640545-S2" ili="wikidata-it-L640545-S2">
+    <Synset id="wikidata-it-L640545-S2" ili="wikidata-it-L640545-S2" partOfSpeech="r">
       <Definition>locuzione che si usa prima di riassumere quanto detto in precedenza o arrivare in fretta al punto principale della questione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L643346-S1" ili="wikidata-it-L643346-S1">
+    <Synset id="wikidata-it-L643346-S1" ili="wikidata-it-L643346-S1" partOfSpeech="h">
       <Definition>terza persona singolare femminile</Definition>
     </Synset>
-    <Synset id="wikidata-it-L643349-S1" ili="wikidata-it-L643349-S1">
+    <Synset id="wikidata-it-L643349-S1" ili="wikidata-it-L643349-S1" partOfSpeech="h">
       <Definition>terza persona plurale femminile</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165722-S1" ili="wikidata-it-L1165722-S1">
+    <Synset id="wikidata-it-L1165722-S1" ili="wikidata-it-L1165722-S1" partOfSpeech="i">
       <Definition>comando di interruzione o sospensione repentina di un&apos;azione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165767-S1" ili="wikidata-it-L1165767-S1">
+    <Synset id="wikidata-it-L1165767-S1" ili="wikidata-it-L1165767-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165780-S1" ili="wikidata-it-L1165780-S1">
+    <Synset id="wikidata-it-L1165780-S1" ili="wikidata-it-L1165780-S1" partOfSpeech="i">
       <Definition>esprime contrarietà, rabbia o frustrazione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165793-S1" ili="wikidata-it-L1165793-S1">
+    <Synset id="wikidata-it-L1165793-S1" ili="wikidata-it-L1165793-S1" partOfSpeech="i">
       <Definition>indica disapprovazione, talvolta anche negazione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165806-S1" ili="wikidata-it-L1165806-S1">
+    <Synset id="wikidata-it-L1165806-S1" ili="wikidata-it-L1165806-S1" partOfSpeech="i">
       <Definition>espressione di stupore per qualcosa considerato assurdo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201771-S1" ili="wikidata-it-L1201771-S1">
+    <Synset id="wikidata-it-L1201771-S1" ili="wikidata-it-L1201771-S1" partOfSpeech="m">
       <Definition>600</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201782-S1" ili="wikidata-it-L1201782-S1">
+    <Synset id="wikidata-it-L1201782-S1" ili="wikidata-it-L1201782-S1" partOfSpeech="m">
       <Definition>uno seguito da cento zeri</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201797-S1" ili="wikidata-it-L1201797-S1">
+    <Synset id="wikidata-it-L1201797-S1" ili="wikidata-it-L1201797-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201799-S1" ili="wikidata-it-L1201799-S1">
+    <Synset id="wikidata-it-L1201799-S1" ili="wikidata-it-L1201799-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201803-S1" ili="wikidata-it-L1201803-S1">
+    <Synset id="wikidata-it-L1201803-S1" ili="wikidata-it-L1201803-S1" partOfSpeech="m">
       <Definition>20</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201825-S1" ili="wikidata-it-L1201825-S1">
+    <Synset id="wikidata-it-L1201825-S1" ili="wikidata-it-L1201825-S1" partOfSpeech="m">
       <Definition>34</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201828-S1" ili="wikidata-it-L1201828-S1">
+    <Synset id="wikidata-it-L1201828-S1" ili="wikidata-it-L1201828-S1" partOfSpeech="m">
       <Definition>36</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201833-S1" ili="wikidata-it-L1201833-S1">
+    <Synset id="wikidata-it-L1201833-S1" ili="wikidata-it-L1201833-S1" partOfSpeech="m">
       <Definition>39</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201843-S1" ili="wikidata-it-L1201843-S1">
+    <Synset id="wikidata-it-L1201843-S1" ili="wikidata-it-L1201843-S1" partOfSpeech="m">
       <Definition>46</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201866-S1" ili="wikidata-it-L1201866-S1">
+    <Synset id="wikidata-it-L1201866-S1" ili="wikidata-it-L1201866-S1" partOfSpeech="m">
       <Definition>62</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201875-S1" ili="wikidata-it-L1201875-S1">
+    <Synset id="wikidata-it-L1201875-S1" ili="wikidata-it-L1201875-S1" partOfSpeech="m">
       <Definition>68</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201888-S1" ili="wikidata-it-L1201888-S1">
+    <Synset id="wikidata-it-L1201888-S1" ili="wikidata-it-L1201888-S1" partOfSpeech="m">
       <Definition>77</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201889-S1" ili="wikidata-it-L1201889-S1">
+    <Synset id="wikidata-it-L1201889-S1" ili="wikidata-it-L1201889-S1" partOfSpeech="m">
       <Definition>78</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201895-S1" ili="wikidata-it-L1201895-S1">
+    <Synset id="wikidata-it-L1201895-S1" ili="wikidata-it-L1201895-S1" partOfSpeech="m">
       <Definition>82</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201924-S1" ili="wikidata-it-L1201924-S1">
+    <Synset id="wikidata-it-L1201924-S1" ili="wikidata-it-L1201924-S1" partOfSpeech="m">
       <Definition>180</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201936-S1" ili="wikidata-it-L1201936-S1">
+    <Synset id="wikidata-it-L1201936-S1" ili="wikidata-it-L1201936-S1" partOfSpeech="m">
       <Definition>750</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201938-S1" ili="wikidata-it-L1201938-S1">
+    <Synset id="wikidata-it-L1201938-S1" ili="wikidata-it-L1201938-S1" partOfSpeech="m">
       <Definition>310</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201943-S1" ili="wikidata-it-L1201943-S1">
+    <Synset id="wikidata-it-L1201943-S1" ili="wikidata-it-L1201943-S1" partOfSpeech="m">
       <Definition>370</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201963-S1" ili="wikidata-it-L1201963-S1">
+    <Synset id="wikidata-it-L1201963-S1" ili="wikidata-it-L1201963-S1" partOfSpeech="m">
       <Definition>11000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1213311-S1" ili="wikidata-it-L1213311-S1">
+    <Synset id="wikidata-it-L1213311-S1" ili="wikidata-it-L1213311-S1" partOfSpeech="h">
       <Definition>qualunque persona</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1413650-S1" ili="wikidata-it-L1413650-S1">
+    <Synset id="wikidata-it-L1413650-S1" ili="wikidata-it-L1413650-S1" partOfSpeech="i">
       <Definition>alla salute, alla tua</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1475713-S1" ili="wikidata-it-L1475713-S1">
+    <Synset id="wikidata-it-L1475713-S1" ili="wikidata-it-L1475713-S1" partOfSpeech="indeclinable noun">
       <Definition>bevanda usata in Sud America, ricavata dall&apos;omonima pianta della famiglia delle Aquifogliacee</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5154-S1" ili="l327-s1">
+    <Synset id="wikidata-it-L5154-S1" ili="l327-s1" partOfSpeech="m">
       <Definition>cardinale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5160-S1" ili="wikidata-it-L5160-S1">
+    <Synset id="wikidata-it-L5160-S1" ili="wikidata-it-L5160-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7404-S1" ili="l2987-s1">
+    <Synset id="wikidata-it-L7404-S1" ili="l2987-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L8480-S2" ili="wikidata-it-L8480-S2">
+    <Synset id="wikidata-it-L8480-S2" ili="wikidata-it-L8480-S2" partOfSpeech="d">
       <Definition>articolo indeterminato che accompagna un elemento non meglio identificato</Definition>
     </Synset>
-    <Synset id="wikidata-it-L21275-S1" ili="wikidata-it-L21275-S1">
+    <Synset id="wikidata-it-L21275-S1" ili="wikidata-it-L21275-S1" partOfSpeech="h">
       <Definition>prima persona plurale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L313550-S1" ili="l8885-s1">
+    <Synset id="wikidata-it-L313550-S1" ili="l8885-s1" partOfSpeech="i">
       <Definition>saluto</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640447-S1" ili="wikidata-it-L640447-S1">
+    <Synset id="wikidata-it-L640447-S1" ili="wikidata-it-L640447-S1" partOfSpeech="r">
       <Definition>detto di qualcosa che non era mai successo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L642867-S1" ili="wikidata-it-L642867-S1">
+    <Synset id="wikidata-it-L642867-S1" ili="wikidata-it-L642867-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L642867-S2" ili="wikidata-it-L642867-S2">
+    <Synset id="wikidata-it-L642867-S2" ili="wikidata-it-L642867-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L643347-S1" ili="wikidata-it-L643347-S1">
+    <Synset id="wikidata-it-L643347-S1" ili="wikidata-it-L643347-S1" partOfSpeech="h">
       <Definition>seconda persona plurale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165762-S1" ili="wikidata-it-L1165762-S1">
+    <Synset id="wikidata-it-L1165762-S1" ili="wikidata-it-L1165762-S1" partOfSpeech="i">
       <Definition>termine volgare per indicare i genitali femminili</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201779-S1" ili="wikidata-it-L1201779-S1">
+    <Synset id="wikidata-it-L1201779-S1" ili="wikidata-it-L1201779-S1" partOfSpeech="m">
       <Definition>3000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201807-S1" ili="wikidata-it-L1201807-S1">
+    <Synset id="wikidata-it-L1201807-S1" ili="wikidata-it-L1201807-S1" partOfSpeech="m">
       <Definition>22</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201813-S1" ili="wikidata-it-L1201813-S1">
+    <Synset id="wikidata-it-L1201813-S1" ili="wikidata-it-L1201813-S1" partOfSpeech="m">
       <Definition>26</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201820-S1" ili="wikidata-it-L1201820-S1">
+    <Synset id="wikidata-it-L1201820-S1" ili="wikidata-it-L1201820-S1" partOfSpeech="m">
       <Definition>31</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201849-S1" ili="wikidata-it-L1201849-S1">
+    <Synset id="wikidata-it-L1201849-S1" ili="wikidata-it-L1201849-S1" partOfSpeech="m">
       <Definition>50</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201850-S1" ili="wikidata-it-L1201850-S1">
+    <Synset id="wikidata-it-L1201850-S1" ili="wikidata-it-L1201850-S1" partOfSpeech="m">
       <Definition>51</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201852-S1" ili="wikidata-it-L1201852-S1">
+    <Synset id="wikidata-it-L1201852-S1" ili="wikidata-it-L1201852-S1" partOfSpeech="m">
       <Definition>52</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201853-S1" ili="wikidata-it-L1201853-S1">
+    <Synset id="wikidata-it-L1201853-S1" ili="wikidata-it-L1201853-S1" partOfSpeech="m">
       <Definition>53</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201868-S1" ili="wikidata-it-L1201868-S1">
+    <Synset id="wikidata-it-L1201868-S1" ili="wikidata-it-L1201868-S1" partOfSpeech="m">
       <Definition>63</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201869-S1" ili="wikidata-it-L1201869-S1">
+    <Synset id="wikidata-it-L1201869-S1" ili="wikidata-it-L1201869-S1" partOfSpeech="m">
       <Definition>64</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201874-S1" ili="wikidata-it-L1201874-S1">
+    <Synset id="wikidata-it-L1201874-S1" ili="wikidata-it-L1201874-S1" partOfSpeech="m">
       <Definition>67</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201884-S1" ili="wikidata-it-L1201884-S1">
+    <Synset id="wikidata-it-L1201884-S1" ili="wikidata-it-L1201884-S1" partOfSpeech="m">
       <Definition>74</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201891-S1" ili="wikidata-it-L1201891-S1">
+    <Synset id="wikidata-it-L1201891-S1" ili="wikidata-it-L1201891-S1" partOfSpeech="m">
       <Definition>79</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201907-S1" ili="wikidata-it-L1201907-S1">
+    <Synset id="wikidata-it-L1201907-S1" ili="wikidata-it-L1201907-S1" partOfSpeech="m">
       <Definition>90</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201910-S1" ili="wikidata-it-L1201910-S1">
+    <Synset id="wikidata-it-L1201910-S1" ili="wikidata-it-L1201910-S1" partOfSpeech="m">
       <Definition>92</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201920-S1" ili="wikidata-it-L1201920-S1">
+    <Synset id="wikidata-it-L1201920-S1" ili="wikidata-it-L1201920-S1" partOfSpeech="m">
       <Definition>99</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201928-S1" ili="wikidata-it-L1201928-S1">
+    <Synset id="wikidata-it-L1201928-S1" ili="wikidata-it-L1201928-S1" partOfSpeech="m">
       <Definition>290</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201930-S1" ili="wikidata-it-L1201930-S1">
+    <Synset id="wikidata-it-L1201930-S1" ili="wikidata-it-L1201930-S1" partOfSpeech="m">
       <Definition>260</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201940-S1" ili="wikidata-it-L1201940-S1">
+    <Synset id="wikidata-it-L1201940-S1" ili="wikidata-it-L1201940-S1" partOfSpeech="m">
       <Definition>390</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201941-S1" ili="wikidata-it-L1201941-S1">
+    <Synset id="wikidata-it-L1201941-S1" ili="wikidata-it-L1201941-S1" partOfSpeech="m">
       <Definition>360</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1333728-S1" ili="wikidata-it-L1333728-S1">
+    <Synset id="wikidata-it-L1333728-S1" ili="wikidata-it-L1333728-S1" partOfSpeech="m">
       <Definition>numero</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1727-S1" ili="wikidata-it-L1727-S1">
+    <Synset id="wikidata-it-L1727-S1" ili="wikidata-it-L1727-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L2774-S1" ili="l1385-s1">
+    <Synset id="wikidata-it-L2774-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>congiunzione semplice, copulativa e positiva</Definition>
     </Synset>
-    <Synset id="wikidata-it-L2779-S1" ili="wikidata-it-L2779-S1">
+    <Synset id="wikidata-it-L2779-S1" ili="wikidata-it-L2779-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L5155-S1" ili="wikidata-it-L5155-S1">
+    <Synset id="wikidata-it-L5155-S1" ili="wikidata-it-L5155-S1" partOfSpeech="m">
       <Definition>una coppia di</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5158-S1" ili="wikidata-it-L5158-S1">
+    <Synset id="wikidata-it-L5158-S1" ili="wikidata-it-L5158-S1" partOfSpeech="m">
       <Definition>cardinale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7406-S2" ili="l2260-s1">
+    <Synset id="wikidata-it-L7406-S2" ili="l2260-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7409-S1" ili="l3412-s1">
+    <Synset id="wikidata-it-L7409-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>in mezzo a</Definition>
     </Synset>
-    <Synset id="wikidata-it-L35592-S1" ili="wikidata-it-L35592-S1">
+    <Synset id="wikidata-it-L35592-S1" ili="wikidata-it-L35592-S1" partOfSpeech="numeral adjective">
       <Definition>numero ordinale preceduto dal primo e seguito dal terzo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1145114-S1" ili="wikidata-it-L1145114-S1">
+    <Synset id="wikidata-it-L1145114-S1" ili="wikidata-it-L1145114-S1" partOfSpeech="m">
       <Definition>500000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165727-S1" ili="wikidata-it-L1165727-S1">
+    <Synset id="wikidata-it-L1165727-S1" ili="wikidata-it-L1165727-S1" partOfSpeech="i">
       <Definition>&quot;vattene via&quot;</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165781-S1" ili="wikidata-it-L1165781-S1">
+    <Synset id="wikidata-it-L1165781-S1" ili="wikidata-it-L1165781-S1" partOfSpeech="i">
       <Definition>termine onomatopeico per indicare il caratteristico verso del gatto</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165816-S1" ili="wikidata-it-L1165816-S1">
+    <Synset id="wikidata-it-L1165816-S1" ili="wikidata-it-L1165816-S1" partOfSpeech="i">
       <Definition>come segnale di partenza</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165829-S1" ili="wikidata-it-L1165829-S1">
+    <Synset id="wikidata-it-L1165829-S1" ili="wikidata-it-L1165829-S1" partOfSpeech="c">
       <Definition>anche</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165861-S1" ili="wikidata-it-L1165861-S1">
+    <Synset id="wikidata-it-L1165861-S1" ili="wikidata-it-L1165861-S1" partOfSpeech="c">
       <Definition>persino, perfino</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165877-S1" ili="l3318-s1">
+    <Synset id="wikidata-it-L1165877-S1" ili="l3318-s1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201777-S1" ili="wikidata-it-L1201777-S1">
+    <Synset id="wikidata-it-L1201777-S1" ili="wikidata-it-L1201777-S1" partOfSpeech="m">
       <Definition>2000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201806-S1" ili="wikidata-it-L1201806-S1">
+    <Synset id="wikidata-it-L1201806-S1" ili="wikidata-it-L1201806-S1" partOfSpeech="m">
       <Definition>uno seguito da un googol di zeri</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201809-S1" ili="wikidata-it-L1201809-S1">
+    <Synset id="wikidata-it-L1201809-S1" ili="wikidata-it-L1201809-S1" partOfSpeech="m">
       <Definition>23</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201810-S1" ili="wikidata-it-L1201810-S1">
+    <Synset id="wikidata-it-L1201810-S1" ili="wikidata-it-L1201810-S1" partOfSpeech="m">
       <Definition>24</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201817-S1" ili="wikidata-it-L1201817-S1">
+    <Synset id="wikidata-it-L1201817-S1" ili="wikidata-it-L1201817-S1" partOfSpeech="m">
       <Definition>29</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201840-S1" ili="wikidata-it-L1201840-S1">
+    <Synset id="wikidata-it-L1201840-S1" ili="wikidata-it-L1201840-S1" partOfSpeech="m">
       <Definition>44</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201865-S1" ili="wikidata-it-L1201865-S1">
+    <Synset id="wikidata-it-L1201865-S1" ili="wikidata-it-L1201865-S1" partOfSpeech="m">
       <Definition>61</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201876-S1" ili="wikidata-it-L1201876-S1">
+    <Synset id="wikidata-it-L1201876-S1" ili="wikidata-it-L1201876-S1" partOfSpeech="m">
       <Definition>69</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201876-S2" ili="wikidata-it-L1201876-S2">
+    <Synset id="wikidata-it-L1201876-S2" ili="wikidata-it-L1201876-S2" partOfSpeech="m">
       <Definition>posizione sessuale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201881-S1" ili="wikidata-it-L1201881-S1">
+    <Synset id="wikidata-it-L1201881-S1" ili="wikidata-it-L1201881-S1" partOfSpeech="m">
       <Definition>72</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201886-S1" ili="wikidata-it-L1201886-S1">
+    <Synset id="wikidata-it-L1201886-S1" ili="wikidata-it-L1201886-S1" partOfSpeech="m">
       <Definition>76</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201902-S1" ili="wikidata-it-L1201902-S1">
+    <Synset id="wikidata-it-L1201902-S1" ili="wikidata-it-L1201902-S1" partOfSpeech="m">
       <Definition>87</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201904-S1" ili="wikidata-it-L1201904-S1">
+    <Synset id="wikidata-it-L1201904-S1" ili="wikidata-it-L1201904-S1" partOfSpeech="m">
       <Definition>88</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201905-S1" ili="wikidata-it-L1201905-S1">
+    <Synset id="wikidata-it-L1201905-S1" ili="wikidata-it-L1201905-S1" partOfSpeech="m">
       <Definition>89</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201908-S1" ili="wikidata-it-L1201908-S1">
+    <Synset id="wikidata-it-L1201908-S1" ili="wikidata-it-L1201908-S1" partOfSpeech="m">
       <Definition>91</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201911-S1" ili="wikidata-it-L1201911-S1">
+    <Synset id="wikidata-it-L1201911-S1" ili="wikidata-it-L1201911-S1" partOfSpeech="m">
       <Definition>93</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201914-S1" ili="wikidata-it-L1201914-S1">
+    <Synset id="wikidata-it-L1201914-S1" ili="wikidata-it-L1201914-S1" partOfSpeech="m">
       <Definition>95</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201915-S1" ili="wikidata-it-L1201915-S1">
+    <Synset id="wikidata-it-L1201915-S1" ili="wikidata-it-L1201915-S1" partOfSpeech="m">
       <Definition>96</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201933-S1" ili="wikidata-it-L1201933-S1">
+    <Synset id="wikidata-it-L1201933-S1" ili="wikidata-it-L1201933-S1" partOfSpeech="m">
       <Definition>280</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201934-S1" ili="wikidata-it-L1201934-S1">
+    <Synset id="wikidata-it-L1201934-S1" ili="wikidata-it-L1201934-S1" partOfSpeech="m">
       <Definition>220</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201949-S1" ili="wikidata-it-L1201949-S1">
+    <Synset id="wikidata-it-L1201949-S1" ili="wikidata-it-L1201949-S1" partOfSpeech="m">
       <Definition>10000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201950-S1" ili="wikidata-it-L1201950-S1">
+    <Synset id="wikidata-it-L1201950-S1" ili="wikidata-it-L1201950-S1" partOfSpeech="m">
       <Definition>12000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201952-S1" ili="wikidata-it-L1201952-S1">
+    <Synset id="wikidata-it-L1201952-S1" ili="wikidata-it-L1201952-S1" partOfSpeech="m">
       <Definition>200000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201956-S1" ili="wikidata-it-L1201956-S1">
+    <Synset id="wikidata-it-L1201956-S1" ili="wikidata-it-L1201956-S1" partOfSpeech="m">
       <Definition>400000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201957-S1" ili="wikidata-it-L1201957-S1">
+    <Synset id="wikidata-it-L1201957-S1" ili="wikidata-it-L1201957-S1" partOfSpeech="m">
       <Definition>15000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1233763-S1" ili="wikidata-it-L1233763-S1">
+    <Synset id="wikidata-it-L1233763-S1" ili="wikidata-it-L1233763-S1" partOfSpeech="h">
       <Definition>quale, che</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5157-S1" ili="wikidata-it-L5157-S1">
+    <Synset id="wikidata-it-L5157-S1" ili="wikidata-it-L5157-S1" partOfSpeech="m">
       <Definition>cardinale</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7405-S1" ili="l2991-s1">
+    <Synset id="wikidata-it-L7405-S1" ili="l2991-s1" partOfSpeech="p">
       <Definition>indica compagnia o unione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8206-S1" ili="l1367828-s1">
+    <Synset id="wikidata-it-L8206-S1" ili="l1367828-s1" partOfSpeech="h">
       <Definition>che appartiene a me</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8209-S1" ili="l1367832-s1">
+    <Synset id="wikidata-it-L8209-S1" ili="l1367832-s1" partOfSpeech="h">
       <Definition>che appartiene a noi</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8366-S3" ili="wikidata-it-L8366-S3">
+    <Synset id="wikidata-it-L8366-S3" ili="wikidata-it-L8366-S3" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L21234-S1" ili="wikidata-it-L21234-S1">
+    <Synset id="wikidata-it-L21234-S1" ili="wikidata-it-L21234-S1" partOfSpeech="m">
       <Definition>numero dopo novantanove e prima di centouno</Definition>
     </Synset>
-    <Synset id="wikidata-it-L21274-S1" ili="wikidata-it-L21274-S1">
+    <Synset id="wikidata-it-L21274-S1" ili="wikidata-it-L21274-S1" partOfSpeech="h">
       <Definition>questo, quello e codesto con significato neutro</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640214-S1" ili="wikidata-it-L640214-S1">
+    <Synset id="wikidata-it-L640214-S1" ili="wikidata-it-L640214-S1" partOfSpeech="r">
       <Definition>Separatamente, in altro contesto o occasione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640214-S2" ili="wikidata-it-L640214-S2">
+    <Synset id="wikidata-it-L640214-S2" ili="wikidata-it-L640214-S2" partOfSpeech="r">
       <Definition>Non incluso nel costo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640214-S3" ili="wikidata-it-L640214-S3">
+    <Synset id="wikidata-it-L640214-S3" ili="wikidata-it-L640214-S3" partOfSpeech="r">
       <Definition>Con l&apos;eccezione di, nonostante</Definition>
     </Synset>
-    <Synset id="wikidata-it-L643344-S1" ili="l482-s1">
+    <Synset id="wikidata-it-L643344-S1" ili="l482-s1" partOfSpeech="h">
       <Definition>seconda persona singolare</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1145349-S1" ili="wikidata-it-L1145349-S1">
+    <Synset id="wikidata-it-L1145349-S1" ili="wikidata-it-L1145349-S1" partOfSpeech="m">
       <Definition>1000000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165735-S1" ili="wikidata-it-L1165735-S1">
+    <Synset id="wikidata-it-L1165735-S1" ili="wikidata-it-L1165735-S1" partOfSpeech="i">
       <Definition>esclamazione di approvazione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165769-S1" ili="wikidata-it-L1165769-S1">
+    <Synset id="wikidata-it-L1165769-S1" ili="wikidata-it-L1165769-S1" partOfSpeech="i">
       <Definition>esclamazione di minaccia</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165803-S1" ili="wikidata-it-L1165803-S1">
+    <Synset id="wikidata-it-L1165803-S1" ili="wikidata-it-L1165803-S1" partOfSpeech="i">
       <Definition>onomatopea che riproduce il suono di un campanello</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201758-S1" ili="wikidata-it-L1201758-S1">
+    <Synset id="wikidata-it-L1201758-S1" ili="wikidata-it-L1201758-S1" partOfSpeech="m">
       <Definition>1000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201783-S1" ili="wikidata-it-L1201783-S1">
+    <Synset id="wikidata-it-L1201783-S1" ili="wikidata-it-L1201783-S1" partOfSpeech="m">
       <Definition>5000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201784-S1" ili="wikidata-it-L1201784-S1">
+    <Synset id="wikidata-it-L1201784-S1" ili="wikidata-it-L1201784-S1" partOfSpeech="m">
       <Definition>6000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201786-S1" ili="wikidata-it-L1201786-S1">
+    <Synset id="wikidata-it-L1201786-S1" ili="wikidata-it-L1201786-S1" partOfSpeech="m">
       <Definition>7000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201790-S1" ili="wikidata-it-L1201790-S1">
+    <Synset id="wikidata-it-L1201790-S1" ili="wikidata-it-L1201790-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201790-S2" ili="wikidata-it-L1201790-S2">
+    <Synset id="wikidata-it-L1201790-S2" ili="wikidata-it-L1201790-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201795-S1" ili="wikidata-it-L1201795-S1">
+    <Synset id="wikidata-it-L1201795-S1" ili="wikidata-it-L1201795-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201805-S1" ili="wikidata-it-L1201805-S1">
+    <Synset id="wikidata-it-L1201805-S1" ili="wikidata-it-L1201805-S1" partOfSpeech="m">
       <Definition>21</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201836-S1" ili="wikidata-it-L1201836-S1">
+    <Synset id="wikidata-it-L1201836-S1" ili="wikidata-it-L1201836-S1" partOfSpeech="m">
       <Definition>41</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201848-S1" ili="wikidata-it-L1201848-S1">
+    <Synset id="wikidata-it-L1201848-S1" ili="wikidata-it-L1201848-S1" partOfSpeech="m">
       <Definition>49</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201859-S1" ili="wikidata-it-L1201859-S1">
+    <Synset id="wikidata-it-L1201859-S1" ili="wikidata-it-L1201859-S1" partOfSpeech="m">
       <Definition>57</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201862-S1" ili="wikidata-it-L1201862-S1">
+    <Synset id="wikidata-it-L1201862-S1" ili="wikidata-it-L1201862-S1" partOfSpeech="m">
       <Definition>59</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201871-S1" ili="wikidata-it-L1201871-S1">
+    <Synset id="wikidata-it-L1201871-S1" ili="wikidata-it-L1201871-S1" partOfSpeech="m">
       <Definition>65</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201885-S1" ili="wikidata-it-L1201885-S1">
+    <Synset id="wikidata-it-L1201885-S1" ili="wikidata-it-L1201885-S1" partOfSpeech="m">
       <Definition>75</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201900-S1" ili="wikidata-it-L1201900-S1">
+    <Synset id="wikidata-it-L1201900-S1" ili="wikidata-it-L1201900-S1" partOfSpeech="m">
       <Definition>85</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201912-S1" ili="wikidata-it-L1201912-S1">
+    <Synset id="wikidata-it-L1201912-S1" ili="wikidata-it-L1201912-S1" partOfSpeech="m">
       <Definition>94</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201925-S1" ili="wikidata-it-L1201925-S1">
+    <Synset id="wikidata-it-L1201925-S1" ili="wikidata-it-L1201925-S1" partOfSpeech="m">
       <Definition>250</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201931-S1" ili="wikidata-it-L1201931-S1">
+    <Synset id="wikidata-it-L1201931-S1" ili="wikidata-it-L1201931-S1" partOfSpeech="m">
       <Definition>230</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201946-S1" ili="wikidata-it-L1201946-S1">
+    <Synset id="wikidata-it-L1201946-S1" ili="wikidata-it-L1201946-S1" partOfSpeech="m">
       <Definition>380</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201954-S1" ili="wikidata-it-L1201954-S1">
+    <Synset id="wikidata-it-L1201954-S1" ili="wikidata-it-L1201954-S1" partOfSpeech="m">
       <Definition>14000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201961-S1" ili="wikidata-it-L1201961-S1">
+    <Synset id="wikidata-it-L1201961-S1" ili="wikidata-it-L1201961-S1" partOfSpeech="m">
       <Definition>13000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1211952-S1" ili="wikidata-it-L1211952-S1">
+    <Synset id="wikidata-it-L1211952-S1" ili="wikidata-it-L1211952-S1" partOfSpeech="p">
       <Definition>sovrapporsi di una cosa su un&apos;altra</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1236812-S1" ili="wikidata-it-L1236812-S1">
+    <Synset id="wikidata-it-L1236812-S1" ili="wikidata-it-L1236812-S1" partOfSpeech="p">
       <Definition>prefisso di cognome</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1244365-S1" ili="wikidata-it-L1244365-S1">
+    <Synset id="wikidata-it-L1244365-S1" ili="wikidata-it-L1244365-S1" partOfSpeech="h">
       <Definition>questo individuo, questa persona</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1493981-S1" ili="wikidata-it-L1493981-S1">
+    <Synset id="wikidata-it-L1493981-S1" ili="wikidata-it-L1493981-S1" partOfSpeech="p">
       <Definition>forma contratta per dire &quot;con te&quot;</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1521708-S1" ili="wikidata-it-L1521708-S1">
+    <Synset id="wikidata-it-L1521708-S1" ili="wikidata-it-L1521708-S1" partOfSpeech="p">
       <Definition>forma contratta per dire &quot;con me&quot;</Definition>
     </Synset>
-    <Synset id="wikidata-it-L5162-S1" ili="wikidata-it-L5162-S1">
+    <Synset id="wikidata-it-L5162-S1" ili="wikidata-it-L5162-S1" partOfSpeech="m">
       <Definition>numero ordinale per 9</Definition>
     </Synset>
-    <Synset id="wikidata-it-L7403-S1" ili="l2168-s1">
+    <Synset id="wikidata-it-L7403-S1" ili="l2168-s1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7403-S2" ili="l2168-s2">
+    <Synset id="wikidata-it-L7403-S2" ili="l2168-s2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L7408-S1" ili="l3412-s1">
+    <Synset id="wikidata-it-L7408-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>in mezzo a</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640221-S1" ili="wikidata-it-L640221-S1">
+    <Synset id="wikidata-it-L640221-S1" ili="wikidata-it-L640221-S1" partOfSpeech="r">
       <Definition>Parzialmente, non completamente</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640221-S2" ili="wikidata-it-L640221-S2">
+    <Synset id="wikidata-it-L640221-S2" ili="wikidata-it-L640221-S2" partOfSpeech="r">
       <Definition>In disparte, da parte</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640249-S1" ili="wikidata-it-L640249-S1">
+    <Synset id="wikidata-it-L640249-S1" ili="wikidata-it-L640249-S1" partOfSpeech="i">
       <Definition>esortazione a prestare attenzione a qualcosa</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640787-S1" ili="wikidata-it-L640787-S1">
+    <Synset id="wikidata-it-L640787-S1" ili="wikidata-it-L640787-S1" partOfSpeech="indeclinable noun">
       <Definition>sport a cui partecipano due squadre, composte da quattro fantini, che tentano di spedire nella porta avversa una palla dura di legno o di gomma dura battendola con una mazza</Definition>
     </Synset>
-    <Synset id="wikidata-it-L640791-S1" ili="wikidata-it-L640791-S1">
+    <Synset id="wikidata-it-L640791-S1" ili="wikidata-it-L640791-S1" partOfSpeech="indeclinable noun">
       <Definition>maglia con colletto e bottoni</Definition>
     </Synset>
-    <Synset id="wikidata-it-L643345-S1" ili="wikidata-it-L643345-S1">
+    <Synset id="wikidata-it-L643345-S1" ili="wikidata-it-L643345-S1" partOfSpeech="h">
       <Definition>terza persona singolare maschile</Definition>
     </Synset>
-    <Synset id="wikidata-it-L643348-S1" ili="wikidata-it-L643348-S1">
+    <Synset id="wikidata-it-L643348-S1" ili="wikidata-it-L643348-S1" partOfSpeech="h">
       <Definition>terza persona plurale maschile</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165725-S1" ili="wikidata-it-L1165725-S1">
+    <Synset id="wikidata-it-L1165725-S1" ili="wikidata-it-L1165725-S1" partOfSpeech="i">
       <Definition>parola ebraica</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165747-S1" ili="wikidata-it-L1165747-S1">
+    <Synset id="wikidata-it-L1165747-S1" ili="wikidata-it-L1165747-S1" partOfSpeech="i">
       <Definition>riproduce il suono di un oggetto soffice schiacciato</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165763-S1" ili="wikidata-it-L1165763-S1">
+    <Synset id="wikidata-it-L1165763-S1" ili="wikidata-it-L1165763-S1" partOfSpeech="i">
       <Definition>denota stupore o rabbia</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165903-S1" ili="wikidata-it-L1165903-S1">
+    <Synset id="wikidata-it-L1165903-S1" ili="wikidata-it-L1165903-S1" partOfSpeech="c">
       <Definition>dopo che, allorché</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1199699-S1" ili="wikidata-it-L1199699-S1">
+    <Synset id="wikidata-it-L1199699-S1" ili="wikidata-it-L1199699-S1" partOfSpeech="indefinite adjective">
       <Definition>differente, diverso</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201769-S1" ili="wikidata-it-L1201769-S1">
+    <Synset id="wikidata-it-L1201769-S1" ili="wikidata-it-L1201769-S1" partOfSpeech="m">
       <Definition>400</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201796-S1" ili="wikidata-it-L1201796-S1">
+    <Synset id="wikidata-it-L1201796-S1" ili="wikidata-it-L1201796-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201796-S2" ili="wikidata-it-L1201796-S2">
+    <Synset id="wikidata-it-L1201796-S2" ili="wikidata-it-L1201796-S2" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201802-S1" ili="wikidata-it-L1201802-S1">
+    <Synset id="wikidata-it-L1201802-S1" ili="wikidata-it-L1201802-S1" partOfSpeech="m">
       <Definition>19</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201823-S1" ili="wikidata-it-L1201823-S1">
+    <Synset id="wikidata-it-L1201823-S1" ili="wikidata-it-L1201823-S1" partOfSpeech="m">
       <Definition>33</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201832-S1" ili="wikidata-it-L1201832-S1">
+    <Synset id="wikidata-it-L1201832-S1" ili="wikidata-it-L1201832-S1" partOfSpeech="m">
       <Definition>uno seguito da un googolplex di zeri</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201837-S1" ili="wikidata-it-L1201837-S1">
+    <Synset id="wikidata-it-L1201837-S1" ili="wikidata-it-L1201837-S1" partOfSpeech="m">
       <Definition>42</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201839-S1" ili="wikidata-it-L1201839-S1">
+    <Synset id="wikidata-it-L1201839-S1" ili="wikidata-it-L1201839-S1" partOfSpeech="m">
       <Definition>43</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201856-S1" ili="wikidata-it-L1201856-S1">
+    <Synset id="wikidata-it-L1201856-S1" ili="wikidata-it-L1201856-S1" partOfSpeech="m">
       <Definition>55</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201882-S1" ili="wikidata-it-L1201882-S1">
+    <Synset id="wikidata-it-L1201882-S1" ili="wikidata-it-L1201882-S1" partOfSpeech="m">
       <Definition>73</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1232495-S1" ili="wikidata-it-L1232495-S1">
+    <Synset id="wikidata-it-L1232495-S1" ili="wikidata-it-L1232495-S1" partOfSpeech="indefinite adjective">
       <Definition>tutte le volte</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1413166-S1" ili="wikidata-it-L1413166-S1">
+    <Synset id="wikidata-it-L1413166-S1" ili="wikidata-it-L1413166-S1" partOfSpeech="i">
       <Definition>esclamazione usata in ambito liturgico</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1413988-S1" ili="wikidata-it-L1413988-S1">
+    <Synset id="wikidata-it-L1413988-S1" ili="wikidata-it-L1413988-S1" partOfSpeech="h">
       <Definition>chiunque</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1728-S1" ili="wikidata-it-L1728-S1">
+    <Synset id="wikidata-it-L1728-S1" ili="wikidata-it-L1728-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1730-S1" ili="wikidata-it-L1730-S1">
+    <Synset id="wikidata-it-L1730-S1" ili="wikidata-it-L1730-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L5161-S1" ili="wikidata-it-L5161-S1">
+    <Synset id="wikidata-it-L5161-S1" ili="wikidata-it-L5161-S1" partOfSpeech="m">
       <Definition>numero naturale che segue sette e precede nove</Definition>
     </Synset>
-    <Synset id="wikidata-it-L8208-S1" ili="l1370856-s1">
+    <Synset id="wikidata-it-L8208-S1" ili="l1370856-s1" partOfSpeech="h">
       <Definition>che appartiene a lui/lei</Definition>
     </Synset>
-    <Synset id="wikidata-it-L21245-S1" ili="wikidata-it-L21245-S1">
+    <Synset id="wikidata-it-L21245-S1" ili="wikidata-it-L21245-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L409875-S1" ili="wikidata-it-L409875-S1">
+    <Synset id="wikidata-it-L409875-S1" ili="wikidata-it-L409875-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L592385-S1" ili="wikidata-it-L592385-S1">
+    <Synset id="wikidata-it-L592385-S1" ili="wikidata-it-L592385-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1145348-S1" ili="wikidata-it-L1145348-S1">
+    <Synset id="wikidata-it-L1145348-S1" ili="wikidata-it-L1145348-S1" partOfSpeech="m">
       <Definition>1000000000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165468-S1" ili="wikidata-it-L1165468-S1">
+    <Synset id="wikidata-it-L1165468-S1" ili="wikidata-it-L1165468-S1" partOfSpeech="c">
       <Definition>introduce una spiegazione, una precisazione o una riformulazione</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165754-S1" ili="wikidata-it-L1165754-S1">
+    <Synset id="wikidata-it-L1165754-S1" ili="wikidata-it-L1165754-S1" partOfSpeech="i">
       <Definition>enfatizza il significato della frase</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165756-S1" ili="wikidata-it-L1165756-S1">
+    <Synset id="wikidata-it-L1165756-S1" ili="wikidata-it-L1165756-S1" partOfSpeech="i">
       <Definition>sottolinea un&apos;intuizione o una scoperta</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165774-S1" ili="wikidata-it-L1165774-S1">
+    <Synset id="wikidata-it-L1165774-S1" ili="wikidata-it-L1165774-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165813-S1" ili="wikidata-it-L1165813-S1">
+    <Synset id="wikidata-it-L1165813-S1" ili="wikidata-it-L1165813-S1" partOfSpeech="i">
       <Definition>espressione con riferimento a qualcosa di inaspettato, talvolta esagerato, al di là di quanto si vede comunemente</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165815-S1" ili="wikidata-it-L1165815-S1">
+    <Synset id="wikidata-it-L1165815-S1" ili="wikidata-it-L1165815-S1" partOfSpeech="i">
       <Definition>saluto di commiato</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165891-S1" ili="wikidata-it-L1165891-S1">
+    <Synset id="wikidata-it-L1165891-S1" ili="wikidata-it-L1165891-S1" partOfSpeech="c">
       <Definition>cioè</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165892-S1" ili="wikidata-it-L1165892-S1">
+    <Synset id="wikidata-it-L1165892-S1" ili="wikidata-it-L1165892-S1" partOfSpeech="c">
       <Definition>caso mai</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165896-S1" ili="wikidata-it-L1165896-S1">
+    <Synset id="wikidata-it-L1165896-S1" ili="wikidata-it-L1165896-S1" partOfSpeech="c">
       <Definition>di conseguenza, per questo motivo</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1165908-S1" ili="wikidata-it-L1165908-S1">
+    <Synset id="wikidata-it-L1165908-S1" ili="wikidata-it-L1165908-S1" partOfSpeech="c">
       <Definition>anche</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201789-S1" ili="wikidata-it-L1201789-S1">
+    <Synset id="wikidata-it-L1201789-S1" ili="wikidata-it-L1201789-S1" partOfSpeech="m">
       <Definition>9000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201792-S1" ili="wikidata-it-L1201792-S1">
+    <Synset id="wikidata-it-L1201792-S1" ili="wikidata-it-L1201792-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201793-S1" ili="wikidata-it-L1201793-S1">
+    <Synset id="wikidata-it-L1201793-S1" ili="wikidata-it-L1201793-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201812-S1" ili="wikidata-it-L1201812-S1">
+    <Synset id="wikidata-it-L1201812-S1" ili="wikidata-it-L1201812-S1" partOfSpeech="m">
       <Definition>25</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201834-S1" ili="wikidata-it-L1201834-S1">
+    <Synset id="wikidata-it-L1201834-S1" ili="wikidata-it-L1201834-S1" partOfSpeech="m">
       <Definition>40</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201846-S1" ili="wikidata-it-L1201846-S1">
+    <Synset id="wikidata-it-L1201846-S1" ili="wikidata-it-L1201846-S1" partOfSpeech="m">
       <Definition>48</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201846-S2" ili="wikidata-it-L1201846-S2">
+    <Synset id="wikidata-it-L1201846-S2" ili="wikidata-it-L1201846-S2" partOfSpeech="m">
       <Definition>subbuglio, rivoluzione (paragonando ai moti italiani del 1848)</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201879-S1" ili="wikidata-it-L1201879-S1">
+    <Synset id="wikidata-it-L1201879-S1" ili="wikidata-it-L1201879-S1" partOfSpeech="m">
       <Definition>71</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201892-S1" ili="wikidata-it-L1201892-S1">
+    <Synset id="wikidata-it-L1201892-S1" ili="wikidata-it-L1201892-S1" partOfSpeech="m">
       <Definition>80</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201897-S1" ili="wikidata-it-L1201897-S1">
+    <Synset id="wikidata-it-L1201897-S1" ili="wikidata-it-L1201897-S1" partOfSpeech="m">
       <Definition>83</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201917-S1" ili="wikidata-it-L1201917-S1">
+    <Synset id="wikidata-it-L1201917-S1" ili="wikidata-it-L1201917-S1" partOfSpeech="m">
       <Definition>97</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201937-S1" ili="wikidata-it-L1201937-S1">
+    <Synset id="wikidata-it-L1201937-S1" ili="wikidata-it-L1201937-S1" partOfSpeech="m">
       <Definition>720</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201953-S1" ili="wikidata-it-L1201953-S1">
+    <Synset id="wikidata-it-L1201953-S1" ili="wikidata-it-L1201953-S1" partOfSpeech="m">
       <Definition>800000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1201959-S1" ili="wikidata-it-L1201959-S1">
+    <Synset id="wikidata-it-L1201959-S1" ili="wikidata-it-L1201959-S1" partOfSpeech="m">
       <Definition>16000</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1202905-S1" ili="wikidata-it-L1202905-S1">
+    <Synset id="wikidata-it-L1202905-S1" ili="wikidata-it-L1202905-S1" partOfSpeech="m">
       <Definition>cifra antecedente ad uno</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1259867-S1" ili="wikidata-it-L1259867-S1">
+    <Synset id="wikidata-it-L1259867-S1" ili="wikidata-it-L1259867-S1" partOfSpeech="r">
       <Definition>locuzione latina che significa &quot;a parità d’altre condizioni&quot;</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1331890-S1" ili="wikidata-it-L1331890-S1">
+    <Synset id="wikidata-it-L1331890-S1" ili="wikidata-it-L1331890-S1" partOfSpeech="p">
       <Definition>in direzione di qualcosa o qualcuno</Definition>
     </Synset>
-    <Synset id="wikidata-it-L1413661-S1" ili="wikidata-it-L1413661-S1">
+    <Synset id="wikidata-it-L1413661-S1" ili="wikidata-it-L1413661-S1" partOfSpeech="i">
       <Definition>esclamazione di stupore</Definition>
     </Synset>
   </LexiconExtension>

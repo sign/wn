@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-ie" version="1.4"/>
     <LexicalEntry id="L407020">
-      <Lemma writtenForm="yes" partOfSpeech="interjection"/>
+      <Lemma writtenForm="yes" partOfSpeech="i"/>
       <Sense id="L407020-S1" synset="wikidata-ie-L407020-S1" ili="wikidata-ie-L407020-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ie-L407020-S1" ili="wikidata-ie-L407020-S1">
+    <Synset id="wikidata-ie-L407020-S1" ili="wikidata-ie-L407020-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

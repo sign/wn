@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-to" version="1.4"/>
     <LexicalEntry id="L940736">
-      <Lemma writtenForm="&apos;ikai" partOfSpeech="interjection"/>
+      <Lemma writtenForm="&apos;ikai" partOfSpeech="i"/>
       <Sense id="L940736-S1" synset="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1">
         <Definition></Definition>
       </Sense>
@@ -20,10 +20,10 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1">
+    <Synset id="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1">
+    <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1" partOfSpeech="locative noun">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

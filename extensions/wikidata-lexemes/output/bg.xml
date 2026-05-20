@@ -9,30 +9,30 @@
                     version="1.0">
     <Extends id="omw-bg" version="1.4"/>
     <LexicalEntry id="L941795">
-      <Lemma writtenForm="аз" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="аз" partOfSpeech="h"/>
       <Sense id="L941795-S1" synset="wikidata-bg-L941795-S1" ili="wikidata-bg-L941795-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L685328">
-      <Lemma writtenForm="един" partOfSpeech="numeral"/>
+      <Lemma writtenForm="един" partOfSpeech="m"/>
       <Sense id="L685328-S1" synset="wikidata-bg-L685328-S1" ili="wikidata-bg-L685328-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1219843">
-      <Lemma writtenForm="да" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="да" partOfSpeech="y"/>
       <Sense id="L1219843-S1" synset="wikidata-bg-L1219843-S1" ili="wikidata-bg-L1219843-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-bg-L941795-S1" ili="wikidata-bg-L941795-S1">
+    <Synset id="wikidata-bg-L941795-S1" ili="wikidata-bg-L941795-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-bg-L685328-S1" ili="wikidata-bg-L685328-S1">
+    <Synset id="wikidata-bg-L685328-S1" ili="wikidata-bg-L685328-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-bg-L1219843-S1" ili="wikidata-bg-L1219843-S1">
+    <Synset id="wikidata-bg-L1219843-S1" ili="wikidata-bg-L1219843-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

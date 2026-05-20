@@ -15,25 +15,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208712">
-      <Lemma writtenForm="alafede" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alafede" partOfSpeech="i"/>
       <Sense id="L208712-S1" synset="wikidata-eu-L208712-S1" ili="wikidata-eu-L208712-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208714">
-      <Lemma writtenForm="arraio" partOfSpeech="interjection"/>
+      <Lemma writtenForm="arraio" partOfSpeech="i"/>
       <Sense id="L208714-S1" synset="wikidata-eu-L208714-S1" ili="wikidata-eu-L208714-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208738">
-      <Lemma writtenForm="entzun" partOfSpeech="interjection"/>
+      <Lemma writtenForm="entzun" partOfSpeech="i"/>
       <Sense id="L208738-S1" synset="wikidata-eu-L208738-S1" ili="wikidata-eu-L208738-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208763">
-      <Lemma writtenForm="tok" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tok" partOfSpeech="i"/>
       <Sense id="L208763-S1" synset="wikidata-eu-L208763-S1" ili="wikidata-eu-L208763-S1">
         <Definition>gizonezko baten arreta deitzeko erabiltzen den hitza</Definition>
         <SenseRelation relType="similar" target="wikidata-eu-L208762-S1"/>
@@ -365,7 +365,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707734">
-      <Lemma writtenForm="zazpi" partOfSpeech="numeral"/>
+      <Lemma writtenForm="zazpi" partOfSpeech="m"/>
       <Sense id="L707734-S1" synset="wikidata-eu-L707734-S1" ili="wikidata-eu-L707734-S1">
         <Definition></Definition>
       </Sense>
@@ -384,13 +384,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208710">
-      <Lemma writtenForm="alajaina" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alajaina" partOfSpeech="i"/>
       <Sense id="L208710-S1" synset="wikidata-eu-L208710-S1" ili="wikidata-eu-L208710-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208747">
-      <Lemma writtenForm="hots" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hots" partOfSpeech="i"/>
       <Sense id="L208747-S1" synset="wikidata-eu-L208747-S1" ili="wikidata-eu-L208747-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
@@ -699,13 +699,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707731">
-      <Lemma writtenForm="lau" partOfSpeech="numeral"/>
+      <Lemma writtenForm="lau" partOfSpeech="m"/>
       <Sense id="L707731-S1" synset="wikidata-eu-L707731-S1" ili="wikidata-eu-L707731-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707733">
-      <Lemma writtenForm="sei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sei" partOfSpeech="m"/>
       <Sense id="L707733-S1" synset="wikidata-eu-L707733-S1" ili="wikidata-eu-L707733-S1">
         <Definition></Definition>
       </Sense>
@@ -722,43 +722,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208711">
-      <Lemma writtenForm="alajainkoa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alajainkoa" partOfSpeech="i"/>
       <Sense id="L208711-S1" synset="wikidata-eu-L208711-S1" ili="wikidata-eu-L208711-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208723">
-      <Lemma writtenForm="jo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jo" partOfSpeech="i"/>
       <Sense id="L208723-S1" synset="wikidata-eu-L208723-S1" ili="wikidata-eu-L208723-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208728">
-      <Lemma writtenForm="adi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="adi" partOfSpeech="i"/>
       <Sense id="L208728-S1" synset="wikidata-eu-L208728-S1" ili="wikidata-eu-L208728-S1">
         <Definition>norbait deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208729">
-      <Lemma writtenForm="aizak" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aizak" partOfSpeech="i"/>
       <Sense id="L208729-S1" synset="wikidata-eu-L208729-S1" ili="wikidata-eu-L208729-S1">
         <Definition>gizonezko deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208743">
-      <Lemma writtenForm="heup" partOfSpeech="interjection"/>
+      <Lemma writtenForm="heup" partOfSpeech="i"/>
       <Sense id="L208743-S1" synset="wikidata-eu-L208743-S1" ili="wikidata-eu-L208743-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208744">
-      <Lemma writtenForm="epa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="epa" partOfSpeech="i"/>
       <Sense id="L208744-S1" synset="wikidata-eu-L208744-S1" ili="wikidata-eu-L208744-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208749">
-      <Lemma writtenForm="kasu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kasu" partOfSpeech="i"/>
       <Sense id="L208749-S1" synset="wikidata-eu-L208749-S1" ili="wikidata-eu-L208749-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
@@ -944,31 +944,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707737">
-      <Lemma writtenForm="hogei" partOfSpeech="numeral"/>
+      <Lemma writtenForm="hogei" partOfSpeech="m"/>
       <Sense id="L707737-S1" synset="wikidata-eu-L707737-S1" ili="wikidata-eu-L707737-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208713">
-      <Lemma writtenForm="arranopola" partOfSpeech="interjection"/>
+      <Lemma writtenForm="arranopola" partOfSpeech="i"/>
       <Sense id="L208713-S1" synset="wikidata-eu-L208713-S1" ili="wikidata-eu-L208713-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208726">
-      <Lemma writtenForm="alajainetan" partOfSpeech="interjection"/>
+      <Lemma writtenForm="alajainetan" partOfSpeech="i"/>
       <Sense id="L208726-S1" synset="wikidata-eu-L208726-S1" ili="wikidata-eu-L208726-S1">
         <Definition>alajaina</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208731">
-      <Lemma writtenForm="aizan" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aizan" partOfSpeech="i"/>
       <Sense id="L208731-S1" synset="wikidata-eu-L208731-S1" ili="wikidata-eu-L208731-S1">
         <Definition>emakumezkoak deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208766">
-      <Lemma writtenForm="tori" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tori" partOfSpeech="i"/>
       <Sense id="L208766-S1" synset="wikidata-eu-L208766-S1" ili="wikidata-eu-L208766-S1">
         <Definition>norbaiten arreta deitzeko hitza</Definition>
       </Sense>
@@ -1232,19 +1232,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707730">
-      <Lemma writtenForm="hiru" partOfSpeech="numeral"/>
+      <Lemma writtenForm="hiru" partOfSpeech="m"/>
       <Sense id="L707730-S1" synset="wikidata-eu-L707730-S1" ili="wikidata-eu-L707730-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208709">
-      <Lemma writtenForm="kaixo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kaixo" partOfSpeech="i"/>
       <Sense id="L208709-S1" synset="wikidata-eu-L208709-S1" ili="wikidata-eu-L208709-S1">
         <Definition>norbait agurtzeko erabiltzen den diosala</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208764">
-      <Lemma writtenForm="ton" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ton" partOfSpeech="i"/>
       <Sense id="L208764-S1" synset="wikidata-eu-L208764-S1" ili="wikidata-eu-L208764-S1">
         <Definition>emakumezko baten arreta deitzeko bidea</Definition>
         <SenseRelation relType="similar" target="wikidata-eu-L208762-S1"/>
@@ -1469,19 +1469,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208716">
-      <Lemma writtenForm="nola arraio" partOfSpeech="interjection"/>
+      <Lemma writtenForm="nola arraio" partOfSpeech="i"/>
       <Sense id="L208716-S1" synset="wikidata-eu-L208716-S1" ili="wikidata-eu-L208716-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208717">
-      <Lemma writtenForm="nola demontre" partOfSpeech="interjection"/>
+      <Lemma writtenForm="nola demontre" partOfSpeech="i"/>
       <Sense id="L208717-S1" synset="wikidata-eu-L208717-S1" ili="wikidata-eu-L208717-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208724">
-      <Lemma writtenForm="ño" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ño" partOfSpeech="i"/>
       <Sense id="L208724-S1" synset="wikidata-eu-L208724-S1" ili="wikidata-eu-L208724-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
@@ -1493,19 +1493,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208741">
-      <Lemma writtenForm="hara" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hara" partOfSpeech="i"/>
       <Sense id="L208741-S1" synset="wikidata-eu-L208741-S1" ili="wikidata-eu-L208741-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208748">
-      <Lemma writtenForm="ixo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ixo" partOfSpeech="i"/>
       <Sense id="L208748-S1" synset="wikidata-eu-L208748-S1" ili="wikidata-eu-L208748-S1">
         <Definition>norbaiti ixiltzeko eskatzeko interjekzioa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208762">
-      <Lemma writtenForm="to" partOfSpeech="interjection"/>
+      <Lemma writtenForm="to" partOfSpeech="i"/>
       <Sense id="L208762-S1" synset="wikidata-eu-L208762-S1" ili="wikidata-eu-L208762-S1">
         <Definition>gizonezko baten arreta deitzeko erabiltzen den hitza</Definition>
         <SenseRelation relType="similar" target="wikidata-eu-L208763-S1"/>
@@ -1514,7 +1514,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208768">
-      <Lemma writtenForm="txo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="txo" partOfSpeech="i"/>
       <Sense id="L208768-S1" synset="wikidata-eu-L208768-S1" ili="wikidata-eu-L208768-S1">
         <Definition>norbaiten arreta deitzeko hitza</Definition>
       </Sense>
@@ -1826,19 +1826,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348679">
-      <Lemma writtenForm="edozein" partOfSpeech="determiner"/>
+      <Lemma writtenForm="edozein" partOfSpeech="d"/>
       <Sense id="L348679-S1" synset="wikidata-eu-L348679-S1" ili="wikidata-eu-L348679-S1">
         <Definition>bere eskuinean duen hitzaren gauzetako edo pertsonetako bat aditzera ematen duen lexema</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707729">
-      <Lemma writtenForm="bi" partOfSpeech="numeral"/>
+      <Lemma writtenForm="bi" partOfSpeech="m"/>
       <Sense id="L707729-S1" synset="wikidata-eu-L707729-S1" ili="wikidata-eu-L707729-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707735">
-      <Lemma writtenForm="zortzi" partOfSpeech="numeral"/>
+      <Lemma writtenForm="zortzi" partOfSpeech="m"/>
       <Sense id="L707735-S1" synset="wikidata-eu-L707735-S1" ili="wikidata-eu-L707735-S1">
         <Definition></Definition>
       </Sense>
@@ -1850,7 +1850,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L204217">
-      <Lemma writtenForm="ostera" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ostera" partOfSpeech="i"/>
       <Sense id="L204217-S1" synset="wikidata-eu-L204217-S1" ili="wikidata-eu-L204217-S1">
         <Definition>hitz indargarria</Definition>
       </Sense>
@@ -1880,25 +1880,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208715">
-      <Lemma writtenForm="arraioak ez baditu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="arraioak ez baditu" partOfSpeech="i"/>
       <Sense id="L208715-S1" synset="wikidata-eu-L208715-S1" ili="wikidata-eu-L208715-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208725">
-      <Lemma writtenForm="motel" partOfSpeech="interjection"/>
+      <Lemma writtenForm="motel" partOfSpeech="i"/>
       <Sense id="L208725-S1" synset="wikidata-eu-L208725-S1" ili="wikidata-eu-L208725-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208740">
-      <Lemma writtenForm="errazu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="errazu" partOfSpeech="i"/>
       <Sense id="L208740-S1" synset="wikidata-eu-L208740-S1" ili="wikidata-eu-L208740-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208745">
-      <Lemma writtenForm="horratx" partOfSpeech="interjection"/>
+      <Lemma writtenForm="horratx" partOfSpeech="i"/>
       <Sense id="L208745-S1" synset="wikidata-eu-L208745-S1" ili="wikidata-eu-L208745-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
@@ -2165,7 +2165,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707732">
-      <Lemma writtenForm="bost" partOfSpeech="numeral"/>
+      <Lemma writtenForm="bost" partOfSpeech="m"/>
       <Sense id="L707732-S1" synset="wikidata-eu-L707732-S1" ili="wikidata-eu-L707732-S1">
         <Definition></Definition>
       </Sense>
@@ -2177,7 +2177,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208720">
-      <Lemma writtenForm="demontre" partOfSpeech="interjection"/>
+      <Lemma writtenForm="demontre" partOfSpeech="i"/>
       <Sense id="L208720-S1" synset="wikidata-eu-L208720-S1" ili="wikidata-eu-L208720-S1">
         <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
       </Sense>
@@ -2189,25 +2189,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208735">
-      <Lemma writtenForm="aizu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aizu" partOfSpeech="i"/>
       <Sense id="L208735-S1" synset="wikidata-eu-L208735-S1" ili="wikidata-eu-L208735-S1">
         <Definition>norbait  deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208737">
-      <Lemma writtenForm="begira" partOfSpeech="interjection"/>
+      <Lemma writtenForm="begira" partOfSpeech="i"/>
       <Sense id="L208737-S1" synset="wikidata-eu-L208737-S1" ili="wikidata-eu-L208737-S1">
         <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208754">
-      <Lemma writtenForm="kontuz" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kontuz" partOfSpeech="i"/>
       <Sense id="L208754-S1" synset="wikidata-eu-L208754-S1" ili="wikidata-eu-L208754-S1">
         <Definition>arrisku edo arazo batetaz ohartarazteko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L208767">
-      <Lemma writtenForm="torizu" partOfSpeech="interjection"/>
+      <Lemma writtenForm="torizu" partOfSpeech="i"/>
       <Sense id="L208767-S1" synset="wikidata-eu-L208767-S1" ili="wikidata-eu-L208767-S1">
         <Definition>norbaiten arreta deitzeko hitza</Definition>
       </Sense>
@@ -2504,1395 +2504,1395 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L300967">
-      <Lemma writtenForm="agian" partOfSpeech="interjection"/>
+      <Lemma writtenForm="agian" partOfSpeech="i"/>
       <Sense id="L300967-S1" synset="wikidata-eu-L300967-S1" ili="wikidata-eu-L300967-S1">
         <Definition>zerbait gerta dadila nahi dela esateko erabiltzen den hitza</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348681">
-      <Lemma writtenForm="edozein" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="edozein" partOfSpeech="h"/>
       <Sense id="L348681-S1" synset="wikidata-eu-L348681-S1" ili="wikidata-eu-L348681-S1">
         <Definition>nornahi</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L707736">
-      <Lemma writtenForm="hamar" partOfSpeech="numeral"/>
+      <Lemma writtenForm="hamar" partOfSpeech="m"/>
       <Sense id="L707736-S1" synset="wikidata-eu-L707736-S1" ili="wikidata-eu-L707736-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-eu-L53266-S1" ili="wikidata-eu-L53266-S1">
+    <Synset id="wikidata-eu-L53266-S1" ili="wikidata-eu-L53266-S1" partOfSpeech="postposition">
       <Definition>Gabetasuna adierazten duen hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208712-S1" ili="wikidata-eu-L208712-S1">
+    <Synset id="wikidata-eu-L208712-S1" ili="wikidata-eu-L208712-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208714-S1" ili="wikidata-eu-L208714-S1">
+    <Synset id="wikidata-eu-L208714-S1" ili="wikidata-eu-L208714-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208738-S1" ili="wikidata-eu-L208738-S1">
+    <Synset id="wikidata-eu-L208738-S1" ili="wikidata-eu-L208738-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208763-S1" ili="wikidata-eu-L208763-S1">
+    <Synset id="wikidata-eu-L208763-S1" ili="wikidata-eu-L208763-S1" partOfSpeech="i">
       <Definition>gizonezko baten arreta deitzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267832-S1" ili="wikidata-eu-L267832-S1">
+    <Synset id="wikidata-eu-L267832-S1" ili="wikidata-eu-L267832-S1" partOfSpeech="prenominal adjective">
       <Definition>norbaiten edo zerbaiten alde dagoena, edo egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267838-S1" ili="wikidata-eu-L267838-S1">
+    <Synset id="wikidata-eu-L267838-S1" ili="wikidata-eu-L267838-S1" partOfSpeech="prenominal adjective">
       <Definition>inolako fruitu edo ondoriorik gabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267839-S1" ili="wikidata-eu-L267839-S1">
+    <Synset id="wikidata-eu-L267839-S1" ili="wikidata-eu-L267839-S1" partOfSpeech="prenominal adjective">
       <Definition>alferrekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267853-S1" ili="wikidata-eu-L267853-S1">
+    <Synset id="wikidata-eu-L267853-S1" ili="wikidata-eu-L267853-S1" partOfSpeech="prenominal adjective">
       <Definition>duela asko gertatutakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267853-S2" ili="wikidata-eu-L267853-S2">
+    <Synset id="wikidata-eu-L267853-S2" ili="wikidata-eu-L267853-S2" partOfSpeech="prenominal adjective">
       <Definition>aspaldian ikusi ez den pertsona agurtzean erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267858-S1" ili="wikidata-eu-L267858-S1">
+    <Synset id="wikidata-eu-L267858-S1" ili="wikidata-eu-L267858-S1" partOfSpeech="prenominal adjective">
       <Definition>aukeran hautatutakoa, aparta, guztiz egokia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267858-S2" ili="wikidata-eu-L267858-S2">
+    <Synset id="wikidata-eu-L267858-S2" ili="wikidata-eu-L267858-S2" partOfSpeech="prenominal adjective">
       <Definition>nahiaren arabera aukera daitekeena, hautazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267860-S1" ili="wikidata-eu-L267860-S1">
+    <Synset id="wikidata-eu-L267860-S1" ili="wikidata-eu-L267860-S1" partOfSpeech="prenominal adjective">
       <Definition>aurretik gertatutakoa edo ordenaz lehenagokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267870-S1" ili="wikidata-eu-L267870-S1">
+    <Synset id="wikidata-eu-L267870-S1" ili="wikidata-eu-L267870-S1" partOfSpeech="prenominal adjective">
       <Definition>garrantzitsua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267925-S1" ili="wikidata-eu-L267925-S1">
+    <Synset id="wikidata-eu-L267925-S1" ili="wikidata-eu-L267925-S1" partOfSpeech="prenominal adjective">
       <Definition>onartzeko modukoa dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267981-S1" ili="wikidata-eu-L267981-S1">
+    <Synset id="wikidata-eu-L267981-S1" ili="wikidata-eu-L267981-S1" partOfSpeech="prenominal adjective">
       <Definition>behin gertatzen edo egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268110-S1" ili="wikidata-eu-L268110-S1">
+    <Synset id="wikidata-eu-L268110-S1" ili="wikidata-eu-L268110-S1" partOfSpeech="prenominal adjective">
       <Definition>zerbait edo norbait jadanik aipatua dela, hura ez dena, baina nolabait multzo berekotzat hartzen dena adierazteko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268110-S2" ili="wikidata-eu-L268110-S2">
+    <Synset id="wikidata-eu-L268110-S2" ili="wikidata-eu-L268110-S2" partOfSpeech="prenominal adjective">
       <Definition>ezezko testuinguruetan, -ik kasu-atzizkiaz, eta aurretik izen-sintagma edo aditzaren era burutua daramala, ezezko perpauseko aditzaren ekintza delako izen-sintagmari bakarrik dagokiola edo delako aditzaren ekintza bakarrik gauzatu dela adierazteko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268110-S3" ili="wikidata-eu-L268110-S3">
+    <Synset id="wikidata-eu-L268110-S3" ili="wikidata-eu-L268110-S3" partOfSpeech="prenominal adjective">
       <Definition>baiezkoak ez diren testuinguretan, sintagma baten ondoren, aditzaren ekintza hari bakarrik dagokiola adierazten duen hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268115-S1" ili="wikidata-eu-L268115-S1">
+    <Synset id="wikidata-eu-L268115-S1" ili="wikidata-eu-L268115-S1" partOfSpeech="prenominal adjective">
       <Definition>lehen bezalakoa, aldatu ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268115-S2" ili="wikidata-eu-L268115-S2">
+    <Synset id="wikidata-eu-L268115-S2" ili="wikidata-eu-L268115-S2" partOfSpeech="prenominal adjective">
       <Definition>ez hasierarik ez amaierarik duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268116-S1" ili="wikidata-eu-L268116-S1">
+    <Synset id="wikidata-eu-L268116-S1" ili="wikidata-eu-L268116-S1" partOfSpeech="prenominal adjective">
       <Definition>aipatzen denaren berdina edo antzekoa, modu berekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268120-S1" ili="wikidata-eu-L268120-S1">
+    <Synset id="wikidata-eu-L268120-S1" ili="wikidata-eu-L268120-S1" partOfSpeech="prenominal adjective">
       <Definition>ezaugarriez mintzatuz, beste batzuen artean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268125-S1" ili="wikidata-eu-L268125-S1">
+    <Synset id="wikidata-eu-L268125-S1" ili="wikidata-eu-L268125-S1" partOfSpeech="prenominal adjective">
       <Definition>deabruari dagokiona; deabruaren ezaugarriak dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268125-S2" ili="wikidata-eu-L268125-S2">
+    <Synset id="wikidata-eu-L268125-S2" ili="wikidata-eu-L268125-S2" partOfSpeech="prenominal adjective">
       <Definition>madarikatua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268132-S1" ili="wikidata-eu-L268132-S1">
+    <Synset id="wikidata-eu-L268132-S1" ili="wikidata-eu-L268132-S1" partOfSpeech="prenominal adjective">
       <Definition>nolanahiko, edozein moduko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268168-S1" ili="wikidata-eu-L268168-S1">
+    <Synset id="wikidata-eu-L268168-S1" ili="wikidata-eu-L268168-S1" partOfSpeech="prenominal adjective">
       <Definition>ez edo ezetz-i dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268202-S1" ili="wikidata-eu-L268202-S1">
+    <Synset id="wikidata-eu-L268202-S1" ili="wikidata-eu-L268202-S1" partOfSpeech="prenominal adjective">
       <Definition>geroztikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268207-S1" ili="wikidata-eu-L268207-S1">
+    <Synset id="wikidata-eu-L268207-S1" ili="wikidata-eu-L268207-S1" partOfSpeech="prenominal adjective">
       <Definition>egiaren kontrakoa; benetakoa edo egiazkoa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268209-S1" ili="wikidata-eu-L268209-S1">
+    <Synset id="wikidata-eu-L268209-S1" ili="wikidata-eu-L268209-S1" partOfSpeech="prenominal adjective">
       <Definition>gizakiaren aldekoa, gizadiaren ona bilatzen eta gizon-emakumeen egoera hobetzen ahalegintzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268269-S1" ili="wikidata-eu-L268269-S1">
+    <Synset id="wikidata-eu-L268269-S1" ili="wikidata-eu-L268269-S1" partOfSpeech="prenominal adjective">
       <Definition>goren dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268318-S1" ili="wikidata-eu-L268318-S1">
+    <Synset id="wikidata-eu-L268318-S1" ili="wikidata-eu-L268318-S1" partOfSpeech="prenominal adjective">
       <Definition>osoa, osotasunari dagokiona, erabatekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268534-S1" ili="wikidata-eu-L268534-S1">
+    <Synset id="wikidata-eu-L268534-S1" ili="wikidata-eu-L268534-S1" partOfSpeech="prenominal adjective">
       <Definition>hautatutakoa, aukerakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268569-S1" ili="wikidata-eu-L268569-S1">
+    <Synset id="wikidata-eu-L268569-S1" ili="wikidata-eu-L268569-S1" partOfSpeech="prenominal adjective">
       <Definition>hilgarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268601-S1" ili="wikidata-eu-L268601-S1">
+    <Synset id="wikidata-eu-L268601-S1" ili="wikidata-eu-L268601-S1" partOfSpeech="prenominal adjective">
       <Definition>hil ondoan gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268697-S1" ili="wikidata-eu-L268697-S1">
+    <Synset id="wikidata-eu-L268697-S1" ili="wikidata-eu-L268697-S1" partOfSpeech="prenominal adjective">
       <Definition>honelakoa; horrelakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268761-S1" ili="wikidata-eu-L268761-S1">
+    <Synset id="wikidata-eu-L268761-S1" ili="wikidata-eu-L268761-S1" partOfSpeech="prenominal adjective">
       <Definition>honelako kantitate, neurri, tamaina, garrantzi eta abar duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268876-S1" ili="wikidata-eu-L268876-S1">
+    <Synset id="wikidata-eu-L268876-S1" ili="wikidata-eu-L268876-S1" partOfSpeech="prenominal adjective">
       <Definition>hurbileko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268994-S1" ili="wikidata-eu-L268994-S1">
+    <Synset id="wikidata-eu-L268994-S1" ili="wikidata-eu-L268994-S1" partOfSpeech="prenominal adjective">
       <Definition>iragankorra</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269021-S1" ili="wikidata-eu-L269021-S1">
+    <Synset id="wikidata-eu-L269021-S1" ili="wikidata-eu-L269021-S1" partOfSpeech="prenominal adjective">
       <Definition>isilpean dagoena edo egiten dena, ezkutua, gordea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269059-S1" ili="wikidata-eu-L269059-S1">
+    <Synset id="wikidata-eu-L269059-S1" ili="wikidata-eu-L269059-S1" partOfSpeech="prenominal adjective">
       <Definition>izugarria; oso handia, neurriz kanpokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269227-S1" ili="wikidata-eu-L269227-S1">
+    <Synset id="wikidata-eu-L269227-S1" ili="wikidata-eu-L269227-S1" partOfSpeech="prenominal adjective">
       <Definition>egundokoa, ikaragarria, itzela</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269291-S1" ili="wikidata-eu-L269291-S1">
+    <Synset id="wikidata-eu-L269291-S1" ili="wikidata-eu-L269291-S1" partOfSpeech="prenominal adjective">
       <Definition>aurrekoa, igarotako aldi edo denborakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269403-S1" ili="wikidata-eu-L269403-S1">
+    <Synset id="wikidata-eu-L269403-S1" ili="wikidata-eu-L269403-S1" partOfSpeech="prenominal adjective">
       <Definition>ez ziurra, zalantzazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269428-S1" ili="wikidata-eu-L269428-S1">
+    <Synset id="wikidata-eu-L269428-S1" ili="wikidata-eu-L269428-S1" partOfSpeech="prenominal adjective">
       <Definition>bere baitan misterioa edo ezkutuko esanahia duena edo dirudiena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269488-S1" ili="wikidata-eu-L269488-S1">
+    <Synset id="wikidata-eu-L269488-S1" ili="wikidata-eu-L269488-S1" partOfSpeech="prenominal adjective">
       <Definition>zer tokitarako</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269496-S1" ili="wikidata-eu-L269496-S1">
+    <Synset id="wikidata-eu-L269496-S1" ili="wikidata-eu-L269496-S1" partOfSpeech="prenominal adjective">
       <Definition>ohi dena, ohituren araberakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269496-S2" ili="wikidata-eu-L269496-S2">
+    <Synset id="wikidata-eu-L269496-S2" ili="wikidata-eu-L269496-S2" partOfSpeech="prenominal adjective">
       <Definition>lehenagokoa, izana</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269516-S1" ili="wikidata-eu-L269516-S1">
+    <Synset id="wikidata-eu-L269516-S1" ili="wikidata-eu-L269516-S1" partOfSpeech="prenominal adjective">
       <Definition>une edo garai hartakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269522-S1" ili="wikidata-eu-L269522-S1">
+    <Synset id="wikidata-eu-L269522-S1" ili="wikidata-eu-L269522-S1" partOfSpeech="prenominal adjective">
       <Definition>behar-beharrezkoa, ezinbestekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269523-S1" ili="wikidata-eu-L269523-S1">
+    <Synset id="wikidata-eu-L269523-S1" ili="wikidata-eu-L269523-S1" partOfSpeech="prenominal adjective">
       <Definition>oso ona, lehen mailakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269533-S1" ili="wikidata-eu-L269533-S1">
+    <Synset id="wikidata-eu-L269533-S1" ili="wikidata-eu-L269533-S1" partOfSpeech="prenominal adjective">
       <Definition>substantzia bat falta denean, oso garestia denean edo komeni ez denean, horren ordez jartzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269538-S1" ili="wikidata-eu-L269538-S1">
+    <Synset id="wikidata-eu-L269538-S1" ili="wikidata-eu-L269538-S1" partOfSpeech="prenominal adjective">
       <Definition>bat-batekoa, ustekabean gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269554-S1" ili="wikidata-eu-L269554-S1">
+    <Synset id="wikidata-eu-L269554-S1" ili="wikidata-eu-L269554-S1" partOfSpeech="prenominal adjective">
       <Definition>egiazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269555-S1" ili="wikidata-eu-L269555-S1">
+    <Synset id="wikidata-eu-L269555-S1" ili="wikidata-eu-L269555-S1" partOfSpeech="prenominal adjective">
       <Definition>lanbide edo eginkizun bat egiteko zin egin duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269555-S2" ili="wikidata-eu-L269555-S2">
+    <Synset id="wikidata-eu-L269555-S2" ili="wikidata-eu-L269555-S2" partOfSpeech="prenominal adjective">
       <Definition>zin eginez egin dena; zinaren bermea duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269556-S1" ili="wikidata-eu-L269556-S1">
+    <Synset id="wikidata-eu-L269556-S1" ili="wikidata-eu-L269556-S1" partOfSpeech="prenominal adjective">
       <Definition>zoritxarrekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269560-S1" ili="wikidata-eu-L269560-S1">
+    <Synset id="wikidata-eu-L269560-S1" ili="wikidata-eu-L269560-S1" partOfSpeech="prenominal adjective">
       <Definition>zortziz osatua; joko-kartetan, zortzi puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L300972-S1" ili="wikidata-eu-L300972-S1">
+    <Synset id="wikidata-eu-L300972-S1" ili="wikidata-eu-L300972-S1" partOfSpeech="quantifier">
       <Definition>zenbaki ezezaguna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L349036-S1" ili="wikidata-eu-L349036-S1">
+    <Synset id="wikidata-eu-L349036-S1" ili="wikidata-eu-L349036-S1" partOfSpeech="quantifier">
       <Definition>osoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L349036-S2" ili="wikidata-eu-L349036-S2">
+    <Synset id="wikidata-eu-L349036-S2" ili="wikidata-eu-L349036-S2" partOfSpeech="quantifier">
       <Definition>dena, oro</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L349036-S3" ili="wikidata-eu-L349036-S3">
+    <Synset id="wikidata-eu-L349036-S3" ili="wikidata-eu-L349036-S3" partOfSpeech="quantifier">
       <Definition>multzo oso bat, salbuespenik gabe</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L349036-S4" ili="wikidata-eu-L349036-S4">
+    <Synset id="wikidata-eu-L349036-S4" ili="wikidata-eu-L349036-S4" partOfSpeech="quantifier">
       <Definition>dena, izena ezabaturik dagoenean</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L349036-S5" ili="wikidata-eu-L349036-S5">
+    <Synset id="wikidata-eu-L349036-S5" ili="wikidata-eu-L349036-S5" partOfSpeech="quantifier">
       <Definition>zenbatzailea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707734-S1" ili="wikidata-eu-L707734-S1">
+    <Synset id="wikidata-eu-L707734-S1" ili="wikidata-eu-L707734-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L82686-S1" ili="wikidata-eu-L82686-S1">
+    <Synset id="wikidata-eu-L82686-S1" ili="wikidata-eu-L82686-S1" partOfSpeech="locution">
       <Definition>balio oso txikia duenaz esaten da</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L184949-S1" ili="wikidata-eu-L184949-S1">
+    <Synset id="wikidata-eu-L184949-S1" ili="wikidata-eu-L184949-S1" partOfSpeech="linker">
       <Definition>Maila edo izaera bereko kontzeptuak lotzen dituen hitza, gehitzeko balio duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208710-S1" ili="wikidata-eu-L208710-S1">
+    <Synset id="wikidata-eu-L208710-S1" ili="wikidata-eu-L208710-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208747-S1" ili="wikidata-eu-L208747-S1">
+    <Synset id="wikidata-eu-L208747-S1" ili="wikidata-eu-L208747-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267827-S1" ili="wikidata-eu-L267827-S1">
+    <Synset id="wikidata-eu-L267827-S1" ili="wikidata-eu-L267827-S1" partOfSpeech="prenominal adjective">
       <Definition>ahotsez mintzatuz, ia entzuten ez dena; isilpekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267828-S1" ili="wikidata-eu-L267828-S1">
+    <Synset id="wikidata-eu-L267828-S1" ili="wikidata-eu-L267828-S1" partOfSpeech="prenominal adjective">
       <Definition>mintzatuz egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267854-S1" ili="wikidata-eu-L267854-S1">
+    <Synset id="wikidata-eu-L267854-S1" ili="wikidata-eu-L267854-S1" partOfSpeech="prenominal adjective">
       <Definition>etengabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267855-S1" ili="wikidata-eu-L267855-S1">
+    <Synset id="wikidata-eu-L267855-S1" ili="wikidata-eu-L267855-S1" partOfSpeech="prenominal adjective">
       <Definition>azkeneko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267864-S1" ili="wikidata-eu-L267864-S1">
+    <Synset id="wikidata-eu-L267864-S1" ili="wikidata-eu-L267864-S1" partOfSpeech="prenominal adjective">
       <Definition>lehenagokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267920-S1" ili="wikidata-eu-L267920-S1">
+    <Synset id="wikidata-eu-L267920-S1" ili="wikidata-eu-L267920-S1" partOfSpeech="prenominal adjective">
       <Definition>bai edo baietz-i dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267922-S1" ili="wikidata-eu-L267922-S1">
+    <Synset id="wikidata-eu-L267922-S1" ili="wikidata-eu-L267922-S1" partOfSpeech="prenominal adjective">
       <Definition>bakarka egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267928-S1" ili="wikidata-eu-L267928-S1">
+    <Synset id="wikidata-eu-L267928-S1" ili="wikidata-eu-L267928-S1" partOfSpeech="prenominal adjective">
       <Definition>banakakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267928-S2" ili="wikidata-eu-L267928-S2">
+    <Synset id="wikidata-eu-L267928-S2" ili="wikidata-eu-L267928-S2" partOfSpeech="prenominal adjective">
       <Definition>aparta, bikaina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267928-S3" ili="wikidata-eu-L267928-S3">
+    <Synset id="wikidata-eu-L267928-S3" ili="wikidata-eu-L267928-S3" partOfSpeech="prenominal adjective">
       <Definition>(Mat.) biunibokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267931-S1" ili="wikidata-eu-L267931-S1">
+    <Synset id="wikidata-eu-L267931-S1" ili="wikidata-eu-L267931-S1" partOfSpeech="prenominal adjective">
       <Definition>barrukoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267965-S1" ili="wikidata-eu-L267965-S1">
+    <Synset id="wikidata-eu-L267965-S1" ili="wikidata-eu-L267965-S1" partOfSpeech="prenominal adjective">
       <Definition>behin-behinean egina, behin betikoa izan gabe, hura taxutu bitartean haren ordez dagoena edo erabiltzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268127-S1" ili="wikidata-eu-L268127-S1">
+    <Synset id="wikidata-eu-L268127-S1" ili="wikidata-eu-L268127-S1" partOfSpeech="prenominal adjective">
       <Definition>aipatutakoa, lehen aipatutakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268127-S2" ili="wikidata-eu-L268127-S2">
+    <Synset id="wikidata-eu-L268127-S2" ili="wikidata-eu-L268127-S2" partOfSpeech="prenominal adjective">
       <Definition>deitzen dena, deitua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268171-S1" ili="wikidata-eu-L268171-S1">
+    <Synset id="wikidata-eu-L268171-S1" ili="wikidata-eu-L268171-S1" partOfSpeech="prenominal adjective">
       <Definition>bete beharrekoa; nahitaezkoa, halabeharrezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268180-S1" ili="wikidata-eu-L268180-S1">
+    <Synset id="wikidata-eu-L268180-S1" ili="wikidata-eu-L268180-S1" partOfSpeech="prenominal adjective">
       <Definition>ohiz kanpokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268191-S1" ili="wikidata-eu-L268191-S1">
+    <Synset id="wikidata-eu-L268191-S1" ili="wikidata-eu-L268191-S1" partOfSpeech="prenominal adjective">
       <Definition>gainerakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268191-S2" ili="wikidata-eu-L268191-S2">
+    <Synset id="wikidata-eu-L268191-S2" ili="wikidata-eu-L268191-S2" partOfSpeech="prenominal adjective">
       <Definition>goikoa, goitikakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268200-S1" ili="wikidata-eu-L268200-S1">
+    <Synset id="wikidata-eu-L268200-S1" ili="wikidata-eu-L268200-S1" partOfSpeech="prenominal adjective">
       <Definition>geroa, etorkizuna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268215-S1" ili="wikidata-eu-L268215-S1">
+    <Synset id="wikidata-eu-L268215-S1" ili="wikidata-eu-L268215-S1" partOfSpeech="prenominal adjective">
       <Definition>gizakiarena, gizakiari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268384-S1" ili="wikidata-eu-L268384-S1">
+    <Synset id="wikidata-eu-L268384-S1" ili="wikidata-eu-L268384-S1" partOfSpeech="prenominal adjective">
       <Definition>era hartakoa, hura bezalakoa, adierazi den gisakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268384-S2" ili="wikidata-eu-L268384-S2">
+    <Synset id="wikidata-eu-L268384-S2" ili="wikidata-eu-L268384-S2" partOfSpeech="prenominal adjective">
       <Definition>erabat zehazten ez den zerbaiten adierazlea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268384-S3" ili="wikidata-eu-L268384-S3">
+    <Synset id="wikidata-eu-L268384-S3" ili="wikidata-eu-L268384-S3" partOfSpeech="prenominal adjective">
       <Definition>norbaiten izenaren ordezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268384-S4" ili="wikidata-eu-L268384-S4">
+    <Synset id="wikidata-eu-L268384-S4" ili="wikidata-eu-L268384-S4" partOfSpeech="prenominal adjective">
       <Definition>zenbaki bati dagokiola, haren aurre-aurrean nahiz ondo ondoan kokaturik, zenbakiak seinalatzen duen kopuruaren adierazlea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268384-S5" ili="wikidata-eu-L268384-S5">
+    <Synset id="wikidata-eu-L268384-S5" ili="wikidata-eu-L268384-S5" partOfSpeech="prenominal adjective">
       <Definition>alaena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268501-S1" ili="wikidata-eu-L268501-S1">
+    <Synset id="wikidata-eu-L268501-S1" ili="wikidata-eu-L268501-S1" partOfSpeech="prenominal adjective">
       <Definition>hari dagokiona; delakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268501-S2" ili="wikidata-eu-L268501-S2">
+    <Synset id="wikidata-eu-L268501-S2" ili="wikidata-eu-L268501-S2" partOfSpeech="prenominal adjective">
       <Definition>egokia, gai dena, trebea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268585-S1" ili="wikidata-eu-L268585-S1">
+    <Synset id="wikidata-eu-L268585-S1" ili="wikidata-eu-L268585-S1" partOfSpeech="prenominal adjective">
       <Definition>hila, hilik dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268728-S1" ili="wikidata-eu-L268728-S1">
+    <Synset id="wikidata-eu-L268728-S1" ili="wikidata-eu-L268728-S1" partOfSpeech="prenominal adjective">
       <Definition>era honetakoa, hau bezalakoa, adierazi den gisakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268728-S2" ili="wikidata-eu-L268728-S2">
+    <Synset id="wikidata-eu-L268728-S2" ili="wikidata-eu-L268728-S2" partOfSpeech="prenominal adjective">
       <Definition>gehiago zehazten ez den zerbait adierazteko partikula</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268728-S3" ili="wikidata-eu-L268728-S3">
+    <Synset id="wikidata-eu-L268728-S3" ili="wikidata-eu-L268728-S3" partOfSpeech="prenominal adjective">
       <Definition>pertsona baten izena ordezkatzeko partikula</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268860-S1" ili="wikidata-eu-L268860-S1">
+    <Synset id="wikidata-eu-L268860-S1" ili="wikidata-eu-L268860-S1" partOfSpeech="prenominal adjective">
       <Definition>hurrengoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268957-S1" ili="wikidata-eu-L268957-S1">
+    <Synset id="wikidata-eu-L268957-S1" ili="wikidata-eu-L268957-S1" partOfSpeech="prenominal adjective">
       <Definition>noiz edo noizko, noizbaiteko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269012-S1" ili="wikidata-eu-L269012-S1">
+    <Synset id="wikidata-eu-L269012-S1" ili="wikidata-eu-L269012-S1" partOfSpeech="prenominal adjective">
       <Definition>isilean dagoena edo egiten dena, ezkutua, gordea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269111-S1" ili="wikidata-eu-L269111-S1">
+    <Synset id="wikidata-eu-L269111-S1" ili="wikidata-eu-L269111-S1" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) juntagailuez mintzatuz, perpaus baten kausa edo zergatia adierazten duen beste perpaus bat lehenengoaren mendeko egiten duena; perpausez mintzatuz, mendeko bilakatutakoa bera; lokailuez mintzatuz, perpaus bat aurreko solas-zatiaren kausa edo zergatia dela adierazten duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269243-S1" ili="wikidata-eu-L269243-S1">
+    <Synset id="wikidata-eu-L269243-S1" ili="wikidata-eu-L269243-S1" partOfSpeech="prenominal adjective">
       <Definition>lau hileko denbora-bitarteari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269353-S1" ili="wikidata-eu-L269353-S1">
+    <Synset id="wikidata-eu-L269353-S1" ili="wikidata-eu-L269353-S1" partOfSpeech="prenominal adjective">
       <Definition>maiz gertatzen, egiten, erabiltzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269425-S1" ili="wikidata-eu-L269425-S1">
+    <Synset id="wikidata-eu-L269425-S1" ili="wikidata-eu-L269425-S1" partOfSpeech="prenominal adjective">
       <Definition>milaz osatua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269429-S1" ili="wikidata-eu-L269429-S1">
+    <Synset id="wikidata-eu-L269429-S1" ili="wikidata-eu-L269429-S1" partOfSpeech="prenominal adjective">
       <Definition>pertsonez mintzatuz, gizalegeari atxikia, adeitsua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269429-S2" ili="wikidata-eu-L269429-S2">
+    <Synset id="wikidata-eu-L269429-S2" ili="wikidata-eu-L269429-S2" partOfSpeech="prenominal adjective">
       <Definition>egokia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269429-S3" ili="wikidata-eu-L269429-S3">
+    <Synset id="wikidata-eu-L269429-S3" ili="wikidata-eu-L269429-S3" partOfSpeech="prenominal adjective">
       <Definition>trebea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269429-S4" ili="wikidata-eu-L269429-S4">
+    <Synset id="wikidata-eu-L269429-S4" ili="wikidata-eu-L269429-S4" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) modua adierazten duena edo hari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269435-S1" ili="wikidata-eu-L269435-S1">
+    <Synset id="wikidata-eu-L269435-S1" ili="wikidata-eu-L269435-S1" partOfSpeech="prenominal adjective">
       <Definition>neurriz moldatua edo egina; neurriduna, neurritsua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269436-S1" ili="wikidata-eu-L269436-S1">
+    <Synset id="wikidata-eu-L269436-S1" ili="wikidata-eu-L269436-S1" partOfSpeech="prenominal adjective">
       <Definition>zer denboratakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269438-S1" ili="wikidata-eu-L269438-S1">
+    <Synset id="wikidata-eu-L269438-S1" ili="wikidata-eu-L269438-S1" partOfSpeech="prenominal adjective">
       <Definition>moduren batekoa; gutxi gorabeherakoa, zehaztugabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269438-S2" ili="wikidata-eu-L269438-S2">
+    <Synset id="wikidata-eu-L269438-S2" ili="wikidata-eu-L269438-S2" partOfSpeech="prenominal adjective">
       <Definition>erdipurdikoa, ez onegia ez txarregia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269444-S1" ili="wikidata-eu-L269444-S1">
+    <Synset id="wikidata-eu-L269444-S1" ili="wikidata-eu-L269444-S1" partOfSpeech="prenominal adjective">
       <Definition>zer eratakoa, zer modutakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269444-S2" ili="wikidata-eu-L269444-S2">
+    <Synset id="wikidata-eu-L269444-S2" ili="wikidata-eu-L269444-S2" partOfSpeech="prenominal adjective">
       <Definition>harridura adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269470-S1" ili="wikidata-eu-L269470-S1">
+    <Synset id="wikidata-eu-L269470-S1" ili="wikidata-eu-L269470-S1" partOfSpeech="prenominal adjective">
       <Definition>zer tokitakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269499-S1" ili="wikidata-eu-L269499-S1">
+    <Synset id="wikidata-eu-L269499-S1" ili="wikidata-eu-L269499-S1" partOfSpeech="prenominal adjective">
       <Definition>ohituraz gertatzen edo egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269502-S1" ili="wikidata-eu-L269502-S1">
+    <Synset id="wikidata-eu-L269502-S1" ili="wikidata-eu-L269502-S1" partOfSpeech="prenominal adjective">
       <Definition>besteren oinarri gertatzen dena; garrantzizkoena, funtsezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269508-S1" ili="wikidata-eu-L269508-S1">
+    <Synset id="wikidata-eu-L269508-S1" ili="wikidata-eu-L269508-S1" partOfSpeech="prenominal adjective">
       <Definition>ondoren gertatutakoa edo ordenaz ondorengoa; ondoan dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269510-S1" ili="wikidata-eu-L269510-S1">
+    <Synset id="wikidata-eu-L269510-S1" ili="wikidata-eu-L269510-S1" partOfSpeech="prenominal adjective">
       <Definition>ondorengoa, ondokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269513-S1" ili="wikidata-eu-L269513-S1">
+    <Synset id="wikidata-eu-L269513-S1" ili="wikidata-eu-L269513-S1" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) perpaus nagusiaren ondorioa adierazten duen mendeko perpausari esaten zaio; menderagailuez mintzatuz, horrelako perpausetan erabiltzen dena; lokailuez mintzatuz, perpaus bat aurreko solas-zatiaren ondorioa dela adierazten duena (beraz, hortaz...)</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269513-S2" ili="wikidata-eu-L269513-S2">
+    <Synset id="wikidata-eu-L269513-S2" ili="wikidata-eu-L269513-S2" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) adizkiez mintzatuz, alegiazko baldintzazko perpausen perpaus nagusian agertu ohi dena, -ke- morfema duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269530-S1" ili="wikidata-eu-L269530-S1">
+    <Synset id="wikidata-eu-L269530-S1" ili="wikidata-eu-L269530-S1" partOfSpeech="prenominal adjective">
       <Definition>betikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269530-S2" ili="wikidata-eu-L269530-S2">
+    <Synset id="wikidata-eu-L269530-S2" ili="wikidata-eu-L269530-S2" partOfSpeech="prenominal adjective">
       <Definition>apartekoa, bikaina, berebizikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269530-S3" ili="wikidata-eu-L269530-S3">
+    <Synset id="wikidata-eu-L269530-S3" ili="wikidata-eu-L269530-S3" partOfSpeech="prenominal adjective">
       <Definition>ezustekoa, izugarria, inoiz egin edo gertatu gabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269542-S1" ili="wikidata-eu-L269542-S1">
+    <Synset id="wikidata-eu-L269542-S1" ili="wikidata-eu-L269542-S1" partOfSpeech="prenominal adjective">
       <Definition>urruti dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269553-S1" ili="wikidata-eu-L269553-S1">
+    <Synset id="wikidata-eu-L269553-S1" ili="wikidata-eu-L269553-S1" partOfSpeech="prenominal adjective">
       <Definition>zergaduna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707731-S1" ili="wikidata-eu-L707731-S1">
+    <Synset id="wikidata-eu-L707731-S1" ili="wikidata-eu-L707731-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707733-S1" ili="wikidata-eu-L707733-S1">
+    <Synset id="wikidata-eu-L707733-S1" ili="wikidata-eu-L707733-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204213-S1" ili="wikidata-eu-L204213-S1">
+    <Synset id="wikidata-eu-L204213-S1" ili="wikidata-eu-L204213-S1" partOfSpeech="linker">
       <Definition>Zenbait hitz, sintagma edo perpaus lotzen dituen hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204213-S2" ili="wikidata-eu-L204213-S2">
+    <Synset id="wikidata-eu-L204213-S2" ili="wikidata-eu-L204213-S2" partOfSpeech="linker">
       <Definition>zehaztapen handirik gabeko zerbait adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208711-S1" ili="wikidata-eu-L208711-S1">
+    <Synset id="wikidata-eu-L208711-S1" ili="wikidata-eu-L208711-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208723-S1" ili="wikidata-eu-L208723-S1">
+    <Synset id="wikidata-eu-L208723-S1" ili="wikidata-eu-L208723-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208728-S1" ili="wikidata-eu-L208728-S1">
+    <Synset id="wikidata-eu-L208728-S1" ili="wikidata-eu-L208728-S1" partOfSpeech="i">
       <Definition>norbait deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208729-S1" ili="wikidata-eu-L208729-S1">
+    <Synset id="wikidata-eu-L208729-S1" ili="wikidata-eu-L208729-S1" partOfSpeech="i">
       <Definition>gizonezko deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208743-S1" ili="wikidata-eu-L208743-S1">
+    <Synset id="wikidata-eu-L208743-S1" ili="wikidata-eu-L208743-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208744-S1" ili="wikidata-eu-L208744-S1">
+    <Synset id="wikidata-eu-L208744-S1" ili="wikidata-eu-L208744-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208749-S1" ili="wikidata-eu-L208749-S1">
+    <Synset id="wikidata-eu-L208749-S1" ili="wikidata-eu-L208749-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267816-S1" ili="wikidata-eu-L267816-S1">
+    <Synset id="wikidata-eu-L267816-S1" ili="wikidata-eu-L267816-S1" partOfSpeech="prenominal adjective">
       <Definition>abereari dagokiona, pertsona abereekin kidetzen duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267819-S1" ili="wikidata-eu-L267819-S1">
+    <Synset id="wikidata-eu-L267819-S1" ili="wikidata-eu-L267819-S1" partOfSpeech="prenominal adjective">
       <Definition>adinean sartua, adin handikoa, adinduna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267834-S1" ili="wikidata-eu-L267834-S1">
+    <Synset id="wikidata-eu-L267834-S1" ili="wikidata-eu-L267834-S1" partOfSpeech="prenominal adjective">
       <Definition>beste zerbaiten aldi berean gertatzen, existitzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267845-S1" ili="wikidata-eu-L267845-S1">
+    <Synset id="wikidata-eu-L267845-S1" ili="wikidata-eu-L267845-S1" partOfSpeech="prenominal adjective">
       <Definition>antzetsua, trebea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267921-S1" ili="wikidata-eu-L267921-S1">
+    <Synset id="wikidata-eu-L267921-S1" ili="wikidata-eu-L267921-S1" partOfSpeech="prenominal adjective">
       <Definition>nahitaezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267921-S2" ili="wikidata-eu-L267921-S2">
+    <Synset id="wikidata-eu-L267921-S2" ili="wikidata-eu-L267921-S2" partOfSpeech="prenominal adjective">
       <Definition>neurriz gainekoa, markaz kanpokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267921-S3" ili="wikidata-eu-L267921-S3">
+    <Synset id="wikidata-eu-L267921-S3" ili="wikidata-eu-L267921-S3" partOfSpeech="prenominal adjective">
       <Definition>badaezpadakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267923-S1" ili="wikidata-eu-L267923-S1">
+    <Synset id="wikidata-eu-L267923-S1" ili="wikidata-eu-L267923-S1" partOfSpeech="prenominal adjective">
       <Definition>baldintzapean egin edo emandakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267934-S1" ili="wikidata-eu-L267934-S1">
+    <Synset id="wikidata-eu-L267934-S1" ili="wikidata-eu-L267934-S1" partOfSpeech="prenominal adjective">
       <Definition>beste batekin edo batzuekin batera egindakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267938-S1" ili="wikidata-eu-L267938-S1">
+    <Synset id="wikidata-eu-L267938-S1" ili="wikidata-eu-L267938-S1" partOfSpeech="prenominal adjective">
       <Definition>gehien behar dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268028-S1" ili="wikidata-eu-L268028-S1">
+    <Synset id="wikidata-eu-L268028-S1" ili="wikidata-eu-L268028-S1" partOfSpeech="prenominal adjective">
       <Definition>egiazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268150-S1" ili="wikidata-eu-L268150-S1">
+    <Synset id="wikidata-eu-L268150-S1" ili="wikidata-eu-L268150-S1" partOfSpeech="prenominal adjective">
       <Definition>osoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268150-S2" ili="wikidata-eu-L268150-S2">
+    <Synset id="wikidata-eu-L268150-S2" ili="wikidata-eu-L268150-S2" partOfSpeech="prenominal adjective">
       <Definition>orokorra</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268152-S1" ili="wikidata-eu-L268152-S1">
+    <Synset id="wikidata-eu-L268152-S1" ili="wikidata-eu-L268152-S1" partOfSpeech="prenominal adjective">
       <Definition>egokia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268164-S1" ili="wikidata-eu-L268164-S1">
+    <Synset id="wikidata-eu-L268164-S1" ili="wikidata-eu-L268164-S1" partOfSpeech="prenominal adjective">
       <Definition>etengabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268177-S1" ili="wikidata-eu-L268177-S1">
+    <Synset id="wikidata-eu-L268177-S1" ili="wikidata-eu-L268177-S1" partOfSpeech="prenominal adjective">
       <Definition>ezkutuan egin edo gertatua, ezkutua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268198-S1" ili="wikidata-eu-L268198-S1">
+    <Synset id="wikidata-eu-L268198-S1" ili="wikidata-eu-L268198-S1" partOfSpeech="prenominal adjective">
       <Definition>bere kidekoen artean kopuru edo neurri handiena duena, maximoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268468-S1" ili="wikidata-eu-L268468-S1">
+    <Synset id="wikidata-eu-L268468-S1" ili="wikidata-eu-L268468-S1" partOfSpeech="prenominal adjective">
       <Definition>gorputza duena, espirituzkoari kontrajarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268468-S2" ili="wikidata-eu-L268468-S2">
+    <Synset id="wikidata-eu-L268468-S2" ili="wikidata-eu-L268468-S2" partOfSpeech="prenominal adjective">
       <Definition>zenbait erlijiotan, atsegin fisikoari, bereziki plazer sexualari, dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268484-S1" ili="wikidata-eu-L268484-S1">
+    <Synset id="wikidata-eu-L268484-S1" ili="wikidata-eu-L268484-S1" partOfSpeech="prenominal adjective">
       <Definition>hara-ri dagokion izenlaguna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268484-S2" ili="wikidata-eu-L268484-S2">
+    <Synset id="wikidata-eu-L268484-S2" ili="wikidata-eu-L268484-S2" partOfSpeech="prenominal adjective">
       <Definition>hango, delako</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268616-S1" ili="wikidata-eu-L268616-S1">
+    <Synset id="wikidata-eu-L268616-S1" ili="wikidata-eu-L268616-S1" partOfSpeech="prenominal adjective">
       <Definition>bi hiri edo gehiagoren artekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269194-S1" ili="wikidata-eu-L269194-S1">
+    <Synset id="wikidata-eu-L269194-S1" ili="wikidata-eu-L269194-S1" partOfSpeech="prenominal adjective">
       <Definition>kontra dagoena; aurkakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269275-S1" ili="wikidata-eu-L269275-S1">
+    <Synset id="wikidata-eu-L269275-S1" ili="wikidata-eu-L269275-S1" partOfSpeech="prenominal adjective">
       <Definition>legeari buruzkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269275-S2" ili="wikidata-eu-L269275-S2">
+    <Synset id="wikidata-eu-L269275-S2" ili="wikidata-eu-L269275-S2" partOfSpeech="prenominal adjective">
       <Definition>lege bidezkoa; legearen araberakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269275-S3" ili="wikidata-eu-L269275-S3">
+    <Synset id="wikidata-eu-L269275-S3" ili="wikidata-eu-L269275-S3" partOfSpeech="prenominal adjective">
       <Definition>bezalakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269322-S1" ili="wikidata-eu-L269322-S1">
+    <Synset id="wikidata-eu-L269322-S1" ili="wikidata-eu-L269322-S1" partOfSpeech="prenominal adjective">
       <Definition>lotsagabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269387-S1" ili="wikidata-eu-L269387-S1">
+    <Synset id="wikidata-eu-L269387-S1" ili="wikidata-eu-L269387-S1" partOfSpeech="prenominal adjective">
       <Definition>menpean dagoena, azpikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269434-S1" ili="wikidata-eu-L269434-S1">
+    <Synset id="wikidata-eu-L269434-S1" ili="wikidata-eu-L269434-S1" partOfSpeech="prenominal adjective">
       <Definition>neurrigabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269514-S1" ili="wikidata-eu-L269514-S1">
+    <Synset id="wikidata-eu-L269514-S1" ili="wikidata-eu-L269514-S1" partOfSpeech="prenominal adjective">
       <Definition>une honetakoa, garai honetakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269528-S1" ili="wikidata-eu-L269528-S1">
+    <Synset id="wikidata-eu-L269528-S1" ili="wikidata-eu-L269528-S1" partOfSpeech="prenominal adjective">
       <Definition>sei hileko denbora-bitarteari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269539-S1" ili="wikidata-eu-L269539-S1">
+    <Synset id="wikidata-eu-L269539-S1" ili="wikidata-eu-L269539-S1" partOfSpeech="prenominal adjective">
       <Definition>txandaka antolatuta edo eratuta dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269548-S1" ili="wikidata-eu-L269548-S1">
+    <Synset id="wikidata-eu-L269548-S1" ili="wikidata-eu-L269548-S1" partOfSpeech="prenominal adjective">
       <Definition>zuzena ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269548-S2" ili="wikidata-eu-L269548-S2">
+    <Synset id="wikidata-eu-L269548-S2" ili="wikidata-eu-L269548-S2" partOfSpeech="prenominal adjective">
       <Definition>zerbaitekiko zeharka dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707737-S1" ili="wikidata-eu-L707737-S1">
+    <Synset id="wikidata-eu-L707737-S1" ili="wikidata-eu-L707737-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208713-S1" ili="wikidata-eu-L208713-S1">
+    <Synset id="wikidata-eu-L208713-S1" ili="wikidata-eu-L208713-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208726-S1" ili="wikidata-eu-L208726-S1">
+    <Synset id="wikidata-eu-L208726-S1" ili="wikidata-eu-L208726-S1" partOfSpeech="i">
       <Definition>alajaina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208731-S1" ili="wikidata-eu-L208731-S1">
+    <Synset id="wikidata-eu-L208731-S1" ili="wikidata-eu-L208731-S1" partOfSpeech="i">
       <Definition>emakumezkoak deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208766-S1" ili="wikidata-eu-L208766-S1">
+    <Synset id="wikidata-eu-L208766-S1" ili="wikidata-eu-L208766-S1" partOfSpeech="i">
       <Definition>norbaiten arreta deitzeko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267821-S1" ili="wikidata-eu-L267821-S1">
+    <Synset id="wikidata-eu-L267821-S1" ili="wikidata-eu-L267821-S1" partOfSpeech="prenominal adjective">
       <Definition>agerian dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267821-S2" ili="wikidata-eu-L267821-S2">
+    <Synset id="wikidata-eu-L267821-S2" ili="wikidata-eu-L267821-S2" partOfSpeech="prenominal adjective">
       <Definition>(Fin.) kontu korronteez, aurrezki-libretez eta abarrez mintzatuz, funtsak edozein unetan, aurretiazko abisurik gabe, erabili ahal direna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267823-S1" ili="wikidata-eu-L267823-S1">
+    <Synset id="wikidata-eu-L267823-S1" ili="wikidata-eu-L267823-S1" partOfSpeech="prenominal adjective">
       <Definition>nahitaez bete beharrekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267823-S2" ili="wikidata-eu-L267823-S2">
+    <Synset id="wikidata-eu-L267823-S2" ili="wikidata-eu-L267823-S2" partOfSpeech="prenominal adjective">
       <Definition>hitz emandakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267824-S1" ili="wikidata-eu-L267824-S1">
+    <Synset id="wikidata-eu-L267824-S1" ili="wikidata-eu-L267824-S1" partOfSpeech="prenominal adjective">
       <Definition>gehiengoari dagokiona, gehienek dutena, inolako berezitasunik ez duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267825-S1" ili="wikidata-eu-L267825-S1">
+    <Synset id="wikidata-eu-L267825-S1" ili="wikidata-eu-L267825-S1" partOfSpeech="prenominal adjective">
       <Definition>ahala adierazten duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267825-S2" ili="wikidata-eu-L267825-S2">
+    <Synset id="wikidata-eu-L267825-S2" ili="wikidata-eu-L267825-S2" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) ahalera</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267843-S1" ili="wikidata-eu-L267843-S1">
+    <Synset id="wikidata-eu-L267843-S1" ili="wikidata-eu-L267843-S1" partOfSpeech="prenominal adjective">
       <Definition>irudipenezkoa, benetakoa ez dena; ametsetan agertzeko modukoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267851-S1" ili="wikidata-eu-L267851-S1">
+    <Synset id="wikidata-eu-L267851-S1" ili="wikidata-eu-L267851-S1" partOfSpeech="prenominal adjective">
       <Definition>era askotakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267857-S1" ili="wikidata-eu-L267857-S1">
+    <Synset id="wikidata-eu-L267857-S1" ili="wikidata-eu-L267857-S1" partOfSpeech="prenominal adjective">
       <Definition>atzeraeragina duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267859-S1" ili="wikidata-eu-L267859-S1">
+    <Synset id="wikidata-eu-L267859-S1" ili="wikidata-eu-L267859-S1" partOfSpeech="prenominal adjective">
       <Definition>zerbaiten edo norbaiten aurka dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267859-S2" ili="wikidata-eu-L267859-S2">
+    <Synset id="wikidata-eu-L267859-S2" ili="wikidata-eu-L267859-S2" partOfSpeech="prenominal adjective">
       <Definition>(Mat.) balio absolutu bera baina kontrako zeinua duten zenbakietako bakoitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267919-S1" ili="wikidata-eu-L267919-S1">
+    <Synset id="wikidata-eu-L267919-S1" ili="wikidata-eu-L267919-S1" partOfSpeech="prenominal adjective">
       <Definition>ziurtzat, finkotzat jo ezin dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267919-S2" ili="wikidata-eu-L267919-S2">
+    <Synset id="wikidata-eu-L267919-S2" ili="wikidata-eu-L267919-S2" partOfSpeech="prenominal adjective">
       <Definition>erdipurdikoa, fidatzekoa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267919-S3" ili="wikidata-eu-L267919-S3">
+    <Synset id="wikidata-eu-L267919-S3" ili="wikidata-eu-L267919-S3" partOfSpeech="prenominal adjective">
       <Definition>zalantza eta susmo txarrak sorrarazten dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267919-S4" ili="wikidata-eu-L267919-S4">
+    <Synset id="wikidata-eu-L267919-S4" ili="wikidata-eu-L267919-S4" partOfSpeech="prenominal adjective">
       <Definition>badaezpada egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267927-S1" ili="wikidata-eu-L267927-S1">
+    <Synset id="wikidata-eu-L267927-S1" ili="wikidata-eu-L267927-S1" partOfSpeech="prenominal adjective">
       <Definition>litzatekeenari baina ez denari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267937-S1" ili="wikidata-eu-L267937-S1">
+    <Synset id="wikidata-eu-L267937-S1" ili="wikidata-eu-L267937-S1" partOfSpeech="prenominal adjective">
       <Definition>begiz, ikusiz egindakoari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268013-S1" ili="wikidata-eu-L268013-S1">
+    <Synset id="wikidata-eu-L268013-S1" ili="wikidata-eu-L268013-S1" partOfSpeech="prenominal adjective">
       <Definition>beldurgarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268105-S1" ili="wikidata-eu-L268105-S1">
+    <Synset id="wikidata-eu-L268105-S1" ili="wikidata-eu-L268105-S1" partOfSpeech="prenominal adjective">
       <Definition>berariazkoa, aproposa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268105-S2" ili="wikidata-eu-L268105-S2">
+    <Synset id="wikidata-eu-L268105-S2" ili="wikidata-eu-L268105-S2" partOfSpeech="prenominal adjective">
       <Definition>markatik kanpokoa, neurriz gainekoa, oso handia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268106-S1" ili="wikidata-eu-L268106-S1">
+    <Synset id="wikidata-eu-L268106-S1" ili="wikidata-eu-L268106-S1" partOfSpeech="prenominal adjective">
       <Definition>berehala gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268140-S1" ili="wikidata-eu-L268140-S1">
+    <Synset id="wikidata-eu-L268140-S1" ili="wikidata-eu-L268140-S1" partOfSpeech="prenominal adjective">
       <Definition>egun guztietakoa, egunero gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268159-S1" ili="wikidata-eu-L268159-S1">
+    <Synset id="wikidata-eu-L268159-S1" ili="wikidata-eu-L268159-S1" partOfSpeech="prenominal adjective">
       <Definition>erlijiosoa, erlijioari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268161-S1" ili="wikidata-eu-L268161-S1">
+    <Synset id="wikidata-eu-L268161-S1" ili="wikidata-eu-L268161-S1" partOfSpeech="prenominal adjective">
       <Definition>eskalea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268182-S1" ili="wikidata-eu-L268182-S1">
+    <Synset id="wikidata-eu-L268182-S1" ili="wikidata-eu-L268182-S1" partOfSpeech="prenominal adjective">
       <Definition>ustekabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268186-S1" ili="wikidata-eu-L268186-S1">
+    <Synset id="wikidata-eu-L268186-S1" ili="wikidata-eu-L268186-S1" partOfSpeech="prenominal adjective">
       <Definition>oinarrizkoa, garrantzirik handienekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268186-S2" ili="wikidata-eu-L268186-S2">
+    <Synset id="wikidata-eu-L268186-S2" ili="wikidata-eu-L268186-S2" partOfSpeech="prenominal adjective">
       <Definition>funtsa, ganora duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268201-S1" ili="wikidata-eu-L268201-S1">
+    <Synset id="wikidata-eu-L268201-S1" ili="wikidata-eu-L268201-S1" partOfSpeech="prenominal adjective">
       <Definition>gerokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268204-S1" ili="wikidata-eu-L268204-S1">
+    <Synset id="wikidata-eu-L268204-S1" ili="wikidata-eu-L268204-S1" partOfSpeech="prenominal adjective">
       <Definition>delako iraganeko unetik orain artekoa, geroztik gertatu edo iraun duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268251-S1" ili="wikidata-eu-L268251-S1">
+    <Synset id="wikidata-eu-L268251-S1" ili="wikidata-eu-L268251-S1" partOfSpeech="prenominal adjective">
       <Definition>gorengoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268352-S1" ili="wikidata-eu-L268352-S1">
+    <Synset id="wikidata-eu-L268352-S1" ili="wikidata-eu-L268352-S1" partOfSpeech="prenominal adjective">
       <Definition>halako kantitate, neurri, tamaina, garrantzi eta abar duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268551-S1" ili="wikidata-eu-L268551-S1">
+    <Synset id="wikidata-eu-L268551-S1" ili="wikidata-eu-L268551-S1" partOfSpeech="prenominal adjective">
       <Definition>errugbian, saskibaloian, eta beste hainbat kiroletan hegalean jokatzen duen jokalaria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268795-S1" ili="wikidata-eu-L268795-S1">
+    <Synset id="wikidata-eu-L268795-S1" ili="wikidata-eu-L268795-S1" partOfSpeech="prenominal adjective">
       <Definition>era horretakoa, hori bezalakoa, adierazi den gisakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268795-S2" ili="wikidata-eu-L268795-S2">
+    <Synset id="wikidata-eu-L268795-S2" ili="wikidata-eu-L268795-S2" partOfSpeech="prenominal adjective">
       <Definition>gehiago zehazten ez den zerbait adierazteko partikula</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268811-S1" ili="wikidata-eu-L268811-S1">
+    <Synset id="wikidata-eu-L268811-S1" ili="wikidata-eu-L268811-S1" partOfSpeech="prenominal adjective">
       <Definition>horrelako kantitate, neurri, tamaina, garrantzi eta abar duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268974-S1" ili="wikidata-eu-L268974-S1">
+    <Synset id="wikidata-eu-L268974-S1" ili="wikidata-eu-L268974-S1" partOfSpeech="prenominal adjective">
       <Definition>ezein, bat ere, inongoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268974-S2" ili="wikidata-eu-L268974-S2">
+    <Synset id="wikidata-eu-L268974-S2" ili="wikidata-eu-L268974-S2" partOfSpeech="prenominal adjective">
       <Definition>nolabaitekoa; berebizikoa, egundokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269161-S1" ili="wikidata-eu-L269161-S1">
+    <Synset id="wikidata-eu-L269161-S1" ili="wikidata-eu-L269161-S1" partOfSpeech="prenominal adjective">
       <Definition>klaseen, bereziki gizarte-klaseen, artekoa; klase bati baino gehiagori dagokiena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269211-S1" ili="wikidata-eu-L269211-S1">
+    <Synset id="wikidata-eu-L269211-S1" ili="wikidata-eu-L269211-S1" partOfSpeech="prenominal adjective">
       <Definition>kontuz egin edo tratatzekoa; garrantzitsua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269504-S1" ili="wikidata-eu-L269504-S1">
+    <Synset id="wikidata-eu-L269504-S1" ili="wikidata-eu-L269504-S1" partOfSpeech="prenominal adjective">
       <Definition>(Mil.) soldaduez mintzatuz, oinez ibiltzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269518-S1" ili="wikidata-eu-L269518-S1">
+    <Synset id="wikidata-eu-L269518-S1" ili="wikidata-eu-L269518-S1" partOfSpeech="prenominal adjective">
       <Definition>osoa, zatirik falta ez duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269537-S1" ili="wikidata-eu-L269537-S1">
+    <Synset id="wikidata-eu-L269537-S1" ili="wikidata-eu-L269537-S1" partOfSpeech="prenominal adjective">
       <Definition>edoskitzeko garaian dagoen haurra, esnea elikagai bakarra edo funtsezkoa duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269545-S1" ili="wikidata-eu-L269545-S1">
+    <Synset id="wikidata-eu-L269545-S1" ili="wikidata-eu-L269545-S1" partOfSpeech="prenominal adjective">
       <Definition>frogatu edo ziurtatu gabe egon arren, eskura diren informazioen arabera edota batzuen iritzian halakotzat hartzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269550-S1" ili="wikidata-eu-L269550-S1">
+    <Synset id="wikidata-eu-L269550-S1" ili="wikidata-eu-L269550-S1" partOfSpeech="prenominal adjective">
       <Definition>zelulen artean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269557-S1" ili="wikidata-eu-L269557-S1">
+    <Synset id="wikidata-eu-L269557-S1" ili="wikidata-eu-L269557-S1" partOfSpeech="prenominal adjective">
       <Definition>zoriona duena edo dakarrena; zorionez gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269557-S2" ili="wikidata-eu-L269557-S2">
+    <Synset id="wikidata-eu-L269557-S2" ili="wikidata-eu-L269557-S2" partOfSpeech="prenominal adjective">
       <Definition>ditxosozkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269559-S1" ili="wikidata-eu-L269559-S1">
+    <Synset id="wikidata-eu-L269559-S1" ili="wikidata-eu-L269559-S1" partOfSpeech="prenominal adjective">
       <Definition>zorrak dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269564-S1" ili="wikidata-eu-L269564-S1">
+    <Synset id="wikidata-eu-L269564-S1" ili="wikidata-eu-L269564-S1" partOfSpeech="prenominal adjective">
       <Definition>zuzengabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707730-S1" ili="wikidata-eu-L707730-S1">
+    <Synset id="wikidata-eu-L707730-S1" ili="wikidata-eu-L707730-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208709-S1" ili="wikidata-eu-L208709-S1">
+    <Synset id="wikidata-eu-L208709-S1" ili="wikidata-eu-L208709-S1" partOfSpeech="i">
       <Definition>norbait agurtzeko erabiltzen den diosala</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208764-S1" ili="wikidata-eu-L208764-S1">
+    <Synset id="wikidata-eu-L208764-S1" ili="wikidata-eu-L208764-S1" partOfSpeech="i">
       <Definition>emakumezko baten arreta deitzeko bidea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267829-S1" ili="wikidata-eu-L267829-S1">
+    <Synset id="wikidata-eu-L267829-S1" ili="wikidata-eu-L267829-S1" partOfSpeech="prenominal adjective">
       <Definition>aingeruei dagokiena; aingeruen nolakotasunak dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267842-S1" ili="wikidata-eu-L267842-S1">
+    <Synset id="wikidata-eu-L267842-S1" ili="wikidata-eu-L267842-S1" partOfSpeech="prenominal adjective">
       <Definition>ametsezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267848-S1" ili="wikidata-eu-L267848-S1">
+    <Synset id="wikidata-eu-L267848-S1" ili="wikidata-eu-L267848-S1" partOfSpeech="prenominal adjective">
       <Definition>garrantzizkoa, arduraz egin beharrekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267862-S1" ili="wikidata-eu-L267862-S1">
+    <Synset id="wikidata-eu-L267862-S1" ili="wikidata-eu-L267862-S1" partOfSpeech="prenominal adjective">
       <Definition>lehenbizikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267863-S1" ili="wikidata-eu-L267863-S1">
+    <Synset id="wikidata-eu-L267863-S1" ili="wikidata-eu-L267863-S1" partOfSpeech="prenominal adjective">
       <Definition>lehenbizikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267885-S1" ili="wikidata-eu-L267885-S1">
+    <Synset id="wikidata-eu-L267885-S1" ili="wikidata-eu-L267885-S1" partOfSpeech="prenominal adjective">
       <Definition>azkena; bukaerakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267926-S1" ili="wikidata-eu-L267926-S1">
+    <Synset id="wikidata-eu-L267926-S1" ili="wikidata-eu-L267926-S1" partOfSpeech="prenominal adjective">
       <Definition>balio duena; baliotsua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267929-S1" ili="wikidata-eu-L267929-S1">
+    <Synset id="wikidata-eu-L267929-S1" ili="wikidata-eu-L267929-S1" partOfSpeech="prenominal adjective">
       <Definition>banaka gauzatzen dena; banakoari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267932-S1" ili="wikidata-eu-L267932-S1">
+    <Synset id="wikidata-eu-L267932-S1" ili="wikidata-eu-L267932-S1" partOfSpeech="prenominal adjective">
       <Definition>bat-batean gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267935-S1" ili="wikidata-eu-L267935-S1">
+    <Synset id="wikidata-eu-L267935-S1" ili="wikidata-eu-L267935-S1" partOfSpeech="prenominal adjective">
       <Definition>baztergabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267936-S1" ili="wikidata-eu-L267936-S1">
+    <Synset id="wikidata-eu-L267936-S1" ili="wikidata-eu-L267936-S1" partOfSpeech="prenominal adjective">
       <Definition>bederatziz osatua; joko-kartetan, bederatzi puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268077-S1" ili="wikidata-eu-L268077-S1">
+    <Synset id="wikidata-eu-L268077-S1" ili="wikidata-eu-L268077-S1" partOfSpeech="prenominal adjective">
       <Definition>nahita, gurariak emanda egindakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268077-S2" ili="wikidata-eu-L268077-S2">
+    <Synset id="wikidata-eu-L268077-S2" ili="wikidata-eu-L268077-S2" partOfSpeech="prenominal adjective">
       <Definition>espezifikoa; berezia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268113-S1" ili="wikidata-eu-L268113-S1">
+    <Synset id="wikidata-eu-L268113-S1" ili="wikidata-eu-L268113-S1" partOfSpeech="prenominal adjective">
       <Definition>beti bat dagoena, aldatzen ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268114-S1" ili="wikidata-eu-L268114-S1">
+    <Synset id="wikidata-eu-L268114-S1" ili="wikidata-eu-L268114-S1" partOfSpeech="prenominal adjective">
       <Definition>betikoa; etengabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268148-S1" ili="wikidata-eu-L268148-S1">
+    <Synset id="wikidata-eu-L268148-S1" ili="wikidata-eu-L268148-S1" partOfSpeech="prenominal adjective">
       <Definition>gainerakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268188-S1" ili="wikidata-eu-L268188-S1">
+    <Synset id="wikidata-eu-L268188-S1" ili="wikidata-eu-L268188-S1" partOfSpeech="prenominal adjective">
       <Definition>osotasun baten zati bat edo multzo bateko elementu bat edo batzuk aipatu ondoren, gelditzen diren besteen multzoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268188-S2" ili="wikidata-eu-L268188-S2">
+    <Synset id="wikidata-eu-L268188-S2" ili="wikidata-eu-L268188-S2" partOfSpeech="prenominal adjective">
       <Definition>zerbaitek duen balioa baino diru handiagoz ordaintzean itzultzen den zenbatekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268232-S1" ili="wikidata-eu-L268232-S1">
+    <Synset id="wikidata-eu-L268232-S1" ili="wikidata-eu-L268232-S1" partOfSpeech="prenominal adjective">
       <Definition>gogokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268232-S2" ili="wikidata-eu-L268232-S2">
+    <Synset id="wikidata-eu-L268232-S2" ili="wikidata-eu-L268232-S2" partOfSpeech="prenominal adjective">
       <Definition>gogoari, pentsamenduari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268286-S1" ili="wikidata-eu-L268286-S1">
+    <Synset id="wikidata-eu-L268286-S1" ili="wikidata-eu-L268286-S1" partOfSpeech="prenominal adjective">
       <Definition>gogokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268402-S1" ili="wikidata-eu-L268402-S1">
+    <Synset id="wikidata-eu-L268402-S1" ili="wikidata-eu-L268402-S1" partOfSpeech="prenominal adjective">
       <Definition>erabat halakoa, berdin-berdina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268418-S1" ili="wikidata-eu-L268418-S1">
+    <Synset id="wikidata-eu-L268418-S1" ili="wikidata-eu-L268418-S1" partOfSpeech="prenominal adjective">
       <Definition>hamabiz osatua, zerbaitetik hamabi dituena; dozena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268713-S1" ili="wikidata-eu-L268713-S1">
+    <Synset id="wikidata-eu-L268713-S1" ili="wikidata-eu-L268713-S1" partOfSpeech="prenominal adjective">
       <Definition>hona-ri dagokion izenlaguna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268713-S2" ili="wikidata-eu-L268713-S2">
+    <Synset id="wikidata-eu-L268713-S2" ili="wikidata-eu-L268713-S2" partOfSpeech="prenominal adjective">
       <Definition>hemengoa, delakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268746-S1" ili="wikidata-eu-L268746-S1">
+    <Synset id="wikidata-eu-L268746-S1" ili="wikidata-eu-L268746-S1" partOfSpeech="prenominal adjective">
       <Definition>erabat honelakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268843-S1" ili="wikidata-eu-L268843-S1">
+    <Synset id="wikidata-eu-L268843-S1" ili="wikidata-eu-L268843-S1" partOfSpeech="prenominal adjective">
       <Definition>hurbilean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268924-S1" ili="wikidata-eu-L268924-S1">
+    <Synset id="wikidata-eu-L268924-S1" ili="wikidata-eu-L268924-S1" partOfSpeech="prenominal adjective">
       <Definition>soinuaz eta irudiaz baliatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269004-S1" ili="wikidata-eu-L269004-S1">
+    <Synset id="wikidata-eu-L269004-S1" ili="wikidata-eu-L269004-S1" partOfSpeech="prenominal adjective">
       <Definition>adierazten denaren irudia edo antza duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269077-S1" ili="wikidata-eu-L269077-S1">
+    <Synset id="wikidata-eu-L269077-S1" ili="wikidata-eu-L269077-S1" partOfSpeech="prenominal adjective">
       <Definition>jan aurretik hartzen den janari edo edaria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269145-S1" ili="wikidata-eu-L269145-S1">
+    <Synset id="wikidata-eu-L269145-S1" ili="wikidata-eu-L269145-S1" partOfSpeech="prenominal adjective">
       <Definition>kidea dena, kidea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269307-S1" ili="wikidata-eu-L269307-S1">
+    <Synset id="wikidata-eu-L269307-S1" ili="wikidata-eu-L269307-S1" partOfSpeech="prenominal adjective">
       <Definition>adierazi den lekukoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269370-S1" ili="wikidata-eu-L269370-S1">
+    <Synset id="wikidata-eu-L269370-S1" ili="wikidata-eu-L269370-S1" partOfSpeech="prenominal adjective">
       <Definition>mendean dagoena, azpikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269426-S1" ili="wikidata-eu-L269426-S1">
+    <Synset id="wikidata-eu-L269426-S1" ili="wikidata-eu-L269426-S1" partOfSpeech="prenominal adjective">
       <Definition>gauzez mintzatuz, naturaz gaindikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269433-S1" ili="wikidata-eu-L269433-S1">
+    <Synset id="wikidata-eu-L269433-S1" ili="wikidata-eu-L269433-S1" partOfSpeech="prenominal adjective">
       <Definition>hainbat nazioren artean egiten dena, hainbat naziori edo nazioen arteko harremanei dagokiena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269437-S1" ili="wikidata-eu-L269437-S1">
+    <Synset id="wikidata-eu-L269437-S1" ili="wikidata-eu-L269437-S1" partOfSpeech="prenominal adjective">
       <Definition>erdipurdikoa, hala moduzkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269519-S1" ili="wikidata-eu-L269519-S1">
+    <Synset id="wikidata-eu-L269519-S1" ili="wikidata-eu-L269519-S1" partOfSpeech="prenominal adjective">
       <Definition>gainerakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269521-S1" ili="wikidata-eu-L269521-S1">
+    <Synset id="wikidata-eu-L269521-S1" ili="wikidata-eu-L269521-S1" partOfSpeech="prenominal adjective">
       <Definition>kidekoa; maila berekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208716-S1" ili="wikidata-eu-L208716-S1">
+    <Synset id="wikidata-eu-L208716-S1" ili="wikidata-eu-L208716-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208717-S1" ili="wikidata-eu-L208717-S1">
+    <Synset id="wikidata-eu-L208717-S1" ili="wikidata-eu-L208717-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208724-S1" ili="wikidata-eu-L208724-S1">
+    <Synset id="wikidata-eu-L208724-S1" ili="wikidata-eu-L208724-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208724-S2" ili="wikidata-eu-L208724-S2">
+    <Synset id="wikidata-eu-L208724-S2" ili="wikidata-eu-L208724-S2" partOfSpeech="i">
       <Definition>emakume baten arreta deitzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208741-S1" ili="wikidata-eu-L208741-S1">
+    <Synset id="wikidata-eu-L208741-S1" ili="wikidata-eu-L208741-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208748-S1" ili="wikidata-eu-L208748-S1">
+    <Synset id="wikidata-eu-L208748-S1" ili="wikidata-eu-L208748-S1" partOfSpeech="i">
       <Definition>norbaiti ixiltzeko eskatzeko interjekzioa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208762-S1" ili="wikidata-eu-L208762-S1">
+    <Synset id="wikidata-eu-L208762-S1" ili="wikidata-eu-L208762-S1" partOfSpeech="i">
       <Definition>gizonezko baten arreta deitzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208768-S1" ili="wikidata-eu-L208768-S1">
+    <Synset id="wikidata-eu-L208768-S1" ili="wikidata-eu-L208768-S1" partOfSpeech="i">
       <Definition>norbaiten arreta deitzeko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267826-S1" ili="wikidata-eu-L267826-S1">
+    <Synset id="wikidata-eu-L267826-S1" ili="wikidata-eu-L267826-S1" partOfSpeech="prenominal adjective">
       <Definition>guztion artekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267831-S1" ili="wikidata-eu-L267831-S1">
+    <Synset id="wikidata-eu-L267831-S1" ili="wikidata-eu-L267831-S1" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) albokaria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267837-S1" ili="wikidata-eu-L267837-S1">
+    <Synset id="wikidata-eu-L267837-S1" ili="wikidata-eu-L267837-S1" partOfSpeech="prenominal adjective">
       <Definition>egiazkoaren itxura besterik ez duena; asmatua. Askotan egiazko-ren kontrako moduan erabiltzen da</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267837-S2" ili="wikidata-eu-L267837-S2">
+    <Synset id="wikidata-eu-L267837-S2" ili="wikidata-eu-L267837-S2" partOfSpeech="prenominal adjective">
       <Definition>(Fis./Inform.) alegiazko edo itxurazko izatasuna soilik duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267837-S3" ili="wikidata-eu-L267837-S3">
+    <Synset id="wikidata-eu-L267837-S3" ili="wikidata-eu-L267837-S3" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) euskal aditzaren aldietako bat, balizko ekintzak adierazteko erabiltzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267846-S1" ili="wikidata-eu-L267846-S1">
+    <Synset id="wikidata-eu-L267846-S1" ili="wikidata-eu-L267846-S1" partOfSpeech="prenominal adjective">
       <Definition>bereizia, bereizirik dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267846-S2" ili="wikidata-eu-L267846-S2">
+    <Synset id="wikidata-eu-L267846-S2" ili="wikidata-eu-L267846-S2" partOfSpeech="prenominal adjective">
       <Definition>aparta, bikaina; ohi ez bezalakoa, berezia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267846-S3" ili="wikidata-eu-L267846-S3">
+    <Synset id="wikidata-eu-L267846-S3" ili="wikidata-eu-L267846-S3" partOfSpeech="prenominal adjective">
       <Definition>urrutikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267847-S1" ili="wikidata-eu-L267847-S1">
+    <Synset id="wikidata-eu-L267847-S1" ili="wikidata-eu-L267847-S1" partOfSpeech="prenominal adjective">
       <Definition>araberakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267847-S2" ili="wikidata-eu-L267847-S2">
+    <Synset id="wikidata-eu-L267847-S2" ili="wikidata-eu-L267847-S2" partOfSpeech="prenominal adjective">
       <Definition>arauarekin bat datorrena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267852-S1" ili="wikidata-eu-L267852-S1">
+    <Synset id="wikidata-eu-L267852-S1" ili="wikidata-eu-L267852-S1" partOfSpeech="prenominal adjective">
       <Definition>aspaldikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267856-S1" ili="wikidata-eu-L267856-S1">
+    <Synset id="wikidata-eu-L267856-S1" ili="wikidata-eu-L267856-S1" partOfSpeech="prenominal adjective">
       <Definition>azkeneko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267901-S1" ili="wikidata-eu-L267901-S1">
+    <Synset id="wikidata-eu-L267901-S1" ili="wikidata-eu-L267901-S1" partOfSpeech="prenominal adjective">
       <Definition>azkena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267924-S1" ili="wikidata-eu-L267924-S1">
+    <Synset id="wikidata-eu-L267924-S1" ili="wikidata-eu-L267924-S1" partOfSpeech="prenominal adjective">
       <Definition>izaera baldintzatua duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267924-S2" ili="wikidata-eu-L267924-S2">
+    <Synset id="wikidata-eu-L267924-S2" ili="wikidata-eu-L267924-S2" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) baldintza adierazten duen mendeko perpausari esaten zaio; menderagailuez mintzatuz, horrelako perpausetan erabiltzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267924-S3" ili="wikidata-eu-L267924-S3">
+    <Synset id="wikidata-eu-L267924-S3" ili="wikidata-eu-L267924-S3" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) adizkiez mintzatuz, horrelako perpausetan agertu ohi dena, oro har, ba- edo -ke- morfema duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267939-S1" ili="wikidata-eu-L267939-S1">
+    <Synset id="wikidata-eu-L267939-S1" ili="wikidata-eu-L267939-S1" partOfSpeech="prenominal adjective">
       <Definition>nahitaezkoa, nahitaez behar dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267949-S1" ili="wikidata-eu-L267949-S1">
+    <Synset id="wikidata-eu-L267949-S1" ili="wikidata-eu-L267949-S1" partOfSpeech="prenominal adjective">
       <Definition>maila apalekoa; baxua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267998-S1" ili="wikidata-eu-L267998-S1">
+    <Synset id="wikidata-eu-L267998-S1" ili="wikidata-eu-L267998-S1" partOfSpeech="prenominal adjective">
       <Definition>bekatua eginez betetzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268043-S1" ili="wikidata-eu-L268043-S1">
+    <Synset id="wikidata-eu-L268043-S1" ili="wikidata-eu-L268043-S1" partOfSpeech="prenominal adjective">
       <Definition>egiazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268094-S1" ili="wikidata-eu-L268094-S1">
+    <Synset id="wikidata-eu-L268094-S1" ili="wikidata-eu-L268094-S1" partOfSpeech="prenominal adjective">
       <Definition>emandako berba betetzen duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268111-S1" ili="wikidata-eu-L268111-S1">
+    <Synset id="wikidata-eu-L268111-S1" ili="wikidata-eu-L268111-S1" partOfSpeech="prenominal adjective">
       <Definition>beste era batekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268112-S1" ili="wikidata-eu-L268112-S1">
+    <Synset id="wikidata-eu-L268112-S1" ili="wikidata-eu-L268112-S1" partOfSpeech="prenominal adjective">
       <Definition>adinako</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268112-S2" ili="wikidata-eu-L268112-S2">
+    <Synset id="wikidata-eu-L268112-S2" ili="wikidata-eu-L268112-S2" partOfSpeech="prenominal adjective">
       <Definition>erabat antzekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268122-S1" ili="wikidata-eu-L268122-S1">
+    <Synset id="wikidata-eu-L268122-S1" ili="wikidata-eu-L268122-S1" partOfSpeech="prenominal adjective">
       <Definition>inork eta ezerk behartu gabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268122-S2" ili="wikidata-eu-L268122-S2">
+    <Synset id="wikidata-eu-L268122-S2" ili="wikidata-eu-L268122-S2" partOfSpeech="prenominal adjective">
       <Definition>borondatearen agindupean dagoena edo borondateak eraentzen duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268123-S1" ili="wikidata-eu-L268123-S1">
+    <Synset id="wikidata-eu-L268123-S1" ili="wikidata-eu-L268123-S1" partOfSpeech="prenominal adjective">
       <Definition>bostez osatua; joko-kartetan, bost puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268128-S1" ili="wikidata-eu-L268128-S1">
+    <Synset id="wikidata-eu-L268128-S1" ili="wikidata-eu-L268128-S1" partOfSpeech="prenominal adjective">
       <Definition>delako izenlagunaren plurala</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268129-S1" ili="wikidata-eu-L268129-S1">
+    <Synset id="wikidata-eu-L268129-S1" ili="wikidata-eu-L268129-S1" partOfSpeech="prenominal adjective">
       <Definition>betiereko arazoa delako, ahotan oso erabilia delako eta abarrengatik gogaikarri gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268157-S1" ili="wikidata-eu-L268157-S1">
+    <Synset id="wikidata-eu-L268157-S1" ili="wikidata-eu-L268157-S1" partOfSpeech="prenominal adjective">
       <Definition>araberakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268157-S2" ili="wikidata-eu-L268157-S2">
+    <Synset id="wikidata-eu-L268157-S2" ili="wikidata-eu-L268157-S2" partOfSpeech="prenominal adjective">
       <Definition>eredugarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268165-S1" ili="wikidata-eu-L268165-S1">
+    <Synset id="wikidata-eu-L268165-S1" ili="wikidata-eu-L268165-S1" partOfSpeech="prenominal adjective">
       <Definition>bi etxebizitzako baserrian, teilape berean bizi den aldameneko laguna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268175-S1" ili="wikidata-eu-L268175-S1">
+    <Synset id="wikidata-eu-L268175-S1" ili="wikidata-eu-L268175-S1" partOfSpeech="prenominal adjective">
       <Definition>ezin daitekeena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268190-S1" ili="wikidata-eu-L268190-S1">
+    <Synset id="wikidata-eu-L268190-S1" ili="wikidata-eu-L268190-S1" partOfSpeech="prenominal adjective">
       <Definition>ganora duena; ganoraz egina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268193-S1" ili="wikidata-eu-L268193-S1">
+    <Synset id="wikidata-eu-L268193-S1" ili="wikidata-eu-L268193-S1" partOfSpeech="prenominal adjective">
       <Definition>garrantzia duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268196-S1" ili="wikidata-eu-L268196-S1">
+    <Synset id="wikidata-eu-L268196-S1" ili="wikidata-eu-L268196-S1" partOfSpeech="prenominal adjective">
       <Definition>uneko egunekoa; gaur egungoa, garai honetakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268208-S1" ili="wikidata-eu-L268208-S1">
+    <Synset id="wikidata-eu-L268208-S1" ili="wikidata-eu-L268208-S1" partOfSpeech="prenominal adjective">
       <Definition>gizakiaz gaindikoa, gizakiak ahal duenaz gaindikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268334-S1" ili="wikidata-eu-L268334-S1">
+    <Synset id="wikidata-eu-L268334-S1" ili="wikidata-eu-L268334-S1" partOfSpeech="prenominal adjective">
       <Definition>hain handia, halako tamainakoa; handia, ona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268368-S1" ili="wikidata-eu-L268368-S1">
+    <Synset id="wikidata-eu-L268368-S1" ili="wikidata-eu-L268368-S1" partOfSpeech="prenominal adjective">
       <Definition>ez onegia, ez oso fidagarria, erdipurdikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268452-S1" ili="wikidata-eu-L268452-S1">
+    <Synset id="wikidata-eu-L268452-S1" ili="wikidata-eu-L268452-S1" partOfSpeech="prenominal adjective">
       <Definition>bi hanka dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268518-S1" ili="wikidata-eu-L268518-S1">
+    <Synset id="wikidata-eu-L268518-S1" ili="wikidata-eu-L268518-S1" partOfSpeech="prenominal adjective">
       <Definition>hauta daitekeena, nahitaezkoa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268518-S2" ili="wikidata-eu-L268518-S2">
+    <Synset id="wikidata-eu-L268518-S2" ili="wikidata-eu-L268518-S2" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) zeinu linguistikoaren bi alderdien arteko, adierazle eta adieraziaren arteko, harremana, erlazio jakinik gabe osatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268649-S1" ili="wikidata-eu-L268649-S1">
+    <Synset id="wikidata-eu-L268649-S1" ili="wikidata-eu-L268649-S1" partOfSpeech="prenominal adjective">
       <Definition>hiruz osatua; joko-kartetan, hiru puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268681-S1" ili="wikidata-eu-L268681-S1">
+    <Synset id="wikidata-eu-L268681-S1" ili="wikidata-eu-L268681-S1" partOfSpeech="prenominal adjective">
       <Definition>hitzen bidez adierazia</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268940-S1" ili="wikidata-eu-L268940-S1">
+    <Synset id="wikidata-eu-L268940-S1" ili="wikidata-eu-L268940-S1" partOfSpeech="prenominal adjective">
       <Definition>indarra erabiliz egina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268940-S2" ili="wikidata-eu-L268940-S2">
+    <Synset id="wikidata-eu-L268940-S2" ili="wikidata-eu-L268940-S2" partOfSpeech="prenominal adjective">
       <Definition>nahitaezkoa, derrigor egin edo bete behar dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269030-S1" ili="wikidata-eu-L269030-S1">
+    <Synset id="wikidata-eu-L269030-S1" ili="wikidata-eu-L269030-S1" partOfSpeech="prenominal adjective">
       <Definition>itxura onekoa, itxura egokikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269094-S1" ili="wikidata-eu-L269094-S1">
+    <Synset id="wikidata-eu-L269094-S1" ili="wikidata-eu-L269094-S1" partOfSpeech="prenominal adjective">
       <Definition>jatorriari dagokiona, jatorriz dena; sortze-ingurunetik, egilearen eskutik zuzenean datorrena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269094-S2" ili="wikidata-eu-L269094-S2">
+    <Synset id="wikidata-eu-L269094-S2" ili="wikidata-eu-L269094-S2" partOfSpeech="prenominal adjective">
       <Definition>artelanez, izkribuez eta abarrez mintzatuz, kopia, errepikapena, itzulpena ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269178-S1" ili="wikidata-eu-L269178-S1">
+    <Synset id="wikidata-eu-L269178-S1" ili="wikidata-eu-L269178-S1" partOfSpeech="prenominal adjective">
       <Definition>kolorea edo koloreak dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269427-S1" ili="wikidata-eu-L269427-S1">
+    <Synset id="wikidata-eu-L269427-S1" ili="wikidata-eu-L269427-S1" partOfSpeech="prenominal adjective">
       <Definition>mirariz gertatzen dena; harrigarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269432-S1" ili="wikidata-eu-L269432-S1">
+    <Synset id="wikidata-eu-L269432-S1" ili="wikidata-eu-L269432-S1" partOfSpeech="prenominal adjective">
       <Definition>nahitaez behar dena, ezin saihets edo baztertu daitekeena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269479-S1" ili="wikidata-eu-L269479-S1">
+    <Synset id="wikidata-eu-L269479-S1" ili="wikidata-eu-L269479-S1" partOfSpeech="prenominal adjective">
       <Definition>noraezean doana</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269479-S2" ili="wikidata-eu-L269479-S2">
+    <Synset id="wikidata-eu-L269479-S2" ili="wikidata-eu-L269479-S2" partOfSpeech="prenominal adjective">
       <Definition>nahitaezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269543-S1" ili="wikidata-eu-L269543-S1">
+    <Synset id="wikidata-eu-L269543-S1" ili="wikidata-eu-L269543-S1" partOfSpeech="prenominal adjective">
       <Definition>urtero gertatzen edo egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269544-S1" ili="wikidata-eu-L269544-S1">
+    <Synset id="wikidata-eu-L269544-S1" ili="wikidata-eu-L269544-S1" partOfSpeech="prenominal adjective">
       <Definition>gertatuko denik uste edo espero izan gabe</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269549-S1" ili="wikidata-eu-L269549-S1">
+    <Synset id="wikidata-eu-L269549-S1" ili="wikidata-eu-L269549-S1" partOfSpeech="prenominal adjective">
       <Definition>nolakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269561-S1" ili="wikidata-eu-L269561-S1">
+    <Synset id="wikidata-eu-L269561-S1" ili="wikidata-eu-L269561-S1" partOfSpeech="prenominal adjective">
       <Definition>zuzena, norabidez aldatzen ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L348679-S1" ili="wikidata-eu-L348679-S1">
+    <Synset id="wikidata-eu-L348679-S1" ili="wikidata-eu-L348679-S1" partOfSpeech="d">
       <Definition>bere eskuinean duen hitzaren gauzetako edo pertsonetako bat aditzera ematen duen lexema</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707729-S1" ili="wikidata-eu-L707729-S1">
+    <Synset id="wikidata-eu-L707729-S1" ili="wikidata-eu-L707729-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707735-S1" ili="wikidata-eu-L707735-S1">
+    <Synset id="wikidata-eu-L707735-S1" ili="wikidata-eu-L707735-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204215-S1" ili="wikidata-eu-L204215-S1">
+    <Synset id="wikidata-eu-L204215-S1" ili="wikidata-eu-L204215-S1" partOfSpeech="adversative linker">
       <Definition>berriz, ordea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204217-S1" ili="wikidata-eu-L204217-S1">
+    <Synset id="wikidata-eu-L204217-S1" ili="wikidata-eu-L204217-S1" partOfSpeech="i">
       <Definition>hitz indargarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204218-S1" ili="wikidata-eu-L204218-S1">
+    <Synset id="wikidata-eu-L204218-S1" ili="wikidata-eu-L204218-S1" partOfSpeech="postposition">
       <Definition>Aipatzen diren gauzek mugatzen duten leku edo denboran</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204218-S2" ili="wikidata-eu-L204218-S2">
+    <Synset id="wikidata-eu-L204218-S2" ili="wikidata-eu-L204218-S2" partOfSpeech="postposition">
       <Definition>Aipatzen direnen erdian, haiekin, haiek parte hartuz, haiekin batera</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204218-S3" ili="wikidata-eu-L204218-S3">
+    <Synset id="wikidata-eu-L204218-S3" ili="wikidata-eu-L204218-S3" partOfSpeech="postposition">
       <Definition>arte</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204220-S1" ili="wikidata-eu-L204220-S1">
+    <Synset id="wikidata-eu-L204220-S1" ili="wikidata-eu-L204220-S1" partOfSpeech="linker">
       <Definition>norbaiten baitan</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204220-S2" ili="wikidata-eu-L204220-S2">
+    <Synset id="wikidata-eu-L204220-S2" ili="wikidata-eu-L204220-S2" partOfSpeech="linker">
       <Definition>neure artean hori pentsatzen dut</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208715-S1" ili="wikidata-eu-L208715-S1">
+    <Synset id="wikidata-eu-L208715-S1" ili="wikidata-eu-L208715-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208725-S1" ili="wikidata-eu-L208725-S1">
+    <Synset id="wikidata-eu-L208725-S1" ili="wikidata-eu-L208725-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208740-S1" ili="wikidata-eu-L208740-S1">
+    <Synset id="wikidata-eu-L208740-S1" ili="wikidata-eu-L208740-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208745-S1" ili="wikidata-eu-L208745-S1">
+    <Synset id="wikidata-eu-L208745-S1" ili="wikidata-eu-L208745-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267818-S1" ili="wikidata-eu-L267818-S1">
+    <Synset id="wikidata-eu-L267818-S1" ili="wikidata-eu-L267818-S1" partOfSpeech="prenominal adjective">
       <Definition>hain handia, halako tamainakoa; handia, ona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267833-S1" ili="wikidata-eu-L267833-S1">
+    <Synset id="wikidata-eu-L267833-S1" ili="wikidata-eu-L267833-S1" partOfSpeech="prenominal adjective">
       <Definition>berezko edo unekoaren kontrako jarrera, ordena, noranzkoa eta abar duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267844-S1" ili="wikidata-eu-L267844-S1">
+    <Synset id="wikidata-eu-L267844-S1" ili="wikidata-eu-L267844-S1" partOfSpeech="prenominal adjective">
       <Definition>amorrua duena, haserre bizia duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267849-S1" ili="wikidata-eu-L267849-S1">
+    <Synset id="wikidata-eu-L267849-S1" ili="wikidata-eu-L267849-S1" partOfSpeech="prenominal adjective">
       <Definition>zentzuzkoa, bidezkoa, arrazoiaren araberakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267850-S1" ili="wikidata-eu-L267850-S1">
+    <Synset id="wikidata-eu-L267850-S1" ili="wikidata-eu-L267850-S1" partOfSpeech="prenominal adjective">
       <Definition>ezaugarriren bati buruz beste batzuen artean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267865-S1" ili="wikidata-eu-L267865-S1">
+    <Synset id="wikidata-eu-L267865-S1" ili="wikidata-eu-L267865-S1" partOfSpeech="prenominal adjective">
       <Definition>aipatzen den unetik ondorengo</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267867-S1" ili="wikidata-eu-L267867-S1">
+    <Synset id="wikidata-eu-L267867-S1" ili="wikidata-eu-L267867-S1" partOfSpeech="prenominal adjective">
       <Definition>urte honetakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267869-S1" ili="wikidata-eu-L267869-S1">
+    <Synset id="wikidata-eu-L267869-S1" ili="wikidata-eu-L267869-S1" partOfSpeech="prenominal adjective">
       <Definition>ausaren arabera gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267933-S1" ili="wikidata-eu-L267933-S1">
+    <Synset id="wikidata-eu-L267933-S1" ili="wikidata-eu-L267933-S1" partOfSpeech="prenominal adjective">
       <Definition>batez osatua; joko-kartetan, palo bakoitzeko lehena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268103-S1" ili="wikidata-eu-L268103-S1">
+    <Synset id="wikidata-eu-L268103-S1" ili="wikidata-eu-L268103-S1" partOfSpeech="prenominal adjective">
       <Definition>berdinik ez duena, berdingabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268118-S1" ili="wikidata-eu-L268118-S1">
+    <Synset id="wikidata-eu-L268118-S1" ili="wikidata-eu-L268118-S1" partOfSpeech="prenominal adjective">
       <Definition>maitatua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268124-S1" ili="wikidata-eu-L268124-S1">
+    <Synset id="wikidata-eu-L268124-S1" ili="wikidata-eu-L268124-S1" partOfSpeech="prenominal adjective">
       <Definition>edoskitzeko garaian dagoen haurra, esnea elikagai bakarra edo funtsezkoa duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268130-S1" ili="wikidata-eu-L268130-S1">
+    <Synset id="wikidata-eu-L268130-S1" ili="wikidata-eu-L268130-S1" partOfSpeech="prenominal adjective">
       <Definition>doan egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268136-S1" ili="wikidata-eu-L268136-S1">
+    <Synset id="wikidata-eu-L268136-S1" ili="wikidata-eu-L268136-S1" partOfSpeech="prenominal adjective">
       <Definition>egiazkoaren itxura duena, egiazkotzat har daitekeena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268137-S1" ili="wikidata-eu-L268137-S1">
+    <Synset id="wikidata-eu-L268137-S1" ili="wikidata-eu-L268137-S1" partOfSpeech="prenominal adjective">
       <Definition>egiarekin bat datorrena, egiaren araberakoa dena; faltsua edo itxura hutsekoa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268138-S1" ili="wikidata-eu-L268138-S1">
+    <Synset id="wikidata-eu-L268138-S1" ili="wikidata-eu-L268138-S1" partOfSpeech="prenominal adjective">
       <Definition>berebizikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268143-S1" ili="wikidata-eu-L268143-S1">
+    <Synset id="wikidata-eu-L268143-S1" ili="wikidata-eu-L268143-S1" partOfSpeech="prenominal adjective">
       <Definition>emakumearena, emakumeari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268145-S1" ili="wikidata-eu-L268145-S1">
+    <Synset id="wikidata-eu-L268145-S1" ili="wikidata-eu-L268145-S1" partOfSpeech="prenominal adjective">
       <Definition>nirea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268163-S1" ili="wikidata-eu-L268163-S1">
+    <Synset id="wikidata-eu-L268163-S1" ili="wikidata-eu-L268163-S1" partOfSpeech="prenominal adjective">
       <Definition>aurrenekoa, lehenengoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268187-S1" ili="wikidata-eu-L268187-S1">
+    <Synset id="wikidata-eu-L268187-S1" ili="wikidata-eu-L268187-S1" partOfSpeech="prenominal adjective">
       <Definition>gainean dagoena; gainetik dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268189-S1" ili="wikidata-eu-L268189-S1">
+    <Synset id="wikidata-eu-L268189-S1" ili="wikidata-eu-L268189-S1" partOfSpeech="prenominal adjective">
       <Definition>ganoragabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268197-S1" ili="wikidata-eu-L268197-S1">
+    <Synset id="wikidata-eu-L268197-S1" ili="wikidata-eu-L268197-S1" partOfSpeech="prenominal adjective">
       <Definition>behar, zilegi, egoki edo ohiko den baino gehiagokoa edo handiagoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268302-S1" ili="wikidata-eu-L268302-S1">
+    <Synset id="wikidata-eu-L268302-S1" ili="wikidata-eu-L268302-S1" partOfSpeech="prenominal adjective">
       <Definition>bere kidekoen artean kopuru edo neurri txikiena duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268779-S1" ili="wikidata-eu-L268779-S1">
+    <Synset id="wikidata-eu-L268779-S1" ili="wikidata-eu-L268779-S1" partOfSpeech="prenominal adjective">
       <Definition>horra-ri dagokion izenlaguna</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268779-S2" ili="wikidata-eu-L268779-S2">
+    <Synset id="wikidata-eu-L268779-S2" ili="wikidata-eu-L268779-S2" partOfSpeech="prenominal adjective">
       <Definition>horkoa, delakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268893-S1" ili="wikidata-eu-L268893-S1">
+    <Synset id="wikidata-eu-L268893-S1" ili="wikidata-eu-L268893-S1" partOfSpeech="prenominal adjective">
       <Definition>hurren datorrena, ondo-ondotik datorrena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268986-S1" ili="wikidata-eu-L268986-S1">
+    <Synset id="wikidata-eu-L268986-S1" ili="wikidata-eu-L268986-S1" partOfSpeech="prenominal adjective">
       <Definition>ezein, bat ere, inolakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269430-S1" ili="wikidata-eu-L269430-S1">
+    <Synset id="wikidata-eu-L269430-S1" ili="wikidata-eu-L269430-S1" partOfSpeech="prenominal adjective">
       <Definition>mugan dagoena; mugan bizi dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269431-S1" ili="wikidata-eu-L269431-S1">
+    <Synset id="wikidata-eu-L269431-S1" ili="wikidata-eu-L269431-S1" partOfSpeech="prenominal adjective">
       <Definition>(Hizkl.) izenez mintzatuz, singularrean erabilirik mota bereko gauza edo osagai-multzo bat hartzen duena edo adierazten duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269454-S1" ili="wikidata-eu-L269454-S1">
+    <Synset id="wikidata-eu-L269454-S1" ili="wikidata-eu-L269454-S1" partOfSpeech="prenominal adjective">
       <Definition>edozein motatakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269454-S2" ili="wikidata-eu-L269454-S2">
+    <Synset id="wikidata-eu-L269454-S2" ili="wikidata-eu-L269454-S2" partOfSpeech="prenominal adjective">
       <Definition>erdipurdikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269462-S1" ili="wikidata-eu-L269462-S1">
+    <Synset id="wikidata-eu-L269462-S1" ili="wikidata-eu-L269462-S1" partOfSpeech="prenominal adjective">
       <Definition>tokiren batekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269492-S1" ili="wikidata-eu-L269492-S1">
+    <Synset id="wikidata-eu-L269492-S1" ili="wikidata-eu-L269492-S1" partOfSpeech="prenominal adjective">
       <Definition>odolkidea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269512-S1" ili="wikidata-eu-L269512-S1">
+    <Synset id="wikidata-eu-L269512-S1" ili="wikidata-eu-L269512-S1" partOfSpeech="prenominal adjective">
       <Definition>ondokoa, ondotik datorren pertsona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269512-S2" ili="wikidata-eu-L269512-S2">
+    <Synset id="wikidata-eu-L269512-S2" ili="wikidata-eu-L269512-S2" partOfSpeech="prenominal adjective">
       <Definition>norbaitengandik sortutako izakien multzoa, leinua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269524-S1" ili="wikidata-eu-L269524-S1">
+    <Synset id="wikidata-eu-L269524-S1" ili="wikidata-eu-L269524-S1" partOfSpeech="prenominal adjective">
       <Definition>probetxugarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269525-S1" ili="wikidata-eu-L269525-S1">
+    <Synset id="wikidata-eu-L269525-S1" ili="wikidata-eu-L269525-S1" partOfSpeech="prenominal adjective">
       <Definition>zerbaitetan nabarmentzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269529-S1" ili="wikidata-eu-L269529-S1">
+    <Synset id="wikidata-eu-L269529-S1" ili="wikidata-eu-L269529-S1" partOfSpeech="prenominal adjective">
       <Definition>seiz osatua; joko-kartetan, sei puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269536-S1" ili="wikidata-eu-L269536-S1">
+    <Synset id="wikidata-eu-L269536-S1" ili="wikidata-eu-L269536-S1" partOfSpeech="prenominal adjective">
       <Definition>artekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269540-S1" ili="wikidata-eu-L269540-S1">
+    <Synset id="wikidata-eu-L269540-S1" ili="wikidata-eu-L269540-S1" partOfSpeech="prenominal adjective">
       <Definition>benetakoa edo serioa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269541-S1" ili="wikidata-eu-L269541-S1">
+    <Synset id="wikidata-eu-L269541-S1" ili="wikidata-eu-L269541-S1" partOfSpeech="prenominal adjective">
       <Definition>uraren, bereziki itsasokoaren, azpian dagoena nahiz bertan egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269546-S1" ili="wikidata-eu-L269546-S1">
+    <Synset id="wikidata-eu-L269546-S1" ili="wikidata-eu-L269546-S1" partOfSpeech="prenominal adjective">
       <Definition>zaintzen den gauza edo pertsona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269547-S1" ili="wikidata-eu-L269547-S1">
+    <Synset id="wikidata-eu-L269547-S1" ili="wikidata-eu-L269547-S1" partOfSpeech="prenominal adjective">
       <Definition>zazpiz osatua; joko-kartetan, zazpi puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269551-S1" ili="wikidata-eu-L269551-S1">
+    <Synset id="wikidata-eu-L269551-S1" ili="wikidata-eu-L269551-S1" partOfSpeech="prenominal adjective">
       <Definition>zentzua duena; arrazoizkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L300970-S1" ili="wikidata-eu-L300970-S1">
+    <Synset id="wikidata-eu-L300970-S1" ili="wikidata-eu-L300970-S1" partOfSpeech="quantifier">
       <Definition>bat baino gehiago</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707732-S1" ili="wikidata-eu-L707732-S1">
+    <Synset id="wikidata-eu-L707732-S1" ili="wikidata-eu-L707732-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-eu-L204214-S1" ili="wikidata-eu-L204214-S1">
+    <Synset id="wikidata-eu-L204214-S1" ili="wikidata-eu-L204214-S1" partOfSpeech="linker">
       <Definition>edo hitzaren forma indartua</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208720-S1" ili="wikidata-eu-L208720-S1">
+    <Synset id="wikidata-eu-L208720-S1" ili="wikidata-eu-L208720-S1" partOfSpeech="i">
       <Definition>ustekabea edo sorpresa adierazteko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208734-S1" ili="wikidata-eu-L208734-S1">
+    <Synset id="wikidata-eu-L208734-S1" ili="wikidata-eu-L208734-S1" partOfSpeech="postposition">
       <Definition>gabe</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208735-S1" ili="wikidata-eu-L208735-S1">
+    <Synset id="wikidata-eu-L208735-S1" ili="wikidata-eu-L208735-S1" partOfSpeech="i">
       <Definition>norbait  deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208737-S1" ili="wikidata-eu-L208737-S1">
+    <Synset id="wikidata-eu-L208737-S1" ili="wikidata-eu-L208737-S1" partOfSpeech="i">
       <Definition>norbaiti deitzeko edo arreta eskatzeko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208754-S1" ili="wikidata-eu-L208754-S1">
+    <Synset id="wikidata-eu-L208754-S1" ili="wikidata-eu-L208754-S1" partOfSpeech="i">
       <Definition>arrisku edo arazo batetaz ohartarazteko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L208767-S1" ili="wikidata-eu-L208767-S1">
+    <Synset id="wikidata-eu-L208767-S1" ili="wikidata-eu-L208767-S1" partOfSpeech="i">
       <Definition>norbaiten arreta deitzeko hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267817-S1" ili="wikidata-eu-L267817-S1">
+    <Synset id="wikidata-eu-L267817-S1" ili="wikidata-eu-L267817-S1" partOfSpeech="prenominal adjective">
       <Definition>neur daitekeen ezaugarri bat beste zerbait edo norbaiten mailakoa duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267820-S1" ili="wikidata-eu-L267820-S1">
+    <Synset id="wikidata-eu-L267820-S1" ili="wikidata-eu-L267820-S1" partOfSpeech="prenominal adjective">
       <Definition>adingabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267822-S1" ili="wikidata-eu-L267822-S1">
+    <Synset id="wikidata-eu-L267822-S1" ili="wikidata-eu-L267822-S1" partOfSpeech="prenominal adjective">
       <Definition>agintearen azpikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267830-S1" ili="wikidata-eu-L267830-S1">
+    <Synset id="wikidata-eu-L267830-S1" ili="wikidata-eu-L267830-S1" partOfSpeech="prenominal adjective">
       <Definition>ahaideez mintzatuz, aitaren aldekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267830-S2" ili="wikidata-eu-L267830-S2">
+    <Synset id="wikidata-eu-L267830-S2" ili="wikidata-eu-L267830-S2" partOfSpeech="prenominal adjective">
       <Definition>aitaren itxurakoa, antzekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267835-S1" ili="wikidata-eu-L267835-S1">
+    <Synset id="wikidata-eu-L267835-S1" ili="wikidata-eu-L267835-S1" partOfSpeech="prenominal adjective">
       <Definition>aldiune batean, denbora laburrean gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267836-S1" ili="wikidata-eu-L267836-S1">
+    <Synset id="wikidata-eu-L267836-S1" ili="wikidata-eu-L267836-S1" partOfSpeech="prenominal adjective">
       <Definition>aldizka gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267840-S1" ili="wikidata-eu-L267840-S1">
+    <Synset id="wikidata-eu-L267840-S1" ili="wikidata-eu-L267840-S1" partOfSpeech="prenominal adjective">
       <Definition>alokatua, alokairukoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267841-S1" ili="wikidata-eu-L267841-S1">
+    <Synset id="wikidata-eu-L267841-S1" ili="wikidata-eu-L267841-S1" partOfSpeech="prenominal adjective">
       <Definition>amairik ez duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267866-S1" ili="wikidata-eu-L267866-S1">
+    <Synset id="wikidata-eu-L267866-S1" ili="wikidata-eu-L267866-S1" partOfSpeech="prenominal adjective">
       <Definition>aurretiazkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267866-S2" ili="wikidata-eu-L267866-S2">
+    <Synset id="wikidata-eu-L267866-S2" ili="wikidata-eu-L267866-S2" partOfSpeech="prenominal adjective">
       <Definition>zerbaiten aurrealdetik egiten dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267871-S1" ili="wikidata-eu-L267871-S1">
+    <Synset id="wikidata-eu-L267871-S1" ili="wikidata-eu-L267871-S1" partOfSpeech="prenominal adjective">
       <Definition>sakona ez dena, azalean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267918-S1" ili="wikidata-eu-L267918-S1">
+    <Synset id="wikidata-eu-L267918-S1" ili="wikidata-eu-L267918-S1" partOfSpeech="prenominal adjective">
       <Definition>azpiratua dagoena, mendekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L267930-S1" ili="wikidata-eu-L267930-S1">
+    <Synset id="wikidata-eu-L267930-S1" ili="wikidata-eu-L267930-S1" partOfSpeech="prenominal adjective">
       <Definition>banakakoa, bakarkakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268061-S1" ili="wikidata-eu-L268061-S1">
+    <Synset id="wikidata-eu-L268061-S1" ili="wikidata-eu-L268061-S1" partOfSpeech="prenominal adjective">
       <Definition>ohiko zaion edo behar duen garaia baino geroagokoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268104-S1" ili="wikidata-eu-L268104-S1">
+    <Synset id="wikidata-eu-L268104-S1" ili="wikidata-eu-L268104-S1" partOfSpeech="prenominal adjective">
       <Definition>berebizikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268107-S1" ili="wikidata-eu-L268107-S1">
+    <Synset id="wikidata-eu-L268107-S1" ili="wikidata-eu-L268107-S1" partOfSpeech="prenominal adjective">
       <Definition>naturala, bere izate edo funtsari dagokiona, kanpoko eraginik gabekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268108-S1" ili="wikidata-eu-L268108-S1">
+    <Synset id="wikidata-eu-L268108-S1" ili="wikidata-eu-L268108-S1" partOfSpeech="prenominal adjective">
       <Definition>adierazi den lekukoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268109-S1" ili="wikidata-eu-L268109-S1">
+    <Synset id="wikidata-eu-L268109-S1" ili="wikidata-eu-L268109-S1" partOfSpeech="prenominal adjective">
       <Definition>adierazi den lekukoa, bertakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268117-S1" ili="wikidata-eu-L268117-S1">
+    <Synset id="wikidata-eu-L268117-S1" ili="wikidata-eu-L268117-S1" partOfSpeech="prenominal adjective">
       <Definition>zuzentasunaren araberakoa; legezkoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268119-S1" ili="wikidata-eu-L268119-S1">
+    <Synset id="wikidata-eu-L268119-S1" ili="wikidata-eu-L268119-S1" partOfSpeech="prenominal adjective">
       <Definition>bik osatutakoa, parea; joko-kartetan, bi puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268121-S1" ili="wikidata-eu-L268121-S1">
+    <Synset id="wikidata-eu-L268121-S1" ili="wikidata-eu-L268121-S1" partOfSpeech="prenominal adjective">
       <Definition>bizitzak irauten duen bitartean irauten duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268126-S1" ili="wikidata-eu-L268126-S1">
+    <Synset id="wikidata-eu-L268126-S1" ili="wikidata-eu-L268126-S1" partOfSpeech="prenominal adjective">
       <Definition>alferrekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268126-S2" ili="wikidata-eu-L268126-S2">
+    <Synset id="wikidata-eu-L268126-S2" ili="wikidata-eu-L268126-S2" partOfSpeech="prenominal adjective">
       <Definition>doakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268154-S1" ili="wikidata-eu-L268154-S1">
+    <Synset id="wikidata-eu-L268154-S1" ili="wikidata-eu-L268154-S1" partOfSpeech="prenominal adjective">
       <Definition>biren artekoa; bereziki, bi aukera izaki, ez bata ez bestea, bien artekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268173-S1" ili="wikidata-eu-L268173-S1">
+    <Synset id="wikidata-eu-L268173-S1" ili="wikidata-eu-L268173-S1" partOfSpeech="prenominal adjective">
       <Definition>ezinbestekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268185-S1" ili="wikidata-eu-L268185-S1">
+    <Synset id="wikidata-eu-L268185-S1" ili="wikidata-eu-L268185-S1" partOfSpeech="prenominal adjective">
       <Definition>familiakoa; familiartean gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268435-S1" ili="wikidata-eu-L268435-S1">
+    <Synset id="wikidata-eu-L268435-S1" ili="wikidata-eu-L268435-S1" partOfSpeech="prenominal adjective">
       <Definition>hamarrez osatua; hamar gauzaren multzoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268633-S1" ili="wikidata-eu-L268633-S1">
+    <Synset id="wikidata-eu-L268633-S1" ili="wikidata-eu-L268633-S1" partOfSpeech="prenominal adjective">
       <Definition>hiru hileko denbora-bitarteari dagokiona</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268665-S1" ili="wikidata-eu-L268665-S1">
+    <Synset id="wikidata-eu-L268665-S1" ili="wikidata-eu-L268665-S1" partOfSpeech="prenominal adjective">
       <Definition>hitzari eusten diona, hitza betetzen duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268827-S1" ili="wikidata-eu-L268827-S1">
+    <Synset id="wikidata-eu-L268827-S1" ili="wikidata-eu-L268827-S1" partOfSpeech="prenominal adjective">
       <Definition>handitasunez egiten edo ospatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L268908-S1" ili="wikidata-eu-L268908-S1">
+    <Synset id="wikidata-eu-L268908-S1" ili="wikidata-eu-L268908-S1" partOfSpeech="prenominal adjective">
       <Definition>ikaragarria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269039-S1" ili="wikidata-eu-L269039-S1">
+    <Synset id="wikidata-eu-L269039-S1" ili="wikidata-eu-L269039-S1" partOfSpeech="prenominal adjective">
       <Definition>itxura hutsa dena, benetakoa ez dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269039-S2" ili="wikidata-eu-L269039-S2">
+    <Synset id="wikidata-eu-L269039-S2" ili="wikidata-eu-L269039-S2" partOfSpeech="prenominal adjective">
       <Definition>itxura onekoa, itxura egokikoa; ganorazkoa edo behar bezalakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269039-S3" ili="wikidata-eu-L269039-S3">
+    <Synset id="wikidata-eu-L269039-S3" ili="wikidata-eu-L269039-S3" partOfSpeech="prenominal adjective">
       <Definition>egiantzekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269050-S1" ili="wikidata-eu-L269050-S1">
+    <Synset id="wikidata-eu-L269050-S1" ili="wikidata-eu-L269050-S1" partOfSpeech="prenominal adjective">
       <Definition>berebizikoa, neurriz kanpokoa; harridura edo izua sorrarazten duena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269070-S1" ili="wikidata-eu-L269070-S1">
+    <Synset id="wikidata-eu-L269070-S1" ili="wikidata-eu-L269070-S1" partOfSpeech="prenominal adjective">
       <Definition>indarrean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269128-S1" ili="wikidata-eu-L269128-S1">
+    <Synset id="wikidata-eu-L269128-S1" ili="wikidata-eu-L269128-S1" partOfSpeech="prenominal adjective">
       <Definition>haur jaio berriez mintzatuz, etxe edo beste lekuren batean abandonatutakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269259-S1" ili="wikidata-eu-L269259-S1">
+    <Synset id="wikidata-eu-L269259-S1" ili="wikidata-eu-L269259-S1" partOfSpeech="prenominal adjective">
       <Definition>lauz osatua; joko-kartetan, lau puntu balio dituena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269338-S1" ili="wikidata-eu-L269338-S1">
+    <Synset id="wikidata-eu-L269338-S1" ili="wikidata-eu-L269338-S1" partOfSpeech="prenominal adjective">
       <Definition>denbora luzeko</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269419-S1" ili="wikidata-eu-L269419-S1">
+    <Synset id="wikidata-eu-L269419-S1" ili="wikidata-eu-L269419-S1" partOfSpeech="prenominal adjective">
       <Definition>metalikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269493-S1" ili="wikidata-eu-L269493-S1">
+    <Synset id="wikidata-eu-L269493-S1" ili="wikidata-eu-L269493-S1" partOfSpeech="prenominal adjective">
       <Definition>oharkabean gertatua edo egina</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269506-S1" ili="wikidata-eu-L269506-S1">
+    <Synset id="wikidata-eu-L269506-S1" ili="wikidata-eu-L269506-S1" partOfSpeech="prenominal adjective">
       <Definition>oinaren azpikoa; mendekoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269515-S1" ili="wikidata-eu-L269515-S1">
+    <Synset id="wikidata-eu-L269515-S1" ili="wikidata-eu-L269515-S1" partOfSpeech="prenominal adjective">
       <Definition>ordez jartzen dena edo diharduena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269515-S2" ili="wikidata-eu-L269515-S2">
+    <Synset id="wikidata-eu-L269515-S2" ili="wikidata-eu-L269515-S2" partOfSpeech="prenominal adjective">
       <Definition>(Kir.) jokalari-aldaketak posible diren kiroletan, horrela egokituz gero, zelaian ari den baten ordez jokoan aritzeko izendatuta dagoen jokalaria</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269515-S3" ili="wikidata-eu-L269515-S3">
+    <Synset id="wikidata-eu-L269515-S3" ili="wikidata-eu-L269515-S3" partOfSpeech="prenominal adjective">
       <Definition>(Zin.) zenbait eszenatan protagonista ordezkatzen duen aktorea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269515-S4" ili="wikidata-eu-L269515-S4">
+    <Synset id="wikidata-eu-L269515-S4" ili="wikidata-eu-L269515-S4" partOfSpeech="prenominal adjective">
       <Definition>substantzia bat falta denean, oso garestia denean edo komeni ez denean, horren ordez jartzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269517-S1" ili="wikidata-eu-L269517-S1">
+    <Synset id="wikidata-eu-L269517-S1" ili="wikidata-eu-L269517-S1" partOfSpeech="prenominal adjective">
       <Definition>orokorra, orotarakoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269520-S1" ili="wikidata-eu-L269520-S1">
+    <Synset id="wikidata-eu-L269520-S1" ili="wikidata-eu-L269520-S1" partOfSpeech="prenominal adjective">
       <Definition>paregabea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269526-S1" ili="wikidata-eu-L269526-S1">
+    <Synset id="wikidata-eu-L269526-S1" ili="wikidata-eu-L269526-S1" partOfSpeech="prenominal adjective">
       <Definition>sasikumea</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269527-S1" ili="wikidata-eu-L269527-S1">
+    <Synset id="wikidata-eu-L269527-S1" ili="wikidata-eu-L269527-S1" partOfSpeech="prenominal adjective">
       <Definition>pertsonez mintzatuz, sasoi onean dagoena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269527-S2" ili="wikidata-eu-L269527-S2">
+    <Synset id="wikidata-eu-L269527-S2" ili="wikidata-eu-L269527-S2" partOfSpeech="prenominal adjective">
       <Definition>bereziki, landareez mintzatuz, garaikoa</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L269558-S1" ili="wikidata-eu-L269558-S1">
+    <Synset id="wikidata-eu-L269558-S1" ili="wikidata-eu-L269558-S1" partOfSpeech="prenominal adjective">
       <Definition>zoritxarra duena edo dakarrena; zoritxarrez gertatzen dena</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L300967-S1" ili="wikidata-eu-L300967-S1">
+    <Synset id="wikidata-eu-L300967-S1" ili="wikidata-eu-L300967-S1" partOfSpeech="i">
       <Definition>zerbait gerta dadila nahi dela esateko erabiltzen den hitza</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L348681-S1" ili="wikidata-eu-L348681-S1">
+    <Synset id="wikidata-eu-L348681-S1" ili="wikidata-eu-L348681-S1" partOfSpeech="h">
       <Definition>nornahi</Definition>
     </Synset>
-    <Synset id="wikidata-eu-L707736-S1" ili="wikidata-eu-L707736-S1">
+    <Synset id="wikidata-eu-L707736-S1" ili="wikidata-eu-L707736-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

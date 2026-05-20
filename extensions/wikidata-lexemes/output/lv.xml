@@ -9,19 +9,19 @@
                     version="1.0">
     <Extends id="omw-lv" version="1.4"/>
     <LexicalEntry id="L465212">
-      <Lemma writtenForm="un" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="un" partOfSpeech="c"/>
       <Sense id="L465212-S1" synset="wikidata-lv-L465212-S1" ili="l1385-s1">
         <Definition>sasaista vārdus un teikuma daļas</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L684431">
-      <Lemma writtenForm="viens" partOfSpeech="numeral"/>
+      <Lemma writtenForm="viens" partOfSpeech="m"/>
       <Sense id="L684431-S1" synset="wikidata-lv-L684431-S1" ili="wikidata-lv-L684431-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1138157">
-      <Lemma writtenForm="ā" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ā" partOfSpeech="i"/>
       <Sense id="L1138157-S1" synset="wikidata-lv-L1138157-S1" ili="wikidata-lv-L1138157-S1">
         <Definition></Definition>
       </Sense>
@@ -30,51 +30,51 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L941799">
-      <Lemma writtenForm="es" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="es" partOfSpeech="h"/>
       <Sense id="L941799-S1" synset="wikidata-lv-L941799-S1" ili="wikidata-lv-L941799-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1138159">
-      <Lemma writtenForm="abi" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="abi" partOfSpeech="h"/>
       <Sense id="L1138159-S1" synset="wikidata-lv-L1138159-S1" ili="wikidata-lv-L1138159-S1">
         <Definition>viens un otrs</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1138161">
-      <Lemma writtenForm="abas" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="abas" partOfSpeech="h"/>
       <Sense id="L1138161-S1" synset="wikidata-lv-L1138161-S1" ili="wikidata-lv-L1138161-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L465213">
-      <Lemma writtenForm="bet" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="bet" partOfSpeech="c"/>
       <Sense id="L465213-S1" synset="wikidata-lv-L465213-S1" ili="wikidata-lv-L465213-S1">
         <Definition>saista vienlīdzīgus teikuma locekļus, norādot uz nozīmju pretstatu</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-lv-L465212-S1" ili="l1385-s1">
+    <Synset id="wikidata-lv-L465212-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>sasaista vārdus un teikuma daļas</Definition>
     </Synset>
-    <Synset id="wikidata-lv-L684431-S1" ili="wikidata-lv-L684431-S1">
+    <Synset id="wikidata-lv-L684431-S1" ili="wikidata-lv-L684431-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-lv-L1138157-S1" ili="wikidata-lv-L1138157-S1">
+    <Synset id="wikidata-lv-L1138157-S1" ili="wikidata-lv-L1138157-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-lv-L1138157-S2" ili="wikidata-lv-L1138157-S2">
+    <Synset id="wikidata-lv-L1138157-S2" ili="wikidata-lv-L1138157-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-lv-L941799-S1" ili="wikidata-lv-L941799-S1">
+    <Synset id="wikidata-lv-L941799-S1" ili="wikidata-lv-L941799-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-lv-L1138159-S1" ili="wikidata-lv-L1138159-S1">
+    <Synset id="wikidata-lv-L1138159-S1" ili="wikidata-lv-L1138159-S1" partOfSpeech="h">
       <Definition>viens un otrs</Definition>
     </Synset>
-    <Synset id="wikidata-lv-L1138161-S1" ili="wikidata-lv-L1138161-S1">
+    <Synset id="wikidata-lv-L1138161-S1" ili="wikidata-lv-L1138161-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-lv-L465213-S1" ili="wikidata-lv-L465213-S1">
+    <Synset id="wikidata-lv-L465213-S1" ili="wikidata-lv-L465213-S1" partOfSpeech="c">
       <Definition>saista vienlīdzīgus teikuma locekļus, norādot uz nozīmju pretstatu</Definition>
     </Synset>
   </LexiconExtension>

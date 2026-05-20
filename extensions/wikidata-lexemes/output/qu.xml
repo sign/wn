@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-qu" version="1.4"/>
     <LexicalEntry id="L663078">
-      <Lemma writtenForm="tawa" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tawa" partOfSpeech="m"/>
       <Sense id="L663078-S1" synset="wikidata-qu-L663078-S1" ili="wikidata-qu-L663078-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L497917">
-      <Lemma writtenForm="añañáw" partOfSpeech="interjection"/>
+      <Lemma writtenForm="añañáw" partOfSpeech="i"/>
       <Sense id="L497917-S1" synset="wikidata-qu-L497917-S1" ili="wikidata-qu-L497917-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-qu-L663078-S1" ili="wikidata-qu-L663078-S1">
+    <Synset id="wikidata-qu-L663078-S1" ili="wikidata-qu-L663078-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-qu-L497917-S1" ili="wikidata-qu-L497917-S1">
+    <Synset id="wikidata-qu-L497917-S1" ili="wikidata-qu-L497917-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

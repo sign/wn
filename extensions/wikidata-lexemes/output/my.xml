@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-my" version="1.4"/>
     <LexicalEntry id="L709032">
-      <Lemma writtenForm="တစ်" partOfSpeech="numeral"/>
+      <Lemma writtenForm="တစ်" partOfSpeech="m"/>
       <Sense id="L709032-S1" synset="wikidata-my-L709032-S1" ili="wikidata-my-L709032-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-my-L709032-S1" ili="wikidata-my-L709032-S1">
+    <Synset id="wikidata-my-L709032-S1" ili="wikidata-my-L709032-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-mk" version="1.4"/>
     <LexicalEntry id="L713746">
-      <Lemma writtenForm="а" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="а" partOfSpeech="y"/>
       <Sense id="L713746-S1" synset="wikidata-mk-L713746-S1" ili="wikidata-mk-L713746-S1">
         <Definition>На почетокот на реченица, за воведување нова мисла што директно не се надоврзува на претходно кажаното</Definition>
       </Sense>
@@ -18,7 +18,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L713747">
-      <Lemma writtenForm="а" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="а" partOfSpeech="c"/>
       <Sense id="L713747-S1" synset="wikidata-mk-L713747-S1" ili="wikidata-mk-L713747-S1">
         <Definition>За поврзување зборовни состави и реченици што се содржински сопоставени.</Definition>
       </Sense>
@@ -26,16 +26,16 @@
         <Definition>За поврзување зборовни состави или реченици што се надоврзуваат содржински.</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-mk-L713746-S1" ili="wikidata-mk-L713746-S1">
+    <Synset id="wikidata-mk-L713746-S1" ili="wikidata-mk-L713746-S1" partOfSpeech="y">
       <Definition>На почетокот на реченица, за воведување нова мисла што директно не се надоврзува на претходно кажаното</Definition>
     </Synset>
-    <Synset id="wikidata-mk-L713746-S2" ili="wikidata-mk-L713746-S2">
+    <Synset id="wikidata-mk-L713746-S2" ili="wikidata-mk-L713746-S2" partOfSpeech="y">
       <Definition>На почеток на реторичко прашање</Definition>
     </Synset>
-    <Synset id="wikidata-mk-L713747-S1" ili="wikidata-mk-L713747-S1">
+    <Synset id="wikidata-mk-L713747-S1" ili="wikidata-mk-L713747-S1" partOfSpeech="c">
       <Definition>За поврзување зборовни состави и реченици што се содржински сопоставени.</Definition>
     </Synset>
-    <Synset id="wikidata-mk-L713747-S2" ili="wikidata-mk-L713747-S2">
+    <Synset id="wikidata-mk-L713747-S2" ili="wikidata-mk-L713747-S2" partOfSpeech="c">
       <Definition>За поврзување зборовни состави или реченици што се надоврзуваат содржински.</Definition>
     </Synset>
   </LexiconExtension>

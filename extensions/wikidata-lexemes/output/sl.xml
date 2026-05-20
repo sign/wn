@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-sl" version="1.4"/>
     <LexicalEntry id="L1419033">
-      <Lemma writtenForm="po" partOfSpeech="preposition"/>
+      <Lemma writtenForm="po" partOfSpeech="p"/>
       <Sense id="L1419033-S1" synset="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1">
         <Definition></Definition>
       </Sense>
@@ -20,10 +20,10 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1">
+    <Synset id="wikidata-sl-L1419033-S1" ili="wikidata-sl-L1419033-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1">
+    <Synset id="wikidata-sl-L1419022-S1" ili="wikidata-sl-L1419022-S1" partOfSpeech="pronominal adjective">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

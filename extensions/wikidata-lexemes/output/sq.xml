@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-sq" version="1.4"/>
     <LexicalEntry id="L1408215">
-      <Lemma writtenForm="aferin" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aferin" partOfSpeech="i"/>
       <Sense id="L1408215-S1" synset="wikidata-sq-L1408215-S1" ili="wikidata-sq-L1408215-S1">
         <Definition>piróll! brávo! aferim!</Definition>
         <SenseRelation relType="similar" target="wikidata-sq-L1408214-S1"/>
@@ -22,7 +22,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591523">
-      <Lemma writtenForm="një" partOfSpeech="numeral"/>
+      <Lemma writtenForm="një" partOfSpeech="m"/>
       <Sense id="L591523-S1" synset="wikidata-sq-L591523-S1" ili="wikidata-sq-L591523-S1">
         <Definition>numri 1</Definition>
       </Sense>
@@ -46,7 +46,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411286">
-      <Lemma writtenForm="në" partOfSpeech="preposition"/>
+      <Lemma writtenForm="në" partOfSpeech="p"/>
       <Sense id="L1411286-S1" synset="wikidata-sq-L1411286-S1" ili="wikidata-sq-L1411286-S1">
         <Definition></Definition>
       </Sense>
@@ -58,20 +58,20 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591642">
-      <Lemma writtenForm="mos" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="mos" partOfSpeech="y"/>
       <Sense id="L591642-S1" synset="wikidata-sq-L591642-S1" ili="wikidata-sq-L591642-S1">
         <Definition>Përdoret zakonisht me folje të mënyrës urdhërore, lidhore e dëshirore, si dhe me trajta të pashtjelluara për t&apos;u dhënë fjalive kuptim mohues ose për t&apos;u dhënë fjalive mohuese nuancën e dëshirës, të urimit, të mallkimit, të qortimit, të këshillës, të kushtit, të ndalimit etj.</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408214">
-      <Lemma writtenForm="aferim" partOfSpeech="interjection"/>
+      <Lemma writtenForm="aferim" partOfSpeech="i"/>
       <Sense id="L1408214-S1" synset="wikidata-sq-L1408214-S1" ili="wikidata-sq-L1408214-S1">
         <Definition>piróll! brávo! aferin!</Definition>
         <SenseRelation relType="similar" target="wikidata-sq-L1408215-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1209682">
-      <Lemma writtenForm="dhe" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="dhe" partOfSpeech="c"/>
       <Sense id="L1209682-S1" synset="wikidata-sq-L1209682-S1" ili="wikidata-sq-L1209682-S1">
         <Definition></Definition>
       </Sense>
@@ -83,7 +83,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410344">
-      <Lemma writtenForm="hem" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="hem" partOfSpeech="c"/>
       <Sense id="L1410344-S1" synset="wikidata-sq-L1410344-S1" ili="wikidata-sq-L1410344-S1">
         <Definition></Definition>
       </Sense>
@@ -95,7 +95,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411918">
-      <Lemma writtenForm="ai" partOfSpeech="demonstrative determiner"/>
+      <Lemma writtenForm="ai" partOfSpeech="d"/>
       <Sense id="L1411918-S1" synset="wikidata-sq-L1411918-S1" ili="wikidata-sq-L1411918-S1">
         <Definition></Definition>
       </Sense>
@@ -107,63 +107,63 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411285">
-      <Lemma writtenForm="ne" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ne" partOfSpeech="h"/>
       <Sense id="L1411285-S1" synset="wikidata-sq-L1411285-S1" ili="wikidata-sq-L1411285-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-sq-L1408215-S1" ili="wikidata-sq-L1408215-S1">
+    <Synset id="wikidata-sq-L1408215-S1" ili="wikidata-sq-L1408215-S1" partOfSpeech="i">
       <Definition>piróll! brávo! aferim!</Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1408893-S1" ili="wikidata-sq-L1408893-S1">
+    <Synset id="wikidata-sq-L1408893-S1" ili="wikidata-sq-L1408893-S1" partOfSpeech="vocative particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L591523-S1" ili="wikidata-sq-L591523-S1">
+    <Synset id="wikidata-sq-L591523-S1" ili="wikidata-sq-L591523-S1" partOfSpeech="m">
       <Definition>numri 1</Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411287-S1" ili="wikidata-sq-L1411287-S1">
+    <Synset id="wikidata-sq-L1411287-S1" ili="wikidata-sq-L1411287-S1" partOfSpeech="subordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1458327-S1" ili="wikidata-sq-L1458327-S1">
+    <Synset id="wikidata-sq-L1458327-S1" ili="wikidata-sq-L1458327-S1" partOfSpeech="indefinite determiner">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1410342-S1" ili="wikidata-sq-L1410342-S1">
+    <Synset id="wikidata-sq-L1410342-S1" ili="wikidata-sq-L1410342-S1" partOfSpeech="emphatic particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411286-S1" ili="wikidata-sq-L1411286-S1">
+    <Synset id="wikidata-sq-L1411286-S1" ili="wikidata-sq-L1411286-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411286-S2" ili="wikidata-sq-L1411286-S2">
+    <Synset id="wikidata-sq-L1411286-S2" ili="wikidata-sq-L1411286-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411286-S3" ili="wikidata-sq-L1411286-S3">
+    <Synset id="wikidata-sq-L1411286-S3" ili="wikidata-sq-L1411286-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L591642-S1" ili="wikidata-sq-L591642-S1">
+    <Synset id="wikidata-sq-L591642-S1" ili="wikidata-sq-L591642-S1" partOfSpeech="y">
       <Definition>Përdoret zakonisht me folje të mënyrës urdhërore, lidhore e dëshirore, si dhe me trajta të pashtjelluara për t&apos;u dhënë fjalive kuptim mohues ose për t&apos;u dhënë fjalive mohuese nuancën e dëshirës, të urimit, të mallkimit, të qortimit, të këshillës, të kushtit, të ndalimit etj.</Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1408214-S1" ili="wikidata-sq-L1408214-S1">
+    <Synset id="wikidata-sq-L1408214-S1" ili="wikidata-sq-L1408214-S1" partOfSpeech="i">
       <Definition>piróll! brávo! aferin!</Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1209682-S1" ili="wikidata-sq-L1209682-S1">
+    <Synset id="wikidata-sq-L1209682-S1" ili="wikidata-sq-L1209682-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1408314-S1" ili="wikidata-sq-L1408314-S1">
+    <Synset id="wikidata-sq-L1408314-S1" ili="wikidata-sq-L1408314-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1410344-S1" ili="wikidata-sq-L1410344-S1">
+    <Synset id="wikidata-sq-L1410344-S1" ili="wikidata-sq-L1410344-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411496-S1" ili="wikidata-sq-L1411496-S1">
+    <Synset id="wikidata-sq-L1411496-S1" ili="wikidata-sq-L1411496-S1" partOfSpeech="article">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411918-S1" ili="wikidata-sq-L1411918-S1">
+    <Synset id="wikidata-sq-L1411918-S1" ili="wikidata-sq-L1411918-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1209680-S1" ili="wikidata-sq-L1209680-S1">
+    <Synset id="wikidata-sq-L1209680-S1" ili="wikidata-sq-L1209680-S1" partOfSpeech="coordinating conjunction">
       <Definition>lidhë së paku dy alternativa (inkluzive)</Definition>
     </Synset>
-    <Synset id="wikidata-sq-L1411285-S1" ili="wikidata-sq-L1411285-S1">
+    <Synset id="wikidata-sq-L1411285-S1" ili="wikidata-sq-L1411285-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

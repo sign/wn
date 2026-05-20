@@ -276,6 +276,14 @@ ADP = ADPOSITION = "p"  #:
 OTHER = "x"  #:
 UNKNOWN = "u"  #:
 
+# Extended parts of speech (function words not covered by classic WordNet)
+PRON = PRONOUN = "h"  #:
+DET = DETERMINER = "d"  #:
+NUM = NUMERAL = "m"  #:
+INTJ = INTERJECTION = "i"  #:
+INTRG = INTERROGATIVE = "q"  #:
+PART = PARTICLE = "y"  #:
+
 PARTS_OF_SPEECH = frozenset(
     (
         NOUN,
@@ -288,6 +296,12 @@ PARTS_OF_SPEECH = frozenset(
         ADPOSITION,
         OTHER,
         UNKNOWN,
+        PRONOUN,
+        DETERMINER,
+        NUMERAL,
+        INTERJECTION,
+        INTERROGATIVE,
+        PARTICLE,
     )
 )
 

@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-is" version="1.4"/>
     <LexicalEntry id="L407027">
-      <Lemma writtenForm="já" partOfSpeech="interjection"/>
+      <Lemma writtenForm="já" partOfSpeech="i"/>
       <Sense id="L407027-S1" synset="wikidata-is-L407027-S1" ili="wikidata-is-L407027-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L941785">
-      <Lemma writtenForm="ég" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ég" partOfSpeech="h"/>
       <Sense id="L941785-S1" synset="wikidata-is-L941785-S1" ili="wikidata-is-L941785-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-is-L407027-S1" ili="wikidata-is-L407027-S1">
+    <Synset id="wikidata-is-L407027-S1" ili="wikidata-is-L407027-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-is-L941785-S1" ili="wikidata-is-L941785-S1">
+    <Synset id="wikidata-is-L941785-S1" ili="wikidata-is-L941785-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

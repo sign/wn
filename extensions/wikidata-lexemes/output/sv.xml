@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-sv" version="1.4"/>
     <LexicalEntry id="L35724">
-      <Lemma writtenForm="att" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="att" partOfSpeech="c"/>
       <Sense id="L35724-S1" synset="wikidata-sv-L35724-S1" ili="wikidata-sv-L35724-S1">
         <Definition>inleder en bisats och binder den till huvudsatsen</Definition>
         <Example>Det är helt otänkbart att hon skulle avgå.</Example>
@@ -17,94 +17,94 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35765">
-      <Lemma writtenForm="enligt" partOfSpeech="preposition"/>
+      <Lemma writtenForm="enligt" partOfSpeech="p"/>
       <Sense id="L35765-S1" synset="wikidata-sv-L35765-S1" ili="wikidata-sv-L35765-S1">
         <Definition>i överensstämmelse med någon eller något</Definition>
         <Example>Bara var femte anmälan om våld i nära relationer klaras upp i Stockholms län, enligt en ny rapport.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L44971">
-      <Lemma writtenForm="ett" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ett" partOfSpeech="m"/>
       <Sense id="L44971-S1" synset="wikidata-sv-L44971-S1" ili="wikidata-sv-L44971-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45477">
-      <Lemma writtenForm="utan" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="utan" partOfSpeech="c"/>
       <Sense id="L45477-S1" synset="wikidata-sv-L45477-S1" ili="wikidata-sv-L45477-S1">
         <Definition>uttrycker motsats i en sats</Definition>
         <Example>Det var inte jag, utan hon som gjorde det.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46738">
-      <Lemma writtenForm="mellan" partOfSpeech="preposition"/>
+      <Lemma writtenForm="mellan" partOfSpeech="p"/>
       <Sense id="L46738-S1" synset="wikidata-sv-L46738-S1" ili="l3412-s1">
         <Definition>lägesbeskrivning i förhållande till två andra objekt, på vardera sida om subjektet</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46773">
-      <Lemma writtenForm="en" partOfSpeech="numeral"/>
+      <Lemma writtenForm="en" partOfSpeech="m"/>
       <Sense id="L46773-S1" synset="wikidata-sv-L46773-S1" ili="wikidata-sv-L46773-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46788">
-      <Lemma writtenForm="när" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="när" partOfSpeech="c"/>
       <Sense id="L46788-S1" synset="wikidata-sv-L46788-S1" ili="wikidata-sv-L46788-S1">
         <Definition>vid viss tid</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46905">
-      <Lemma writtenForm="sjunde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjunde" partOfSpeech="m"/>
       <Sense id="L46905-S1" synset="wikidata-sv-L46905-S1" ili="wikidata-sv-L46905-S1">
         <Definition>som har nummer sju (7) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46910">
-      <Lemma writtenForm="bakom" partOfSpeech="preposition"/>
+      <Lemma writtenForm="bakom" partOfSpeech="p"/>
       <Sense id="L46910-S1" synset="wikidata-sv-L46910-S1" ili="wikidata-sv-L46910-S1">
         <Definition>på baksidan av</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46981">
-      <Lemma writtenForm="femton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="femton" partOfSpeech="m"/>
       <Sense id="L46981-S1" synset="wikidata-sv-L46981-S1" ili="wikidata-sv-L46981-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47263">
-      <Lemma writtenForm="efter" partOfSpeech="preposition"/>
+      <Lemma writtenForm="efter" partOfSpeech="p"/>
       <Sense id="L47263-S1" synset="wikidata-sv-L47263-S1" ili="wikidata-sv-L47263-S1">
         <Definition>refererar till något som är i anslutning till något föregående</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47779">
-      <Lemma writtenForm="sjuttonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjuttonde" partOfSpeech="m"/>
       <Sense id="L47779-S1" synset="wikidata-sv-L47779-S1" ili="wikidata-sv-L47779-S1">
         <Definition>som har nummer sjutton (17) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47909">
-      <Lemma writtenForm="eller" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="eller" partOfSpeech="c"/>
       <Sense id="L47909-S1" synset="wikidata-sv-L47909-S1" ili="wikidata-sv-L47909-S1">
         <Definition>uttrycker ett alternativ, val eller en möjlighet mellan flera saker</Definition>
         <Example>Därför bör man alltid hava 4 eller 5 hektar äng mot 1 hektar åker, och där det finnes mera sandjord än lerjord, lönar sig ängen bättre än åkern.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L48139">
-      <Lemma writtenForm="hundra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="hundra" partOfSpeech="m"/>
       <Sense id="L48139-S1" synset="wikidata-sv-L48139-S1" ili="wikidata-sv-L48139-S1">
         <Definition>nummer mellan 99 och 101</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50383">
-      <Lemma writtenForm="femhundra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="femhundra" partOfSpeech="m"/>
       <Sense id="L50383-S1" synset="wikidata-sv-L50383-S1" ili="wikidata-sv-L50383-S1">
         <Definition>siffran 500</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L238167">
-      <Lemma writtenForm="inåt" partOfSpeech="preposition"/>
+      <Lemma writtenForm="inåt" partOfSpeech="p"/>
       <Sense id="L238167-S1" synset="wikidata-sv-L238167-S1" ili="wikidata-sv-L238167-S1">
         <Definition>riktning mot referenspunkten</Definition>
       </Sense>
@@ -117,25 +117,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L405859">
-      <Lemma writtenForm="noll" partOfSpeech="numeral"/>
+      <Lemma writtenForm="noll" partOfSpeech="m"/>
       <Sense id="L405859-S1" synset="wikidata-sv-L405859-S1" ili="wikidata-sv-L405859-S1">
         <Definition>talet noll</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L481805">
-      <Lemma writtenForm="förbi" partOfSpeech="preposition"/>
+      <Lemma writtenForm="förbi" partOfSpeech="p"/>
       <Sense id="L481805-S1" synset="wikidata-sv-L481805-S1" ili="wikidata-sv-L481805-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579547">
-      <Lemma writtenForm="välkommen" partOfSpeech="interjection"/>
+      <Lemma writtenForm="välkommen" partOfSpeech="i"/>
       <Sense id="L579547-S1" synset="wikidata-sv-L579547-S1" ili="wikidata-sv-L579547-S1">
         <Definition>hälsning</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579584">
-      <Lemma writtenForm="trettiofyra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trettiofyra" partOfSpeech="m"/>
       <Sense id="L579584-S1" synset="wikidata-sv-L579584-S1" ili="wikidata-sv-L579584-S1">
         <Definition>siffran 34</Definition>
       </Sense>
@@ -147,7 +147,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1010878">
-      <Lemma writtenForm="se upp" partOfSpeech="interjection"/>
+      <Lemma writtenForm="se upp" partOfSpeech="i"/>
       <Sense id="L1010878-S1" synset="wikidata-sv-L1010878-S1" ili="wikidata-sv-L1010878-S1">
         <Definition>påkalla uppmärksamhet</Definition>
       </Sense>
@@ -165,51 +165,51 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1211655">
-      <Lemma writtenForm="abusch" partOfSpeech="interjection"/>
+      <Lemma writtenForm="abusch" partOfSpeech="i"/>
       <Sense id="L1211655-S1" synset="wikidata-sv-L1211655-S1" ili="wikidata-sv-L1211655-S1">
         <Definition>utrop varmed man markerar företrädesrätt till plats i lek</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1227086">
-      <Lemma writtenForm="peppar, peppar" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="peppar, peppar" partOfSpeech="r"/>
       <Sense id="L1227086-S1" synset="wikidata-sv-L1227086-S1" ili="wikidata-sv-L1227086-S1">
         <Definition>när man hoppas nånting inte ska hända</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1229829">
-      <Lemma writtenForm="bägge två" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="bägge två" partOfSpeech="r"/>
       <Sense id="L1229829-S1" synset="wikidata-sv-L1229829-S1" ili="wikidata-sv-L1229829-S1">
         <Definition>båda</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1508355">
-      <Lemma writtenForm="blä" partOfSpeech="interjection"/>
+      <Lemma writtenForm="blä" partOfSpeech="i"/>
       <Sense id="L1508355-S1" synset="wikidata-sv-L1508355-S1" ili="wikidata-sv-L1508355-S1">
         <Definition>uttryck för avsmak</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46730">
-      <Lemma writtenForm="framför" partOfSpeech="preposition"/>
+      <Lemma writtenForm="framför" partOfSpeech="p"/>
       <Sense id="L46730-S1" synset="wikidata-sv-L46730-S1" ili="wikidata-sv-L46730-S1">
         <Definition>på en plats belägen närmast något i riktning framåt</Definition>
         <Example>Hennes bil stod fortfarande parkerad framför kommunhuset.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46790">
-      <Lemma writtenForm="samt" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="samt" partOfSpeech="c"/>
       <Sense id="L46790-S1" synset="wikidata-sv-L46790-S1" ili="wikidata-sv-L46790-S1">
         <Definition>och också</Definition>
         <Example>Denna sistnämnda kyrka har ett aflångfyrkantigt skepp, ett fyrkantigt och mindre kor samt ett fyrkantigt torn i vester.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46792">
-      <Lemma writtenForm="först" partOfSpeech="numeral"/>
+      <Lemma writtenForm="först" partOfSpeech="m"/>
       <Sense id="L46792-S1" synset="wikidata-sv-L46792-S1" ili="wikidata-sv-L46792-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46901">
-      <Lemma writtenForm="med" partOfSpeech="preposition"/>
+      <Lemma writtenForm="med" partOfSpeech="p"/>
       <Sense id="L46901-S2" synset="wikidata-sv-L46901-S2" ili="wikidata-sv-L46901-S2">
         <Definition></Definition>
       </Sense>
@@ -224,38 +224,38 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46907">
-      <Lemma writtenForm="femte" partOfSpeech="numeral"/>
+      <Lemma writtenForm="femte" partOfSpeech="m"/>
       <Sense id="L46907-S1" synset="wikidata-sv-L46907-S1" ili="wikidata-sv-L46907-S1">
         <Definition>ordinaltal</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46989">
-      <Lemma writtenForm="fjorton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fjorton" partOfSpeech="m"/>
       <Sense id="L46989-S1" synset="wikidata-sv-L46989-S1" ili="wikidata-sv-L46989-S1">
         <Definition>siffran 14</Definition>
         <Example>Sverige har i dag fjorton världsarv.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46990">
-      <Lemma writtenForm="sju" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sju" partOfSpeech="m"/>
       <Sense id="L46990-S1" synset="wikidata-sv-L46990-S1" ili="wikidata-sv-L46990-S1">
         <Definition>siffran 7</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47067">
-      <Lemma writtenForm="den" partOfSpeech="definite article"/>
+      <Lemma writtenForm="den" partOfSpeech="d"/>
       <Sense id="L47067-S1" synset="wikidata-sv-L47067-S1" ili="wikidata-sv-L47067-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L51148">
-      <Lemma writtenForm="ingenting" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="ingenting" partOfSpeech="h"/>
       <Sense id="L51148-S1" synset="wikidata-sv-L51148-S1" ili="wikidata-sv-L51148-S1">
         <Definition>koncept</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L230666">
-      <Lemma writtenForm="i fjol" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="i fjol" partOfSpeech="r"/>
       <Sense id="L230666-S1" synset="wikidata-sv-L230666-S1" ili="wikidata-sv-L230666-S1">
         <Definition></Definition>
       </Sense>
@@ -267,7 +267,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348626">
-      <Lemma writtenForm="kanon" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kanon" partOfSpeech="i"/>
       <Sense id="L348626-S1" synset="wikidata-sv-L348626-S1" ili="wikidata-sv-L348626-S1">
         <Definition>kontinuitetskoncept mellan olika fiktiva verk</Definition>
       </Sense>
@@ -279,19 +279,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L482681">
-      <Lemma writtenForm="ajöss" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ajöss" partOfSpeech="i"/>
       <Sense id="L482681-S1" synset="wikidata-sv-L482681-S1" ili="wikidata-sv-L482681-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L497768">
-      <Lemma writtenForm="tionde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tionde" partOfSpeech="m"/>
       <Sense id="L497768-S1" synset="wikidata-sv-L497768-S1" ili="wikidata-sv-L497768-S1">
         <Definition>som kommer på plats tio i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L498524">
-      <Lemma writtenForm="nej" partOfSpeech="interjection"/>
+      <Lemma writtenForm="nej" partOfSpeech="i"/>
       <Sense id="L498524-S1" synset="wikidata-sv-L498524-S1" ili="wikidata-sv-L498524-S1">
         <Definition>ord som används för att visa nekande</Definition>
       </Sense>
@@ -303,7 +303,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L587284">
-      <Lemma writtenForm="elfte" partOfSpeech="numeral"/>
+      <Lemma writtenForm="elfte" partOfSpeech="m"/>
       <Sense id="L587284-S1" synset="wikidata-sv-L587284-S1" ili="wikidata-sv-L587284-S1">
         <Definition>som har nummer 11 i ordningen</Definition>
       </Sense>
@@ -318,7 +318,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1157371">
-      <Lemma writtenForm="hujedamej" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hujedamej" partOfSpeech="i"/>
       <Sense id="L1157371-S1" synset="wikidata-sv-L1157371-S1" ili="wikidata-sv-L1157371-S1">
         <Definition>glatt utrop</Definition>
       </Sense>
@@ -330,13 +330,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460738">
-      <Lemma writtenForm="i" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="i" partOfSpeech="h"/>
       <Sense id="L1460738-S2" synset="wikidata-sv-L1460738-S2" ili="wikidata-sv-L1460738-S2">
         <Definition>hören i icke</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35645">
-      <Lemma writtenForm="han" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="han" partOfSpeech="h"/>
       <Sense id="L35645-S1" synset="wikidata-sv-L35645-S1" ili="wikidata-sv-L35645-S1">
         <Definition>pronomen för personer av manskön</Definition>
         <Example>Det var hans ord.</Example>
@@ -345,109 +345,109 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35667">
-      <Lemma writtenForm="som" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="som" partOfSpeech="c"/>
       <Sense id="L35667-S1" synset="wikidata-sv-L35667-S1" ili="wikidata-sv-L35667-S1">
         <Definition>i skepnad av</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35715">
-      <Lemma writtenForm="ni" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="ni" partOfSpeech="h"/>
       <Sense id="L35715-S1" synset="wikidata-sv-L35715-S1" ili="wikidata-sv-L35715-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35719">
-      <Lemma writtenForm="från" partOfSpeech="preposition"/>
+      <Lemma writtenForm="från" partOfSpeech="p"/>
       <Sense id="L35719-S1" synset="wikidata-sv-L35719-S1" ili="wikidata-sv-L35719-S1">
         <Definition>i rörelse bort eller med härkomst i särskild plats</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46944">
-      <Lemma writtenForm="fem" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fem" partOfSpeech="m"/>
       <Sense id="L46944-S1" synset="wikidata-sv-L46944-S1" ili="l333-s1">
         <Definition>talet mellan fyra och sex</Definition>
         <Example>Fyra av fem nya jobb skapas bland Sveriges småföretag och det är där potentialen finns.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46969">
-      <Lemma writtenForm="vi" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="vi" partOfSpeech="h"/>
       <Sense id="L46969-S1" synset="wikidata-sv-L46969-S1" ili="wikidata-sv-L46969-S1">
         <Definition>talarna eller talaren och minst en till</Definition>
         <Example>Låt oss enas om en sak.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46982">
-      <Lemma writtenForm="tretton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tretton" partOfSpeech="m"/>
       <Sense id="L46982-S1" synset="wikidata-sv-L46982-S1" ili="wikidata-sv-L46982-S1">
         <Definition>naturligt tal</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47265">
-      <Lemma writtenForm="det" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="det" partOfSpeech="h"/>
       <Sense id="L47265-S1" synset="wikidata-sv-L47265-S1" ili="wikidata-sv-L47265-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47279">
-      <Lemma writtenForm="jag" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="jag" partOfSpeech="h"/>
       <Sense id="L47279-S1" synset="wikidata-sv-L47279-S1" ili="wikidata-sv-L47279-S1">
         <Definition>första person singular</Definition>
         <Example>Det är min önskan.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47958">
-      <Lemma writtenForm="tolfte" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tolfte" partOfSpeech="m"/>
       <Sense id="L47958-S1" synset="wikidata-sv-L47958-S1" ili="wikidata-sv-L47958-S1">
         <Definition>som har nummer tolv (12) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50374">
-      <Lemma writtenForm="nionde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nionde" partOfSpeech="m"/>
       <Sense id="L50374-S1" synset="wikidata-sv-L50374-S1" ili="wikidata-sv-L50374-S1">
         <Definition>som kommer på plats nio i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L59185">
-      <Lemma writtenForm="utöver" partOfSpeech="preposition"/>
+      <Lemma writtenForm="utöver" partOfSpeech="p"/>
       <Sense id="L59185-S1" synset="wikidata-sv-L59185-S1" ili="wikidata-sv-L59185-S1">
         <Definition>i tillägg till</Definition>
         <Example>Utöver en generell närvaro måste den polisiära förmågan finnas på landsbygden.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579056">
-      <Lemma writtenForm="javisst" partOfSpeech="interjection"/>
+      <Lemma writtenForm="javisst" partOfSpeech="i"/>
       <Sense id="L579056-S1" synset="wikidata-sv-L579056-S1" ili="wikidata-sv-L579056-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579172">
-      <Lemma writtenForm="arton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="arton" partOfSpeech="m"/>
       <Sense id="L579172-S1" synset="wikidata-sv-L579172-S1" ili="wikidata-sv-L579172-S1">
         <Definition>naturligt tal</Definition>
         <SenseRelation relType="similar" target="wikidata-sv-L579173-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L579173">
-      <Lemma writtenForm="aderton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="aderton" partOfSpeech="m"/>
       <Sense id="L579173-S1" synset="wikidata-sv-L579173-S1" ili="wikidata-sv-L579173-S1">
         <Definition>naturligt tal</Definition>
         <SenseRelation relType="similar" target="wikidata-sv-L579172-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L586449">
-      <Lemma writtenForm="okej" partOfSpeech="interjection"/>
+      <Lemma writtenForm="okej" partOfSpeech="i"/>
       <Sense id="L586449-S1" synset="wikidata-sv-L586449-S1" ili="wikidata-sv-L586449-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L619156">
-      <Lemma writtenForm="komsi, komsi" partOfSpeech="interjection"/>
+      <Lemma writtenForm="komsi, komsi" partOfSpeech="i"/>
       <Sense id="L619156-S1" synset="wikidata-sv-L619156-S1" ili="wikidata-sv-L619156-S1">
         <Definition>följ med mig; kom med mig</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L713522">
-      <Lemma writtenForm="nu blommar löken" partOfSpeech="interjection"/>
+      <Lemma writtenForm="nu blommar löken" partOfSpeech="i"/>
       <Sense id="L713522-S1" synset="wikidata-sv-L713522-S1" ili="wikidata-sv-L713522-S1">
         <Definition>uttryck för stark förvåning eller upprördhet</Definition>
       </Sense>
@@ -459,7 +459,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1011503">
-      <Lemma writtenForm="juste" partOfSpeech="interjection"/>
+      <Lemma writtenForm="juste" partOfSpeech="i"/>
       <Sense id="L1011503-S1" synset="wikidata-sv-L1011503-S1" ili="wikidata-sv-L1011503-S1">
         <Definition>exakt, korrekt</Definition>
       </Sense>
@@ -471,38 +471,38 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1157377">
-      <Lemma writtenForm="runtom" partOfSpeech="preposition"/>
+      <Lemma writtenForm="runtom" partOfSpeech="p"/>
       <Sense id="L1157377-S1" synset="wikidata-sv-L1157377-S1" ili="wikidata-sv-L1157377-S1">
         <Definition>runt omkring</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521159">
-      <Lemma writtenForm="åttionde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="åttionde" partOfSpeech="m"/>
       <Sense id="L1521159-S1" synset="wikidata-sv-L1521159-S1" ili="wikidata-sv-L1521159-S1">
         <Definition>som kommer på plats åttio i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521160">
-      <Lemma writtenForm="sextusende" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sextusende" partOfSpeech="m"/>
       <Sense id="L1521160-S1" synset="wikidata-sv-L1521160-S1" ili="wikidata-sv-L1521160-S1">
         <Definition>som kommer på plats sextusen i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35648">
-      <Lemma writtenForm="och" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="och" partOfSpeech="c"/>
       <Sense id="L35648-S1" synset="wikidata-sv-L35648-S1" ili="l1385-s1">
         <Definition>samordnar språkliga enheter (ord, fraser, satsdelar och satser) på samma grammatiska nivå </Definition>
         <Example>Envar skall äga rätt till tankefrihet, samvetsfrihet och religionsfrihet.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35696">
-      <Lemma writtenForm="annan" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="annan" partOfSpeech="h"/>
       <Sense id="L35696-S1" synset="wikidata-sv-L35696-S1" ili="wikidata-sv-L35696-S1">
         <Definition>inte den tidigare nämnda</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45643">
-      <Lemma writtenForm="hen" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="hen" partOfSpeech="h"/>
       <Sense id="L45643-S1" synset="wikidata-sv-L45643-S1" ili="l371-s1">
         <Definition></Definition>
       </Sense>
@@ -517,67 +517,67 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46909">
-      <Lemma writtenForm="sin" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="sin" partOfSpeech="h"/>
       <Sense id="L46909-S1" synset="wikidata-sv-L46909-S1" ili="wikidata-sv-L46909-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46983">
-      <Lemma writtenForm="sjutton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjutton" partOfSpeech="m"/>
       <Sense id="L46983-S1" synset="wikidata-sv-L46983-S1" ili="wikidata-sv-L46983-S1">
         <Definition>tal</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46991">
-      <Lemma writtenForm="nitton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nitton" partOfSpeech="m"/>
       <Sense id="L46991-S1" synset="wikidata-sv-L46991-S1" ili="wikidata-sv-L46991-S1">
         <Definition>siffran 19</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47269">
-      <Lemma writtenForm="för" partOfSpeech="preposition"/>
+      <Lemma writtenForm="för" partOfSpeech="p"/>
       <Sense id="L47269-S1" synset="wikidata-sv-L47269-S1" ili="wikidata-sv-L47269-S1">
         <Definition>uttrycker syfte</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47780">
-      <Lemma writtenForm="sextonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sextonde" partOfSpeech="m"/>
       <Sense id="L47780-S1" synset="wikidata-sv-L47780-S1" ili="wikidata-sv-L47780-S1">
         <Definition>som har nummer sexton (16) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L48041">
-      <Lemma writtenForm="fyrtio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fyrtio" partOfSpeech="m"/>
       <Sense id="L48041-S1" synset="wikidata-sv-L48041-S1" ili="wikidata-sv-L48041-S1">
         <Definition>siffran 40</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L238183">
-      <Lemma writtenForm="utåt" partOfSpeech="preposition"/>
+      <Lemma writtenForm="utåt" partOfSpeech="p"/>
       <Sense id="L238183-S1" synset="wikidata-sv-L238183-S1" ili="wikidata-sv-L238183-S1">
         <Definition>riktning från referenspunkten</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L244178">
-      <Lemma writtenForm="bägge" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="bägge" partOfSpeech="h"/>
       <Sense id="L244178-S1" synset="wikidata-sv-L244178-S1" ili="wikidata-sv-L244178-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L400273">
-      <Lemma writtenForm="jämte" partOfSpeech="preposition"/>
+      <Lemma writtenForm="jämte" partOfSpeech="p"/>
       <Sense id="L400273-S1" synset="wikidata-sv-L400273-S1" ili="wikidata-sv-L400273-S1">
         <Definition>vid sidan av</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L475078">
-      <Lemma writtenForm="rörande" partOfSpeech="preposition"/>
+      <Lemma writtenForm="rörande" partOfSpeech="p"/>
       <Sense id="L475078-S1" synset="wikidata-sv-L475078-S1" ili="wikidata-sv-L475078-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L479652">
-      <Lemma writtenForm="jo" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jo" partOfSpeech="i"/>
       <Sense id="L479652-S1" synset="wikidata-sv-L479652-S1" ili="wikidata-sv-L479652-S1">
         <Definition></Definition>
       </Sense>
@@ -595,25 +595,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218359">
-      <Lemma writtenForm="fy satan" partOfSpeech="interjection"/>
+      <Lemma writtenForm="fy satan" partOfSpeech="i"/>
       <Sense id="L1218359-S1" synset="wikidata-sv-L1218359-S1" ili="wikidata-sv-L1218359-S1">
         <Definition>usch; används vid avsmak eller äckel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1219580">
-      <Lemma writtenForm="lugn och fin" partOfSpeech="interjection"/>
+      <Lemma writtenForm="lugn och fin" partOfSpeech="i"/>
       <Sense id="L1219580-S1" synset="wikidata-sv-L1219580-S1" ili="wikidata-sv-L1219580-S1">
         <Definition>ta det lugnt</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1222646">
-      <Lemma writtenForm="håll käften" partOfSpeech="interjection"/>
+      <Lemma writtenForm="håll käften" partOfSpeech="i"/>
       <Sense id="L1222646-S1" synset="wikidata-sv-L1222646-S1" ili="wikidata-sv-L1222646-S1">
         <Definition>var tyst</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1222864">
-      <Lemma writtenForm="god fortsättning" partOfSpeech="interjection"/>
+      <Lemma writtenForm="god fortsättning" partOfSpeech="i"/>
       <Sense id="L1222864-S1" synset="wikidata-sv-L1222864-S1" ili="wikidata-sv-L1222864-S1">
         <Definition>god jul (används efter juldagen)</Definition>
       </Sense>
@@ -622,13 +622,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1225768">
-      <Lemma writtenForm="stopp och belägg" partOfSpeech="interjection"/>
+      <Lemma writtenForm="stopp och belägg" partOfSpeech="i"/>
       <Sense id="L1225768-S1" synset="wikidata-sv-L1225768-S1" ili="wikidata-sv-L1225768-S1">
         <Definition>stopp</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1309770">
-      <Lemma writtenForm="springa som skållade råttor" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="springa som skållade råttor" partOfSpeech="r"/>
       <Sense id="L1309770-S1" synset="wikidata-sv-L1309770-S1" ili="wikidata-sv-L1309770-S1">
         <Definition>springa fort</Definition>
       </Sense>
@@ -640,7 +640,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35761">
-      <Lemma writtenForm="i" partOfSpeech="preposition"/>
+      <Lemma writtenForm="i" partOfSpeech="p"/>
       <Sense id="L35761-S1" synset="wikidata-sv-L35761-S1" ili="l2987-s1">
         <Definition>anger läge inuti något eller innanför någots gränser</Definition>
         <Example>Hon föddes i Gällivare.</Example>
@@ -651,7 +651,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46768">
-      <Lemma writtenForm="innan" partOfSpeech="preposition"/>
+      <Lemma writtenForm="innan" partOfSpeech="p"/>
       <Sense id="L46768-S1" synset="wikidata-sv-L46768-S1" ili="wikidata-sv-L46768-S1">
         <Definition>kvalificerar något (början av något, begivenhet eller dato) som er sket tidigare i förhållande till något annat</Definition>
       </Sense>
@@ -664,33 +664,33 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46988">
-      <Lemma writtenForm="tio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tio" partOfSpeech="m"/>
       <Sense id="L46988-S1" synset="wikidata-sv-L46988-S1" ili="wikidata-sv-L46988-S1">
         <Definition>talet mellan nio och elva</Definition>
         <Example>Under de senaste åren har minst tio personer dödats i mc-krigen i Norden.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47266">
-      <Lemma writtenForm="någon" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="någon" partOfSpeech="h"/>
       <Sense id="L47266-S1" synset="wikidata-sv-L47266-S1" ili="wikidata-sv-L47266-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L59162">
-      <Lemma writtenForm="såsom" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="såsom" partOfSpeech="c"/>
       <Sense id="L59162-S1" synset="wikidata-sv-L59162-S1" ili="wikidata-sv-L59162-S1">
         <Definition>som till exempel</Definition>
         <Example>Bland de så kallade mångsökarna av sjukvård är besvär såsom nedstämdhet, ångest och oförklarlig värk vanligt.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L228378">
-      <Lemma writtenForm="ajabaja" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ajabaja" partOfSpeech="i"/>
       <Sense id="L228378-S1" synset="wikidata-sv-L228378-S1" ili="wikidata-sv-L228378-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L231855">
-      <Lemma writtenForm="bland" partOfSpeech="preposition"/>
+      <Lemma writtenForm="bland" partOfSpeech="p"/>
       <Sense id="L231855-S1" synset="wikidata-sv-L231855-S1" ili="wikidata-sv-L231855-S1">
         <Definition></Definition>
       </Sense>
@@ -708,13 +708,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L589003">
-      <Lemma writtenForm="sjuhundra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjuhundra" partOfSpeech="m"/>
       <Sense id="L589003-S1" synset="wikidata-sv-L589003-S1" ili="wikidata-sv-L589003-S1">
         <Definition>talet 700</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012193">
-      <Lemma writtenForm="tjenare" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tjenare" partOfSpeech="i"/>
       <Sense id="L1012193-S1" synset="wikidata-sv-L1012193-S1" ili="wikidata-sv-L1012193-S1">
         <Definition>hej</Definition>
       </Sense>
@@ -726,7 +726,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218500">
-      <Lemma writtenForm="lycka till" partOfSpeech="interjection"/>
+      <Lemma writtenForm="lycka till" partOfSpeech="i"/>
       <Sense id="L1218500-S1" synset="wikidata-sv-L1218500-S1" ili="l1218499-s1">
         <Definition>lyckönskning</Definition>
       </Sense>
@@ -738,113 +738,113 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1506003">
-      <Lemma writtenForm="visavi" partOfSpeech="preposition"/>
+      <Lemma writtenForm="visavi" partOfSpeech="p"/>
       <Sense id="L1506003-S1" synset="wikidata-sv-L1506003-S1" ili="wikidata-sv-L1506003-S1">
         <Definition>mittemot</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1506589">
-      <Lemma writtenForm="apport" partOfSpeech="interjection"/>
+      <Lemma writtenForm="apport" partOfSpeech="i"/>
       <Sense id="L1506589-S1" synset="wikidata-sv-L1506589-S1" ili="wikidata-sv-L1506589-S1">
         <Definition>uppmaning till hund att gå och hämta ett föremål</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1524731">
-      <Lemma writtenForm="somlig" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="somlig" partOfSpeech="h"/>
       <Sense id="L1524731-S1" synset="wikidata-sv-L1524731-S1" ili="wikidata-sv-L1524731-S1">
         <Definition>viss, en del</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L4144">
-      <Lemma writtenForm="två" partOfSpeech="numeral"/>
+      <Lemma writtenForm="två" partOfSpeech="m"/>
       <Sense id="L4144-S1" synset="wikidata-sv-L4144-S1" ili="wikidata-sv-L4144-S1">
         <Definition>siffran 2</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35661">
-      <Lemma writtenForm="men" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="men" partOfSpeech="c"/>
       <Sense id="L35661-S1" synset="wikidata-sv-L35661-S1" ili="wikidata-sv-L35661-S1">
         <Definition>används för att binda samman två motsatta eller kontrasterande element</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35721">
-      <Lemma writtenForm="vid" partOfSpeech="preposition"/>
+      <Lemma writtenForm="vid" partOfSpeech="p"/>
       <Sense id="L35721-S1" synset="wikidata-sv-L35721-S1" ili="wikidata-sv-L35721-S1">
         <Definition>nära eller intill viss plats</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35727">
-      <Lemma writtenForm="av" partOfSpeech="preposition"/>
+      <Lemma writtenForm="av" partOfSpeech="p"/>
       <Sense id="L35727-S1" synset="wikidata-sv-L35727-S1" ili="wikidata-sv-L35727-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45476">
-      <Lemma writtenForm="utan" partOfSpeech="preposition"/>
+      <Lemma writtenForm="utan" partOfSpeech="p"/>
       <Sense id="L45476-S1" synset="wikidata-sv-L45476-S1" ili="l5211-s1">
         <Definition>anger frånvaron av något</Definition>
         <Example>De växte upp utan föräldrar.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46704">
-      <Lemma writtenForm="hon" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="hon" partOfSpeech="h"/>
       <Sense id="L46704-S1" synset="wikidata-sv-L46704-S1" ili="wikidata-sv-L46704-S1">
         <Definition>personligt pronomen som refererar till en kvinna</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46771">
-      <Lemma writtenForm="ingen" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="ingen" partOfSpeech="h"/>
       <Sense id="L46771-S1" synset="wikidata-sv-L46771-S1" ili="wikidata-sv-L46771-S1">
         <Definition>inte någon</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46953">
-      <Lemma writtenForm="åtta" partOfSpeech="numeral"/>
+      <Lemma writtenForm="åtta" partOfSpeech="m"/>
       <Sense id="L46953-S1" synset="wikidata-sv-L46953-S1" ili="wikidata-sv-L46953-S1">
         <Definition>räkneordet mellan sju och nio</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46984">
-      <Lemma writtenForm="nio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="nio" partOfSpeech="m"/>
       <Sense id="L46984-S1" synset="wikidata-sv-L46984-S1" ili="wikidata-sv-L46984-S1">
         <Definition>siffran 9</Definition>
         <Example>Skottdådet inträffade i byn Nutaarmiut, cirka nio mil norr om den nordgrönländska staden Upernavik.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47018">
-      <Lemma writtenForm="fyra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fyra" partOfSpeech="m"/>
       <Sense id="L47018-S1" synset="wikidata-sv-L47018-S1" ili="wikidata-sv-L47018-S1">
         <Definition>siffran 4</Definition>
         <Example>De fyra nordligaste länen har under lång tid och i varierande grad kännetecknats av befolkningsförändringar.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47957">
-      <Lemma writtenForm="fjortonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fjortonde" partOfSpeech="m"/>
       <Sense id="L47957-S1" synset="wikidata-sv-L47957-S1" ili="wikidata-sv-L47957-S1">
         <Definition>som har nummer fjorton (14) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L48025">
-      <Lemma writtenForm="tjugonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tjugonde" partOfSpeech="m"/>
       <Sense id="L48025-S1" synset="wikidata-sv-L48025-S1" ili="wikidata-sv-L48025-S1">
         <Definition>som kommer på plats tjugo i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50145">
-      <Lemma writtenForm="varje" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="varje" partOfSpeech="h"/>
       <Sense id="L50145-S1" synset="wikidata-sv-L50145-S1" ili="wikidata-sv-L50145-S1">
         <Definition>som gäller för alla enskilda element av något</Definition>
         <Example>Där finnas små uddar och små vikar och små kullerstenar, som rasslande sköljas upp och ner vid varje böljeslag.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50368">
-      <Lemma writtenForm="femtio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="femtio" partOfSpeech="m"/>
       <Sense id="L50368-S1" synset="wikidata-sv-L50368-S1" ili="wikidata-sv-L50368-S1">
         <Definition>siffran 50</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50369">
-      <Lemma writtenForm="sextio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sextio" partOfSpeech="m"/>
       <Sense id="L50369-S1" synset="wikidata-sv-L50369-S1" ili="wikidata-sv-L50369-S1">
         <Definition>siffran 60</Definition>
       </Sense>
@@ -856,7 +856,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347451">
-      <Lemma writtenForm="i grevens tid" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="i grevens tid" partOfSpeech="r"/>
       <Sense id="L347451-S1" synset="wikidata-sv-L347451-S1" ili="wikidata-sv-L347451-S1">
         <Definition>i sista stund; precis innan det är för sent</Definition>
       </Sense>
@@ -868,37 +868,37 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L476206">
-      <Lemma writtenForm="intet" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="intet" partOfSpeech="h"/>
       <Sense id="L476206-S1" synset="wikidata-sv-L476206-S1" ili="wikidata-sv-L476206-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L482649">
-      <Lemma writtenForm="åttonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="åttonde" partOfSpeech="m"/>
       <Sense id="L482649-S1" synset="wikidata-sv-L482649-S1" ili="wikidata-sv-L482649-S1">
         <Definition>på plats nr 8</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L482698">
-      <Lemma writtenForm="attan" partOfSpeech="interjection"/>
+      <Lemma writtenForm="attan" partOfSpeech="i"/>
       <Sense id="L482698-S1" synset="wikidata-sv-L482698-S1" ili="l705189-s1">
         <Definition>när något inte går som man vill</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L485065">
-      <Lemma writtenForm="man" partOfSpeech="indefinite pronoun"/>
+      <Lemma writtenForm="man" partOfSpeech="h"/>
       <Sense id="L485065-S1" synset="wikidata-sv-L485065-S1" ili="wikidata-sv-L485065-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L496782">
-      <Lemma writtenForm="tjugo" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tjugo" partOfSpeech="m"/>
       <Sense id="L496782-S1" synset="wikidata-sv-L496782-S1" ili="wikidata-sv-L496782-S1">
         <Definition>siffran 20</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L586622">
-      <Lemma writtenForm="tvåhundra" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tvåhundra" partOfSpeech="m"/>
       <Sense id="L586622-S1" synset="wikidata-sv-L586622-S1" ili="wikidata-sv-L586622-S1">
         <Definition>siffran 200</Definition>
       </Sense>
@@ -913,13 +913,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740115">
-      <Lemma writtenForm="tjenixen" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tjenixen" partOfSpeech="i"/>
       <Sense id="L740115-S1" synset="wikidata-sv-L740115-S1" ili="wikidata-sv-L740115-S1">
         <Definition>hälsningsfras när man träffar nån</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012192">
-      <Lemma writtenForm="tjena" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tjena" partOfSpeech="i"/>
       <Sense id="L1012192-S1" synset="wikidata-sv-L1012192-S1" ili="wikidata-sv-L1012192-S1">
         <Definition>hej</Definition>
       </Sense>
@@ -931,19 +931,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132766">
-      <Lemma writtenForm="varsågod" partOfSpeech="interjection"/>
+      <Lemma writtenForm="varsågod" partOfSpeech="i"/>
       <Sense id="L1132766-S1" synset="wikidata-sv-L1132766-S1" ili="wikidata-sv-L1132766-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218367">
-      <Lemma writtenForm="fy" partOfSpeech="interjection"/>
+      <Lemma writtenForm="fy" partOfSpeech="i"/>
       <Sense id="L1218367-S1" synset="wikidata-sv-L1218367-S1" ili="wikidata-sv-L1218367-S1">
         <Definition>används för att uttrycka avsmak eller leda</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1225578">
-      <Lemma writtenForm="jaha" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jaha" partOfSpeech="i"/>
       <Sense id="L1225578-S1" synset="wikidata-sv-L1225578-S1" ili="wikidata-sv-L1225578-S1">
         <Definition></Definition>
       </Sense>
@@ -967,56 +967,56 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1227087">
-      <Lemma writtenForm="peppar peppar ta i trä" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="peppar peppar ta i trä" partOfSpeech="r"/>
       <Sense id="L1227087-S1" synset="wikidata-sv-L1227087-S1" ili="wikidata-sv-L1227087-S1">
         <Definition>när man hoppas att lyckas med något</Definition>
         <SenseRelation relType="similar" target="wikidata-sv-L1309771-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400442">
-      <Lemma writtenForm="grattis" partOfSpeech="interjection"/>
+      <Lemma writtenForm="grattis" partOfSpeech="i"/>
       <Sense id="L1400442-S1" synset="wikidata-sv-L1400442-S1" ili="wikidata-sv-L1400442-S1">
         <Definition>uttryck för att gratulera någon, ofta vid firande eller lyckliga händelser</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1518921">
-      <Lemma writtenForm="et" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="et" partOfSpeech="c"/>
       <Sense id="L1518921-S1" synset="wikidata-sv-L1518921-S1" ili="wikidata-sv-L1518921-S1">
         <Definition>och</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35695">
-      <Lemma writtenForm="all" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="all" partOfSpeech="h"/>
       <Sense id="L35695-S1" synset="wikidata-sv-L35695-S1" ili="wikidata-sv-L35695-S1">
         <Definition>hela mängden</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35720">
-      <Lemma writtenForm="till" partOfSpeech="preposition"/>
+      <Lemma writtenForm="till" partOfSpeech="p"/>
       <Sense id="L35720-S1" synset="wikidata-sv-L35720-S1" ili="wikidata-sv-L35720-S1">
         <Definition>i riktning mot något</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35760">
-      <Lemma writtenForm="under" partOfSpeech="preposition"/>
+      <Lemma writtenForm="under" partOfSpeech="p"/>
       <Sense id="L35760-S1" synset="wikidata-sv-L35760-S1" ili="wikidata-sv-L35760-S1">
         <Definition>betyder att nånting är pågående</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46883">
-      <Lemma writtenForm="allting" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="allting" partOfSpeech="h"/>
       <Sense id="L46883-S1" synset="wikidata-sv-L46883-S1" ili="wikidata-sv-L46883-S1">
         <Definition>metafysiskt begrepp om allt som finns</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46985">
-      <Lemma writtenForm="sexton" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sexton" partOfSpeech="m"/>
       <Sense id="L46985-S1" synset="wikidata-sv-L46985-S1" ili="wikidata-sv-L46985-S1">
         <Definition>siffran 16</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46987">
-      <Lemma writtenForm="tolv" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tolv" partOfSpeech="m"/>
       <Sense id="L46987-S1" synset="wikidata-sv-L46987-S1" ili="wikidata-sv-L46987-S1">
         <Definition>naturligt tal</Definition>
       </Sense>
@@ -1028,19 +1028,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47781">
-      <Lemma writtenForm="femtonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="femtonde" partOfSpeech="m"/>
       <Sense id="L47781-S1" synset="wikidata-sv-L47781-S1" ili="wikidata-sv-L47781-S1">
         <Definition>som har nummer femton (15) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50371">
-      <Lemma writtenForm="sjuttio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjuttio" partOfSpeech="m"/>
       <Sense id="L50371-S1" synset="wikidata-sv-L50371-S1" ili="wikidata-sv-L50371-S1">
         <Definition>siffran 70</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50380">
-      <Lemma writtenForm="fyrtiofem" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fyrtiofem" partOfSpeech="m"/>
       <Sense id="L50380-S1" synset="wikidata-sv-L50380-S1" ili="wikidata-sv-L50380-S1">
         <Definition>siffran 45</Definition>
         <Example>Fyrtiofem år är ingen lång tid sett i ett historiskt perspektiv.</Example>
@@ -1053,20 +1053,20 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347189">
-      <Lemma writtenForm="tack" partOfSpeech="interjection"/>
+      <Lemma writtenForm="tack" partOfSpeech="i"/>
       <Sense id="L347189-S1" synset="wikidata-sv-L347189-S1" ili="wikidata-sv-L347189-S1">
         <Definition>ett sätt att visa uppskattning</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L450790">
-      <Lemma writtenForm="uppströms" partOfSpeech="preposition"/>
+      <Lemma writtenForm="uppströms" partOfSpeech="p"/>
       <Sense id="L450790-S1" synset="wikidata-sv-L450790-S1" ili="wikidata-sv-L450790-S1">
         <Definition>i riktning mot strömmen</Definition>
         <Example>Vi behöver arbeta uppströms liksom nedströms för att säkerställa att skadliga ämnen inte kommer ut i vår natur.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L479651">
-      <Lemma writtenForm="ja" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ja" partOfSpeech="i"/>
       <Sense id="L479651-S1" synset="wikidata-sv-L479651-S1" ili="wikidata-sv-L479651-S1">
         <Definition>uttrycker affirmerande</Definition>
       </Sense>
@@ -1084,19 +1084,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218369">
-      <Lemma writtenForm="fy för djävulen" partOfSpeech="interjection"/>
+      <Lemma writtenForm="fy för djävulen" partOfSpeech="i"/>
       <Sense id="L1218369-S1" synset="wikidata-sv-L1218369-S1" ili="wikidata-sv-L1218369-S1">
         <Definition>kraftuttryck vid avsmak, leda, äckel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1320153">
-      <Lemma writtenForm="ingen fara på taket" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="ingen fara på taket" partOfSpeech="r"/>
       <Sense id="L1320153-S1" synset="wikidata-sv-L1320153-S1" ili="wikidata-sv-L1320153-S1">
         <Definition>inget att oroa sig för</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35650">
-      <Lemma writtenForm="på" partOfSpeech="preposition"/>
+      <Lemma writtenForm="på" partOfSpeech="p"/>
       <Sense id="L35650-S1" synset="wikidata-sv-L35650-S1" ili="wikidata-sv-L35650-S1">
         <Definition>något som är över och i kontakt med något annat</Definition>
       </Sense>
@@ -1105,13 +1105,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35710">
-      <Lemma writtenForm="min" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="min" partOfSpeech="h"/>
       <Sense id="L35710-S1" synset="wikidata-sv-L35710-S1" ili="wikidata-sv-L35710-S1">
         <Definition>som tillhör mig</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35723">
-      <Lemma writtenForm="att" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="att" partOfSpeech="y"/>
       <Sense id="L35723-S1" synset="wikidata-sv-L35723-S1" ili="wikidata-sv-L35723-S1">
         <Definition>anger verbets grundform</Definition>
         <Example>Det enda rimliga var att avgå.</Example>
@@ -1120,80 +1120,80 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35763">
-      <Lemma writtenForm="ur" partOfSpeech="preposition"/>
+      <Lemma writtenForm="ur" partOfSpeech="p"/>
       <Sense id="L35763-S2" synset="wikidata-sv-L35763-S2" ili="wikidata-sv-L35763-S2">
         <Definition>från insidan av något</Definition>
         <Example>Pojken tog cykeln ur cykelstället.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46751">
-      <Lemma writtenForm="tre" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tre" partOfSpeech="m"/>
       <Sense id="L46751-S1" synset="wikidata-sv-L46751-S1" ili="wikidata-sv-L46751-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46772">
-      <Lemma writtenForm="en" partOfSpeech="indefinite article"/>
+      <Lemma writtenForm="en" partOfSpeech="d"/>
       <Sense id="L46772-S1" synset="wikidata-sv-L46772-S1" ili="wikidata-sv-L46772-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46889">
-      <Lemma writtenForm="tredje" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tredje" partOfSpeech="m"/>
       <Sense id="L46889-S1" synset="wikidata-sv-L46889-S1" ili="wikidata-sv-L46889-S1">
         <Definition>som har nummer tre (3) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46906">
-      <Lemma writtenForm="fjärde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="fjärde" partOfSpeech="m"/>
       <Sense id="L46906-S1" synset="wikidata-sv-L46906-S1" ili="wikidata-sv-L46906-S1">
         <Definition>som kommer på plats fyra i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46908">
-      <Lemma writtenForm="sjätte" partOfSpeech="numeral"/>
+      <Lemma writtenForm="sjätte" partOfSpeech="m"/>
       <Sense id="L46908-S1" synset="wikidata-sv-L46908-S1" ili="wikidata-sv-L46908-S1">
         <Definition>som kommer på plats sex i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46986">
-      <Lemma writtenForm="elva" partOfSpeech="numeral"/>
+      <Lemma writtenForm="elva" partOfSpeech="m"/>
       <Sense id="L46986-S1" synset="wikidata-sv-L46986-S1" ili="wikidata-sv-L46986-S1">
         <Definition>naturligt tal</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47782">
-      <Lemma writtenForm="trettonde" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trettonde" partOfSpeech="m"/>
       <Sense id="L47782-S1" synset="wikidata-sv-L47782-S1" ili="wikidata-sv-L47782-S1">
         <Definition>som har nummer tretton (13) i ordningen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47887">
-      <Lemma writtenForm="du" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="du" partOfSpeech="h"/>
       <Sense id="L47887-S1" synset="wikidata-sv-L47887-S1" ili="wikidata-sv-L47887-S1">
         <Definition>personligt pronomen</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L50372">
-      <Lemma writtenForm="trettio" partOfSpeech="numeral"/>
+      <Lemma writtenForm="trettio" partOfSpeech="m"/>
       <Sense id="L50372-S1" synset="wikidata-sv-L50372-S1" ili="wikidata-sv-L50372-S1">
         <Definition>siffran 30</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L54533">
-      <Lemma writtenForm="ehuru" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ehuru" partOfSpeech="c"/>
       <Sense id="L54533-S1" synset="wikidata-sv-L54533-S1" ili="wikidata-sv-L54533-S1">
         <Definition>trots att</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L238179">
-      <Lemma writtenForm="tills" partOfSpeech="preposition"/>
+      <Lemma writtenForm="tills" partOfSpeech="p"/>
       <Sense id="L238179-S1" synset="wikidata-sv-L238179-S1" ili="wikidata-sv-L238179-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L246342">
-      <Lemma writtenForm="hej" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hej" partOfSpeech="i"/>
       <Sense id="L246342-S1" synset="wikidata-sv-L246342-S1" ili="wikidata-sv-L246342-S1">
         <Definition>informell hälsning</Definition>
         <Example>Hej jag kan inte ta emot ditt samtal just nu</Example>
@@ -1203,7 +1203,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L404552">
-      <Lemma writtenForm="själv" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="själv" partOfSpeech="h"/>
       <Sense id="L404552-S1" synset="wikidata-sv-L404552-S1" ili="wikidata-sv-L404552-S1">
         <Definition>utan hjälp eller påverkan</Definition>
       </Sense>
@@ -1212,7 +1212,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L409098">
-      <Lemma writtenForm="via" partOfSpeech="preposition"/>
+      <Lemma writtenForm="via" partOfSpeech="p"/>
       <Sense id="L409098-S1" synset="wikidata-sv-L409098-S1" ili="wikidata-sv-L409098-S1">
         <Definition>passerande</Definition>
       </Sense>
@@ -1224,7 +1224,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L588746">
-      <Lemma writtenForm="ack" partOfSpeech="interjection"/>
+      <Lemma writtenForm="ack" partOfSpeech="i"/>
       <Sense id="L588746-S1" synset="wikidata-sv-L588746-S1" ili="wikidata-sv-L588746-S1">
         <Definition></Definition>
       </Sense>
@@ -1236,13 +1236,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L628365">
-      <Lemma writtenForm="hoppsan" partOfSpeech="interjection"/>
+      <Lemma writtenForm="hoppsan" partOfSpeech="i"/>
       <Sense id="L628365-S1" synset="wikidata-sv-L628365-S1" ili="wikidata-sv-L628365-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1158714">
-      <Lemma writtenForm="godnatt" partOfSpeech="interjection"/>
+      <Lemma writtenForm="godnatt" partOfSpeech="i"/>
       <Sense id="L1158714-S1" synset="wikidata-sv-L1158714-S1" ili="wikidata-sv-L1158714-S1">
         <Definition>verbal smekning som utbyts vid sänggående</Definition>
       </Sense>
@@ -1254,14 +1254,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1309771">
-      <Lemma writtenForm="peppar peppar" partOfSpeech="adverbial phrase"/>
+      <Lemma writtenForm="peppar peppar" partOfSpeech="r"/>
       <Sense id="L1309771-S1" synset="wikidata-sv-L1309771-S1" ili="wikidata-sv-L1309771-S1">
         <Definition>när man hoppas att lyckas med något</Definition>
         <SenseRelation relType="similar" target="wikidata-sv-L1227087-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1508386">
-      <Lemma writtenForm="shit" partOfSpeech="interjection"/>
+      <Lemma writtenForm="shit" partOfSpeech="i"/>
       <Sense id="L1508386-S1" synset="wikidata-sv-L1508386-S1" ili="wikidata-sv-L1508386-S1">
         <Definition>utrop av irritation</Definition>
       </Sense>
@@ -1272,646 +1272,646 @@
         <Definition>som har med självmord att göra</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-sv-L35724-S1" ili="wikidata-sv-L35724-S1">
+    <Synset id="wikidata-sv-L35724-S1" ili="wikidata-sv-L35724-S1" partOfSpeech="c">
       <Definition>inleder en bisats och binder den till huvudsatsen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35765-S1" ili="wikidata-sv-L35765-S1">
+    <Synset id="wikidata-sv-L35765-S1" ili="wikidata-sv-L35765-S1" partOfSpeech="p">
       <Definition>i överensstämmelse med någon eller något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L44971-S1" ili="wikidata-sv-L44971-S1">
+    <Synset id="wikidata-sv-L44971-S1" ili="wikidata-sv-L44971-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L45477-S1" ili="wikidata-sv-L45477-S1">
+    <Synset id="wikidata-sv-L45477-S1" ili="wikidata-sv-L45477-S1" partOfSpeech="c">
       <Definition>uttrycker motsats i en sats</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46738-S1" ili="l3412-s1">
+    <Synset id="wikidata-sv-L46738-S1" ili="l3412-s1" partOfSpeech="p">
       <Definition>lägesbeskrivning i förhållande till två andra objekt, på vardera sida om subjektet</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46773-S1" ili="wikidata-sv-L46773-S1">
+    <Synset id="wikidata-sv-L46773-S1" ili="wikidata-sv-L46773-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46788-S1" ili="wikidata-sv-L46788-S1">
+    <Synset id="wikidata-sv-L46788-S1" ili="wikidata-sv-L46788-S1" partOfSpeech="c">
       <Definition>vid viss tid</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46905-S1" ili="wikidata-sv-L46905-S1">
+    <Synset id="wikidata-sv-L46905-S1" ili="wikidata-sv-L46905-S1" partOfSpeech="m">
       <Definition>som har nummer sju (7) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46910-S1" ili="wikidata-sv-L46910-S1">
+    <Synset id="wikidata-sv-L46910-S1" ili="wikidata-sv-L46910-S1" partOfSpeech="p">
       <Definition>på baksidan av</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46981-S1" ili="wikidata-sv-L46981-S1">
+    <Synset id="wikidata-sv-L46981-S1" ili="wikidata-sv-L46981-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47263-S1" ili="wikidata-sv-L47263-S1">
+    <Synset id="wikidata-sv-L47263-S1" ili="wikidata-sv-L47263-S1" partOfSpeech="p">
       <Definition>refererar till något som är i anslutning till något föregående</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47779-S1" ili="wikidata-sv-L47779-S1">
+    <Synset id="wikidata-sv-L47779-S1" ili="wikidata-sv-L47779-S1" partOfSpeech="m">
       <Definition>som har nummer sjutton (17) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47909-S1" ili="wikidata-sv-L47909-S1">
+    <Synset id="wikidata-sv-L47909-S1" ili="wikidata-sv-L47909-S1" partOfSpeech="c">
       <Definition>uttrycker ett alternativ, val eller en möjlighet mellan flera saker</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L48139-S1" ili="wikidata-sv-L48139-S1">
+    <Synset id="wikidata-sv-L48139-S1" ili="wikidata-sv-L48139-S1" partOfSpeech="m">
       <Definition>nummer mellan 99 och 101</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50383-S1" ili="wikidata-sv-L50383-S1">
+    <Synset id="wikidata-sv-L50383-S1" ili="wikidata-sv-L50383-S1" partOfSpeech="m">
       <Definition>siffran 500</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L238167-S1" ili="wikidata-sv-L238167-S1">
+    <Synset id="wikidata-sv-L238167-S1" ili="wikidata-sv-L238167-S1" partOfSpeech="p">
       <Definition>riktning mot referenspunkten</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L251646-S1" ili="wikidata-sv-L251646-S1">
+    <Synset id="wikidata-sv-L251646-S1" ili="wikidata-sv-L251646-S1" partOfSpeech="family name">
       <Definition>efternamn</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L405859-S1" ili="wikidata-sv-L405859-S1">
+    <Synset id="wikidata-sv-L405859-S1" ili="wikidata-sv-L405859-S1" partOfSpeech="m">
       <Definition>talet noll</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L481805-S1" ili="wikidata-sv-L481805-S1">
+    <Synset id="wikidata-sv-L481805-S1" ili="wikidata-sv-L481805-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579547-S1" ili="wikidata-sv-L579547-S1">
+    <Synset id="wikidata-sv-L579547-S1" ili="wikidata-sv-L579547-S1" partOfSpeech="i">
       <Definition>hälsning</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579584-S1" ili="wikidata-sv-L579584-S1">
+    <Synset id="wikidata-sv-L579584-S1" ili="wikidata-sv-L579584-S1" partOfSpeech="m">
       <Definition>siffran 34</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L592865-S1" ili="wikidata-sv-L592865-S1">
+    <Synset id="wikidata-sv-L592865-S1" ili="wikidata-sv-L592865-S1" partOfSpeech="affix">
       <Definition>används om något som är gjort i materialet trä</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1010878-S1" ili="wikidata-sv-L1010878-S1">
+    <Synset id="wikidata-sv-L1010878-S1" ili="wikidata-sv-L1010878-S1" partOfSpeech="i">
       <Definition>påkalla uppmärksamhet</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1020932-S1" ili="wikidata-sv-L1020932-S1">
+    <Synset id="wikidata-sv-L1020932-S1" ili="wikidata-sv-L1020932-S1" partOfSpeech="affix">
       <Definition>något som är först, tex om en källa, den första källan</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1116956-S1" ili="wikidata-sv-L1116956-S1">
+    <Synset id="wikidata-sv-L1116956-S1" ili="wikidata-sv-L1116956-S1" partOfSpeech="affix">
       <Definition>lära eller vetenskap</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1211655-S1" ili="wikidata-sv-L1211655-S1">
+    <Synset id="wikidata-sv-L1211655-S1" ili="wikidata-sv-L1211655-S1" partOfSpeech="i">
       <Definition>utrop varmed man markerar företrädesrätt till plats i lek</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1227086-S1" ili="wikidata-sv-L1227086-S1">
+    <Synset id="wikidata-sv-L1227086-S1" ili="wikidata-sv-L1227086-S1" partOfSpeech="r">
       <Definition>när man hoppas nånting inte ska hända</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1229829-S1" ili="wikidata-sv-L1229829-S1">
+    <Synset id="wikidata-sv-L1229829-S1" ili="wikidata-sv-L1229829-S1" partOfSpeech="r">
       <Definition>båda</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1508355-S1" ili="wikidata-sv-L1508355-S1">
+    <Synset id="wikidata-sv-L1508355-S1" ili="wikidata-sv-L1508355-S1" partOfSpeech="i">
       <Definition>uttryck för avsmak</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46730-S1" ili="wikidata-sv-L46730-S1">
+    <Synset id="wikidata-sv-L46730-S1" ili="wikidata-sv-L46730-S1" partOfSpeech="p">
       <Definition>på en plats belägen närmast något i riktning framåt</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46790-S1" ili="wikidata-sv-L46790-S1">
+    <Synset id="wikidata-sv-L46790-S1" ili="wikidata-sv-L46790-S1" partOfSpeech="c">
       <Definition>och också</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46792-S1" ili="wikidata-sv-L46792-S1">
+    <Synset id="wikidata-sv-L46792-S1" ili="wikidata-sv-L46792-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46901-S2" ili="wikidata-sv-L46901-S2">
+    <Synset id="wikidata-sv-L46901-S2" ili="wikidata-sv-L46901-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46901-S3" ili="wikidata-sv-L46901-S3">
+    <Synset id="wikidata-sv-L46901-S3" ili="wikidata-sv-L46901-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46901-S4" ili="wikidata-sv-L46901-S4">
+    <Synset id="wikidata-sv-L46901-S4" ili="wikidata-sv-L46901-S4" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46901-S5" ili="wikidata-sv-L46901-S5">
+    <Synset id="wikidata-sv-L46901-S5" ili="wikidata-sv-L46901-S5" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46907-S1" ili="wikidata-sv-L46907-S1">
+    <Synset id="wikidata-sv-L46907-S1" ili="wikidata-sv-L46907-S1" partOfSpeech="m">
       <Definition>ordinaltal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46989-S1" ili="wikidata-sv-L46989-S1">
+    <Synset id="wikidata-sv-L46989-S1" ili="wikidata-sv-L46989-S1" partOfSpeech="m">
       <Definition>siffran 14</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46990-S1" ili="wikidata-sv-L46990-S1">
+    <Synset id="wikidata-sv-L46990-S1" ili="wikidata-sv-L46990-S1" partOfSpeech="m">
       <Definition>siffran 7</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47067-S1" ili="wikidata-sv-L47067-S1">
+    <Synset id="wikidata-sv-L47067-S1" ili="wikidata-sv-L47067-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L51148-S1" ili="wikidata-sv-L51148-S1">
+    <Synset id="wikidata-sv-L51148-S1" ili="wikidata-sv-L51148-S1" partOfSpeech="h">
       <Definition>koncept</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L230666-S1" ili="wikidata-sv-L230666-S1">
+    <Synset id="wikidata-sv-L230666-S1" ili="wikidata-sv-L230666-S1" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L348374-S1" ili="wikidata-sv-L348374-S1">
+    <Synset id="wikidata-sv-L348374-S1" ili="wikidata-sv-L348374-S1" partOfSpeech="affix">
       <Definition>rörelsen mot det inre av något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L348626-S1" ili="wikidata-sv-L348626-S1">
+    <Synset id="wikidata-sv-L348626-S1" ili="wikidata-sv-L348626-S1" partOfSpeech="i">
       <Definition>kontinuitetskoncept mellan olika fiktiva verk</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L348626-S2" ili="wikidata-sv-L348626-S2">
+    <Synset id="wikidata-sv-L348626-S2" ili="wikidata-sv-L348626-S2" partOfSpeech="i">
       <Definition>kulturell samling med särskilt framträdande verk</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L348626-S3" ili="wikidata-sv-L348626-S3">
+    <Synset id="wikidata-sv-L348626-S3" ili="wikidata-sv-L348626-S3" partOfSpeech="i">
       <Definition>väletablerade regler inom exempelvis en konstform eller filosofi</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L482681-S1" ili="wikidata-sv-L482681-S1">
+    <Synset id="wikidata-sv-L482681-S1" ili="wikidata-sv-L482681-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L497768-S1" ili="wikidata-sv-L497768-S1">
+    <Synset id="wikidata-sv-L497768-S1" ili="wikidata-sv-L497768-S1" partOfSpeech="m">
       <Definition>som kommer på plats tio i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L498524-S1" ili="wikidata-sv-L498524-S1">
+    <Synset id="wikidata-sv-L498524-S1" ili="wikidata-sv-L498524-S1" partOfSpeech="i">
       <Definition>ord som används för att visa nekande</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579272-S1" ili="wikidata-sv-L579272-S1">
+    <Synset id="wikidata-sv-L579272-S1" ili="wikidata-sv-L579272-S1" partOfSpeech="affix">
       <Definition>motsats</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L587284-S1" ili="wikidata-sv-L587284-S1">
+    <Synset id="wikidata-sv-L587284-S1" ili="wikidata-sv-L587284-S1" partOfSpeech="m">
       <Definition>som har nummer 11 i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1020951-S1" ili="wikidata-sv-L1020951-S1">
+    <Synset id="wikidata-sv-L1020951-S1" ili="wikidata-sv-L1020951-S1" partOfSpeech="affix">
       <Definition>fysisk botten tex. flatbottnad</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1020951-S2" ili="wikidata-sv-L1020951-S2">
+    <Synset id="wikidata-sv-L1020951-S2" ili="wikidata-sv-L1020951-S2" partOfSpeech="affix">
       <Definition>abstrakt botten tex. mångbottnad</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1157371-S1" ili="wikidata-sv-L1157371-S1">
+    <Synset id="wikidata-sv-L1157371-S1" ili="wikidata-sv-L1157371-S1" partOfSpeech="i">
       <Definition>glatt utrop</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1329218-S1" ili="wikidata-sv-L1329218-S1">
+    <Synset id="wikidata-sv-L1329218-S1" ili="wikidata-sv-L1329218-S1" partOfSpeech="popular saying">
       <Definition>person som ofta gör tvärt emot andras vilja</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1460738-S2" ili="wikidata-sv-L1460738-S2">
+    <Synset id="wikidata-sv-L1460738-S2" ili="wikidata-sv-L1460738-S2" partOfSpeech="h">
       <Definition>hören i icke</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35645-S1" ili="wikidata-sv-L35645-S1">
+    <Synset id="wikidata-sv-L35645-S1" ili="wikidata-sv-L35645-S1" partOfSpeech="h">
       <Definition>pronomen för personer av manskön</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35667-S1" ili="wikidata-sv-L35667-S1">
+    <Synset id="wikidata-sv-L35667-S1" ili="wikidata-sv-L35667-S1" partOfSpeech="c">
       <Definition>i skepnad av</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35715-S1" ili="wikidata-sv-L35715-S1">
+    <Synset id="wikidata-sv-L35715-S1" ili="wikidata-sv-L35715-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35719-S1" ili="wikidata-sv-L35719-S1">
+    <Synset id="wikidata-sv-L35719-S1" ili="wikidata-sv-L35719-S1" partOfSpeech="p">
       <Definition>i rörelse bort eller med härkomst i särskild plats</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46944-S1" ili="l333-s1">
+    <Synset id="wikidata-sv-L46944-S1" ili="l333-s1" partOfSpeech="m">
       <Definition>talet mellan fyra och sex</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46969-S1" ili="wikidata-sv-L46969-S1">
+    <Synset id="wikidata-sv-L46969-S1" ili="wikidata-sv-L46969-S1" partOfSpeech="h">
       <Definition>talarna eller talaren och minst en till</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46982-S1" ili="wikidata-sv-L46982-S1">
+    <Synset id="wikidata-sv-L46982-S1" ili="wikidata-sv-L46982-S1" partOfSpeech="m">
       <Definition>naturligt tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47265-S1" ili="wikidata-sv-L47265-S1">
+    <Synset id="wikidata-sv-L47265-S1" ili="wikidata-sv-L47265-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47279-S1" ili="wikidata-sv-L47279-S1">
+    <Synset id="wikidata-sv-L47279-S1" ili="wikidata-sv-L47279-S1" partOfSpeech="h">
       <Definition>första person singular</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47958-S1" ili="wikidata-sv-L47958-S1">
+    <Synset id="wikidata-sv-L47958-S1" ili="wikidata-sv-L47958-S1" partOfSpeech="m">
       <Definition>som har nummer tolv (12) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50374-S1" ili="wikidata-sv-L50374-S1">
+    <Synset id="wikidata-sv-L50374-S1" ili="wikidata-sv-L50374-S1" partOfSpeech="m">
       <Definition>som kommer på plats nio i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L59185-S1" ili="wikidata-sv-L59185-S1">
+    <Synset id="wikidata-sv-L59185-S1" ili="wikidata-sv-L59185-S1" partOfSpeech="p">
       <Definition>i tillägg till</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579056-S1" ili="wikidata-sv-L579056-S1">
+    <Synset id="wikidata-sv-L579056-S1" ili="wikidata-sv-L579056-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579172-S1" ili="wikidata-sv-L579172-S1">
+    <Synset id="wikidata-sv-L579172-S1" ili="wikidata-sv-L579172-S1" partOfSpeech="m">
       <Definition>naturligt tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579173-S1" ili="wikidata-sv-L579173-S1">
+    <Synset id="wikidata-sv-L579173-S1" ili="wikidata-sv-L579173-S1" partOfSpeech="m">
       <Definition>naturligt tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L586449-S1" ili="wikidata-sv-L586449-S1">
+    <Synset id="wikidata-sv-L586449-S1" ili="wikidata-sv-L586449-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L619156-S1" ili="wikidata-sv-L619156-S1">
+    <Synset id="wikidata-sv-L619156-S1" ili="wikidata-sv-L619156-S1" partOfSpeech="i">
       <Definition>följ med mig; kom med mig</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L713522-S1" ili="wikidata-sv-L713522-S1">
+    <Synset id="wikidata-sv-L713522-S1" ili="wikidata-sv-L713522-S1" partOfSpeech="i">
       <Definition>uttryck för stark förvåning eller upprördhet</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L722755-S1" ili="l11347-s1">
+    <Synset id="wikidata-sv-L722755-S1" ili="l11347-s1" partOfSpeech="subordinating conjunction">
       <Definition>vid vilken tidpunkt som helst</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1011503-S1" ili="wikidata-sv-L1011503-S1">
+    <Synset id="wikidata-sv-L1011503-S1" ili="wikidata-sv-L1011503-S1" partOfSpeech="i">
       <Definition>exakt, korrekt</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1129623-S1" ili="wikidata-sv-L1129623-S1">
+    <Synset id="wikidata-sv-L1129623-S1" ili="wikidata-sv-L1129623-S1" partOfSpeech="affix">
       <Definition>motsatt</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1157377-S1" ili="wikidata-sv-L1157377-S1">
+    <Synset id="wikidata-sv-L1157377-S1" ili="wikidata-sv-L1157377-S1" partOfSpeech="p">
       <Definition>runt omkring</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1521159-S1" ili="wikidata-sv-L1521159-S1">
+    <Synset id="wikidata-sv-L1521159-S1" ili="wikidata-sv-L1521159-S1" partOfSpeech="m">
       <Definition>som kommer på plats åttio i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1521160-S1" ili="wikidata-sv-L1521160-S1">
+    <Synset id="wikidata-sv-L1521160-S1" ili="wikidata-sv-L1521160-S1" partOfSpeech="m">
       <Definition>som kommer på plats sextusen i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35648-S1" ili="l1385-s1">
+    <Synset id="wikidata-sv-L35648-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>samordnar språkliga enheter (ord, fraser, satsdelar och satser) på samma grammatiska nivå </Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35696-S1" ili="wikidata-sv-L35696-S1">
+    <Synset id="wikidata-sv-L35696-S1" ili="wikidata-sv-L35696-S1" partOfSpeech="h">
       <Definition>inte den tidigare nämnda</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L45643-S1" ili="l371-s1">
+    <Synset id="wikidata-sv-L45643-S1" ili="l371-s1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L45643-S2" ili="wikidata-sv-L45643-S2">
+    <Synset id="wikidata-sv-L45643-S2" ili="wikidata-sv-L45643-S2" partOfSpeech="h">
       <Definition>könsneutralt personligt pronomen som används för att beteckna en person vars könstillhörighet är irrelevant eller okänd</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L45643-S3" ili="wikidata-sv-L45643-S3">
+    <Synset id="wikidata-sv-L45643-S3" ili="wikidata-sv-L45643-S3" partOfSpeech="h">
       <Definition>personligt pronomen som används för att beteckna en person med icke-binär könstillhörighet</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46909-S1" ili="wikidata-sv-L46909-S1">
+    <Synset id="wikidata-sv-L46909-S1" ili="wikidata-sv-L46909-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46983-S1" ili="wikidata-sv-L46983-S1">
+    <Synset id="wikidata-sv-L46983-S1" ili="wikidata-sv-L46983-S1" partOfSpeech="m">
       <Definition>tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46991-S1" ili="wikidata-sv-L46991-S1">
+    <Synset id="wikidata-sv-L46991-S1" ili="wikidata-sv-L46991-S1" partOfSpeech="m">
       <Definition>siffran 19</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47269-S1" ili="wikidata-sv-L47269-S1">
+    <Synset id="wikidata-sv-L47269-S1" ili="wikidata-sv-L47269-S1" partOfSpeech="p">
       <Definition>uttrycker syfte</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47780-S1" ili="wikidata-sv-L47780-S1">
+    <Synset id="wikidata-sv-L47780-S1" ili="wikidata-sv-L47780-S1" partOfSpeech="m">
       <Definition>som har nummer sexton (16) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L48041-S1" ili="wikidata-sv-L48041-S1">
+    <Synset id="wikidata-sv-L48041-S1" ili="wikidata-sv-L48041-S1" partOfSpeech="m">
       <Definition>siffran 40</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L238183-S1" ili="wikidata-sv-L238183-S1">
+    <Synset id="wikidata-sv-L238183-S1" ili="wikidata-sv-L238183-S1" partOfSpeech="p">
       <Definition>riktning från referenspunkten</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L244178-S1" ili="wikidata-sv-L244178-S1">
+    <Synset id="wikidata-sv-L244178-S1" ili="wikidata-sv-L244178-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L400273-S1" ili="wikidata-sv-L400273-S1">
+    <Synset id="wikidata-sv-L400273-S1" ili="wikidata-sv-L400273-S1" partOfSpeech="p">
       <Definition>vid sidan av</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L475078-S1" ili="wikidata-sv-L475078-S1">
+    <Synset id="wikidata-sv-L475078-S1" ili="wikidata-sv-L475078-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L479652-S1" ili="wikidata-sv-L479652-S1">
+    <Synset id="wikidata-sv-L479652-S1" ili="wikidata-sv-L479652-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L851090-S1" ili="wikidata-sv-L851090-S1">
+    <Synset id="wikidata-sv-L851090-S1" ili="wikidata-sv-L851090-S1" partOfSpeech="affix">
       <Definition>slang för gammal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1144384-S1" ili="wikidata-sv-L1144384-S1">
+    <Synset id="wikidata-sv-L1144384-S1" ili="wikidata-sv-L1144384-S1" partOfSpeech="affix">
       <Definition>både och</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1218359-S1" ili="wikidata-sv-L1218359-S1">
+    <Synset id="wikidata-sv-L1218359-S1" ili="wikidata-sv-L1218359-S1" partOfSpeech="i">
       <Definition>usch; används vid avsmak eller äckel</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1219580-S1" ili="wikidata-sv-L1219580-S1">
+    <Synset id="wikidata-sv-L1219580-S1" ili="wikidata-sv-L1219580-S1" partOfSpeech="i">
       <Definition>ta det lugnt</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1222646-S1" ili="wikidata-sv-L1222646-S1">
+    <Synset id="wikidata-sv-L1222646-S1" ili="wikidata-sv-L1222646-S1" partOfSpeech="i">
       <Definition>var tyst</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1222864-S1" ili="wikidata-sv-L1222864-S1">
+    <Synset id="wikidata-sv-L1222864-S1" ili="wikidata-sv-L1222864-S1" partOfSpeech="i">
       <Definition>god jul (används efter juldagen)</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1222864-S2" ili="wikidata-sv-L1222864-S2">
+    <Synset id="wikidata-sv-L1222864-S2" ili="wikidata-sv-L1222864-S2" partOfSpeech="i">
       <Definition>gott nytår (används efter nyår)</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225768-S1" ili="wikidata-sv-L1225768-S1">
+    <Synset id="wikidata-sv-L1225768-S1" ili="wikidata-sv-L1225768-S1" partOfSpeech="i">
       <Definition>stopp</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1309770-S1" ili="wikidata-sv-L1309770-S1">
+    <Synset id="wikidata-sv-L1309770-S1" ili="wikidata-sv-L1309770-S1" partOfSpeech="r">
       <Definition>springa fort</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1412569-S1" ili="wikidata-sv-L1412569-S1">
+    <Synset id="wikidata-sv-L1412569-S1" ili="wikidata-sv-L1412569-S1" partOfSpeech="locution">
       <Definition>gjort bort sig</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35761-S1" ili="l2987-s1">
+    <Synset id="wikidata-sv-L35761-S1" ili="l2987-s1" partOfSpeech="p">
       <Definition>anger läge inuti något eller innanför någots gränser</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35761-S2" ili="wikidata-sv-L35761-S2">
+    <Synset id="wikidata-sv-L35761-S2" ili="wikidata-sv-L35761-S2" partOfSpeech="p">
       <Definition>något har kommit till uttryck med användning av en viss formell notation; ett datorprogram uttryckt i ett visst programspråk</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46768-S1" ili="wikidata-sv-L46768-S1">
+    <Synset id="wikidata-sv-L46768-S1" ili="wikidata-sv-L46768-S1" partOfSpeech="p">
       <Definition>kvalificerar något (början av något, begivenhet eller dato) som er sket tidigare i förhållande till något annat</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46789-S1" ili="wikidata-sv-L46789-S1">
+    <Synset id="wikidata-sv-L46789-S1" ili="wikidata-sv-L46789-S1" partOfSpeech="subordinating conjunction">
       <Definition>samtidigt som något annat händer</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46988-S1" ili="wikidata-sv-L46988-S1">
+    <Synset id="wikidata-sv-L46988-S1" ili="wikidata-sv-L46988-S1" partOfSpeech="m">
       <Definition>talet mellan nio och elva</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47266-S1" ili="wikidata-sv-L47266-S1">
+    <Synset id="wikidata-sv-L47266-S1" ili="wikidata-sv-L47266-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L59162-S1" ili="wikidata-sv-L59162-S1">
+    <Synset id="wikidata-sv-L59162-S1" ili="wikidata-sv-L59162-S1" partOfSpeech="c">
       <Definition>som till exempel</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L228378-S1" ili="wikidata-sv-L228378-S1">
+    <Synset id="wikidata-sv-L228378-S1" ili="wikidata-sv-L228378-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L231855-S1" ili="wikidata-sv-L231855-S1">
+    <Synset id="wikidata-sv-L231855-S1" ili="wikidata-sv-L231855-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579313-S1" ili="wikidata-sv-L579313-S1">
+    <Synset id="wikidata-sv-L579313-S1" ili="wikidata-sv-L579313-S1" partOfSpeech="affix">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L579744-S1" ili="wikidata-sv-L579744-S1">
+    <Synset id="wikidata-sv-L579744-S1" ili="wikidata-sv-L579744-S1" partOfSpeech="affix">
       <Definition>tillbaka, på nytt, igen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L589003-S1" ili="wikidata-sv-L589003-S1">
+    <Synset id="wikidata-sv-L589003-S1" ili="wikidata-sv-L589003-S1" partOfSpeech="m">
       <Definition>talet 700</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1012193-S1" ili="wikidata-sv-L1012193-S1">
+    <Synset id="wikidata-sv-L1012193-S1" ili="wikidata-sv-L1012193-S1" partOfSpeech="i">
       <Definition>hej</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1157367-S1" ili="wikidata-sv-L1157367-S1">
+    <Synset id="wikidata-sv-L1157367-S1" ili="wikidata-sv-L1157367-S1" partOfSpeech="affix">
       <Definition>liten</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1218500-S1" ili="l1218499-s1">
+    <Synset id="wikidata-sv-L1218500-S1" ili="l1218499-s1" partOfSpeech="i">
       <Definition>lyckönskning</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1331804-S1" ili="wikidata-sv-L1331804-S1">
+    <Synset id="wikidata-sv-L1331804-S1" ili="wikidata-sv-L1331804-S1" partOfSpeech="affix">
       <Definition>suffix som skapar substantiv från verb</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1506003-S1" ili="wikidata-sv-L1506003-S1">
+    <Synset id="wikidata-sv-L1506003-S1" ili="wikidata-sv-L1506003-S1" partOfSpeech="p">
       <Definition>mittemot</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1506589-S1" ili="wikidata-sv-L1506589-S1">
+    <Synset id="wikidata-sv-L1506589-S1" ili="wikidata-sv-L1506589-S1" partOfSpeech="i">
       <Definition>uppmaning till hund att gå och hämta ett föremål</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1524731-S1" ili="wikidata-sv-L1524731-S1">
+    <Synset id="wikidata-sv-L1524731-S1" ili="wikidata-sv-L1524731-S1" partOfSpeech="h">
       <Definition>viss, en del</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L4144-S1" ili="wikidata-sv-L4144-S1">
+    <Synset id="wikidata-sv-L4144-S1" ili="wikidata-sv-L4144-S1" partOfSpeech="m">
       <Definition>siffran 2</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35661-S1" ili="wikidata-sv-L35661-S1">
+    <Synset id="wikidata-sv-L35661-S1" ili="wikidata-sv-L35661-S1" partOfSpeech="c">
       <Definition>används för att binda samman två motsatta eller kontrasterande element</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35721-S1" ili="wikidata-sv-L35721-S1">
+    <Synset id="wikidata-sv-L35721-S1" ili="wikidata-sv-L35721-S1" partOfSpeech="p">
       <Definition>nära eller intill viss plats</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35727-S1" ili="wikidata-sv-L35727-S1">
+    <Synset id="wikidata-sv-L35727-S1" ili="wikidata-sv-L35727-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L45476-S1" ili="l5211-s1">
+    <Synset id="wikidata-sv-L45476-S1" ili="l5211-s1" partOfSpeech="p">
       <Definition>anger frånvaron av något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46704-S1" ili="wikidata-sv-L46704-S1">
+    <Synset id="wikidata-sv-L46704-S1" ili="wikidata-sv-L46704-S1" partOfSpeech="h">
       <Definition>personligt pronomen som refererar till en kvinna</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46771-S1" ili="wikidata-sv-L46771-S1">
+    <Synset id="wikidata-sv-L46771-S1" ili="wikidata-sv-L46771-S1" partOfSpeech="h">
       <Definition>inte någon</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46953-S1" ili="wikidata-sv-L46953-S1">
+    <Synset id="wikidata-sv-L46953-S1" ili="wikidata-sv-L46953-S1" partOfSpeech="m">
       <Definition>räkneordet mellan sju och nio</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46984-S1" ili="wikidata-sv-L46984-S1">
+    <Synset id="wikidata-sv-L46984-S1" ili="wikidata-sv-L46984-S1" partOfSpeech="m">
       <Definition>siffran 9</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47018-S1" ili="wikidata-sv-L47018-S1">
+    <Synset id="wikidata-sv-L47018-S1" ili="wikidata-sv-L47018-S1" partOfSpeech="m">
       <Definition>siffran 4</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47957-S1" ili="wikidata-sv-L47957-S1">
+    <Synset id="wikidata-sv-L47957-S1" ili="wikidata-sv-L47957-S1" partOfSpeech="m">
       <Definition>som har nummer fjorton (14) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L48025-S1" ili="wikidata-sv-L48025-S1">
+    <Synset id="wikidata-sv-L48025-S1" ili="wikidata-sv-L48025-S1" partOfSpeech="m">
       <Definition>som kommer på plats tjugo i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50145-S1" ili="wikidata-sv-L50145-S1">
+    <Synset id="wikidata-sv-L50145-S1" ili="wikidata-sv-L50145-S1" partOfSpeech="h">
       <Definition>som gäller för alla enskilda element av något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50368-S1" ili="wikidata-sv-L50368-S1">
+    <Synset id="wikidata-sv-L50368-S1" ili="wikidata-sv-L50368-S1" partOfSpeech="m">
       <Definition>siffran 50</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50369-S1" ili="wikidata-sv-L50369-S1">
+    <Synset id="wikidata-sv-L50369-S1" ili="wikidata-sv-L50369-S1" partOfSpeech="m">
       <Definition>siffran 60</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L252144-S1" ili="wikidata-sv-L252144-S1">
+    <Synset id="wikidata-sv-L252144-S1" ili="wikidata-sv-L252144-S1" partOfSpeech="affix">
       <Definition>väldigt, mycket</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L347451-S1" ili="wikidata-sv-L347451-S1">
+    <Synset id="wikidata-sv-L347451-S1" ili="wikidata-sv-L347451-S1" partOfSpeech="r">
       <Definition>i sista stund; precis innan det är för sent</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L459116-S1" ili="wikidata-sv-L459116-S1">
+    <Synset id="wikidata-sv-L459116-S1" ili="wikidata-sv-L459116-S1" partOfSpeech="affix">
       <Definition>person som arbetar med eller har expertis inom ett angivet ämnesområde</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L476206-S1" ili="wikidata-sv-L476206-S1">
+    <Synset id="wikidata-sv-L476206-S1" ili="wikidata-sv-L476206-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L482649-S1" ili="wikidata-sv-L482649-S1">
+    <Synset id="wikidata-sv-L482649-S1" ili="wikidata-sv-L482649-S1" partOfSpeech="m">
       <Definition>på plats nr 8</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L482698-S1" ili="l705189-s1">
+    <Synset id="wikidata-sv-L482698-S1" ili="l705189-s1" partOfSpeech="i">
       <Definition>när något inte går som man vill</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L485065-S1" ili="wikidata-sv-L485065-S1">
+    <Synset id="wikidata-sv-L485065-S1" ili="wikidata-sv-L485065-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L496782-S1" ili="wikidata-sv-L496782-S1">
+    <Synset id="wikidata-sv-L496782-S1" ili="wikidata-sv-L496782-S1" partOfSpeech="m">
       <Definition>siffran 20</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L586622-S1" ili="wikidata-sv-L586622-S1">
+    <Synset id="wikidata-sv-L586622-S1" ili="wikidata-sv-L586622-S1" partOfSpeech="m">
       <Definition>siffran 200</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L593973-S1" ili="wikidata-sv-L593973-S1">
+    <Synset id="wikidata-sv-L593973-S1" ili="wikidata-sv-L593973-S1" partOfSpeech="affix">
       <Definition>anger att man talar ett visst språk</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L593973-S2" ili="wikidata-sv-L593973-S2">
+    <Synset id="wikidata-sv-L593973-S2" ili="wikidata-sv-L593973-S2" partOfSpeech="affix">
       <Definition>anger att något är skapat på eller genomförs på ett visst språk</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L740115-S1" ili="wikidata-sv-L740115-S1">
+    <Synset id="wikidata-sv-L740115-S1" ili="wikidata-sv-L740115-S1" partOfSpeech="i">
       <Definition>hälsningsfras när man träffar nån</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1012192-S1" ili="wikidata-sv-L1012192-S1">
+    <Synset id="wikidata-sv-L1012192-S1" ili="wikidata-sv-L1012192-S1" partOfSpeech="i">
       <Definition>hej</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1121939-S1" ili="wikidata-sv-L1121939-S1">
+    <Synset id="wikidata-sv-L1121939-S1" ili="wikidata-sv-L1121939-S1" partOfSpeech="affix">
       <Definition>något som har med elteknik att göra</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1132766-S1" ili="wikidata-sv-L1132766-S1">
+    <Synset id="wikidata-sv-L1132766-S1" ili="wikidata-sv-L1132766-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1218367-S1" ili="wikidata-sv-L1218367-S1">
+    <Synset id="wikidata-sv-L1218367-S1" ili="wikidata-sv-L1218367-S1" partOfSpeech="i">
       <Definition>används för att uttrycka avsmak eller leda</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S1" ili="wikidata-sv-L1225578-S1">
+    <Synset id="wikidata-sv-L1225578-S1" ili="wikidata-sv-L1225578-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S2" ili="wikidata-sv-L1225578-S2">
+    <Synset id="wikidata-sv-L1225578-S2" ili="wikidata-sv-L1225578-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S3" ili="wikidata-sv-L1225578-S3">
+    <Synset id="wikidata-sv-L1225578-S3" ili="wikidata-sv-L1225578-S3" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S4" ili="wikidata-sv-L1225578-S4">
+    <Synset id="wikidata-sv-L1225578-S4" ili="wikidata-sv-L1225578-S4" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S5" ili="wikidata-sv-L1225578-S5">
+    <Synset id="wikidata-sv-L1225578-S5" ili="wikidata-sv-L1225578-S5" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S6" ili="wikidata-sv-L1225578-S6">
+    <Synset id="wikidata-sv-L1225578-S6" ili="wikidata-sv-L1225578-S6" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1225578-S7" ili="wikidata-sv-L1225578-S7">
+    <Synset id="wikidata-sv-L1225578-S7" ili="wikidata-sv-L1225578-S7" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1227087-S1" ili="wikidata-sv-L1227087-S1">
+    <Synset id="wikidata-sv-L1227087-S1" ili="wikidata-sv-L1227087-S1" partOfSpeech="r">
       <Definition>när man hoppas att lyckas med något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1400442-S1" ili="wikidata-sv-L1400442-S1">
+    <Synset id="wikidata-sv-L1400442-S1" ili="wikidata-sv-L1400442-S1" partOfSpeech="i">
       <Definition>uttryck för att gratulera någon, ofta vid firande eller lyckliga händelser</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1518921-S1" ili="wikidata-sv-L1518921-S1">
+    <Synset id="wikidata-sv-L1518921-S1" ili="wikidata-sv-L1518921-S1" partOfSpeech="c">
       <Definition>och</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35695-S1" ili="wikidata-sv-L35695-S1">
+    <Synset id="wikidata-sv-L35695-S1" ili="wikidata-sv-L35695-S1" partOfSpeech="h">
       <Definition>hela mängden</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35720-S1" ili="wikidata-sv-L35720-S1">
+    <Synset id="wikidata-sv-L35720-S1" ili="wikidata-sv-L35720-S1" partOfSpeech="p">
       <Definition>i riktning mot något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35760-S1" ili="wikidata-sv-L35760-S1">
+    <Synset id="wikidata-sv-L35760-S1" ili="wikidata-sv-L35760-S1" partOfSpeech="p">
       <Definition>betyder att nånting är pågående</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46883-S1" ili="wikidata-sv-L46883-S1">
+    <Synset id="wikidata-sv-L46883-S1" ili="wikidata-sv-L46883-S1" partOfSpeech="h">
       <Definition>metafysiskt begrepp om allt som finns</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46985-S1" ili="wikidata-sv-L46985-S1">
+    <Synset id="wikidata-sv-L46985-S1" ili="wikidata-sv-L46985-S1" partOfSpeech="m">
       <Definition>siffran 16</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46987-S1" ili="wikidata-sv-L46987-S1">
+    <Synset id="wikidata-sv-L46987-S1" ili="wikidata-sv-L46987-S1" partOfSpeech="m">
       <Definition>naturligt tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47708-S1" ili="wikidata-sv-L47708-S1">
+    <Synset id="wikidata-sv-L47708-S1" ili="wikidata-sv-L47708-S1" partOfSpeech="affix">
       <Definition>ändelse som betecknar att någon egenskap saknas</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47781-S1" ili="wikidata-sv-L47781-S1">
+    <Synset id="wikidata-sv-L47781-S1" ili="wikidata-sv-L47781-S1" partOfSpeech="m">
       <Definition>som har nummer femton (15) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50371-S1" ili="wikidata-sv-L50371-S1">
+    <Synset id="wikidata-sv-L50371-S1" ili="wikidata-sv-L50371-S1" partOfSpeech="m">
       <Definition>siffran 70</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50380-S1" ili="wikidata-sv-L50380-S1">
+    <Synset id="wikidata-sv-L50380-S1" ili="wikidata-sv-L50380-S1" partOfSpeech="m">
       <Definition>siffran 45</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L230289-S1" ili="wikidata-sv-L230289-S1">
+    <Synset id="wikidata-sv-L230289-S1" ili="wikidata-sv-L230289-S1" partOfSpeech="affix">
       <Definition>binde-o som limmar ihop ord som tex. födokälla</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L347189-S1" ili="wikidata-sv-L347189-S1">
+    <Synset id="wikidata-sv-L347189-S1" ili="wikidata-sv-L347189-S1" partOfSpeech="i">
       <Definition>ett sätt att visa uppskattning</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L450790-S1" ili="wikidata-sv-L450790-S1">
+    <Synset id="wikidata-sv-L450790-S1" ili="wikidata-sv-L450790-S1" partOfSpeech="p">
       <Definition>i riktning mot strömmen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L479651-S1" ili="wikidata-sv-L479651-S1">
+    <Synset id="wikidata-sv-L479651-S1" ili="wikidata-sv-L479651-S1" partOfSpeech="i">
       <Definition>uttrycker affirmerande</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1019377-S1" ili="wikidata-sv-L1019377-S1">
+    <Synset id="wikidata-sv-L1019377-S1" ili="wikidata-sv-L1019377-S1" partOfSpeech="affix">
       <Definition>mera än en</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1160762-S1" ili="wikidata-sv-L1160762-S1">
+    <Synset id="wikidata-sv-L1160762-S1" ili="wikidata-sv-L1160762-S1" partOfSpeech="affix">
       <Definition>ljudhärmande</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1218369-S1" ili="wikidata-sv-L1218369-S1">
+    <Synset id="wikidata-sv-L1218369-S1" ili="wikidata-sv-L1218369-S1" partOfSpeech="i">
       <Definition>kraftuttryck vid avsmak, leda, äckel</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1320153-S1" ili="wikidata-sv-L1320153-S1">
+    <Synset id="wikidata-sv-L1320153-S1" ili="wikidata-sv-L1320153-S1" partOfSpeech="r">
       <Definition>inget att oroa sig för</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35650-S1" ili="wikidata-sv-L35650-S1">
+    <Synset id="wikidata-sv-L35650-S1" ili="wikidata-sv-L35650-S1" partOfSpeech="p">
       <Definition>något som är över och i kontakt med något annat</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35650-S2" ili="wikidata-sv-L35650-S2">
+    <Synset id="wikidata-sv-L35650-S2" ili="wikidata-sv-L35650-S2" partOfSpeech="p">
       <Definition>något som har kommit till uttryck med användning av ettvisst naturligt språk eller en viss dialekt</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35710-S1" ili="wikidata-sv-L35710-S1">
+    <Synset id="wikidata-sv-L35710-S1" ili="wikidata-sv-L35710-S1" partOfSpeech="h">
       <Definition>som tillhör mig</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35723-S1" ili="wikidata-sv-L35723-S1">
+    <Synset id="wikidata-sv-L35723-S1" ili="wikidata-sv-L35723-S1" partOfSpeech="y">
       <Definition>anger verbets grundform</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L35763-S2" ili="wikidata-sv-L35763-S2">
+    <Synset id="wikidata-sv-L35763-S2" ili="wikidata-sv-L35763-S2" partOfSpeech="p">
       <Definition>från insidan av något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46751-S1" ili="wikidata-sv-L46751-S1">
+    <Synset id="wikidata-sv-L46751-S1" ili="wikidata-sv-L46751-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46772-S1" ili="wikidata-sv-L46772-S1">
+    <Synset id="wikidata-sv-L46772-S1" ili="wikidata-sv-L46772-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46889-S1" ili="wikidata-sv-L46889-S1">
+    <Synset id="wikidata-sv-L46889-S1" ili="wikidata-sv-L46889-S1" partOfSpeech="m">
       <Definition>som har nummer tre (3) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46906-S1" ili="wikidata-sv-L46906-S1">
+    <Synset id="wikidata-sv-L46906-S1" ili="wikidata-sv-L46906-S1" partOfSpeech="m">
       <Definition>som kommer på plats fyra i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46908-S1" ili="wikidata-sv-L46908-S1">
+    <Synset id="wikidata-sv-L46908-S1" ili="wikidata-sv-L46908-S1" partOfSpeech="m">
       <Definition>som kommer på plats sex i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L46986-S1" ili="wikidata-sv-L46986-S1">
+    <Synset id="wikidata-sv-L46986-S1" ili="wikidata-sv-L46986-S1" partOfSpeech="m">
       <Definition>naturligt tal</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47782-S1" ili="wikidata-sv-L47782-S1">
+    <Synset id="wikidata-sv-L47782-S1" ili="wikidata-sv-L47782-S1" partOfSpeech="m">
       <Definition>som har nummer tretton (13) i ordningen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L47887-S1" ili="wikidata-sv-L47887-S1">
+    <Synset id="wikidata-sv-L47887-S1" ili="wikidata-sv-L47887-S1" partOfSpeech="h">
       <Definition>personligt pronomen</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L50372-S1" ili="wikidata-sv-L50372-S1">
+    <Synset id="wikidata-sv-L50372-S1" ili="wikidata-sv-L50372-S1" partOfSpeech="m">
       <Definition>siffran 30</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L54533-S1" ili="wikidata-sv-L54533-S1">
+    <Synset id="wikidata-sv-L54533-S1" ili="wikidata-sv-L54533-S1" partOfSpeech="c">
       <Definition>trots att</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L238179-S1" ili="wikidata-sv-L238179-S1">
+    <Synset id="wikidata-sv-L238179-S1" ili="wikidata-sv-L238179-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L246342-S1" ili="wikidata-sv-L246342-S1">
+    <Synset id="wikidata-sv-L246342-S1" ili="wikidata-sv-L246342-S1" partOfSpeech="i">
       <Definition>informell hälsning</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L246342-S3" ili="wikidata-sv-L246342-S3">
+    <Synset id="wikidata-sv-L246342-S3" ili="wikidata-sv-L246342-S3" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L404552-S1" ili="wikidata-sv-L404552-S1">
+    <Synset id="wikidata-sv-L404552-S1" ili="wikidata-sv-L404552-S1" partOfSpeech="h">
       <Definition>utan hjälp eller påverkan</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L404552-S2" ili="wikidata-sv-L404552-S2">
+    <Synset id="wikidata-sv-L404552-S2" ili="wikidata-sv-L404552-S2" partOfSpeech="h">
       <Definition>ensam</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L409098-S1" ili="wikidata-sv-L409098-S1">
+    <Synset id="wikidata-sv-L409098-S1" ili="wikidata-sv-L409098-S1" partOfSpeech="p">
       <Definition>passerande</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L456506-S1" ili="wikidata-sv-L456506-S1">
+    <Synset id="wikidata-sv-L456506-S1" ili="wikidata-sv-L456506-S1" partOfSpeech="affix">
       <Definition>som har att göra med livet eller levande organismer</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L588746-S1" ili="wikidata-sv-L588746-S1">
+    <Synset id="wikidata-sv-L588746-S1" ili="wikidata-sv-L588746-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L592646-S2" ili="wikidata-sv-L592646-S2">
+    <Synset id="wikidata-sv-L592646-S2" ili="wikidata-sv-L592646-S2" partOfSpeech="affix">
       <Definition>indikerar att något gäller eller kan användas endast en gång</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L628365-S1" ili="wikidata-sv-L628365-S1">
+    <Synset id="wikidata-sv-L628365-S1" ili="wikidata-sv-L628365-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1158714-S1" ili="wikidata-sv-L1158714-S1">
+    <Synset id="wikidata-sv-L1158714-S1" ili="wikidata-sv-L1158714-S1" partOfSpeech="i">
       <Definition>verbal smekning som utbyts vid sänggående</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1216669-S1" ili="wikidata-sv-L1216669-S1">
+    <Synset id="wikidata-sv-L1216669-S1" ili="wikidata-sv-L1216669-S1" partOfSpeech="affix">
       <Definition>som har med döden att göra</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1309771-S1" ili="wikidata-sv-L1309771-S1">
+    <Synset id="wikidata-sv-L1309771-S1" ili="wikidata-sv-L1309771-S1" partOfSpeech="r">
       <Definition>när man hoppas att lyckas med något</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1508386-S1" ili="wikidata-sv-L1508386-S1">
+    <Synset id="wikidata-sv-L1508386-S1" ili="wikidata-sv-L1508386-S1" partOfSpeech="i">
       <Definition>utrop av irritation</Definition>
     </Synset>
-    <Synset id="wikidata-sv-L1521969-S1" ili="wikidata-sv-L1521969-S1">
+    <Synset id="wikidata-sv-L1521969-S1" ili="wikidata-sv-L1521969-S1" partOfSpeech="affix">
       <Definition>som har med självmord att göra</Definition>
     </Synset>
   </LexiconExtension>

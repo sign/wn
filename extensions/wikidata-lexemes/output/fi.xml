@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-fi" version="1.4"/>
     <LexicalEntry id="L12129">
-      <Lemma writtenForm="eli" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="eli" partOfSpeech="c"/>
       <Sense id="L12129-S1" synset="wikidata-fi-L12129-S1" ili="wikidata-fi-L12129-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1117039">
-      <Lemma writtenForm="jumaliste" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumaliste" partOfSpeech="i"/>
       <Sense id="L1117039-S1" synset="wikidata-fi-L1117039-S1" ili="wikidata-fi-L1117039-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -27,67 +27,67 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143113">
-      <Lemma writtenForm="kunnes" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="kunnes" partOfSpeech="c"/>
       <Sense id="L1143113-S1" synset="wikidata-fi-L1143113-S1" ili="wikidata-fi-L1143113-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149299">
-      <Lemma writtenForm="jukupätkä" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukupätkä" partOfSpeech="i"/>
       <Sense id="L1149299-S1" synset="wikidata-fi-L1149299-S1" ili="wikidata-fi-L1149299-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1236833">
-      <Lemma writtenForm="moro" partOfSpeech="interjection"/>
+      <Lemma writtenForm="moro" partOfSpeech="i"/>
       <Sense id="L1236833-S1" synset="wikidata-fi-L1236833-S1" ili="wikidata-fi-L1236833-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L10939">
-      <Lemma writtenForm="että" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="että" partOfSpeech="c"/>
       <Sense id="L10939-S1" synset="wikidata-fi-L10939-S1" ili="wikidata-fi-L10939-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L12133">
-      <Lemma writtenForm="jos" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="jos" partOfSpeech="c"/>
       <Sense id="L12133-S1" synset="wikidata-fi-L12133-S1" ili="wikidata-fi-L12133-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149295">
-      <Lemma writtenForm="jukra" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukra" partOfSpeech="i"/>
       <Sense id="L1149295-S1" synset="wikidata-fi-L1149295-S1" ili="wikidata-fi-L1149295-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149298">
-      <Lemma writtenForm="jukuliste" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukuliste" partOfSpeech="i"/>
       <Sense id="L1149298-S1" synset="wikidata-fi-L1149298-S1" ili="wikidata-fi-L1149298-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6499">
-      <Lemma writtenForm="sinä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="sinä" partOfSpeech="h"/>
       <Sense id="L6499-S1" synset="wikidata-fi-L6499-S1" ili="wikidata-fi-L6499-S1">
         <Definition>yksikön toisen persoonan pronomini</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6501">
-      <Lemma writtenForm="me" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="me" partOfSpeech="h"/>
       <Sense id="L6501-S1" synset="wikidata-fi-L6501-S1" ili="wikidata-fi-L6501-S1">
         <Definition>monikon ensimmäisen persoonan pronomini</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477599">
-      <Lemma writtenForm="biljoona" partOfSpeech="numeral"/>
+      <Lemma writtenForm="biljoona" partOfSpeech="m"/>
       <Sense id="L477599-S1" synset="wikidata-fi-L477599-S1" ili="wikidata-fi-L477599-S1">
         <Definition>miljoona miljoonaa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132755">
-      <Lemma writtenForm="jumatsukka" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumatsukka" partOfSpeech="i"/>
       <Sense id="L1132755-S1" synset="wikidata-fi-L1132755-S1" ili="wikidata-fi-L1132755-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -99,33 +99,33 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142310">
-      <Lemma writtenForm="tää" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="tää" partOfSpeech="h"/>
       <Sense id="L1142310-S1" synset="wikidata-fi-L1142310-S1" ili="wikidata-fi-L1142310-S1">
         <Definition>osoittaessa tai viitattaessa johonkin aivan puhujan lähellä olevaan asiaan, esineeseen tai ihmiseen</Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L39639-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149294">
-      <Lemma writtenForm="jukopliut" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukopliut" partOfSpeech="i"/>
       <Sense id="L1149294-S1" synset="wikidata-fi-L1149294-S1" ili="wikidata-fi-L1149294-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1508601">
-      <Lemma writtenForm="kys" partOfSpeech="interjection"/>
+      <Lemma writtenForm="kys" partOfSpeech="i"/>
       <Sense id="L1508601-S1" synset="wikidata-fi-L1508601-S1" ili="wikidata-fi-L1508601-S1">
         <Definition>kotieläimiä ajettaessa tai kutsuttaessa</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6498">
-      <Lemma writtenForm="minä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="minä" partOfSpeech="h"/>
       <Sense id="L6498-S1" synset="wikidata-fi-L6498-S1" ili="wikidata-fi-L6498-S1">
         <Definition>yksikön ensimmäisen persoonan pronomini</Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1116863-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L12130">
-      <Lemma writtenForm="muu" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="muu" partOfSpeech="h"/>
       <Sense id="L12130-S1" synset="wikidata-fi-L12130-S1" ili="wikidata-fi-L12130-S1">
         <Definition>joku toinen henkilö tai jokin toinen asia, kuin mitä käsiteltiin aikaisemmin</Definition>
         <Example>Ihmisiä juoksi pitkin saarta, ja karhut, pukit, hirvet, sudet, ketut ja kaikki muut eläimet niiden jäljestä.</Example>
@@ -133,20 +133,20 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L35766">
-      <Lemma writtenForm="tai" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="tai" partOfSpeech="c"/>
       <Sense id="L35766-S1" synset="wikidata-fi-L35766-S1" ili="wikidata-fi-L35766-S1">
         <Definition>rinnastuskonjuktio, joka liittää yhteen vaihtoehtoina esitettäviä sanoja tai lauseita</Definition>
         <Example>Äidinkielenä opetetaan oppilaitoksen opetuskielen mukaisesti suomea tai ruotsia tai opiskelijan äidinkielen mukaisesti saamen kieltä.</Example>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L39640">
-      <Lemma writtenForm="nämä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="nämä" partOfSpeech="h"/>
       <Sense id="L39640-S1" synset="wikidata-fi-L39640-S1" ili="wikidata-fi-L39640-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1142314">
-      <Lemma writtenForm="toinen" partOfSpeech="determiner"/>
+      <Lemma writtenForm="toinen" partOfSpeech="d"/>
       <Sense id="L1142314-S1" synset="wikidata-fi-L1142314-S1" ili="wikidata-fi-L1142314-S1">
         <Definition></Definition>
       </Sense>
@@ -158,50 +158,50 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149292">
-      <Lemma writtenForm="jukoliste" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukoliste" partOfSpeech="i"/>
       <Sense id="L1149292-S1" synset="wikidata-fi-L1149292-S1" ili="wikidata-fi-L1149292-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149297">
-      <Lemma writtenForm="jukulauta" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukulauta" partOfSpeech="i"/>
       <Sense id="L1149297-S1" synset="wikidata-fi-L1149297-S1" ili="wikidata-fi-L1149297-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1333446">
-      <Lemma writtenForm="mikä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="mikä" partOfSpeech="h"/>
       <Sense id="L1333446-S1" synset="wikidata-fi-L1333446-S1" ili="wikidata-fi-L1333446-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6504">
-      <Lemma writtenForm="se" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="se" partOfSpeech="h"/>
       <Sense id="L6504-S1" synset="wikidata-fi-L6504-S1" ili="wikidata-fi-L6504-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L10933">
-      <Lemma writtenForm="ja" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ja" partOfSpeech="c"/>
       <Sense id="L10933-S1" synset="wikidata-fi-L10933-S1" ili="wikidata-fi-L10933-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L38034">
-      <Lemma writtenForm="mutta" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="mutta" partOfSpeech="c"/>
       <Sense id="L38034-S1" synset="wikidata-fi-L38034-S1" ili="wikidata-fi-L38034-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L39639">
-      <Lemma writtenForm="tämä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="tämä" partOfSpeech="h"/>
       <Sense id="L39639-S1" synset="wikidata-fi-L39639-S1" ili="wikidata-fi-L39639-S1">
         <Definition>osoittaessa tai viitattaessa johonkin aivan puhujan lähellä olevaan asiaan, esineeseen tai ihmiseen</Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1142310-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1116863">
-      <Lemma writtenForm="mä" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="mä" partOfSpeech="h"/>
       <Sense id="L1116863-S1" synset="wikidata-fi-L1116863-S1" ili="wikidata-fi-L1116863-S1">
         <Definition></Definition>
         <Example>Parketti kutsuu mua ku en oo enää lukossa / Niinku cha cha cha mä oon tulossa</Example>
@@ -209,43 +209,43 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143104">
-      <Lemma writtenForm="muutama" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="muutama" partOfSpeech="h"/>
       <Sense id="L1143104-S1" synset="wikidata-fi-L1143104-S1" ili="wikidata-fi-L1143104-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149296">
-      <Lemma writtenForm="jukraviti" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukraviti" partOfSpeech="i"/>
       <Sense id="L1149296-S1" synset="wikidata-fi-L1149296-S1" ili="wikidata-fi-L1149296-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149300">
-      <Lemma writtenForm="jusulauta" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jusulauta" partOfSpeech="i"/>
       <Sense id="L1149300-S1" synset="wikidata-fi-L1149300-S1" ili="wikidata-fi-L1149300-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149301">
-      <Lemma writtenForm="jusupliut" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jusupliut" partOfSpeech="i"/>
       <Sense id="L1149301-S1" synset="wikidata-fi-L1149301-S1" ili="wikidata-fi-L1149301-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6500">
-      <Lemma writtenForm="hän" partOfSpeech="pronoun"/>
+      <Lemma writtenForm="hän" partOfSpeech="h"/>
       <Sense id="L6500-S1" synset="wikidata-fi-L6500-S1" ili="wikidata-fi-L6500-S1">
         <Definition>yksikön kolmannen persoonan pronomini</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L12131">
-      <Lemma writtenForm="kun" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="kun" partOfSpeech="c"/>
       <Sense id="L12131-S1" synset="wikidata-fi-L12131-S1" ili="wikidata-fi-L12131-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132754">
-      <Lemma writtenForm="jumankekka" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumankekka" partOfSpeech="i"/>
       <Sense id="L1132754-S1" synset="wikidata-fi-L1132754-S1" ili="wikidata-fi-L1132754-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -257,13 +257,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1149293">
-      <Lemma writtenForm="jukopätkä" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jukopätkä" partOfSpeech="i"/>
       <Sense id="L1149293-S1" synset="wikidata-fi-L1149293-S1" ili="wikidata-fi-L1149293-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6503">
-      <Lemma writtenForm="he" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="he" partOfSpeech="h"/>
       <Sense id="L6503-S1" synset="wikidata-fi-L6503-S1" ili="wikidata-fi-L6503-S1">
         <Definition>monikon 3. persoonan pronomini</Definition>
         <Example>He puhelivat keskenään hiljaisella äänellä.</Example>
@@ -271,7 +271,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132756">
-      <Lemma writtenForm="jumalavita" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumalavita" partOfSpeech="i"/>
       <Sense id="L1132756-S1" synset="wikidata-fi-L1132756-S1" ili="wikidata-fi-L1132756-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -283,13 +283,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6502">
-      <Lemma writtenForm="te" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="te" partOfSpeech="h"/>
       <Sense id="L6502-S1" synset="wikidata-fi-L6502-S1" ili="wikidata-fi-L6502-S1">
         <Definition>monikon toisen persoonan pronomini</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1117038">
-      <Lemma writtenForm="jumalauta" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumalauta" partOfSpeech="i"/>
       <Sense id="L1117038-S1" synset="wikidata-fi-L1117038-S1" ili="wikidata-fi-L1117038-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117039-S1"/>
@@ -301,7 +301,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132753">
-      <Lemma writtenForm="jumankauta" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumankauta" partOfSpeech="i"/>
       <Sense id="L1132753-S1" synset="wikidata-fi-L1132753-S1" ili="wikidata-fi-L1132753-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -313,7 +313,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1132757">
-      <Lemma writtenForm="jumaliuta" partOfSpeech="interjection"/>
+      <Lemma writtenForm="jumaliuta" partOfSpeech="i"/>
       <Sense id="L1132757-S1" synset="wikidata-fi-L1132757-S1" ili="wikidata-fi-L1132757-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-fi-L1117038-S1"/>
@@ -325,144 +325,144 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1143116">
-      <Lemma writtenForm="ku" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ku" partOfSpeech="c"/>
       <Sense id="L1143116-S1" synset="wikidata-fi-L1143116-S1" ili="wikidata-fi-L1143116-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-fi-L12129-S1" ili="wikidata-fi-L12129-S1">
+    <Synset id="wikidata-fi-L12129-S1" ili="wikidata-fi-L12129-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1117039-S1" ili="wikidata-fi-L1117039-S1">
+    <Synset id="wikidata-fi-L1117039-S1" ili="wikidata-fi-L1117039-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1143113-S1" ili="wikidata-fi-L1143113-S1">
+    <Synset id="wikidata-fi-L1143113-S1" ili="wikidata-fi-L1143113-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149299-S1" ili="wikidata-fi-L1149299-S1">
+    <Synset id="wikidata-fi-L1149299-S1" ili="wikidata-fi-L1149299-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1236833-S1" ili="wikidata-fi-L1236833-S1">
+    <Synset id="wikidata-fi-L1236833-S1" ili="wikidata-fi-L1236833-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L10939-S1" ili="wikidata-fi-L10939-S1">
+    <Synset id="wikidata-fi-L10939-S1" ili="wikidata-fi-L10939-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L12133-S1" ili="wikidata-fi-L12133-S1">
+    <Synset id="wikidata-fi-L12133-S1" ili="wikidata-fi-L12133-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149295-S1" ili="wikidata-fi-L1149295-S1">
+    <Synset id="wikidata-fi-L1149295-S1" ili="wikidata-fi-L1149295-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149298-S1" ili="wikidata-fi-L1149298-S1">
+    <Synset id="wikidata-fi-L1149298-S1" ili="wikidata-fi-L1149298-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6499-S1" ili="wikidata-fi-L6499-S1">
+    <Synset id="wikidata-fi-L6499-S1" ili="wikidata-fi-L6499-S1" partOfSpeech="h">
       <Definition>yksikön toisen persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6501-S1" ili="wikidata-fi-L6501-S1">
+    <Synset id="wikidata-fi-L6501-S1" ili="wikidata-fi-L6501-S1" partOfSpeech="h">
       <Definition>monikon ensimmäisen persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L477599-S1" ili="wikidata-fi-L477599-S1">
+    <Synset id="wikidata-fi-L477599-S1" ili="wikidata-fi-L477599-S1" partOfSpeech="m">
       <Definition>miljoona miljoonaa</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1132755-S1" ili="wikidata-fi-L1132755-S1">
+    <Synset id="wikidata-fi-L1132755-S1" ili="wikidata-fi-L1132755-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1142310-S1" ili="wikidata-fi-L1142310-S1">
+    <Synset id="wikidata-fi-L1142310-S1" ili="wikidata-fi-L1142310-S1" partOfSpeech="h">
       <Definition>osoittaessa tai viitattaessa johonkin aivan puhujan lähellä olevaan asiaan, esineeseen tai ihmiseen</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149294-S1" ili="wikidata-fi-L1149294-S1">
+    <Synset id="wikidata-fi-L1149294-S1" ili="wikidata-fi-L1149294-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1508601-S1" ili="wikidata-fi-L1508601-S1">
+    <Synset id="wikidata-fi-L1508601-S1" ili="wikidata-fi-L1508601-S1" partOfSpeech="i">
       <Definition>kotieläimiä ajettaessa tai kutsuttaessa</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6498-S1" ili="wikidata-fi-L6498-S1">
+    <Synset id="wikidata-fi-L6498-S1" ili="wikidata-fi-L6498-S1" partOfSpeech="h">
       <Definition>yksikön ensimmäisen persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L12130-S1" ili="wikidata-fi-L12130-S1">
+    <Synset id="wikidata-fi-L12130-S1" ili="wikidata-fi-L12130-S1" partOfSpeech="h">
       <Definition>joku toinen henkilö tai jokin toinen asia, kuin mitä käsiteltiin aikaisemmin</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L35766-S1" ili="wikidata-fi-L35766-S1">
+    <Synset id="wikidata-fi-L35766-S1" ili="wikidata-fi-L35766-S1" partOfSpeech="c">
       <Definition>rinnastuskonjuktio, joka liittää yhteen vaihtoehtoina esitettäviä sanoja tai lauseita</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L39640-S1" ili="wikidata-fi-L39640-S1">
+    <Synset id="wikidata-fi-L39640-S1" ili="wikidata-fi-L39640-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1142314-S1" ili="wikidata-fi-L1142314-S1">
+    <Synset id="wikidata-fi-L1142314-S1" ili="wikidata-fi-L1142314-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1142684-S1" ili="wikidata-fi-L1142684-S1">
+    <Synset id="wikidata-fi-L1142684-S1" ili="wikidata-fi-L1142684-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149292-S1" ili="wikidata-fi-L1149292-S1">
+    <Synset id="wikidata-fi-L1149292-S1" ili="wikidata-fi-L1149292-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149297-S1" ili="wikidata-fi-L1149297-S1">
+    <Synset id="wikidata-fi-L1149297-S1" ili="wikidata-fi-L1149297-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1333446-S1" ili="wikidata-fi-L1333446-S1">
+    <Synset id="wikidata-fi-L1333446-S1" ili="wikidata-fi-L1333446-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6504-S1" ili="wikidata-fi-L6504-S1">
+    <Synset id="wikidata-fi-L6504-S1" ili="wikidata-fi-L6504-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L10933-S1" ili="wikidata-fi-L10933-S1">
+    <Synset id="wikidata-fi-L10933-S1" ili="wikidata-fi-L10933-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L38034-S1" ili="wikidata-fi-L38034-S1">
+    <Synset id="wikidata-fi-L38034-S1" ili="wikidata-fi-L38034-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L39639-S1" ili="wikidata-fi-L39639-S1">
+    <Synset id="wikidata-fi-L39639-S1" ili="wikidata-fi-L39639-S1" partOfSpeech="h">
       <Definition>osoittaessa tai viitattaessa johonkin aivan puhujan lähellä olevaan asiaan, esineeseen tai ihmiseen</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1116863-S1" ili="wikidata-fi-L1116863-S1">
+    <Synset id="wikidata-fi-L1116863-S1" ili="wikidata-fi-L1116863-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1143104-S1" ili="wikidata-fi-L1143104-S1">
+    <Synset id="wikidata-fi-L1143104-S1" ili="wikidata-fi-L1143104-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149296-S1" ili="wikidata-fi-L1149296-S1">
+    <Synset id="wikidata-fi-L1149296-S1" ili="wikidata-fi-L1149296-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149300-S1" ili="wikidata-fi-L1149300-S1">
+    <Synset id="wikidata-fi-L1149300-S1" ili="wikidata-fi-L1149300-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149301-S1" ili="wikidata-fi-L1149301-S1">
+    <Synset id="wikidata-fi-L1149301-S1" ili="wikidata-fi-L1149301-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6500-S1" ili="wikidata-fi-L6500-S1">
+    <Synset id="wikidata-fi-L6500-S1" ili="wikidata-fi-L6500-S1" partOfSpeech="h">
       <Definition>yksikön kolmannen persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L12131-S1" ili="wikidata-fi-L12131-S1">
+    <Synset id="wikidata-fi-L12131-S1" ili="wikidata-fi-L12131-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1132754-S1" ili="wikidata-fi-L1132754-S1">
+    <Synset id="wikidata-fi-L1132754-S1" ili="wikidata-fi-L1132754-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1149293-S1" ili="wikidata-fi-L1149293-S1">
+    <Synset id="wikidata-fi-L1149293-S1" ili="wikidata-fi-L1149293-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6503-S1" ili="wikidata-fi-L6503-S1">
+    <Synset id="wikidata-fi-L6503-S1" ili="wikidata-fi-L6503-S1" partOfSpeech="h">
       <Definition>monikon 3. persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1132756-S1" ili="wikidata-fi-L1132756-S1">
+    <Synset id="wikidata-fi-L1132756-S1" ili="wikidata-fi-L1132756-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L6502-S1" ili="wikidata-fi-L6502-S1">
+    <Synset id="wikidata-fi-L6502-S1" ili="wikidata-fi-L6502-S1" partOfSpeech="h">
       <Definition>monikon toisen persoonan pronomini</Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1117038-S1" ili="wikidata-fi-L1117038-S1">
+    <Synset id="wikidata-fi-L1117038-S1" ili="wikidata-fi-L1117038-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1132753-S1" ili="wikidata-fi-L1132753-S1">
+    <Synset id="wikidata-fi-L1132753-S1" ili="wikidata-fi-L1132753-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1132757-S1" ili="wikidata-fi-L1132757-S1">
+    <Synset id="wikidata-fi-L1132757-S1" ili="wikidata-fi-L1132757-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-fi-L1143116-S1" ili="wikidata-fi-L1143116-S1">
+    <Synset id="wikidata-fi-L1143116-S1" ili="wikidata-fi-L1143116-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

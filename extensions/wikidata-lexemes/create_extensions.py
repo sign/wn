@@ -6,7 +6,10 @@ from pathlib import Path
 
 import ijson
 import requests
+from _pos_map import POS_MAP
 from tqdm import tqdm
+
+from wn.constants import OTHER
 
 DATA_PATH = Path(__file__).parent / "latest-lexemes.json.bz2"
 EXTENSIONS_DIR = Path(__file__).parent / "output"
@@ -71,6 +74,7 @@ SKIP_POS = {
     "national demonym",
     "toponym",
 }
+
 
 SENSE_RELATIONS = {
     "P5973": "similar",  # synonym
@@ -291,6 +295,7 @@ def build_xml_entry(
     if not pos_q:
         return None
     pos_name = get_label(pos_q)
+    pos_code = POS_MAP.get(pos_name, OTHER)
 
     senses = lexeme.get("senses", [])
     if not senses:
@@ -322,7 +327,9 @@ def build_xml_entry(
         sense_content += "      </Sense>"
         sense_entries.append(sense_content)
 
-        synset_content = f'    <Synset id="{synset_id}"{ili_attr}>\n'
+        synset_content = (
+            f'    <Synset id="{synset_id}"{ili_attr} partOfSpeech="{pos_code}">\n'
+        )
         synset_content += f'      <Definition>{escape_xml(gloss)}</Definition>\n'
         synset_content += "    </Synset>"
         synset_entries.append(synset_content)
@@ -333,7 +340,7 @@ def build_xml_entry(
     entry_xml = (
         f'    <LexicalEntry id="{lexeme_id}">\n'
         f'      <Lemma writtenForm="{escape_xml(lemma)}"'
-        f' partOfSpeech="{escape_xml(pos_name)}"/>\n'
+        f' partOfSpeech="{pos_code}"/>\n'
         + "\n".join(sense_entries)
         + "\n    </LexicalEntry>"
     )

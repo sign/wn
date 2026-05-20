@@ -9,39 +9,39 @@
                     version="1.0">
     <Extends id="omw-ro" version="1.4"/>
     <LexicalEntry id="L941798">
-      <Lemma writtenForm="eu" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="eu" partOfSpeech="h"/>
       <Sense id="L941798-S1" synset="wikidata-ro-L941798-S1" ili="wikidata-ro-L941798-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449929">
-      <Lemma writtenForm="pa" partOfSpeech="interjection"/>
+      <Lemma writtenForm="pa" partOfSpeech="i"/>
       <Sense id="L1449929-S1" synset="wikidata-ro-L1449929-S1" ili="wikidata-ro-L1449929-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L684435">
-      <Lemma writtenForm="unu" partOfSpeech="determiner"/>
+      <Lemma writtenForm="unu" partOfSpeech="d"/>
       <Sense id="L684435-S1" synset="wikidata-ro-L684435-S1" ili="wikidata-ro-L684435-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449931">
-      <Lemma writtenForm="pardon" partOfSpeech="interjection"/>
+      <Lemma writtenForm="pardon" partOfSpeech="i"/>
       <Sense id="L1449931-S1" synset="wikidata-ro-L1449931-S1" ili="wikidata-ro-L1449931-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ro-L941798-S1" ili="wikidata-ro-L941798-S1">
+    <Synset id="wikidata-ro-L941798-S1" ili="wikidata-ro-L941798-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ro-L1449929-S1" ili="wikidata-ro-L1449929-S1">
+    <Synset id="wikidata-ro-L1449929-S1" ili="wikidata-ro-L1449929-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ro-L684435-S1" ili="wikidata-ro-L684435-S1">
+    <Synset id="wikidata-ro-L684435-S1" ili="wikidata-ro-L684435-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ro-L1449931-S1" ili="wikidata-ro-L1449931-S1">
+    <Synset id="wikidata-ro-L1449931-S1" ili="wikidata-ro-L1449931-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

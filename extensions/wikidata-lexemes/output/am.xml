@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-am" version="1.4"/>
     <LexicalEntry id="L700692">
-      <Lemma writtenForm="አንድ" partOfSpeech="numeral"/>
+      <Lemma writtenForm="አንድ" partOfSpeech="m"/>
       <Sense id="L700692-S1" synset="wikidata-am-L700692-S1" ili="wikidata-am-L700692-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-am-L700692-S1" ili="wikidata-am-L700692-S1">
+    <Synset id="wikidata-am-L700692-S1" ili="wikidata-am-L700692-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

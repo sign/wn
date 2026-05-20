@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-wa" version="1.4"/>
     <LexicalEntry id="L941922">
-      <Lemma writtenForm="dji" partOfSpeech="personal pronoun"/>
+      <Lemma writtenForm="dji" partOfSpeech="h"/>
       <Sense id="L941922-S1" synset="wikidata-wa-L941922-S1" ili="wikidata-wa-L941922-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-wa-L941922-S1" ili="wikidata-wa-L941922-S1">
+    <Synset id="wikidata-wa-L941922-S1" ili="wikidata-wa-L941922-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

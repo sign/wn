@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-kw" version="1.4"/>
     <LexicalEntry id="L727357">
-      <Lemma writtenForm="unn" partOfSpeech="numeral"/>
+      <Lemma writtenForm="unn" partOfSpeech="m"/>
       <Sense id="L727357-S1" synset="wikidata-kw-L727357-S1" ili="wikidata-kw-L727357-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305364">
-      <Lemma writtenForm="a" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a" partOfSpeech="p"/>
       <Sense id="L305364-S1" synset="wikidata-kw-L305364-S1" ili="wikidata-kw-L305364-S1">
         <Definition></Definition>
       </Sense>
@@ -24,25 +24,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305365">
-      <Lemma writtenForm="pan" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="pan" partOfSpeech="c"/>
       <Sense id="L305365-S1" synset="wikidata-kw-L305365-S1" ili="wikidata-kw-L305365-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L723026">
-      <Lemma writtenForm="seyth" partOfSpeech="numeral"/>
+      <Lemma writtenForm="seyth" partOfSpeech="m"/>
       <Sense id="L723026-S1" synset="wikidata-kw-L723026-S1" ili="wikidata-kw-L723026-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305363">
-      <Lemma writtenForm="a-ban" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="a-ban" partOfSpeech="c"/>
       <Sense id="L305363-S1" synset="wikidata-kw-L305363-S1" ili="wikidata-kw-L305363-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305372">
-      <Lemma writtenForm="a-barth" partOfSpeech="preposition"/>
+      <Lemma writtenForm="a-barth" partOfSpeech="p"/>
       <Sense id="L305372-S1" synset="wikidata-kw-L305372-S1" ili="wikidata-kw-L305372-S1">
         <Definition></Definition>
       </Sense>
@@ -54,39 +54,39 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L727356">
-      <Lemma writtenForm="udn" partOfSpeech="numeral"/>
+      <Lemma writtenForm="udn" partOfSpeech="m"/>
       <Sense id="L727356-S1" synset="wikidata-kw-L727356-S1" ili="wikidata-kw-L727356-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-kw-L727357-S1" ili="wikidata-kw-L727357-S1">
+    <Synset id="wikidata-kw-L727357-S1" ili="wikidata-kw-L727357-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305364-S1" ili="wikidata-kw-L305364-S1">
+    <Synset id="wikidata-kw-L305364-S1" ili="wikidata-kw-L305364-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305364-S2" ili="wikidata-kw-L305364-S2">
+    <Synset id="wikidata-kw-L305364-S2" ili="wikidata-kw-L305364-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305365-S1" ili="wikidata-kw-L305365-S1">
+    <Synset id="wikidata-kw-L305365-S1" ili="wikidata-kw-L305365-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L723026-S1" ili="wikidata-kw-L723026-S1">
+    <Synset id="wikidata-kw-L723026-S1" ili="wikidata-kw-L723026-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305363-S1" ili="wikidata-kw-L305363-S1">
+    <Synset id="wikidata-kw-L305363-S1" ili="wikidata-kw-L305363-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305372-S1" ili="wikidata-kw-L305372-S1">
+    <Synset id="wikidata-kw-L305372-S1" ili="wikidata-kw-L305372-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305372-S2" ili="wikidata-kw-L305372-S2">
+    <Synset id="wikidata-kw-L305372-S2" ili="wikidata-kw-L305372-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L305372-S3" ili="wikidata-kw-L305372-S3">
+    <Synset id="wikidata-kw-L305372-S3" ili="wikidata-kw-L305372-S3" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kw-L727356-S1" ili="wikidata-kw-L727356-S1">
+    <Synset id="wikidata-kw-L727356-S1" ili="wikidata-kw-L727356-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

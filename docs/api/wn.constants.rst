@@ -254,6 +254,12 @@ Parts of Speech
    - ``p`` -- Adposition
    - ``x`` -- Other
    - ``u`` -- Unknown
+   - ``h`` -- Pronoun
+   - ``d`` -- Determiner
+   - ``m`` -- Numeral
+   - ``i`` -- Interjection
+   - ``q`` -- Interrogative
+   - ``y`` -- Particle
 
 .. autodata:: NOUN
 .. autodata:: VERB
@@ -280,6 +286,35 @@ Parts of Speech
 
 .. autodata:: OTHER
 .. autodata:: UNKNOWN
+.. autodata:: PRONOUN
+.. data:: PRON
+
+   Alias of :py:data:`PRONOUN`
+
+.. autodata:: DETERMINER
+.. data:: DET
+
+   Alias of :py:data:`DETERMINER`
+
+.. autodata:: NUMERAL
+.. data:: NUM
+
+   Alias of :py:data:`NUMERAL`
+
+.. autodata:: INTERJECTION
+.. data:: INTJ
+
+   Alias of :py:data:`INTERJECTION`
+
+.. autodata:: INTERROGATIVE
+.. data:: INTRG
+
+   Alias of :py:data:`INTERROGATIVE`
+
+.. autodata:: PARTICLE
+.. data:: PART
+
+   Alias of :py:data:`PARTICLE`
 
 
 Adjective Positions

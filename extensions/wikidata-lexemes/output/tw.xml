@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-tw" version="1.4"/>
     <LexicalEntry id="L686722">
-      <Lemma writtenForm="Ɔha" partOfSpeech="numeral"/>
+      <Lemma writtenForm="Ɔha" partOfSpeech="m"/>
       <Sense id="L686722-S1" synset="wikidata-tw-L686722-S1" ili="wikidata-tw-L686722-S1">
         <Definition>Ɛyɛ edu mu mmɔho du</Definition>
       </Sense>
@@ -92,46 +92,46 @@
         <Definition>ɛyɛ aduaba a yɛdie a ɛhoo yɛ nkasɛɛ kasɛɛ na biribi tua n&apos;apampam</Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-tw-L686722-S1" ili="wikidata-tw-L686722-S1">
+    <Synset id="wikidata-tw-L686722-S1" ili="wikidata-tw-L686722-S1" partOfSpeech="m">
       <Definition>Ɛyɛ edu mu mmɔho du</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136852-S1" ili="wikidata-tw-L1136852-S1">
+    <Synset id="wikidata-tw-L1136852-S1" ili="wikidata-tw-L1136852-S1" partOfSpeech="noun class">
       <Definition>adeɛ a yɛkɔ nsuo gu mu</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136845-S1" ili="wikidata-tw-L1136845-S1">
+    <Synset id="wikidata-tw-L1136845-S1" ili="wikidata-tw-L1136845-S1" partOfSpeech="noun class">
       <Definition>ɛyɛ adeɛ a ɔwɔ yafunu mu a ɛsusua na yɛdidi a ɛfa mu</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136888-S1" ili="wikidata-tw-L1136888-S1">
+    <Synset id="wikidata-tw-L1136888-S1" ili="wikidata-tw-L1136888-S1" partOfSpeech="noun class">
       <Definition>ɔyɛ mmoa bi a kasɛɛ nni wɔn mu</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136854-S1" ili="wikidata-tw-L1136854-S1">
+    <Synset id="wikidata-tw-L1136854-S1" ili="wikidata-tw-L1136854-S1" partOfSpeech="noun class">
       <Definition>obi a ne nua yɛ barima</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136858-S1" ili="wikidata-tw-L1136858-S1">
+    <Synset id="wikidata-tw-L1136858-S1" ili="wikidata-tw-L1136858-S1" partOfSpeech="noun class">
       <Definition>nipa a ɔyɛ ɔbaa na ɔnyinii pii.</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136878-S1" ili="wikidata-tw-L1136878-S1">
+    <Synset id="wikidata-tw-L1136878-S1" ili="wikidata-tw-L1136878-S1" partOfSpeech="noun class">
       <Definition>adeɛ bi ɛyɛ dwuma a ɛmerɛ</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136865-S1" ili="wikidata-tw-L1136865-S1">
+    <Synset id="wikidata-tw-L1136865-S1" ili="wikidata-tw-L1136865-S1" partOfSpeech="noun class">
       <Definition>ɛyɛ ntomasini bi a mmaa tae de bɔ wɔn ti</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136883-S1" ili="wikidata-tw-L1136883-S1">
+    <Synset id="wikidata-tw-L1136883-S1" ili="wikidata-tw-L1136883-S1" partOfSpeech="noun class">
       <Definition>obi aotwa ahwedeɛ</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136885-S1" ili="wikidata-tw-L1136885-S1">
+    <Synset id="wikidata-tw-L1136885-S1" ili="wikidata-tw-L1136885-S1" partOfSpeech="noun class">
       <Definition>ɔyɛ mmoa be a nnompe nni wcn mu</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136891-S1" ili="wikidata-tw-L1136891-S1">
+    <Synset id="wikidata-tw-L1136891-S1" ili="wikidata-tw-L1136891-S1" partOfSpeech="noun class">
       <Definition>ɛyɛ mmoa nkumaa bi a wɔtu na eduru anadwo awɔn to sɔ kanea</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136892-S1" ili="wikidata-tw-L1136892-S1">
+    <Synset id="wikidata-tw-L1136892-S1" ili="wikidata-tw-L1136892-S1" partOfSpeech="noun class">
       <Definition>ɛyɛ adeɛ kurukuruwa bi a yɛde mea adeɛ mu</Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1461552-S1" ili="wikidata-tw-L1461552-S1">
+    <Synset id="wikidata-tw-L1461552-S1" ili="wikidata-tw-L1461552-S1" partOfSpeech="modal particle">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-tw-L1136861-S1" ili="wikidata-tw-L1136861-S1">
+    <Synset id="wikidata-tw-L1136861-S1" ili="wikidata-tw-L1136861-S1" partOfSpeech="noun class">
       <Definition>ɛyɛ aduaba a yɛdie a ɛhoo yɛ nkasɛɛ kasɛɛ na biribi tua n&apos;apampam</Definition>
     </Synset>
   </LexiconExtension>

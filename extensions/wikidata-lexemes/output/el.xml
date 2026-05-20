@@ -9,120 +9,120 @@
                     version="1.0">
     <Extends id="omw-el" version="1.4"/>
     <LexicalEntry id="L1224900">
-      <Lemma writtenForm="έξι" partOfSpeech="numeral"/>
+      <Lemma writtenForm="έξι" partOfSpeech="m"/>
       <Sense id="L1224900-S1" synset="wikidata-el-L1224900-S1" ili="wikidata-el-L1224900-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224901">
-      <Lemma writtenForm="εφτά" partOfSpeech="numeral"/>
+      <Lemma writtenForm="εφτά" partOfSpeech="m"/>
       <Sense id="L1224901-S1" synset="wikidata-el-L1224901-S1" ili="wikidata-el-L1224901-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216765">
-      <Lemma writtenForm="και" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="και" partOfSpeech="c"/>
       <Sense id="L1216765-S1" synset="wikidata-el-L1216765-S1" ili="wikidata-el-L1216765-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224897">
-      <Lemma writtenForm="τέσσερα" partOfSpeech="numeral"/>
+      <Lemma writtenForm="τέσσερα" partOfSpeech="m"/>
       <Sense id="L1224897-S1" synset="wikidata-el-L1224897-S1" ili="wikidata-el-L1224897-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216769">
-      <Lemma writtenForm="θα" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="θα" partOfSpeech="y"/>
       <Sense id="L1216769-S1" synset="wikidata-el-L1216769-S1" ili="wikidata-el-L1216769-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224890">
-      <Lemma writtenForm="τρία" partOfSpeech="numeral"/>
+      <Lemma writtenForm="τρία" partOfSpeech="m"/>
       <Sense id="L1224890-S1" synset="wikidata-el-L1224890-S1" ili="wikidata-el-L1224890-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L47985">
-      <Lemma writtenForm="ένα" partOfSpeech="numeral"/>
+      <Lemma writtenForm="ένα" partOfSpeech="m"/>
       <Sense id="L47985-S1" synset="wikidata-el-L47985-S1" ili="wikidata-el-L47985-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L984122">
-      <Lemma writtenForm="ο" partOfSpeech="definite article"/>
+      <Lemma writtenForm="ο" partOfSpeech="d"/>
       <Sense id="L984122-S1" synset="wikidata-el-L984122-S1" ili="wikidata-el-L984122-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216770">
-      <Lemma writtenForm="να" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="να" partOfSpeech="y"/>
       <Sense id="L1216770-S1" synset="wikidata-el-L1216770-S1" ili="wikidata-el-L1216770-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216771">
-      <Lemma writtenForm="ας" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="ας" partOfSpeech="y"/>
       <Sense id="L1216771-S1" synset="wikidata-el-L1216771-S1" ili="wikidata-el-L1216771-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1216764">
-      <Lemma writtenForm="έως" partOfSpeech="grammatical particle"/>
+      <Lemma writtenForm="έως" partOfSpeech="y"/>
       <Sense id="L1216764-S1" synset="wikidata-el-L1216764-S1" ili="wikidata-el-L1216764-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224889">
-      <Lemma writtenForm="δύο" partOfSpeech="numeral"/>
+      <Lemma writtenForm="δύο" partOfSpeech="m"/>
       <Sense id="L1224889-S1" synset="wikidata-el-L1224889-S1" ili="wikidata-el-L1224889-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1224899">
-      <Lemma writtenForm="πέντε" partOfSpeech="numeral"/>
+      <Lemma writtenForm="πέντε" partOfSpeech="m"/>
       <Sense id="L1224899-S1" synset="wikidata-el-L1224899-S1" ili="wikidata-el-L1224899-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-el-L1224900-S1" ili="wikidata-el-L1224900-S1">
+    <Synset id="wikidata-el-L1224900-S1" ili="wikidata-el-L1224900-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1224901-S1" ili="wikidata-el-L1224901-S1">
+    <Synset id="wikidata-el-L1224901-S1" ili="wikidata-el-L1224901-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1216765-S1" ili="wikidata-el-L1216765-S1">
+    <Synset id="wikidata-el-L1216765-S1" ili="wikidata-el-L1216765-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1224897-S1" ili="wikidata-el-L1224897-S1">
+    <Synset id="wikidata-el-L1224897-S1" ili="wikidata-el-L1224897-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1216769-S1" ili="wikidata-el-L1216769-S1">
+    <Synset id="wikidata-el-L1216769-S1" ili="wikidata-el-L1216769-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1224890-S1" ili="wikidata-el-L1224890-S1">
+    <Synset id="wikidata-el-L1224890-S1" ili="wikidata-el-L1224890-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L47985-S1" ili="wikidata-el-L47985-S1">
+    <Synset id="wikidata-el-L47985-S1" ili="wikidata-el-L47985-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L984122-S1" ili="wikidata-el-L984122-S1">
+    <Synset id="wikidata-el-L984122-S1" ili="wikidata-el-L984122-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1216770-S1" ili="wikidata-el-L1216770-S1">
+    <Synset id="wikidata-el-L1216770-S1" ili="wikidata-el-L1216770-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1216771-S1" ili="wikidata-el-L1216771-S1">
+    <Synset id="wikidata-el-L1216771-S1" ili="wikidata-el-L1216771-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1216764-S1" ili="wikidata-el-L1216764-S1">
+    <Synset id="wikidata-el-L1216764-S1" ili="wikidata-el-L1216764-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1224889-S1" ili="wikidata-el-L1224889-S1">
+    <Synset id="wikidata-el-L1224889-S1" ili="wikidata-el-L1224889-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-el-L1224899-S1" ili="wikidata-el-L1224899-S1">
+    <Synset id="wikidata-el-L1224899-S1" ili="wikidata-el-L1224899-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

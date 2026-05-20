@@ -27,7 +27,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1401885">
-      <Lemma writtenForm="na" partOfSpeech="preposition"/>
+      <Lemma writtenForm="na" partOfSpeech="p"/>
       <Sense id="L1401885-S1" synset="wikidata-rn-L1401885-S1" ili="wikidata-rn-L1401885-S1">
         <Definition></Definition>
       </Sense>
@@ -164,88 +164,88 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-rn-L1335101-S1" ili="wikidata-rn-L1335101-S1">
+    <Synset id="wikidata-rn-L1335101-S1" ili="wikidata-rn-L1335101-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335224-S1" ili="wikidata-rn-L1335224-S1">
+    <Synset id="wikidata-rn-L1335224-S1" ili="wikidata-rn-L1335224-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335232-S1" ili="wikidata-rn-L1335232-S1">
+    <Synset id="wikidata-rn-L1335232-S1" ili="wikidata-rn-L1335232-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1401885-S1" ili="wikidata-rn-L1401885-S1">
+    <Synset id="wikidata-rn-L1401885-S1" ili="wikidata-rn-L1401885-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1401885-S2" ili="wikidata-rn-L1401885-S2">
+    <Synset id="wikidata-rn-L1401885-S2" ili="wikidata-rn-L1401885-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335241-S1" ili="wikidata-rn-L1335241-S1">
+    <Synset id="wikidata-rn-L1335241-S1" ili="wikidata-rn-L1335241-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335225-S1" ili="wikidata-rn-L1335225-S1">
+    <Synset id="wikidata-rn-L1335225-S1" ili="wikidata-rn-L1335225-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335240-S1" ili="wikidata-rn-L1335240-S1">
+    <Synset id="wikidata-rn-L1335240-S1" ili="wikidata-rn-L1335240-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335243-S1" ili="wikidata-rn-L1335243-S1">
+    <Synset id="wikidata-rn-L1335243-S1" ili="wikidata-rn-L1335243-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335244-S1" ili="wikidata-rn-L1335244-S1">
+    <Synset id="wikidata-rn-L1335244-S1" ili="wikidata-rn-L1335244-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335098-S1" ili="wikidata-rn-L1335098-S1">
+    <Synset id="wikidata-rn-L1335098-S1" ili="wikidata-rn-L1335098-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335098-S2" ili="wikidata-rn-L1335098-S2">
+    <Synset id="wikidata-rn-L1335098-S2" ili="wikidata-rn-L1335098-S2" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335099-S1" ili="wikidata-rn-L1335099-S1">
+    <Synset id="wikidata-rn-L1335099-S1" ili="wikidata-rn-L1335099-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335099-S2" ili="wikidata-rn-L1335099-S2">
+    <Synset id="wikidata-rn-L1335099-S2" ili="wikidata-rn-L1335099-S2" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335102-S1" ili="wikidata-rn-L1335102-S1">
+    <Synset id="wikidata-rn-L1335102-S1" ili="wikidata-rn-L1335102-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335238-S1" ili="wikidata-rn-L1335238-S1">
+    <Synset id="wikidata-rn-L1335238-S1" ili="wikidata-rn-L1335238-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1336791-S1" ili="wikidata-rn-L1336791-S1">
+    <Synset id="wikidata-rn-L1336791-S1" ili="wikidata-rn-L1336791-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335222-S1" ili="wikidata-rn-L1335222-S1">
+    <Synset id="wikidata-rn-L1335222-S1" ili="wikidata-rn-L1335222-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335234-S1" ili="wikidata-rn-L1335234-S1">
+    <Synset id="wikidata-rn-L1335234-S1" ili="wikidata-rn-L1335234-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1401886-S1" ili="wikidata-rn-L1401886-S1">
+    <Synset id="wikidata-rn-L1401886-S1" ili="wikidata-rn-L1401886-S1" partOfSpeech="coordinating conjunction">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1334796-S1" ili="wikidata-rn-L1334796-S1">
+    <Synset id="wikidata-rn-L1334796-S1" ili="wikidata-rn-L1334796-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1334796-S2" ili="wikidata-rn-L1334796-S2">
+    <Synset id="wikidata-rn-L1334796-S2" ili="wikidata-rn-L1334796-S2" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335221-S1" ili="wikidata-rn-L1335221-S1">
+    <Synset id="wikidata-rn-L1335221-S1" ili="wikidata-rn-L1335221-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335223-S1" ili="wikidata-rn-L1335223-S1">
+    <Synset id="wikidata-rn-L1335223-S1" ili="wikidata-rn-L1335223-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335235-S1" ili="wikidata-rn-L1335235-S1">
+    <Synset id="wikidata-rn-L1335235-S1" ili="wikidata-rn-L1335235-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335226-S1" ili="wikidata-rn-L1335226-S1">
+    <Synset id="wikidata-rn-L1335226-S1" ili="wikidata-rn-L1335226-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335233-S1" ili="wikidata-rn-L1335233-S1">
+    <Synset id="wikidata-rn-L1335233-S1" ili="wikidata-rn-L1335233-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-rn-L1335239-S1" ili="wikidata-rn-L1335239-S1">
+    <Synset id="wikidata-rn-L1335239-S1" ili="wikidata-rn-L1335239-S1" partOfSpeech="number">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

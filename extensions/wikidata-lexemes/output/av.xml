@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-av" version="1.4"/>
     <LexicalEntry id="L685343">
-      <Lemma writtenForm="цо" partOfSpeech="numeral"/>
+      <Lemma writtenForm="цо" partOfSpeech="m"/>
       <Sense id="L685343-S1" synset="wikidata-av-L685343-S1" ili="wikidata-av-L685343-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1401019">
-      <Lemma writtenForm="ва" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="ва" partOfSpeech="c"/>
       <Sense id="L1401019-S1" synset="wikidata-av-L1401019-S1" ili="wikidata-av-L1401019-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-av-L685343-S1" ili="wikidata-av-L685343-S1">
+    <Synset id="wikidata-av-L685343-S1" ili="wikidata-av-L685343-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-av-L1401019-S1" ili="wikidata-av-L1401019-S1">
+    <Synset id="wikidata-av-L1401019-S1" ili="wikidata-av-L1401019-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,21 +9,21 @@
                     version="1.0">
     <Extends id="omw-nv" version="1.4"/>
     <LexicalEntry id="L684408">
-      <Lemma writtenForm="tʼááłáʼí" partOfSpeech="numeral"/>
+      <Lemma writtenForm="tʼááłáʼí" partOfSpeech="m"/>
       <Sense id="L684408-S1" synset="wikidata-nv-L684408-S1" ili="wikidata-nv-L684408-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L684407">
-      <Lemma writtenForm="łáaʼii" partOfSpeech="numeral"/>
+      <Lemma writtenForm="łáaʼii" partOfSpeech="m"/>
       <Sense id="L684407-S1" synset="wikidata-nv-L684407-S1" ili="wikidata-nv-L684407-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-nv-L684408-S1" ili="wikidata-nv-L684408-S1">
+    <Synset id="wikidata-nv-L684408-S1" ili="wikidata-nv-L684408-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-nv-L684407-S1" ili="wikidata-nv-L684407-S1">
+    <Synset id="wikidata-nv-L684407-S1" ili="wikidata-nv-L684407-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

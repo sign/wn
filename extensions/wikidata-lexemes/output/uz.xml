@@ -15,7 +15,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549960">
-      <Lemma writtenForm="va" partOfSpeech="conjunction"/>
+      <Lemma writtenForm="va" partOfSpeech="c"/>
       <Sense id="L1549960-S1" synset="wikidata-uz-L1549960-S1" ili="l1385-s1">
         <Definition></Definition>
       </Sense>
@@ -32,16 +32,16 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1">
+    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="pro-form">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1549960-S1" ili="l1385-s1">
+    <Synset id="wikidata-uz-L1549960-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1">
+    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="pro-form">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1">
+    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="postposition">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>
