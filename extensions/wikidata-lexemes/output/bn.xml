@@ -117,7 +117,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310490">
-      <Lemma writtenForm="হুস্‌হুস্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হুস্‌হুস্‌" partOfSpeech="x"/>
       <Sense id="L310490-S1" synset="wikidata-bn-L310490-S1" ili="wikidata-bn-L310490-S1">
         <Definition>অনুকার শব্দ</Definition>
       </Sense>
@@ -130,7 +130,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310559">
-      <Lemma writtenForm="হইয়া" partOfSpeech="postposition"/>
+      <Lemma writtenForm="হইয়া" partOfSpeech="x"/>
       <Sense id="L310559-S1" synset="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1">
         <Definition>প্রতিনিধি স্বরূপ</Definition>
       </Sense>
@@ -145,19 +145,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345413">
-      <Lemma writtenForm="ঠুং" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠুং" partOfSpeech="x"/>
       <Sense id="L345413-S1" synset="wikidata-bn-L345413-S1" ili="wikidata-bn-L345413-S1">
         <Definition>ঘণ্টা ইত্যাদির মৃদু শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345435">
-      <Lemma writtenForm="ঠাস" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠাস" partOfSpeech="x"/>
       <Sense id="L345435-S1" synset="wikidata-bn-L345435-S1" ili="wikidata-bn-L345435-S1">
         <Definition>চড় মারার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345808">
-      <Lemma writtenForm="থু" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="থু" partOfSpeech="x"/>
       <Sense id="L345808-S1" synset="wikidata-bn-L345808-S1" ili="wikidata-bn-L345808-S1">
         <Definition>থুথু ফেলার শব্দ</Definition>
       </Sense>
@@ -166,7 +166,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348363">
-      <Lemma writtenForm="টুপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টুপ" partOfSpeech="x"/>
       <Sense id="L348363-S1" synset="wikidata-bn-L348363-S1" ili="wikidata-bn-L348363-S1">
         <Definition>হঠাৎ ডুব দেওয়ার শব্দ</Definition>
       </Sense>
@@ -175,7 +175,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348366">
-      <Lemma writtenForm="টুনটুন" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টুনটুন" partOfSpeech="x"/>
       <Sense id="L348366-S1" synset="wikidata-bn-L348366-S1" ili="wikidata-bn-L348366-S1">
         <Definition>ঘণ্টার শব্দ</Definition>
       </Sense>
@@ -293,7 +293,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310476">
-      <Lemma writtenForm="হোহো" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হোহো" partOfSpeech="x"/>
       <Sense id="L310476-S1" synset="wikidata-bn-L310476-S1" ili="wikidata-bn-L310476-S1">
         <Definition>উচ্চহাস্য শব্দ</Definition>
       </Sense>
@@ -305,7 +305,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310491">
-      <Lemma writtenForm="হুড়হুড়" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হুড়হুড়" partOfSpeech="x"/>
       <Sense id="L310491-S1" synset="wikidata-bn-L310491-S1" ili="wikidata-bn-L310491-S1">
         <Definition>বেগে জল পড়বার শব্দ</Definition>
       </Sense>
@@ -336,7 +336,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310567">
-      <Lemma writtenForm="ওয়াক" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ওয়াক" partOfSpeech="x"/>
       <Sense id="L310567-S1" synset="wikidata-bn-L310567-S1" ili="wikidata-bn-L310567-S1">
         <Definition>বমির শব্দ</Definition>
       </Sense>
@@ -348,25 +348,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345409">
-      <Lemma writtenForm="ঠুক্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠুক্‌" partOfSpeech="x"/>
       <Sense id="L345409-S1" synset="wikidata-bn-L345409-S1" ili="wikidata-bn-L345409-S1">
         <Definition>কঠিন জিনিষ আঘাত করার মৃদু শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345562">
-      <Lemma writtenForm="ঢেপঢেপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢেপঢেপ" partOfSpeech="x"/>
       <Sense id="L345562-S1" synset="wikidata-bn-L345562-S1" ili="wikidata-bn-L345562-S1">
         <Definition>ভেজা ঢোল বাজানোর শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347465">
-      <Lemma writtenForm="ঝিনিকিঝিনি" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝিনিকিঝিনি" partOfSpeech="x"/>
       <Sense id="L347465-S1" synset="wikidata-bn-L347465-S1" ili="wikidata-bn-L347465-S1">
         <Definition>নূপুরের শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347699">
-      <Lemma writtenForm="ঝমঝম" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝমঝম" partOfSpeech="x"/>
       <Sense id="L347699-S1" synset="wikidata-bn-L347699-S1" ili="wikidata-bn-L347699-S1">
         <Definition>বৃষ্টির শব্দ</Definition>
       </Sense>
@@ -375,7 +375,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348361">
-      <Lemma writtenForm="টুপটাপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টুপটাপ" partOfSpeech="x"/>
       <Sense id="L348361-S1" synset="wikidata-bn-L348361-S1" ili="wikidata-bn-L348361-S1">
         <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
       </Sense>
@@ -402,7 +402,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595059">
-      <Lemma writtenForm="সাথে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="সাথে" partOfSpeech="x"/>
       <Sense id="L595059-S1" synset="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1">
         <Definition>সহিত</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L591873-S1"/>
@@ -427,7 +427,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708613">
-      <Lemma writtenForm="প্রতি" partOfSpeech="postposition"/>
+      <Lemma writtenForm="প্রতি" partOfSpeech="x"/>
       <Sense id="L708613-S1" synset="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1">
         <Definition>উপরি বা সম্বন্ধে</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L626221-S2"/>
@@ -455,7 +455,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L295106">
-      <Lemma writtenForm="টি" partOfSpeech="classifier"/>
+      <Lemma writtenForm="টি" partOfSpeech="x"/>
       <Sense id="L295106-S1" synset="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1">
         <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
       </Sense>
@@ -559,19 +559,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310489">
-      <Lemma writtenForm="হুস্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হুস্‌" partOfSpeech="x"/>
       <Sense id="L310489-S1" synset="wikidata-bn-L310489-S1" ili="wikidata-bn-L310489-S1">
         <Definition>পাখি তাড়াবার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310518">
-      <Lemma writtenForm="হাঁহাঁ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হাঁহাঁ" partOfSpeech="x"/>
       <Sense id="L310518-S1" synset="wikidata-bn-L310518-S1" ili="wikidata-bn-L310518-S1">
         <Definition>নিবারণ করার জন্য শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310556">
-      <Lemma writtenForm="হড়হড়" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হড়হড়" partOfSpeech="x"/>
       <Sense id="L310556-S1" synset="wikidata-bn-L310556-S1" ili="wikidata-bn-L310556-S1">
         <Definition>পিচ্ছিলপথে গড়িয়ে যাওয়ার শব্দ</Definition>
       </Sense>
@@ -580,7 +580,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310560">
-      <Lemma writtenForm="হইতে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="হইতে" partOfSpeech="x"/>
       <Sense id="L310560-S1" synset="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1">
         <Definition>থেকে</Definition>
       </Sense>
@@ -592,25 +592,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345670">
-      <Lemma writtenForm="ঢনঢন" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢনঢন" partOfSpeech="x"/>
       <Sense id="L345670-S1" synset="wikidata-bn-L345670-S1" ili="wikidata-bn-L345670-S1">
         <Definition>খালি হাঁড়ি কলসীর শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345771">
-      <Lemma writtenForm="থুপ্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="থুপ্‌" partOfSpeech="x"/>
       <Sense id="L345771-S1" synset="wikidata-bn-L345771-S1" ili="wikidata-bn-L345771-S1">
         <Definition>ছোট নরম জিনিষ পড়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345877">
-      <Lemma writtenForm="থপ্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="থপ্‌" partOfSpeech="x"/>
       <Sense id="L345877-S1" synset="wikidata-bn-L345877-S1" ili="wikidata-bn-L345877-S1">
         <Definition>নরম ভারী জিনিষ পড়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348330">
-      <Lemma writtenForm="টেঁসটেঁস" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টেঁসটেঁস" partOfSpeech="x"/>
       <Sense id="L348330-S1" synset="wikidata-bn-L348330-S1" ili="wikidata-bn-L348330-S1">
         <Definition>বেসুরো আওয়াজ</Definition>
       </Sense>
@@ -619,7 +619,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348589">
-      <Lemma writtenForm="টগবগ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টগবগ" partOfSpeech="x"/>
       <Sense id="L348589-S1" synset="wikidata-bn-L348589-S1" ili="wikidata-bn-L348589-S1">
         <Definition>ফুটন্ত জলের শব্দ</Definition>
       </Sense>
@@ -634,7 +634,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595057">
-      <Lemma writtenForm="মধ্যে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="মধ্যে" partOfSpeech="x"/>
       <Sense id="L595057-S1" synset="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1">
         <Definition>মাঝে</Definition>
       </Sense>
@@ -646,7 +646,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L621067">
-      <Lemma writtenForm="বার" partOfSpeech="classifier"/>
+      <Lemma writtenForm="বার" partOfSpeech="x"/>
       <Sense id="L621067-S1" synset="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1">
         <Definition>দফা</Definition>
       </Sense>
@@ -676,7 +676,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1152253">
-      <Lemma writtenForm="এর" partOfSpeech="postposition"/>
+      <Lemma writtenForm="এর" partOfSpeech="x"/>
       <Sense id="L1152253-S1" synset="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1">
         <Definition>একটি বিভক্তি</Definition>
       </Sense>
@@ -760,13 +760,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310503">
-      <Lemma writtenForm="হিড়হিড়" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হিড়হিড়" partOfSpeech="x"/>
       <Sense id="L310503-S1" synset="wikidata-bn-L310503-S1" ili="wikidata-bn-L310503-S1">
         <Definition>কিছু টেনে নিয়ে যাওয়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310517">
-      <Lemma writtenForm="হাম্বা" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হাম্বা" partOfSpeech="x"/>
       <Sense id="L310517-S1" synset="wikidata-bn-L310517-S1" ili="wikidata-bn-L310517-S1">
         <Definition>গাভীর রব</Definition>
       </Sense>
@@ -795,25 +795,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345504">
-      <Lemma writtenForm="ঠক্‌ঠক্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠক্‌ঠক্‌" partOfSpeech="x"/>
       <Sense id="L345504-S1" synset="wikidata-bn-L345504-S1" ili="wikidata-bn-L345504-S1">
         <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345669">
-      <Lemma writtenForm="ঢপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢপ" partOfSpeech="x"/>
       <Sense id="L345669-S1" synset="wikidata-bn-L345669-S1" ili="wikidata-bn-L345669-S1">
         <Definition>ভেজা বা ছেঁড়া ঢোলের ন্যায় শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345676">
-      <Lemma writtenForm="ঢংঢং" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢংঢং" partOfSpeech="x"/>
       <Sense id="L345676-S1" synset="wikidata-bn-L345676-S1" ili="wikidata-bn-L345676-S1">
         <Definition>ঘড়ি কাঁসর ইত্যাদির বার বার বাজার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345677">
-      <Lemma writtenForm="ঢং" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢং" partOfSpeech="x"/>
       <Sense id="L345677-S1" synset="wikidata-bn-L345677-S1" ili="wikidata-bn-L345677-S1">
         <Definition>ঘণ্টার শব্দ</Definition>
       </Sense>
@@ -822,7 +822,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345809">
-      <Lemma writtenForm="থুঃ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="থুঃ" partOfSpeech="x"/>
       <Sense id="L345809-S1" synset="wikidata-bn-L345809-S1" ili="wikidata-bn-L345809-S1">
         <Definition>থুথু ফেলার শব্দ</Definition>
       </Sense>
@@ -831,19 +831,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346405">
-      <Lemma writtenForm="ঝুরঝুর" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝুরঝুর" partOfSpeech="x"/>
       <Sense id="L346405-S1" synset="wikidata-bn-L346405-S1" ili="wikidata-bn-L346405-S1">
         <Definition>আস্তে আস্তে বালি পড়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347696">
-      <Lemma writtenForm="ঝরঝর" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝরঝর" partOfSpeech="x"/>
       <Sense id="L347696-S1" synset="wikidata-bn-L347696-S1" ili="wikidata-bn-L347696-S1">
         <Definition>জল পড়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347700">
-      <Lemma writtenForm="ঝমাঝম" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝমাঝম" partOfSpeech="x"/>
       <Sense id="L347700-S1" synset="wikidata-bn-L347700-S1" ili="wikidata-bn-L347700-S1">
         <Definition>বৃষ্টির শব্দ</Definition>
       </Sense>
@@ -882,7 +882,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L619311">
-      <Lemma writtenForm="ঝনঝন" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝনঝন" partOfSpeech="x"/>
       <Sense id="L619311-S1" synset="wikidata-bn-L619311-S1" ili="wikidata-bn-L619311-S1">
         <Definition>ধাতুদ্রব্যাদি পড়ার বা আঘাত পাওয়ার তীক্ষ্ণ শব্দ</Definition>
       </Sense>
@@ -934,7 +934,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L295107">
-      <Lemma writtenForm="-গুলি" partOfSpeech="classifier"/>
+      <Lemma writtenForm="-গুলি" partOfSpeech="x"/>
       <Sense id="L295107-S1" synset="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1">
         <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
       </Sense>
@@ -1078,19 +1078,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345675">
-      <Lemma writtenForm="ঢক" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢক" partOfSpeech="x"/>
       <Sense id="L345675-S1" synset="wikidata-bn-L345675-S1" ili="wikidata-bn-L345675-S1">
         <Definition>তরল পদার্থ গলাঃধকরণের শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347703">
-      <Lemma writtenForm="ঝনাৎ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝনাৎ" partOfSpeech="x"/>
       <Sense id="L347703-S1" synset="wikidata-bn-L347703-S1" ili="wikidata-bn-L347703-S1">
         <Definition>হঠাৎ জোরে ধাতুদ্রব্য পড়ার বা আঘাতের শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348548">
-      <Lemma writtenForm="টস্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টস্‌" partOfSpeech="x"/>
       <Sense id="L348548-S1" synset="wikidata-bn-L348548-S1" ili="wikidata-bn-L348548-S1">
         <Definition>রস পড়ার শব্দ</Definition>
       </Sense>
@@ -1108,7 +1108,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L595056">
-      <Lemma writtenForm="জন্য" partOfSpeech="postposition"/>
+      <Lemma writtenForm="জন্য" partOfSpeech="x"/>
       <Sense id="L595056-S1" synset="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1">
         <Definition>কারণে বা নিমিত্তে</Definition>
       </Sense>
@@ -1206,7 +1206,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310484">
-      <Lemma writtenForm="হেট" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হেট" partOfSpeech="x"/>
       <Sense id="L310484-S1" synset="wikidata-bn-L310484-S1" ili="wikidata-bn-L310484-S1">
         <Definition>গরুকে তাড়ানোর শব্দ</Definition>
       </Sense>
@@ -1222,13 +1222,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310492">
-      <Lemma writtenForm="হুড়মুড়" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হুড়মুড়" partOfSpeech="x"/>
       <Sense id="L310492-S1" synset="wikidata-bn-L310492-S1" ili="wikidata-bn-L310492-S1">
         <Definition>ভারি জিনিষ পড়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310497">
-      <Lemma writtenForm="হিহি" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হিহি" partOfSpeech="x"/>
       <Sense id="L310497-S1" synset="wikidata-bn-L310497-S1" ili="wikidata-bn-L310497-S1">
         <Definition>হাসির শব্দ</Definition>
       </Sense>
@@ -1243,19 +1243,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310569">
-      <Lemma writtenForm="ওম্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ওম্‌" partOfSpeech="x"/>
       <Sense id="L310569-S1" synset="wikidata-bn-L310569-S1" ili="wikidata-bn-L310569-S1">
         <Definition>প্রণব</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345502">
-      <Lemma writtenForm="ঠক্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠক্‌" partOfSpeech="x"/>
       <Sense id="L345502-S1" synset="wikidata-bn-L345502-S1" ili="wikidata-bn-L345502-S1">
         <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347870">
-      <Lemma writtenForm="ডুগডুগ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ডুগডুগ" partOfSpeech="x"/>
       <Sense id="L347870-S1" synset="wikidata-bn-L347870-S1" ili="wikidata-bn-L347870-S1">
         <Definition>অনুকার শব্দ</Definition>
       </Sense>
@@ -1267,7 +1267,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L483768">
-      <Lemma writtenForm="কাছে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="কাছে" partOfSpeech="x"/>
       <Sense id="L483768-S1" synset="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1">
         <Definition>নিকটে</Definition>
       </Sense>
@@ -1294,7 +1294,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L626221">
-      <Lemma writtenForm="উপর" partOfSpeech="postposition"/>
+      <Lemma writtenForm="উপর" partOfSpeech="x"/>
       <Sense id="L626221-S1" synset="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1">
         <Definition>ঊর্ধ্বে</Definition>
       </Sense>
@@ -1317,7 +1317,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708519">
-      <Lemma writtenForm="অবধি" partOfSpeech="postposition"/>
+      <Lemma writtenForm="অবধি" partOfSpeech="x"/>
       <Sense id="L708519-S1" synset="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1">
         <Definition>থেকে বা হতে</Definition>
       </Sense>
@@ -1448,19 +1448,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310511">
-      <Lemma writtenForm="হিঃ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হিঃ" partOfSpeech="x"/>
       <Sense id="L310511-S1" synset="wikidata-bn-L310511-S1" ili="wikidata-bn-L310511-S1">
         <Definition>হাসির শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310512">
-      <Lemma writtenForm="হাহা" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হাহা" partOfSpeech="x"/>
       <Sense id="L310512-S1" synset="wikidata-bn-L310512-S1" ili="wikidata-bn-L310512-S1">
         <Definition>হাসির শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310561">
-      <Lemma writtenForm="ঔঁ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঔঁ" partOfSpeech="x"/>
       <Sense id="L310561-S1" synset="wikidata-bn-L310561-S1" ili="wikidata-bn-L310561-S1">
         <Definition>শূদ্রদের প্রণব</Definition>
       </Sense>
@@ -1485,13 +1485,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345503">
-      <Lemma writtenForm="ঠং" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠং" partOfSpeech="x"/>
       <Sense id="L345503-S1" synset="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1">
         <Definition>ঘণ্টা ইত্যাদির শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345755">
-      <Lemma writtenForm="থেকে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="থেকে" partOfSpeech="x"/>
       <Sense id="L345755-S1" synset="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1">
         <Definition>হতে</Definition>
       </Sense>
@@ -1500,19 +1500,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346439">
-      <Lemma writtenForm="ঝুপ্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝুপ্‌" partOfSpeech="x"/>
       <Sense id="L346439-S1" synset="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1">
         <Definition>লাফ দেওয়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346521">
-      <Lemma writtenForm="ঝিরঝির" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঝিরঝির" partOfSpeech="x"/>
       <Sense id="L346521-S1" synset="wikidata-bn-L346521-S1" ili="wikidata-bn-L346521-S1">
         <Definition>মৃদু মন্দ বাতাস বওয়ার শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348362">
-      <Lemma writtenForm="টুপটুপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টুপটুপ" partOfSpeech="x"/>
       <Sense id="L348362-S1" synset="wikidata-bn-L348362-S1" ili="wikidata-bn-L348362-S1">
         <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
       </Sense>
@@ -1521,7 +1521,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348543">
-      <Lemma writtenForm="টসটস" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="টসটস" partOfSpeech="x"/>
       <Sense id="L348543-S1" synset="wikidata-bn-L348543-S1" ili="wikidata-bn-L348543-S1">
         <Definition>ফোঁটা পড়ার শব্দ</Definition>
       </Sense>
@@ -1554,7 +1554,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L620859">
-      <Lemma writtenForm="দিয়ে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="দিয়ে" partOfSpeech="x"/>
       <Sense id="L620859-S1" synset="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1">
         <Definition>সাহায্যে</Definition>
       </Sense>
@@ -1563,7 +1563,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624939">
-      <Lemma writtenForm="দ্বারা" partOfSpeech="postposition"/>
+      <Lemma writtenForm="দ্বারা" partOfSpeech="x"/>
       <Sense id="L624939-S1" synset="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1">
         <Definition>কর্তৃক</Definition>
       </Sense>
@@ -1578,7 +1578,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L641782">
-      <Lemma writtenForm="নিশপিশ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="নিশপিশ" partOfSpeech="x"/>
       <Sense id="L641782-S1" synset="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1">
         <Definition>অস্থিরতা প্রকাশক শব্দ</Definition>
       </Sense>
@@ -1596,7 +1596,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L708611">
-      <Lemma writtenForm="পর্যন্ত" partOfSpeech="postposition"/>
+      <Lemma writtenForm="পর্যন্ত" partOfSpeech="x"/>
       <Sense id="L708611-S1" synset="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1">
         <Definition>অবধি</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L708519-S2"/>
@@ -1714,7 +1714,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310488">
-      <Lemma writtenForm="হুহু" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হুহু" partOfSpeech="x"/>
       <Sense id="L310488-S1" synset="wikidata-bn-L310488-S1" ili="wikidata-bn-L310488-S1">
         <Definition>বাতাস বা তরলের প্রবাহের শব্দ</Definition>
       </Sense>
@@ -1732,25 +1732,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310552">
-      <Lemma writtenForm="হনহন" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="হনহন" partOfSpeech="x"/>
       <Sense id="L310552-S1" synset="wikidata-bn-L310552-S1" ili="wikidata-bn-L310552-S1">
         <Definition>দ্রুত গমনের ভাব</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L310570">
-      <Lemma writtenForm="ওঁ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ওঁ" partOfSpeech="x"/>
       <Sense id="L310570-S1" synset="wikidata-bn-L310570-S1" ili="wikidata-bn-L310570-S1">
         <Definition>প্রণব</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345492">
-      <Lemma writtenForm="ঠন্‌" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঠন্‌" partOfSpeech="x"/>
       <Sense id="L345492-S1" synset="wikidata-bn-L345492-S1" ili="wikidata-bn-L345492-S1">
         <Definition>ধাতু নির্মিত পাত্র ইত্যাদির শব্দ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L345625">
-      <Lemma writtenForm="ঢিপ" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="ঢিপ" partOfSpeech="x"/>
       <Sense id="L345625-S1" synset="wikidata-bn-L345625-S1" ili="wikidata-bn-L345625-S1">
         <Definition>আঘাতের শব্দ</Definition>
       </Sense>
@@ -1789,7 +1789,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L591873">
-      <Lemma writtenForm="সঙ্গে" partOfSpeech="postposition"/>
+      <Lemma writtenForm="সঙ্গে" partOfSpeech="x"/>
       <Sense id="L591873-S1" synset="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1">
         <Definition>সহিত</Definition>
         <SenseRelation relType="similar" target="wikidata-bn-L595059-S1"/>
@@ -1811,7 +1811,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1220898">
-      <Lemma writtenForm="আছাড় দিলে ভাঙ্গে না, টিপ দিলে ভর সয় না" partOfSpeech="riddle"/>
+      <Lemma writtenForm="আছাড় দিলে ভাঙ্গে না, টিপ দিলে ভর সয় না" partOfSpeech="x"/>
       <Sense id="L1220898-S1" synset="wikidata-bn-L1220898-S1" ili="wikidata-bn-L1220898-S1">
         <Definition>ভাত</Definition>
       </Sense>
@@ -1876,43 +1876,43 @@
     <Synset id="wikidata-bn-L310482-S1" ili="wikidata-bn-L310482-S1" partOfSpeech="i">
       <Definition>সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310490-S1" ili="wikidata-bn-L310490-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310490-S1" ili="wikidata-bn-L310490-S1" partOfSpeech="x">
       <Definition>অনুকার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310553-S1" ili="wikidata-bn-L310553-S1" partOfSpeech="i">
       <Definition>মারা পড়লাম</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L310559-S1" ili="wikidata-bn-L310559-S1" partOfSpeech="x">
       <Definition>প্রতিনিধি স্বরূপ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L310559-S2" ili="wikidata-bn-L310559-S2" partOfSpeech="x">
       <Definition>মধ্য দিয়ে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310568-S1" ili="wikidata-bn-L310568-S1" partOfSpeech="i">
       <Definition>ভয়, বিস্ময় বা ব্যথায় নির্গত শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345413-S1" ili="wikidata-bn-L345413-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345413-S1" ili="wikidata-bn-L345413-S1" partOfSpeech="x">
       <Definition>ঘণ্টা ইত্যাদির মৃদু শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345435-S1" ili="wikidata-bn-L345435-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345435-S1" ili="wikidata-bn-L345435-S1" partOfSpeech="x">
       <Definition>চড় মারার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345808-S1" ili="wikidata-bn-L345808-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345808-S1" ili="wikidata-bn-L345808-S1" partOfSpeech="x">
       <Definition>থুথু ফেলার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345808-S2" ili="wikidata-bn-L345808-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345808-S2" ili="wikidata-bn-L345808-S2" partOfSpeech="x">
       <Definition>ঘৃণাসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348363-S1" ili="wikidata-bn-L348363-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348363-S1" ili="wikidata-bn-L348363-S1" partOfSpeech="x">
       <Definition>হঠাৎ ডুব দেওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348363-S2" ili="wikidata-bn-L348363-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348363-S2" ili="wikidata-bn-L348363-S2" partOfSpeech="x">
       <Definition>বৃষ্টি পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348366-S1" ili="wikidata-bn-L348366-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348366-S1" ili="wikidata-bn-L348366-S1" partOfSpeech="x">
       <Definition>ঘণ্টার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348366-S2" ili="wikidata-bn-L348366-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348366-S2" ili="wikidata-bn-L348366-S2" partOfSpeech="x">
       <Definition>জল তরঙ্গের শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L584432-S1" ili="wikidata-bn-L584432-S1" partOfSpeech="c">
@@ -1969,13 +1969,13 @@
     <Synset id="wikidata-bn-L309227-S1" ili="wikidata-bn-L309227-S1" partOfSpeech="m">
       <Definition>অঙ্কবাচক সংখ্যা (৬৬)</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310476-S1" ili="wikidata-bn-L310476-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310476-S1" ili="wikidata-bn-L310476-S1" partOfSpeech="x">
       <Definition>উচ্চহাস্য শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310485-S1" ili="wikidata-bn-L310485-S1" partOfSpeech="i">
       <Definition>অনুনয়সূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310491-S1" ili="wikidata-bn-L310491-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310491-S1" ili="wikidata-bn-L310491-S1" partOfSpeech="x">
       <Definition>বেগে জল পড়বার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310493-S1" ili="wikidata-bn-L310493-S1" partOfSpeech="i">
@@ -1996,31 +1996,31 @@
     <Synset id="wikidata-bn-L310566-S1" ili="wikidata-bn-L310566-S1" partOfSpeech="i">
       <Definition>নারীদের মধ্যে পরস্পর প্রণয়সূচক সম্বোধন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310567-S1" ili="wikidata-bn-L310567-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310567-S1" ili="wikidata-bn-L310567-S1" partOfSpeech="x">
       <Definition>বমির শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310702-S1" ili="wikidata-bn-L310702-S1" partOfSpeech="i">
       <Definition>রাগ, দুঃখ, ভয় সূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345409-S1" ili="wikidata-bn-L345409-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345409-S1" ili="wikidata-bn-L345409-S1" partOfSpeech="x">
       <Definition>কঠিন জিনিষ আঘাত করার মৃদু শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345562-S1" ili="wikidata-bn-L345562-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345562-S1" ili="wikidata-bn-L345562-S1" partOfSpeech="x">
       <Definition>ভেজা ঢোল বাজানোর শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347465-S1" ili="wikidata-bn-L347465-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347465-S1" ili="wikidata-bn-L347465-S1" partOfSpeech="x">
       <Definition>নূপুরের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347699-S1" ili="wikidata-bn-L347699-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347699-S1" ili="wikidata-bn-L347699-S1" partOfSpeech="x">
       <Definition>বৃষ্টির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347699-S2" ili="wikidata-bn-L347699-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347699-S2" ili="wikidata-bn-L347699-S2" partOfSpeech="x">
       <Definition>নূপুরের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348361-S1" ili="wikidata-bn-L348361-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348361-S1" ili="wikidata-bn-L348361-S1" partOfSpeech="x">
       <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348361-S2" ili="wikidata-bn-L348361-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348361-S2" ili="wikidata-bn-L348361-S2" partOfSpeech="x">
       <Definition>ফল পড়ার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L476053-S1" ili="wikidata-bn-L476053-S1" partOfSpeech="d">
@@ -2032,7 +2032,7 @@
     <Synset id="wikidata-bn-L494329-S1" ili="wikidata-bn-L494329-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তিগণ/বস্তুগুলো/বিষয়গুলো</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L595059-S1" ili="wikidata-bn-L595059-S1" partOfSpeech="x">
       <Definition>সহিত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618670-S1" ili="wikidata-bn-L618670-S1" partOfSpeech="y">
@@ -2044,10 +2044,10 @@
     <Synset id="wikidata-bn-L643366-S1" ili="wikidata-bn-L643366-S1" partOfSpeech="c">
       <Definition>অভিলাষ প্রকাশসূচক</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L708613-S1" ili="wikidata-bn-L708613-S1" partOfSpeech="x">
       <Definition>উপরি বা সম্বন্ধে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L708613-S2" ili="wikidata-bn-L708613-S2" partOfSpeech="x">
       <Definition>অভিমুখে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L1126943-S1" ili="wikidata-bn-L1126943-S1" partOfSpeech="i">
@@ -2059,7 +2059,7 @@
     <Synset id="wikidata-bn-L252192-S1" ili="wikidata-bn-L252192-S1" partOfSpeech="h">
       <Definition>সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1" partOfSpeech="classifier">
+    <Synset id="wikidata-bn-L295106-S1" ili="wikidata-bn-L295106-S1" partOfSpeech="x">
       <Definition>বিভক্তি যে যোগে বিশেষ্যপদ সামান্য বা সাধারণ অর্থ ত্যাগ করিয়া বিশিষ্ট বা নির্দিষ্ট অর্থ প্রকাশ করে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L303227-S1" ili="wikidata-bn-L303227-S1" partOfSpeech="m">
@@ -2110,61 +2110,61 @@
     <Synset id="wikidata-bn-L310481-S1" ili="wikidata-bn-L310481-S1" partOfSpeech="i">
       <Definition>সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310489-S1" ili="wikidata-bn-L310489-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310489-S1" ili="wikidata-bn-L310489-S1" partOfSpeech="x">
       <Definition>পাখি তাড়াবার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310518-S1" ili="wikidata-bn-L310518-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310518-S1" ili="wikidata-bn-L310518-S1" partOfSpeech="x">
       <Definition>নিবারণ করার জন্য শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310556-S1" ili="wikidata-bn-L310556-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310556-S1" ili="wikidata-bn-L310556-S1" partOfSpeech="x">
       <Definition>পিচ্ছিলপথে গড়িয়ে যাওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310556-S2" ili="wikidata-bn-L310556-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310556-S2" ili="wikidata-bn-L310556-S2" partOfSpeech="x">
       <Definition>দ্রুত এবং বলপূর্বক টেনে নিয়ে যাওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L310560-S1" ili="wikidata-bn-L310560-S1" partOfSpeech="x">
       <Definition>থেকে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310704-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition>এবং</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345670-S1" ili="wikidata-bn-L345670-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345670-S1" ili="wikidata-bn-L345670-S1" partOfSpeech="x">
       <Definition>খালি হাঁড়ি কলসীর শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345771-S1" ili="wikidata-bn-L345771-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345771-S1" ili="wikidata-bn-L345771-S1" partOfSpeech="x">
       <Definition>ছোট নরম জিনিষ পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345877-S1" ili="wikidata-bn-L345877-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345877-S1" ili="wikidata-bn-L345877-S1" partOfSpeech="x">
       <Definition>নরম ভারী জিনিষ পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348330-S1" ili="wikidata-bn-L348330-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348330-S1" ili="wikidata-bn-L348330-S1" partOfSpeech="x">
       <Definition>বেসুরো আওয়াজ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348330-S2" ili="wikidata-bn-L348330-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348330-S2" ili="wikidata-bn-L348330-S2" partOfSpeech="x">
       <Definition>বিরক্তিসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348589-S1" ili="wikidata-bn-L348589-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348589-S1" ili="wikidata-bn-L348589-S1" partOfSpeech="x">
       <Definition>ফুটন্ত জলের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348589-S2" ili="wikidata-bn-L348589-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348589-S2" ili="wikidata-bn-L348589-S2" partOfSpeech="x">
       <Definition>ঘোড়া ছোটার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L476043-S1" ili="wikidata-bn-L476043-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তি</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L595057-S1" ili="wikidata-bn-L595057-S1" partOfSpeech="x">
       <Definition>মাঝে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L595057-S2" ili="wikidata-bn-L595057-S2" partOfSpeech="x">
       <Definition>ভিতরে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L595057-S3" ili="wikidata-bn-L595057-S3" partOfSpeech="x">
       <Definition>ফাঁকে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1" partOfSpeech="classifier">
+    <Synset id="wikidata-bn-L621067-S1" ili="wikidata-bn-L621067-S1" partOfSpeech="x">
       <Definition>দফা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2" partOfSpeech="classifier">
+    <Synset id="wikidata-bn-L621067-S2" ili="wikidata-bn-L621067-S2" partOfSpeech="x">
       <Definition>পালা</Definition>
     </Synset>
     <Synset id="wikidata-bn-L625132-S1" ili="wikidata-bn-L625132-S1" partOfSpeech="y">
@@ -2179,7 +2179,7 @@
     <Synset id="wikidata-bn-L643353-S1" ili="wikidata-bn-L643353-S1" partOfSpeech="c">
       <Definition>কার্য কারণ সম্পর্ক বা হেতু</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L1152253-S1" ili="wikidata-bn-L1152253-S1" partOfSpeech="x">
       <Definition>একটি বিভক্তি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L252194-S1" ili="wikidata-bn-L252194-S1" partOfSpeech="h">
@@ -2221,10 +2221,10 @@
     <Synset id="wikidata-bn-L310475-S1" ili="wikidata-bn-L310475-S1" partOfSpeech="i">
       <Definition>প্রশ্নার্থ সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310503-S1" ili="wikidata-bn-L310503-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310503-S1" ili="wikidata-bn-L310503-S1" partOfSpeech="x">
       <Definition>কিছু টেনে নিয়ে যাওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310517-S1" ili="wikidata-bn-L310517-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310517-S1" ili="wikidata-bn-L310517-S1" partOfSpeech="x">
       <Definition>গাভীর রব</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310520-S1" ili="wikidata-bn-L310520-S1" partOfSpeech="i">
@@ -2236,37 +2236,37 @@
     <Synset id="wikidata-bn-L310707-S1" ili="wikidata-bn-L310707-S1" partOfSpeech="i">
       <Definition>সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345504-S1" ili="wikidata-bn-L345504-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345504-S1" ili="wikidata-bn-L345504-S1" partOfSpeech="x">
       <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345669-S1" ili="wikidata-bn-L345669-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345669-S1" ili="wikidata-bn-L345669-S1" partOfSpeech="x">
       <Definition>ভেজা বা ছেঁড়া ঢোলের ন্যায় শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345676-S1" ili="wikidata-bn-L345676-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345676-S1" ili="wikidata-bn-L345676-S1" partOfSpeech="x">
       <Definition>ঘড়ি কাঁসর ইত্যাদির বার বার বাজার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345677-S1" ili="wikidata-bn-L345677-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345677-S1" ili="wikidata-bn-L345677-S1" partOfSpeech="x">
       <Definition>ঘণ্টার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345677-S2" ili="wikidata-bn-L345677-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345677-S2" ili="wikidata-bn-L345677-S2" partOfSpeech="x">
       <Definition>ঘড়ির সময়সূচক আওয়াজ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345809-S1" ili="wikidata-bn-L345809-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345809-S1" ili="wikidata-bn-L345809-S1" partOfSpeech="x">
       <Definition>থুথু ফেলার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345809-S2" ili="wikidata-bn-L345809-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345809-S2" ili="wikidata-bn-L345809-S2" partOfSpeech="x">
       <Definition>ঘৃণাসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L346405-S1" ili="wikidata-bn-L346405-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L346405-S1" ili="wikidata-bn-L346405-S1" partOfSpeech="x">
       <Definition>আস্তে আস্তে বালি পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347696-S1" ili="wikidata-bn-L347696-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347696-S1" ili="wikidata-bn-L347696-S1" partOfSpeech="x">
       <Definition>জল পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347700-S1" ili="wikidata-bn-L347700-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347700-S1" ili="wikidata-bn-L347700-S1" partOfSpeech="x">
       <Definition>বৃষ্টির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347700-S2" ili="wikidata-bn-L347700-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347700-S2" ili="wikidata-bn-L347700-S2" partOfSpeech="x">
       <Definition>নূপুরের শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L476051-S1" ili="wikidata-bn-L476051-S1" partOfSpeech="h">
@@ -2284,7 +2284,7 @@
     <Synset id="wikidata-bn-L592044-S1" ili="wikidata-bn-L592044-S1" partOfSpeech="y">
       <Definition>তুল্য বা পারা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L619311-S1" ili="wikidata-bn-L619311-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L619311-S1" ili="wikidata-bn-L619311-S1" partOfSpeech="x">
       <Definition>ধাতুদ্রব্যাদি পড়ার বা আঘাত পাওয়ার তীক্ষ্ণ শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L624927-S1" ili="wikidata-bn-L624927-S1" partOfSpeech="c">
@@ -2311,7 +2311,7 @@
     <Synset id="wikidata-bn-L252193-S1" ili="wikidata-bn-L252193-S1" partOfSpeech="h">
       <Definition>নিম্নপদস্থ বা অন্তরঙ্গ সম্বোধিত ব্যক্তি ও অন্যান্য লোকজন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1" partOfSpeech="classifier">
+    <Synset id="wikidata-bn-L295107-S1" ili="wikidata-bn-L295107-S1" partOfSpeech="x">
       <Definition>বিশেষ্যের বহুত্ব-বোধক প্রত্যয়</Definition>
     </Synset>
     <Synset id="wikidata-bn-L303231-S1" ili="wikidata-bn-L303231-S1" partOfSpeech="m">
@@ -2383,13 +2383,13 @@
     <Synset id="wikidata-bn-L309250-S1" ili="wikidata-bn-L309250-S1" partOfSpeech="m">
       <Definition>অঙ্কবাচক সংখ্যা (৩৬)</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345675-S1" ili="wikidata-bn-L345675-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345675-S1" ili="wikidata-bn-L345675-S1" partOfSpeech="x">
       <Definition>তরল পদার্থ গলাঃধকরণের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347703-S1" ili="wikidata-bn-L347703-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347703-S1" ili="wikidata-bn-L347703-S1" partOfSpeech="x">
       <Definition>হঠাৎ জোরে ধাতুদ্রব্য পড়ার বা আঘাতের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348548-S1" ili="wikidata-bn-L348548-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348548-S1" ili="wikidata-bn-L348548-S1" partOfSpeech="x">
       <Definition>রস পড়ার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L483765-S1" ili="wikidata-bn-L483765-S1" partOfSpeech="h">
@@ -2398,7 +2398,7 @@
     <Synset id="wikidata-bn-L483766-S1" ili="wikidata-bn-L483766-S1" partOfSpeech="h">
       <Definition>কোন স্থান</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L595056-S1" ili="wikidata-bn-L595056-S1" partOfSpeech="x">
       <Definition>কারণে বা নিমিত্তে</Definition>
     </Synset>
     <Synset id="wikidata-bn-L626214-S1" ili="wikidata-bn-L626214-S1" partOfSpeech="c">
@@ -2446,7 +2446,7 @@
     <Synset id="wikidata-bn-L309264-S1" ili="wikidata-bn-L309264-S1" partOfSpeech="m">
       <Definition>অঙ্কবাচক সংখ্যা (৬)</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310484-S1" ili="wikidata-bn-L310484-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310484-S1" ili="wikidata-bn-L310484-S1" partOfSpeech="x">
       <Definition>গরুকে তাড়ানোর শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310487-S1" ili="wikidata-bn-L310487-S1" partOfSpeech="i">
@@ -2455,34 +2455,34 @@
     <Synset id="wikidata-bn-L310487-S2" ili="wikidata-bn-L310487-S2" partOfSpeech="i">
       <Definition>পাদপূরণ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310492-S1" ili="wikidata-bn-L310492-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310492-S1" ili="wikidata-bn-L310492-S1" partOfSpeech="x">
       <Definition>ভারি জিনিষ পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310497-S1" ili="wikidata-bn-L310497-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310497-S1" ili="wikidata-bn-L310497-S1" partOfSpeech="x">
       <Definition>হাসির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310497-S2" ili="wikidata-bn-L310497-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310497-S2" ili="wikidata-bn-L310497-S2" partOfSpeech="x">
       <Definition>শীতের কাঁপুনিজনিত শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310548-S1" ili="wikidata-bn-L310548-S1" partOfSpeech="i">
       <Definition>আহ্লাদ সূচক চিৎকার</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310569-S1" ili="wikidata-bn-L310569-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310569-S1" ili="wikidata-bn-L310569-S1" partOfSpeech="x">
       <Definition>প্রণব</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345502-S1" ili="wikidata-bn-L345502-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345502-S1" ili="wikidata-bn-L345502-S1" partOfSpeech="x">
       <Definition>কাঠের মতো জিনিষে আঘাত করার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L347870-S1" ili="wikidata-bn-L347870-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L347870-S1" ili="wikidata-bn-L347870-S1" partOfSpeech="x">
       <Definition>অনুকার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L476061-S1" ili="wikidata-bn-L476061-S1" partOfSpeech="h">
       <Definition>এই ব্যক্তি/বস্তু/বিষয়</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L483768-S1" ili="wikidata-bn-L483768-S1" partOfSpeech="x">
       <Definition>নিকটে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L483768-S2" ili="wikidata-bn-L483768-S2" partOfSpeech="x">
       <Definition>তুলনায়</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618493-S1" ili="wikidata-bn-L618493-S1" partOfSpeech="i">
@@ -2494,10 +2494,10 @@
     <Synset id="wikidata-bn-L625189-S1" ili="wikidata-bn-L625189-S1" partOfSpeech="h">
       <Definition>নির্দিষ্ট বস্তু বা ব্যক্তি</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L626221-S1" ili="wikidata-bn-L626221-S1" partOfSpeech="x">
       <Definition>ঊর্ধ্বে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L626221-S2" ili="wikidata-bn-L626221-S2" partOfSpeech="x">
       <Definition>প্রতি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L643355-S1" ili="wikidata-bn-L643355-S1" partOfSpeech="i">
@@ -2506,10 +2506,10 @@
     <Synset id="wikidata-bn-L671674-S1" ili="wikidata-bn-L671674-S1" partOfSpeech="i">
       <Definition>সম্বোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L708519-S1" ili="wikidata-bn-L708519-S1" partOfSpeech="x">
       <Definition>থেকে বা হতে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L708519-S2" ili="wikidata-bn-L708519-S2" partOfSpeech="x">
       <Definition>পর্যন্ত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L714175-S1" ili="wikidata-bn-L714175-S1" partOfSpeech="i">
@@ -2572,13 +2572,13 @@
     <Synset id="wikidata-bn-L310486-S1" ili="wikidata-bn-L310486-S1" partOfSpeech="i">
       <Definition>সম্মতিসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310511-S1" ili="wikidata-bn-L310511-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310511-S1" ili="wikidata-bn-L310511-S1" partOfSpeech="x">
       <Definition>হাসির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310512-S1" ili="wikidata-bn-L310512-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310512-S1" ili="wikidata-bn-L310512-S1" partOfSpeech="x">
       <Definition>হাসির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310561-S1" ili="wikidata-bn-L310561-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310561-S1" ili="wikidata-bn-L310561-S1" partOfSpeech="x">
       <Definition>শূদ্রদের প্রণব</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310562-S1" ili="wikidata-bn-L310562-S1" partOfSpeech="i">
@@ -2593,28 +2593,28 @@
     <Synset id="wikidata-bn-L310691-S2" ili="wikidata-bn-L310691-S2" partOfSpeech="i">
       <Definition>ব্যক্তিকে সম্বোধন</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345503-S1" ili="wikidata-bn-L345503-S1" partOfSpeech="x">
       <Definition>ঘণ্টা ইত্যাদির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L345755-S1" ili="wikidata-bn-L345755-S1" partOfSpeech="x">
       <Definition>হতে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L345755-S2" ili="wikidata-bn-L345755-S2" partOfSpeech="x">
       <Definition>চেয়ে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L346439-S1" ili="wikidata-bn-L346439-S1" partOfSpeech="x">
       <Definition>লাফ দেওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L346521-S1" ili="wikidata-bn-L346521-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L346521-S1" ili="wikidata-bn-L346521-S1" partOfSpeech="x">
       <Definition>মৃদু মন্দ বাতাস বওয়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348362-S1" ili="wikidata-bn-L348362-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348362-S1" ili="wikidata-bn-L348362-S1" partOfSpeech="x">
       <Definition>ক্রমাগত জলের ফোঁটা পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348362-S2" ili="wikidata-bn-L348362-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348362-S2" ili="wikidata-bn-L348362-S2" partOfSpeech="x">
       <Definition>ফল পড়ার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L348543-S1" ili="wikidata-bn-L348543-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L348543-S1" ili="wikidata-bn-L348543-S1" partOfSpeech="x">
       <Definition>ফোঁটা পড়ার শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L476064-S1" ili="wikidata-bn-L476064-S1" partOfSpeech="h">
@@ -2632,25 +2632,25 @@
     <Synset id="wikidata-bn-L595058-S1" ili="wikidata-bn-L595058-S1" partOfSpeech="c">
       <Definition>অথবা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L620859-S1" ili="wikidata-bn-L620859-S1" partOfSpeech="x">
       <Definition>সাহায্যে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L620859-S2" ili="wikidata-bn-L620859-S2" partOfSpeech="x">
       <Definition>মারফৎ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L624939-S1" ili="wikidata-bn-L624939-S1" partOfSpeech="x">
       <Definition>কর্তৃক</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L624939-S2" ili="wikidata-bn-L624939-S2" partOfSpeech="x">
       <Definition>সাহায্যে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L624939-S3" ili="wikidata-bn-L624939-S3" partOfSpeech="x">
       <Definition>মারফৎ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L624939-S4" ili="wikidata-bn-L624939-S4" partOfSpeech="x">
       <Definition>দ্বার দিয়ে</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L641782-S1" ili="wikidata-bn-L641782-S1" partOfSpeech="x">
       <Definition>অস্থিরতা প্রকাশক শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L646662-S1" ili="wikidata-bn-L646662-S1" partOfSpeech="h">
@@ -2659,7 +2659,7 @@
     <Synset id="wikidata-bn-L646663-S1" ili="wikidata-bn-L646663-S1" partOfSpeech="h">
       <Definition>নিজ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L708611-S1" ili="wikidata-bn-L708611-S1" partOfSpeech="x">
       <Definition>অবধি</Definition>
     </Synset>
     <Synset id="wikidata-bn-L742513-S1" ili="wikidata-bn-L742513-S1" partOfSpeech="h">
@@ -2719,28 +2719,28 @@
     <Synset id="wikidata-bn-L303323-S1" ili="wikidata-bn-L303323-S1" partOfSpeech="m">
       <Definition>অঙ্কবাচক সংখ্যা (৯৯)</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310488-S1" ili="wikidata-bn-L310488-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310488-S1" ili="wikidata-bn-L310488-S1" partOfSpeech="x">
       <Definition>বাতাস বা তরলের প্রবাহের শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310488-S2" ili="wikidata-bn-L310488-S2" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310488-S2" ili="wikidata-bn-L310488-S2" partOfSpeech="x">
       <Definition>আগুন জ্বলার শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310488-S3" ili="wikidata-bn-L310488-S3" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310488-S3" ili="wikidata-bn-L310488-S3" partOfSpeech="x">
       <Definition>দুঃখ প্রকাশের শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L310523-S1" ili="wikidata-bn-L310523-S1" partOfSpeech="i">
       <Definition>নাট্যে সখীর প্রতি স্মবোধনসূচক শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310552-S1" ili="wikidata-bn-L310552-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310552-S1" ili="wikidata-bn-L310552-S1" partOfSpeech="x">
       <Definition>দ্রুত গমনের ভাব</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L310570-S1" ili="wikidata-bn-L310570-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L310570-S1" ili="wikidata-bn-L310570-S1" partOfSpeech="x">
       <Definition>প্রণব</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345492-S1" ili="wikidata-bn-L345492-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345492-S1" ili="wikidata-bn-L345492-S1" partOfSpeech="x">
       <Definition>ধাতু নির্মিত পাত্র ইত্যাদির শব্দ</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L345625-S1" ili="wikidata-bn-L345625-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-bn-L345625-S1" ili="wikidata-bn-L345625-S1" partOfSpeech="x">
       <Definition>আঘাতের শব্দ</Definition>
     </Synset>
     <Synset id="wikidata-bn-L408650-S1" ili="wikidata-bn-L408650-S1" partOfSpeech="m">
@@ -2761,7 +2761,7 @@
     <Synset id="wikidata-bn-L587404-S2" ili="wikidata-bn-L587404-S2" partOfSpeech="c">
       <Definition>অথবা</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-bn-L591873-S1" ili="wikidata-bn-L591873-S1" partOfSpeech="x">
       <Definition>সহিত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L618990-S1" ili="wikidata-bn-L618990-S1" partOfSpeech="r">
@@ -2773,7 +2773,7 @@
     <Synset id="wikidata-bn-L646666-S2" ili="wikidata-bn-L646666-S2" partOfSpeech="c">
       <Definition>তবু</Definition>
     </Synset>
-    <Synset id="wikidata-bn-L1220898-S1" ili="wikidata-bn-L1220898-S1" partOfSpeech="riddle">
+    <Synset id="wikidata-bn-L1220898-S1" ili="wikidata-bn-L1220898-S1" partOfSpeech="x">
       <Definition>ভাত</Definition>
     </Synset>
     <Synset id="wikidata-bn-L1229681-S1" ili="wikidata-bn-L1229681-S1" partOfSpeech="i">

@@ -15,7 +15,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1407957">
-      <Lemma writtenForm="Nukuʻalofa" partOfSpeech="locative noun"/>
+      <Lemma writtenForm="Nukuʻalofa" partOfSpeech="x"/>
       <Sense id="L1407957-S1" synset="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1">
         <Definition></Definition>
       </Sense>
@@ -23,7 +23,7 @@
     <Synset id="wikidata-to-L940736-S1" ili="wikidata-to-L940736-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1" partOfSpeech="locative noun">
+    <Synset id="wikidata-to-L1407957-S1" ili="wikidata-to-L1407957-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-ts" version="1.4"/>
     <LexicalEntry id="L700304">
-      <Lemma writtenForm="mahewu" partOfSpeech="mass noun"/>
+      <Lemma writtenForm="mahewu" partOfSpeech="x"/>
       <Sense id="L700304-S1" synset="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1" partOfSpeech="mass noun">
+    <Synset id="wikidata-ts-L700304-S1" ili="wikidata-ts-L700304-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

@@ -307,7 +307,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L940892">
-      <Lemma writtenForm="prvi" partOfSpeech="ordinal numeral"/>
+      <Lemma writtenForm="prvi" partOfSpeech="x"/>
       <Sense id="L940892-S1" synset="wikidata-hr-L940892-S1" ili="wikidata-hr-L940892-S1">
         <Definition>prema broju jedan; na početku nekog reda</Definition>
       </Sense>
@@ -498,7 +498,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235034">
-      <Lemma writtenForm="drugi" partOfSpeech="ordinal numeral"/>
+      <Lemma writtenForm="drugi" partOfSpeech="x"/>
       <Sense id="L1235034-S1" synset="wikidata-hr-L1235034-S1" ili="wikidata-hr-L1235034-S1">
         <Definition>prema broju dva; poslije prvog nekog reda</Definition>
       </Sense>
@@ -594,7 +594,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1464494">
-      <Lemma writtenForm="Sandi" partOfSpeech="given name"/>
+      <Lemma writtenForm="Sandi" partOfSpeech="x"/>
       <Sense id="L1464494-S1" synset="wikidata-hr-L1464494-S1" ili="wikidata-hr-L1464494-S1">
         <Definition>ime</Definition>
       </Sense>
@@ -752,7 +752,7 @@
     <Synset id="wikidata-hr-L741987-S1" ili="wikidata-hr-L741987-S1" partOfSpeech="c">
       <Definition>zato; budući da; zbog toga; veznica koja dava razlog</Definition>
     </Synset>
-    <Synset id="wikidata-hr-L940892-S1" ili="wikidata-hr-L940892-S1" partOfSpeech="ordinal numeral">
+    <Synset id="wikidata-hr-L940892-S1" ili="wikidata-hr-L940892-S1" partOfSpeech="x">
       <Definition>prema broju jedan; na početku nekog reda</Definition>
     </Synset>
     <Synset id="wikidata-hr-L1222535-S1" ili="wikidata-hr-L1222535-S1" partOfSpeech="c">
@@ -851,10 +851,10 @@
     <Synset id="wikidata-hr-L1234414-S2" ili="wikidata-hr-L1234414-S2" partOfSpeech="p">
       <Definition>u nekom redoslijedu nakon nešto drugog; odmah do nijega</Definition>
     </Synset>
-    <Synset id="wikidata-hr-L1235034-S1" ili="wikidata-hr-L1235034-S1" partOfSpeech="ordinal numeral">
+    <Synset id="wikidata-hr-L1235034-S1" ili="wikidata-hr-L1235034-S1" partOfSpeech="x">
       <Definition>prema broju dva; poslije prvog nekog reda</Definition>
     </Synset>
-    <Synset id="wikidata-hr-L1235034-S2" ili="wikidata-hr-L1235034-S2" partOfSpeech="ordinal numeral">
+    <Synset id="wikidata-hr-L1235034-S2" ili="wikidata-hr-L1235034-S2" partOfSpeech="x">
       <Definition>ne ovi</Definition>
     </Synset>
     <Synset id="wikidata-hr-L656142-S1" ili="wikidata-hr-L656142-S1" partOfSpeech="m">
@@ -902,7 +902,7 @@
     <Synset id="wikidata-hr-L1011283-S2" ili="wikidata-hr-L1011283-S2" partOfSpeech="c">
       <Definition>već; ali; osim; iznimka ili druga tema</Definition>
     </Synset>
-    <Synset id="wikidata-hr-L1464494-S1" ili="wikidata-hr-L1464494-S1" partOfSpeech="given name">
+    <Synset id="wikidata-hr-L1464494-S1" ili="wikidata-hr-L1464494-S1" partOfSpeech="x">
       <Definition>ime</Definition>
     </Synset>
   </LexiconExtension>

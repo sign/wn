@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-ss" version="1.4"/>
     <LexicalEntry id="L692952">
-      <Lemma writtenForm="emanti" partOfSpeech="mass noun"/>
+      <Lemma writtenForm="emanti" partOfSpeech="x"/>
       <Sense id="L692952-S1" synset="wikidata-ss-L692952-S1" ili="wikidata-ss-L692952-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ss-L692952-S1" ili="wikidata-ss-L692952-S1" partOfSpeech="mass noun">
+    <Synset id="wikidata-ss-L692952-S1" ili="wikidata-ss-L692952-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

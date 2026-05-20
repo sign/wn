@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-ps" version="1.4"/>
     <LexicalEntry id="L1012607">
-      <Lemma writtenForm="‍ټ" partOfSpeech="affix"/>
+      <Lemma writtenForm="‍ټ" partOfSpeech="x"/>
       <Sense id="L1012607-S1" synset="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1090471">
-      <Lemma writtenForm="په" partOfSpeech="ambiposition"/>
+      <Lemma writtenForm="په" partOfSpeech="x"/>
       <Sense id="L1090471-S1" synset="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1">
         <Definition></Definition>
       </Sense>
@@ -24,13 +24,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235444">
-      <Lemma writtenForm="د" partOfSpeech="ambiposition"/>
+      <Lemma writtenForm="د" partOfSpeech="x"/>
       <Sense id="L1235444-S1" synset="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235448">
-      <Lemma writtenForm="تر" partOfSpeech="ambiposition"/>
+      <Lemma writtenForm="تر" partOfSpeech="x"/>
       <Sense id="L1235448-S1" synset="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1">
         <Definition></Definition>
       </Sense>
@@ -45,7 +45,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235446">
-      <Lemma writtenForm="له" partOfSpeech="ambiposition"/>
+      <Lemma writtenForm="له" partOfSpeech="x"/>
       <Sense id="L1235446-S1" synset="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1">
         <Definition></Definition>
       </Sense>
@@ -57,7 +57,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1235451">
-      <Lemma writtenForm="ته" partOfSpeech="postposition"/>
+      <Lemma writtenForm="ته" partOfSpeech="x"/>
       <Sense id="L1235451-S1" synset="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1">
         <Definition></Definition>
       </Sense>
@@ -71,37 +71,37 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1" partOfSpeech="affix">
+    <Synset id="wikidata-ps-L1012607-S1" ili="wikidata-ps-L1012607-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1090471-S1" ili="wikidata-ps-L1090471-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1090471-S2" ili="wikidata-ps-L1090471-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1235444-S1" ili="wikidata-ps-L1235444-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1235448-S1" ili="wikidata-ps-L1235448-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1235448-S2" ili="wikidata-ps-L1235448-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L1235447-S1" ili="wikidata-ps-L1235447-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1" partOfSpeech="ambiposition">
+    <Synset id="wikidata-ps-L1235446-S1" ili="wikidata-ps-L1235446-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L1235450-S1" ili="wikidata-ps-L1235450-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-ps-L1235451-S1" ili="wikidata-ps-L1235451-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-ps-L1235451-S2" ili="wikidata-ps-L1235451-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ps-L709027-S1" ili="wikidata-ps-L709027-S1" partOfSpeech="m">

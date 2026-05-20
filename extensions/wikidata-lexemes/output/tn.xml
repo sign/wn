@@ -9,12 +9,12 @@
                     version="1.0">
     <Extends id="omw-tn" version="1.4"/>
     <LexicalEntry id="L700301">
-      <Lemma writtenForm="mashi" partOfSpeech="mass noun"/>
+      <Lemma writtenForm="mashi" partOfSpeech="x"/>
       <Sense id="L700301-S1" synset="wikidata-tn-L700301-S1" ili="wikidata-tn-L700301-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-tn-L700301-S1" ili="wikidata-tn-L700301-S1" partOfSpeech="mass noun">
+    <Synset id="wikidata-tn-L700301-S1" ili="wikidata-tn-L700301-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

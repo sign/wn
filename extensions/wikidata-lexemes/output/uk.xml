@@ -52,7 +52,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L10906">
-      <Lemma writtenForm="Ковальчук" partOfSpeech="family name"/>
+      <Lemma writtenForm="Ковальчук" partOfSpeech="x"/>
       <Sense id="L10906-S1" synset="wikidata-uk-L10906-S1" ili="wikidata-uk-L10906-S1">
         <Definition></Definition>
       </Sense>
@@ -91,7 +91,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1490646">
-      <Lemma writtenForm="Чмих" partOfSpeech="family name"/>
+      <Lemma writtenForm="Чмих" partOfSpeech="x"/>
       <Sense id="L1490646-S1" synset="wikidata-uk-L1490646-S1" ili="wikidata-uk-L1490646-S1">
         <Definition>українське прізвище</Definition>
       </Sense>
@@ -157,7 +157,7 @@
     <Synset id="wikidata-uk-L31546-S1" ili="wikidata-uk-L31546-S1" partOfSpeech="h">
       <Definition>відсутність когось</Definition>
     </Synset>
-    <Synset id="wikidata-uk-L10906-S1" ili="wikidata-uk-L10906-S1" partOfSpeech="family name">
+    <Synset id="wikidata-uk-L10906-S1" ili="wikidata-uk-L10906-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-uk-L1333228-S1" ili="l483-s1" partOfSpeech="h">
@@ -181,7 +181,7 @@
     <Synset id="wikidata-uk-L1333155-S2" ili="wikidata-uk-L1333155-S2" partOfSpeech="h">
       <Definition>одна особа будь-якої статі, до якої виражається пошана</Definition>
     </Synset>
-    <Synset id="wikidata-uk-L1490646-S1" ili="wikidata-uk-L1490646-S1" partOfSpeech="family name">
+    <Synset id="wikidata-uk-L1490646-S1" ili="wikidata-uk-L1490646-S1" partOfSpeech="x">
       <Definition>українське прізвище</Definition>
     </Synset>
     <Synset id="wikidata-uk-L1333212-S1" ili="wikidata-uk-L1333212-S1" partOfSpeech="h">

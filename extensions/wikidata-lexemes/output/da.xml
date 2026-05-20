@@ -34,7 +34,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41160">
-      <Lemma writtenForm="-ning" partOfSpeech="affix"/>
+      <Lemma writtenForm="-ning" partOfSpeech="x"/>
       <Sense id="L41160-S1" synset="wikidata-da-L41160-S1" ili="wikidata-da-L41160-S1">
         <Definition></Definition>
       </Sense>
@@ -83,7 +83,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L226733">
-      <Lemma writtenForm="-isk" partOfSpeech="affix"/>
+      <Lemma writtenForm="-isk" partOfSpeech="x"/>
       <Sense id="L226733-S1" synset="wikidata-da-L226733-S1" ili="wikidata-da-L226733-S1">
         <Definition>skaber tillægsord ud fra navneord</Definition>
       </Sense>
@@ -116,13 +116,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L348074">
-      <Lemma writtenForm="-um" partOfSpeech="affix"/>
+      <Lemma writtenForm="-um" partOfSpeech="x"/>
       <Sense id="L348074-S1" synset="wikidata-da-L348074-S1" ili="wikidata-da-L348074-S1">
         <Definition>hjem</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617400">
-      <Lemma writtenForm="-bank" partOfSpeech="affix"/>
+      <Lemma writtenForm="-bank" partOfSpeech="x"/>
       <Sense id="L617400-S1" synset="wikidata-da-L617400-S1" ili="wikidata-da-L617400-S1">
         <Definition>samling</Definition>
       </Sense>
@@ -147,31 +147,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678595">
-      <Lemma writtenForm="miav" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="miav" partOfSpeech="x"/>
       <Sense id="L678595-S1" synset="wikidata-da-L678595-S1" ili="wikidata-da-L678595-S1">
         <Definition>lyden fra en kat</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680151">
-      <Lemma writtenForm="fut" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="fut" partOfSpeech="x"/>
       <Sense id="L680151-S1" synset="wikidata-da-L680151-S1" ili="wikidata-da-L680151-S1">
         <Definition>lyden af et damplokomotiv</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689601">
-      <Lemma writtenForm="kukkuk" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="kukkuk" partOfSpeech="x"/>
       <Sense id="L689601-S1" synset="wikidata-da-L689601-S1" ili="wikidata-da-L689601-S1">
         <Definition>lyden fra en gøg</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L692550">
-      <Lemma writtenForm="petro-" partOfSpeech="affix"/>
+      <Lemma writtenForm="petro-" partOfSpeech="x"/>
       <Sense id="L692550-S1" synset="wikidata-da-L692550-S1" ili="wikidata-da-L692550-S1">
         <Definition>vedrørende olie eller olieprodukter</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701754">
-      <Lemma writtenForm="neo-" partOfSpeech="affix"/>
+      <Lemma writtenForm="neo-" partOfSpeech="x"/>
       <Sense id="L701754-S1" synset="wikidata-da-L701754-S1" ili="wikidata-da-L701754-S1">
         <Definition>ny</Definition>
       </Sense>
@@ -183,25 +183,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740393">
-      <Lemma writtenForm="zepto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="zepto-" partOfSpeech="x"/>
       <Sense id="L740393-S1" synset="wikidata-da-L740393-S1" ili="wikidata-da-L740393-S1">
         <Definition>trilliardtedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740396">
-      <Lemma writtenForm="deka-" partOfSpeech="affix"/>
+      <Lemma writtenForm="deka-" partOfSpeech="x"/>
       <Sense id="L740396-S1" synset="wikidata-da-L740396-S1" ili="wikidata-da-L740396-S1">
         <Definition>ti</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740399">
-      <Lemma writtenForm="exa-" partOfSpeech="affix"/>
+      <Lemma writtenForm="exa-" partOfSpeech="x"/>
       <Sense id="L740399-S1" synset="wikidata-da-L740399-S1" ili="wikidata-da-L740399-S1">
         <Definition>trillion</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740401">
-      <Lemma writtenForm="yotta-" partOfSpeech="affix"/>
+      <Lemma writtenForm="yotta-" partOfSpeech="x"/>
       <Sense id="L740401-S1" synset="wikidata-da-L740401-S1" ili="wikidata-da-L740401-S1">
         <Definition>kvadrillion</Definition>
       </Sense>
@@ -213,13 +213,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1012253">
-      <Lemma writtenForm="historisk tid" partOfSpeech="fixed expression"/>
+      <Lemma writtenForm="historisk tid" partOfSpeech="x"/>
       <Sense id="L1012253-S1" synset="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1">
         <Definition>tidsperiode med skriftlige kilder</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1081949">
-      <Lemma writtenForm="vedr." partOfSpeech="abbreviation"/>
+      <Lemma writtenForm="vedr." partOfSpeech="x"/>
       <Sense id="L1081949-S1" synset="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-da-L688421-S1"/>
@@ -281,7 +281,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218844">
-      <Lemma writtenForm="det ved den søde grød" partOfSpeech="locution"/>
+      <Lemma writtenForm="det ved den søde grød" partOfSpeech="x"/>
       <Sense id="L1218844-S1" synset="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1">
         <Definition>forstærkende kraftudtryk</Definition>
       </Sense>
@@ -319,7 +319,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L42980">
-      <Lemma writtenForm="røde hunde" partOfSpeech="fixed expression"/>
+      <Lemma writtenForm="røde hunde" partOfSpeech="x"/>
       <Sense id="L42980-S1" synset="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1">
         <Definition>børnesygdom</Definition>
         <Example>Vacciner mod polio, røde hunde, hepatitis B, difteri, mæslinger, fåresyge, rubella og meningitis er sammen med kombinationsterapilægemidler mod hiv, lægemidler til regulering af astma, livsopretholdelsessystemer til præmature spædbørn og deep brain-stimulering ved Parkinsons sygdom alle blevet udviklet via forsøg med dyr og navnlig primater.</Example>
@@ -382,13 +382,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617218">
-      <Lemma writtenForm="budget-" partOfSpeech="pseudo-affix"/>
+      <Lemma writtenForm="budget-" partOfSpeech="x"/>
       <Sense id="L617218-S1" synset="wikidata-da-L617218-S1" ili="wikidata-da-L617218-S1">
         <Definition>billig, lavpris</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617433">
-      <Lemma writtenForm="auto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="auto-" partOfSpeech="x"/>
       <Sense id="L617433-S1" synset="wikidata-da-L617433-S1" ili="wikidata-da-L617433-S1">
         <Definition>selv</Definition>
       </Sense>
@@ -412,7 +412,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689649">
-      <Lemma writtenForm="tera-" partOfSpeech="affix"/>
+      <Lemma writtenForm="tera-" partOfSpeech="x"/>
       <Sense id="L689649-S1" synset="wikidata-da-L689649-S1" ili="wikidata-da-L689649-S1">
         <Definition>billion</Definition>
       </Sense>
@@ -424,13 +424,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740391">
-      <Lemma writtenForm="femto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="femto-" partOfSpeech="x"/>
       <Sense id="L740391-S1" synset="wikidata-da-L740391-S1" ili="wikidata-da-L740391-S1">
         <Definition>billiardtedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L743652">
-      <Lemma writtenForm="hi" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="hi" partOfSpeech="x"/>
       <Sense id="L743652-S1" synset="wikidata-da-L743652-S1" ili="wikidata-da-L743652-S1">
         <Definition>ord som betyder at man griner og morer sig</Definition>
       </Sense>
@@ -454,7 +454,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1096038">
-      <Lemma writtenForm="-holdig" partOfSpeech="affix"/>
+      <Lemma writtenForm="-holdig" partOfSpeech="x"/>
       <Sense id="L1096038-S1" synset="wikidata-da-L1096038-S1" ili="wikidata-da-L1096038-S1">
         <Definition></Definition>
       </Sense>
@@ -538,7 +538,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1410651">
-      <Lemma writtenForm="røv-" partOfSpeech="affix"/>
+      <Lemma writtenForm="røv-" partOfSpeech="x"/>
       <Sense id="L1410651-S1" synset="wikidata-da-L1410651-S1" ili="wikidata-da-L1410651-S1">
         <Definition>meget</Definition>
       </Sense>
@@ -611,7 +611,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45435">
-      <Lemma writtenForm="muh" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="muh" partOfSpeech="x"/>
       <Sense id="L45435-S1" synset="wikidata-da-L45435-S1" ili="wikidata-da-L45435-S1">
         <Definition>lyden som en ko siger</Definition>
       </Sense>
@@ -654,7 +654,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L229757">
-      <Lemma writtenForm="mikro-" partOfSpeech="affix"/>
+      <Lemma writtenForm="mikro-" partOfSpeech="x"/>
       <Sense id="L229757-S1" synset="wikidata-da-L229757-S1" ili="wikidata-da-L229757-S1">
         <Definition>milliontedel</Definition>
       </Sense>
@@ -663,7 +663,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L229834">
-      <Lemma writtenForm="centi-" partOfSpeech="affix"/>
+      <Lemma writtenForm="centi-" partOfSpeech="x"/>
       <Sense id="L229834-S1" synset="wikidata-da-L229834-S1" ili="wikidata-da-L229834-S1">
         <Definition>SI-præfiks for en hundrededel</Definition>
       </Sense>
@@ -705,13 +705,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L678598">
-      <Lemma writtenForm="rap" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="rap" partOfSpeech="x"/>
       <Sense id="L678598-S1" synset="wikidata-da-L678598-S1" ili="wikidata-da-L678598-S1">
         <Definition>lyden fra en and</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680007">
-      <Lemma writtenForm="tøf" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="tøf" partOfSpeech="x"/>
       <Sense id="L680007-S1" synset="wikidata-da-L680007-S1" ili="wikidata-da-L680007-S1">
         <Definition>lyden fra et damptog eller maskine</Definition>
       </Sense>
@@ -748,7 +748,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689651">
-      <Lemma writtenForm="giga-" partOfSpeech="affix"/>
+      <Lemma writtenForm="giga-" partOfSpeech="x"/>
       <Sense id="L689651-S1" synset="wikidata-da-L689651-S1" ili="wikidata-da-L689651-S1">
         <Definition>milliard</Definition>
       </Sense>
@@ -760,7 +760,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740392">
-      <Lemma writtenForm="atto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="atto-" partOfSpeech="x"/>
       <Sense id="L740392-S1" synset="wikidata-da-L740392-S1" ili="wikidata-da-L740392-S1">
         <Definition>trilliontedel</Definition>
       </Sense>
@@ -877,13 +877,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45491">
-      <Lemma writtenForm="mæh" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="mæh" partOfSpeech="x"/>
       <Sense id="L45491-S1" synset="wikidata-da-L45491-S1" ili="wikidata-da-L45491-S1">
         <Definition>lyden fra et får eller et lam</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46649">
-      <Lemma writtenForm="aller-" partOfSpeech="affix"/>
+      <Lemma writtenForm="aller-" partOfSpeech="x"/>
       <Sense id="L46649-S1" synset="wikidata-da-L46649-S1" ili="wikidata-da-L46649-S1">
         <Definition>forstærker</Definition>
       </Sense>
@@ -901,19 +901,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L230425">
-      <Lemma writtenForm="afro-" partOfSpeech="affix"/>
+      <Lemma writtenForm="afro-" partOfSpeech="x"/>
       <Sense id="L230425-S1" synset="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1">
         <Definition>med relation til Afrika</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525206">
-      <Lemma writtenForm="spidssnudet frø" partOfSpeech="nominal"/>
+      <Lemma writtenForm="spidssnudet frø" partOfSpeech="x"/>
       <Sense id="L525206-S1" synset="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1">
         <Definition>frø af arten Rana arvalis</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L525225">
-      <Lemma writtenForm="grønbroget tudse" partOfSpeech="nominal"/>
+      <Lemma writtenForm="grønbroget tudse" partOfSpeech="x"/>
       <Sense id="L525225-S1" synset="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1">
         <Definition>padde i arten Pseudepidalea viridis</Definition>
       </Sense>
@@ -937,7 +937,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680152">
-      <Lemma writtenForm="kykliky" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="kykliky" partOfSpeech="x"/>
       <Sense id="L680152-S1" synset="wikidata-da-L680152-S1" ili="wikidata-da-L680152-S1">
         <Definition>lyden når en hane galer</Definition>
       </Sense>
@@ -955,25 +955,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691535">
-      <Lemma writtenForm="peta-" partOfSpeech="affix"/>
+      <Lemma writtenForm="peta-" partOfSpeech="x"/>
       <Sense id="L691535-S1" synset="wikidata-da-L691535-S1" ili="wikidata-da-L691535-S1">
         <Definition>billiard</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L691635">
-      <Lemma writtenForm="-ten" partOfSpeech="affix"/>
+      <Lemma writtenForm="-ten" partOfSpeech="x"/>
       <Sense id="L691635-S1" synset="wikidata-da-L691635-S1" ili="wikidata-da-L691635-S1">
         <Definition>ti</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701751">
-      <Lemma writtenForm="mediko-" partOfSpeech="affix"/>
+      <Lemma writtenForm="mediko-" partOfSpeech="x"/>
       <Sense id="L701751-S1" synset="wikidata-da-L701751-S1" ili="wikidata-da-L701751-S1">
         <Definition>lægeligt, behandlingsmæssigt eller medicinmæssig</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701752">
-      <Lemma writtenForm="ferro-" partOfSpeech="affix"/>
+      <Lemma writtenForm="ferro-" partOfSpeech="x"/>
       <Sense id="L701752-S1" synset="wikidata-da-L701752-S1" ili="wikidata-da-L701752-S1">
         <Definition>vedrørende jern</Definition>
       </Sense>
@@ -986,7 +986,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740402">
-      <Lemma writtenForm="ronna-" partOfSpeech="affix"/>
+      <Lemma writtenForm="ronna-" partOfSpeech="x"/>
       <Sense id="L740402-S1" synset="wikidata-da-L740402-S1" ili="wikidata-da-L740402-S1">
         <Definition>kvadrilliard</Definition>
       </Sense>
@@ -1005,7 +1005,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1071935">
-      <Lemma writtenForm="hetero-" partOfSpeech="affix"/>
+      <Lemma writtenForm="hetero-" partOfSpeech="x"/>
       <Sense id="L1071935-S1" synset="wikidata-da-L1071935-S1" ili="wikidata-da-L1071935-S1">
         <Definition></Definition>
       </Sense>
@@ -1063,13 +1063,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1379404">
-      <Lemma writtenForm="-al" partOfSpeech="affix"/>
+      <Lemma writtenForm="-al" partOfSpeech="x"/>
       <Sense id="L1379404-S1" synset="wikidata-da-L1379404-S1" ili="wikidata-da-L1379404-S1">
         <Definition>i kemi</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1411892">
-      <Lemma writtenForm="if." partOfSpeech="abbreviation"/>
+      <Lemma writtenForm="if." partOfSpeech="x"/>
       <Sense id="L1411892-S1" synset="wikidata-da-L1411892-S1" ili="wikidata-da-L1411892-S1">
         <Definition>ifølge</Definition>
         <SenseRelation relType="similar" target="wikidata-da-L42590-S1"/>
@@ -1082,7 +1082,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1548308">
-      <Lemma writtenForm="brand-" partOfSpeech="affix"/>
+      <Lemma writtenForm="brand-" partOfSpeech="x"/>
       <Sense id="L1548308-S1" synset="wikidata-da-L1548308-S1" ili="wikidata-da-L1548308-S1">
         <Definition>meget</Definition>
       </Sense>
@@ -1122,7 +1122,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L37815">
-      <Lemma writtenForm="vov" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="vov" partOfSpeech="x"/>
       <Sense id="L37815-S1" synset="wikidata-da-L37815-S1" ili="wikidata-da-L37815-S1">
         <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
         <SenseRelation relType="similar" target="wikidata-da-L617347-S1"/>
@@ -1155,7 +1155,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L42738">
-      <Lemma writtenForm="øf" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="øf" partOfSpeech="x"/>
       <Sense id="L42738-S1" synset="wikidata-da-L42738-S1" ili="wikidata-da-L42738-S1">
         <Definition>ord svarende til lyden fra et svin</Definition>
       </Sense>
@@ -1176,13 +1176,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45990">
-      <Lemma writtenForm="ur-" partOfSpeech="affix"/>
+      <Lemma writtenForm="ur-" partOfSpeech="x"/>
       <Sense id="L45990-S1" synset="wikidata-da-L45990-S1" ili="wikidata-da-L45990-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45991">
-      <Lemma writtenForm="tve-" partOfSpeech="affix"/>
+      <Lemma writtenForm="tve-" partOfSpeech="x"/>
       <Sense id="L45991-S1" synset="wikidata-da-L45991-S1" ili="wikidata-da-L45991-S1">
         <Definition>to</Definition>
       </Sense>
@@ -1205,7 +1205,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L60622">
-      <Lemma writtenForm="bio-" partOfSpeech="affix"/>
+      <Lemma writtenForm="bio-" partOfSpeech="x"/>
       <Sense id="L60622-S1" synset="wikidata-da-L60622-S1" ili="wikidata-da-L60622-S1">
         <Definition>vedrørende levende organismer</Definition>
       </Sense>
@@ -1245,7 +1245,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305311">
-      <Lemma writtenForm="hunde-" partOfSpeech="affix"/>
+      <Lemma writtenForm="hunde-" partOfSpeech="x"/>
       <Sense id="L305311-S1" synset="wikidata-da-L305311-S1" ili="wikidata-da-L305311-S1">
         <Definition>meget eller mere</Definition>
       </Sense>
@@ -1257,7 +1257,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314342">
-      <Lemma writtenForm="kilo-" partOfSpeech="affix"/>
+      <Lemma writtenForm="kilo-" partOfSpeech="x"/>
       <Sense id="L314342-S1" synset="wikidata-da-L314342-S1" ili="wikidata-da-L314342-S1">
         <Definition>tusind</Definition>
       </Sense>
@@ -1275,7 +1275,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L616838">
-      <Lemma writtenForm="-mat" partOfSpeech="affix"/>
+      <Lemma writtenForm="-mat" partOfSpeech="x"/>
       <Sense id="L616838-S1" synset="wikidata-da-L616838-S1" ili="wikidata-da-L616838-S1">
         <Definition>maskine, apparat</Definition>
       </Sense>
@@ -1287,13 +1287,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680008">
-      <Lemma writtenForm="vovvov" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="vovvov" partOfSpeech="x"/>
       <Sense id="L680008-S1" synset="wikidata-da-L680008-S1" ili="wikidata-da-L680008-S1">
         <Definition>lyden fra en gøende hund</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680148">
-      <Lemma writtenForm="plask" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="plask" partOfSpeech="x"/>
       <Sense id="L680148-S1" synset="wikidata-da-L680148-S1" ili="wikidata-da-L680148-S1">
         <Definition>lyden når noget stort falder i vandet eller når en større mængde vand smides på noget</Definition>
       </Sense>
@@ -1305,13 +1305,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740395">
-      <Lemma writtenForm="ronto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="ronto-" partOfSpeech="x"/>
       <Sense id="L740395-S1" synset="wikidata-da-L740395-S1" ili="wikidata-da-L740395-S1">
         <Definition>kvadrilliardedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740400">
-      <Lemma writtenForm="zetta-" partOfSpeech="affix"/>
+      <Lemma writtenForm="zetta-" partOfSpeech="x"/>
       <Sense id="L740400-S1" synset="wikidata-da-L740400-S1" ili="wikidata-da-L740400-S1">
         <Definition>trilliard</Definition>
       </Sense>
@@ -1434,13 +1434,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L221802">
-      <Lemma writtenForm="auto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="auto-" partOfSpeech="x"/>
       <Sense id="L221802-S1" synset="wikidata-da-L221802-S1" ili="wikidata-da-L221802-S1">
         <Definition>bil</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L231574">
-      <Lemma writtenForm="svine-" partOfSpeech="affix"/>
+      <Lemma writtenForm="svine-" partOfSpeech="x"/>
       <Sense id="L231574-S1" synset="wikidata-da-L231574-S1" ili="wikidata-da-L231574-S1">
         <Definition>forstærker</Definition>
       </Sense>
@@ -1481,25 +1481,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L313673">
-      <Lemma writtenForm="anti-" partOfSpeech="affix"/>
+      <Lemma writtenForm="anti-" partOfSpeech="x"/>
       <Sense id="L313673-S1" synset="wikidata-da-L313673-S1" ili="wikidata-da-L313673-S1">
         <Definition>mod</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L346919">
-      <Lemma writtenForm="pære-" partOfSpeech="affix"/>
+      <Lemma writtenForm="pære-" partOfSpeech="x"/>
       <Sense id="L346919-S1" synset="wikidata-da-L346919-S1" ili="wikidata-da-L346919-S1">
         <Definition>meget</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L586330">
-      <Lemma writtenForm="multi-" partOfSpeech="affix"/>
+      <Lemma writtenForm="multi-" partOfSpeech="x"/>
       <Sense id="L586330-S1" synset="wikidata-da-L586330-S1" ili="wikidata-da-L586330-S1">
         <Definition>flere</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617405">
-      <Lemma writtenForm="-bjerg" partOfSpeech="pseudo-affix"/>
+      <Lemma writtenForm="-bjerg" partOfSpeech="x"/>
       <Sense id="L617405-S1" synset="wikidata-da-L617405-S1" ili="wikidata-da-L617405-S1">
         <Definition>større ophobning</Definition>
       </Sense>
@@ -1511,31 +1511,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689604">
-      <Lemma writtenForm="pip" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="pip" partOfSpeech="x"/>
       <Sense id="L689604-S1" synset="wikidata-da-L689604-S1" ili="wikidata-da-L689604-S1">
         <Definition>lyden fra en fugl</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701755">
-      <Lemma writtenForm="død-" partOfSpeech="affix"/>
+      <Lemma writtenForm="død-" partOfSpeech="x"/>
       <Sense id="L701755-S1" synset="wikidata-da-L701755-S1" ili="wikidata-da-L701755-S1">
         <Definition>forstærker</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L701758">
-      <Lemma writtenForm="nano-" partOfSpeech="affix"/>
+      <Lemma writtenForm="nano-" partOfSpeech="x"/>
       <Sense id="L701758-S1" synset="wikidata-da-L701758-S1" ili="wikidata-da-L701758-S1">
         <Definition>milliardtedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740394">
-      <Lemma writtenForm="yokto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="yokto-" partOfSpeech="x"/>
       <Sense id="L740394-S1" synset="wikidata-da-L740394-S1" ili="wikidata-da-L740394-S1">
         <Definition>kvadrilliontedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L740397">
-      <Lemma writtenForm="hekto-" partOfSpeech="affix"/>
+      <Lemma writtenForm="hekto-" partOfSpeech="x"/>
       <Sense id="L740397-S1" synset="wikidata-da-L740397-S1" ili="wikidata-da-L740397-S1">
         <Definition>hundrede</Definition>
       </Sense>
@@ -1586,7 +1586,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1121989">
-      <Lemma writtenForm="drøn-" partOfSpeech="affix"/>
+      <Lemma writtenForm="drøn-" partOfSpeech="x"/>
       <Sense id="L1121989-S1" synset="wikidata-da-L1121989-S1" ili="wikidata-da-L1121989-S1">
         <Definition>meget, i høj grad</Definition>
       </Sense>
@@ -1599,7 +1599,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218343">
-      <Lemma writtenForm="det var kattens" partOfSpeech="idiomatic interjection"/>
+      <Lemma writtenForm="det var kattens" partOfSpeech="x"/>
       <Sense id="L1218343-S1" synset="wikidata-da-L1218343-S1" ili="l1218344-s1">
         <Definition>udtryk for bestyrtelse og overraskelse</Definition>
       </Sense>
@@ -1662,7 +1662,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L46737">
-      <Lemma writtenForm="a-" partOfSpeech="affix"/>
+      <Lemma writtenForm="a-" partOfSpeech="x"/>
       <Sense id="L46737-S1" synset="wikidata-da-L46737-S1" ili="wikidata-da-L46737-S1">
         <Definition>nægtende eller modsigende</Definition>
       </Sense>
@@ -1681,7 +1681,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L301387">
-      <Lemma writtenForm="semi-" partOfSpeech="affix"/>
+      <Lemma writtenForm="semi-" partOfSpeech="x"/>
       <Sense id="L301387-S1" synset="wikidata-da-L301387-S1" ili="wikidata-da-L301387-S1">
         <Definition>halv</Definition>
       </Sense>
@@ -1699,13 +1699,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L347059">
-      <Lemma writtenForm="milli-" partOfSpeech="affix"/>
+      <Lemma writtenForm="milli-" partOfSpeech="x"/>
       <Sense id="L347059-S1" synset="wikidata-da-L347059-S1" ili="wikidata-da-L347059-S1">
         <Definition>tusindedel</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L586960">
-      <Lemma writtenForm="deci-" partOfSpeech="affix"/>
+      <Lemma writtenForm="deci-" partOfSpeech="x"/>
       <Sense id="L586960-S1" synset="wikidata-da-L586960-S1" ili="wikidata-da-L586960-S1">
         <Definition>tiendedel</Definition>
       </Sense>
@@ -1723,13 +1723,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680004">
-      <Lemma writtenForm="bang" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="bang" partOfSpeech="x"/>
       <Sense id="L680004-S1" synset="wikidata-da-L680004-S1" ili="wikidata-da-L680004-S1">
         <Definition>lyd fra skud eller lignende høj og kort lyd</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680009">
-      <Lemma writtenForm="tik tak" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="tik tak" partOfSpeech="x"/>
       <Sense id="L680009-S1" synset="wikidata-da-L680009-S1" ili="wikidata-da-L680009-S1">
         <Definition>lyden fra et mekanisk ur når det går</Definition>
       </Sense>
@@ -1785,7 +1785,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L991483">
-      <Lemma writtenForm="-basse" partOfSpeech="affix"/>
+      <Lemma writtenForm="-basse" partOfSpeech="x"/>
       <Sense id="L991483-S1" synset="wikidata-da-L991483-S1" ili="wikidata-da-L991483-S1">
         <Definition>person</Definition>
       </Sense>
@@ -1849,7 +1849,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1121988">
-      <Lemma writtenForm="skide-" partOfSpeech="affix"/>
+      <Lemma writtenForm="skide-" partOfSpeech="x"/>
       <Sense id="L1121988-S1" synset="wikidata-da-L1121988-S1" ili="wikidata-da-L1121988-S1">
         <Definition></Definition>
       </Sense>
@@ -1861,7 +1861,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329361">
-      <Lemma writtenForm="noget for noget" partOfSpeech="popular saying"/>
+      <Lemma writtenForm="noget for noget" partOfSpeech="x"/>
       <Sense id="L1329361-S1" synset="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1">
         <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
       </Sense>
@@ -1902,13 +1902,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41825">
-      <Lemma writtenForm="-hed" partOfSpeech="affix"/>
+      <Lemma writtenForm="-hed" partOfSpeech="x"/>
       <Sense id="L41825-S1" synset="wikidata-da-L41825-S1" ili="wikidata-da-L41825-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41826">
-      <Lemma writtenForm="-skab" partOfSpeech="affix"/>
+      <Lemma writtenForm="-skab" partOfSpeech="x"/>
       <Sense id="L41826-S1" synset="wikidata-da-L41826-S1" ili="wikidata-da-L41826-S1">
         <Definition></Definition>
       </Sense>
@@ -1926,7 +1926,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45020">
-      <Lemma writtenForm="-isme" partOfSpeech="affix"/>
+      <Lemma writtenForm="-isme" partOfSpeech="x"/>
       <Sense id="L45020-S1" synset="wikidata-da-L45020-S1" ili="wikidata-da-L45020-S1">
         <Definition></Definition>
       </Sense>
@@ -1974,7 +1974,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L314932">
-      <Lemma writtenForm="super-" partOfSpeech="affix"/>
+      <Lemma writtenForm="super-" partOfSpeech="x"/>
       <Sense id="L314932-S1" synset="wikidata-da-L314932-S1" ili="wikidata-da-L314932-S1">
         <Definition></Definition>
       </Sense>
@@ -2001,7 +2001,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477384">
-      <Lemma writtenForm="in-" partOfSpeech="affix"/>
+      <Lemma writtenForm="in-" partOfSpeech="x"/>
       <Sense id="L477384-S1" synset="wikidata-da-L477384-S1" ili="wikidata-da-L477384-S1">
         <Definition>med modsat egenskab</Definition>
       </Sense>
@@ -2013,13 +2013,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L582940">
-      <Lemma writtenForm="pisse-" partOfSpeech="affix"/>
+      <Lemma writtenForm="pisse-" partOfSpeech="x"/>
       <Sense id="L582940-S1" synset="wikidata-da-L582940-S1" ili="wikidata-da-L582940-S1">
         <Definition>meget</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L617347">
-      <Lemma writtenForm="vuf" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="vuf" partOfSpeech="x"/>
       <Sense id="L617347-S1" synset="wikidata-da-L617347-S1" ili="wikidata-da-L617347-S1">
         <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
         <SenseRelation relType="similar" target="wikidata-da-L37815-S1"/>
@@ -2032,7 +2032,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L680150">
-      <Lemma writtenForm="atju" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="atju" partOfSpeech="x"/>
       <Sense id="L680150-S1" synset="wikidata-da-L680150-S1" ili="wikidata-da-L680150-S1">
         <Definition>lyden af et nys</Definition>
       </Sense>
@@ -2044,7 +2044,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L689616">
-      <Lemma writtenForm="plaf" partOfSpeech="onomatopoeia"/>
+      <Lemma writtenForm="plaf" partOfSpeech="x"/>
       <Sense id="L689616-S1" synset="wikidata-da-L689616-S1" ili="wikidata-da-L689616-S1">
         <Definition></Definition>
       </Sense>
@@ -2101,7 +2101,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1218379">
-      <Lemma writtenForm="hvad fanden" partOfSpeech="idiomatic interjection"/>
+      <Lemma writtenForm="hvad fanden" partOfSpeech="x"/>
       <Sense id="L1218379-S1" synset="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1">
         <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
       </Sense>
@@ -2122,7 +2122,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1379403">
-      <Lemma writtenForm="-al" partOfSpeech="affix"/>
+      <Lemma writtenForm="-al" partOfSpeech="x"/>
       <Sense id="L1379403-S1" synset="wikidata-da-L1379403-S1" ili="wikidata-da-L1379403-S1">
         <Definition>fx i: kollegial, normal</Definition>
       </Sense>
@@ -2151,7 +2151,7 @@
     <Synset id="wikidata-da-L37479-S1" ili="l333-s1" partOfSpeech="m">
       <Definition>tallet efter fire og før seks</Definition>
     </Synset>
-    <Synset id="wikidata-da-L41160-S1" ili="wikidata-da-L41160-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L41160-S1" ili="wikidata-da-L41160-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L42590-S1" ili="wikidata-da-L42590-S1" partOfSpeech="p">
@@ -2172,7 +2172,7 @@
     <Synset id="wikidata-da-L48465-S1" ili="wikidata-da-L48465-S1" partOfSpeech="m">
       <Definition>tallet 11 mellem ti og tolv</Definition>
     </Synset>
-    <Synset id="wikidata-da-L226733-S1" ili="wikidata-da-L226733-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L226733-S1" ili="wikidata-da-L226733-S1" partOfSpeech="x">
       <Definition>skaber tillægsord ud fra navneord</Definition>
     </Synset>
     <Synset id="wikidata-da-L226745-S1" ili="wikidata-da-L226745-S1" partOfSpeech="i">
@@ -2187,10 +2187,10 @@
     <Synset id="wikidata-da-L235257-S1" ili="wikidata-da-L235257-S1" partOfSpeech="m">
       <Definition>tallet 60</Definition>
     </Synset>
-    <Synset id="wikidata-da-L348074-S1" ili="wikidata-da-L348074-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L348074-S1" ili="wikidata-da-L348074-S1" partOfSpeech="x">
       <Definition>hjem</Definition>
     </Synset>
-    <Synset id="wikidata-da-L617400-S1" ili="wikidata-da-L617400-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L617400-S1" ili="wikidata-da-L617400-S1" partOfSpeech="x">
       <Definition>samling</Definition>
     </Synset>
     <Synset id="wikidata-da-L642118-S1" ili="wikidata-da-L642118-S1" partOfSpeech="c">
@@ -2202,43 +2202,43 @@
     <Synset id="wikidata-da-L671960-S1" ili="wikidata-da-L671960-S1" partOfSpeech="m">
       <Definition>tallet 40</Definition>
     </Synset>
-    <Synset id="wikidata-da-L678595-S1" ili="wikidata-da-L678595-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L678595-S1" ili="wikidata-da-L678595-S1" partOfSpeech="x">
       <Definition>lyden fra en kat</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680151-S1" ili="wikidata-da-L680151-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680151-S1" ili="wikidata-da-L680151-S1" partOfSpeech="x">
       <Definition>lyden af et damplokomotiv</Definition>
     </Synset>
-    <Synset id="wikidata-da-L689601-S1" ili="wikidata-da-L689601-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L689601-S1" ili="wikidata-da-L689601-S1" partOfSpeech="x">
       <Definition>lyden fra en gøg</Definition>
     </Synset>
-    <Synset id="wikidata-da-L692550-S1" ili="wikidata-da-L692550-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L692550-S1" ili="wikidata-da-L692550-S1" partOfSpeech="x">
       <Definition>vedrørende olie eller olieprodukter</Definition>
     </Synset>
-    <Synset id="wikidata-da-L701754-S1" ili="wikidata-da-L701754-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L701754-S1" ili="wikidata-da-L701754-S1" partOfSpeech="x">
       <Definition>ny</Definition>
     </Synset>
     <Synset id="wikidata-da-L735050-S1" ili="wikidata-da-L735050-S1" partOfSpeech="m">
       <Definition>tallet 30</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740393-S1" ili="wikidata-da-L740393-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740393-S1" ili="wikidata-da-L740393-S1" partOfSpeech="x">
       <Definition>trilliardtedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740396-S1" ili="wikidata-da-L740396-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740396-S1" ili="wikidata-da-L740396-S1" partOfSpeech="x">
       <Definition>ti</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740399-S1" ili="wikidata-da-L740399-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740399-S1" ili="wikidata-da-L740399-S1" partOfSpeech="x">
       <Definition>trillion</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740401-S1" ili="wikidata-da-L740401-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740401-S1" ili="wikidata-da-L740401-S1" partOfSpeech="x">
       <Definition>kvadrillion</Definition>
     </Synset>
     <Synset id="wikidata-da-L1010820-S1" ili="wikidata-da-L1010820-S1" partOfSpeech="m">
       <Definition>tallet 64</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1" partOfSpeech="fixed expression">
+    <Synset id="wikidata-da-L1012253-S1" ili="wikidata-da-L1012253-S1" partOfSpeech="x">
       <Definition>tidsperiode med skriftlige kilder</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1" partOfSpeech="abbreviation">
+    <Synset id="wikidata-da-L1081949-S1" ili="wikidata-da-L1081949-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L1117249-S1" ili="wikidata-da-L1117249-S1" partOfSpeech="m">
@@ -2265,7 +2265,7 @@
     <Synset id="wikidata-da-L1119259-S1" ili="wikidata-da-L1119259-S1" partOfSpeech="m">
       <Definition>tallet 85</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1" partOfSpeech="locution">
+    <Synset id="wikidata-da-L1218844-S1" ili="wikidata-da-L1218844-S1" partOfSpeech="x">
       <Definition>forstærkende kraftudtryk</Definition>
     </Synset>
     <Synset id="wikidata-da-L1219584-S1" ili="wikidata-da-L1219584-S1" partOfSpeech="i">
@@ -2283,7 +2283,7 @@
     <Synset id="wikidata-da-L42265-S1" ili="wikidata-da-L42265-S1" partOfSpeech="m">
       <Definition>tallet mellem 6 og 8</Definition>
     </Synset>
-    <Synset id="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1" partOfSpeech="fixed expression">
+    <Synset id="wikidata-da-L42980-S1" ili="wikidata-da-L42980-S1" partOfSpeech="x">
       <Definition>børnesygdom</Definition>
     </Synset>
     <Synset id="wikidata-da-L43254-S1" ili="wikidata-da-L43254-S1" partOfSpeech="m">
@@ -2310,10 +2310,10 @@
     <Synset id="wikidata-da-L448762-S1" ili="wikidata-da-L448762-S1" partOfSpeech="m">
       <Definition>tallet 22</Definition>
     </Synset>
-    <Synset id="wikidata-da-L617218-S1" ili="wikidata-da-L617218-S1" partOfSpeech="pseudo-affix">
+    <Synset id="wikidata-da-L617218-S1" ili="wikidata-da-L617218-S1" partOfSpeech="x">
       <Definition>billig, lavpris</Definition>
     </Synset>
-    <Synset id="wikidata-da-L617433-S1" ili="wikidata-da-L617433-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L617433-S1" ili="wikidata-da-L617433-S1" partOfSpeech="x">
       <Definition>selv</Definition>
     </Synset>
     <Synset id="wikidata-da-L688424-S1" ili="wikidata-da-L688424-S1" partOfSpeech="p">
@@ -2325,16 +2325,16 @@
     <Synset id="wikidata-da-L689152-S1" ili="wikidata-da-L689152-S1" partOfSpeech="c">
       <Definition>som, i egenskab af</Definition>
     </Synset>
-    <Synset id="wikidata-da-L689649-S1" ili="wikidata-da-L689649-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L689649-S1" ili="wikidata-da-L689649-S1" partOfSpeech="x">
       <Definition>billion</Definition>
     </Synset>
     <Synset id="wikidata-da-L691760-S1" ili="wikidata-da-L691760-S1" partOfSpeech="m">
       <Definition>et element i en rækkefølge angivet ved variablen &apos;x&apos;</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740391-S1" ili="wikidata-da-L740391-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740391-S1" ili="wikidata-da-L740391-S1" partOfSpeech="x">
       <Definition>billiardtedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L743652-S1" ili="wikidata-da-L743652-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L743652-S1" ili="wikidata-da-L743652-S1" partOfSpeech="x">
       <Definition>ord som betyder at man griner og morer sig</Definition>
     </Synset>
     <Synset id="wikidata-da-L941897-S1" ili="wikidata-da-L941897-S1" partOfSpeech="m">
@@ -2346,7 +2346,7 @@
     <Synset id="wikidata-da-L1010814-S1" ili="wikidata-da-L1010814-S1" partOfSpeech="m">
       <Definition>tallet 94</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1096038-S1" ili="wikidata-da-L1096038-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1096038-S1" ili="wikidata-da-L1096038-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L1116352-S1" ili="wikidata-da-L1116352-S1" partOfSpeech="m">
@@ -2385,7 +2385,7 @@
     <Synset id="wikidata-da-L1330485-S1" ili="wikidata-da-L1330485-S1" partOfSpeech="h">
       <Definition>formelt eller høfligt pronomen brugt til at adressere en person</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1410651-S1" ili="wikidata-da-L1410651-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1410651-S1" ili="wikidata-da-L1410651-S1" partOfSpeech="x">
       <Definition>meget</Definition>
     </Synset>
     <Synset id="wikidata-da-L1504424-S1" ili="wikidata-da-L1504424-S1" partOfSpeech="i">
@@ -2418,7 +2418,7 @@
     <Synset id="wikidata-da-L42598-S1" ili="wikidata-da-L42598-S1" partOfSpeech="p">
       <Definition>med udelukkelse af</Definition>
     </Synset>
-    <Synset id="wikidata-da-L45435-S1" ili="wikidata-da-L45435-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L45435-S1" ili="wikidata-da-L45435-S1" partOfSpeech="x">
       <Definition>lyden som en ko siger</Definition>
     </Synset>
     <Synset id="wikidata-da-L48468-S1" ili="wikidata-da-L48468-S1" partOfSpeech="m">
@@ -2436,13 +2436,13 @@
     <Synset id="wikidata-da-L229711-S1" ili="wikidata-da-L229711-S1" partOfSpeech="i">
       <Definition>udtryk for smerte</Definition>
     </Synset>
-    <Synset id="wikidata-da-L229757-S1" ili="wikidata-da-L229757-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L229757-S1" ili="wikidata-da-L229757-S1" partOfSpeech="x">
       <Definition>milliontedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L229757-S2" ili="wikidata-da-L229757-S2" partOfSpeech="affix">
+    <Synset id="wikidata-da-L229757-S2" ili="wikidata-da-L229757-S2" partOfSpeech="x">
       <Definition>meget småt</Definition>
     </Synset>
-    <Synset id="wikidata-da-L229834-S1" ili="wikidata-da-L229834-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L229834-S1" ili="wikidata-da-L229834-S1" partOfSpeech="x">
       <Definition>SI-præfiks for en hundrededel</Definition>
     </Synset>
     <Synset id="wikidata-da-L347404-S1" ili="wikidata-da-L347404-S1" partOfSpeech="c">
@@ -2463,10 +2463,10 @@
     <Synset id="wikidata-da-L654903-S1" ili="wikidata-da-L654903-S1" partOfSpeech="m">
       <Definition>tallet 91</Definition>
     </Synset>
-    <Synset id="wikidata-da-L678598-S1" ili="wikidata-da-L678598-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L678598-S1" ili="wikidata-da-L678598-S1" partOfSpeech="x">
       <Definition>lyden fra en and</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680007-S1" ili="wikidata-da-L680007-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680007-S1" ili="wikidata-da-L680007-S1" partOfSpeech="x">
       <Definition>lyden fra et damptog eller maskine</Definition>
     </Synset>
     <Synset id="wikidata-da-L688421-S1" ili="wikidata-da-L688421-S1" partOfSpeech="p">
@@ -2481,13 +2481,13 @@
     <Synset id="wikidata-da-L688430-S1" ili="wikidata-da-L688430-S1" partOfSpeech="i">
       <Definition>farvel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L689651-S1" ili="wikidata-da-L689651-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L689651-S1" ili="wikidata-da-L689651-S1" partOfSpeech="x">
       <Definition>milliard</Definition>
     </Synset>
     <Synset id="wikidata-da-L691054-S1" ili="wikidata-da-L691054-S1" partOfSpeech="i">
       <Definition>udtryk brugt når man presenterer noget for andre for at tilkalde deres opmærksomhed</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740392-S1" ili="wikidata-da-L740392-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740392-S1" ili="wikidata-da-L740392-S1" partOfSpeech="x">
       <Definition>trilliontedel</Definition>
     </Synset>
     <Synset id="wikidata-da-L1079337-S1" ili="wikidata-da-L1079337-S1" partOfSpeech="m">
@@ -2541,10 +2541,10 @@
     <Synset id="wikidata-da-L42604-S1" ili="wikidata-da-L42604-S1" partOfSpeech="p">
       <Definition>lige overfor</Definition>
     </Synset>
-    <Synset id="wikidata-da-L45491-S1" ili="wikidata-da-L45491-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L45491-S1" ili="wikidata-da-L45491-S1" partOfSpeech="x">
       <Definition>lyden fra et får eller et lam</Definition>
     </Synset>
-    <Synset id="wikidata-da-L46649-S1" ili="wikidata-da-L46649-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L46649-S1" ili="wikidata-da-L46649-S1" partOfSpeech="x">
       <Definition>forstærker</Definition>
     </Synset>
     <Synset id="wikidata-da-L48588-S1" ili="wikidata-da-L48588-S1" partOfSpeech="m">
@@ -2553,13 +2553,13 @@
     <Synset id="wikidata-da-L53043-S1" ili="wikidata-da-L53043-S1" partOfSpeech="i">
       <Definition>kommando til hest for at få den til at bevæge sig</Definition>
     </Synset>
-    <Synset id="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L230425-S1" ili="wikidata-da-L230425-S1" partOfSpeech="x">
       <Definition>med relation til Afrika</Definition>
     </Synset>
-    <Synset id="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1" partOfSpeech="nominal">
+    <Synset id="wikidata-da-L525206-S1" ili="wikidata-da-L525206-S1" partOfSpeech="x">
       <Definition>frø af arten Rana arvalis</Definition>
     </Synset>
-    <Synset id="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1" partOfSpeech="nominal">
+    <Synset id="wikidata-da-L525225-S1" ili="wikidata-da-L525225-S1" partOfSpeech="x">
       <Definition>padde i arten Pseudepidalea viridis</Definition>
     </Synset>
     <Synset id="wikidata-da-L654892-S1" ili="wikidata-da-L654892-S1" partOfSpeech="m">
@@ -2571,7 +2571,7 @@
     <Synset id="wikidata-da-L679278-S1" ili="wikidata-da-L679278-S1" partOfSpeech="m">
       <Definition>tallet 20</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680152-S1" ili="wikidata-da-L680152-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680152-S1" ili="wikidata-da-L680152-S1" partOfSpeech="x">
       <Definition>lyden når en hane galer</Definition>
     </Synset>
     <Synset id="wikidata-da-L689207-S1" ili="wikidata-da-L689207-S1" partOfSpeech="c">
@@ -2580,22 +2580,22 @@
     <Synset id="wikidata-da-L691077-S1" ili="wikidata-da-L691077-S1" partOfSpeech="i">
       <Definition>kommando til hund om at den skal hente noget</Definition>
     </Synset>
-    <Synset id="wikidata-da-L691535-S1" ili="wikidata-da-L691535-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L691535-S1" ili="wikidata-da-L691535-S1" partOfSpeech="x">
       <Definition>billiard</Definition>
     </Synset>
-    <Synset id="wikidata-da-L691635-S1" ili="wikidata-da-L691635-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L691635-S1" ili="wikidata-da-L691635-S1" partOfSpeech="x">
       <Definition>ti</Definition>
     </Synset>
-    <Synset id="wikidata-da-L701751-S1" ili="wikidata-da-L701751-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L701751-S1" ili="wikidata-da-L701751-S1" partOfSpeech="x">
       <Definition>lægeligt, behandlingsmæssigt eller medicinmæssig</Definition>
     </Synset>
-    <Synset id="wikidata-da-L701752-S1" ili="wikidata-da-L701752-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L701752-S1" ili="wikidata-da-L701752-S1" partOfSpeech="x">
       <Definition>vedrørende jern</Definition>
     </Synset>
     <Synset id="wikidata-da-L702778-S1" ili="wikidata-da-L702778-S1" partOfSpeech="m">
       <Definition>ordinaltallet 8</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740402-S1" ili="wikidata-da-L740402-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740402-S1" ili="wikidata-da-L740402-S1" partOfSpeech="x">
       <Definition>kvadrilliard</Definition>
     </Synset>
     <Synset id="wikidata-da-L1010816-S1" ili="wikidata-da-L1010816-S1" partOfSpeech="m">
@@ -2604,7 +2604,7 @@
     <Synset id="wikidata-da-L1010818-S1" ili="wikidata-da-L1010818-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L1071935-S1" ili="wikidata-da-L1071935-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1071935-S1" ili="wikidata-da-L1071935-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L1116351-S1" ili="wikidata-da-L1116351-S1" partOfSpeech="m">
@@ -2631,16 +2631,16 @@
     <Synset id="wikidata-da-L1278488-S1" ili="wikidata-da-L1278488-S1" partOfSpeech="m">
       <Definition>tallet 83</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1379404-S1" ili="wikidata-da-L1379404-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1379404-S1" ili="wikidata-da-L1379404-S1" partOfSpeech="x">
       <Definition>i kemi</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1411892-S1" ili="wikidata-da-L1411892-S1" partOfSpeech="abbreviation">
+    <Synset id="wikidata-da-L1411892-S1" ili="wikidata-da-L1411892-S1" partOfSpeech="x">
       <Definition>ifølge</Definition>
     </Synset>
     <Synset id="wikidata-da-L1504412-S1" ili="wikidata-da-L1504412-S1" partOfSpeech="i">
       <Definition>kommando til en hund om at den skal sætte sig ned</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1548308-S1" ili="wikidata-da-L1548308-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1548308-S1" ili="wikidata-da-L1548308-S1" partOfSpeech="x">
       <Definition>meget</Definition>
     </Synset>
     <Synset id="wikidata-da-L3833-S1" ili="l1385-s1" partOfSpeech="c">
@@ -2661,7 +2661,7 @@
     <Synset id="wikidata-da-L37495-S1" ili="wikidata-da-L37495-S1" partOfSpeech="p">
       <Definition>cirka</Definition>
     </Synset>
-    <Synset id="wikidata-da-L37815-S1" ili="wikidata-da-L37815-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L37815-S1" ili="wikidata-da-L37815-S1" partOfSpeech="x">
       <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
     </Synset>
     <Synset id="wikidata-da-L37930-S1" ili="wikidata-da-L37930-S1" partOfSpeech="m">
@@ -2676,7 +2676,7 @@
     <Synset id="wikidata-da-L42602-S1" ili="wikidata-da-L42602-S1" partOfSpeech="p">
       <Definition>for</Definition>
     </Synset>
-    <Synset id="wikidata-da-L42738-S1" ili="wikidata-da-L42738-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L42738-S1" ili="wikidata-da-L42738-S1" partOfSpeech="x">
       <Definition>ord svarende til lyden fra et svin</Definition>
     </Synset>
     <Synset id="wikidata-da-L43431-S1" ili="wikidata-da-L43431-S1" partOfSpeech="i">
@@ -2685,10 +2685,10 @@
     <Synset id="wikidata-da-L45900-S1" ili="wikidata-da-L45900-S1" partOfSpeech="m">
       <Definition>tallet 25</Definition>
     </Synset>
-    <Synset id="wikidata-da-L45990-S1" ili="wikidata-da-L45990-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L45990-S1" ili="wikidata-da-L45990-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L45991-S1" ili="wikidata-da-L45991-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L45991-S1" ili="wikidata-da-L45991-S1" partOfSpeech="x">
       <Definition>to</Definition>
     </Synset>
     <Synset id="wikidata-da-L48470-S1" ili="wikidata-da-L48470-S1" partOfSpeech="m">
@@ -2700,7 +2700,7 @@
     <Synset id="wikidata-da-L48591-S1" ili="wikidata-da-L48591-S1" partOfSpeech="m">
       <Definition>4.; ordinaltallet 4</Definition>
     </Synset>
-    <Synset id="wikidata-da-L60622-S1" ili="wikidata-da-L60622-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L60622-S1" ili="wikidata-da-L60622-S1" partOfSpeech="x">
       <Definition>vedrørende levende organismer</Definition>
     </Synset>
     <Synset id="wikidata-da-L184199-S1" ili="wikidata-da-L184199-S1" partOfSpeech="h">
@@ -2718,13 +2718,13 @@
     <Synset id="wikidata-da-L302337-S1" ili="wikidata-da-L302337-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L305311-S1" ili="wikidata-da-L305311-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L305311-S1" ili="wikidata-da-L305311-S1" partOfSpeech="x">
       <Definition>meget eller mere</Definition>
     </Synset>
     <Synset id="wikidata-da-L308267-S1" ili="wikidata-da-L308267-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L314342-S1" ili="wikidata-da-L314342-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L314342-S1" ili="wikidata-da-L314342-S1" partOfSpeech="x">
       <Definition>tusind</Definition>
     </Synset>
     <Synset id="wikidata-da-L346500-S1" ili="wikidata-da-L346500-S1" partOfSpeech="h">
@@ -2733,25 +2733,25 @@
     <Synset id="wikidata-da-L465341-S1" ili="wikidata-da-L465341-S1" partOfSpeech="m">
       <Definition>tallet 27</Definition>
     </Synset>
-    <Synset id="wikidata-da-L616838-S1" ili="wikidata-da-L616838-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L616838-S1" ili="wikidata-da-L616838-S1" partOfSpeech="x">
       <Definition>maskine, apparat</Definition>
     </Synset>
     <Synset id="wikidata-da-L620414-S1" ili="wikidata-da-L620414-S1" partOfSpeech="i">
       <Definition>held og lykke</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680008-S1" ili="wikidata-da-L680008-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680008-S1" ili="wikidata-da-L680008-S1" partOfSpeech="x">
       <Definition>lyden fra en gøende hund</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680148-S1" ili="wikidata-da-L680148-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680148-S1" ili="wikidata-da-L680148-S1" partOfSpeech="x">
       <Definition>lyden når noget stort falder i vandet eller når en større mængde vand smides på noget</Definition>
     </Synset>
     <Synset id="wikidata-da-L689005-S1" ili="wikidata-da-L689005-S1" partOfSpeech="p">
       <Definition>på samme måde som</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740395-S1" ili="wikidata-da-L740395-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740395-S1" ili="wikidata-da-L740395-S1" partOfSpeech="x">
       <Definition>kvadrilliardedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740400-S1" ili="wikidata-da-L740400-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740400-S1" ili="wikidata-da-L740400-S1" partOfSpeech="x">
       <Definition>trilliard</Definition>
     </Synset>
     <Synset id="wikidata-da-L984405-S1" ili="wikidata-da-L984405-S1" partOfSpeech="m">
@@ -2808,10 +2808,10 @@
     <Synset id="wikidata-da-L48587-S1" ili="l1323942-s1" partOfSpeech="h">
       <Definition>med forskel i forbindelse med selektiv referentialitet og kategori</Definition>
     </Synset>
-    <Synset id="wikidata-da-L221802-S1" ili="wikidata-da-L221802-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L221802-S1" ili="wikidata-da-L221802-S1" partOfSpeech="x">
       <Definition>bil</Definition>
     </Synset>
-    <Synset id="wikidata-da-L231574-S1" ili="wikidata-da-L231574-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L231574-S1" ili="wikidata-da-L231574-S1" partOfSpeech="x">
       <Definition>forstærker</Definition>
     </Synset>
     <Synset id="wikidata-da-L233332-S1" ili="wikidata-da-L233332-S1" partOfSpeech="m">
@@ -2829,34 +2829,34 @@
     <Synset id="wikidata-da-L307396-S1" ili="wikidata-da-L307396-S1" partOfSpeech="m">
       <Definition>ordenstal for 26</Definition>
     </Synset>
-    <Synset id="wikidata-da-L313673-S1" ili="wikidata-da-L313673-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L313673-S1" ili="wikidata-da-L313673-S1" partOfSpeech="x">
       <Definition>mod</Definition>
     </Synset>
-    <Synset id="wikidata-da-L346919-S1" ili="wikidata-da-L346919-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L346919-S1" ili="wikidata-da-L346919-S1" partOfSpeech="x">
       <Definition>meget</Definition>
     </Synset>
-    <Synset id="wikidata-da-L586330-S1" ili="wikidata-da-L586330-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L586330-S1" ili="wikidata-da-L586330-S1" partOfSpeech="x">
       <Definition>flere</Definition>
     </Synset>
-    <Synset id="wikidata-da-L617405-S1" ili="wikidata-da-L617405-S1" partOfSpeech="pseudo-affix">
+    <Synset id="wikidata-da-L617405-S1" ili="wikidata-da-L617405-S1" partOfSpeech="x">
       <Definition>større ophobning</Definition>
     </Synset>
     <Synset id="wikidata-da-L654894-S1" ili="wikidata-da-L654894-S1" partOfSpeech="m">
       <Definition>tallet 32</Definition>
     </Synset>
-    <Synset id="wikidata-da-L689604-S1" ili="wikidata-da-L689604-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L689604-S1" ili="wikidata-da-L689604-S1" partOfSpeech="x">
       <Definition>lyden fra en fugl</Definition>
     </Synset>
-    <Synset id="wikidata-da-L701755-S1" ili="wikidata-da-L701755-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L701755-S1" ili="wikidata-da-L701755-S1" partOfSpeech="x">
       <Definition>forstærker</Definition>
     </Synset>
-    <Synset id="wikidata-da-L701758-S1" ili="wikidata-da-L701758-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L701758-S1" ili="wikidata-da-L701758-S1" partOfSpeech="x">
       <Definition>milliardtedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740394-S1" ili="wikidata-da-L740394-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740394-S1" ili="wikidata-da-L740394-S1" partOfSpeech="x">
       <Definition>kvadrilliontedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L740397-S1" ili="wikidata-da-L740397-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L740397-S1" ili="wikidata-da-L740397-S1" partOfSpeech="x">
       <Definition>hundrede</Definition>
     </Synset>
     <Synset id="wikidata-da-L984402-S1" ili="wikidata-da-L984402-S1" partOfSpeech="m">
@@ -2880,13 +2880,13 @@
     <Synset id="wikidata-da-L1119255-S1" ili="wikidata-da-L1119255-S1" partOfSpeech="m">
       <Definition>tallet 65</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1121989-S1" ili="wikidata-da-L1121989-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1121989-S1" ili="wikidata-da-L1121989-S1" partOfSpeech="x">
       <Definition>meget, i høj grad</Definition>
     </Synset>
     <Synset id="wikidata-da-L1175186-S1" ili="wikidata-da-L1175186-S1" partOfSpeech="i">
       <Definition>held og lykke</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218343-S1" ili="l1218344-s1" partOfSpeech="idiomatic interjection">
+    <Synset id="wikidata-da-L1218343-S1" ili="l1218344-s1" partOfSpeech="x">
       <Definition>udtryk for bestyrtelse og overraskelse</Definition>
     </Synset>
     <Synset id="wikidata-da-L1226650-S1" ili="wikidata-da-L1226650-S1" partOfSpeech="r">
@@ -2916,7 +2916,7 @@
     <Synset id="wikidata-da-L42264-S1" ili="wikidata-da-L42264-S1" partOfSpeech="m">
       <Definition>tallet 9 mellem 8 og 10</Definition>
     </Synset>
-    <Synset id="wikidata-da-L46737-S1" ili="wikidata-da-L46737-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L46737-S1" ili="wikidata-da-L46737-S1" partOfSpeech="x">
       <Definition>nægtende eller modsigende</Definition>
     </Synset>
     <Synset id="wikidata-da-L48467-S1" ili="wikidata-da-L48467-S1" partOfSpeech="m">
@@ -2925,7 +2925,7 @@
     <Synset id="wikidata-da-L229382-S1" ili="wikidata-da-L229382-S1" partOfSpeech="i">
       <Definition>udtryk for forbavselse eller overraskelse</Definition>
     </Synset>
-    <Synset id="wikidata-da-L301387-S1" ili="wikidata-da-L301387-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L301387-S1" ili="wikidata-da-L301387-S1" partOfSpeech="x">
       <Definition>halv</Definition>
     </Synset>
     <Synset id="wikidata-da-L307397-S1" ili="wikidata-da-L307397-S1" partOfSpeech="m">
@@ -2934,10 +2934,10 @@
     <Synset id="wikidata-da-L347018-S1" ili="wikidata-da-L347018-S1" partOfSpeech="m">
       <Definition>nummer 20 i en række</Definition>
     </Synset>
-    <Synset id="wikidata-da-L347059-S1" ili="wikidata-da-L347059-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L347059-S1" ili="wikidata-da-L347059-S1" partOfSpeech="x">
       <Definition>tusindedel</Definition>
     </Synset>
-    <Synset id="wikidata-da-L586960-S1" ili="wikidata-da-L586960-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L586960-S1" ili="wikidata-da-L586960-S1" partOfSpeech="x">
       <Definition>tiendedel</Definition>
     </Synset>
     <Synset id="wikidata-da-L642123-S1" ili="wikidata-da-L642123-S1" partOfSpeech="c">
@@ -2946,10 +2946,10 @@
     <Synset id="wikidata-da-L673288-S1" ili="wikidata-da-L673288-S1" partOfSpeech="m">
       <Definition>tallet 42</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680004-S1" ili="wikidata-da-L680004-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680004-S1" ili="wikidata-da-L680004-S1" partOfSpeech="x">
       <Definition>lyd fra skud eller lignende høj og kort lyd</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680009-S1" ili="wikidata-da-L680009-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680009-S1" ili="wikidata-da-L680009-S1" partOfSpeech="x">
       <Definition>lyden fra et mekanisk ur når det går</Definition>
     </Synset>
     <Synset id="wikidata-da-L688423-S1" ili="wikidata-da-L688423-S1" partOfSpeech="p">
@@ -2976,7 +2976,7 @@
     <Synset id="wikidata-da-L735051-S1" ili="wikidata-da-L735051-S1" partOfSpeech="m">
       <Definition>tallet 40</Definition>
     </Synset>
-    <Synset id="wikidata-da-L991483-S1" ili="wikidata-da-L991483-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L991483-S1" ili="wikidata-da-L991483-S1" partOfSpeech="x">
       <Definition>person</Definition>
     </Synset>
     <Synset id="wikidata-da-L1116265-S1" ili="wikidata-da-L1116265-S1" partOfSpeech="m">
@@ -3006,13 +3006,13 @@
     <Synset id="wikidata-da-L1119287-S1" ili="wikidata-da-L1119287-S1" partOfSpeech="m">
       <Definition>tallet 33</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1121988-S1" ili="wikidata-da-L1121988-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1121988-S1" ili="wikidata-da-L1121988-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L1219587-S1" ili="wikidata-da-L1219587-S1" partOfSpeech="i">
       <Definition>forstærkende kraftudtryk</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1" partOfSpeech="popular saying">
+    <Synset id="wikidata-da-L1329361-S1" ili="wikidata-da-L1329361-S1" partOfSpeech="x">
       <Definition>gøre noget for andre og forvente sig noget tilbage</Definition>
     </Synset>
     <Synset id="wikidata-da-L1504421-S1" ili="wikidata-da-L1504421-S1" partOfSpeech="i">
@@ -3033,10 +3033,10 @@
     <Synset id="wikidata-da-L41457-S1" ili="wikidata-da-L41457-S1" partOfSpeech="i">
       <Definition>bekræftigelse</Definition>
     </Synset>
-    <Synset id="wikidata-da-L41825-S1" ili="wikidata-da-L41825-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L41825-S1" ili="wikidata-da-L41825-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L41826-S1" ili="wikidata-da-L41826-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L41826-S1" ili="wikidata-da-L41826-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L42250-S1" ili="wikidata-da-L42250-S1" partOfSpeech="c">
@@ -3045,7 +3045,7 @@
     <Synset id="wikidata-da-L43361-S1" ili="wikidata-da-L43361-S1" partOfSpeech="i">
       <Definition>ord</Definition>
     </Synset>
-    <Synset id="wikidata-da-L45020-S1" ili="wikidata-da-L45020-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L45020-S1" ili="wikidata-da-L45020-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L45802-S1" ili="wikidata-da-L45802-S1" partOfSpeech="i">
@@ -3066,10 +3066,10 @@
     <Synset id="wikidata-da-L250341-S1" ili="l705189-s1" partOfSpeech="i">
       <Definition>udtryk for følelsen at man ønsker sig noget og det ikke gik i lås som man havde forestillet sig eller foreslået</Definition>
     </Synset>
-    <Synset id="wikidata-da-L314932-S1" ili="wikidata-da-L314932-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L314932-S1" ili="wikidata-da-L314932-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L314932-S2" ili="wikidata-da-L314932-S2" partOfSpeech="affix">
+    <Synset id="wikidata-da-L314932-S2" ili="wikidata-da-L314932-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L347223-S1" ili="wikidata-da-L347223-S1" partOfSpeech="h">
@@ -3081,28 +3081,28 @@
     <Synset id="wikidata-da-L401357-S1" ili="wikidata-da-L401357-S1" partOfSpeech="i">
       <Definition>udtryk som bruges om når folk taler helt forbi hinanden og helt misforstår hinanden</Definition>
     </Synset>
-    <Synset id="wikidata-da-L477384-S1" ili="wikidata-da-L477384-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L477384-S1" ili="wikidata-da-L477384-S1" partOfSpeech="x">
       <Definition>med modsat egenskab</Definition>
     </Synset>
     <Synset id="wikidata-da-L497330-S1" ili="wikidata-da-L497330-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L582940-S1" ili="wikidata-da-L582940-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L582940-S1" ili="wikidata-da-L582940-S1" partOfSpeech="x">
       <Definition>meget</Definition>
     </Synset>
-    <Synset id="wikidata-da-L617347-S1" ili="wikidata-da-L617347-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L617347-S1" ili="wikidata-da-L617347-S1" partOfSpeech="x">
       <Definition>ord svarende til en kort intens lyd fra en hund</Definition>
     </Synset>
     <Synset id="wikidata-da-L654893-S1" ili="wikidata-da-L654893-S1" partOfSpeech="m">
       <Definition>tallet 31</Definition>
     </Synset>
-    <Synset id="wikidata-da-L680150-S1" ili="wikidata-da-L680150-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L680150-S1" ili="wikidata-da-L680150-S1" partOfSpeech="x">
       <Definition>lyden af et nys</Definition>
     </Synset>
     <Synset id="wikidata-da-L689224-S1" ili="wikidata-da-L689224-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-da-L689616-S1" ili="wikidata-da-L689616-S1" partOfSpeech="onomatopoeia">
+    <Synset id="wikidata-da-L689616-S1" ili="wikidata-da-L689616-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-da-L713719-S1" ili="wikidata-da-L713719-S1" partOfSpeech="i">
@@ -3132,10 +3132,10 @@
     <Synset id="wikidata-da-L1143780-S1" ili="wikidata-da-L1143780-S1" partOfSpeech="m">
       <Definition>tallet 82</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1" partOfSpeech="idiomatic interjection">
+    <Synset id="wikidata-da-L1218379-S1" ili="wikidata-da-L1218379-S1" partOfSpeech="x">
       <Definition>bruges som udtryk for at det foregående ikke var så vigtigt eller værd at kæmpe for at forandre</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2" partOfSpeech="idiomatic interjection">
+    <Synset id="wikidata-da-L1218379-S2" ili="wikidata-da-L1218379-S2" partOfSpeech="x">
       <Definition>udtryk for overraskelse eller forbavselse</Definition>
     </Synset>
     <Synset id="wikidata-da-L1227933-S1" ili="wikidata-da-L1227933-S1" partOfSpeech="r">
@@ -3144,7 +3144,7 @@
     <Synset id="wikidata-da-L1316687-S1" ili="wikidata-da-L1316687-S1" partOfSpeech="m">
       <Definition>to eller tre</Definition>
     </Synset>
-    <Synset id="wikidata-da-L1379403-S1" ili="wikidata-da-L1379403-S1" partOfSpeech="affix">
+    <Synset id="wikidata-da-L1379403-S1" ili="wikidata-da-L1379403-S1" partOfSpeech="x">
       <Definition>fx i: kollegial, normal</Definition>
     </Synset>
     <Synset id="wikidata-da-L1505586-S1" ili="wikidata-da-L1505586-S1" partOfSpeech="i">

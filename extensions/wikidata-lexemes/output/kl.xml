@@ -9,13 +9,13 @@
                     version="1.0">
     <Extends id="omw-kl" version="1.4"/>
     <LexicalEntry id="L1329015">
-      <Lemma writtenForm="a" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="a" partOfSpeech="x"/>
       <Sense id="L1329015-S1" synset="wikidata-kl-L1329015-S1" ili="wikidata-kl-L1329015-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329041">
-      <Lemma writtenForm="-gaq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-gaq" partOfSpeech="x"/>
       <Sense id="L1329041-S1" synset="wikidata-kl-L1329041-S1" ili="wikidata-kl-L1329041-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329165-S1"/>
@@ -23,7 +23,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329054">
-      <Lemma writtenForm="immaqa" partOfSpeech="demonstrative adverb"/>
+      <Lemma writtenForm="immaqa" partOfSpeech="x"/>
       <Sense id="L1329054-S1" synset="wikidata-kl-L1329054-S1" ili="wikidata-kl-L1329054-S1">
         <Definition>nangaavunga</Definition>
       </Sense>
@@ -44,31 +44,31 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329395">
-      <Lemma writtenForm="+tarpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="+tarpoq" partOfSpeech="x"/>
       <Sense id="L1329395-S1" synset="wikidata-kl-L1329395-S1" ili="wikidata-kl-L1329395-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329650">
-      <Lemma writtenForm="-aseq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-aseq" partOfSpeech="x"/>
       <Sense id="L1329650-S1" synset="wikidata-kl-L1329650-S1" ili="wikidata-kl-L1329650-S1">
         <Definition>(allaaseq, atuaaseq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329722">
-      <Lemma writtenForm="-nngilaq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-nngilaq" partOfSpeech="x"/>
       <Sense id="L1329722-S1" synset="wikidata-kl-L1329722-S1" ili="wikidata-kl-L1329722-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330704">
-      <Lemma writtenForm="-innaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-innaq" partOfSpeech="x"/>
       <Sense id="L1330704-S1" synset="wikidata-kl-L1330704-S1" ili="wikidata-kl-L1330704-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330705">
-      <Lemma writtenForm="+fik" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="+fik" partOfSpeech="x"/>
       <Sense id="L1330705-S1" synset="wikidata-kl-L1330705-S1" ili="wikidata-kl-L1330705-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1409096-S1"/>
@@ -85,13 +85,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400398">
-      <Lemma writtenForm="-koq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-koq" partOfSpeech="x"/>
       <Sense id="L1400398-S1" synset="wikidata-kl-L1400398-S1" ili="wikidata-kl-L1400398-S1">
         <Definition>(amikoq / illukoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400399">
-      <Lemma writtenForm="-uvoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-uvoq" partOfSpeech="x"/>
       <Sense id="L1400399-S1" synset="wikidata-kl-L1400399-S1" ili="wikidata-kl-L1400399-S1">
         <Definition>(oqaannarniut, kinnaassusersiutit pingajuat ataasersiut)</Definition>
       </Sense>
@@ -109,13 +109,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1422497">
-      <Lemma writtenForm="+niarpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="+niarpoq" partOfSpeech="x"/>
       <Sense id="L1422497-S1" synset="wikidata-kl-L1422497-S1" ili="wikidata-kl-L1422497-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1449063">
-      <Lemma writtenForm="+torpoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="+torpoq" partOfSpeech="x"/>
       <Sense id="L1449063-S1" synset="wikidata-kl-L1449063-S1" ili="wikidata-kl-L1449063-S1">
         <Definition></Definition>
       </Sense>
@@ -127,19 +127,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328524">
-      <Lemma writtenForm="+toq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="+toq" partOfSpeech="x"/>
       <Sense id="L1328524-S2" synset="wikidata-kl-L1328524-S2" ili="wikidata-kl-L1328524-S2">
         <Definition>(iserportoq / tikipportoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328938">
-      <Lemma writtenForm="-kkut" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-kkut" partOfSpeech="x"/>
       <Sense id="L1328938-S1" synset="wikidata-kl-L1328938-S1" ili="wikidata-kl-L1328938-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329025">
-      <Lemma writtenForm="+neq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="+neq" partOfSpeech="x"/>
       <Sense id="L1329025-S1" synset="wikidata-kl-L1329025-S1" ili="wikidata-kl-L1329025-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329024-S1"/>
@@ -184,7 +184,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329991">
-      <Lemma writtenForm="+ga" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="+ga" partOfSpeech="x"/>
       <Sense id="L1329991-S1" synset="wikidata-kl-L1329991-S1" ili="wikidata-kl-L1329991-S1">
         <Definition></Definition>
       </Sense>
@@ -196,13 +196,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400397">
-      <Lemma writtenForm="-kkoorpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-kkoorpoq" partOfSpeech="x"/>
       <Sense id="L1400397-S1" synset="wikidata-kl-L1400397-S1" ili="wikidata-kl-L1400397-S1">
         <Definition>(sikukkoorpoq / aputikkoorpoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400477">
-      <Lemma writtenForm="-kasik" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-kasik" partOfSpeech="x"/>
       <Sense id="L1400477-S1" synset="wikidata-kl-L1400477-S1" ili="wikidata-kl-L1400477-S1">
         <Definition>(inukasik / qimmikasik)</Definition>
       </Sense>
@@ -220,13 +220,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1451948">
-      <Lemma writtenForm="-rusuppoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-rusuppoq" partOfSpeech="x"/>
       <Sense id="L1451948-S1" synset="wikidata-kl-L1451948-S1" ili="wikidata-kl-L1451948-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1463247">
-      <Lemma writtenForm="-ssuseq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-ssuseq" partOfSpeech="x"/>
       <Sense id="L1463247-S1" synset="wikidata-kl-L1463247-S1" ili="wikidata-kl-L1463247-S1">
         <Definition></Definition>
       </Sense>
@@ -238,19 +238,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328940">
-      <Lemma writtenForm="+paat" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="+paat" partOfSpeech="x"/>
       <Sense id="L1328940-S1" synset="wikidata-kl-L1328940-S1" ili="wikidata-kl-L1328940-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328941">
-      <Lemma writtenForm="-aluit" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-aluit" partOfSpeech="x"/>
       <Sense id="L1328941-S1" synset="wikidata-kl-L1328941-S1" ili="wikidata-kl-L1328941-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329024">
-      <Lemma writtenForm="+neq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="+neq" partOfSpeech="x"/>
       <Sense id="L1329024-S1" synset="wikidata-kl-L1329024-S1" ili="wikidata-kl-L1329024-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329025-S1"/>
@@ -277,13 +277,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329343">
-      <Lemma writtenForm="ni" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="ni" partOfSpeech="x"/>
       <Sense id="L1329343-S1" synset="wikidata-kl-L1329343-S1" ili="wikidata-kl-L1329343-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329354">
-      <Lemma writtenForm="tassa" partOfSpeech="predicative adverb"/>
+      <Lemma writtenForm="tassa" partOfSpeech="x"/>
       <Sense id="L1329354-S1" synset="wikidata-kl-L1329354-S1" ili="wikidata-kl-L1329354-S1">
         <Definition>allatut oqaatigalugu</Definition>
       </Sense>
@@ -295,7 +295,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330405">
-      <Lemma writtenForm="+siut" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="+siut" partOfSpeech="x"/>
       <Sense id="L1330405-S1" synset="wikidata-kl-L1330405-S1" ili="wikidata-kl-L1330405-S1">
         <Definition></Definition>
       </Sense>
@@ -304,19 +304,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330732">
-      <Lemma writtenForm="+neqarpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="+neqarpoq" partOfSpeech="x"/>
       <Sense id="L1330732-S1" synset="wikidata-kl-L1330732-S1" ili="wikidata-kl-L1330732-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330735">
-      <Lemma writtenForm="-toqaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-toqaq" partOfSpeech="x"/>
       <Sense id="L1330735-S1" synset="wikidata-kl-L1330735-S1" ili="wikidata-kl-L1330735-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408816">
-      <Lemma writtenForm="-livik" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-livik" partOfSpeech="x"/>
       <Sense id="L1408816-S1" synset="wikidata-kl-L1408816-S1" ili="wikidata-kl-L1408816-S1">
         <Definition></Definition>
       </Sense>
@@ -334,7 +334,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419751">
-      <Lemma writtenForm="-mukarpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-mukarpoq" partOfSpeech="x"/>
       <Sense id="L1419751-S1" synset="wikidata-kl-L1419751-S1" ili="wikidata-kl-L1419751-S1">
         <Definition></Definition>
       </Sense>
@@ -346,13 +346,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1436543">
-      <Lemma writtenForm="-qaaq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-qaaq" partOfSpeech="x"/>
       <Sense id="L1436543-S1" synset="wikidata-kl-L1436543-S1" ili="wikidata-kl-L1436543-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1451950">
-      <Lemma writtenForm="-kkaluarpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-kkaluarpoq" partOfSpeech="x"/>
       <Sense id="L1451950-S1" synset="wikidata-kl-L1451950-S1" ili="wikidata-kl-L1451950-S1">
         <Definition></Definition>
       </Sense>
@@ -364,7 +364,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460207">
-      <Lemma writtenForm="-simavoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-simavoq" partOfSpeech="x"/>
       <Sense id="L1460207-S1" synset="wikidata-kl-L1460207-S1" ili="wikidata-kl-L1460207-S1">
         <Definition></Definition>
       </Sense>
@@ -376,7 +376,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1521868">
-      <Lemma writtenForm="-nnguaq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-nnguaq" partOfSpeech="x"/>
       <Sense id="L1521868-S1" synset="wikidata-kl-L1521868-S1" ili="wikidata-kl-L1521868-S1">
         <Definition></Definition>
       </Sense>
@@ -388,13 +388,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1328526">
-      <Lemma writtenForm="+narpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="+narpoq" partOfSpeech="x"/>
       <Sense id="L1328526-S1" synset="wikidata-kl-L1328526-S1" ili="wikidata-kl-L1328526-S1">
         <Definition>ilimanarpoq / qasunarpo</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329165">
-      <Lemma writtenForm="-saq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-saq" partOfSpeech="x"/>
       <Sense id="L1329165-S1" synset="wikidata-kl-L1329165-S1" ili="wikidata-kl-L1329165-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329041-S1"/>
@@ -402,7 +402,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329389">
-      <Lemma writtenForm="-rippoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-rippoq" partOfSpeech="x"/>
       <Sense id="L1329389-S1" synset="wikidata-kl-L1329389-S1" ili="wikidata-kl-L1329389-S1">
         <Definition></Definition>
       </Sense>
@@ -411,13 +411,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329681">
-      <Lemma writtenForm="-llaqqippoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-llaqqippoq" partOfSpeech="x"/>
       <Sense id="L1329681-S1" synset="wikidata-kl-L1329681-S1" ili="wikidata-kl-L1329681-S1">
         <Definition>(allallaqqippoq / pillaqqippoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400417">
-      <Lemma writtenForm="-aq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-aq" partOfSpeech="x"/>
       <Sense id="L1400417-S1" synset="wikidata-kl-L1400417-S1" ili="wikidata-kl-L1400417-S1">
         <Definition>(appaaq, nerlaaq)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1400418-S1"/>
@@ -428,20 +428,20 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400418">
-      <Lemma writtenForm="+suk" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="+suk" partOfSpeech="x"/>
       <Sense id="L1400418-S1" synset="wikidata-kl-L1400418-S1" ili="wikidata-kl-L1400418-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1400417-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400555">
-      <Lemma writtenForm="-arpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-arpoq" partOfSpeech="x"/>
       <Sense id="L1400555-S1" synset="wikidata-kl-L1400555-S1" ili="wikidata-kl-L1400555-S1">
         <Definition>(qalaarpoq, qaquaarpoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1408808">
-      <Lemma writtenForm="+mioq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="+mioq" partOfSpeech="x"/>
       <Sense id="L1408808-S1" synset="wikidata-kl-L1408808-S1" ili="wikidata-kl-L1408808-S1">
         <Definition></Definition>
       </Sense>
@@ -453,13 +453,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1440303">
-      <Lemma writtenForm="+sorpaa" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="+sorpaa" partOfSpeech="x"/>
       <Sense id="L1440303-S1" synset="wikidata-kl-L1440303-S1" ili="wikidata-kl-L1440303-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1452095">
-      <Lemma writtenForm="-liorpoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-liorpoq" partOfSpeech="x"/>
       <Sense id="L1452095-S1" synset="wikidata-kl-L1452095-S1" ili="wikidata-kl-L1452095-S1">
         <Definition></Definition>
       </Sense>
@@ -477,7 +477,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329166">
-      <Lemma writtenForm="-ssaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-ssaq" partOfSpeech="x"/>
       <Sense id="L1329166-S1" synset="wikidata-kl-L1329166-S1" ili="wikidata-kl-L1329166-S1">
         <Definition></Definition>
       </Sense>
@@ -495,7 +495,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330416">
-      <Lemma writtenForm="+sivoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="+sivoq" partOfSpeech="x"/>
       <Sense id="L1330416-S1" synset="wikidata-kl-L1330416-S1" ili="wikidata-kl-L1330416-S1">
         <Definition>buy, acquire</Definition>
       </Sense>
@@ -510,7 +510,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400548">
-      <Lemma writtenForm="-aq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-aq" partOfSpeech="x"/>
       <Sense id="L1400548-S1" synset="wikidata-kl-L1400548-S1" ili="wikidata-kl-L1400548-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329165-S1"/>
@@ -518,7 +518,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409094">
-      <Lemma writtenForm="-lerpaa" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-lerpaa" partOfSpeech="x"/>
       <Sense id="L1409094-S1" synset="wikidata-kl-L1409094-S1" ili="wikidata-kl-L1409094-S1">
         <Definition></Definition>
       </Sense>
@@ -533,7 +533,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1419744">
-      <Lemma writtenForm="-liarpoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-liarpoq" partOfSpeech="x"/>
       <Sense id="L1419744-S1" synset="wikidata-kl-L1419744-S1" ili="wikidata-kl-L1419744-S1">
         <Definition></Definition>
       </Sense>
@@ -554,7 +554,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329021">
-      <Lemma writtenForm="-livoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-livoq" partOfSpeech="x"/>
       <Sense id="L1329021-S1" synset="wikidata-kl-L1329021-S1" ili="wikidata-kl-L1329021-S1">
         <Definition></Definition>
       </Sense>
@@ -584,14 +584,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329171">
-      <Lemma writtenForm="-uppaa" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-uppaa" partOfSpeech="x"/>
       <Sense id="L1329171-S1" synset="wikidata-kl-L1329171-S1" ili="wikidata-kl-L1329171-S1">
         <Definition>(alla pillugu sulivoq)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329170-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329308">
-      <Lemma writtenForm="+aasiit" partOfSpeech="emphatic particle"/>
+      <Lemma writtenForm="+aasiit" partOfSpeech="x"/>
       <Sense id="L1329308-S1" synset="wikidata-kl-L1329308-S1" ili="wikidata-kl-L1329308-S1">
         <Definition>pisarnermisut</Definition>
       </Sense>
@@ -603,7 +603,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329347">
-      <Lemma writtenForm="-ippoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-ippoq" partOfSpeech="x"/>
       <Sense id="L1329347-S1" synset="wikidata-kl-L1329347-S1" ili="wikidata-kl-L1329347-S1">
         <Definition></Definition>
       </Sense>
@@ -627,7 +627,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330013">
-      <Lemma writtenForm="-ppoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-ppoq" partOfSpeech="x"/>
       <Sense id="L1330013-S1" synset="wikidata-kl-L1330013-S1" ili="wikidata-kl-L1330013-S1">
         <Definition></Definition>
       </Sense>
@@ -639,7 +639,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330408">
-      <Lemma writtenForm="+siorpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="+siorpoq" partOfSpeech="x"/>
       <Sense id="L1330408-S1" synset="wikidata-kl-L1330408-S1" ili="wikidata-kl-L1330408-S1">
         <Definition></Definition>
       </Sense>
@@ -654,13 +654,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330420">
-      <Lemma writtenForm="-orpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-orpoq" partOfSpeech="x"/>
       <Sense id="L1330420-S1" synset="wikidata-kl-L1330420-S1" ili="wikidata-kl-L1330420-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330701">
-      <Lemma writtenForm="-qarpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-qarpoq" partOfSpeech="x"/>
       <Sense id="L1330701-S1" synset="wikidata-kl-L1330701-S1" ili="wikidata-kl-L1330701-S1">
         <Definition></Definition>
       </Sense>
@@ -669,13 +669,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400553">
-      <Lemma writtenForm="-laarpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-laarpoq" partOfSpeech="x"/>
       <Sense id="L1400553-S1" synset="wikidata-kl-L1400553-S1" ili="wikidata-kl-L1400553-S1">
         <Definition>(kissalaarpoq / kialaarpoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1401048">
-      <Lemma writtenForm="-nngorpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-nngorpoq" partOfSpeech="x"/>
       <Sense id="L1401048-S1" synset="wikidata-kl-L1401048-S1" ili="wikidata-kl-L1401048-S1">
         <Definition>(inunngorpoq / allanngorpoq)</Definition>
       </Sense>
@@ -687,13 +687,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L21629">
-      <Lemma writtenForm="tassani" partOfSpeech="demonstrative adverb"/>
+      <Lemma writtenForm="tassani" partOfSpeech="x"/>
       <Sense id="L21629-S1" synset="wikidata-kl-L21629-S1" ili="wikidata-kl-L21629-S1">
         <Definition>uani</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1320757">
-      <Lemma writtenForm="at" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="at" partOfSpeech="x"/>
       <Sense id="L1320757-S1" synset="wikidata-kl-L1320757-S1" ili="wikidata-kl-L1320757-S1">
         <Definition></Definition>
       </Sense>
@@ -723,13 +723,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329033">
-      <Lemma writtenForm="-lik" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-lik" partOfSpeech="x"/>
       <Sense id="L1329033-S1" synset="wikidata-kl-L1329033-S1" ili="wikidata-kl-L1329033-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329307">
-      <Lemma writtenForm="+aa" partOfSpeech="vocative particle"/>
+      <Lemma writtenForm="+aa" partOfSpeech="x"/>
       <Sense id="L1329307-S1" synset="wikidata-kl-L1329307-S1" ili="wikidata-kl-L1329307-S1">
         <Definition>uumaangaa</Definition>
       </Sense>
@@ -741,25 +741,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329683">
-      <Lemma writtenForm="-ssaaq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-ssaaq" partOfSpeech="x"/>
       <Sense id="L1329683-S1" synset="wikidata-kl-L1329683-S1" ili="wikidata-kl-L1329683-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330014">
-      <Lemma writtenForm="+niaq" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="+niaq" partOfSpeech="x"/>
       <Sense id="L1330014-S1" synset="wikidata-kl-L1330014-S1" ili="wikidata-kl-L1330014-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330039">
-      <Lemma writtenForm="-gaa" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-gaa" partOfSpeech="x"/>
       <Sense id="L1330039-S1" synset="wikidata-kl-L1330039-S1" ili="wikidata-kl-L1330039-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1330412">
-      <Lemma writtenForm="-ut" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-ut" partOfSpeech="x"/>
       <Sense id="L1330412-S1" synset="wikidata-kl-L1330412-S1" ili="wikidata-kl-L1330412-S1">
         <Definition>sumut atortoq</Definition>
       </Sense>
@@ -771,7 +771,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1360531">
-      <Lemma writtenForm="-qqippoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-qqippoq" partOfSpeech="x"/>
       <Sense id="L1360531-S1" synset="wikidata-kl-L1360531-S1" ili="wikidata-kl-L1360531-S1">
         <Definition>(apeqqippoq)</Definition>
       </Sense>
@@ -780,13 +780,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1377360">
-      <Lemma writtenForm="+suaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="+suaq" partOfSpeech="x"/>
       <Sense id="L1377360-S1" synset="wikidata-kl-L1377360-S1" ili="wikidata-kl-L1377360-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400364">
-      <Lemma writtenForm="-tsiaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-tsiaq" partOfSpeech="x"/>
       <Sense id="L1400364-S1" synset="wikidata-kl-L1400364-S1" ili="wikidata-kl-L1400364-S1">
         <Definition></Definition>
       </Sense>
@@ -798,13 +798,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400554">
-      <Lemma writtenForm="-alaarpoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-alaarpoq" partOfSpeech="x"/>
       <Sense id="L1400554-S1" synset="wikidata-kl-L1400554-S1" ili="wikidata-kl-L1400554-S1">
         <Definition>(oqalualaarpoq, siorsualaarpoq)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1409096">
-      <Lemma writtenForm="-vik" partOfSpeech="nominaliser"/>
+      <Lemma writtenForm="-vik" partOfSpeech="x"/>
       <Sense id="L1409096-S1" synset="wikidata-kl-L1409096-S1" ili="wikidata-kl-L1409096-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1330705-S1"/>
@@ -821,7 +821,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329051">
-      <Lemma writtenForm="ima" partOfSpeech="demonstrative adverb"/>
+      <Lemma writtenForm="ima" partOfSpeech="x"/>
       <Sense id="L1329051-S1" synset="wikidata-kl-L1329051-S1" ili="wikidata-kl-L1329051-S1">
         <Definition>imatut</Definition>
       </Sense>
@@ -833,14 +833,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329170">
-      <Lemma writtenForm="-ussivoq" partOfSpeech="verbal modifier"/>
+      <Lemma writtenForm="-ussivoq" partOfSpeech="x"/>
       <Sense id="L1329170-S1" synset="wikidata-kl-L1329170-S1" ili="wikidata-kl-L1329170-S1">
         <Definition>(alla pillugu sulivoq)</Definition>
         <SenseRelation relType="similar" target="wikidata-kl-L1329171-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1329394">
-      <Lemma writtenForm="-jaarpoq" partOfSpeech="verbaliser"/>
+      <Lemma writtenForm="-jaarpoq" partOfSpeech="x"/>
       <Sense id="L1329394-S1" synset="wikidata-kl-L1329394-S1" ili="wikidata-kl-L1329394-S1">
         <Definition>(angerlajaarpoq, aallajaarpoq)</Definition>
       </Sense>
@@ -852,13 +852,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1400416">
-      <Lemma writtenForm="-arsuk" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-arsuk" partOfSpeech="x"/>
       <Sense id="L1400416-S1" synset="wikidata-kl-L1400416-S1" ili="wikidata-kl-L1400416-S1">
         <Definition>(appaliarsuk, angutaarsuk)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1403668">
-      <Lemma writtenForm="-usaq" partOfSpeech="nominal modifier"/>
+      <Lemma writtenForm="-usaq" partOfSpeech="x"/>
       <Sense id="L1403668-S1" synset="wikidata-kl-L1403668-S1" ili="wikidata-kl-L1403668-S1">
         <Definition>(assingusoq)</Definition>
       </Sense>
@@ -894,7 +894,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460209">
-      <Lemma writtenForm="-lerpoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-lerpoq" partOfSpeech="x"/>
       <Sense id="L1460209-S1" synset="wikidata-kl-L1460209-S1" ili="wikidata-kl-L1460209-S1">
         <Definition></Definition>
       </Sense>
@@ -906,18 +906,18 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1461676">
-      <Lemma writtenForm="-innerpoq" partOfSpeech="affix"/>
+      <Lemma writtenForm="-innerpoq" partOfSpeech="x"/>
       <Sense id="L1461676-S1" synset="wikidata-kl-L1461676-S1" ili="wikidata-kl-L1461676-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-kl-L1329015-S1" ili="wikidata-kl-L1329015-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-kl-L1329015-S1" ili="wikidata-kl-L1329015-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329041-S1" ili="wikidata-kl-L1329041-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329041-S1" ili="wikidata-kl-L1329041-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329054-S1" ili="wikidata-kl-L1329054-S1" partOfSpeech="demonstrative adverb">
+    <Synset id="wikidata-kl-L1329054-S1" ili="wikidata-kl-L1329054-S1" partOfSpeech="x">
       <Definition>nangaavunga</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329057-S1" ili="wikidata-kl-L1329057-S1" partOfSpeech="c">
@@ -929,31 +929,31 @@
     <Synset id="wikidata-kl-L1329355-S1" ili="wikidata-kl-L1329355-S1" partOfSpeech="h">
       <Definition>inna / anna / una</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329395-S1" ili="wikidata-kl-L1329395-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329395-S1" ili="wikidata-kl-L1329395-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329650-S1" ili="wikidata-kl-L1329650-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329650-S1" ili="wikidata-kl-L1329650-S1" partOfSpeech="x">
       <Definition>(allaaseq, atuaaseq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329722-S1" ili="wikidata-kl-L1329722-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1329722-S1" ili="wikidata-kl-L1329722-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330704-S1" ili="wikidata-kl-L1330704-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1330704-S1" ili="wikidata-kl-L1330704-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330705-S1" ili="wikidata-kl-L1330705-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330705-S1" ili="wikidata-kl-L1330705-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330705-S2" ili="wikidata-kl-L1330705-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330705-S2" ili="wikidata-kl-L1330705-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1331293-S1" ili="wikidata-kl-L1331293-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400398-S1" ili="wikidata-kl-L1400398-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400398-S1" ili="wikidata-kl-L1400398-S1" partOfSpeech="x">
       <Definition>(amikoq / illukoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400399-S1" ili="wikidata-kl-L1400399-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1400399-S1" ili="wikidata-kl-L1400399-S1" partOfSpeech="x">
       <Definition>(oqaannarniut, kinnaassusersiutit pingajuat ataasersiut)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1420002-S1" ili="wikidata-kl-L1420002-S1" partOfSpeech="y">
@@ -962,37 +962,37 @@
     <Synset id="wikidata-kl-L1421393-S1" ili="wikidata-kl-L1421393-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1422497-S1" ili="wikidata-kl-L1422497-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1422497-S1" ili="wikidata-kl-L1422497-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1449063-S1" ili="wikidata-kl-L1449063-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1449063-S1" ili="wikidata-kl-L1449063-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1461674-S1" ili="wikidata-kl-L1461674-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1328524-S2" ili="wikidata-kl-L1328524-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1328524-S2" ili="wikidata-kl-L1328524-S2" partOfSpeech="x">
       <Definition>(iserportoq / tikipportoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1328938-S1" ili="wikidata-kl-L1328938-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1328938-S1" ili="wikidata-kl-L1328938-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S1" ili="wikidata-kl-L1329025-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S1" ili="wikidata-kl-L1329025-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S2" ili="wikidata-kl-L1329025-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S2" ili="wikidata-kl-L1329025-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S3" ili="wikidata-kl-L1329025-S3" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S3" ili="wikidata-kl-L1329025-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S4" ili="wikidata-kl-L1329025-S4" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S4" ili="wikidata-kl-L1329025-S4" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S5" ili="wikidata-kl-L1329025-S5" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S5" ili="wikidata-kl-L1329025-S5" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329025-S6" ili="wikidata-kl-L1329025-S6" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329025-S6" ili="wikidata-kl-L1329025-S6" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329565-S1" ili="wikidata-kl-L1329565-S1" partOfSpeech="i">
@@ -1004,16 +1004,16 @@
     <Synset id="wikidata-kl-L1329836-S1" ili="wikidata-kl-L1329836-S1" partOfSpeech="i">
       <Definition>massa, aana</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329991-S1" ili="wikidata-kl-L1329991-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-kl-L1329991-S1" ili="wikidata-kl-L1329991-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1331307-S1" ili="wikidata-kl-L1331307-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400397-S1" ili="wikidata-kl-L1400397-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1400397-S1" ili="wikidata-kl-L1400397-S1" partOfSpeech="x">
       <Definition>(sikukkoorpoq / aputikkoorpoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400477-S1" ili="wikidata-kl-L1400477-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400477-S1" ili="wikidata-kl-L1400477-S1" partOfSpeech="x">
       <Definition>(inukasik / qimmikasik)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1410811-S1" ili="wikidata-kl-L1410811-S1" partOfSpeech="y">
@@ -1022,61 +1022,61 @@
     <Synset id="wikidata-kl-L1418595-S1" ili="wikidata-kl-L1418595-S1" partOfSpeech="i">
       <Definition>nasmi, naagga</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1451948-S1" ili="wikidata-kl-L1451948-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1451948-S1" ili="wikidata-kl-L1451948-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1463247-S1" ili="wikidata-kl-L1463247-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1463247-S1" ili="wikidata-kl-L1463247-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L21622-S1" ili="wikidata-kl-L21622-S1" partOfSpeech="h">
       <Definition>una</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1328940-S1" ili="wikidata-kl-L1328940-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1328940-S1" ili="wikidata-kl-L1328940-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1328941-S1" ili="wikidata-kl-L1328941-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1328941-S1" ili="wikidata-kl-L1328941-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S1" ili="wikidata-kl-L1329024-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S1" ili="wikidata-kl-L1329024-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S2" ili="wikidata-kl-L1329024-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S2" ili="wikidata-kl-L1329024-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S3" ili="wikidata-kl-L1329024-S3" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S3" ili="wikidata-kl-L1329024-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S4" ili="wikidata-kl-L1329024-S4" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S4" ili="wikidata-kl-L1329024-S4" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S5" ili="wikidata-kl-L1329024-S5" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S5" ili="wikidata-kl-L1329024-S5" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329024-S6" ili="wikidata-kl-L1329024-S6" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329024-S6" ili="wikidata-kl-L1329024-S6" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329343-S1" ili="wikidata-kl-L1329343-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-kl-L1329343-S1" ili="wikidata-kl-L1329343-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329354-S1" ili="wikidata-kl-L1329354-S1" partOfSpeech="predicative adverb">
+    <Synset id="wikidata-kl-L1329354-S1" ili="wikidata-kl-L1329354-S1" partOfSpeech="x">
       <Definition>allatut oqaatigalugu</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330073-S1" ili="wikidata-kl-L1330073-S1" partOfSpeech="i">
       <Definition>timmiaaraq, timmiaq</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330405-S1" ili="wikidata-kl-L1330405-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1330405-S1" ili="wikidata-kl-L1330405-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330405-S2" ili="wikidata-kl-L1330405-S2" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1330405-S2" ili="wikidata-kl-L1330405-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330732-S1" ili="wikidata-kl-L1330732-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1330732-S1" ili="wikidata-kl-L1330732-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330735-S1" ili="wikidata-kl-L1330735-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1330735-S1" ili="wikidata-kl-L1330735-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1408816-S1" ili="wikidata-kl-L1408816-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1408816-S1" ili="wikidata-kl-L1408816-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1410809-S1" ili="wikidata-kl-L1410809-S1" partOfSpeech="y">
@@ -1085,70 +1085,70 @@
     <Synset id="wikidata-kl-L1416306-S1" ili="wikidata-kl-L1416306-S1" partOfSpeech="h">
       <Definition>taanna</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1419751-S1" ili="wikidata-kl-L1419751-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1419751-S1" ili="wikidata-kl-L1419751-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1421418-S1" ili="wikidata-kl-L1421418-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1436543-S1" ili="wikidata-kl-L1436543-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1436543-S1" ili="wikidata-kl-L1436543-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1451950-S1" ili="wikidata-kl-L1451950-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1451950-S1" ili="wikidata-kl-L1451950-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1459852-S1" ili="wikidata-kl-L1459852-S1" partOfSpeech="y">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1460207-S1" ili="wikidata-kl-L1460207-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1460207-S1" ili="wikidata-kl-L1460207-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1461673-S1" ili="wikidata-kl-L1461673-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1521868-S1" ili="wikidata-kl-L1521868-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1521868-S1" ili="wikidata-kl-L1521868-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1142420-S1" ili="wikidata-kl-L1142420-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1328526-S1" ili="wikidata-kl-L1328526-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1328526-S1" ili="wikidata-kl-L1328526-S1" partOfSpeech="x">
       <Definition>ilimanarpoq / qasunarpo</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329165-S1" ili="wikidata-kl-L1329165-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1329165-S1" ili="wikidata-kl-L1329165-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329389-S1" ili="wikidata-kl-L1329389-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329389-S1" ili="wikidata-kl-L1329389-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329389-S2" ili="wikidata-kl-L1329389-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329389-S2" ili="wikidata-kl-L1329389-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329681-S1" ili="wikidata-kl-L1329681-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329681-S1" ili="wikidata-kl-L1329681-S1" partOfSpeech="x">
       <Definition>(allallaqqippoq / pillaqqippoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400417-S1" ili="wikidata-kl-L1400417-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400417-S1" ili="wikidata-kl-L1400417-S1" partOfSpeech="x">
       <Definition>(appaaq, nerlaaq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400417-S2" ili="wikidata-kl-L1400417-S2" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400417-S2" ili="wikidata-kl-L1400417-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400418-S1" ili="wikidata-kl-L1400418-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400418-S1" ili="wikidata-kl-L1400418-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400555-S1" ili="wikidata-kl-L1400555-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1400555-S1" ili="wikidata-kl-L1400555-S1" partOfSpeech="x">
       <Definition>(qalaarpoq, qaquaarpoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1408808-S1" ili="wikidata-kl-L1408808-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1408808-S1" ili="wikidata-kl-L1408808-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414626-S1" ili="wikidata-kl-L1414626-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1440303-S1" ili="wikidata-kl-L1440303-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1440303-S1" ili="wikidata-kl-L1440303-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1452095-S1" ili="wikidata-kl-L1452095-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1452095-S1" ili="wikidata-kl-L1452095-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328944-S1" ili="wikidata-kl-L1328944-S1" partOfSpeech="h">
@@ -1157,7 +1157,7 @@
     <Synset id="wikidata-kl-L1328945-S1" ili="wikidata-kl-L1328945-S1" partOfSpeech="h">
       <Definition>uaguunngitsoq ilissi</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329166-S1" ili="wikidata-kl-L1329166-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1329166-S1" ili="wikidata-kl-L1329166-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329963-S1" ili="wikidata-kl-L1329963-S1" partOfSpeech="h">
@@ -1166,28 +1166,28 @@
     <Synset id="wikidata-kl-L1329965-S1" ili="wikidata-kl-L1329965-S1" partOfSpeech="r">
       <Definition>ukiup tulliani</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330416-S1" ili="wikidata-kl-L1330416-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330416-S1" ili="wikidata-kl-L1330416-S1" partOfSpeech="x">
       <Definition>buy, acquire</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330416-S2" ili="wikidata-kl-L1330416-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330416-S2" ili="wikidata-kl-L1330416-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1377439-S1" ili="wikidata-kl-L1377439-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400548-S1" ili="wikidata-kl-L1400548-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1400548-S1" ili="wikidata-kl-L1400548-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1409094-S1" ili="wikidata-kl-L1409094-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1409094-S1" ili="wikidata-kl-L1409094-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1409094-S2" ili="wikidata-kl-L1409094-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1409094-S2" ili="wikidata-kl-L1409094-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414622-S1" ili="wikidata-kl-L1414622-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1419744-S1" ili="wikidata-kl-L1419744-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1419744-S1" ili="wikidata-kl-L1419744-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1328047-S1" ili="wikidata-kl-L1328047-S1" partOfSpeech="c">
@@ -1199,10 +1199,10 @@
     <Synset id="wikidata-kl-L1329013-S1" ili="wikidata-kl-L1329013-S1" partOfSpeech="i">
       <Definition>suli, suli</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329021-S1" ili="wikidata-kl-L1329021-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329021-S1" ili="wikidata-kl-L1329021-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329021-S2" ili="wikidata-kl-L1329021-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329021-S2" ili="wikidata-kl-L1329021-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329052-S1" ili="wikidata-kl-L1329052-S1" partOfSpeech="c">
@@ -1220,19 +1220,19 @@
     <Synset id="wikidata-kl-L1329053-S1" ili="wikidata-kl-L1329053-S1" partOfSpeech="c">
       <Definition>imatulluunniit</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329171-S1" ili="wikidata-kl-L1329171-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1329171-S1" ili="wikidata-kl-L1329171-S1" partOfSpeech="x">
       <Definition>(alla pillugu sulivoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329308-S1" ili="wikidata-kl-L1329308-S1" partOfSpeech="emphatic particle">
+    <Synset id="wikidata-kl-L1329308-S1" ili="wikidata-kl-L1329308-S1" partOfSpeech="x">
       <Definition>pisarnermisut</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329308-S2" ili="wikidata-kl-L1329308-S2" partOfSpeech="emphatic particle">
+    <Synset id="wikidata-kl-L1329308-S2" ili="wikidata-kl-L1329308-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329308-S3" ili="wikidata-kl-L1329308-S3" partOfSpeech="emphatic particle">
+    <Synset id="wikidata-kl-L1329308-S3" ili="wikidata-kl-L1329308-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329347-S1" ili="wikidata-kl-L1329347-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329347-S1" ili="wikidata-kl-L1329347-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329677-S1" ili="wikidata-kl-L1329677-S1" partOfSpeech="i">
@@ -1244,49 +1244,49 @@
     <Synset id="wikidata-kl-L1329966-S1" ili="wikidata-kl-L1329966-S1" partOfSpeech="r">
       <Definition>ukiut marluk qaangiuppata</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330013-S1" ili="wikidata-kl-L1330013-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330013-S1" ili="wikidata-kl-L1330013-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330069-S1" ili="wikidata-kl-L1330069-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330408-S1" ili="wikidata-kl-L1330408-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330408-S1" ili="wikidata-kl-L1330408-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330408-S2" ili="wikidata-kl-L1330408-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330408-S2" ili="wikidata-kl-L1330408-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330408-S3" ili="wikidata-kl-L1330408-S3" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330408-S3" ili="wikidata-kl-L1330408-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330408-S4" ili="wikidata-kl-L1330408-S4" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330408-S4" ili="wikidata-kl-L1330408-S4" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330420-S1" ili="wikidata-kl-L1330420-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1330420-S1" ili="wikidata-kl-L1330420-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330701-S1" ili="wikidata-kl-L1330701-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330701-S1" ili="wikidata-kl-L1330701-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330701-S2" ili="wikidata-kl-L1330701-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330701-S2" ili="wikidata-kl-L1330701-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400553-S1" ili="wikidata-kl-L1400553-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1400553-S1" ili="wikidata-kl-L1400553-S1" partOfSpeech="x">
       <Definition>(kissalaarpoq / kialaarpoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1401048-S1" ili="wikidata-kl-L1401048-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1401048-S1" ili="wikidata-kl-L1401048-S1" partOfSpeech="x">
       <Definition>(inunngorpoq / allanngorpoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1401048-S2" ili="wikidata-kl-L1401048-S2" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1401048-S2" ili="wikidata-kl-L1401048-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1401048-S3" ili="wikidata-kl-L1401048-S3" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1401048-S3" ili="wikidata-kl-L1401048-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L21629-S1" ili="wikidata-kl-L21629-S1" partOfSpeech="demonstrative adverb">
+    <Synset id="wikidata-kl-L21629-S1" ili="wikidata-kl-L21629-S1" partOfSpeech="x">
       <Definition>uani</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1320757-S1" ili="wikidata-kl-L1320757-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-kl-L1320757-S1" ili="wikidata-kl-L1320757-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1327943-S1" ili="wikidata-kl-L1327943-S1" partOfSpeech="y">
@@ -1301,79 +1301,79 @@
     <Synset id="wikidata-kl-L1329016-S1" ili="wikidata-kl-L1329016-S1" partOfSpeech="r">
       <Definition>taamaalimmat</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329033-S1" ili="wikidata-kl-L1329033-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1329033-S1" ili="wikidata-kl-L1329033-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329307-S1" ili="wikidata-kl-L1329307-S1" partOfSpeech="vocative particle">
+    <Synset id="wikidata-kl-L1329307-S1" ili="wikidata-kl-L1329307-S1" partOfSpeech="x">
       <Definition>uumaangaa</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329674-S1" ili="wikidata-kl-L1329674-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329683-S1" ili="wikidata-kl-L1329683-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1329683-S1" ili="wikidata-kl-L1329683-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330014-S1" ili="wikidata-kl-L1330014-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330014-S1" ili="wikidata-kl-L1330014-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330039-S1" ili="wikidata-kl-L1330039-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1330039-S1" ili="wikidata-kl-L1330039-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330412-S1" ili="wikidata-kl-L1330412-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330412-S1" ili="wikidata-kl-L1330412-S1" partOfSpeech="x">
       <Definition>sumut atortoq</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330412-S2" ili="wikidata-kl-L1330412-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330412-S2" ili="wikidata-kl-L1330412-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1330412-S3" ili="wikidata-kl-L1330412-S3" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1330412-S3" ili="wikidata-kl-L1330412-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1360531-S1" ili="wikidata-kl-L1360531-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1360531-S1" ili="wikidata-kl-L1360531-S1" partOfSpeech="x">
       <Definition>(apeqqippoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1360531-S2" ili="wikidata-kl-L1360531-S2" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1360531-S2" ili="wikidata-kl-L1360531-S2" partOfSpeech="x">
       <Definition>(innaaqqippoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1377360-S1" ili="wikidata-kl-L1377360-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1377360-S1" ili="wikidata-kl-L1377360-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400364-S1" ili="wikidata-kl-L1400364-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400364-S1" ili="wikidata-kl-L1400364-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1400497-S1" ili="wikidata-kl-L1400497-S1" partOfSpeech="i">
       <Definition>innga!</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400554-S1" ili="wikidata-kl-L1400554-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1400554-S1" ili="wikidata-kl-L1400554-S1" partOfSpeech="x">
       <Definition>(oqalualaarpoq, siorsualaarpoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1409096-S1" ili="wikidata-kl-L1409096-S1" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1409096-S1" ili="wikidata-kl-L1409096-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1409096-S2" ili="wikidata-kl-L1409096-S2" partOfSpeech="nominaliser">
+    <Synset id="wikidata-kl-L1409096-S2" ili="wikidata-kl-L1409096-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460065-S1" ili="wikidata-kl-L1460065-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329051-S1" ili="wikidata-kl-L1329051-S1" partOfSpeech="demonstrative adverb">
+    <Synset id="wikidata-kl-L1329051-S1" ili="wikidata-kl-L1329051-S1" partOfSpeech="x">
       <Definition>imatut</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1329152-S1" ili="wikidata-kl-L1329152-S1" partOfSpeech="r">
       <Definition>ullormi ataatsimi</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329170-S1" ili="wikidata-kl-L1329170-S1" partOfSpeech="verbal modifier">
+    <Synset id="wikidata-kl-L1329170-S1" ili="wikidata-kl-L1329170-S1" partOfSpeech="x">
       <Definition>(alla pillugu sulivoq)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1329394-S1" ili="wikidata-kl-L1329394-S1" partOfSpeech="verbaliser">
+    <Synset id="wikidata-kl-L1329394-S1" ili="wikidata-kl-L1329394-S1" partOfSpeech="x">
       <Definition>(angerlajaarpoq, aallajaarpoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1330854-S1" ili="wikidata-kl-L1330854-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1400416-S1" ili="wikidata-kl-L1400416-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1400416-S1" ili="wikidata-kl-L1400416-S1" partOfSpeech="x">
       <Definition>(appaliarsuk, angutaarsuk)</Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1403668-S1" ili="wikidata-kl-L1403668-S1" partOfSpeech="nominal modifier">
+    <Synset id="wikidata-kl-L1403668-S1" ili="wikidata-kl-L1403668-S1" partOfSpeech="x">
       <Definition>(assingusoq)</Definition>
     </Synset>
     <Synset id="wikidata-kl-L1414348-S1" ili="wikidata-kl-L1414348-S1" partOfSpeech="i">
@@ -1391,13 +1391,13 @@
     <Synset id="wikidata-kl-L1421421-S1" ili="wikidata-kl-L1421421-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1460209-S1" ili="wikidata-kl-L1460209-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1460209-S1" ili="wikidata-kl-L1460209-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-kl-L1460805-S1" ili="wikidata-kl-L1460805-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-kl-L1461676-S1" ili="wikidata-kl-L1461676-S1" partOfSpeech="affix">
+    <Synset id="wikidata-kl-L1461676-S1" ili="wikidata-kl-L1461676-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

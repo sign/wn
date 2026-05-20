@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-sd" version="1.4"/>
     <LexicalEntry id="L1088190">
-      <Lemma writtenForm="بِہ" partOfSpeech="coordinating conjunction"/>
+      <Lemma writtenForm="بِہ" partOfSpeech="x"/>
       <Sense id="L1088190-S1" synset="wikidata-sd-L1088190-S1" ili="wikidata-sd-L1088190-S1">
         <Definition>پِڻ، ڀِي</Definition>
       </Sense>
@@ -33,14 +33,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L741122">
-      <Lemma writtenForm="جو" partOfSpeech="postposition"/>
+      <Lemma writtenForm="جو" partOfSpeech="x"/>
       <Sense id="L741122-S1" synset="wikidata-sd-L741122-S1" ili="wikidata-sd-L741122-S1">
         <Definition></Definition>
         <SenseRelation relType="similar" target="wikidata-sd-L1124982-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087364">
-      <Lemma writtenForm="آهي" partOfSpeech="copula"/>
+      <Lemma writtenForm="آهي" partOfSpeech="x"/>
       <Sense id="L1087364-S1" synset="wikidata-sd-L1087364-S1" ili="wikidata-sd-L1087364-S1">
         <Definition></Definition>
       </Sense>
@@ -49,7 +49,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087515">
-      <Lemma writtenForm="کان" partOfSpeech="postposition"/>
+      <Lemma writtenForm="کان" partOfSpeech="x"/>
       <Sense id="L1087515-S1" synset="wikidata-sd-L1087515-S1" ili="wikidata-sd-L1087515-S1">
         <Definition></Definition>
       </Sense>
@@ -67,32 +67,32 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124904">
-      <Lemma writtenForm="هرڪو" partOfSpeech="distributive pronoun"/>
+      <Lemma writtenForm="هرڪو" partOfSpeech="x"/>
       <Sense id="L1124904-S1" synset="wikidata-sd-L1124904-S1" ili="wikidata-sd-L1124904-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124982">
-      <Lemma writtenForm="سَندو" partOfSpeech="postposition"/>
+      <Lemma writtenForm="سَندو" partOfSpeech="x"/>
       <Sense id="L1124982-S1" synset="wikidata-sd-L1124982-S1" ili="wikidata-sd-L1124982-S1">
         <Definition>جو، وارو</Definition>
         <SenseRelation relType="similar" target="wikidata-sd-L741122-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124996">
-      <Lemma writtenForm="اَسَان جو" partOfSpeech="possessive adjective"/>
+      <Lemma writtenForm="اَسَان جو" partOfSpeech="x"/>
       <Sense id="L1124996-S1" synset="wikidata-sd-L1124996-S1" ili="wikidata-sd-L1124996-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125366">
-      <Lemma writtenForm="وارو" partOfSpeech="postposition"/>
+      <Lemma writtenForm="وارو" partOfSpeech="x"/>
       <Sense id="L1125366-S1" synset="wikidata-sd-L1125366-S1" ili="wikidata-sd-L1125366-S1">
         <Definition>واهر لاءِ دانهن</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087512">
-      <Lemma writtenForm="تي" partOfSpeech="postposition"/>
+      <Lemma writtenForm="تي" partOfSpeech="x"/>
       <Sense id="L1087512-S1" synset="wikidata-sd-L1087512-S1" ili="wikidata-sd-L1087512-S1">
         <Definition></Definition>
       </Sense>
@@ -113,7 +113,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1088193">
-      <Lemma writtenForm="تَہ" partOfSpeech="subordinating conjunction"/>
+      <Lemma writtenForm="تَہ" partOfSpeech="x"/>
       <Sense id="L1088193-S1" synset="wikidata-sd-L1088193-S1" ili="wikidata-sd-L1088193-S1">
         <Definition>ماڳَهِين</Definition>
       </Sense>
@@ -125,13 +125,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124984">
-      <Lemma writtenForm="ڳَرِ" partOfSpeech="postposition"/>
+      <Lemma writtenForm="ڳَرِ" partOfSpeech="x"/>
       <Sense id="L1124984-S1" synset="wikidata-sd-L1124984-S1" ili="wikidata-sd-L1124984-S1">
         <Definition>وٽ، ڀر، لڳ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125104">
-      <Lemma writtenForm="سان" partOfSpeech="postposition"/>
+      <Lemma writtenForm="سان" partOfSpeech="x"/>
       <Sense id="L1125104-S1" synset="wikidata-sd-L1125104-S1" ili="wikidata-sd-L1125104-S1">
         <Definition>ساڻ، سين</Definition>
         <SenseRelation relType="similar" target="wikidata-sd-L1087517-S1"/>
@@ -171,7 +171,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125017">
-      <Lemma writtenForm="جان" partOfSpeech="coordinating conjunction"/>
+      <Lemma writtenForm="جان" partOfSpeech="x"/>
       <Sense id="L1125017-S1" synset="wikidata-sd-L1125017-S1" ili="wikidata-sd-L1125017-S1">
         <Definition>يا، يان</Definition>
       </Sense>
@@ -207,13 +207,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087510">
-      <Lemma writtenForm="کي" partOfSpeech="postposition"/>
+      <Lemma writtenForm="کي" partOfSpeech="x"/>
       <Sense id="L1087510-S1" synset="wikidata-sd-L1087510-S1" ili="wikidata-sd-L1087510-S1">
         <Definition>ڏي، ڪول</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1087517">
-      <Lemma writtenForm="ساڻُ" partOfSpeech="postposition"/>
+      <Lemma writtenForm="ساڻُ" partOfSpeech="x"/>
       <Sense id="L1087517-S1" synset="wikidata-sd-L1087517-S1" ili="wikidata-sd-L1087517-S1">
         <Definition>سان، سين ڀيڙو</Definition>
         <SenseRelation relType="similar" target="wikidata-sd-L1125104-S1"/>
@@ -226,7 +226,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1011780">
-      <Lemma writtenForm="۾" partOfSpeech="postposition"/>
+      <Lemma writtenForm="۾" partOfSpeech="x"/>
       <Sense id="L1011780-S1" synset="wikidata-sd-L1011780-S1" ili="wikidata-sd-L1011780-S1">
         <Definition>اندر، منجهه</Definition>
       </Sense>
@@ -235,7 +235,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1011826">
-      <Lemma writtenForm="۽" partOfSpeech="coordinating conjunction"/>
+      <Lemma writtenForm="۽" partOfSpeech="x"/>
       <Sense id="L1011826-S1" synset="wikidata-sd-L1011826-S1" ili="wikidata-sd-L1011826-S1">
         <Definition>ٻيو وڌيڪ</Definition>
       </Sense>
@@ -259,19 +259,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1124983">
-      <Lemma writtenForm="ڪَڻِ" partOfSpeech="postposition"/>
+      <Lemma writtenForm="ڪَڻِ" partOfSpeech="x"/>
       <Sense id="L1124983-S1" synset="wikidata-sd-L1124983-S1" ili="wikidata-sd-L1124983-S1">
         <Definition>ويجهو، نزديڪ</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125002">
-      <Lemma writtenForm="مُنهِن جو" partOfSpeech="possessive adjective"/>
+      <Lemma writtenForm="مُنهِن جو" partOfSpeech="x"/>
       <Sense id="L1125002-S1" synset="wikidata-sd-L1125002-S1" ili="wikidata-sd-L1125002-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1125539">
-      <Lemma writtenForm="مِ" partOfSpeech="pronominal suffix"/>
+      <Lemma writtenForm="مِ" partOfSpeech="x"/>
       <Sense id="L1125539-S1" synset="wikidata-sd-L1125539-S1" ili="wikidata-sd-L1125539-S1">
         <Definition></Definition>
       </Sense>
@@ -288,7 +288,7 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-sd-L1088190-S1" ili="wikidata-sd-L1088190-S1" partOfSpeech="coordinating conjunction">
+    <Synset id="wikidata-sd-L1088190-S1" ili="wikidata-sd-L1088190-S1" partOfSpeech="x">
       <Definition>پِڻ، ڀِي</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124870-S1" ili="wikidata-sd-L1124870-S1" partOfSpeech="h">
@@ -300,16 +300,16 @@
     <Synset id="wikidata-sd-L1321664-S1" ili="wikidata-sd-L1321664-S1" partOfSpeech="i">
       <Definition>افسوس!</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L741122-S1" ili="wikidata-sd-L741122-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L741122-S1" ili="wikidata-sd-L741122-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087364-S1" ili="wikidata-sd-L1087364-S1" partOfSpeech="copula">
+    <Synset id="wikidata-sd-L1087364-S1" ili="wikidata-sd-L1087364-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087364-S2" ili="wikidata-sd-L1087364-S2" partOfSpeech="copula">
+    <Synset id="wikidata-sd-L1087364-S2" ili="wikidata-sd-L1087364-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087515-S1" ili="wikidata-sd-L1087515-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087515-S1" ili="wikidata-sd-L1087515-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124896-S1" ili="wikidata-sd-L1124896-S1" partOfSpeech="h">
@@ -318,61 +318,61 @@
     <Synset id="wikidata-sd-L1124897-S1" ili="wikidata-sd-L1124897-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1124904-S1" ili="wikidata-sd-L1124904-S1" partOfSpeech="distributive pronoun">
+    <Synset id="wikidata-sd-L1124904-S1" ili="wikidata-sd-L1124904-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1124982-S1" ili="wikidata-sd-L1124982-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1124982-S1" ili="wikidata-sd-L1124982-S1" partOfSpeech="x">
       <Definition>جو، وارو</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1124996-S1" ili="wikidata-sd-L1124996-S1" partOfSpeech="possessive adjective">
+    <Synset id="wikidata-sd-L1124996-S1" ili="wikidata-sd-L1124996-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125366-S1" ili="wikidata-sd-L1125366-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125366-S1" ili="wikidata-sd-L1125366-S1" partOfSpeech="x">
       <Definition>واهر لاءِ دانهن</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S1" ili="wikidata-sd-L1087512-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S1" ili="wikidata-sd-L1087512-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S2" ili="wikidata-sd-L1087512-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S2" ili="wikidata-sd-L1087512-S2" partOfSpeech="x">
       <Definition>جي مٿان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S3" ili="wikidata-sd-L1087512-S3" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S3" ili="wikidata-sd-L1087512-S3" partOfSpeech="x">
       <Definition>هنڌان، ماڳان، وٽان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S4" ili="wikidata-sd-L1087512-S4" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S4" ili="wikidata-sd-L1087512-S4" partOfSpeech="x">
       <Definition>کان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S5" ili="wikidata-sd-L1087512-S5" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S5" ili="wikidata-sd-L1087512-S5" partOfSpeech="x">
       <Definition>مان، وچان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087512-S6" ili="wikidata-sd-L1087512-S6" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087512-S6" ili="wikidata-sd-L1087512-S6" partOfSpeech="x">
       <Definition>سببان، جي ڪري</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1088193-S1" ili="wikidata-sd-L1088193-S1" partOfSpeech="subordinating conjunction">
+    <Synset id="wikidata-sd-L1088193-S1" ili="wikidata-sd-L1088193-S1" partOfSpeech="x">
       <Definition>ماڳَهِين</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124900-S1" ili="wikidata-sd-L1124900-S1" partOfSpeech="h">
       <Definition>جيڪو</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1124984-S1" ili="wikidata-sd-L1124984-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1124984-S1" ili="wikidata-sd-L1124984-S1" partOfSpeech="x">
       <Definition>وٽ، ڀر، لڳ</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S1" ili="wikidata-sd-L1125104-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S1" ili="wikidata-sd-L1125104-S1" partOfSpeech="x">
       <Definition>ساڻ، سين</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S2" ili="wikidata-sd-L1125104-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S2" ili="wikidata-sd-L1125104-S2" partOfSpeech="x">
       <Definition>سَهاءِ، ڳَرِ، وَٽِ، کان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S3" ili="wikidata-sd-L1125104-S3" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S3" ili="wikidata-sd-L1125104-S3" partOfSpeech="x">
       <Definition>ڀرسان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S4" ili="wikidata-sd-L1125104-S4" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S4" ili="wikidata-sd-L1125104-S4" partOfSpeech="x">
       <Definition>هٿان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S5" ili="wikidata-sd-L1125104-S5" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S5" ili="wikidata-sd-L1125104-S5" partOfSpeech="x">
       <Definition>جهڙو، جيهو</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125104-S6" ili="wikidata-sd-L1125104-S6" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1125104-S6" ili="wikidata-sd-L1125104-S6" partOfSpeech="x">
       <Definition>ساٿ، سميت</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1132853-S1" ili="wikidata-sd-L1132853-S1" partOfSpeech="h">
@@ -384,13 +384,13 @@
     <Synset id="wikidata-sd-L1124903-S1" ili="wikidata-sd-L1124903-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125017-S1" ili="wikidata-sd-L1125017-S1" partOfSpeech="coordinating conjunction">
+    <Synset id="wikidata-sd-L1125017-S1" ili="wikidata-sd-L1125017-S1" partOfSpeech="x">
       <Definition>يا، يان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125017-S2" ili="wikidata-sd-L1125017-S2" partOfSpeech="coordinating conjunction">
+    <Synset id="wikidata-sd-L1125017-S2" ili="wikidata-sd-L1125017-S2" partOfSpeech="x">
       <Definition>وانگر، جيان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125017-S3" ili="wikidata-sd-L1125017-S3" partOfSpeech="coordinating conjunction">
+    <Synset id="wikidata-sd-L1125017-S3" ili="wikidata-sd-L1125017-S3" partOfSpeech="x">
       <Definition>جنهن وقت، جنهن مهل</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1132228-S1" ili="wikidata-sd-L1132228-S1" partOfSpeech="h">
@@ -405,22 +405,22 @@
     <Synset id="wikidata-sd-L1001974-S1" ili="wikidata-sd-L1001974-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087510-S1" ili="wikidata-sd-L1087510-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087510-S1" ili="wikidata-sd-L1087510-S1" partOfSpeech="x">
       <Definition>ڏي، ڪول</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1087517-S1" ili="wikidata-sd-L1087517-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1087517-S1" ili="wikidata-sd-L1087517-S1" partOfSpeech="x">
       <Definition>سان، سين ڀيڙو</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124872-S1" ili="wikidata-sd-L1124872-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1011780-S1" ili="wikidata-sd-L1011780-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1011780-S1" ili="wikidata-sd-L1011780-S1" partOfSpeech="x">
       <Definition>اندر، منجهه</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1011780-S2" ili="wikidata-sd-L1011780-S2" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1011780-S2" ili="wikidata-sd-L1011780-S2" partOfSpeech="x">
       <Definition>وچان، منجهان</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1011826-S1" ili="wikidata-sd-L1011826-S1" partOfSpeech="coordinating conjunction">
+    <Synset id="wikidata-sd-L1011826-S1" ili="wikidata-sd-L1011826-S1" partOfSpeech="x">
       <Definition>ٻيو وڌيڪ</Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124873-S1" ili="wikidata-sd-L1124873-S1" partOfSpeech="h">
@@ -432,13 +432,13 @@
     <Synset id="wikidata-sd-L1124901-S1" ili="wikidata-sd-L1124901-S1" partOfSpeech="h">
       <Definition>خود، پنڊ</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1124983-S1" ili="wikidata-sd-L1124983-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-sd-L1124983-S1" ili="wikidata-sd-L1124983-S1" partOfSpeech="x">
       <Definition>ويجهو، نزديڪ</Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125002-S1" ili="wikidata-sd-L1125002-S1" partOfSpeech="possessive adjective">
+    <Synset id="wikidata-sd-L1125002-S1" ili="wikidata-sd-L1125002-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-sd-L1125539-S1" ili="wikidata-sd-L1125539-S1" partOfSpeech="pronominal suffix">
+    <Synset id="wikidata-sd-L1125539-S1" ili="wikidata-sd-L1125539-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-sd-L1124899-S1" ili="wikidata-sd-L1124899-S1" partOfSpeech="h">

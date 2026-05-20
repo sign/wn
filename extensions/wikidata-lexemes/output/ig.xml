@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-ig" version="1.4"/>
     <LexicalEntry id="L611723">
-      <Lemma writtenForm="mwakpo" partOfSpeech="gerund"/>
+      <Lemma writtenForm="mwakpo" partOfSpeech="x"/>
       <Sense id="L611723-S1" synset="wikidata-ig-L611723-S1" ili="wikidata-ig-L611723-S1">
         <Definition></Definition>
       </Sense>
@@ -30,25 +30,25 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L616861">
-      <Lemma writtenForm="Mgbochi" partOfSpeech="gerund"/>
+      <Lemma writtenForm="Mgbochi" partOfSpeech="x"/>
       <Sense id="L616861-S1" synset="wikidata-ig-L616861-S1" ili="wikidata-ig-L616861-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618896">
-      <Lemma writtenForm="-go" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-go" partOfSpeech="x"/>
       <Sense id="L618896-S1" synset="wikidata-ig-L618896-S1" ili="wikidata-ig-L618896-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618898">
-      <Lemma writtenForm="-kọ" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-kọ" partOfSpeech="x"/>
       <Sense id="L618898-S1" synset="wikidata-ig-L618898-S1" ili="wikidata-ig-L618898-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618903">
-      <Lemma writtenForm="-la" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-la" partOfSpeech="x"/>
       <Sense id="L618903-S1" synset="wikidata-ig-L618903-S1" ili="wikidata-ig-L618903-S1">
         <Definition></Definition>
       </Sense>
@@ -69,7 +69,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624244">
-      <Lemma writtenForm="mere" partOfSpeech="past tense"/>
+      <Lemma writtenForm="mere" partOfSpeech="x"/>
       <Sense id="L624244-S1" synset="wikidata-ig-L624244-S1" ili="wikidata-ig-L624244-S1">
         <Definition></Definition>
       </Sense>
@@ -93,7 +93,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L700297">
-      <Lemma writtenForm="gọ" partOfSpeech="active"/>
+      <Lemma writtenForm="gọ" partOfSpeech="x"/>
       <Sense id="L700297-S1" synset="wikidata-ig-L700297-S1" ili="wikidata-ig-L700297-S1">
         <Definition></Definition>
       </Sense>
@@ -120,7 +120,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L716847">
-      <Lemma writtenForm="afọ otu" partOfSpeech="compound noun"/>
+      <Lemma writtenForm="afọ otu" partOfSpeech="x"/>
       <Sense id="L716847-S1" synset="wikidata-ig-L716847-S1" ili="wikidata-ig-L716847-S1">
         <Definition>afọ otu</Definition>
       </Sense>
@@ -129,13 +129,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747357">
-      <Lemma writtenForm="ùgbòrò" partOfSpeech="quantifier"/>
+      <Lemma writtenForm="ùgbòrò" partOfSpeech="x"/>
       <Sense id="L747357-S1" synset="wikidata-ig-L747357-S1" ili="wikidata-ig-L747357-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747359">
-      <Lemma writtenForm="gwọ̄" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="gwọ̄" partOfSpeech="x"/>
       <Sense id="L747359-S1" synset="wikidata-ig-L747359-S1" ili="wikidata-ig-L747359-S1">
         <Definition></Definition>
       </Sense>
@@ -144,7 +144,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747369">
-      <Lemma writtenForm="dọ" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="dọ" partOfSpeech="x"/>
       <Sense id="L747369-S1" synset="wikidata-ig-L747369-S1" ili="wikidata-ig-L747369-S1">
         <Definition></Definition>
       </Sense>
@@ -195,7 +195,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643891">
-      <Lemma writtenForm="-ta" partOfSpeech="extensional suffix"/>
+      <Lemma writtenForm="-ta" partOfSpeech="x"/>
       <Sense id="L643891-S1" synset="wikidata-ig-L643891-S1" ili="wikidata-ig-L643891-S1">
         <Definition></Definition>
       </Sense>
@@ -219,13 +219,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739918">
-      <Lemma writtenForm="ìmèriìmè" partOfSpeech="quantifier"/>
+      <Lemma writtenForm="ìmèriìmè" partOfSpeech="x"/>
       <Sense id="L739918-S1" synset="wikidata-ig-L739918-S1" ili="wikidata-ig-L739918-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1011633">
-      <Lemma writtenForm="à" partOfSpeech="demonstrative"/>
+      <Lemma writtenForm="à" partOfSpeech="x"/>
       <Sense id="L1011633-S1" synset="wikidata-ig-L1011633-S1" ili="wikidata-ig-L1011633-S1">
         <Definition></Definition>
       </Sense>
@@ -282,37 +282,37 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618900">
-      <Lemma writtenForm="-ri" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-ri" partOfSpeech="x"/>
       <Sense id="L618900-S1" synset="wikidata-ig-L618900-S1" ili="wikidata-ig-L618900-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618908">
-      <Lemma writtenForm="-ghị" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-ghị" partOfSpeech="x"/>
       <Sense id="L618908-S1" synset="wikidata-ig-L618908-S1" ili="wikidata-ig-L618908-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L710815">
-      <Lemma writtenForm="ṅsùsù ọnụ" partOfSpeech="nominalized verb"/>
+      <Lemma writtenForm="ṅsùsù ọnụ" partOfSpeech="x"/>
       <Sense id="L710815-S1" synset="wikidata-ig-L710815-S1" ili="wikidata-ig-L710815-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747365">
-      <Lemma writtenForm="gbā ākā" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="gbā ākā" partOfSpeech="x"/>
       <Sense id="L747365-S1" synset="wikidata-ig-L747365-S1" ili="wikidata-ig-L747365-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747366">
-      <Lemma writtenForm="mā ākwụ̄kwọ̄" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="mā ākwụ̄kwọ̄" partOfSpeech="x"/>
       <Sense id="L747366-S1" synset="wikidata-ig-L747366-S1" ili="wikidata-ig-L747366-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747368">
-      <Lemma writtenForm="nwụ" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="nwụ" partOfSpeech="x"/>
       <Sense id="L747368-S1" synset="wikidata-ig-L747368-S1" ili="wikidata-ig-L747368-S1">
         <Definition></Definition>
       </Sense>
@@ -324,7 +324,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1018338">
-      <Lemma writtenForm="ùgbòròòle" partOfSpeech="interrogative"/>
+      <Lemma writtenForm="ùgbòròòle" partOfSpeech="x"/>
       <Sense id="L1018338-S1" synset="wikidata-ig-L1018338-S1" ili="wikidata-ig-L1018338-S1">
         <Definition></Definition>
       </Sense>
@@ -354,7 +354,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L614071">
-      <Lemma writtenForm="Ịgba nkwụ" partOfSpeech="infinitive"/>
+      <Lemma writtenForm="Ịgba nkwụ" partOfSpeech="x"/>
       <Sense id="L614071-S1" synset="wikidata-ig-L614071-S1" ili="wikidata-ig-L614071-S1">
         <Definition></Definition>
       </Sense>
@@ -405,7 +405,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L692323">
-      <Lemma writtenForm="dákwàsà" partOfSpeech="active"/>
+      <Lemma writtenForm="dákwàsà" partOfSpeech="x"/>
       <Sense id="L692323-S1" synset="wikidata-ig-L692323-S1" ili="wikidata-ig-L692323-S1">
         <Definition></Definition>
       </Sense>
@@ -423,13 +423,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L737813">
-      <Lemma writtenForm="hị āhị̄" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="hị āhị̄" partOfSpeech="x"/>
       <Sense id="L737813-S1" synset="wikidata-ig-L737813-S1" ili="wikidata-ig-L737813-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748101">
-      <Lemma writtenForm="nọ̀" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="nọ̀" partOfSpeech="x"/>
       <Sense id="L748101-S1" synset="wikidata-ig-L748101-S1" ili="wikidata-ig-L748101-S1">
         <Definition></Definition>
       </Sense>
@@ -456,7 +456,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1019529">
-      <Lemma writtenForm="òle" partOfSpeech="interrogative"/>
+      <Lemma writtenForm="òle" partOfSpeech="x"/>
       <Sense id="L1019529-S1" synset="wikidata-ig-L1019529-S1" ili="wikidata-ig-L1019529-S1">
         <Definition></Definition>
       </Sense>
@@ -504,13 +504,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747364">
-      <Lemma writtenForm="hā" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="hā" partOfSpeech="x"/>
       <Sense id="L747364-S1" synset="wikidata-ig-L747364-S1" ili="wikidata-ig-L747364-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747370">
-      <Lemma writtenForm="ǹkè àbụọ̄" partOfSpeech="quantifier"/>
+      <Lemma writtenForm="ǹkè àbụọ̄" partOfSpeech="x"/>
       <Sense id="L747370-S1" synset="wikidata-ig-L747370-S1" ili="wikidata-ig-L747370-S1">
         <Definition></Definition>
       </Sense>
@@ -528,7 +528,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1019088">
-      <Lemma writtenForm="gba aka" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="gba aka" partOfSpeech="x"/>
       <Sense id="L1019088-S1" synset="wikidata-ig-L1019088-S1" ili="wikidata-ig-L1019088-S1">
         <Definition></Definition>
       </Sense>
@@ -552,7 +552,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1460486">
-      <Lemma writtenForm="sọọsọ" partOfSpeech="definite determiner"/>
+      <Lemma writtenForm="sọọsọ" partOfSpeech="x"/>
       <Sense id="L1460486-S1" synset="wikidata-ig-L1460486-S1" ili="wikidata-ig-L1460486-S1">
         <Definition></Definition>
       </Sense>
@@ -570,7 +570,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618891">
-      <Lemma writtenForm="-bu" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-bu" partOfSpeech="x"/>
       <Sense id="L618891-S1" synset="wikidata-ig-L618891-S1" ili="wikidata-ig-L618891-S1">
         <Definition></Definition>
       </Sense>
@@ -618,7 +618,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L712401">
-      <Lemma writtenForm="na-akpote" partOfSpeech="present participle"/>
+      <Lemma writtenForm="na-akpote" partOfSpeech="x"/>
       <Sense id="L712401-S1" synset="wikidata-ig-L712401-S1" ili="wikidata-ig-L712401-S1">
         <Definition></Definition>
       </Sense>
@@ -651,7 +651,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L748100">
-      <Lemma writtenForm="bu" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="bu" partOfSpeech="x"/>
       <Sense id="L748100-S1" synset="wikidata-ig-L748100-S1" ili="wikidata-ig-L748100-S1">
         <Definition></Definition>
       </Sense>
@@ -699,13 +699,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L624190">
-      <Lemma writtenForm="gbaa" partOfSpeech="imperative form"/>
+      <Lemma writtenForm="gbaa" partOfSpeech="x"/>
       <Sense id="L624190-S1" synset="wikidata-ig-L624190-S1" ili="wikidata-ig-L624190-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643902">
-      <Lemma writtenForm="na" partOfSpeech="auxiliary verb"/>
+      <Lemma writtenForm="na" partOfSpeech="x"/>
       <Sense id="L643902-S1" synset="wikidata-ig-L643902-S1" ili="wikidata-ig-L643902-S1">
         <Definition></Definition>
       </Sense>
@@ -720,7 +720,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L739912">
-      <Lemma writtenForm="chị ìnyèmè" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="chị ìnyèmè" partOfSpeech="x"/>
       <Sense id="L739912-S1" synset="wikidata-ig-L739912-S1" ili="wikidata-ig-L739912-S1">
         <Definition></Definition>
       </Sense>
@@ -732,19 +732,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747358">
-      <Lemma writtenForm="òlenòòlē" partOfSpeech="quantifier"/>
+      <Lemma writtenForm="òlenòòlē" partOfSpeech="x"/>
       <Sense id="L747358-S1" synset="wikidata-ig-L747358-S1" ili="wikidata-ig-L747358-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747362">
-      <Lemma writtenForm="yì" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="yì" partOfSpeech="x"/>
       <Sense id="L747362-S1" synset="wikidata-ig-L747362-S1" ili="wikidata-ig-L747362-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747363">
-      <Lemma writtenForm="kwò" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="kwò" partOfSpeech="x"/>
       <Sense id="L747363-S1" synset="wikidata-ig-L747363-S1" ili="wikidata-ig-L747363-S1">
         <Definition></Definition>
       </Sense>
@@ -795,7 +795,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L616864">
-      <Lemma writtenForm="Ọgịga" partOfSpeech="gerund"/>
+      <Lemma writtenForm="Ọgịga" partOfSpeech="x"/>
       <Sense id="L616864-S1" synset="wikidata-ig-L616864-S1" ili="wikidata-ig-L616864-S1">
         <Definition></Definition>
       </Sense>
@@ -810,7 +810,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L618883">
-      <Lemma writtenForm="-a" partOfSpeech="inflectional suffix"/>
+      <Lemma writtenForm="-a" partOfSpeech="x"/>
       <Sense id="L618883-S1" synset="wikidata-ig-L618883-S1" ili="wikidata-ig-L618883-S1">
         <Definition></Definition>
       </Sense>
@@ -840,7 +840,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L623436">
-      <Lemma writtenForm="ịkpọ" partOfSpeech="infinitive"/>
+      <Lemma writtenForm="ịkpọ" partOfSpeech="x"/>
       <Sense id="L623436-S1" synset="wikidata-ig-L623436-S1" ili="wikidata-ig-L623436-S1">
         <Definition></Definition>
       </Sense>
@@ -858,7 +858,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L643903">
-      <Lemma writtenForm="ka" partOfSpeech="auxiliary verb"/>
+      <Lemma writtenForm="ka" partOfSpeech="x"/>
       <Sense id="L643903-S1" synset="wikidata-ig-L643903-S1" ili="wikidata-ig-L643903-S1">
         <Definition></Definition>
       </Sense>
@@ -870,7 +870,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L700215">
-      <Lemma writtenForm="nọ̀dò" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="nọ̀dò" partOfSpeech="x"/>
       <Sense id="L700215-S1" synset="wikidata-ig-L700215-S1" ili="wikidata-ig-L700215-S1">
         <Definition></Definition>
       </Sense>
@@ -882,7 +882,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L747367">
-      <Lemma writtenForm="dọ̄" partOfSpeech="passive verb"/>
+      <Lemma writtenForm="dọ̄" partOfSpeech="x"/>
       <Sense id="L747367-S1" synset="wikidata-ig-L747367-S1" ili="wikidata-ig-L747367-S1">
         <Definition></Definition>
       </Sense>
@@ -905,10 +905,10 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-ig-L611723-S1" ili="wikidata-ig-L611723-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-ig-L611723-S1" ili="wikidata-ig-L611723-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L611723-S2" ili="wikidata-ig-L611723-S2" partOfSpeech="gerund">
+    <Synset id="wikidata-ig-L611723-S2" ili="wikidata-ig-L611723-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L614062-S1" ili="wikidata-ig-L614062-S1" partOfSpeech="h">
@@ -920,16 +920,16 @@
     <Synset id="wikidata-ig-L614062-S3" ili="wikidata-ig-L614062-S3" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L616861-S1" ili="wikidata-ig-L616861-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-ig-L616861-S1" ili="wikidata-ig-L616861-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618896-S1" ili="wikidata-ig-L618896-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618896-S1" ili="wikidata-ig-L618896-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618898-S1" ili="wikidata-ig-L618898-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618898-S1" ili="wikidata-ig-L618898-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618903-S1" ili="wikidata-ig-L618903-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618903-S1" ili="wikidata-ig-L618903-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L622279-S1" ili="wikidata-ig-L622279-S1" partOfSpeech="p">
@@ -941,7 +941,7 @@
     <Synset id="wikidata-ig-L623157-S1" ili="wikidata-ig-L623157-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L624244-S1" ili="wikidata-ig-L624244-S1" partOfSpeech="past tense">
+    <Synset id="wikidata-ig-L624244-S1" ili="wikidata-ig-L624244-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L640203-S1" ili="wikidata-ig-L640203-S1" partOfSpeech="p">
@@ -953,7 +953,7 @@
     <Synset id="wikidata-ig-L643900-S1" ili="wikidata-ig-L643900-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L700297-S1" ili="wikidata-ig-L700297-S1" partOfSpeech="active">
+    <Synset id="wikidata-ig-L700297-S1" ili="wikidata-ig-L700297-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L712442-S1" ili="wikidata-ig-L712442-S1" partOfSpeech="c">
@@ -968,22 +968,22 @@
     <Synset id="wikidata-ig-L715841-S2" ili="wikidata-ig-L715841-S2" partOfSpeech="r">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L716847-S1" ili="wikidata-ig-L716847-S1" partOfSpeech="compound noun">
+    <Synset id="wikidata-ig-L716847-S1" ili="wikidata-ig-L716847-S1" partOfSpeech="x">
       <Definition>afọ otu</Definition>
     </Synset>
-    <Synset id="wikidata-ig-L716847-S2" ili="wikidata-ig-L716847-S2" partOfSpeech="compound noun">
+    <Synset id="wikidata-ig-L716847-S2" ili="wikidata-ig-L716847-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747357-S1" ili="wikidata-ig-L747357-S1" partOfSpeech="quantifier">
+    <Synset id="wikidata-ig-L747357-S1" ili="wikidata-ig-L747357-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747359-S1" ili="wikidata-ig-L747359-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747359-S1" ili="wikidata-ig-L747359-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747359-S2" ili="wikidata-ig-L747359-S2" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747359-S2" ili="wikidata-ig-L747359-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747369-S1" ili="wikidata-ig-L747369-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747369-S1" ili="wikidata-ig-L747369-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1019341-S1" ili="wikidata-ig-L1019341-S1" partOfSpeech="p">
@@ -1010,13 +1010,13 @@
     <Synset id="wikidata-ig-L623581-S1" ili="wikidata-ig-L623581-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L643891-S1" ili="wikidata-ig-L643891-S1" partOfSpeech="extensional suffix">
+    <Synset id="wikidata-ig-L643891-S1" ili="wikidata-ig-L643891-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L643891-S2" ili="wikidata-ig-L643891-S2" partOfSpeech="extensional suffix">
+    <Synset id="wikidata-ig-L643891-S2" ili="wikidata-ig-L643891-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L643891-S3" ili="wikidata-ig-L643891-S3" partOfSpeech="extensional suffix">
+    <Synset id="wikidata-ig-L643891-S3" ili="wikidata-ig-L643891-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L722373-S1" ili="wikidata-ig-L722373-S1" partOfSpeech="h">
@@ -1025,13 +1025,13 @@
     <Synset id="wikidata-ig-L723687-S1" ili="wikidata-ig-L723687-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L739918-S1" ili="wikidata-ig-L739918-S1" partOfSpeech="quantifier">
+    <Synset id="wikidata-ig-L739918-S1" ili="wikidata-ig-L739918-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1011633-S1" ili="wikidata-ig-L1011633-S1" partOfSpeech="demonstrative">
+    <Synset id="wikidata-ig-L1011633-S1" ili="wikidata-ig-L1011633-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1011633-S3" ili="wikidata-ig-L1011633-S3" partOfSpeech="demonstrative">
+    <Synset id="wikidata-ig-L1011633-S3" ili="wikidata-ig-L1011633-S3" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1018388-S1" ili="wikidata-ig-L1018388-S1" partOfSpeech="c">
@@ -1058,28 +1058,28 @@
     <Synset id="wikidata-ig-L614684-S1" ili="wikidata-ig-L614684-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618900-S1" ili="wikidata-ig-L618900-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618900-S1" ili="wikidata-ig-L618900-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618908-S1" ili="wikidata-ig-L618908-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618908-S1" ili="wikidata-ig-L618908-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L710815-S1" ili="wikidata-ig-L710815-S1" partOfSpeech="nominalized verb">
+    <Synset id="wikidata-ig-L710815-S1" ili="wikidata-ig-L710815-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747365-S1" ili="wikidata-ig-L747365-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747365-S1" ili="wikidata-ig-L747365-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747366-S1" ili="wikidata-ig-L747366-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747366-S1" ili="wikidata-ig-L747366-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747368-S1" ili="wikidata-ig-L747368-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747368-S1" ili="wikidata-ig-L747368-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L748104-S1" ili="wikidata-ig-L748104-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1018338-S1" ili="wikidata-ig-L1018338-S1" partOfSpeech="interrogative">
+    <Synset id="wikidata-ig-L1018338-S1" ili="wikidata-ig-L1018338-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1018479-S1" ili="wikidata-ig-L1018479-S1" partOfSpeech="i">
@@ -1094,7 +1094,7 @@
     <Synset id="wikidata-ig-L594255-S1" ili="wikidata-ig-L594255-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L614071-S1" ili="wikidata-ig-L614071-S1" partOfSpeech="infinitive">
+    <Synset id="wikidata-ig-L614071-S1" ili="wikidata-ig-L614071-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L614688-S1" ili="wikidata-ig-L614688-S1" partOfSpeech="c">
@@ -1124,7 +1124,7 @@
     <Synset id="wikidata-ig-L624296-S1" ili="wikidata-ig-L624296-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L692323-S1" ili="wikidata-ig-L692323-S1" partOfSpeech="active">
+    <Synset id="wikidata-ig-L692323-S1" ili="wikidata-ig-L692323-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L712465-S1" ili="wikidata-ig-L712465-S1" partOfSpeech="c">
@@ -1133,10 +1133,10 @@
     <Synset id="wikidata-ig-L722425-S1" ili="wikidata-ig-L722425-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L737813-S1" ili="wikidata-ig-L737813-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L737813-S1" ili="wikidata-ig-L737813-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L748101-S1" ili="wikidata-ig-L748101-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L748101-S1" ili="wikidata-ig-L748101-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L748103-S1" ili="wikidata-ig-L748103-S1" partOfSpeech="h">
@@ -1151,7 +1151,7 @@
     <Synset id="wikidata-ig-L1018477-S1" ili="wikidata-ig-L1018477-S1" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1019529-S1" ili="wikidata-ig-L1019529-S1" partOfSpeech="interrogative">
+    <Synset id="wikidata-ig-L1019529-S1" ili="wikidata-ig-L1019529-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1215579-S1" ili="wikidata-ig-L1215579-S1" partOfSpeech="m">
@@ -1175,10 +1175,10 @@
     <Synset id="wikidata-ig-L712534-S1" ili="wikidata-ig-L712534-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747364-S1" ili="wikidata-ig-L747364-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747364-S1" ili="wikidata-ig-L747364-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747370-S1" ili="wikidata-ig-L747370-S1" partOfSpeech="quantifier">
+    <Synset id="wikidata-ig-L747370-S1" ili="wikidata-ig-L747370-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L748105-S1" ili="wikidata-ig-L748105-S1" partOfSpeech="h">
@@ -1187,7 +1187,7 @@
     <Synset id="wikidata-ig-L1018492-S1" ili="wikidata-ig-L1018492-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1019088-S1" ili="wikidata-ig-L1019088-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L1019088-S1" ili="wikidata-ig-L1019088-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1019487-S1" ili="wikidata-ig-L1019487-S1" partOfSpeech="i">
@@ -1199,7 +1199,7 @@
     <Synset id="wikidata-ig-L1215705-S1" ili="wikidata-ig-L1215705-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L1460486-S1" ili="wikidata-ig-L1460486-S1" partOfSpeech="definite determiner">
+    <Synset id="wikidata-ig-L1460486-S1" ili="wikidata-ig-L1460486-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L579435-S1" ili="wikidata-ig-L579435-S1" partOfSpeech="h">
@@ -1208,7 +1208,7 @@
     <Synset id="wikidata-ig-L614683-S1" ili="wikidata-ig-L614683-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618891-S1" ili="wikidata-ig-L618891-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618891-S1" ili="wikidata-ig-L618891-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L622228-S2" ili="wikidata-ig-L622228-S2" partOfSpeech="h">
@@ -1235,7 +1235,7 @@
     <Synset id="wikidata-ig-L708447-S1" ili="wikidata-ig-L708447-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L712401-S1" ili="wikidata-ig-L712401-S1" partOfSpeech="present participle">
+    <Synset id="wikidata-ig-L712401-S1" ili="wikidata-ig-L712401-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L712478-S1" ili="wikidata-ig-L712478-S1" partOfSpeech="c">
@@ -1253,7 +1253,7 @@
     <Synset id="wikidata-ig-L739913-S1" ili="wikidata-ig-L739913-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L748100-S1" ili="wikidata-ig-L748100-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L748100-S1" ili="wikidata-ig-L748100-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1018332-S1" ili="wikidata-ig-L1018332-S1" partOfSpeech="c">
@@ -1280,10 +1280,10 @@
     <Synset id="wikidata-ig-L623702-S2" ili="wikidata-ig-L623702-S2" partOfSpeech="i">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L624190-S1" ili="wikidata-ig-L624190-S1" partOfSpeech="imperative form">
+    <Synset id="wikidata-ig-L624190-S1" ili="wikidata-ig-L624190-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L643902-S1" ili="wikidata-ig-L643902-S1" partOfSpeech="auxiliary verb">
+    <Synset id="wikidata-ig-L643902-S1" ili="wikidata-ig-L643902-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L716875-S1" ili="wikidata-ig-L716875-S1" partOfSpeech="h">
@@ -1292,19 +1292,19 @@
     <Synset id="wikidata-ig-L716875-S2" ili="wikidata-ig-L716875-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L739912-S1" ili="wikidata-ig-L739912-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L739912-S1" ili="wikidata-ig-L739912-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L739914-S1" ili="wikidata-ig-L739914-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747358-S1" ili="wikidata-ig-L747358-S1" partOfSpeech="quantifier">
+    <Synset id="wikidata-ig-L747358-S1" ili="wikidata-ig-L747358-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747362-S1" ili="wikidata-ig-L747362-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747362-S1" ili="wikidata-ig-L747362-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747363-S1" ili="wikidata-ig-L747363-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747363-S1" ili="wikidata-ig-L747363-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1019442-S1" ili="wikidata-ig-L1019442-S1" partOfSpeech="i">
@@ -1331,16 +1331,16 @@
     <Synset id="wikidata-ig-L616288-S2" ili="wikidata-ig-L616288-S2" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L616864-S1" ili="wikidata-ig-L616864-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-ig-L616864-S1" ili="wikidata-ig-L616864-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L616864-S2" ili="wikidata-ig-L616864-S2" partOfSpeech="gerund">
+    <Synset id="wikidata-ig-L616864-S2" ili="wikidata-ig-L616864-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L616981-S2" ili="wikidata-ig-L616981-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L618883-S1" ili="wikidata-ig-L618883-S1" partOfSpeech="inflectional suffix">
+    <Synset id="wikidata-ig-L618883-S1" ili="wikidata-ig-L618883-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L622360-S1" ili="wikidata-ig-L622360-S1" partOfSpeech="h">
@@ -1358,7 +1358,7 @@
     <Synset id="wikidata-ig-L622996-S2" ili="wikidata-ig-L622996-S2" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L623436-S1" ili="wikidata-ig-L623436-S1" partOfSpeech="infinitive">
+    <Synset id="wikidata-ig-L623436-S1" ili="wikidata-ig-L623436-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L624086-S1" ili="wikidata-ig-L624086-S1" partOfSpeech="c">
@@ -1367,19 +1367,19 @@
     <Synset id="wikidata-ig-L640143-S1" ili="wikidata-ig-L640143-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L643903-S1" ili="wikidata-ig-L643903-S1" partOfSpeech="auxiliary verb">
+    <Synset id="wikidata-ig-L643903-S1" ili="wikidata-ig-L643903-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L646356-S1" ili="wikidata-ig-L646356-S1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L700215-S1" ili="wikidata-ig-L700215-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L700215-S1" ili="wikidata-ig-L700215-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L712543-S1" ili="wikidata-ig-L712543-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-ig-L747367-S1" ili="wikidata-ig-L747367-S1" partOfSpeech="passive verb">
+    <Synset id="wikidata-ig-L747367-S1" ili="wikidata-ig-L747367-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-ig-L1018466-S1" ili="wikidata-ig-L1018466-S1" partOfSpeech="i">

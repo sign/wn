@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-pl" version="1.4"/>
     <LexicalEntry id="L3404">
-      <Lemma writtenForm="trzydzieści" partOfSpeech="nominal"/>
+      <Lemma writtenForm="trzydzieści" partOfSpeech="x"/>
       <Sense id="L3404-S1" synset="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1">
         <Definition>o jeden więcej niż dwadzieścia dziewięć</Definition>
       </Sense>
@@ -78,7 +78,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L729521">
-      <Lemma writtenForm="zawiasy" partOfSpeech="gerund"/>
+      <Lemma writtenForm="zawiasy" partOfSpeech="x"/>
       <Sense id="L729521-S1" synset="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1">
         <Definition>wyrok w zawieszeniu</Definition>
       </Sense>
@@ -154,7 +154,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L42207">
-      <Lemma writtenForm="dziesięć" partOfSpeech="nominal"/>
+      <Lemma writtenForm="dziesięć" partOfSpeech="x"/>
       <Sense id="L42207-S1" synset="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1">
         <Definition>liczba</Definition>
       </Sense>
@@ -215,19 +215,19 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L305960">
-      <Lemma writtenForm="fumigacja" partOfSpeech="gerund"/>
+      <Lemma writtenForm="fumigacja" partOfSpeech="x"/>
       <Sense id="L305960-S1" synset="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1">
         <Definition>poddanie działaniu gazów celem pozbycia się szkodliwych organizmów z obiektu</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477041">
-      <Lemma writtenForm="kryka" partOfSpeech="common noun"/>
+      <Lemma writtenForm="kryka" partOfSpeech="x"/>
       <Sense id="L477041-S1" synset="wikidata-pl-L477041-S1" ili="wikidata-pl-L477041-S1">
         <Definition>drewniana łaska, regionalizm</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L477042">
-      <Lemma writtenForm="cyckać" partOfSpeech="infinitive"/>
+      <Lemma writtenForm="cyckać" partOfSpeech="x"/>
       <Sense id="L477042-S1" synset="wikidata-pl-L477042-S1" ili="wikidata-pl-L477042-S1">
         <Definition>ssać, np. cukierek</Definition>
       </Sense>
@@ -239,14 +239,14 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L997458">
-      <Lemma writtenForm="albo rybki, albo akwarium" partOfSpeech="phraseme"/>
+      <Lemma writtenForm="albo rybki, albo akwarium" partOfSpeech="x"/>
       <Sense id="L997458-S1" synset="wikidata-pl-L997458-S1" ili="wikidata-pl-L997458-S1">
         <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
         <SenseRelation relType="similar" target="wikidata-pl-L997459-S1"/>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L6039">
-      <Lemma writtenForm="śniadanie" partOfSpeech="gerund"/>
+      <Lemma writtenForm="śniadanie" partOfSpeech="x"/>
       <Sense id="L6039-S1" synset="wikidata-pl-L6039-S1" ili="wikidata-pl-L6039-S1">
         <Definition>pierwszy posiłek dnia</Definition>
       </Sense>
@@ -346,13 +346,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L727681">
-      <Lemma writtenForm="ochadany" partOfSpeech="gerund"/>
+      <Lemma writtenForm="ochadany" partOfSpeech="x"/>
       <Sense id="L727681-S1" synset="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1">
         <Definition>ogarnięty (o osobie)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L997459">
-      <Lemma writtenForm="wóz albo przewóz" partOfSpeech="phraseme"/>
+      <Lemma writtenForm="wóz albo przewóz" partOfSpeech="x"/>
       <Sense id="L997459-S1" synset="wikidata-pl-L997459-S1" ili="wikidata-pl-L997459-S1">
         <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
         <SenseRelation relType="similar" target="wikidata-pl-L997458-S1"/>
@@ -406,7 +406,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L449208">
-      <Lemma writtenForm="sranie" partOfSpeech="gerund"/>
+      <Lemma writtenForm="sranie" partOfSpeech="x"/>
       <Sense id="L449208-S1" synset="wikidata-pl-L449208-S1" ili="wikidata-pl-L449208-S1">
         <Definition>wulgarne określenie na oddawanie kału</Definition>
       </Sense>
@@ -576,7 +576,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L204164">
-      <Lemma writtenForm="sto" partOfSpeech="nominal"/>
+      <Lemma writtenForm="sto" partOfSpeech="x"/>
       <Sense id="L204164-S1" synset="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1">
         <Definition></Definition>
       </Sense>
@@ -599,7 +599,7 @@
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1" partOfSpeech="nominal">
+    <Synset id="wikidata-pl-L3404-S1" ili="wikidata-pl-L3404-S1" partOfSpeech="x">
       <Definition>o jeden więcej niż dwadzieścia dziewięć</Definition>
     </Synset>
     <Synset id="wikidata-pl-L21188-S1" ili="wikidata-pl-L21188-S1" partOfSpeech="h">
@@ -623,7 +623,7 @@
     <Synset id="wikidata-pl-L38153-S1" ili="wikidata-pl-L38153-S1" partOfSpeech="y">
       <Definition>wskazanie, że to o czym mowa jest prawdą, ponieważ to co było powiedziane wcześniej jest prawdą</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-pl-L729521-S1" ili="wikidata-pl-L729521-S1" partOfSpeech="x">
       <Definition>wyrok w zawieszeniu</Definition>
     </Synset>
     <Synset id="wikidata-pl-L740143-S1" ili="wikidata-pl-L740143-S1" partOfSpeech="r">
@@ -656,7 +656,7 @@
     <Synset id="wikidata-pl-L36650-S1" ili="wikidata-pl-L36650-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1" partOfSpeech="nominal">
+    <Synset id="wikidata-pl-L42207-S1" ili="wikidata-pl-L42207-S1" partOfSpeech="x">
       <Definition>liczba</Definition>
     </Synset>
     <Synset id="wikidata-pl-L409880-S1" ili="wikidata-pl-L409880-S1" partOfSpeech="h">
@@ -683,22 +683,22 @@
     <Synset id="wikidata-pl-L38149-S1" ili="wikidata-pl-L38149-S1" partOfSpeech="y">
       <Definition>potwierdzenie tego co zostało powiedziane</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-pl-L305960-S1" ili="wikidata-pl-L305960-S1" partOfSpeech="x">
       <Definition>poddanie działaniu gazów celem pozbycia się szkodliwych organizmów z obiektu</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L477041-S1" ili="wikidata-pl-L477041-S1" partOfSpeech="common noun">
+    <Synset id="wikidata-pl-L477041-S1" ili="wikidata-pl-L477041-S1" partOfSpeech="x">
       <Definition>drewniana łaska, regionalizm</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L477042-S1" ili="wikidata-pl-L477042-S1" partOfSpeech="infinitive">
+    <Synset id="wikidata-pl-L477042-S1" ili="wikidata-pl-L477042-S1" partOfSpeech="x">
       <Definition>ssać, np. cukierek</Definition>
     </Synset>
     <Synset id="wikidata-pl-L739548-S1" ili="wikidata-pl-L739548-S1" partOfSpeech="h">
       <Definition>gdzie</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L997458-S1" ili="wikidata-pl-L997458-S1" partOfSpeech="phraseme">
+    <Synset id="wikidata-pl-L997458-S1" ili="wikidata-pl-L997458-S1" partOfSpeech="x">
       <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L6039-S1" ili="wikidata-pl-L6039-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-pl-L6039-S1" ili="wikidata-pl-L6039-S1" partOfSpeech="x">
       <Definition>pierwszy posiłek dnia</Definition>
     </Synset>
     <Synset id="wikidata-pl-L7050-S1" ili="wikidata-pl-L7050-S1" partOfSpeech="i">
@@ -740,10 +740,10 @@
     <Synset id="wikidata-pl-L36645-S1" ili="wikidata-pl-L36645-S1" partOfSpeech="r">
       <Definition>codziennie, czy to dzień powszedni, czy święto; zawsze, stale</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-pl-L727681-S1" ili="wikidata-pl-L727681-S1" partOfSpeech="x">
       <Definition>ogarnięty (o osobie)</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L997459-S1" ili="wikidata-pl-L997459-S1" partOfSpeech="phraseme">
+    <Synset id="wikidata-pl-L997459-S1" ili="wikidata-pl-L997459-S1" partOfSpeech="x">
       <Definition>sytuacja, w której trzeba coś wybrać, a obie możliwości są tak samo ważne</Definition>
     </Synset>
     <Synset id="wikidata-pl-L12097-S1" ili="wikidata-pl-L12097-S1" partOfSpeech="y">
@@ -776,7 +776,7 @@
     <Synset id="wikidata-pl-L34815-S1" ili="wikidata-pl-L34815-S1" partOfSpeech="r">
       <Definition>stopniowo, przez kilka i więcej tygodni</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L449208-S1" ili="wikidata-pl-L449208-S1" partOfSpeech="gerund">
+    <Synset id="wikidata-pl-L449208-S1" ili="wikidata-pl-L449208-S1" partOfSpeech="x">
       <Definition>wulgarne określenie na oddawanie kału</Definition>
     </Synset>
     <Synset id="wikidata-pl-L739068-S1" ili="wikidata-pl-L739068-S1" partOfSpeech="m">
@@ -842,7 +842,7 @@
     <Synset id="wikidata-pl-L38147-S1" ili="wikidata-pl-L38147-S1" partOfSpeech="r">
       <Definition>do uzdrowiska, w którym znajdują się źródła wód mineralnych</Definition>
     </Synset>
-    <Synset id="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1" partOfSpeech="nominal">
+    <Synset id="wikidata-pl-L204164-S1" ili="wikidata-pl-L204164-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-pl-L740127-S1" ili="wikidata-pl-L740127-S1" partOfSpeech="c">

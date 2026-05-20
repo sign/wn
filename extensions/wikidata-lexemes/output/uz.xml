@@ -9,7 +9,7 @@
                     version="1.0">
     <Extends id="omw-uz" version="1.4"/>
     <LexicalEntry id="L1549947">
-      <Lemma writtenForm="sen" partOfSpeech="pro-form"/>
+      <Lemma writtenForm="sen" partOfSpeech="x"/>
       <Sense id="L1549947-S1" synset="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1">
         <Definition></Definition>
       </Sense>
@@ -21,27 +21,27 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1547535">
-      <Lemma writtenForm="u" partOfSpeech="pro-form"/>
+      <Lemma writtenForm="u" partOfSpeech="x"/>
       <Sense id="L1547535-S1" synset="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1549554">
-      <Lemma writtenForm="i" partOfSpeech="postposition"/>
+      <Lemma writtenForm="i" partOfSpeech="x"/>
       <Sense id="L1549554-S1" synset="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="pro-form">
+    <Synset id="wikidata-uz-L1549947-S1" ili="wikidata-uz-L1549947-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-uz-L1549960-S1" ili="l1385-s1" partOfSpeech="c">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="pro-form">
+    <Synset id="wikidata-uz-L1547535-S1" ili="wikidata-uz-L1547535-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="postposition">
+    <Synset id="wikidata-uz-L1549554-S1" ili="wikidata-uz-L1549554-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

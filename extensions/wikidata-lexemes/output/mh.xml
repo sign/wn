@@ -9,30 +9,30 @@
                     version="1.0">
     <Extends id="omw-mh" version="1.4"/>
     <LexicalEntry id="L1368090">
-      <Lemma writtenForm="mi" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="mi" partOfSpeech="x"/>
       <Sense id="L1368090-S1" synset="wikidata-mh-L1368090-S1" ili="wikidata-mh-L1368090-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1368089">
-      <Lemma writtenForm="m̧" partOfSpeech="possessive pronoun"/>
+      <Lemma writtenForm="m̧" partOfSpeech="x"/>
       <Sense id="L1368089-S1" synset="wikidata-mh-L1368089-S1" ili="wikidata-mh-L1368089-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L299261">
-      <Lemma writtenForm="an iiō" partOfSpeech="syntagma"/>
+      <Lemma writtenForm="an iiō" partOfSpeech="x"/>
       <Sense id="L299261-S1" synset="wikidata-mh-L299261-S1" ili="wikidata-mh-L299261-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
-    <Synset id="wikidata-mh-L1368090-S1" ili="wikidata-mh-L1368090-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-mh-L1368090-S1" ili="wikidata-mh-L1368090-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mh-L1368089-S1" ili="wikidata-mh-L1368089-S1" partOfSpeech="possessive pronoun">
+    <Synset id="wikidata-mh-L1368089-S1" ili="wikidata-mh-L1368089-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-mh-L299261-S1" ili="wikidata-mh-L299261-S1" partOfSpeech="syntagma">
+    <Synset id="wikidata-mh-L299261-S1" ili="wikidata-mh-L299261-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
   </LexiconExtension>

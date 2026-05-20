@@ -30,7 +30,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L48237">
-      <Lemma writtenForm="Veni, Vidi, Vici" partOfSpeech="fixed expression"/>
+      <Lemma writtenForm="Veni, Vidi, Vici" partOfSpeech="x"/>
       <Sense id="L48237-S1" synset="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1">
         <Definition></Definition>
       </Sense>
@@ -60,7 +60,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L221450">
-      <Lemma writtenForm="hic" partOfSpeech="pro-form"/>
+      <Lemma writtenForm="hic" partOfSpeech="x"/>
       <Sense id="L221450-S1" synset="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1">
         <Definition></Definition>
       </Sense>
@@ -84,13 +84,13 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40313">
-      <Lemma writtenForm="factus" partOfSpeech="participle"/>
+      <Lemma writtenForm="factus" partOfSpeech="x"/>
       <Sense id="L40313-S1" synset="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1">
         <Definition></Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L51197">
-      <Lemma writtenForm="Verba volent, scripta manent." partOfSpeech="fixed expression"/>
+      <Lemma writtenForm="Verba volent, scripta manent." partOfSpeech="x"/>
       <Sense id="L51197-S1" synset="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1">
         <Definition></Definition>
       </Sense>
@@ -249,7 +249,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L40136">
-      <Lemma writtenForm="efficiens" partOfSpeech="participle"/>
+      <Lemma writtenForm="efficiens" partOfSpeech="x"/>
       <Sense id="L40136-S1" synset="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1">
         <Definition></Definition>
       </Sense>
@@ -321,7 +321,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1654">
-      <Lemma writtenForm="-are" partOfSpeech="paradigm"/>
+      <Lemma writtenForm="-are" partOfSpeech="x"/>
       <Sense id="L1654-S1" synset="wikidata-la-L1654-S1" ili="wikidata-la-L1654-S1">
         <Definition>conjugation of Latin verbs, with a stem ending in &quot;a&quot; and an infinitive in &quot;are&quot;; e.g. amō (I love), amāre (to love), “amāvi” (I loved)</Definition>
       </Sense>
@@ -350,7 +350,7 @@
     <Synset id="wikidata-la-L5234-S2" ili="wikidata-la-L5234-S2" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1" partOfSpeech="fixed expression">
+    <Synset id="wikidata-la-L48237-S1" ili="wikidata-la-L48237-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L279136-S1" ili="wikidata-la-L279136-S1" partOfSpeech="c">
@@ -365,7 +365,7 @@
     <Synset id="wikidata-la-L1735-S1" ili="wikidata-la-L1735-S1" partOfSpeech="h">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1" partOfSpeech="pro-form">
+    <Synset id="wikidata-la-L221450-S1" ili="wikidata-la-L221450-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L1547230-S1" ili="l8885-s1" partOfSpeech="i">
@@ -377,10 +377,10 @@
     <Synset id="wikidata-la-L11734-S1" ili="wikidata-la-L11734-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1" partOfSpeech="participle">
+    <Synset id="wikidata-la-L40313-S1" ili="wikidata-la-L40313-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1" partOfSpeech="fixed expression">
+    <Synset id="wikidata-la-L51197-S1" ili="wikidata-la-L51197-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L275493-S1" ili="wikidata-la-L275493-S1" partOfSpeech="h">
@@ -473,10 +473,10 @@
     <Synset id="wikidata-la-L13362-S1" ili="wikidata-la-L13362-S1" partOfSpeech="p">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1" partOfSpeech="participle">
+    <Synset id="wikidata-la-L40136-S1" ili="wikidata-la-L40136-S1" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L40136-S2" ili="wikidata-la-L40136-S2" partOfSpeech="participle">
+    <Synset id="wikidata-la-L40136-S2" ili="wikidata-la-L40136-S2" partOfSpeech="x">
       <Definition></Definition>
     </Synset>
     <Synset id="wikidata-la-L251616-S1" ili="l8883-s1" partOfSpeech="m">
@@ -518,7 +518,7 @@
     <Synset id="wikidata-la-L284563-S1" ili="wikidata-la-L284563-S1" partOfSpeech="m">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-la-L1654-S1" ili="wikidata-la-L1654-S1" partOfSpeech="paradigm">
+    <Synset id="wikidata-la-L1654-S1" ili="wikidata-la-L1654-S1" partOfSpeech="x">
       <Definition>conjugation of Latin verbs, with a stem ending in &quot;a&quot; and an infinitive in &quot;are&quot;; e.g. amō (I love), amāre (to love), “amāvi” (I loved)</Definition>
     </Synset>
     <Synset id="wikidata-la-L11778-S1" ili="wikidata-la-L11778-S1" partOfSpeech="p">

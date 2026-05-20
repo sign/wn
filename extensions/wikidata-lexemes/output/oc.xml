@@ -21,7 +21,7 @@
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L41768">
-      <Lemma writtenForm="ostal" partOfSpeech="common noun"/>
+      <Lemma writtenForm="ostal" partOfSpeech="x"/>
       <Sense id="L41768-S2" synset="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2">
         <Definition>bastiment fach per l&apos;albèrgament</Definition>
       </Sense>
@@ -32,7 +32,7 @@
     <Synset id="wikidata-oc-L57929-S1" ili="wikidata-oc-L57929-S1" partOfSpeech="d">
       <Definition></Definition>
     </Synset>
-    <Synset id="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2" partOfSpeech="common noun">
+    <Synset id="wikidata-oc-L41768-S2" ili="wikidata-oc-L41768-S2" partOfSpeech="x">
       <Definition>bastiment fach per l&apos;albèrgament</Definition>
     </Synset>
   </LexiconExtension>
