@@ -3,6 +3,41 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.2.0]
+
+**Release date: 2026-05-20**
+
+Sign-language fork release built on top of upstream v1.1.0.
+
+### Added
+
+* Six function-word parts of speech in `wn.constants.PARTS_OF_SPEECH`:
+  `h` (pronoun), `d` (determiner), `m` (numeral), `i` (interjection),
+  `q` (interrogative), `y` (particle).
+* `extensions/wikidata-lexemes/merge_extension.py`: utility that absorbs
+  a lexicon extension into its base lexicon, leaving one lexicon per
+  language in the database (addresses goodmami/wn#304 for this fork).
+* `extensions/wikidata-lexemes/_pos_map.py`: shared Wikidata-label →
+  short-code map used by the extension generator.
+* Web server now exposes pronunciation data on word forms (from
+  upstream's lexicon-element Pronunciation/Tag model).
+
+### Changed
+
+* Docker image now merges the Wikidata extension XMLs into their
+  base lexicons during build instead of loading them as separate
+  lexicons.
+* `extensions/wikidata-lexemes/create_extensions.py` emits short
+  POS codes via `_pos_map.POS_MAP` and writes `partOfSpeech` on
+  `<Synset>` elements.
+* All 130 generated extension XMLs regenerated to use the new
+  short codes.
+
+### Fixed
+
+* Starlette lifespan handler in `wn.web`.
+
+
 ## [v1.1.0]
 
 **Release date: 2026-03-21**
