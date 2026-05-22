@@ -148,6 +148,50 @@ def _is_english_content_gap(lex: dict, pos_name: str) -> bool:
     return wn_pos not in omw_en_pos().get(raw_lemma.lower(), frozenset())
 
 
+def _skip_pos_passes(lex: dict, pos_name: str) -> bool:
+    """A lexeme in SKIP_POS is still kept when it's a modal verb rescue
+    (e.g. shall/can/will) or an English content-POS gap fill."""
+    keep_for_modal = (
+        lex.get("language") == ENGLISH_LANG_Q
+        and _has_p31(lex, MODAL_VERB_Q)
+    )
+    return keep_for_modal or _is_english_content_gap(lex, pos_name)
+
+
+def _try_keep(
+    lex: dict, pos_name: str,
+    seen_lemma_pos: set[tuple[str, str, str]],
+    kept_sense_ids: set[str],
+    kept_lang_senses: set[tuple[str, str]],
+) -> bool:
+    """Record sense IDs of `lex` under each of its (lang_iso, lemma, pos_code)
+    keys, deduping. Returns True if any (lang, lemma, pos) was new."""
+    lemmas = lex.get("lemmas", {})
+    if not lemmas:
+        return False
+    # English-only: skip lexemes Wikidata hasn't cross-referenced against any
+    # dictionary (no claims at all) — those are usually niche slang.
+    if lex.get("language") == ENGLISH_LANG_Q and not lex.get("claims"):
+        return False
+    pos_code = POS_MAP.get(pos_name, OTHER)
+    accepted = False
+    for lang_iso, lemma_obj in lemmas.items():
+        lemma = lemma_obj.get("value", "")
+        # Multi-word lemmas that start with uppercase are usually proper-noun-
+        # derived (e.g. "Jesus Christ", "God bless you").
+        if " " in lemma and lemma[:1].isupper():
+            continue
+        key = (lang_iso, lemma, pos_code)
+        if key in seen_lemma_pos:
+            continue
+        seen_lemma_pos.add(key)
+        accepted = True
+        for sense in lex.get("senses", []):
+            kept_sense_ids.add(sense["id"])
+            kept_lang_senses.add((lang_iso, sense["id"]))
+    return accepted
+
+
 def filter_lexemes() -> tuple[list[dict], set[tuple[str, str]]]:
     """Stream the dump once. Keep lexemes whose POS isn't in SKIP_POS — with
     one exception: English content-POS lemmas that omw-en doesn't already
@@ -165,32 +209,6 @@ def filter_lexemes() -> tuple[list[dict], set[tuple[str, str]]]:
     filtered: list[dict] = []
     pending_abbrev: list[dict] = []
 
-    def _try_keep(lex: dict, pos_name: str) -> bool:
-        lemmas = lex.get("lemmas", {})
-        if not lemmas:
-            return False
-        # English-only: skip lexemes Wikidata hasn't cross-referenced against
-        # any dictionary (no claims at all) — those are usually niche slang.
-        if lex.get("language") == ENGLISH_LANG_Q and not lex.get("claims"):
-            return False
-        pos_code = POS_MAP.get(pos_name, OTHER)
-        accepted_for_any_lang = False
-        for lang_iso, lemma_obj in lemmas.items():
-            lemma = lemma_obj.get("value", "")
-            # Multi-word lemmas that start with uppercase are usually
-            # proper-noun-derived (e.g. "Jesus Christ", "God bless you").
-            if " " in lemma and lemma[:1].isupper():
-                continue
-            key = (lang_iso, lemma, pos_code)
-            if key in seen_lemma_pos:
-                continue
-            seen_lemma_pos.add(key)
-            accepted_for_any_lang = True
-            for sense in lex.get("senses", []):
-                kept_sense_ids.add(sense["id"])
-                kept_lang_senses.add((lang_iso, sense["id"]))
-        return accepted_for_any_lang
-
     for lex in tqdm(_stream_lexemes(), desc="Streaming"):
         pos_q = lex.get("lexicalCategory")
         if not pos_q:
@@ -199,21 +217,17 @@ def filter_lexemes() -> tuple[list[dict], set[tuple[str, str]]]:
         if pos_name == "abbreviation":
             pending_abbrev.append(lex)
             continue
-        if pos_name in SKIP_POS:
-            keep_for_modal = (
-                lex.get("language") == ENGLISH_LANG_Q
-                and _has_p31(lex, MODAL_VERB_Q)
-            )
-            if not keep_for_modal and not _is_english_content_gap(lex, pos_name):
-                continue
-        if _try_keep(lex, pos_name):
+        if pos_name in SKIP_POS and not _skip_pos_passes(lex, pos_name):
+            continue
+        if _try_keep(lex, pos_name, seen_lemma_pos, kept_sense_ids, kept_lang_senses):
             filtered.append(lex)
 
     for lex in pending_abbrev:
-        if _has_relation_to_kept(lex, kept_sense_ids):
-            pos_name = get_label(lex["lexicalCategory"])
-            if _try_keep(lex, pos_name):
-                filtered.append(lex)
+        if not _has_relation_to_kept(lex, kept_sense_ids):
+            continue
+        pos_name = get_label(lex["lexicalCategory"])
+        if _try_keep(lex, pos_name, seen_lemma_pos, kept_sense_ids, kept_lang_senses):
+            filtered.append(lex)
 
     print(f"  Kept {len(filtered)} lexemes, {len(kept_lang_senses)} sense pairs")
     return filtered, kept_lang_senses
@@ -234,7 +248,9 @@ def _build_ili_index(lexemes: list[dict]) -> dict[str, str]:
                 if dv and dv.get("type") == "wikibase-entityid":
                     translations.setdefault(sense_id, []).append(dv["value"]["id"])
 
-    ili_index: dict[str, str] = {sense_id: sense_id.lower() for sense_id in english_senses}
+    ili_index: dict[str, str] = {
+        sense_id: sense_id.lower() for sense_id in english_senses
+    }
     for sense_id, targets in translations.items():
         if sense_id in ili_index:
             continue
@@ -280,7 +296,8 @@ def _extract_sense_examples(lexeme: dict, lang_iso: str) -> dict[str, list[str]]
         for qual in claim.get("qualifiers", {}).get("P6072", []):
             qual_dv = qual.get("datavalue")
             if qual_dv and qual_dv.get("type") == "wikibase-entityid":
-                sense_examples.setdefault(qual_dv["value"]["id"], []).append(example_text)
+                target_id = qual_dv["value"]["id"]
+                sense_examples.setdefault(target_id, []).append(example_text)
     return sense_examples
 
 
@@ -298,12 +315,16 @@ def _sense_relations_xml(
                 continue
             target_synset = f"wikidata-{lang_iso}-{target_id}"
             relations.append(
-                f'        <SenseRelation relType="{rel_type}" target="{target_synset}"/>'
+                f'        <SenseRelation relType="{rel_type}"'
+                f' target="{target_synset}"/>'
             )
     return relations
 
 
-_LEADING_APOS = "'’ʼ‘"  # ASCII, curly right, modifier-letter, curly left
+# ASCII apostrophe, right single quotation mark, modifier-letter apostrophe,
+# left single quotation mark. All four are used by Wikidata for clitic
+# contractions (e.g. 'll, U+2019 d, etc.). Intentional.
+_LEADING_APOS = "'’ʼ‘"  # noqa: RUF001
 
 
 def _extract_alt_forms(lexeme: dict, lang_iso: str, main_lemma: str) -> list[str]:
@@ -503,7 +524,7 @@ def write_all_extensions(
             result = build_xml_entry(lexeme, lang_iso, ili_index, kept_lang_senses)
             if not result:
                 continue
-            entry, synsets, lemma, pos_code = result
+            entry, synsets, _lemma, _pos_code = result
 
             handler = file_handlers.get(lang_iso)
             if handler is None:

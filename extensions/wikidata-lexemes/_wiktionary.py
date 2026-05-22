@@ -9,9 +9,8 @@ from functools import cache
 from pathlib import Path
 
 import requests
-
 from _omw_en import omw_en_pos
-from _wikidata import USER_AGENT, cached_json_fetch, safe_filename
+from _wikidata import USER_AGENT, safe_filename
 
 _EXTRAS = Path(__file__).parent / "extras"
 CACHE_DIR = _EXTRAS / "wiktionary"
@@ -139,6 +138,48 @@ def _session() -> requests.Session:
     return sess
 
 
+def _http_get_json(
+    url: str, params: dict[str, str], session: requests.Session,
+) -> dict | None:
+    """GET with up to 3 retries on transient errors. Returns parsed JSON or None."""
+    for attempt in range(3):
+        try:
+            response = session.get(url, params=params, timeout=60)
+        except requests.RequestException:
+            time.sleep(1 + attempt)
+            continue
+        if response.status_code == 429:
+            time.sleep(2 + 2 * attempt)
+            continue
+        if not response.ok:
+            return None
+        try:
+            return response.json()
+        except ValueError:
+            return None
+    return None
+
+
+def _parse_batch_response(
+    data: dict, batch: list[str],
+    per_lemma: dict[str, list[str]],
+    title_to_input: dict[str, str],
+) -> str | None:
+    """Update `per_lemma` from one Action-API response page block. Returns
+    the `clcontinue` token if more categories remain, else None."""
+    for n in data.get("query", {}).get("normalized", []):
+        title_to_input[n["to"]] = n["from"]
+    for r in data.get("query", {}).get("redirects", []):
+        title_to_input[r["to"]] = title_to_input.get(r["from"], r["from"])
+    for page in data.get("query", {}).get("pages", {}).values():
+        original = title_to_input.get(page.get("title"), page.get("title"))
+        per_lemma.setdefault(original, []).extend(
+            c["title"].replace("Category:", "")
+            for c in page.get("categories", [])
+        )
+    return data.get("continue", {}).get("clcontinue")
+
+
 def _fetch_one_batch(
     batch: list[str], lang_iso: str,
 ) -> dict[str, list[str]]:
@@ -146,59 +187,26 @@ def _fetch_one_batch(
     session = _session()
     per_lemma: dict[str, list[str]] = {lemma: [] for lemma in batch}
     title_to_input: dict[str, str] = {lemma: lemma for lemma in batch}
+    base_params = {
+        "action": "query",
+        "prop": "categories",
+        "format": "json",
+        "titles": "|".join(batch),
+        "clshow": "!hidden",
+        "cllimit": "max",
+        "redirects": "1",
+    }
     cont: dict[str, str] = {}
     succeeded = False
-
     while True:
-        params = {
-            "action": "query",
-            "prop": "categories",
-            "format": "json",
-            "titles": "|".join(batch),
-            "clshow": "!hidden",
-            "cllimit": "max",
-            "redirects": "1",
-            **cont,
-        }
-        response = None
-        for attempt in range(3):
-            try:
-                response = session.get(url, params=params, timeout=60)
-            except requests.RequestException:
-                time.sleep(1 + attempt)
-                continue
-            if response.status_code == 429:
-                time.sleep(2 + 2 * attempt)
-                continue
+        data = _http_get_json(url, {**base_params, **cont}, session)
+        if data is None:
             break
-
-        if response is None or not response.ok:
-            break
-        try:
-            data = response.json()
-        except ValueError:
-            break
-
         succeeded = True
-        for n in data.get("query", {}).get("normalized", []):
-            title_to_input[n["to"]] = n["from"]
-        for r in data.get("query", {}).get("redirects", []):
-            title_to_input[r["to"]] = title_to_input.get(r["from"], r["from"])
-
-        for page in data.get("query", {}).get("pages", {}).values():
-            title = page.get("title")
-            original = title_to_input.get(title, title)
-            cats = [
-                c["title"].replace("Category:", "")
-                for c in page.get("categories", [])
-            ]
-            per_lemma.setdefault(original, []).extend(cats)
-
-        cont_block = data.get("continue", {})
-        if "clcontinue" in cont_block:
-            cont = {"clcontinue": cont_block["clcontinue"]}
-        else:
+        next_cont = _parse_batch_response(data, batch, per_lemma, title_to_input)
+        if not next_cont:
             break
+        cont = {"clcontinue": next_cont}
 
     if not succeeded:
         return {}
@@ -299,6 +307,18 @@ def is_quality_lemma(lemma: str) -> bool:
     return not (lemma.isupper() and len(lemma) > 1)
 
 
+def _pick_definition(entry: dict) -> tuple[str, list[str]] | None:
+    for defn in entry.get("definitions", []):
+        definition = _strip(defn.get("definition", ""))
+        if (not definition
+                or _is_reference_definition(definition)
+                or _is_sound_definition(definition)):
+            continue
+        examples = [_strip(e) for e in defn.get("examples", []) if _strip(e)]
+        return definition, examples
+    return None
+
+
 def wiktionary_definition(
     lemma: str, wd_pos_label: str, lang_iso: str,
     *, bypass_archaic: bool = False,
@@ -308,28 +328,17 @@ def wiktionary_definition(
         return None
     if lang_iso == "en" and not bypass_archaic and _is_archaic_en(lemma):
         return None
-
-    data = fetch_wiktionary(lemma, lang_iso)
-    if not data:
-        return None
-
-    entries = data.get(lang_iso) or data.get("en") or []
-    if not entries:
-        entries = next(iter(data.values()), [])
-
     acceptable = WD_TO_WKT_POS.get(wd_pos_label)
     if not acceptable:
         return None
-
+    data = fetch_wiktionary(lemma, lang_iso)
+    if not data:
+        return None
+    entries = data.get(lang_iso) or data.get("en") or next(iter(data.values()), [])
     for entry in entries:
         if entry.get("partOfSpeech") not in acceptable:
             continue
-        for defn in entry.get("definitions", []):
-            definition = _strip(defn.get("definition", ""))
-            if not definition or _is_reference_definition(definition):
-                continue
-            if _is_sound_definition(definition):
-                continue
-            examples = [_strip(e) for e in defn.get("examples", []) if _strip(e)]
-            return definition, examples
+        result = _pick_definition(entry)
+        if result is not None:
+            return result
     return None
