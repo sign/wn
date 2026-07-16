@@ -157,6 +157,19 @@ def make_lexicon(lex: wn.Lexicon, request: Request) -> dict:
     }
 
 
+# The dictionary word page renders the 4 nearest ancestors as a breadcrumb;
+# truncating here keeps the taxonomy roots (entity, object, ...) out of every
+# response and bounds the per-synset lemma lookups.
+NEARBY_HYPERNYMS = 4
+
+
+def _first_lemma(ss: wn.Synset) -> str | None:
+    # ss.lemmas() resolves every member word (1 + 2n queries); the first
+    # member's lemma is enough for a link label.
+    senses = ss.senses()
+    return senses[0].word().lemma() if senses else None
+
+
 def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
     lex_spec = w.lexicon().specifier()
     d: dict = {
@@ -180,7 +193,31 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         included = []
         for ss in synsets:
             ss_data = make_synset(ss, request, basic=True)
-            ss_data['attributes']['count'] = sense_counts.get(ss.id, 0)
+            attrs = ss_data['attributes']
+            attrs['count'] = sense_counts.get(ss.id, 0)
+            attrs['members'] = ss.lemmas()
+            # One lazily-computed hypernym path (hypernym_paths() enumerates
+            # every path exhaustively), nearest ancestors only, emitted
+            # root-most first — exactly the breadcrumb the word page renders.
+            path = next(ss.relation_paths('hypernym', 'instance_hypernym'), None)
+            if path:
+                lemmas = [
+                    lemma
+                    for hss in path[:NEARBY_HYPERNYMS]
+                    if (lemma := _first_lemma(hss))
+                ]
+                if lemmas:
+                    attrs['hypernyms'] = lemmas[::-1]
+            # Inline similar/also lemmas so the word page can render "see
+            # also" links without fetching each synset's relationship graph.
+            see_also = list(dict.fromkeys(
+                lemma
+                for sslist in ss.relations('similar', 'also').values()
+                for rss in sslist
+                if (lemma := _first_lemma(rss))
+            ))
+            if see_also:
+                attrs['see_also'] = see_also
             included.append(ss_data)
 
         d.update({
