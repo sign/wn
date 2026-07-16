@@ -3,6 +3,20 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.5.0]
+
+**Release date: 2026-07-16**
+
+### Added
+
+* Word responses from the web API (`/lexicons/{lex}/words` and `/words`)
+  now enrich each included synset with flat lemma lists for internal
+  linking: `members` (all synset lemmas), `hypernyms` (the 4 nearest
+  ancestors on the first hypernym path, root-most first), and `see_also`
+  (one lemma per `similar`/`also` related synset, deduped).
+  ([sign/wn#4](https://github.com/sign/wn/pull/4))
+
+
 ## [v1.4.1]
 
 **Release date: 2026-07-09**
