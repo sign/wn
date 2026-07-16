@@ -157,15 +157,17 @@ def make_lexicon(lex: wn.Lexicon, request: Request) -> dict:
     }
 
 
-def _make_synset_link(ss: wn.Synset) -> dict:
-    lemmas = ss.lemmas()
-    return {'id': ss.id, 'lemma': lemmas[0] if lemmas else None}
+# The dictionary word page renders the 4 nearest ancestors as a breadcrumb;
+# truncating here keeps the taxonomy roots (entity, object, ...) out of every
+# response and bounds the per-synset lemma lookups.
+NEARBY_HYPERNYMS = 4
 
 
-# Synset relations inlined into the word response as `related` so the
-# dictionary word page can render "see also" links without fetching each
-# synset's relationship graph separately.
-INLINE_WORD_RELATIONS = ('similar', 'also')
+def _first_lemma(ss: wn.Synset) -> str | None:
+    # ss.lemmas() resolves every member word (1 + 2n queries); the first
+    # member's lemma is enough for a link label.
+    senses = ss.senses()
+    return senses[0].word().lemma() if senses else None
 
 
 def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
@@ -194,19 +196,28 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
             attrs = ss_data['attributes']
             attrs['count'] = sense_counts.get(ss.id, 0)
             attrs['members'] = ss.lemmas()
-            paths = ss.hypernym_paths()
-            if paths:
-                # First (usually only) path, reordered root -> immediate
-                # hypernym, ready to render as a breadcrumb.
-                attrs['hypernyms'] = [
-                    _make_synset_link(hss) for hss in reversed(paths[0])
+            # One lazily-computed hypernym path (hypernym_paths() enumerates
+            # every path exhaustively), nearest ancestors only, emitted
+            # root-most first — exactly the breadcrumb the word page renders.
+            path = next(ss.relation_paths('hypernym', 'instance_hypernym'), None)
+            if path:
+                lemmas = [
+                    lemma
+                    for hss in path[:NEARBY_HYPERNYMS]
+                    if (lemma := _first_lemma(hss))
                 ]
-            related = {
-                relname: [_make_synset_link(rss) for rss in sslist]
-                for relname, sslist in ss.relations(*INLINE_WORD_RELATIONS).items()
-            }
-            if related:
-                attrs['related'] = related
+                if lemmas:
+                    attrs['hypernyms'] = lemmas[::-1]
+            # Inline similar/also lemmas so the word page can render "see
+            # also" links without fetching each synset's relationship graph.
+            see_also = list(dict.fromkeys(
+                lemma
+                for sslist in ss.relations('similar', 'also').values()
+                for rss in sslist
+                if (lemma := _first_lemma(rss))
+            ))
+            if see_also:
+                attrs['see_also'] = see_also
             included.append(ss_data)
 
         d.update({

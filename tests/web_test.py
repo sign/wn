@@ -101,12 +101,10 @@ def test_words_included_synset_enrichment():
         ss["attributes"] for ss in included if ss["id"] == "test-en-0005-n"
     )
     assert attrs["members"] == ["random sample"]
-    # breadcrumb is ordered root -> immediate hypernym
-    hypernyms = attrs["hypernyms"]
-    assert [h["id"] for h in hypernyms] == [
-        "test-en-0001-n", "test-en-0002-n", "test-en-0004-n",
-    ]
-    assert hypernyms[0]["lemma"] == "information"
+    # breadcrumb lemmas are ordered root -> immediate hypernym
+    assert attrs["hypernyms"] == ["information", "example", "sample"]
+    # the mini fixture has no similar/also relations
+    assert "see_also" not in attrs
 
     # synset with multiple members exposes them all
     response = client.get(
