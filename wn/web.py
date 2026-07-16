@@ -382,11 +382,57 @@ def _get_forms(lexicon: str, with_entities: bool = True):
     return [row[0] for row in rows]
 
 
+def _get_forms_with_synsets(
+    lexicon: str, with_entities: bool = True
+) -> dict[str, list[str]]:
+    from wn._db import connect
+
+    conn = connect()
+
+    # Parse lexicon specifier (format: "id:version")
+    parts = lexicon.split(':', 1)
+    if len(parts) != 2:
+        return {}
+    lex_id, lex_version = parts
+
+    # Same base query as _get_forms, joined through senses to synsets so each
+    # form carries the synset ids it can express. Consumers (the dictionary
+    # sitemap / browse surfaces) intersect these with the set of synsets that
+    # have sign videos [SIGN-690].
+    query = '''
+        SELECT DISTINCT f.form, ss.id
+          FROM forms AS f
+          JOIN lexicons AS lex ON lex.rowid = f.lexicon_rowid
+          JOIN senses AS s ON s.entry_rowid = f.entry_rowid
+          JOIN synsets AS ss ON ss.rowid = s.synset_rowid
+         WHERE lex.id = ? AND lex.version = ?
+    '''
+    if not with_entities:
+        query += ' AND f.form = LOWER(f.form)'
+
+    mapping: dict[str, list[str]] = {}
+    for form, synset_id in conn.execute(query, (lex_id, lex_version)):
+        mapping.setdefault(form, []).append(synset_id)
+    return mapping
+
+
 @cached_response(months=1)
 async def forms(request):
     lexicon = request.path_params['lexicon']
     with_entities = request.query_params.get('with_entities', 'true').lower() != 'false'
-    print(f"forms: got request lexicon={lexicon} with_entities={with_entities}")
+    with_synsets = request.query_params.get('synsets', 'false').lower() == 'true'
+    print(
+        f"forms: got request lexicon={lexicon}"
+        f" with_entities={with_entities} synsets={with_synsets}"
+    )
+
+    if with_synsets:
+        mapping = _get_forms_with_synsets(lexicon, with_entities=with_entities)
+        print(f"forms: got {len(mapping)} forms with synsets")
+        return JSONResponse(content={
+            "data": mapping,
+            "meta": {"total": len(mapping)}
+        })
 
     print("forms: getting forms")
     forms = _get_forms(lexicon, with_entities=with_entities)

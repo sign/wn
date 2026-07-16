@@ -145,3 +145,38 @@ def test_lexicon_synsets():
     data1 = response1.json()["data"]
     data2 = response2.json()["data"]
     assert {synset["id"] for synset in data1} == {synset["id"] for synset in data2}
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms():
+    response = client.get("/lexicons/test-en:1/forms")
+    assert response.status_code == 200
+    body = response.json()
+    assert "information" in body["data"]
+    assert "data" in body["data"]  # secondary written form of "datum"
+    assert body["meta"]["total"] == len(body["data"])
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_with_synsets():
+    response = client.get("/lexicons/test-en:1/forms", params={"synsets": "true"})
+    assert response.status_code == 200
+    body = response.json()
+    mapping = body["data"]
+    assert mapping["information"] == ["test-en-0001-n"]
+    # A secondary written form carries its entry's synsets too.
+    assert mapping["datum"] == ["test-en-0006-n"]
+    assert mapping["data"] == ["test-en-0006-n"]
+    assert body["meta"]["total"] == len(mapping)
+    # Same form universe as the plain response.
+    plain = client.get("/lexicons/test-en:1/forms").json()["data"]
+    assert set(mapping) == set(plain)
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_with_synsets_bad_lexicon_specifier():
+    response = client.get("/lexicons/test-en/forms", params={"synsets": "true"})
+    assert response.status_code == 200
+    body = response.json()
+    assert body["data"] == {}
+    assert body["meta"]["total"] == 0
