@@ -382,6 +382,44 @@ def _get_forms(lexicon: str, with_entities: bool = True):
     return [row[0] for row in rows]
 
 
+def _get_forms_for_synsets(
+    lexicon: str, synset_ids: list[str], with_entities: bool = True
+) -> list[str]:
+    import json
+
+    from wn._db import connect
+
+    conn = connect()
+
+    # Parse lexicon specifier (format: "id:version")
+    parts = lexicon.split(':', 1)
+    if len(parts) != 2:
+        return []
+    lex_id, lex_version = parts
+
+    # Same base query as _get_forms, joined through senses to synsets and
+    # restricted to the requested synset ids. Consumers (the dictionary
+    # sitemap / browse surfaces) pass the synsets that have sign videos and
+    # get back exactly the forms that express them [SIGN-690]. json_each
+    # keeps the id list a single bound parameter, clear of SQLite's
+    # variable-count limit.
+    query = '''
+        SELECT DISTINCT f.form
+          FROM forms AS f
+          JOIN lexicons AS lex ON lex.rowid = f.lexicon_rowid
+          JOIN senses AS s ON s.entry_rowid = f.entry_rowid
+          JOIN synsets AS ss ON ss.rowid = s.synset_rowid
+         WHERE lex.id = ? AND lex.version = ?
+           AND ss.id IN (SELECT value FROM json_each(?))
+    '''
+    if not with_entities:
+        query += ' AND f.form = LOWER(f.form)'
+
+    rows = conn.execute(query, (lex_id, lex_version, json.dumps(synset_ids))).fetchall()
+
+    return [row[0] for row in rows]
+
+
 @cached_response(months=1)
 async def forms(request):
     lexicon = request.path_params['lexicon']
@@ -399,6 +437,35 @@ async def forms(request):
     })
     print("forms: finished")
     return response
+
+
+async def forms_for_synsets(request):
+    """Batch endpoint: the unique forms expressing any of the given synsets.
+
+    POST body: {"synsets": ["omw-en-02084071-n", ...]}
+    Response: {"data": ["dog", ...], "meta": {"total": N}}
+    """
+    lexicon = request.path_params['lexicon']
+    try:
+        body = await request.json()
+    except ValueError:
+        return JSONResponse({'error': 'invalid JSON body'}, status_code=400)
+    if not isinstance(body, dict):
+        return JSONResponse({'error': 'body must be a JSON object'}, status_code=400)
+    synset_ids = body.get('synsets', [])
+    if not isinstance(synset_ids, list) or any(
+        not isinstance(s, str) for s in synset_ids
+    ):
+        return JSONResponse(
+            {'error': 'synsets must be a list of strings'}, status_code=400
+        )
+    with_entities = body.get('with_entities', True) is not False
+
+    forms = _get_forms_for_synsets(lexicon, synset_ids, with_entities=with_entities)
+    return JSONResponse(content={
+        "data": forms,
+        "meta": {"total": len(forms)}
+    })
 
 
 @cached_response(months=1)
@@ -538,6 +605,7 @@ routes = [
     Route('/lexicons', endpoint=lexicons),
     Route('/lexicons/{lexicon}', endpoint=lexicon),
     Route('/lexicons/{lexicon}/forms', endpoint=forms),
+    Route('/lexicons/{lexicon}/forms', endpoint=forms_for_synsets, methods=['POST']),
     Route('/lexicons/{lexicon}/words', endpoint=words),
     Route('/lexicons/{lexicon}/words/{word}', endpoint=word),
     Route('/lexicons/{lexicon}/words/{word}/senses', endpoint=senses),

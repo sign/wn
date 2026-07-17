@@ -145,3 +145,70 @@ def test_lexicon_synsets():
     data1 = response1.json()["data"]
     data2 = response2.json()["data"]
     assert {synset["id"] for synset in data1} == {synset["id"] for synset in data2}
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms():
+    response = client.get("/lexicons/test-en:1/forms")
+    assert response.status_code == 200
+    body = response.json()
+    assert "information" in body["data"]
+    assert "data" in body["data"]  # secondary written form of "datum"
+    assert body["meta"]["total"] == len(body["data"])
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets():
+    response = client.post(
+        "/lexicons/test-en:1/forms",
+        json={"synsets": ["test-en-0001-n", "test-en-0006-n"]},
+    )
+    assert response.status_code == 200
+    body = response.json()
+    # "information" expresses 0001; "datum" and its secondary written form
+    # "data" both express 0006.
+    assert sorted(body["data"]) == ["data", "datum", "information"]
+    assert body["meta"]["total"] == 3
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_empty_and_unknown_ids():
+    response = client.post("/lexicons/test-en:1/forms", json={"synsets": []})
+    assert response.status_code == 200
+    assert response.json()["data"] == []
+
+    response = client.post(
+        "/lexicons/test-en:1/forms", json={"synsets": ["no-such-synset-n"]}
+    )
+    assert response.status_code == 200
+    assert response.json()["data"] == []
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_rejects_non_string_ids():
+    response = client.post("/lexicons/test-en:1/forms", json={"synsets": [1]})
+    assert response.status_code == 400
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_rejects_malformed_bodies():
+    response = client.post(
+        "/lexicons/test-en:1/forms",
+        content=b"not json",
+        headers={"content-type": "application/json"},
+    )
+    assert response.status_code == 400
+
+    response = client.post("/lexicons/test-en:1/forms", json=["test-en-0001-n"])
+    assert response.status_code == 400
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_bad_lexicon_specifier():
+    response = client.post(
+        "/lexicons/test-en/forms", json={"synsets": ["test-en-0001-n"]}
+    )
+    assert response.status_code == 200
+    body = response.json()
+    assert body["data"] == []
+    assert body["meta"]["total"] == 0
