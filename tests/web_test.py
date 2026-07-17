@@ -191,6 +191,19 @@ def test_forms_for_synsets_rejects_non_string_ids():
 
 
 @pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_rejects_malformed_bodies():
+    response = client.post(
+        "/lexicons/test-en:1/forms",
+        content=b"not json",
+        headers={"content-type": "application/json"},
+    )
+    assert response.status_code == 400
+
+    response = client.post("/lexicons/test-en:1/forms", json=["test-en-0001-n"])
+    assert response.status_code == 400
+
+
+@pytest.mark.usefixtures('mini_db_web')
 def test_forms_for_synsets_bad_lexicon_specifier():
     response = client.post(
         "/lexicons/test-en/forms", json={"synsets": ["test-en-0001-n"]}

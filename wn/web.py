@@ -446,7 +446,12 @@ async def forms_for_synsets(request):
     Response: {"data": ["dog", ...], "meta": {"total": N}}
     """
     lexicon = request.path_params['lexicon']
-    body = await request.json()
+    try:
+        body = await request.json()
+    except ValueError:
+        return JSONResponse({'error': 'invalid JSON body'}, status_code=400)
+    if not isinstance(body, dict):
+        return JSONResponse({'error': 'body must be a JSON object'}, status_code=400)
     synset_ids = body.get('synsets', [])
     if not isinstance(synset_ids, list) or any(
         not isinstance(s, str) for s in synset_ids
