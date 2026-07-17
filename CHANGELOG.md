@@ -3,6 +3,22 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.6.0]
+
+**Release date: 2026-07-17**
+
+### Added
+
+* `POST /lexicons/{lexicon}/forms` batch endpoint: given
+  `{"synsets": [...]}`, returns the unique forms having at least one
+  sense in those synsets. Feeds the dictionary website's signed-concepts
+  coverage (sitemap + A-Z browse surface only concepts with sign
+  videos). The id list binds as a single `json_each` parameter, so
+  batches clear SQLite's variable-count limit at any size; malformed
+  bodies return 400.
+  ([sign/wn#5](https://github.com/sign/wn/pull/5))
+
+
 ## [v1.5.0]
 
 **Release date: 2026-07-16**
