@@ -158,25 +158,44 @@ def test_forms():
 
 
 @pytest.mark.usefixtures('mini_db_web')
-def test_forms_with_synsets():
-    response = client.get("/lexicons/test-en:1/forms", params={"synsets": "true"})
+def test_forms_for_synsets():
+    response = client.post(
+        "/lexicons/test-en:1/forms",
+        json={"synsets": ["test-en-0001-n", "test-en-0006-n"]},
+    )
     assert response.status_code == 200
     body = response.json()
-    mapping = body["data"]
-    assert mapping["information"] == ["test-en-0001-n"]
-    # A secondary written form carries its entry's synsets too.
-    assert mapping["datum"] == ["test-en-0006-n"]
-    assert mapping["data"] == ["test-en-0006-n"]
-    assert body["meta"]["total"] == len(mapping)
-    # Same form universe as the plain response.
-    plain = client.get("/lexicons/test-en:1/forms").json()["data"]
-    assert set(mapping) == set(plain)
+    # "information" expresses 0001; "datum" and its secondary written form
+    # "data" both express 0006.
+    assert sorted(body["data"]) == ["data", "datum", "information"]
+    assert body["meta"]["total"] == 3
 
 
 @pytest.mark.usefixtures('mini_db_web')
-def test_forms_with_synsets_bad_lexicon_specifier():
-    response = client.get("/lexicons/test-en/forms", params={"synsets": "true"})
+def test_forms_for_synsets_empty_and_unknown_ids():
+    response = client.post("/lexicons/test-en:1/forms", json={"synsets": []})
+    assert response.status_code == 200
+    assert response.json()["data"] == []
+
+    response = client.post(
+        "/lexicons/test-en:1/forms", json={"synsets": ["no-such-synset-n"]}
+    )
+    assert response.status_code == 200
+    assert response.json()["data"] == []
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_rejects_non_string_ids():
+    response = client.post("/lexicons/test-en:1/forms", json={"synsets": [1]})
+    assert response.status_code == 400
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_bad_lexicon_specifier():
+    response = client.post(
+        "/lexicons/test-en/forms", json={"synsets": ["test-en-0001-n"]}
+    )
     assert response.status_code == 200
     body = response.json()
-    assert body["data"] == {}
+    assert body["data"] == []
     assert body["meta"]["total"] == 0
