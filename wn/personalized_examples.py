@@ -36,6 +36,12 @@ def _article_for(word: str) -> str | None:
         return 'an'
     if word.startswith(_GLIDE_ONSET_PREFIXES) or word in _GLIDE_ONSET_WORDS:
         return 'a'
+    if word.startswith(('one-', 'once-')):
+        return 'a'
+    if word.startswith('one'):
+        # Underived "one..." words split: "oneness" is a "w" onset ("a"),
+        # "onerous" is a vowel onset ("an") — ambiguous, so no article.
+        return None
     if word.startswith('u'):
         return None
     return 'an' if word[0] in 'aeio' else 'a'

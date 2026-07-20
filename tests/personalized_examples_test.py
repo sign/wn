@@ -112,3 +112,15 @@ def test_personalize_example_guards():
     # oddly-cased token (not lowercase or sentence case)
     shouting = 'GOOFY behavior'
     assert sub(shouting, 'zany', ['zany'], ['goofy', 'zany']) == shouting
+
+
+def test_personalize_example_articles_for_one_compounds():
+    sub = personalize_example
+    # "one-..." compounds are "w" onsets: "a one-sided account"
+    assert (
+        sub('a biased account', 'one-sided', ['one-sided'], ['biased', 'one-sided'])
+        == 'a one-sided account'
+    )
+    # underived "one..." words are ambiguous (oneness vs onerous) — skipped
+    heavy = 'a heavy task'
+    assert sub(heavy, 'onerous', ['onerous'], ['heavy', 'onerous']) == heavy
