@@ -10,18 +10,16 @@ guard in :func:`personalize_example` passes.
 import re
 from collections.abc import Collection
 
+import inflect  # type: ignore
+
 # A substitutable word is a single lowercase alphabetic word (hyphens ok).
 # This excludes multi-word lemmas ("physical process"), proper nouns
 # ("Attorney General"), and anything with digits or apostrophes.
 _SIMPLE_WORD = re.compile(r'[a-z]+(?:-[a-z]+)*')
 # "a"/"an" immediately before the matched synonym.
 _PRECEDING_ARTICLE = re.compile(r'\b([Aa]n?) $')
-# The vowel-letter article rule is wrong for "you"-, "w"-, and silent-h
-# onsets; these closed lists cover the common cases. 'u'-initial words stay
-# ambiguous ("an unusual" vs "a university") and get no article at all.
-_SILENT_H = ('hour', 'honest', 'honor', 'honour', 'heir')
-_GLIDE_ONSET_PREFIXES = ('eu', 'ew')
-_GLIDE_ONSET_WORDS = ('one', 'once')
+
+_inflect = inflect.engine()
 
 
 def _word_pattern(word: str) -> re.Pattern:
@@ -30,21 +28,9 @@ def _word_pattern(word: str) -> re.Pattern:
     return re.compile(rf'(?<![\w-]){re.escape(word)}(?![\w-])', re.IGNORECASE)
 
 
-def _article_for(word: str) -> str | None:
-    """Return 'a' or 'an' for *word*, or None when the onset is ambiguous."""
-    if word.startswith(_SILENT_H):
-        return 'an'
-    if word.startswith(_GLIDE_ONSET_PREFIXES) or word in _GLIDE_ONSET_WORDS:
-        return 'a'
-    if word.startswith(('one-', 'once-')):
-        return 'a'
-    if word.startswith('one'):
-        # Underived "one..." words split: "oneness" is a "w" onset ("a"),
-        # "onerous" is a vowel onset ("an") — ambiguous, so no article.
-        return None
-    if word.startswith('u'):
-        return None
-    return 'an' if word[0] in 'aeio' else 'a'
+def _article_for(word: str) -> str:
+    """Return 'a' or 'an' for *word* (sound-aware: an hour, a university)."""
+    return _inflect.a(word).split(' ', 1)[0]
 
 
 def personalize_example(
@@ -70,28 +56,25 @@ def personalize_example(
     # "course of action"), make substitution ambiguous.
     matches = [
         (member, found)
-        for member in dict.fromkeys(members)
-        if member != lemma and (found := _word_pattern(member).findall(example))
+        for member in members
+        if member != lemma and (found := list(_word_pattern(member).finditer(example)))
     ]
     if len(matches) != 1 or len(matches[0][1]) != 1:
         return example
-    synonym, (token,) = matches[0]
+    synonym, (match,) = matches[0]
+    token = match.group(0)
     # The synonym must be a simple word, appearing as-is or sentence-cased.
     if not _SIMPLE_WORD.fullmatch(synonym):
         return example
     if token not in (synonym, synonym.capitalize()):
         return example
 
-    match = _word_pattern(synonym).search(example)
-    assert match is not None
     before = example[: match.start()]
     replacement = lemma.capitalize() if token[0].isupper() else lemma
 
     article = _PRECEDING_ARTICLE.search(before)
     if article:
         correct = _article_for(lemma)
-        if correct is None:
-            return example
         if article.group(1)[0].isupper():
             correct = correct.capitalize()
         before = before[: article.start(1)] + correct + before[article.end(1) :]

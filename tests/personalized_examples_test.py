@@ -59,19 +59,16 @@ def test_personalize_example_fixes_articles():
     )
 
 
-def test_personalize_example_skips_ambiguous_article():
-    # 'u...' onset is ambiguous ("a university" vs "an umbrella") — untouched
-    example = 'it was a strange sight'
+def test_personalize_example_sound_aware_articles():
+    # inflect resolves onsets the vowel-letter rule gets wrong
+    sub = personalize_example
     assert (
-        personalize_example(example, 'unusual', ['unusual'], ['strange', 'unusual'])
-        == example
+        sub('it was a strange sight', 'unusual', ['unusual'], ['strange', 'unusual'])
+        == 'it was an unusual sight'
     )
-    # ...but a 'u' lemma with no preceding article substitutes fine
     assert (
-        personalize_example(
-            'the sight was strange', 'unusual', ['unusual'], ['strange', 'unusual']
-        )
-        == 'the sight was unusual'
+        sub('an odd word', 'university-level', [], ['odd', 'university-level'])
+        == 'a university-level word'
     )
 
 
@@ -121,6 +118,7 @@ def test_personalize_example_articles_for_one_compounds():
         sub('a biased account', 'one-sided', ['one-sided'], ['biased', 'one-sided'])
         == 'a one-sided account'
     )
-    # underived "one..." words are ambiguous (oneness vs onerous) — skipped
-    heavy = 'a heavy task'
-    assert sub(heavy, 'onerous', ['onerous'], ['heavy', 'onerous']) == heavy
+    assert (
+        sub('a heavy task', 'onerous', ['onerous'], ['heavy', 'onerous'])
+        == 'an onerous task'
+    )
