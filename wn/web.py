@@ -200,7 +200,9 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
             attrs['members'] = ss.lemmas()
             if is_english:
                 attrs['examples'] = [
-                    personalize_example(ex, w.lemma(), w.forms(), attrs['members'])
+                    personalize_example(
+                        ex, w.lemma(), w.forms(), attrs['members'], ss.pos or ''
+                    )
                     for ex in attrs['examples']
                 ]
             # One lazily-computed hypernym path (hypernym_paths() enumerates
