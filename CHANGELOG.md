@@ -3,6 +3,19 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.7.0]
+
+**Release date: 2026-07-20**
+
+### Added
+
+* `POST /lexicons/{lexicon}/forms` accepts `include_synsets: true`,
+  returning a form → matched-synset-ids map instead of the flat form
+  list, so consumers can derive per-form freshness from per-synset
+  timestamps (feeds the dictionary sitemap's `lastmod`).
+  ([sign/wn#6](https://github.com/sign/wn/pull/6))
+
+
 ## [v1.6.0]
 
 **Release date: 2026-07-17**
