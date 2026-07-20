@@ -110,6 +110,7 @@ Spanish:
       <SynsetRelation relType="hypernym" target="test-en-0001-n" />
       <SynsetRelation relType="hyponym" target="test-en-0004-n" />
       <Example>"this is an example"</Example>
+      <Example>we need an example here</Example>
     </Synset>
 
     <Synset id="test-en-0003-v" ili="i26682" partOfSpeech="v" dc:subject="verb.communication">

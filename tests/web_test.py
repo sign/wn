@@ -230,3 +230,36 @@ def test_forms_for_synsets_bad_lexicon_specifier():
     body = response.json()
     assert body["data"] == []
     assert body["meta"]["total"] == 0
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_word_examples_personalized():
+    # test-en-0002-n has members [example, illustration] and two examples:
+    # a quoted one (guarded) and an unquoted one (substitutable).
+    response = client.get('/lexicons/test-en:1/words', params={'form': 'illustration'})
+    assert response.status_code == 200
+    words = response.json()['data']
+    synsets = {ss['id']: ss for word in words for ss in word['included']}
+    assert synsets['test-en-0002-n']['attributes']['examples'] == [
+        '"this is an example"',
+        'we need an illustration here',
+    ]
+
+    # viewing "example" itself: the word is already present, nothing changes
+    response = client.get('/lexicons/test-en:1/words', params={'form': 'example'})
+    words = response.json()['data']
+    synsets = {ss['id']: ss for word in words for ss in word['included']}
+    assert synsets['test-en-0002-n']['attributes']['examples'] == [
+        '"this is an example"',
+        'we need an example here',
+    ]
+
+
+@pytest.mark.usefixtures('mini_db_web')
+def test_word_examples_not_personalized_outside_english():
+    response = client.get('/lexicons/test-es:1/words', params={'form': 'ejemplo'})
+    assert response.status_code == 200
+    words = response.json()['data']
+    synsets = {ss['id']: ss for word in words for ss in word['included']}
+    examples = synsets['test-es-0002-n']['attributes']['examples']
+    assert examples == ['"este es el ejemplo"']

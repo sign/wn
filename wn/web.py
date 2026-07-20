@@ -14,6 +14,7 @@ from starlette.responses import JSONResponse  # type: ignore
 from starlette.routing import Route  # type: ignore
 
 import wn
+from wn.personalized_examples import personalize_example
 
 DEFAULT_PAGINATION_LIMIT = 50
 
@@ -190,12 +191,20 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         senses_link = str(request.url_for('senses', word=w.id, lexicon=lex_spec))
 
         sense_counts = {s.synset().id: sum(s.counts()) for s in w.senses()}
+        is_english = w.lexicon().language == 'en'
         included = []
         for ss in synsets:
             ss_data = make_synset(ss, request, basic=True)
             attrs = ss_data['attributes']
             attrs['count'] = sense_counts.get(ss.id, 0)
             attrs['members'] = ss.lemmas()
+            if is_english:
+                attrs['examples'] = [
+                    personalize_example(
+                        ex, w.lemma(), w.forms(), attrs['members'], ss.pos or ''
+                    )
+                    for ex in attrs['examples']
+                ]
             # One lazily-computed hypernym path (hypernym_paths() enumerates
             # every path exhaustively), nearest ancestors only, emitted
             # root-most first — exactly the breadcrumb the word page renders.
