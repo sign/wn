@@ -23,9 +23,9 @@ _inflect = inflect.engine()
 
 
 def _word_pattern(word: str) -> re.Pattern:
-    # Hyphen counts as a word character so "face" never matches inside
-    # "about-face".
-    return re.compile(rf'(?<![\w-]){re.escape(word)}(?![\w-])', re.IGNORECASE)
+    # Hyphen and apostrophe count as word characters so "face" never matches
+    # inside "about-face" and "can" never matches inside "can't".
+    return re.compile(rf"(?<![\w'’-]){re.escape(word)}(?![\w'’-])", re.IGNORECASE)
 
 
 def _article_for(word: str) -> str:

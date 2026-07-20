@@ -106,6 +106,9 @@ def test_personalize_example_guards():
     compound = 'an about-face on policy'
     members = ['face', 'countenance']
     assert sub(compound, 'countenance', ['countenance'], members) == compound
+    # member appearing only inside a contraction is not a match
+    contraction = "he can't swim"
+    assert sub(contraction, 'commode', ['commode'], ['can', 'commode']) == contraction
     # oddly-cased token (not lowercase or sentence case)
     shouting = 'GOOFY behavior'
     assert sub(shouting, 'zany', ['zany'], ['goofy', 'zany']) == shouting
