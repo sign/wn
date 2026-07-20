@@ -3,6 +3,22 @@
 ## [Unreleased][unreleased]
 
 
+## [v1.8.0]
+
+**Release date: 2026-07-20**
+
+### Added
+
+* Word responses personalize example sentences: when a synset example
+  uses a synonym of the viewed word, the API substitutes the viewed
+  word ("wore a goofy hat" → "wore a zany hat" when viewing "zany").
+  English only, guarded conservatively (no quotations, single simple
+  words, exactly one match); `a`/`an` is corrected via `inflect`, and
+  noun-plural / 3rd-person-singular matches are mirrored onto the
+  viewed word ("the best of motives" → "the best of motivations").
+  ([sign/wn#7](https://github.com/sign/wn/pull/7))
+
+
 ## [v1.7.0]
 
 **Release date: 2026-07-20**
