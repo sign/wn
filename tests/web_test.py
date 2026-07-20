@@ -172,6 +172,24 @@ def test_forms_for_synsets():
 
 
 @pytest.mark.usefixtures('mini_db_web')
+def test_forms_for_synsets_include_synsets():
+    response = client.post(
+        "/lexicons/test-en:1/forms",
+        json={"synsets": ["test-en-0001-n", "test-en-0006-n"], "include_synsets": True},
+    )
+    assert response.status_code == 200
+    body = response.json()
+    # Each matched form carries the synset ids it expresses, so consumers can
+    # derive per-form freshness from per-synset timestamps (SIGN-640).
+    assert body["data"] == {
+        "information": ["test-en-0001-n"],
+        "datum": ["test-en-0006-n"],
+        "data": ["test-en-0006-n"],
+    }
+    assert body["meta"]["total"] == 3
+
+
+@pytest.mark.usefixtures('mini_db_web')
 def test_forms_for_synsets_empty_and_unknown_ids():
     response = client.post("/lexicons/test-en:1/forms", json={"synsets": []})
     assert response.status_code == 200
