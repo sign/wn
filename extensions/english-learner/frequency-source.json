@@ -1,0 +1,10 @@
+{
+  "upstream": "https://github.com/first20hours/google-10000-english",
+  "snapshot_repository": "https://github.com/talknagish/rylo-apps",
+  "snapshot_path": "apps/dictionary-web/src/data/frequency/en.json",
+  "snapshot_git_revision": "30e71817859c20740c7ceb84496b665aedee10ec",
+  "source_sha256": "70d214db48f254b4016a8182a9b8b740cbb0a426d2d3d2a3088a3554a741d611",
+  "cutoff": 5000,
+  "matching": "NFD, remove U+0300–U+036F and U+0591–U+05C7, lowercase; stored forms only; no inferred morphology",
+  "license": "See upstream repository for frequency-list provenance and licensing."
+}

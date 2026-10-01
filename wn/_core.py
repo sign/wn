@@ -33,9 +33,11 @@ from wn._queries import (
     get_synset_relations,
     get_synsets_for_ilis,
     get_syntactic_behaviours,
+    get_word_definitions,
     resolve_lexicon_specifiers,
 )
 from wn._util import unique_list
+from wn.learner import ANNOTATION_TYPE, LearnerData, decode_learner_data
 
 if TYPE_CHECKING:
     from collections.abc import Iterator, Sequence
@@ -106,6 +108,13 @@ class _LexiconDataElement(LexiconElementWithMetadata):
             )
         else:
             return self._lexconf.lexicons
+
+    def _get_content_lexicons(self) -> tuple[str, ...]:
+        """Include installed annotations even when the base is selected explicitly."""
+        lexicons = self._get_lexicons()
+        if self._lexconf.default_mode:
+            return lexicons
+        return tuple(dict.fromkeys((*lexicons, *get_lexicon_extensions(lexicons))))
 
 
 @dataclass(frozen=True, slots=True)
@@ -274,6 +283,20 @@ class Word(_LexiconDataElement):
     def metadata(self) -> Metadata:
         """Return the word's metadata."""
         return get_metadata(self.id, self._lexicon, "entries")
+
+    def learner_data(self) -> list[LearnerData]:
+        """Return word-scoped learner notes, including installed extensions."""
+        definitions = get_word_definitions(self.id, self._get_content_lexicons())
+        records = (
+            decode_learner_data(text, sense, lex, meta, set())
+            for text, _, sense, lex, meta in definitions
+            if meta is not None and meta.get("type") == ANNOTATION_TYPE
+        )
+        return [
+            record
+            for record in records
+            if record["scope"] == "word" and record["word_id"] == self.id
+        ]
 
     def synsets(self) -> list[Synset]:
         """Return the list of synsets of the word.
@@ -563,6 +586,9 @@ class Synset(_Relatable):
         """
         lexicons = self._get_lexicons()
         if defns := get_definitions(self.id, lexicons):
+            # Learner notes are additive; never replace the reference definition.
+            defns = [d for d in defns if (d[4] or {}).get("type") != ANNOTATION_TYPE]
+        if defns:
             text, lang, sense_id, lex, meta = defns[0]
             if data:
                 return Definition(
@@ -603,6 +629,9 @@ class Synset(_Relatable):
         """
         lexicons = self._get_lexicons()
         defns = get_definitions(self.id, lexicons)
+        # Learner annotations are exposed separately and must not appear as
+        # reference definitions in either the singular or plural API.
+        defns = [d for d in defns if (d[4] or {}).get("type") != ANNOTATION_TYPE]
         if data:
             return [
                 Definition(
@@ -639,7 +668,7 @@ class Synset(_Relatable):
             ['"orbital revolution"', '"orbital velocity"']
 
         """
-        lexicons = self._get_lexicons()
+        lexicons = self._get_content_lexicons()
         exs = get_examples(self.id, "synsets", lexicons)
         if data:
             return [
@@ -647,7 +676,26 @@ class Synset(_Relatable):
                 for text, lang, lex, meta in exs
             ]
         else:
-            return [text for text, *_ in exs]
+            return unique_list(text for text, *_ in exs)
+
+    def learner_data(self) -> list[LearnerData]:
+        """Return scoped learner annotations attached to this existing concept.
+
+        Records retain their source sense/word, extension lexicon, and native
+        provenance metadata. A repeated reference definition is omitted from
+        ``plain_language``. Word-specific records must not be applied to synonyms.
+        """
+        definitions = get_definitions(self.id, self._get_content_lexicons())
+        originals = {
+            text
+            for text, _, _, _, meta in definitions
+            if (meta or {}).get("type") != ANNOTATION_TYPE
+        }
+        return [
+            decode_learner_data(text, sense, lex, meta, originals)
+            for text, _, sense, lex, meta in definitions
+            if meta is not None and meta.get("type") == ANNOTATION_TYPE
+        ]
 
     def senses(self) -> list[Sense]:
         """Return the list of sense members of the synset.
@@ -1015,6 +1063,15 @@ class Sense(_Relatable):
         id, pos, ili, lex = next(find_synsets(id=self._synset_id, lexicons=lexicons))
         return Synset(id, pos, ili=ili, _lexicon=lex, _lexconf=self._lexconf)
 
+    def learner_data(self) -> list[LearnerData]:
+        """Return concept-wide and this sense's learner notes, not its synonyms'."""
+        return [
+            record
+            for record in self.synset().learner_data()
+            if record["scope"] == "synset"
+            or (record["scope"] == "sense" and record["source_sense_id"] == self.id)
+        ]
+
     @overload
     def examples(self, *, data: Literal[False] = False) -> list[str]: ...
     @overload
@@ -1031,7 +1088,7 @@ class Sense(_Relatable):
         examples are returned as :class:`str` types. If it is
         :python:`True`, :class:`wn.Example` objects are used instead.
         """
-        lexicons = self._get_lexicons()
+        lexicons = self._get_content_lexicons()
         exs = get_examples(self.id, "senses", lexicons)
         if data:
             return [
@@ -1039,7 +1096,7 @@ class Sense(_Relatable):
                 for text, lang, lex, meta in exs
             ]
         else:
-            return [text for text, *_ in exs]
+            return unique_list(text for text, *_ in exs)
 
     def lexicalized(self) -> bool:
         """Return True if the sense is lexicalized."""

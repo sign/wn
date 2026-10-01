@@ -1,0 +1,473 @@
+{
+  "base_lexicon": "omw-en:1.4",
+  "extension": "rylo-en-learner:1.0",
+  "frequency_cutoff": 5000,
+  "matched_frequency_words": 3887,
+  "word_meaning_pairs": 22700,
+  "unique_senses": 21043,
+  "unique_synsets": 17643,
+  "status": "AI-generated, not human-reviewed; native labels retain WordNet provenance",
+  "assessed_senses": 20943,
+  "quality_gate": {
+    "status": "passed",
+    "rubric_version": "exact-sense-2",
+    "reviewer": "gpt-6-astra",
+    "reviewed_senses": 17047,
+    "content_sha256": "2687bed33c70fbc3605cb881127a055ffe07291cb08d8abb76791439fa1714d4",
+    "decisions_sha256": "e056404cc6148126f7ad486985934348431be9269c0048eca08e33cc5f150198",
+    "calibration": {
+      "astra-gate-1": {
+        "cases": 12,
+        "passed": 12,
+        "fixtures_sha256": "307394b616513b60907fb10ea66502597e68226d8cbf5ea6e39d9b32de892730",
+        "decisions_sha256": "53b4f29cb851719d2255e096e973bd15f5a23ccc65c711fb0fa007bd36e25d99"
+      },
+      "astra-gate-2": {
+        "cases": 12,
+        "passed": 12,
+        "fixtures_sha256": "307394b616513b60907fb10ea66502597e68226d8cbf5ea6e39d9b32de892730",
+        "decisions_sha256": "b67b78601c9c2d0f847c71bd820f93841ce07f023dcf95152fcbe6239e9295b7"
+      },
+      "astra-gate-3": {
+        "cases": 12,
+        "passed": 12,
+        "fixtures_sha256": "307394b616513b60907fb10ea66502597e68226d8cbf5ea6e39d9b32de892730",
+        "decisions_sha256": "70526d25670c1a57f4349dfb2ca6e1bbab3ae89c110067780c3949560b95b7fe"
+      }
+    }
+  },
+  "review_status_counts": {
+    "ai-reviewed": 22439,
+    "not-ai-reviewed": 1235
+  },
+  "withheld_senses": [
+    {
+      "reason": "The source lemma Massachusetts does not match the people name Massachusett; using the two as interchangeable would be inaccurate. Correction attempt: I cannot confidently use Massachusetts as a natural standalone noun for an individual member of this people; substituting Massachusett would change the required lemma.",
+      "sense_id": "omw-en-Massachusetts-09660373-n"
+    },
+    {
+      "reason": "Semantic review: examples: Access code illustrates the compound synonym; network access is a separate permission sense, not noun access meaning code. Correction attempt: Standalone access normally denotes permission or entry rather than a character sequence; natural examples require access code, the compound synonym rejected in the prior issue.",
+      "sense_id": "omw-en-access-06354204-n"
+    },
+    {
+      "reason": "Agriculture normally denotes the activity or sector, not a single enterprise; the source\u2019s count-noun sense is questionable. Correction attempt: I cannot produce a natural use of agriculture denoting one large-scale farming enterprise rather than farming activity or the industry; the required countable enterprise sense remains questionable.",
+      "sense_id": "omw-en-agriculture-01104406-n"
+    },
+    {
+      "reason": "Semantic review: examples: Audio frequency and audio frequencies instantiate the compound term, not standalone noun audio meaning a frequency. Correction attempt: Standalone audio is not a natural count noun for one audible frequency; ordinary examples use audio frequency or shift to sound or recording.",
+      "sense_id": "omw-en-audio-05056386-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: The source defines a phosphorylated nucleoside; merely a pairing molecular component does not preserve that entity.; examples: DNA base and RNA base normally denote nucleobases, not specifically the supplied nucleotide sense. Correction attempt: The source equates base with nucleotide, although a nucleobase is not the whole phosphorylated nucleoside; natural base examples would reinforce this chemical conflation.",
+      "sense_id": "omw-en-base-14964590-n"
+    },
+    {
+      "reason": "Semantic review: examples: Bidding settled on describes a sequence of actions; 3NT does not universally indicate a balanced high-point hand. Correction attempt: Natural bidding denotes the bridge auction or bidding activity; I cannot confidently make it denote the specific contracted number of tricks without substituting bid or conflating the senses.",
+      "sense_id": "omw-en-bidding-06737112-n"
+    },
+    {
+      "reason": "Semantic review: examples: A rise in demand was a branch of population growth is not natural English for an outgrowth or consequence. Correction attempt: I cannot confidently use branch as a natural noun for a developmental consequence without slipping into the distinct organizational division or offshoot sense.",
+      "sense_id": "omw-en-branch-11415721-n"
+    },
+    {
+      "reason": "Semantic review: examples: Deep burn and especially brown burn usually suggest injury or sound unnatural; reliable attestation is needed for these tanning-sense constructions. Correction attempt: A further correction attempt could not confidently distinguish natural burn meaning skin browning alone from burn meaning skin injury. The browning-only source sense needs editorial clarification; invented tanning collocations are withheld.",
+      "sense_id": "omw-en-burn-14290534-n"
+    },
+    {
+      "reason": "Semantic review: examples: Button-like and button-shaped invoke resemblance to fasteners, not plant structures called buttons. Correction attempt: I cannot confidently name a specific plant part conventionally called a button without relying on an unsupported botanical claim or merely using button-shaped as a comparison.",
+      "sense_id": "omw-en-button-11531916-n"
+    },
+    {
+      "reason": "Semantic review: examples: Calculating receipts or hours means computing totals, not the target sense keeping an account. Correction attempt: I cannot produce natural intransitive calculate meaning keep an account without shifting to computing totals or reckoning on something.",
+      "sense_id": "omw-en-calculate-02265231-v"
+    },
+    {
+      "reason": "The supplied examples treat case as a font-style setting (\u201citalic case,\u201d \u201cbold case\u201d), which is not idiomatic. I could not find a natural example for this rare printing sense without confusing it with a physical type case or letter case. Correction attempt: Standalone case meaning a specific font is too uncertain to illustrate naturally; normal uses denote letter case or the physical container for type.",
+      "sense_id": "omw-en-case-06825399-n"
+    },
+    {
+      "reason": "The supplied examples use charge as a spoken command, but that does not clearly illustrate the listed rare sense of a hunting dog lying down on command. I could not find a natural example that demonstrates the defined use. Correction attempt: I cannot confidently produce natural examples of charge meaning lie down on command without suggesting a dog's forward attack.",
+      "sense_id": "omw-en-charge-01985424-v"
+    },
+    {
+      "reason": "The candidate's examples mistake this rare sense for inspecting or verifying a check; I could not confidently supply natural examples of writing a bank check as a verb. Correction attempt: I cannot confidently use intransitive check naturally to mean write a bank check; ordinary examples would imply inspection instead.",
+      "sense_id": "omw-en-check-01064999-v"
+    },
+    {
+      "reason": "Semantic review: examples: Olympic weightlifting ranks successful lifted weight, not performance-quality marks for a flawless clean. Correction attempt: In standard weightlifting terminology a clean brings the bar to the shoulders; the source includes the subsequent jerk, so faithful whole-lift examples would teach a misleading sense.",
+      "sense_id": "omw-en-clean-00626838-n"
+    },
+    {
+      "reason": "The base definition relies on obsolete racial categories; examples use a contemporary phrase but do not illustrate the source classification itself. Correction attempt: Standalone colour as a collective racial group is obsolete and cannot be illustrated confidently without conflating the group with skin pigmentation.",
+      "sense_id": "omw-en-colour-07968354-n"
+    },
+    {
+      "reason": "The base uses \u201cconsideration\u201d for an advance retainer fee, but the supplied examples sound unnatural and this is not a familiar present-day use; I could not confirm an idiomatic example. Correction attempt: I cannot confidently distinguish natural consideration meaning an advance retainer from the broader payment or contractual-exchange senses.",
+      "sense_id": "omw-en-consideration-13323313-n"
+    },
+    {
+      "reason": "The supplied examples use \u201ccontractor\u201d as an awkward metaphor for the heart and diaphragm; I could not find a natural use of this rare anatomical noun sense. Correction attempt: I cannot confidently illustrate contractor as a bodily organ without an unnatural anatomical label or a word-mention sentence; a specialist attestation is needed.",
+      "sense_id": "omw-en-contractor-05289601-n"
+    },
+    {
+      "reason": "This act noun is rarely used; \u201cconvening\u201d is more natural in contemporary English. Correction attempt: I cannot confidently illustrate convention as the act of convening without using an unnatural construction or the meeting itself as the referent.",
+      "sense_id": "omw-en-convention-01231819-n"
+    },
+    {
+      "reason": "Semantic review: examples: The document set out the copyright distinguishes the document from copyright, contrary to this document noun sense. Correction attempt: Copyright ordinarily denotes the legal right, not a document granting it; forcing the document sense would risk teaching a misleading legal concept.",
+      "sense_id": "omw-en-copyright-06473168-n"
+    },
+    {
+      "reason": "Semantic review: examples: A hammer's crack and a crack heard from a pipe denote sharp noises, not cracking actions. Correction attempt: Natural noun examples of crack tend to denote the resulting split, a sound, or a blow; I cannot confidently isolate the act of cracking here.",
+      "sense_id": "omw-en-crack-00376994-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: A symbol is a noun description, not denoting a quantity of five hundred.; examples: Both examples mention D as a symbol instead of using it adjectivally for a quantity. Correction attempt: I cannot provide natural modern sentences using lowercase d adjectivally for five hundred without contriving a Roman-numeral inventory or merely mentioning the symbol.",
+      "sense_id": "omw-en-d-02198631-s"
+    },
+    {
+      "reason": "Delta commonly names the Greek letter or triangular form, but the gloss \u201cequilateral triangle\u201d is overly specific and examples may be unnatural. Correction attempt: I cannot confidently use delta for a physical equilateral-triangle object without making it sound like a Greek letter or an invented label.",
+      "sense_id": "omw-en-delta-13880102-n"
+    },
+    {
+      "reason": "Semantic review: examples: Demanded that the witness appear means required; was demanded in court is not a natural illustration of summoning someone. Correction attempt: Natural demand constructions require someone to appear or demand a person's presence; I cannot confidently use transitive demand itself to mean legally summon a person to court.",
+      "sense_id": "omw-en-demand-01068985-v"
+    },
+    {
+      "reason": "Semantic review: examples: Dental consonant and the sound is dental illustrate adjective uses, not the target noun. Correction attempt: The source conflates dental and alveolar articulation; a noun example identifying a specific consonant risks reinforcing that phonetic ambiguity.",
+      "sense_id": "omw-en-dental-07115493-n"
+    },
+    {
+      "reason": "Semantic review: examples: Deposit box and deposit area modify the named facility; deposit does not independently refer to a depository here. Correction attempt: I cannot confidently use deposit naturally as the storage facility itself rather than the stored material or an attributive modifier.",
+      "sense_id": "omw-en-deposit-03177349-n"
+    },
+    {
+      "reason": "This rare intransitive use of \u201cdigest\u201d for softening or disintegration is difficult to illustrate naturally without risking a wrong sense. Correction attempt: I cannot confidently provide idiomatic intransitive digest examples for material softening under heat or moisture without shifting to biological or chemical treatment senses.",
+      "sense_id": "omw-en-digest-00397987-v"
+    },
+    {
+      "reason": "Semantic review: examples: Discovering previously undocumented species uses the finding sense; the target is identifying or classifying a specimen. Correction attempt: Discover naturally means find or learn; I cannot make it mean identify a biological specimen without using discover that and shifting to the ordinary finding-out sense.",
+      "sense_id": "omw-en-discover-00652346-v"
+    },
+    {
+      "reason": "Semantic review: examples: Diversity of weather patterns or software updates denotes assorted types, not variability as this synset specifies. Correction attempt: Natural diversity examples denote variety among things; I cannot isolate the rare condition-of-being-changeable sense without conflating those meanings.",
+      "sense_id": "omw-en-diversity-04735711-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: Asking a partner for a specific card or suit is not a general definition of doubling in bridge.; examples: The examples describe unspecified doubles without showing a demand for a particular card or suit. Correction attempt: The gloss does not identify a specific bridge convention; a generic double changes the contract stakes, while a demand for a suit requires context not supplied here.",
+      "sense_id": "omw-en-double-02300425-v"
+    },
+    {
+      "reason": "The source gloss does not clearly distinguish a sexually arousing person from someone seeking sexual excitement, so natural, sense-specific examples cannot be written confidently. Correction attempt: The circular gloss an erotic person does not establish a precise enough meaning for natural noun examples without guessing whether it means arousing, sensual, or sexually preoccupied.",
+      "sense_id": "omw-en-erotic-10062716-n"
+    },
+    {
+      "reason": "The source gloss uses a rare category for non-Abrahamic religion, while generated examples conflate ethnic identity and belief; retain only the gloss-level clarification. Correction attempt: I cannot confidently use archaic ethnic meaning pagan in natural critical educational examples without suggesting the modern cultural-identity sense.",
+      "sense_id": "omw-en-ethnic-01784401-s"
+    },
+    {
+      "reason": "Semantic review: examples: Flowed over banks and flowed across ground describe motion; the target sense means cover something with water. Correction attempt: I cannot confidently write idiomatic transitive flow meaning flood a surface; natural flow examples instead describe water moving.",
+      "sense_id": "omw-en-flow-00217427-v"
+    },
+    {
+      "reason": "Semantic review: plain_language: Calling any network-connected computer a guest may conflate guest systems, visiting clients, and ordinary nodes.; examples: The examples label a connected laptop a guest without establishing the specialized usage rather than merely asserting it. Correction attempt: A further attempt could not establish guest as an unrestricted network-node noun without importing guest-access or virtual-machine semantics. The source scope needs lexical clarification.",
+      "sense_id": "omw-en-guest-03827107-n"
+    },
+    {
+      "reason": "Semantic review: examples: In hair cloth, hair identifies the fiber composing cloth; neither sentence uses hair alone to denote the cloth. Correction attempt: I cannot confidently use standalone hair to mean woven haircloth without suggesting the raw fiber or forcing an unfamiliar count construction.",
+      "sense_id": "omw-en-hair-03475674-n"
+    },
+    {
+      "reason": "Semantic review: examples: Holy city and holy destination modify nouns instead of illustrating holy as the place noun. Correction attempt: I cannot confidently use standalone holy as a pilgrimage-place noun; natural examples require holy place or holy site, where holy is adjectival.",
+      "sense_id": "omw-en-holy-08585056-n"
+    },
+    {
+      "reason": "Semantic review: examples: Ice the cake means apply icing and does not instantiate the target noun sense. Correction attempt: I cannot confidently use standalone ice as the sugar topping in natural contemporary prose without it being read as frozen water; the ordinary noun is icing.",
+      "sense_id": "omw-en-ice-07620822-n"
+    },
+    {
+      "reason": "The supplied examples do not use \u201cil\u201d naturally as the number 49, and the abbreviation is not a standard way to write that number. I could not create an idiomatic example without inventing usage. Correction attempt: The lemma il is not a standard natural numeral for forty-nine; writing contrived quantities with it would teach unreliable notation.",
+      "sense_id": "omw-en-il-02191139-s"
+    },
+    {
+      "reason": "The source labels \u201cincreasing\u201d as a musical adjective, but neither gloss nor examples establish a clear distinct music sense. Correction attempt: The source definition consists only of music and does not establish which distinct musical meaning increasing should illustrate.",
+      "sense_id": "omw-en-increasing-02537743-a"
+    },
+    {
+      "reason": "This is a rare international-law use of \u201cinfection\u201d; I cannot form natural example sentences without risking an invented legal claim. Correction attempt: I cannot confidently illustrate the rare maritime-law sense without inventing a legal rule about when a ship or cargo becomes liable to seizure.",
+      "sense_id": "omw-en-infection-04811296-n"
+    },
+    {
+      "reason": "Semantic review: examples: The source frame instruments somebody; instrument the notice to someone substitutes an unsupported argument pattern. Correction attempt: I cannot substantiate a natural construction instrument somebody meaning address a legal document to them; ordinary instrument examples would use unrelated senses.",
+      "sense_id": "omw-en-instrument-00991151-v"
+    },
+    {
+      "reason": "Semantic review: examples: He wrote 12 k on the board is a metalinguistic mention, not an adjective modifying a quantity of items. Correction attempt: Standalone k is not naturally used as an adjective for one thousand; normal examples embed it in numerals such as 10k, leaving the requested lemma usage uncertain.",
+      "sense_id": "omw-en-k-02198752-s"
+    },
+    {
+      "reason": "Semantic review: examples: Both examples discuss L as a symbol, without using it adjectivally to quantify anything.; plain_language: The number fifty is a nominal definition rather than the adjective meaning consisting of fifty units. Correction attempt: I cannot write natural English examples using lowercase l adjectivally for fifty without contriving a Roman-numeral quantity or merely naming the symbol.",
+      "sense_id": "omw-en-l-02191232-s"
+    },
+    {
+      "reason": "Semantic review: examples: Large of the target and large of the bullseye may be mechanical substitutions for wide of rather than natural examples. Correction attempt: I cannot confidently use large as an adverb meaning wide of a target; the apparent examples sound like mechanical replacements for wide.",
+      "sense_id": "omw-en-large-00386393-r"
+    },
+    {
+      "reason": "The lemma is a rare Roman-numeral form; the generated examples used it as if it were a common English word, so no examples are supplied. Correction attempt: I cannot produce natural ordinary sentences using lowercase li adjectivally for fifty-one without contriving Roman-numeral quantities.",
+      "sense_id": "omw-en-li-02191336-s"
+    },
+    {
+      "reason": "The generated examples described a tsunami and an earthquake without context; the rare technical sense needs a sourced example. Correction attempt: I cannot confidently isolate lift as a wave itself from the more common upward-motion or lifting-force senses without a sourced technical usage.",
+      "sense_id": "omw-en-lift-07348399-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: A connecting reference in a list need not be a programming command joining modules or elements.; examples: The first example describes a list connection, while the second suggests control flow; neither clearly establishes the specified instruction sense. Correction attempt: A further attempt could not reliably isolate the source instruction sense from a connection, pointer, or named LINK command without unsupported technical usage.",
+      "sense_id": "omw-en-link-06586471-n"
+    },
+    {
+      "reason": "Semantic review: examples: Completed the location of the sculpture is not a confidently idiomatic use for physically placing it; the first sentence can still mean selected position. Correction attempt: A further attempt could not reliably separate the act of physical placement from a selected position or the act of finding a location in natural examples.",
+      "sense_id": "omw-en-location-01051331-n"
+    },
+    {
+      "reason": "Semantic review: examples: Lorded it over means dominated others; neither example makes someone a lord, and the captured lands construction is unnatural. Correction attempt: I cannot confidently use transitive lord naturally to mean confer a lordship; ordinary lorded constructions mean behave domineeringly.",
+      "sense_id": "omw-en-lord-02398854-v"
+    },
+    {
+      "reason": "The provided examples use lose to mean suffer a loss or concede, not the rare sense \u201cretreat.\u201d I could not find two natural examples of lose meaning retreat. Correction attempt: I cannot confidently use intransitive lose to mean retreat without adding ground or another complement, which changes the supplied construction.",
+      "sense_id": "omw-en-lose-01113806-v"
+    },
+    {
+      "reason": "Semantic review: examples: Inventory reached m makes m the nominal amount; it does not modify an item count as required. Correction attempt: I cannot naturally use lowercase m adjectivally for one thousand without contriving Roman-numeral quantities or inviting confusion with other abbreviations.",
+      "sense_id": "omw-en-m-02198752-s"
+    },
+    {
+      "reason": "Semantic review: examples: Win the match denotes the contest; match point is a separate compound and does not demonstrate the score noun match. Correction attempt: Standalone match naturally names the contest; I cannot confidently use it as the required winning score without relying on the separate compound match point.",
+      "sense_id": "omw-en-match-13596673-n"
+    },
+    {
+      "reason": "The gloss describes a noun meaning a low-gloss, low-contrast quality, but the candidate examples use the adjective matte or a person\u2019s name. I could not write natural examples using matt as a noun in this sense. Correction attempt: I cannot confidently use matt as a noun naming the low-gloss quality itself; natural examples use an adjective or a paint finish as a product.",
+      "sense_id": "omw-en-matt-04956110-n"
+    },
+    {
+      "reason": "The definition describes metamorphosis, not metabolism; I cannot preserve the target sense without inventing or changing the lemma. Correction attempt: The supplied transformation sense belongs to metamorphosis in ordinary biological usage; I cannot confidently use metabolism for larval transformation without a specialist historical attestation.",
+      "sense_id": "omw-en-metabolism-13514880-n"
+    },
+    {
+      "reason": "Semantic review: examples: Received a second mill and an initial coarse mill are not confidently idiomatic names for grinding passes rather than machines. Correction attempt: A further attempt could not substantiate a natural count-noun mill denoting a grinding operation rather than the machine or facility.",
+      "sense_id": "omw-en-mill-00358290-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: The source says usually smaller scale, not necessarily scaled down.; examples: A created cell model and an architect's model are representations produced, not the act of representing. Correction attempt: Standalone model naturally denotes the resulting representation rather than the act; the ordinary process noun is modeling, which would substitute the listed synonym.",
+      "sense_id": "omw-en-model-00898804-n"
+    },
+    {
+      "reason": "Semantic review: examples: A clay or wax modeling standing on a bench is not confidently natural usage for a preliminary sculpture rather than its modeling process. Correction attempt: A further attempt could not substantiate natural modeling denoting a preliminary sculpture itself rather than its production or form.",
+      "sense_id": "omw-en-modeling-00937895-n"
+    },
+    {
+      "reason": "The noun modeling usually names the process, while this gloss describes its sculptural product; generated examples used it unnaturally as a count noun, so examples are withheld. Correction attempt: I cannot confidently use modeling as a countable sculpture rather than the process of creating one without unnatural wording.",
+      "sense_id": "omw-en-modeling-03779621-n"
+    },
+    {
+      "reason": "Semantic review: examples: A modified performance or edition is changed; added comments that it was mediocre do not give modified that meaning. Correction attempt: I cannot confidently use modified to mean mediocre; natural constructions mean altered, and adding mediocrity in context would not change that lexical sense.",
+      "sense_id": "omw-en-modified-01913642-s"
+    },
+    {
+      "reason": "This rare legal sense is more commonly called a \u201cpresentment\u201d; the supplied examples use \u201cnotification\u201d unnaturally for an indictment, so I cannot confirm idiomatic exact-headword usage. Correction attempt: I cannot confidently use notification for a grand jury's self-initiated accusation without a legal attestation; ordinary notification means notice, not the accusation itself.",
+      "sense_id": "omw-en-notification-01187463-n"
+    },
+    {
+      "reason": "Semantic review: examples: Parliament's order suggests an instruction; adhered to the order does not clearly illustrate a body of parliamentary rules. Correction attempt: I cannot confidently use standalone order to name the entire body of parliamentary rules without shifting to a command, procedural conformity, or sequence.",
+      "sense_id": "omw-en-order-06652878-n"
+    },
+    {
+      "reason": "The examples read as awkward attempts to use \u201coutlook\u201d for a lookout or view; I could not find a natural sentence for the exact sense \u201cthe act of looking out.\u201d Correction attempt: I cannot confidently use outlook for the act of looking out without it being read as a view, prospect, or attitude; the action sense needs attestation.",
+      "sense_id": "omw-en-outlook-00881545-n"
+    },
+    {
+      "reason": "The definition says this adjective means \u201cyielding a fair profit,\u201d but the supplied examples use paid to mean compensated or sponsored. I could not find a natural example that clearly uses paid in the profitability sense. Correction attempt: Paid normally means compensated or settled; a natural adjective meaning profitable would be paying, and substituting it would not illustrate this lemma.",
+      "sense_id": "omw-en-paid-01871473-s"
+    },
+    {
+      "reason": "The gloss describes working as a paragrapher, but I could not write natural examples that use paragraph as a verb in this exact sense without shifting to the separate sense of dividing text into paragraphs. Correction attempt: I cannot confidently use intransitive paragraph to mean work as a writer of paragraphs; natural uses take text as an object and mean divide it into paragraphs.",
+      "sense_id": "omw-en-paragraph-01699539-v"
+    },
+    {
+      "reason": "Semantic review: examples: Imposed a penalty and the penalty was intended to punish name a punishment imposed, without clearly illustrating the act of punishing. Correction attempt: Standalone penalty naturally denotes the punishment imposed, rather than the act of imposing it; I cannot write an unambiguous process example without substituting penalization.",
+      "sense_id": "omw-en-penalty-01160342-n"
+    },
+    {
+      "reason": "The noun permit meaning the act of giving authorization is rare; the generated examples illustrate the separate document sense. Correction attempt: Standalone permit naturally names an authorization or its document, rather than the act of giving authorization; an exact process example would be forced.",
+      "sense_id": "omw-en-permit-01139194-n"
+    },
+    {
+      "reason": "Semantic review: examples: The spear's point and mountain's point identify physical extremities rather than a shape's sharply tapered quality. Correction attempt: I cannot confidently use point to denote the abstract quality of pointedness rather than the physical tip or the act of shaping one.",
+      "sense_id": "omw-en-point-05071556-n"
+    },
+    {
+      "reason": "Semantic review: examples: Position of the vase and adjusting the microphone's position concern spatial arrangement, not the placement action. Correction attempt: Position as a noun normally denotes a resulting location or arrangement; I cannot unambiguously demonstrate the act itself without using positioning or placement.",
+      "sense_id": "omw-en-position-01051331-n"
+    },
+    {
+      "reason": "The supplied definition is a rare technical aeronautical sense; the candidate examples use race for a stream of air but do not establish natural usage of this noun sense. Correction attempt: I cannot confidently use race naturally for an aircraft propeller's backward airstream without relying on an unverified rare technical construction.",
+      "sense_id": "omw-en-race-11423197-n"
+    },
+    {
+      "reason": "This rare nautical/weather sense is unclear, and the candidate examples invent unrelated sail and hay actions. Correction attempt: I cannot confidently use rack for running before a gale with the supplied human subject frame; the rare nautical construction needs an attested example.",
+      "sense_id": "omw-en-rack-01946138-v"
+    },
+    {
+      "reason": "Semantic review: examples: A rise in the tide is a tidal-level increase, not the wave or swell identified by this noun sense. Correction attempt: I cannot confidently use rise for a wave itself rather than the upward motion or an increase in water level.",
+      "sense_id": "omw-en-rise-07348399-n"
+    },
+    {
+      "reason": "This dated slang sense is difficult to illustrate naturally; examples are provisional and may conflate cheating with robbery. Correction attempt: I cannot distinguish the proposed underhanded selling or obtaining sense of roll from robbery in natural exact-lemma examples without an attested construction.",
+      "sense_id": "omw-en-roll-02322596-v"
+    },
+    {
+      "reason": "The WordNet gloss describes a whorl, but \u201croll\u201d is not a natural learner-facing label for this botanical form. Correction attempt: I cannot confidently use roll naturally for the concentric whorl shape specified here without suggesting a cylinder or spirally rolled material.",
+      "sense_id": "omw-en-roll-13875970-n"
+    },
+    {
+      "reason": "Semantic review: register: The source does not establish that the metal plate sense is specifically historical.; examples: The artillery uses of scale are specialized and cannot be confirmed as idiomatic from these examples alone. Correction attempt: Standalone scale for uniform metal sheathing is too uncertain to illustrate naturally without specialist evidence; familiar uses denote small overlapping plates or surface deposits.",
+      "sense_id": "omw-en-scale-03959701-n"
+    },
+    {
+      "reason": "The verb is awkward in current standard English in this construction; \u201cdevise\u201d or \u201cdraw up\u201d is usual. Correction attempt: I cannot confidently use scheme transitively for devising a neutral system without an unnatural construction or the separate plotting sense.",
+      "sense_id": "omw-en-scheme-00708376-v"
+    },
+    {
+      "reason": "This sense appears to use scheme for an evasive statement, a rare/dated meaning; verify source before retaining. Correction attempt: I cannot confidently use scheme to name the evasive statement itself rather than a plan for evasion; this rare sense needs attestation.",
+      "sense_id": "omw-en-scheme-06756680-n"
+    },
+    {
+      "reason": "Semantic review: examples: Secretary of his private fears is not confidently idiomatic for a person entrusted with secrets, even in the historical framing. Correction attempt: A further attempt could not establish a natural secretary construction for a person entrusted with secrets independently of an administrative role; historical lexical evidence is still needed.",
+      "sense_id": "omw-en-secretary-10521928-n"
+    },
+    {
+      "reason": "Semantic review: examples: Security alarm and security device name devices with security modifiers; security itself does not denote the device there. Correction attempt: Standalone security normally means protection, personnel, or arrangements; I cannot naturally use it for a particular electrical alarm device without a compound such as security system.",
+      "sense_id": "omw-en-security-04165945-n"
+    },
+    {
+      "reason": "Semantic review: examples: Soft consonant is not generally synonymous with a hushing consonant; the unspecified language and soft sh classification lack sufficient context. Correction attempt: The source conflates palatalization with hissing or hushing sounds; I cannot choose an exact soft consonant example without a language-specific interpretation or specialist evidence.",
+      "sense_id": "omw-en-soft-01156925-a"
+    },
+    {
+      "reason": "The gloss describes the state of being dirty, but the candidate examples use soil in unidiomatic phrases. I could not produce natural examples using soil as a noun for this state rather than for dirt or earth. Correction attempt: I cannot confidently use soil for the state of being dirty rather than the dirt itself; proposed abstract-state constructions sound unnatural.",
+      "sense_id": "omw-en-soil-14498096-n"
+    },
+    {
+      "reason": "Semantic review: examples: Patience and attention to detail as specialties naturally suggest things someone excels at, leaving this distinctiveness sense unclear. Correction attempt: I cannot confidently use specialty for a distinguishing trait alone without it suggesting expertise or a characteristic product; this rare sense needs attestation.",
+      "sense_id": "omw-en-specialty-04763925-n"
+    },
+    {
+      "reason": "Semantic review: examples: Crystal shape identifying a mineral and symptoms indicating a cause do not clearly illustrate the defining-character sense of specify. Correction attempt: The exact essential-quality sense is difficult to separate from stating details or identifying something; I cannot confidently supply natural examples with the source's inanimate-subject frame.",
+      "sense_id": "omw-en-specify-02611630-v"
+    },
+    {
+      "reason": "Semantic review: examples: The speed of the cheetah and roller coaster denotes rate or swiftness, not the specified activity sense. Correction attempt: Standalone speed naturally denotes rate or rapidity rather than the activity of moving; an unambiguous act-noun example would require speeding or hurrying.",
+      "sense_id": "omw-en-speed-00330160-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: In wine terminology split commonly means a quarter-size bottle rather than half; the generated half-standard-volume claim needs justification.; examples: The wine example intensifies the unresolved conflict between the source's half-bottle definition and common split terminology. Correction attempt: The source defines a half-size bottle while common wine usage often means a quarter-size bottle; an accurate beverage-specific example requires evidence resolving the size convention.",
+      "sense_id": "omw-en-split-13770076-n"
+    },
+    {
+      "reason": "This WordNet verb sense means patronize or shop at a business, but sponsor does not naturally express that meaning in contemporary English. Correction attempt: Sponsor normally means support or finance, not shop at; I cannot confidently write an exact-lemma patronage example without shifting to that support sense.",
+      "sense_id": "omw-en-sponsor-02466134-v"
+    },
+    {
+      "reason": "Semantic review: examples: Proved to be a sport by trying out uses the willing participant or good-sport sense, not a sports practitioner. Correction attempt: I cannot confidently use standalone sport for an athlete without suggesting the different willing-participant or good-sport sense.",
+      "sense_id": "omw-en-sport-10638922-n"
+    },
+    {
+      "reason": "Semantic review: examples: Sugar and other carbohydrates and sugar stored as starch distinguish simple sugars from other carbohydrates, leaving the broad saccharide-class sense unestablished. Correction attempt: The source conflates sugar with the broader carbohydrate class, including polysaccharides; ordinary natural examples cannot safely demonstrate that scope.",
+      "sense_id": "omw-en-sugar-14792703-n"
+    },
+    {
+      "reason": "Semantic review: examples: Studying survival and adaptation does not necessarily study selection; it can concern individual persistence alone. Correction attempt: I cannot confidently make standalone survival mean the evolutionary process of natural selection rather than persistence of individual organisms.",
+      "sense_id": "omw-en-survival-13563746-n"
+    },
+    {
+      "reason": "Semantic review: examples: The tab reported and he preferred the tab identify a publication; this sense is the journalistic approach, not the newspaper entity. Correction attempt: Bare tab naturally denotes a tabloid publication, not the sensationalist style of journalism specified by this source sense.",
+      "sense_id": "omw-en-tab-06267991-n"
+    },
+    {
+      "reason": "Semantic review: examples: Her tone and his tone are objects of soften or raising; neither sentence uses the verb tone. Correction attempt: Using tone transitively to vary speech pitch is difficult to distinguish naturally from changing vocal quality; reliable examples need attestation.",
+      "sense_id": "omw-en-tone-00982293-v"
+    },
+    {
+      "reason": "The base describes a tugboat, but the candidate\u2019s examples use \u201ctugboat,\u201d not the exact headword \u201ctower\u201d; I cannot confirm a natural current use of \u201ctower\u201d for this vessel. Correction attempt: I cannot confidently use tower for a tugboat without specialist attestation; ordinary readers would understand a tall structure or an unspecified towing agent.",
+      "sense_id": "omw-en-tower-04495843-n"
+    },
+    {
+      "reason": "Semantic review: examples: Transportation on the bus cost money names the service being purchased; paid the transportation charged is not idiomatic evidence for the sum itself. Correction attempt: A further attempt could not clearly distinguish transportation as a fare amount from the transport service or its cost without forcing the wording.",
+      "sense_id": "omw-en-transportation-13308147-n"
+    },
+    {
+      "reason": "Semantic review: plain_language: Universe of discourse commonly denotes the domain of objects under discussion, not a total set of propositions and assumptions.; examples: The philosopher's restriction to empirically verifiable statements reinforces the unresolved propositions-versus-domain distinction. Correction attempt: The source's everything stated or assumed conflicts with the usual domain-of-discourse interpretation; examples would need to resolve that distinction first.",
+      "sense_id": "omw-en-universe-05814162-n"
+    },
+    {
+      "reason": "Semantic review: examples: V represents five and uses V denote numeral nouns, not a modifier meaning five items. Correction attempt: I cannot naturally use lowercase v adjectivally for five without contriving Roman-numeral quantities or merely discussing the numeral.",
+      "sense_id": "omw-en-v-02186750-s"
+    },
+    {
+      "reason": "Semantic review: examples: These examples do not clearly establish variety alone as the show noun rather than an attributive entertainment category. Correction attempt: I cannot confidently use standalone variety for one particular show rather than the entertainment genre or a modifier in variety show.",
+      "sense_id": "omw-en-variety-07020239-n"
+    },
+    {
+      "reason": "Semantic review: examples: Ordered vi cupcakes and requires vi pieces lack a Roman-numbering context and are not idiomatic ordinary sentences. Correction attempt: I cannot produce ordinary natural examples using lowercase vi adjectivally for six without contriving a Roman-numeral inventory.",
+      "sense_id": "omw-en-vi-02186833-s"
+    },
+    {
+      "reason": "Semantic review: examples: Both sentences refer to intestinal gas, not the reflex or act of passing it specified by this sense.; register: Wind for intestinal gas remains ordinary British usage and is not inherently dated. Correction attempt: Wind naturally names intestinal gas; constructions such as breaking wind name the act through breaking, so two clear bare-noun examples of the specified reflex remain unresolved.",
+      "sense_id": "omw-en-wind-00839597-n"
+    },
+    {
+      "reason": "The generated examples did not demonstrate this lemma naturally in the target sense; hold for editorial review. Correction attempt: I cannot naturally use lowercase xx adjectivally for twenty without contriving a Roman-numeral quantity or mentioning the symbol instead.",
+      "sense_id": "omw-en-xx-02188317-s"
+    },
+    {
+      "reason": "The inventory defines \u201cyard\u201d as the number 1,000, but I cannot confidently verify or illustrate this rare usage. Correction attempt: I cannot verify yard as one thousand; financial slang commonly uses yard for one billion, so invented thousand-value examples would risk teaching the wrong quantity.",
+      "sense_id": "omw-en-yard-13750844-n"
+    },
+    {
+      "reason": "Semantic review: examples: Seasonal yield being lower and factory yield increasing both readily denote output quantity, the neighboring noun sense, without establishing production itself. Correction attempt: Natural noun uses of yield readily denote the amount produced; I cannot cleanly isolate the specified production-process sense without forcing the wording.",
+      "sense_id": "omw-en-yield-00914632-n"
+    },
+    {
+      "reason": "Semantic review: examples: A zero set ordinarily means points where a function vanishes and need not be empty; these examples assert emptiness without adequate mathematical context. Correction attempt: The adjective's claimed null-set sense lacks a natural unambiguous construction; zero set commonly means a function's roots and is not necessarily empty.",
+      "sense_id": "omw-en-zero-03145851-a"
+    }
+  ],
+  "counts": {
+    "annotations": 16036,
+    "concepts_with_added_examples": 6424,
+    "domains": 2698,
+    "examples": 14048,
+    "grammar_notes": 159,
+    "irregular_forms": 88,
+    "new_senses": 0,
+    "new_synsets": 0,
+    "new_words": 0,
+    "plain_language": 12643,
+    "referenced_senses": 20943,
+    "referenced_synsets": 17568,
+    "referenced_words": 6041,
+    "register": 340,
+    "usage": 241,
+    "usage_tips": 106
+  },
+  "inputs": {
+    "inventory.jsonl": "fdd96b6d0f2eb217b9fa7e8528a83a5a4f5666936d91e829558e2e11e3b0b243",
+    "reviewed-records.jsonl.xz": "7aff5189f8924d275bb039bcc0efd4d502dae23d42ac51a887f50cd15edd236b",
+    "quality-reviews.jsonl.xz": "f15f1a0ea4a1f1cee4a9707ff34f7b5d2fe6b5258d5a72ea7141ae7fd7c22adb",
+    "quality-calibration-decisions.jsonl": "2c0a4ed1801a66427d79899e462aeddc12d6828fc1b5aa0985b959582233da10",
+    "quality-calibration.json": "f127d032dff3de27b1675d2ec36d938af632f21e498566064482ba5d65fea30b",
+    "quality-context.jsonl.xz": "d7abfc3096b421d8c718a6caf2d8bd79d94eb48f2a210f86354adebbdf92a734",
+    "withheld.jsonl": "16147181ed1879ea217f40c57a343731daac2ca91cc06722a6352861375665dc"
+  },
+  "extension_sha256": "f6bc021ed1e4f5229fb1119aee69ba9c058f671b7e9dd2facd7d00fb30079632"
+}

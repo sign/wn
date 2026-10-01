@@ -171,6 +171,34 @@ def _first_lemma(ss: wn.Synset) -> str | None:
     return senses[0].word().lemma() if senses else None
 
 
+def _word_examples(
+    ss: wn.Synset,
+    word: wn.Word,
+    sense_ids: set[str],
+    members: list[str],
+    is_english: bool,
+) -> tuple[list[str], list[dict]]:
+    """Keep authored examples on their source sense and preserve their wording."""
+    examples = []
+    details = []
+    lemma, forms = word.lemma(), word.forms()
+    for example in ss.examples(data=True):
+        meta = example.metadata()
+        if meta.get("type") == "learner-example":
+            if meta.get("identifier") not in sense_ids:
+                continue
+            text = example.text
+            details.append({"text": text, "metadata": meta})
+        elif is_english:
+            text = personalize_example(
+                example.text, lemma, forms, members, ss.pos or ""
+            )
+        else:
+            text = example.text
+        examples.append(text)
+    return list(dict.fromkeys(examples)), details
+
+
 def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
     lex_spec = w.lexicon().specifier()
     d: dict = {
@@ -180,6 +208,7 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
             'pos': w.pos,
             'lemma': w.lemma(),
             'forms': [_make_form_data(f) for f in w.forms(data=True)],
+            'learner_data': w.learner_data(),
         },
         'links': {
             'self': _url_for_obj(request, 'word', w, lexicon=lex_spec)
@@ -190,21 +219,36 @@ def make_word(w: wn.Word, request: Request, basic: bool = False) -> dict:
         lex_link = str(request.url_for('lexicon', lexicon=lex_spec))
         senses_link = str(request.url_for('senses', word=w.id, lexicon=lex_spec))
 
-        sense_counts = {s.synset().id: sum(s.counts()) for s in w.senses()}
+        senses = w.senses()
+        sense_ids = {s.id for s in senses}
+        sense_counts = {s.synset().id: sum(s.counts()) for s in senses}
         is_english = w.lexicon().language == 'en'
         included = []
         for ss in synsets:
-            ss_data = make_synset(ss, request, basic=True)
+            members = ss.lemmas()
+            examples, example_details = _word_examples(
+                ss,
+                w,
+                sense_ids,
+                members,
+                is_english,
+            )
+            ss_data = make_synset(
+                ss,
+                request,
+                basic=True,
+                examples=examples,
+                example_details=example_details,
+            )
             attrs = ss_data['attributes']
+            attrs['learner_data'] = [
+                note for note in attrs['learner_data']
+                if note['scope'] == 'synset'
+                or (note['scope'] == 'sense' and note['source_sense_id'] in sense_ids)
+                or (note['scope'] == 'word' and note['word_id'] == w.id)
+            ]
             attrs['count'] = sense_counts.get(ss.id, 0)
-            attrs['members'] = ss.lemmas()
-            if is_english:
-                attrs['examples'] = [
-                    personalize_example(
-                        ex, w.lemma(), w.forms(), attrs['members'], ss.pos or ''
-                    )
-                    for ex in attrs['examples']
-                ]
+            attrs["members"] = members
             # One lazily-computed hypernym path (hypernym_paths() enumerates
             # every path exhaustively), nearest ancestors only, emitted
             # root-most first — exactly the breadcrumb the word page renders.
@@ -247,6 +291,7 @@ def make_sense(s: wn.Sense, request: Request, basic: bool = False) -> dict:
     d: dict = {
         'id': s.id,
         'type': 'sense',
+        'attributes': {'learner_data': s.learner_data()},
         'links': {
             'self': _url_for_obj(request, 'sense', s, lexicon=lex_spec)
         }
@@ -272,8 +317,23 @@ def make_sense(s: wn.Sense, request: Request, basic: bool = False) -> dict:
     return d
 
 
-def make_synset(ss: wn.Synset, request: Request, basic: bool = False) -> dict:
+def make_synset(
+    ss: wn.Synset,
+    request: Request,
+    basic: bool = False,
+    *,
+    examples: list[str] | None = None,
+    example_details: list[dict] | None = None,
+) -> dict:
     lex_spec = ss.lexicon().specifier()
+    if examples is None:
+        source_examples = ss.examples(data=True)
+        examples = list(dict.fromkeys(ex.text for ex in source_examples))
+        example_details = [
+            {"text": ex.text, "metadata": ex.metadata()}
+            for ex in source_examples
+            if ex.metadata().get("type") == "learner-example"
+        ]
     d: dict = {
         'id': ss.id,
         'type': 'synset',
@@ -281,7 +341,9 @@ def make_synset(ss: wn.Synset, request: Request, basic: bool = False) -> dict:
             'pos': ss.pos,
             'ili': ss._ili,
             'definition': ss.definition(),
-            'examples': ss.examples(),
+            'examples': examples,
+            'example_details': example_details or [],
+            'learner_data': ss.learner_data(),
         },
         'links': {
             'self': _url_for_obj(request, 'synset', ss, lexicon=lex_spec)

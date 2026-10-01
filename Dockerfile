@@ -27,6 +27,16 @@ COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
 COPY extensions/wikidata-lexemes/merge_extension.py ./extensions/wikidata-lexemes/merge_extension.py
 RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-lexemes/output/*.xml
 
+# Reviewed learner content is opt-in until the dictionary exposes AI attribution.
+ARG INSTALL_ENGLISH_LEARNER=false
+COPY extensions/english-learner/ ./extensions/english-learner/
+RUN python extensions/english-learner/check_release.py && \
+    case "$INSTALL_ENGLISH_LEARNER" in \
+      true) python -m wn add extensions/english-learner/rylo-en-learner.xml.gz ;; \
+      false) echo "Learner content not installed" ;; \
+      *) echo "INSTALL_ENGLISH_LEARNER must be true or false" >&2; exit 1 ;; \
+    esac
+
 # Run ANALYZE so SQLite has query planner statistics baked into the image
 RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
 

@@ -187,23 +187,24 @@ def get_lexicon_extension_bases(lexicon: str, depth: int = -1) -> list[str]:
     return [row[0] for row in rows]
 
 
-def get_lexicon_extensions(lexicon: str, depth: int = -1) -> list[str]:
-    query = """
+def get_lexicon_extensions(lexicon: str | Sequence[str], depth: int = -1) -> list[str]:
+    lexicons = (lexicon,) if isinstance(lexicon, str) else lexicon
+    query = f"""
           WITH RECURSIVE ext(x, d) AS
                (SELECT extension_rowid, 1
                   FROM lexicon_extensions
                   JOIN lexicons AS lex ON lex.rowid = base_rowid
-                 WHERE lex.specifier = :specifier
+                 WHERE lex.specifier IN ({_qs(lexicons)})
                  UNION SELECT extension_rowid, d+1
                          FROM lexicon_extensions
                          JOIN ext ON base_rowid = x)
         SELECT extlex.specifier
           FROM ext
           JOIN lexicons AS extlex ON extlex.rowid = ext.x
-         WHERE :depth < 0 OR d <= :depth
+         WHERE ? < 0 OR d <= ?
          ORDER BY d
     """
-    rows = connect().execute(query, {"specifier": lexicon, "depth": depth})
+    rows = connect().execute(query, (*lexicons, depth, depth))
     return [row[0] for row in rows]
 
 
@@ -681,6 +682,34 @@ def get_expanded_synset_relations(
     yield from result_rows
 
 
+def get_definition_source_sense_ids(lexicons: Sequence[str]) -> set[str]:
+    """Return senses referenced by definitions when exporting extensions."""
+    query = f"""
+        SELECT DISTINCT s.id
+          FROM definitions AS d
+          JOIN senses AS s ON s.rowid = d.sense_rowid
+          JOIN lexicons AS lex ON lex.rowid = d.lexicon_rowid
+         WHERE lex.specifier IN ({_qs(lexicons)})
+    """
+    return {row[0] for row in connect().execute(query, lexicons)}
+
+
+def get_word_definitions(entry_id: str, lexicons: Sequence[str]) -> list[_Definition]:
+    """Get annotations for a word in one query rather than visiting each sense."""
+    query = f"""
+        SELECT DISTINCT d.definition, d.language, source.id, lex.specifier,
+                        d.metadata, d.rowid
+          FROM entries AS e
+          JOIN senses AS s ON s.entry_rowid = e.rowid
+          JOIN definitions AS d ON d.synset_rowid = s.synset_rowid
+          LEFT JOIN senses AS source ON source.rowid = d.sense_rowid
+          JOIN lexicons AS lex ON lex.rowid = d.lexicon_rowid
+         WHERE e.id = ? AND lex.specifier IN ({_qs(lexicons)})
+         ORDER BY d.rowid
+    """
+    return [row[:5] for row in connect().execute(query, (entry_id, *lexicons))]
+
+
 def get_definitions(
     synset_id: str,
     lexicons: Sequence[str],
@@ -697,6 +726,7 @@ def get_definitions(
           JOIN lexicons AS lex ON lex.rowid = d.lexicon_rowid
          WHERE ss.id = ?
            AND lex.specifier IN ({_qs(lexicons)})
+         ORDER BY d.rowid
     """
     return conn.execute(query, (synset_id, *lexicons)).fetchall()
 
@@ -723,6 +753,7 @@ def get_examples(
           JOIN lexicons AS lex ON lex.rowid = ex.lexicon_rowid
          WHERE tbl.id = ?
            AND lex.specifier IN ({_qs(lexicons)})
+         ORDER BY ex.rowid
     """
     return conn.execute(query, (id, *lexicons)).fetchall()
 

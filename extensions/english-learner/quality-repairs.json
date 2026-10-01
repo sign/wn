@@ -1,0 +1,242 @@
+{
+  "initial_audit": {
+    "reviewed_senses": 17026,
+    "decisions": {
+      "accept": 14362,
+      "reject": 2317,
+      "uncertain": 347
+    }
+  },
+  "targeted_for_correction": 2785,
+  "corrected_and_approved": 2685,
+  "withheld_after_attempts": 100,
+  "previously_withheld": 121,
+  "previously_withheld_now_restored": 83,
+  "previously_withheld_still_withheld": 38,
+  "newly_withheld_by_stronger_gate": 62,
+  "individual_writing_attempts": 1261,
+  "review_rounds": [
+    {
+      "layer": "repair-removal-decisions-initial.jsonl",
+      "counts": {
+        "accept": 1400,
+        "reject": 24,
+        "uncertain": 10
+      }
+    },
+    {
+      "layer": "repair-extra-removal-decisions.jsonl",
+      "counts": {
+        "accept": 144
+      }
+    },
+    {
+      "layer": "repair-authored-1-review-decisions.jsonl",
+      "counts": {
+        "accept": 243,
+        "uncertain": 2,
+        "reject": 5
+      }
+    },
+    {
+      "layer": "repair-authored-1-review-decisions-tail.jsonl",
+      "counts": {
+        "accept": 229,
+        "uncertain": 10,
+        "reject": 14
+      }
+    },
+    {
+      "layer": "repair-extra-authored-1-review-decisions.jsonl",
+      "counts": {
+        "accept": 107,
+        "reject": 4
+      }
+    },
+    {
+      "layer": "repair-authored-3-batch1-review-decisions.jsonl",
+      "counts": {
+        "accept": 90,
+        "reject": 7,
+        "uncertain": 1
+      }
+    },
+    {
+      "layer": "repair-authored-3-batch2-review-decisions.jsonl",
+      "counts": {
+        "accept": 68,
+        "reject": 13
+      }
+    },
+    {
+      "layer": "repair-authored-3-batch3-review-decisions.jsonl",
+      "counts": {
+        "accept": 91,
+        "reject": 12,
+        "uncertain": 1
+      }
+    },
+    {
+      "layer": "repair-authored-3-batch4-review-decisions.jsonl",
+      "counts": {
+        "accept": 76,
+        "reject": 3
+      }
+    },
+    {
+      "layer": "repair-authored-3-batch5-review-decisions.jsonl",
+      "counts": {
+        "accept": 123,
+        "reject": 7
+      }
+    },
+    {
+      "layer": "repair-secondary-initial-removal-decisions.jsonl",
+      "counts": {
+        "accept": 5,
+        "reject": 2
+      }
+    },
+    {
+      "layer": "repair-secondary-initial-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 13
+      }
+    },
+    {
+      "layer": "repair-secondary-remaining-removal-decisions.jsonl",
+      "counts": {
+        "accept": 6
+      }
+    },
+    {
+      "layer": "repair-secondary-remaining-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 8
+      }
+    },
+    {
+      "layer": "repair-tertiary-initial-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 2
+      }
+    },
+    {
+      "layer": "repair-rescue-review-decisions.jsonl",
+      "counts": {
+        "accept": 6
+      }
+    },
+    {
+      "layer": "repair-rescue3-review-decisions.jsonl",
+      "counts": {
+        "accept": 3
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch1-removal-decisions.jsonl",
+      "counts": {
+        "accept": 6
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch1-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 2
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch2-removal-decisions.jsonl",
+      "counts": {
+        "accept": 11
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch2-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 2
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch3-removal-decisions.jsonl",
+      "counts": {
+        "accept": 9
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch3-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 3,
+        "reject": 1
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch4-removal-decisions.jsonl",
+      "counts": {
+        "accept": 3
+      }
+    },
+    {
+      "layer": "repair-tertiary-author3-batch3-removal-decisions.jsonl",
+      "counts": {
+        "accept": 1
+      }
+    },
+    {
+      "layer": "repair-secondary-author1-prefix-removal-decisions.jsonl",
+      "counts": {
+        "accept": 6
+      }
+    },
+    {
+      "layer": "repair-secondary-extra-author1-removal-decisions.jsonl",
+      "counts": {
+        "accept": 4
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch5-removal-decisions.jsonl",
+      "counts": {
+        "accept": 6
+      }
+    },
+    {
+      "layer": "repair-secondary-author3-batch5-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 1
+      }
+    },
+    {
+      "layer": "repair-secondary-author1-tail-initial-removal-decisions.jsonl",
+      "counts": {
+        "accept": 9
+      }
+    },
+    {
+      "layer": "repair-secondary-author1-tail-initial-authored-review-decisions.jsonl",
+      "counts": {
+        "reject": 1,
+        "accept": 1
+      }
+    },
+    {
+      "layer": "repair-tertiary-author1-tail-initial-removal-decisions.jsonl",
+      "counts": {
+        "accept": 1
+      }
+    },
+    {
+      "layer": "repair-secondary-author1-tail-remaining-removal-decisions.jsonl",
+      "counts": {
+        "accept": 3
+      }
+    },
+    {
+      "layer": "repair-secondary-author1-tail-remaining-authored-review-decisions.jsonl",
+      "counts": {
+        "accept": 3
+      }
+    }
+  ],
+  "note": "Every flagged sense and all previously withheld senses were attempted. Corrected text or removals received fresh independent review. Withheld senses receive no generated additions; original WordNet data stays unchanged."
+}

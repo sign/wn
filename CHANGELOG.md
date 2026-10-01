@@ -2,6 +2,27 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.9.0]
+
+**Release date: 2026-10-01**
+
+### Added
+
+* Additive English learner annotations on existing words and meanings,
+  preserving original definitions and exposing scoped notes and provenance
+  in the Python and web APIs. ([sign/wn#8](https://github.com/sign/wn/pull/8))
+* Reviewed extension for the pinned top 5,000 English frequency words:
+  14,048 example sentences across 6,424 concepts and 12,643 plain-language
+  explanations, plus optional domain, register, usage and grammar notes.
+  All 17,047 published sense additions have independent Astra approval;
+  100 uncertain senses remain withheld. Review is AI-based, not human verification.
+* Offline generation and a calibrated, content-bound quality gate that
+  recompiles the reviewed source in CI and Docker builds.
+
+Docker includes the extension files but installation remains opt-in with
+`--build-arg INSTALL_ENGLISH_LEARNER=true` until the dictionary exposes AI
+attribution. The extension is also available as a downloadable release asset.
+
 
 ## [v1.8.0]
 
