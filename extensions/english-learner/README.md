@@ -26,6 +26,9 @@ removes its additions without rewriting the base lexicon. Unlike the separate
 Wikidata lexeme import, this extension does not need a destructive database
 merge.
 
+Docker builds validate the packaged release but do not install it by default.
+Use `--build-arg INSTALL_ENGLISH_LEARNER=true` to explicitly opt in.
+
 ## Data contract
 
 The package uses standard WN-LMF `LexiconExtension`, `ExternalLexicalEntry`,
@@ -101,10 +104,12 @@ frequency words are reported rather than invented as new entries.
 The pinned list matches 3,887 frequency words, reaching 21,043 existing senses
 in 17,643 concepts. The other 1,113 frequency words have no matching stored form
 in this WordNet release. Before enrichment, 6,499 of these concepts have no
-examples. The release adds 14,053 example sentences to 6,424 of those concepts
-and assesses all 21,043 target senses. Of these, 20,922 senses passed review;
-121 remain withheld for editorial review. See `manifest.json` for
-field-level coverage and every explicit exception.
+examples. Published additions and withheld senses are reported in `manifest.json`.
+`quality-audit.json` summarizes the independent Astra audit; its rejection rate
+is a review outcome, not a measured accuracy estimate.
+`quality-repairs.json` records the correction totals and recovery of previously
+withheld senses. Writing attempts, including unsuccessful ones, are preserved in
+`quality-repair-attempts.jsonl.xz`.
 
 ```sh
 python extensions/english-learner/prepare_inventory.py --help
@@ -121,6 +126,8 @@ python extensions/english-learner/build_extension.py \
   --inventory /tmp/learner-inventory/inventory.jsonl \
   --records extensions/english-learner/reviewed-records.jsonl.xz \
   --withheld extensions/english-learner/withheld.jsonl \
+  --semantic-reviews extensions/english-learner/quality-reviews.jsonl.xz \
+  --calibration extensions/english-learner/quality-calibration-decisions.jsonl \
   --output extensions/english-learner/rylo-en-learner.xml.gz
 ```
 
@@ -132,10 +139,81 @@ provenance, and optional enrichment. Empty records mean no extra annotation was
 needed; they are still useful coverage checkpoints.
 
 `build_extension.py` accepts an inventory and one or more JSONL (or JSONL.xz)
-record files. Generated records must carry an independent AI-review checkpoint;
-raw generator output is rejected. Native WordNet labels retain their source.
+record files. Generated content requires a separate, content-bound Astra approval;
+a model name or earlier Luna checkpoint alone cannot release it. Native WordNet
+topic labels are checked against original relations and retain their source.
 It writes deterministic compressed WN-LMF and a coverage manifest.
 The database remains untouched until a caller explicitly installs the package.
+
+## Enforced semantic quality gate
+
+The independent critic receives every proposed field alongside the exact lemma,
+part of speech, definition, synonyms, original examples and syntactic frames.
+It checks sense fit, grammatical role, factual claims and usage restrictions.
+Each review includes a verdict, a sense-specific rationale and field-level issues.
+The SHA-256 binds the decision to the content, context, scope and review rubric.
+Editing any of these requires another review.
+
+Reviewers return one JSONL record per input, using the same `review_run` for
+their calibration and corpus decisions:
+
+```json
+{
+  "sense_id": "input ID",
+  "input_sha256": "input hash",
+  "reviewer": "gpt-6-astra",
+  "review_run": "run ID",
+  "rubric_version": "exact-sense-2",
+  "decision": "accept",
+  "rationale": "Why every proposed field fits this sense.",
+  "issues": []
+}
+```
+
+`reject` and `uncertain` decisions require one or more issues, each with a
+learner `field` name and a specific `reason`. Accepted decisions have no issues.
+
+Each review run must first pass twelve calibration cases: eight known errors
+and four valid controls. Passing these checks does not establish a general
+accuracy rate. Astra review is still AI review, not human verification.
+
+`apply_reviews.py` requires complete review coverage. It quarantines an entire
+sense if any field is rejected or uncertain; it never silently rewrites and
+approves a correction. Unreleased rows remain in
+`quarantined-records.jsonl.xz`, with the final verdicts in `quality-audit.jsonl.xz`.
+The first audit and its rejected source are preserved separately in
+`quality-initial-audit.jsonl.xz` and `quality-original-rejected-records.jsonl.xz`;
+`quality-repair-history.jsonl.xz` records the subsequent review decisions.
+Corrections need fresh review before they can enter a later release.
+Native WordNet definitions remain available for withheld senses.
+
+`prepare_corrections.py` verifies the original review hashes and prepares exact
+sense context with the flagged fields and reasons. Unsupported optional fields
+can be removed with `remove_flagged_fields`; missing examples need new authored
+sentences. Both remain unreviewed until another review approves the revised
+content. Even deleting all optional fields requires a fresh decision. Generation
+receives original WordNet examples to disambiguate short definitions and supports
+targeted correction context without creating new meanings.
+New Astra-authored corrections record an `author_run` in the source. This identity
+is bound into the review hash; the gate rejects decisions from that same run.
+
+To review a new candidate set, prepare exact inputs with `quality_gate.py`, have
+independent Astra reviewers return decisions using its rubric and calibration
+inputs, then run `apply_reviews.py` before building. Use `--calibration-output`
+to prepare blind calibration inputs; do not give reviewers the expected answers
+from `quality-calibration.json`. These are offline steps;
+CI never calls a model. The committed calibration decisions and compact
+`quality-context.jsonl.xz` make the release gate reproducible without downloading
+WordNet or accessing the generation machines.
+
+```sh
+python extensions/english-learner/check_release.py
+```
+
+CI and Docker run this command. It rejects missing, stale, negative or
+uncalibrated reviews, validates native topic evidence and coverage, and rebuilds
+the XML from approved records to verify the actual packaged text. Changing only
+a manifest hash cannot bypass the content review.
 
 ## Sources
 

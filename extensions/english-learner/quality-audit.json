@@ -1,0 +1,18 @@
+{
+  "rubric_version": "exact-sense-2",
+  "reviewer": "gpt-6-astra",
+  "source_records_sha256": "ab423f0f9daad1c6832f06633b15dba84ed947de6bdf7717db4e5bf1ec4fae0c",
+  "reviewed_senses": 17109,
+  "decisions": {
+    "accept": 17047,
+    "reject": 41,
+    "uncertain": 21
+  },
+  "issues_by_field": {
+    "examples": 62,
+    "plain_language": 9,
+    "register": 2
+  },
+  "withheld_senses": 100,
+  "note": "AI review, not human verification or a measured accuracy guarantee."
+}

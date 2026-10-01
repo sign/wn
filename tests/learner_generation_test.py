@@ -207,6 +207,14 @@ def test_prompt_word_preserves_exact_lemma_case():
         ],
     }
     assert generator.compact(row, 0)["word"] == "In"
+    row["examples"] = ["The label identified the sample as In."]
+    assert generator.compact(row, 0)["existing_examples"] == row["examples"]
+    previous_hash = generator.input_hash(row)
+    row["correction"] = {
+        "issues": [{"field": "examples", "reason": "Wrong part of speech."}]
+    }
+    assert generator.compact(row, 0)["correction"] == row["correction"]
+    assert generator.input_hash(row) != previous_hash
 
 
 def test_malformed_openai_usage_is_rejected():

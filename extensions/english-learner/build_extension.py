@@ -8,6 +8,7 @@ source sense and its existing concept; existing concept examples are preserved.
 import argparse
 import gzip
 import hashlib
+import importlib.util
 import json
 import lzma
 import sqlite3
@@ -19,6 +20,11 @@ from wn.learner import ANNOTATION_TYPE, validate_learner_fields
 
 BASE = {"id": "omw-en", "version": "1.4"}
 FIELDS = ("domains", "register", "usage", "grammar_notes", "usage_tips")
+
+QUALITY_PATH = Path(__file__).with_name("quality_gate.py")
+QUALITY_SPEC = importlib.util.spec_from_file_location("learner_quality", QUALITY_PATH)
+quality = importlib.util.module_from_spec(QUALITY_SPEC)
+QUALITY_SPEC.loader.exec_module(quality)
 
 
 def read_records(path):
@@ -40,6 +46,11 @@ def provenance(row):
     if row.get("reviewer"):
         meta["contributor"] = row["reviewer"]
         meta["note"] = "AI review: " + row.get("review_status", "unspecified")
+    if row.get("semantic_reviewer"):
+        meta["contributor"] = "; ".join(dict.fromkeys(filter(None, [
+            meta.get("contributor"), row["semantic_reviewer"],
+        ])))
+        meta["note"] = "AI review: " + quality.RUBRIC_VERSION + "; not human-reviewed"
     return meta
 
 
@@ -280,6 +291,14 @@ def validate_review(records):
     return assessed
 
 
+
+def mark_semantic_review(records):
+    return [
+        {**row, "semantic_reviewer": quality.REVIEWER}
+        if not quality.native(row) and any(row.get(k) for k in quality.FIELDS)
+        else row for row in records
+    ]
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--inventory", type=Path, required=True)
@@ -288,6 +307,12 @@ def main():
         "--withheld", type=Path,
         help="Explicit sense IDs and reasons requiring further editorial review",
     )
+    parser.add_argument(
+        "--semantic-reviews", type=Path, required=True,
+        help="Exact-content Astra decisions for all generated additions",
+    )
+    parser.add_argument("--calibration", type=Path, required=True,
+                        help="Passing regression decisions for every reviewer run")
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--database", type=Path, default=Path.home() / ".wn_data/wn.db")
     args = parser.parse_args()
@@ -295,6 +320,14 @@ def main():
     original_examples = {row["synset_id"]: row["examples"] for row in inventory}
     records = [row for path in args.records for row in read_records(path)]
     validate_identities(records, args.database)
+    fixtures_path = Path(__file__).with_name("quality-calibration.json")
+    gate = quality.validate_release(
+        records, inventory, quality.read_jsonl(args.semantic_reviews),
+        json.loads(fixtures_path.read_text(encoding="utf-8")),
+        quality.read_jsonl(args.calibration),
+    )
+    # Only the validated model decisions confer the stronger review provenance.
+    records = mark_semantic_review(records)
     assessed_senses = validate_review(records)
     expected_senses = {s["sense_id"] for r in inventory for s in r["senses"]}
     if {row["sense_id"] for row in records} - expected_senses:
@@ -335,6 +368,10 @@ def main():
     if args.output.suffix == ".gz":
         args.output.write_bytes(gzip.compress(xml_path.read_bytes(), mtime=0))
         xml_path.unlink()
+    context_path = args.output.with_name("quality-context.jsonl.xz")
+    context_text = "".join(json.dumps(row, ensure_ascii=False) + "\n"
+                           for row in quality.compact_inventory(inventory))
+    context_path.write_bytes(lzma.compress(context_text.encode()))
     report = {
         "base_lexicon": "omw-en:1.4",
         "extension": "rylo-en-learner:1.0",
@@ -348,6 +385,7 @@ def main():
             "native labels retain WordNet provenance"
         ),
         "assessed_senses": len(assessed_senses),
+        "quality_gate": gate,
         "review_status_counts": dict(Counter(
             row.get("review_status", "not-ai-reviewed") for row in records
         )),
@@ -355,7 +393,8 @@ def main():
         "counts": counts,
         "inputs": {
             str(p.name): hashlib.sha256(p.read_bytes()).hexdigest()
-            for p in [args.inventory, *args.records,
+            for p in [args.inventory, *args.records, args.semantic_reviews,
+                      args.calibration, fixtures_path, context_path,
                       *([args.withheld] if args.withheld else [])]
         },
         "extension_sha256": hashlib.sha256(args.output.read_bytes()).hexdigest(),

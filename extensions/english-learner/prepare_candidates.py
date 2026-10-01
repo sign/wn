@@ -115,10 +115,10 @@ def archive_candidates(path, database, by_synset):
 
 
 def native_labels(pair, row):
+    # Usage-domain links in this OMW release are not register labels: e.g.
+    # figurative language points to cakewalk. Do not promote exemplars to labels.
     domains = []
     domain_evidence = []
-    registers = []
-    register_evidence = []
     for relation in pair["relations"]:
         if not relation["forms"]:
             continue
@@ -127,15 +127,9 @@ def native_labels(pair, row):
         if relation["type"] == "domain_topic":
             domains.append(label)
             domain_evidence.append(evidence)
-        elif relation["type"] == "exemplifies":
-            registers.append(label)
-            register_evidence.append(evidence)
     if domains:
         row["domains"] = list(dict.fromkeys(domains))
         row["domain_evidence"] = domain_evidence
-    if registers:
-        row["register"] = list(dict.fromkeys(registers))
-        row["register_evidence"] = register_evidence
 
 
 def select_examples(pair, candidates, selected, sense_priority):

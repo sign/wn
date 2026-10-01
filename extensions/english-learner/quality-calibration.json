@@ -1,0 +1,468 @@
+[
+  {
+    "sense_id": "calibration-00",
+    "input_sha256": "910721a572d574493590297a333e7a8e1718aca25e7172695008a75877ce3eb9",
+    "content": {
+      "sense_id": "omw-en-run-00558883-n",
+      "word_id": "omw-en-run-n",
+      "synset_id": "omw-en-00558883-n",
+      "lemma": "run",
+      "pos": "n",
+      "definitions": [
+        "(American football) a play in which a player attempts to carry the ball through or past the opposing team"
+      ],
+      "synonyms": [
+        "run",
+        "running",
+        "running play",
+        "running game"
+      ],
+      "existing_examples": [
+        "the defensive line braced to stop the run",
+        "the coach put great emphasis on running"
+      ],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "grammar_notes": [
+              "Irregular verb: past ran, past participle run"
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-01",
+    "input_sha256": "01a9d024b97a658c4e3b7030f9bf481295d56c03ebd69f2a9952c77ef3c4a0b4",
+    "content": {
+      "sense_id": "omw-en-medical-00142361-n",
+      "word_id": "omw-en-medical-n",
+      "synset_id": "omw-en-00142361-n",
+      "lemma": "medical",
+      "pos": "n",
+      "definitions": [
+        "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+      ],
+      "synonyms": [
+        "checkup",
+        "medical checkup",
+        "medical examination",
+        "medical exam",
+        "medical",
+        "health check"
+      ],
+      "existing_examples": [],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "plain_language": "a comprehensive physical check‑up that involves multiple tests tailored to the individual's age, gender, and health status",
+            "examples": [
+              "Before starting the new job, she completed a medical check‑up that included blood work and vision tests.",
+              "The athlete underwent a medical examination to ensure he was fit for competition."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-02",
+    "input_sha256": "6a42eb67308abc57991969ae8256cf4f50f7091a8390f5c81bca718a2a83f402",
+    "content": {
+      "sense_id": "omw-en-growth-13489037-n",
+      "word_id": "omw-en-growth-n",
+      "synset_id": "omw-en-13489037-n",
+      "lemma": "growth",
+      "pos": "n",
+      "definitions": [
+        "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ],
+      "synonyms": [
+        "growth",
+        "growing",
+        "maturation",
+        "development",
+        "ontogeny",
+        "ontogenesis"
+      ],
+      "existing_examples": [
+        "he proposed an indicator of osseous development in children"
+      ],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "domains": [
+              "biology"
+            ],
+            "register": [
+              "formal"
+            ],
+            "grammar_notes": [
+              "Countable; can take a plural form when referring to multiple instances."
+            ],
+            "usage_tips": [
+              "Often paired with ‘of’ (e.g., growth of the embryo)."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-03",
+    "input_sha256": "c203d5dec193527b4b3f3fc55874cf401aaa65c07b2a073d77775cde80f939ee",
+    "content": {
+      "sense_id": "omw-en-replacement-13547925-n",
+      "word_id": "omw-en-replacement-n",
+      "synset_id": "omw-en-13547925-n",
+      "lemma": "replacement",
+      "pos": "n",
+      "definitions": [
+        "filling again by supplying what has been used up"
+      ],
+      "synonyms": [
+        "refilling",
+        "replenishment",
+        "replacement",
+        "renewal"
+      ],
+      "existing_examples": [],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "plain_language": "the process of refilling something that has been exhausted",
+            "examples": [
+              "The replacement of water in the tank took several minutes.",
+              "Regular replacement of the filter keeps the system working."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-04",
+    "input_sha256": "13ecba8c23e55a249210b806c5cd85c80658c695f83499df7f97699d4410388e",
+    "content": {
+      "sense_id": "omw-en-style-01028466-v",
+      "word_id": "omw-en-style-v",
+      "synset_id": "omw-en-01028466-v",
+      "lemma": "style",
+      "pos": "v",
+      "definitions": [
+        "designate by an identifying term"
+      ],
+      "synonyms": [
+        "style",
+        "title"
+      ],
+      "existing_examples": [
+        "They styled their nation `The Confederate States'"
+      ],
+      "syntactic_frames": [
+        "Somebody ----s something"
+      ],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "grammar_notes": [
+              "Requires a direct object that is the term used for naming or labeling something (e.g., “style the new product ‘Eclipse’”)."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-05",
+    "input_sha256": "8287b22a56c5cc7a8c363315b95171d27d3d5d26aa161f835b48761da2611628",
+    "content": {
+      "sense_id": "omw-en-love-09849598-n",
+      "word_id": "omw-en-love-n",
+      "synset_id": "omw-en-09849598-n",
+      "lemma": "love",
+      "pos": "n",
+      "definitions": [
+        "a beloved person; used as terms of endearment"
+      ],
+      "synonyms": [
+        "beloved",
+        "dear",
+        "dearest",
+        "honey",
+        "love"
+      ],
+      "existing_examples": [],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "examples": [
+              "I love this song.",
+              "They love their new house."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-06",
+    "input_sha256": "8359721ee0ac017bdbf929ff625f835926aecb66c182541217c1130907b5e71e",
+    "content": {
+      "sense_id": "omw-en-go-00149583-v",
+      "word_id": "omw-en-go-v",
+      "synset_id": "omw-en-00149583-v",
+      "lemma": "go",
+      "pos": "v",
+      "definitions": [
+        "enter or assume a certain state or condition"
+      ],
+      "synonyms": [
+        "become",
+        "go",
+        "get"
+      ],
+      "existing_examples": [
+        "He became annoyed when he heard the bad news",
+        "It must be getting more serious",
+        "her face went red with anger",
+        "She went into ecstasy",
+        "Get going!"
+      ],
+      "syntactic_frames": [
+        "Something is ----ing PP",
+        "Something ----s Adjective/Noun",
+        "Somebody ----s Adjective",
+        "Somebody ----s PP"
+      ],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "irregular_forms": {
+              "past": [
+                "goed"
+              ],
+              "past_participle": [
+                "goed"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-07",
+    "input_sha256": "b7e5c821a49a640a76fdef4ae511ed9b589c344c318ed03c67f1cf704b2ab5e9",
+    "content": {
+      "sense_id": "omw-en-write-00998886-v",
+      "word_id": "omw-en-write-v",
+      "synset_id": "omw-en-00998886-v",
+      "lemma": "write",
+      "pos": "v",
+      "definitions": [
+        "record data on a computer"
+      ],
+      "synonyms": [
+        "write",
+        "save"
+      ],
+      "existing_examples": [
+        "boot-up instructions are written on the hard disk"
+      ],
+      "syntactic_frames": [
+        "Somebody ----s something",
+        "Something ----s something"
+      ],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "plain_language": "To delete a file from a computer."
+          }
+        }
+      ]
+    },
+    "expected_accept": false
+  },
+  {
+    "sense_id": "calibration-08",
+    "input_sha256": "722762cb3fb591fa1c6c1c8f234ca93f27459e58850304d385939a69282a7cb4",
+    "content": {
+      "sense_id": "omw-en-love-09849598-n",
+      "word_id": "omw-en-love-n",
+      "synset_id": "omw-en-09849598-n",
+      "lemma": "love",
+      "pos": "n",
+      "definitions": [
+        "a beloved person; used as terms of endearment"
+      ],
+      "synonyms": [
+        "beloved",
+        "dear",
+        "dearest",
+        "honey",
+        "love"
+      ],
+      "existing_examples": [],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "examples": [
+              "“Good morning, my love,” she said to her husband.",
+              "He introduced his wife as the love of his life."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": true
+  },
+  {
+    "sense_id": "calibration-09",
+    "input_sha256": "d8e9a5500e7484438930f2924056b7032d9a31cc4168581e32244c1e79de2620",
+    "content": {
+      "sense_id": "omw-en-medical-00142361-n",
+      "word_id": "omw-en-medical-n",
+      "synset_id": "omw-en-00142361-n",
+      "lemma": "medical",
+      "pos": "n",
+      "definitions": [
+        "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+      ],
+      "synonyms": [
+        "checkup",
+        "medical checkup",
+        "medical examination",
+        "medical exam",
+        "medical",
+        "health check"
+      ],
+      "existing_examples": [],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "examples": [
+              "She had a medical before starting the job.",
+              "The employer required a medical."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": true
+  },
+  {
+    "sense_id": "calibration-10",
+    "input_sha256": "bea70bc86c7a0dc3685a6fbe1dbdcf2beb2df10e27054d7517919cc25cd2553f",
+    "content": {
+      "sense_id": "omw-en-growth-13489037-n",
+      "word_id": "omw-en-growth-n",
+      "synset_id": "omw-en-13489037-n",
+      "lemma": "growth",
+      "pos": "n",
+      "definitions": [
+        "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ],
+      "synonyms": [
+        "growth",
+        "growing",
+        "maturation",
+        "development",
+        "ontogeny",
+        "ontogenesis"
+      ],
+      "existing_examples": [
+        "he proposed an indicator of osseous development in children"
+      ],
+      "syntactic_frames": [],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "grammar_notes": [
+              "Usually uncountable when referring to the process of growing."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": true
+  },
+  {
+    "sense_id": "calibration-11",
+    "input_sha256": "b3154081b204c93dfffdf16b9f074a82444b33ddc0beb328ebdeca471cca12a8",
+    "content": {
+      "sense_id": "omw-en-write-00998886-v",
+      "word_id": "omw-en-write-v",
+      "synset_id": "omw-en-00998886-v",
+      "lemma": "write",
+      "pos": "v",
+      "definitions": [
+        "record data on a computer"
+      ],
+      "synonyms": [
+        "write",
+        "save"
+      ],
+      "existing_examples": [
+        "boot-up instructions are written on the hard disk"
+      ],
+      "syntactic_frames": [
+        "Somebody ----s something",
+        "Something ----s something"
+      ],
+      "annotations": [
+        {
+          "scope": "sense",
+          "irregular_forms_scope": "sense",
+          "fields": {
+            "domains": [
+              "computing"
+            ],
+            "examples": [
+              "The program writes data to the disk.",
+              "She wrote the records to a file."
+            ]
+          }
+        }
+      ]
+    },
+    "expected_accept": true
+  }
+]

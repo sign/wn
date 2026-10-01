@@ -9,6 +9,10 @@
   pinned top 5,000 English frequency words.
 
 
+- Gate generated learner content on calibrated, content-bound Astra review;
+  quarantine rejected or uncertain senses and make Docker installation opt-in.
+
+
 ## [v1.8.0]
 
 **Release date: 2026-07-20**

@@ -16,10 +16,10 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
-PROMPT_VERSION = "english-learner-4"
+PROMPT_VERSION = "english-learner-6"
 SYSTEM = """You are a careful English lexicographer enriching existing WordNet meanings.
 Return one item for every input id, preserving order. Do not create or merge
-meanings. The supplied definition is authoritative; other_meanings are
+meanings. The supplied definition identifies the intended sense; other_meanings are
 distractors only and must not be illustrated or added as user-facing
 comparisons. Lexical forms retain their exact capitalization (IT is not it).
 Prior generated candidates are UNREVIEWED and may be wrong: reuse only text that
@@ -104,6 +104,24 @@ For element symbols prefer a laboratory label or sample, not everyday phrases
 such as "Fe beams". For state abbreviations prefer written addresses rather
 than unnatural spoken sentences such as "we entered IN on the highway".
 
+Correction mode: when correction is supplied, repair EVERY reported issue and
+return the COMPLETE replacement enrichment, not a patch. Keep useful unflagged
+information only when defensible. Remove unsupported optional claims rather than
+guessing a replacement. Avoid needless rewrites. Previous annotations are
+untrusted, even when they carry earlier review stamps. A missing example still
+requires two correct sentences; merely quoting or defining the word does not
+illustrate its grammatical use. For noun medical, "She needed a medical before
+joining the team" is valid; "She needed a medical examination" is not.
+Do not narrow a definition with invented conditions such as "over time" or
+"always". Each example must distinguish this meaning from neighboring meanings:
+a general benefit is not necessarily operating profit. The base definition
+identifies the intended sense but can contain dated or imprecise factual wording;
+do not amplify a factual error into a new assertion. Omit that optional claim or
+report unresolved_reason when the intended sense cannot be illustrated reliably.
+Use existing_examples and syntactic frames to disambiguate short definitions.
+For example, have defined as "have left" means still possess a remaining amount
+("How many years do you have left?"), not the perfect tense of leaving a place.
+Never reinterpret the target lemma as an auxiliary in a different phrase.
 """
 
 STRING = {"type": "string", "minLength": 1, "maxLength": 500}
@@ -171,6 +189,7 @@ def compact(row, index):
         "definition": row["definitions"],
         "other_meanings": row.get("other_meanings", []),
         "needs_examples": not row["examples"],
+        "existing_examples": row["examples"],
         "lexical_entries": [
             {
                 "lemma": s["lemma"],
@@ -187,6 +206,8 @@ def compact(row, index):
             if r["type"] in ("domain_topic", "domain_region", "domain_usage")
         ],
     }
+    if row.get("correction"):
+        value["correction"] = row["correction"]
     return value
 
 
@@ -430,6 +451,7 @@ def output_record(row, item, args):
         "source": f"{args.api}:{args.model}/{PROMPT_VERSION}",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "status": "unreviewed",
+        **({"requires_semantic_review": True} if row.get("correction") else {}),
         **item["enrichment"],
         **item.get("word_enrichment", {}),
     }
@@ -476,7 +498,11 @@ def read_completed(path, model, model_revision=None):
     if not path.exists():
         return set()
     try:
-        records = [json.loads(line) for line in path.read_text().splitlines() if line]
+        records = [
+            json.loads(line)
+            for line in path.read_text(encoding="utf-8").splitlines()
+            if line
+        ]
     except json.JSONDecodeError as error:
         raise ValueError(
             f"Invalid checkpoint JSON in {path}; repair any interrupted trailing "
@@ -513,10 +539,14 @@ def main():
     if not 1 <= args.workers <= 16:
         parser.error("Use 1-16 workers, within the server's configured concurrency")
     rows = expand_inventory(
-        [json.loads(line) for line in args.inventory.read_text().splitlines() if line],
         [
             json.loads(line)
-            for line in args.context_inventory.read_text().splitlines()
+            for line in args.inventory.read_text(encoding="utf-8").splitlines()
+            if line
+        ],
+        [
+            json.loads(line)
+            for line in args.context_inventory.read_text(encoding="utf-8").splitlines()
             if line
         ]
         if args.context_inventory
@@ -536,8 +566,8 @@ def main():
     started = time.monotonic()
     with (
         ThreadPoolExecutor(max_workers=args.workers) as pool,
-        args.output.open("a") as output,
-        args.output.with_suffix(".errors.jsonl").open("a") as errors,
+        args.output.open("a", encoding="utf-8") as output,
+        args.output.with_suffix(".errors.jsonl").open("a", encoding="utf-8") as errors,
     ):
         futures = [pool.submit(process_batch, batch, args) for batch in batches]
         for future in as_completed(futures):

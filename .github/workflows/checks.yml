@@ -21,6 +21,8 @@ jobs:
       run: hatch fmt --linter --check
     - name: Type Check
       run: hatch run mypy:check
+    - name: Check learner release quality
+      run: hatch run python extensions/english-learner/check_release.py
     - name: Check Buildable
       run: hatch build
 

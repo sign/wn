@@ -1,0 +1,3 @@
+# Release hashes must survive Windows checkouts without newline conversion.
+*.json text eol=lf
+*.jsonl text eol=lf
