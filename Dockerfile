@@ -27,6 +27,10 @@ COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
 COPY extensions/wikidata-lexemes/merge_extension.py ./extensions/wikidata-lexemes/merge_extension.py
 RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-lexemes/output/*.xml
 
+# Small dictionary additions maintained separately from generated Wikidata data.
+COPY extensions/extras/ ./extensions/extras/
+RUN python extensions/wikidata-lexemes/merge_extension.py extensions/extras/*.xml
+
 # Reviewed learner content is opt-in until the dictionary exposes AI attribution.
 ARG INSTALL_ENGLISH_LEARNER=false
 COPY extensions/english-learner/ ./extensions/english-learner/

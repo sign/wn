@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://globalwordnet.github.io/schemas/WN-LMF-1.4.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <LexiconExtension id="extras-en"
+                    label="English Dictionary Extras"
+                    language="en"
+                    email="amit@nagish.com"
+                    license="https://opensource.org/license/mit/"
+                    version="1.0">
+    <Extends id="omw-en" version="1.4"/>
+    <LexicalEntry id="omw-en-extra-possessive-s">
+      <Lemma writtenForm="'s" partOfSpeech="y"/>
+      <Form writtenForm="’s"/>
+      <Sense id="omw-en-extra-possessive-s-1" synset="omw-en-extra-possessive-s-y"/>
+    </LexicalEntry>
+    <Synset id="omw-en-extra-possessive-s-y" ili="" partOfSpeech="y">
+      <Definition>a marker added to a noun or noun phrase to show possession or association</Definition>
+      <Example>The clinic specializes in women's health.</Example>
+      <Example>This is John's coat.</Example>
+      <Example>This coat is John's.</Example>
+    </Synset>
+  </LexiconExtension>
+</LexicalResource>
