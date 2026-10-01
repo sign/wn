@@ -131,6 +131,10 @@ python extensions/english-learner/build_extension.py \
   --output extensions/english-learner/rylo-en-learner.xml.gz
 ```
 
+`generation.py` requires `--author-run` identifying the authoring run; the
+independent reviewer must use a different `review_run`. Resume checkpoints
+are specific to that author run.
+
 `generation.py` supports Ollama and OpenAI-compatible vLLM endpoints, concurrent
 batches, deterministic shards, and resume checkpoints keyed by input, prompt,
 and model. Each exact sense is assessed once even if several frequency forms

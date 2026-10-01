@@ -2,6 +2,19 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.9.1]
+
+**Release date: 2026-10-01**
+
+### Fixed
+
+* Require the generation run's author identity, bind it to review inputs, and
+  reject missing identities for newly authored corrections. Resume checkpoints
+  must match the author run. Existing reviewed learner content is unchanged.
+* Publish Docker images on release publication, including releases staged as
+  drafts while downloadable assets are uploaded.
+
+
 ## [v1.9.0]
 
 **Release date: 2026-10-01**

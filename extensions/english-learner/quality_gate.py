@@ -9,6 +9,7 @@ import argparse
 import hashlib
 import json
 import lzma
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -134,6 +135,20 @@ def review_items(records, inventory):
         if native(row):
             continue
         fields = {key: row[key] for key in FIELDS if row.get(key)}
+        removal = (
+            row.get("correction_method") == "remove flagged fields"
+            and isinstance(row.get("correction_of"), str)
+            and re.fullmatch(r"[0-9a-f]{64}", row["correction_of"])
+        )
+        needs_author = (
+            row.get("requires_semantic_review") and fields and not removal
+        ) or row.get("prompt_version") == "english-learner-7"
+        if needs_author and (
+            not isinstance(row.get("author_run"), str) or not row["author_run"].strip()
+        ):
+            raise ValueError(
+                f"generated correction requires author_run: {row['sense_id']}"
+            )
         if not fields and not row.get("requires_semantic_review"):
             continue
         grouped[row["sense_id"]].append(
@@ -292,7 +307,8 @@ def main():
     parser.add_argument("--records", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument(
-        "--calibration-output", type=Path,
+        "--calibration-output",
+        type=Path,
         help="Write calibration inputs without their expected verdicts",
     )
     args = parser.parse_args()
@@ -303,7 +319,9 @@ def main():
     )
     if args.calibration_output:
         fixtures = json.loads(
-            Path(__file__).with_name("quality-calibration.json").read_text(encoding="utf-8")
+            Path(__file__)
+            .with_name("quality-calibration.json")
+            .read_text(encoding="utf-8")
         )
         args.calibration_output.write_text(
             "".join(json.dumps(blind_fixture(item)) + "\n" for item in fixtures),
