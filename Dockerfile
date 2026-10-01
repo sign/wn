@@ -27,6 +27,10 @@ COPY extensions/wikidata-lexemes/output ./extensions/wikidata-lexemes/output
 COPY extensions/wikidata-lexemes/merge_extension.py ./extensions/wikidata-lexemes/merge_extension.py
 RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-lexemes/output/*.xml
 
+# Learner content remains an additive, removable extension of the English lexicon.
+COPY extensions/english-learner/rylo-en-learner.xml.gz extensions/english-learner/SOURCE-LICENSES.txt ./extensions/english-learner/
+RUN python -m wn add extensions/english-learner/rylo-en-learner.xml.gz
+
 # Run ANALYZE so SQLite has query planner statistics baked into the image
 RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
 

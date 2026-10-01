@@ -2,6 +2,12 @@
 
 ## [Unreleased][unreleased]
 
+- Support additive English learner annotations on existing words and meanings,
+  preserving original definitions and exposing scoped notes and provenance in
+  the Python and web APIs.
+- Add offline generation and validation for learner extensions covering the
+  pinned top 5,000 English frequency words.
+
 
 ## [v1.8.0]
 

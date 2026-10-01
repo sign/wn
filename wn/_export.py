@@ -15,6 +15,7 @@ from wn._queries import (
     find_synsets,
     find_syntactic_behaviours,
     get_adjposition,
+    get_definition_source_sense_ids,
     get_definitions,
     get_entry_forms,
     get_entry_index,
@@ -569,7 +570,7 @@ def _get_external_sense_ids(lexspecs: _LexSpecs) -> set[str]:
     """Get ids of external senses needed for an extension."""
     return get_relation_targets(
         "sense_relations", "senses", (lexspecs.primary,), lexspecs
-    )
+    ) | get_definition_source_sense_ids((lexspecs.primary,))
 
 
 def _get_external_synset_ids(lexspecs: _LexSpecs) -> set[str]:

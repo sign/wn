@@ -1,0 +1,525 @@
+{
+  "base_lexicon": "omw-en:1.4",
+  "extension": "rylo-en-learner:1.0",
+  "frequency_cutoff": 5000,
+  "matched_frequency_words": 3887,
+  "word_meaning_pairs": 22700,
+  "unique_senses": 21043,
+  "unique_synsets": 17643,
+  "status": "AI-generated, not human-reviewed; native labels retain WordNet provenance",
+  "assessed_senses": 20922,
+  "review_status_counts": {
+    "ai-reviewed": 21274,
+    "not-ai-reviewed": 1241
+  },
+  "withheld_senses": [
+    {
+      "sense_id": "omw-en-DS-06705787-n",
+      "reason": "The abbreviation \u201cDS\u201d for an honorary science degree is unclear; common degree abbreviations include DSc and ScD, so I cannot validate these examples against the exact headword."
+    },
+    {
+      "sense_id": "omw-en-Daniel-09991285-n",
+      "reason": "The source gives only a generic definition (\u201ca wise and upright judge\u201d) and does not identify a clear named individual or usage."
+    },
+    {
+      "sense_id": "omw-en-Gb-13642000-n",
+      "reason": "This is a highly obscure unit; examples are schematic and need specialist validation."
+    },
+    {
+      "sense_id": "omw-en-Massachusetts-06910639-n",
+      "reason": "The source uses Massachusetts for the Massachusett language, whose name is distinct; an exact-lemma example would conflate the state name and language."
+    },
+    {
+      "sense_id": "omw-en-Massachusetts-09660373-n",
+      "reason": "The source lemma Massachusetts does not match the people name Massachusett; using the two as interchangeable would be inaccurate."
+    },
+    {
+      "sense_id": "omw-en-Twin-09464335-n",
+      "reason": "The source appears to refer to Twin Falls, the waterfall on the Snake River, but the exact headword is \u201cTwin\u201d; the examples instead use it as a person\u2019s name. I cannot make a natural exact-headword example."
+    },
+    {
+      "sense_id": "omw-en-accuracy-04803209-n",
+      "reason": "This WordNet sense conflates accuracy with precision; significant figures describe precision rather than accuracy."
+    },
+    {
+      "sense_id": "omw-en-agriculture-01104406-n",
+      "reason": "Agriculture normally denotes the activity or sector, not a single enterprise; the source\u2019s count-noun sense is questionable."
+    },
+    {
+      "sense_id": "omw-en-agriculture-08075287-n",
+      "reason": "The source defines this as people engaged in food production, but agriculture does not naturally denote a class of people in standard English."
+    },
+    {
+      "sense_id": "omw-en-aim-08680888-n",
+      "reason": "The definition \u201cdirection or path\u201d is usually expressed by course, line, or trajectory; aim is not a natural noun in this sense."
+    },
+    {
+      "sense_id": "omw-en-alpha-01276482-s",
+      "reason": "The sense is clear, but \u201calpha priority\u201d constructions are uncommon and the proposed examples sound unnatural; needs an editorial example."
+    },
+    {
+      "sense_id": "omw-en-bank-02343056-v",
+      "reason": "The provided examples use bank unnaturally or with the separate sense \u201crely on.\u201d I could not write idiomatic examples of the rare sense \u201cbe in the banking business.\u201d"
+    },
+    {
+      "sense_id": "omw-en-beat-00547616-n",
+      "reason": "Beat as a count noun meaning a blow is uncommon; examples are literary."
+    },
+    {
+      "sense_id": "omw-en-beta-01276693-s",
+      "reason": "The supplied \u201cbeta priority\u201d examples are awkward and this ranking use is jargon-like; needs an editorial example."
+    },
+    {
+      "sense_id": "omw-en-bonus-05829656-n",
+      "reason": "The source gloss \u201canything that tends to arouse\u201d appears erroneous or incomplete; ordinary bonus means an extra benefit."
+    },
+    {
+      "sense_id": "omw-en-calculate-00713015-v",
+      "reason": "The intended sense is designing something for a particular audience, but natural examples with calculate are difficult to distinguish from the ordinary computation sense."
+    },
+    {
+      "sense_id": "omw-en-case-06825399-n",
+      "reason": "The supplied examples treat case as a font-style setting (\u201citalic case,\u201d \u201cbold case\u201d), which is not idiomatic. I could not find a natural example for this rare printing sense without confusing it with a physical type case or letter case."
+    },
+    {
+      "sense_id": "omw-en-certification-01139830-n",
+      "reason": "The source links certification with granting a franchise, an unusual distinction from licensing/accreditation."
+    },
+    {
+      "sense_id": "omw-en-charge-01985424-v",
+      "reason": "The supplied examples use charge as a spoken command, but that does not clearly illustrate the listed rare sense of a hunting dog lying down on command. I could not find a natural example that demonstrates the defined use."
+    },
+    {
+      "sense_id": "omw-en-charity-12809626-n",
+      "reason": "The rare plant sense is not familiar under the lemma \u201ccharity\u201d; I cannot confidently write natural examples without risking a wrong plant name."
+    },
+    {
+      "sense_id": "omw-en-check-01064999-v",
+      "reason": "The candidate's examples mistake this rare sense for inspecting or verifying a check; I could not confidently supply natural examples of writing a bank check as a verb."
+    },
+    {
+      "sense_id": "omw-en-colour-07968354-n",
+      "reason": "The base definition relies on obsolete racial categories; examples use a contemporary phrase but do not illustrate the source classification itself."
+    },
+    {
+      "sense_id": "omw-en-comfort-04033995-n",
+      "reason": "The source\u2019s definition appears to describe a comforter or quilt; \u201ccomfort\u201d alone for bedding is dated/regional."
+    },
+    {
+      "sense_id": "omw-en-consideration-13323313-n",
+      "reason": "The base uses \u201cconsideration\u201d for an advance retainer fee, but the supplied examples sound unnatural and this is not a familiar present-day use; I could not confirm an idiomatic example."
+    },
+    {
+      "sense_id": "omw-en-contractor-05289601-n",
+      "reason": "The supplied examples use \u201ccontractor\u201d as an awkward metaphor for the heart and diaphragm; I could not find a natural use of this rare anatomical noun sense."
+    },
+    {
+      "sense_id": "omw-en-convention-01231819-n",
+      "reason": "This act noun is rarely used; \u201cconvening\u201d is more natural in contemporary English."
+    },
+    {
+      "sense_id": "omw-en-crystal-03142834-n",
+      "reason": "The source defines crystal glassware as made from quartz, which is generally inaccurate; plain language notes the correction."
+    },
+    {
+      "sense_id": "omw-en-crystal-03142912-n",
+      "reason": "The source incorrectly equates this sense with silicon; likely refers to a piezoelectric crystal such as quartz."
+    },
+    {
+      "sense_id": "omw-en-crystal-14879750-n",
+      "reason": "The source\u2019s \u201calmost pure silica\u201d is ordinary glass rather than the common meaning of crystal glassware; needs specialist/source-specific context."
+    },
+    {
+      "sense_id": "omw-en-delta-13880102-n",
+      "reason": "Delta commonly names the Greek letter or triangular form, but the gloss \u201cequilateral triangle\u201d is overly specific and examples may be unnatural."
+    },
+    {
+      "sense_id": "omw-en-despite-00418787-n",
+      "reason": "Despite is a preposition, not a noun in contemporary standard English; this source noun sense appears obsolete or invalid."
+    },
+    {
+      "sense_id": "omw-en-despite-07502980-n",
+      "reason": "Despite as a noun meaning intense dislike is obsolete; examples would be forced or confused with spite."
+    },
+    {
+      "sense_id": "omw-en-digest-00397987-v",
+      "reason": "This rare intransitive use of \u201cdigest\u201d for softening or disintegration is difficult to illustrate naturally without risking a wrong sense."
+    },
+    {
+      "sense_id": "omw-en-dress-01042921-s",
+      "reason": "\u201cDress occasion\u201d is awkward; this sense usually appears as \u201cdress occasion\u201d in a formal context but source examples needed."
+    },
+    {
+      "sense_id": "omw-en-drink-09270508-n",
+      "reason": "Drink meaning a large deep body of water is archaic or dialectal; examples are deliberately literary and need source-specific review."
+    },
+    {
+      "sense_id": "omw-en-drug-01200440-v",
+      "reason": "The supplied examples use drug ungrammatically as an intransitive verb. I could not find two idiomatic examples of this uncommon sense without guessing usage."
+    },
+    {
+      "sense_id": "omw-en-dynamic-09179962-n",
+      "reason": "The gloss \u201can efficient incentive\u201d is too vague and does not map clearly to a natural count-noun sense of dynamic."
+    },
+    {
+      "sense_id": "omw-en-erotic-10062716-n",
+      "reason": "The source gloss does not clearly distinguish a sexually arousing person from someone seeking sexual excitement, so natural, sense-specific examples cannot be written confidently."
+    },
+    {
+      "sense_id": "omw-en-ethnic-01784401-s",
+      "reason": "The source gloss uses a rare category for non-Abrahamic religion, while generated examples conflate ethnic identity and belief; retain only the gloss-level clarification."
+    },
+    {
+      "sense_id": "omw-en-ethnic-10065547-n",
+      "reason": "The noun use of ethnic for a person is awkward and can be considered dated or offensive; do not invent learner examples without a usage source."
+    },
+    {
+      "sense_id": "omw-en-fly-00092136-s",
+      "reason": "This British slang adjective sense is dated; examples are plausible but require dialect confirmation."
+    },
+    {
+      "sense_id": "omw-en-fly-04412097-n",
+      "reason": "Fly can mean a tent\u2019s outer rain cover, which differs from the source\u2019s entrance-flap definition; these examples need sense confirmation."
+    },
+    {
+      "sense_id": "omw-en-fruit-01652895-v",
+      "reason": "The base gloss describes a transitive use of fruit meaning to cause a plant to bear fruit, but the candidate examples use fruit in unrelated senses. I could not find natural examples using fruit as a transitive verb in this exact sense."
+    },
+    {
+      "sense_id": "omw-en-fund-02215966-v",
+      "reason": "This uncommon verb sense means investing money in government securities. The supplied examples use \u201cfund\u201d as \u201cfinance/provide money,\u201d and I could not form a natural example that clearly expresses buying or investing in government securities."
+    },
+    {
+      "sense_id": "omw-en-gain-05157574-n",
+      "reason": "The noun gain meaning beneficial quality is rare and current examples misuse the noun as a verb; everyday English uses benefit or advantage."
+    },
+    {
+      "sense_id": "omw-en-gas-00883226-v",
+      "reason": "The supplied examples use gas ungrammatically as a verb. This slang sense is rare, and I could not verify two idiomatic examples meaning \u201cshow off.\u201d"
+    },
+    {
+      "sense_id": "omw-en-gender-06328643-n",
+      "reason": "The source\u2019s generalization about Indo-European gender being usually based on sex or animateness is oversimplified; the examples avoid that claim."
+    },
+    {
+      "sense_id": "omw-en-ground-02022359-v",
+      "reason": "The supplied examples have incorrect verb forms and other senses of ground. I could not produce two natural examples for the rare intransitive sense \u201chit or reach the ground.\u201d"
+    },
+    {
+      "sense_id": "omw-en-happen-00344174-v",
+      "reason": "This \u201ccome into being\u201d use is unusual; normally something comes into being or happens, but idiomatic contexts are limited."
+    },
+    {
+      "sense_id": "omw-en-il-02191139-s",
+      "reason": "The supplied examples do not use \u201cil\u201d naturally as the number 49, and the abbreviation is not a standard way to write that number. I could not create an idiomatic example without inventing usage."
+    },
+    {
+      "sense_id": "omw-en-ill-14055408-n",
+      "reason": "The noun use of ill for a disorder is rare and the generated examples were ungrammatical; no natural example was found."
+    },
+    {
+      "sense_id": "omw-en-import-00932636-v",
+      "reason": "This verb meaning \u201cindicate or signify\u201d is rare; the examples are literary and usage may be dated."
+    },
+    {
+      "sense_id": "omw-en-increasing-02537743-a",
+      "reason": "The source labels \u201cincreasing\u201d as a musical adjective, but neither gloss nor examples establish a clear distinct music sense."
+    },
+    {
+      "sense_id": "omw-en-infection-04811296-n",
+      "reason": "This is a rare international-law use of \u201cinfection\u201d; I cannot form natural example sentences without risking an invented legal claim."
+    },
+    {
+      "sense_id": "omw-en-infection-13498666-n",
+      "reason": "The phonetic sense is highly technical and the candidate examples use \u201cinfection\u201d unnaturally; I am leaving examples unresolved."
+    },
+    {
+      "sense_id": "omw-en-injury-07340249-n",
+      "reason": "WordNet defines this as a casualty, but the lemma injury is not normally used as a count noun for a person; examples are awkward."
+    },
+    {
+      "sense_id": "omw-en-knowing-05804793-n",
+      "reason": "The noun use \u201ca clear and certain mental apprehension\u201d is rare, and I cannot confidently form two natural examples."
+    },
+    {
+      "sense_id": "omw-en-letter-10255207-n",
+      "reason": "This rare historical sense means a person who lets property for hire, but the supplied examples use the unrelated written-message sense. I could not establish a natural, unambiguous example."
+    },
+    {
+      "sense_id": "omw-en-li-02191336-s",
+      "reason": "The lemma is a rare Roman-numeral form; the generated examples used it as if it were a common English word, so no examples are supplied."
+    },
+    {
+      "sense_id": "omw-en-lift-07348399-n",
+      "reason": "The generated examples described a tsunami and an earthquake without context; the rare technical sense needs a sourced example."
+    },
+    {
+      "sense_id": "omw-en-lose-01113806-v",
+      "reason": "The provided examples use lose to mean suffer a loss or concede, not the rare sense \u201cretreat.\u201d I could not find two natural examples of lose meaning retreat."
+    },
+    {
+      "sense_id": "omw-en-married-10295819-n",
+      "reason": "The count-noun use of married for a married person is unnatural in modern English; consider omitting."
+    },
+    {
+      "sense_id": "omw-en-matt-04956110-n",
+      "reason": "The gloss describes a noun meaning a low-gloss, low-contrast quality, but the candidate examples use the adjective matte or a person\u2019s name. I could not write natural examples using matt as a noun in this sense."
+    },
+    {
+      "sense_id": "omw-en-memorial-06688522-n",
+      "reason": "The base defines \u201cmemorial\u201d as recognition of meritorious service, but the supplied examples use it as an award in unnatural phrasing; I could not confirm a natural example for this rare sense."
+    },
+    {
+      "sense_id": "omw-en-metabolism-13514880-n",
+      "reason": "The definition describes metamorphosis, not metabolism; I cannot preserve the target sense without inventing or changing the lemma."
+    },
+    {
+      "sense_id": "omw-en-minor-01721401-s",
+      "reason": "This legal/theological sense is highly specialized; wording about temporal punishment needs expert context before learner examples can be accurate."
+    },
+    {
+      "sense_id": "omw-en-modeling-03779621-n",
+      "reason": "The noun modeling usually names the process, while this gloss describes its sculptural product; generated examples used it unnaturally as a count noun, so examples are withheld."
+    },
+    {
+      "sense_id": "omw-en-notification-01187463-n",
+      "reason": "This rare legal sense is more commonly called a \u201cpresentment\u201d; the supplied examples use \u201cnotification\u201d unnaturally for an indictment, so I cannot confirm idiomatic exact-headword usage."
+    },
+    {
+      "sense_id": "omw-en-organic-14859838-n",
+      "reason": "The noun sense is defined as an organic fertilizer, but the candidate examples use organic as a bare noun in unnatural phrases. I could not find natural examples that use organic itself for this specific fertilizer sense."
+    },
+    {
+      "sense_id": "omw-en-originally-00154725-r",
+      "reason": "The adverbial sense \u201cin an original manner\u201d is rare and can be confused with the usual temporal meaning."
+    },
+    {
+      "sense_id": "omw-en-outlook-00881545-n",
+      "reason": "The examples read as awkward attempts to use \u201coutlook\u201d for a lookout or view; I could not find a natural sentence for the exact sense \u201cthe act of looking out.\u201d"
+    },
+    {
+      "sense_id": "omw-en-paid-01871473-s",
+      "reason": "The definition says this adjective means \u201cyielding a fair profit,\u201d but the supplied examples use paid to mean compensated or sponsored. I could not find a natural example that clearly uses paid in the profitability sense."
+    },
+    {
+      "sense_id": "omw-en-paragraph-01699539-v",
+      "reason": "The gloss describes working as a paragrapher, but I could not write natural examples that use paragraph as a verb in this exact sense without shifting to the separate sense of dividing text into paragraphs."
+    },
+    {
+      "sense_id": "omw-en-participation-13924659-n",
+      "reason": "This sense meaning \u201chaving in common\u201d is unusual for participation; examples risk conflating it with taking part."
+    },
+    {
+      "sense_id": "omw-en-pat-00009859-r",
+      "reason": "The \u201ccompletely or perfectly\u201d adverbial use is uncommon and I cannot confidently form two natural examples."
+    },
+    {
+      "sense_id": "omw-en-permit-01139194-n",
+      "reason": "The noun permit meaning the act of giving authorization is rare; the generated examples illustrate the separate document sense."
+    },
+    {
+      "sense_id": "omw-en-personally-00132060-r",
+      "reason": "This \u201cas a person\u201d adverb sense is rare and overlaps with other senses of personally; I cannot confidently make distinct examples."
+    },
+    {
+      "sense_id": "omw-en-race-11423197-n",
+      "reason": "The supplied definition is a rare technical aeronautical sense; the candidate examples use race for a stream of air but do not establish natural usage of this noun sense."
+    },
+    {
+      "sense_id": "omw-en-rack-01213348-v",
+      "reason": "The candidate does not provide two suitable examples."
+    },
+    {
+      "sense_id": "omw-en-rack-01669419-v",
+      "reason": "The source gives only \u201cwork on a rack,\u201d and I cannot confidently identify what kind of rack or work is intended."
+    },
+    {
+      "sense_id": "omw-en-rack-01940782-v",
+      "reason": "The candidate does not provide two suitable examples."
+    },
+    {
+      "sense_id": "omw-en-rack-01946138-v",
+      "reason": "This rare nautical/weather sense is unclear, and the candidate examples invent unrelated sail and hay actions."
+    },
+    {
+      "sense_id": "omw-en-rack-02408722-v",
+      "reason": "The technical \u201crack and pinion\u201d sense is too specialized for me to write two confident natural examples from this definition."
+    },
+    {
+      "sense_id": "omw-en-regardless-01194099-s",
+      "reason": "This rare adjective use of \u201cregardless\u201d is not idiomatic in current English, and the source\u2019s usual \u201cof\u201d construction is adverbial."
+    },
+    {
+      "sense_id": "omw-en-regulation-13549105-n",
+      "reason": "The specialized embryology sense needs expert validation; simple examples are schematic."
+    },
+    {
+      "sense_id": "omw-en-relation-00845523-n",
+      "reason": "The source sense is an old, anatomically specific definition, while natural present-day examples generally use \u201csexual relations\u201d or \u201csexual intercourse\u201d; these sentences only partly resolve the lexical awkwardness."
+    },
+    {
+      "sense_id": "omw-en-rise-07327288-n",
+      "reason": "The source attributes the origination of the Holy Spirit at Pentecost to \u201crise,\u201d which appears doctrinally or lexically erroneous; requires specialist confirmation."
+    },
+    {
+      "sense_id": "omw-en-roll-00125078-v",
+      "reason": "WordNet gloss is vague; these examples only partly clarify the intended sense."
+    },
+    {
+      "sense_id": "omw-en-roll-02322596-v",
+      "reason": "This dated slang sense is difficult to illustrate naturally; examples are provisional and may conflate cheating with robbery."
+    },
+    {
+      "sense_id": "omw-en-roll-13875970-n",
+      "reason": "The WordNet gloss describes a whorl, but \u201croll\u201d is not a natural learner-facing label for this botanical form."
+    },
+    {
+      "sense_id": "omw-en-row-00445351-n",
+      "reason": "In contemporary usage the sport is normally called rowing; \u201crow\u201d as a count noun is marked and may be source-specific."
+    },
+    {
+      "sense_id": "omw-en-rush-01988829-s",
+      "reason": "The candidate explanation contradicts the source definition \u201cnot accepting reservations,\u201d and this rare use is unclear."
+    },
+    {
+      "sense_id": "omw-en-scheme-00708376-v",
+      "reason": "The verb is awkward in current standard English in this construction; \u201cdevise\u201d or \u201cdraw up\u201d is usual."
+    },
+    {
+      "sense_id": "omw-en-scheme-06756680-n",
+      "reason": "This sense appears to use scheme for an evasive statement, a rare/dated meaning; verify source before retaining."
+    },
+    {
+      "sense_id": "omw-en-secondary-00793592-s",
+      "reason": "The \u201clower class or rank\u201d gloss is potentially misleading and examples risk treating a social hierarchy as natural; use only with a specific historical context."
+    },
+    {
+      "sense_id": "omw-en-seed-13135832-n",
+      "reason": "The candidate examples illustrate plant seeds rather than the unusual gloss \u201ca small hard fruit\u201d; I could not confidently supply examples that distinguish this sense."
+    },
+    {
+      "sense_id": "omw-en-sharing-13843786-n",
+      "reason": "The nominal use meaning \u201chaving in common\u201d is uncommon and examples sound unnatural; consider omitting."
+    },
+    {
+      "sense_id": "omw-en-shower-10070563-n",
+      "reason": "The examples use \u201cshower\u201d metaphorically for a display of art, not for a person who organizes or presents an exhibit; I could not find a natural example for this rare noun sense."
+    },
+    {
+      "sense_id": "omw-en-sky-01512625-v",
+      "reason": "This rare verb meaning lightly toss is obscure and potentially confused with ski; confirm source sense."
+    },
+    {
+      "sense_id": "omw-en-slightly-00458270-r",
+      "reason": "This manner adverb sense is rare; the example \u201cslightly built\u201d is adjectival, so exact adverbial usage remains unclear."
+    },
+    {
+      "sense_id": "omw-en-soil-14498096-n",
+      "reason": "The gloss describes the state of being dirty, but the candidate examples use soil in unidiomatic phrases. I could not produce natural examples using soil as a noun for this state rather than for dirt or earth."
+    },
+    {
+      "sense_id": "omw-en-solo-01257418-n",
+      "reason": "This rare noun use for any unsupported activity is difficult to illustrate naturally; the candidate examples used solo as an adjective."
+    },
+    {
+      "sense_id": "omw-en-somewhere-08489765-n",
+      "reason": "The noun use of \u201csomewhere\u201d is rare and I cannot confidently make natural examples as a noun."
+    },
+    {
+      "sense_id": "omw-en-sponsor-02466134-v",
+      "reason": "This WordNet verb sense means patronize or shop at a business, but sponsor does not naturally express that meaning in contemporary English."
+    },
+    {
+      "sense_id": "omw-en-subscription-00615659-n",
+      "reason": "Subscription meaning the act of signing is dated; signature is the ordinary modern word."
+    },
+    {
+      "sense_id": "omw-en-subscription-07179820-n",
+      "reason": "This legal sense is rare and the examples are awkward; use agreement or signature in ordinary learner content."
+    },
+    {
+      "sense_id": "omw-en-sugar-13385216-n",
+      "reason": "The base gloss gives an informal money sense, but the supplied example sentences use \u201csugar\u201d unnaturally for money; I could not verify a natural context confidently."
+    },
+    {
+      "sense_id": "omw-en-sweet-04994413-n",
+      "reason": "The noun sweet meaning the quality of sugary taste is highly marginal; ordinary usage uses sweetness, so these examples would mislead learners."
+    },
+    {
+      "sense_id": "omw-en-sweet-05716577-n",
+      "reason": "This noun sense is highly marginal in contemporary English; ordinary usage uses sweetness."
+    },
+    {
+      "sense_id": "omw-en-tall-02017721-s",
+      "reason": "This \u201clofty in style\u201d adjective sense is rare and difficult to distinguish from other uses of \u201ctall\u201d in natural examples."
+    },
+    {
+      "sense_id": "omw-en-throughout-00257106-r",
+      "reason": "The supplied definition and candidate examples do not establish a natural adverbial sense of throughout meaning \u201cused to refer to cited works\u201d; ibid. is the cited-work marker in the examples."
+    },
+    {
+      "sense_id": "omw-en-tip-00511178-v",
+      "reason": "This sense is obscure and the exact meaning of \u201cmark with a tip\u201d is uncertain; examples are provisional."
+    },
+    {
+      "sense_id": "omw-en-tip-01924023-v",
+      "reason": "This verb sense is rare and may be confused with tiptoe; the second example is literary and may not be idiomatic."
+    },
+    {
+      "sense_id": "omw-en-tower-04495843-n",
+      "reason": "The base describes a tugboat, but the candidate\u2019s examples use \u201ctugboat,\u201d not the exact headword \u201ctower\u201d; I cannot confirm a natural current use of \u201ctower\u201d for this vessel."
+    },
+    {
+      "sense_id": "omw-en-tropical-01420899-s",
+      "reason": "This rare sense comes from trope and is unrelated to tropical regions; the generated examples conflated the senses, so no examples are supplied."
+    },
+    {
+      "sense_id": "omw-en-wake-00020133-v",
+      "reason": "This rare \u201cbe awake, be alert\u201d verb use is not idiomatic in modern English examples."
+    },
+    {
+      "sense_id": "omw-en-weather-02038278-v",
+      "reason": "I cannot verify a natural current-English example for the rare transitive sense \u201ccause to slope\u201d; generated examples misuse the common verb meaning become eroded by weather."
+    },
+    {
+      "sense_id": "omw-en-won-01452488-a",
+      "reason": "\u201cWon\u201d meaning not subject to defeat is not a normal adjective in contemporary English; source may reflect archaic or erroneous data."
+    },
+    {
+      "sense_id": "omw-en-wow-06778925-n",
+      "reason": "The examples use \u201cwow\u201d to mean something impressive, not a joke that seems extremely funny; I could not find a natural example for this uncommon noun sense."
+    },
+    {
+      "sense_id": "omw-en-xx-02188317-s",
+      "reason": "The generated examples did not demonstrate this lemma naturally in the target sense; hold for editorial review."
+    },
+    {
+      "sense_id": "omw-en-yard-13750844-n",
+      "reason": "The inventory defines \u201cyard\u201d as the number 1,000, but I cannot confidently verify or illustrate this rare usage."
+    }
+  ],
+  "counts": {
+    "annotations": 17775,
+    "concepts_with_added_examples": 6424,
+    "domains": 2715,
+    "examples": 14053,
+    "grammar_notes": 195,
+    "irregular_forms": 88,
+    "new_senses": 0,
+    "new_synsets": 0,
+    "new_words": 0,
+    "plain_language": 14258,
+    "referenced_senses": 20922,
+    "referenced_synsets": 17538,
+    "referenced_words": 6038,
+    "register": 416,
+    "usage": 272,
+    "usage_tips": 124
+  },
+  "inputs": {
+    "inventory.jsonl": "fdd96b6d0f2eb217b9fa7e8528a83a5a4f5666936d91e829558e2e11e3b0b243",
+    "reviewed-records.jsonl.xz": "886e9a95959037ad88f6f99879f451eac167cb90f00e38595216e11d1ee0eb9b",
+    "withheld.jsonl": "538d113c8bf1da7e6cf3f4f220b2ecd4aa5af8ab9f0798a541975d98f3818685"
+  },
+  "extension_sha256": "3425e6d7cbd72582a0019d39cae3c97e77802ac51e23a809e04210e0b711dc2a"
+}

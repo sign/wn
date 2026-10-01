@@ -20,6 +20,7 @@ from wn._queries import (
 )
 from wn._types import AnyPath
 from wn._util import format_lexicon_specifier, normalize_form
+from wn.learner import ANNOTATION_TYPE, decode_learner_data
 from wn.project import iterpackages
 from wn.util import ProgressBar, ProgressHandler
 
@@ -519,6 +520,9 @@ def _insert_synset_definitions(
         VALUES (null,?,({SYNSET_QUERY}),?,?,({SENSE_QUERY}),?)
     """
     for batch in _batch(synsets):
+        for synset in batch:
+            for definition in synset.get("definitions", []):
+                _validate_learner_target(synset["id"], definition, lexid, lexidmap, cur)
         data = [
             (
                 lexid,
@@ -535,6 +539,41 @@ def _insert_synset_definitions(
         ]
         cur.executemany(query, data)
         progress.update(len(data))
+
+
+def _validate_learner_target(
+    synset: str,
+    definition: lmf.Definition,
+    lexid: int,
+    lexidmap: _LexIdMap,
+    cur: sqlite3.Cursor,
+) -> None:
+    meta = definition.get("meta") or {}
+    if meta.get("type") != ANNOTATION_TYPE:
+        return
+    fields = decode_learner_data(
+        definition["text"], definition.get("sourceSense"), "", meta, set()
+    )
+    if fields["scope"] == "synset":
+        return
+    params: tuple[str | int, ...]
+    if fields["scope"] == "sense":
+        target = fields["source_sense_id"]
+        condition = "s.id = ? AND s.lexicon_rowid = ?"
+        params = (target, lexidmap.get(target, lexid))
+    else:
+        condition = "e.id = ?"
+        params = (fields["word_id"],)
+    query = f"""
+        SELECT 1 FROM senses AS s
+          JOIN entries AS e ON e.rowid = s.entry_rowid
+          JOIN synsets AS ss ON ss.rowid = s.synset_rowid
+         WHERE ss.id = ? AND ss.lexicon_rowid = ? AND {condition}
+    """
+    if not cur.execute(
+        query, (synset, lexidmap.get(synset, lexid), *params)
+    ).fetchone():
+        raise Error("learner annotation target is not a member of its synset")
 
 
 def _insert_synset_relations(
