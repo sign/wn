@@ -16,7 +16,7 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
-PROMPT_VERSION = "english-learner-6"
+PROMPT_VERSION = "english-learner-7"
 SYSTEM = """You are a careful English lexicographer enriching existing WordNet meanings.
 Return one item for every input id, preserving order. Do not create or merge
 meanings. The supplied definition identifies the intended sense; other_meanings are
@@ -434,7 +434,10 @@ def expand_inventory(rows, context_rows=None):
 
 def output_record(row, item, args):
     sense = row["senses"][0]
+    if not isinstance(args.author_run, str) or not args.author_run.strip():
+        raise ValueError("generation requires a nonempty author_run")
     return {
+        "author_run": args.author_run,
         "word": sense["lemma"],
         "frequency_word": row["word"],
         "frequency_rank": row["frequency_rank"],
@@ -494,7 +497,7 @@ def process_batch(batch, args):
         return records, errors
 
 
-def read_completed(path, model, model_revision=None):
+def read_completed(path, model, model_revision=None, author_run=None):
     if not path.exists():
         return set()
     try:
@@ -515,6 +518,7 @@ def read_completed(path, model, model_revision=None):
         and r["prompt_version"] == PROMPT_VERSION
         and r.get("prompt_hash") == PROMPT_HASH
         and r.get("model_revision") == model_revision
+        and r.get("author_run") == author_run
     }
 
 
@@ -527,6 +531,11 @@ def main():
     parser.add_argument("--api", choices=("ollama", "openai"), default="ollama")
     parser.add_argument("--model", default="gpt-oss:120b")
     parser.add_argument("--model-revision")
+    parser.add_argument(
+        "--author-run",
+        required=True,
+        help="Author identity/run ID; must differ from the independent review_run",
+    )
     parser.add_argument("--batch-size", type=int, default=4)
     parser.add_argument("--workers", type=int, default=1)
     parser.add_argument("--shard", type=int, default=0)
@@ -534,6 +543,8 @@ def main():
     parser.add_argument("--limit", type=int)
     parser.add_argument("--timeout", type=int, default=600)
     args = parser.parse_args()
+    if not args.author_run.strip():
+        parser.error("--author-run must be nonempty")
     if not 0 <= args.shard < args.shards or not 1 <= args.batch_size <= 8:
         parser.error("Require 0 <= shard < shards and 1 <= batch-size <= 8")
     if not 1 <= args.workers <= 16:
@@ -553,7 +564,9 @@ def main():
         else None,
     )
     rows = [row for i, row in enumerate(rows) if i % args.shards == args.shard]
-    completed = read_completed(args.output, args.model, args.model_revision)
+    completed = read_completed(
+        args.output, args.model, args.model_revision, args.author_run
+    )
     rows = [row for row in rows if input_hash(row) not in completed]
     if args.limit:
         rows = rows[: args.limit]

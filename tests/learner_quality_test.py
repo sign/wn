@@ -440,10 +440,28 @@ def test_quarantine_preserves_bad_source_and_never_publishes_partial_review(sour
     assert result["withheld"][0]["sense_id"] == "love-1-n"
     assert "Target is used as a verb" in result["withheld"][0]["reason"]
     assert records == original
-    revised = [{**records[0], "requires_semantic_review": True}]
+    revised = [{**records[0], "requires_semantic_review": True, "author_run": "author"}]
+    item = quality.review_items(revised, inventory)[0]
     approved = apply.select_reviewed(
         revised, inventory, [decision(item)], fixtures, controls, []
     )["accepted"][0]
     assert approved["reviewer"] == quality.REVIEWER
     assert approved["review_status"] == "ai-reviewed"
     assert "reviewer" not in revised[0]
+
+
+@pytest.mark.parametrize("author", [None, "", " ", 123])
+def test_authored_correction_requires_author_identity(source, author):
+    records, inventory = source
+    records[0].update(requires_semantic_review=True, author_run=author)
+    with pytest.raises(ValueError, match="requires author_run"):
+        quality.review_items(records, inventory)
+
+
+def test_new_generator_requires_author_even_for_empty_output(source):
+    records, inventory = source
+    records[0].pop("examples")
+    records[0].pop("plain_language")
+    records[0]["prompt_version"] = "english-learner-7"
+    with pytest.raises(ValueError, match="requires author_run"):
+        quality.review_items(records, inventory)

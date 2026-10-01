@@ -1,7 +1,9 @@
 """Generator safeguards must reject malformed or mis-targeted enrichment."""
 
 import importlib.util
+import json
 from pathlib import Path
+from types import SimpleNamespace
 
 import pytest
 
@@ -226,3 +228,32 @@ def test_malformed_openai_usage_is_rejected():
             },
             "openai",
         )
+
+
+def test_generated_correction_binds_author_and_resume_checkpoint(tmp_path):
+    row = {
+        "word": "love",
+        "frequency_rank": 1,
+        "synset_id": "love-n-1",
+        "definitions": ["a beloved person"],
+        "correction": {"issues": []},
+        "senses": [{"lemma": "love", "entry_id": "love-n", "sense_id": "love-1"}],
+    }
+    args = SimpleNamespace(
+        author_run="author-1", model="test-model", model_revision="rev", api="openai"
+    )
+    record = generator.output_record(row, {"enrichment": {}}, args)
+    assert record["author_run"] == "author-1"
+    assert record["requires_semantic_review"] is True
+    path = tmp_path / "checkpoint.jsonl"
+    path.write_text(json.dumps(record) + "\n")
+    assert generator.read_completed(path, "test-model", "rev", "author-1") == {
+        record["input_hash"]
+    }
+    assert not generator.read_completed(path, "test-model", "rev", "another-author")
+    record.pop("author_run")
+    path.write_text(json.dumps(record) + "\n")
+    assert generator.read_completed(path, "test-model", "rev", "author-1") == set()
+    args.author_run = " "
+    with pytest.raises(ValueError, match="nonempty author_run"):
+        generator.output_record(row, {"enrichment": {}}, args)
