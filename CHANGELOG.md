@@ -2,6 +2,18 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.9.2]
+
+**Release date: 2026-10-01**
+
+### Added
+
+* Possessive `'s` (also `’s`) as an English particle, with examples for
+  possession and association. Docker merges this dictionary extra into
+  `omw-en:1.4`. Its stable concept ID is `omw-en-extra-possessive-s-y`.
+  ([sign/wn#10](https://github.com/sign/wn/pull/10))
+
+
 ## [v1.9.1]
 
 **Release date: 2026-10-01**
