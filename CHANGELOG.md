@@ -2,6 +2,18 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.9.3]
+
+**Release date: 2026-10-03**
+
+### Changed
+
+* Docker images now install the reviewed English learner extension by default,
+  serving its 14,048 examples and learner annotations alongside original WordNet
+  content. The quality gate and 100 withheld senses are unchanged.
+* Set `--build-arg INSTALL_ENGLISH_LEARNER=false` to build without the extension.
+
+
 ## [v1.9.2]
 
 **Release date: 2026-10-01**

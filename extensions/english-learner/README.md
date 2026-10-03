@@ -26,8 +26,8 @@ removes its additions without rewriting the base lexicon. Unlike the separate
 Wikidata lexeme import, this extension does not need a destructive database
 merge.
 
-Docker builds validate the packaged release but do not install it by default.
-Use `--build-arg INSTALL_ENGLISH_LEARNER=true` to explicitly opt in.
+Docker builds validate and install the reviewed extension by default.
+Use `--build-arg INSTALL_ENGLISH_LEARNER=false` to build without learner content.
 
 ## Data contract
 
