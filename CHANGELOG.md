@@ -2,6 +2,17 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.9.4]
+
+**Release date: 2026-10-03**
+
+### Fixed
+
+* Import learner content with the supported `wn.add()` Python API. The previous
+  Docker command used a nonexistent `add` CLI subcommand, preventing v1.9.3's
+  image from publishing. Learner content remains enabled by default.
+
+
 ## [v1.9.3]
 
 **Release date: 2026-10-03**

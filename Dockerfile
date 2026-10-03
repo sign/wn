@@ -36,7 +36,7 @@ ARG INSTALL_ENGLISH_LEARNER=true
 COPY extensions/english-learner/ ./extensions/english-learner/
 RUN python extensions/english-learner/check_release.py && \
     case "$INSTALL_ENGLISH_LEARNER" in \
-      true) python -m wn add extensions/english-learner/rylo-en-learner.xml.gz ;; \
+      true) python -c "import wn; wn.add('extensions/english-learner/rylo-en-learner.xml.gz', progress_handler=None)" ;; \
       false) echo "Learner content not installed" ;; \
       *) echo "INSTALL_ENGLISH_LEARNER must be true or false" >&2; exit 1 ;; \
     esac
