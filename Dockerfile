@@ -31,8 +31,8 @@ RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-le
 COPY extensions/extras/ ./extensions/extras/
 RUN python extensions/wikidata-lexemes/merge_extension.py extensions/extras/*.xml
 
-# Reviewed learner content is opt-in until the dictionary exposes AI attribution.
-ARG INSTALL_ENGLISH_LEARNER=false
+# Install the reviewed learner extension by default; minimal builds can opt out.
+ARG INSTALL_ENGLISH_LEARNER=true
 COPY extensions/english-learner/ ./extensions/english-learner/
 RUN python extensions/english-learner/check_release.py && \
     case "$INSTALL_ENGLISH_LEARNER" in \
