@@ -2,6 +2,20 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.10.0]
+
+**Release date: 2026-10-17**
+
+### Added
+
+* Add 452 sense-specific English examples, including all six existing senses
+  of **to**, after checking Wikidata meanings and documenting uncertain senses.
+* Pin the top 1,000 frequency-ranked spellings with dictionary entries and
+  verify that every selected spelling has an example containing that word.
+* Load the examples during Docker builds without replacing existing content,
+  retaining AI provenance and keeping examples scoped to their source sense.
+
+
 ## [v1.9.4]
 
 **Release date: 2026-10-03**
@@ -1147,6 +1161,7 @@ abandoned, but this is an entirely new codebase.
 [v0.1.1]: ../../releases/tag/v0.1.1
 [v0.1.0]: ../../releases/tag/v0.1.0
 [unreleased]: ../../tree/main
+[v1.10.0]: ../../releases/tag/v1.10.0
 
 [#7]: https://github.com/goodmami/wn/issues/7
 [#8]: https://github.com/goodmami/wn/issues/8

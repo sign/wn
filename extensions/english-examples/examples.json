@@ -1,0 +1,2748 @@
+[
+  {
+    "word": "to",
+    "sense": "L1327670-S1",
+    "definition": "directed towards, approaching, reaching",
+    "example": "The boat rocked to and fro in the waves."
+  },
+  {
+    "word": "to",
+    "sense": "L2985-S1",
+    "definition": "(word used with the present form of a verb to mark it as being an infinitive)",
+    "example": "I want to learn a new language."
+  },
+  {
+    "word": "to",
+    "sense": "L248738-S1",
+    "definition": "(indicating movement, direction towards a place)",
+    "example": "We walked to the station."
+  },
+  {
+    "word": "to",
+    "sense": "L248738-S2",
+    "definition": "before, until (indicating relation to a position in time)",
+    "example": "The clock showed ten minutes to noon."
+  },
+  {
+    "word": "to",
+    "sense": "L248738-S3",
+    "definition": "(indicating application of or benefactive relationship with)",
+    "example": "Your kindness means a lot to me."
+  },
+  {
+    "word": "to",
+    "sense": "L1327669-S1",
+    "definition": "(linking a destination, subject of approach)",
+    "example": "Come to where I am standing."
+  },
+  {
+    "word": "it",
+    "sense": "L507-S1",
+    "definition": "inanimate object or animal",
+    "example": "I found a small key and put it in my pocket."
+  },
+  {
+    "word": "and",
+    "sense": "L1385-S1",
+    "definition": "joins words and sentence parts together",
+    "example": "We bought bread and milk."
+  },
+  {
+    "word": "what",
+    "sense": "L57-S1",
+    "definition": "which thing, which object",
+    "example": "What is inside the box?"
+  },
+  {
+    "word": "he",
+    "sense": "L485-S1",
+    "definition": "male person or animal already known or implied",
+    "example": "My brother is here, and he brought lunch."
+  },
+  {
+    "word": "your",
+    "sense": "L494-S1",
+    "definition": "(second-person possessive) belonging to you",
+    "example": "Is this your coat?"
+  },
+  {
+    "word": "are",
+    "sense": "omw-en-be-02604760-v",
+    "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+    "example": "The children are tired after the walk."
+  },
+  {
+    "word": "can",
+    "sense": "L1888-S1",
+    "definition": "able to do something",
+    "example": "I can swim across the pool."
+  },
+  {
+    "word": "with",
+    "sense": "L2991-S1",
+    "definition": "In addition to; as an accessory to",
+    "example": "I ordered a sandwich with cheese."
+  },
+  {
+    "word": "they",
+    "sense": "L371-S2",
+    "definition": "group of people, animals, plants or objects previously mentioned",
+    "example": "The visitors arrived early, so they waited outside."
+  },
+  {
+    "word": "she",
+    "sense": "L484-S1",
+    "definition": "female person or animal previously mentioned or implied",
+    "example": "My sister called to say she was home."
+  },
+  {
+    "word": "if",
+    "sense": "L3003-S1",
+    "definition": "conditional conjunction",
+    "example": "We will eat outside if the weather stays warm."
+  },
+  {
+    "word": "at",
+    "sense": "L3263-S2",
+    "definition": "indicating a location for an event",
+    "example": "We met at the library."
+  },
+  {
+    "word": "him",
+    "sense": "L485-S1",
+    "definition": "male person or animal already known or implied",
+    "example": "My brother forgot his lunch, so I brought it to him."
+  },
+  {
+    "word": "oh",
+    "sense": "L4327-S1",
+    "definition": "denoting something learned",
+    "example": "Oh, I did not realize the shop was closed."
+  },
+  {
+    "word": "her",
+    "sense": "L1403036-S1",
+    "definition": "(third person possessive singular; belonging to a female being)",
+    "example": "She hung her coat by the door."
+  },
+  {
+    "word": "how",
+    "sense": "L65-S1",
+    "definition": "which mode",
+    "example": "How do you open this window?"
+  },
+  {
+    "word": "his",
+    "sense": "L1370856-S1",
+    "definition": "(third-person singular masculine personal possessive) belonging to him",
+    "example": "He left his shoes by the stairs."
+  },
+  {
+    "word": "us",
+    "sense": "L483-S1",
+    "definition": "speakers/writers, or the speaker/writer and at least one other person",
+    "example": "Our neighbors invited us to dinner."
+  },
+  {
+    "word": "would",
+    "sense": "L1889-S1",
+    "definition": "(auxiliary) expressing the future tense",
+    "example": "She said she would call the next day."
+  },
+  {
+    "word": "them",
+    "sense": "L371-S2",
+    "definition": "group of people, animals, plants or objects previously mentioned",
+    "example": "The children were hungry, so I made them lunch."
+  },
+  {
+    "word": "or",
+    "sense": "L1386-S1",
+    "definition": "connects at least two alternatives (inclusive)",
+    "example": "You can bring a pen or a pencil."
+  },
+  {
+    "word": "been",
+    "sense": "omw-en-be-02604760-v",
+    "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+    "example": "I have been busy all morning."
+  },
+  {
+    "word": "our",
+    "sense": "L1367832-S1",
+    "definition": "(first-person plural possessive) belonging to us",
+    "example": "We planted a tree in our garden."
+  },
+  {
+    "word": "hey",
+    "sense": "L14900-S1",
+    "definition": "interrupting another",
+    "example": "Hey, you dropped your keys!"
+  },
+  {
+    "word": "could",
+    "sense": "L1888-S1",
+    "definition": "able to do something",
+    "example": "When I was younger, I could run for hours."
+  },
+  {
+    "word": "something",
+    "sense": "L4318-S1",
+    "definition": "an uncertain or unspecified thing; one thing",
+    "example": "There is something inside this envelope."
+  },
+  {
+    "word": "because",
+    "sense": "L3227-S1",
+    "definition": "for the reason that; the fact that",
+    "example": "We stayed indoors because it was raining."
+  },
+  {
+    "word": "should",
+    "sense": "L1891-WKT1",
+    "definition": "Used before a verb to indicate the simple future tense in the first person singular or plural.",
+    "example": "We should reach the village before nightfall."
+  },
+  {
+    "word": "am",
+    "sense": "omw-en-be-02604760-v",
+    "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+    "example": "I am ready for the trip."
+  },
+  {
+    "word": "thank",
+    "sense": "omw-en-thank-00892315-v",
+    "definition": "express gratitude or show appreciation to",
+    "example": "I want to thank you for your help."
+  },
+  {
+    "word": "doing",
+    "sense": "L319686-S1",
+    "definition": "the act of causing something to happen by taking action, performing, or doing something",
+    "example": "What are you doing with that paint?"
+  },
+  {
+    "word": "these",
+    "sense": "L2994-S1",
+    "definition": "The (thing) here (used in indicating something or someone nearby).",
+    "example": "Please put these books on the shelf beside me."
+  },
+  {
+    "word": "into",
+    "sense": "L3042-S1",
+    "definition": "to move inside of (something)",
+    "example": "The cat jumped into the empty box."
+  },
+  {
+    "word": "sir",
+    "sense": "omw-en-sir-10601451-n",
+    "definition": "term of address for a man",
+    "example": "Can I help you carry that bag, sir?"
+  },
+  {
+    "word": "their",
+    "sense": "L1367836-S1",
+    "definition": "(third-person plural possessive) belonging to them",
+    "example": "The children put their toys away."
+  },
+  {
+    "word": "maybe",
+    "sense": "omw-en-maybe-00300247-r",
+    "definition": "by chance",
+    "example": "Maybe we can visit the museum tomorrow."
+  },
+  {
+    "word": "than",
+    "sense": "L3206-S1",
+    "definition": "English function word",
+    "example": "This bag is heavier than that one."
+  },
+  {
+    "word": "those",
+    "sense": "L3229-S1",
+    "definition": "The (thing, person, idea, etc) indicated or understood from context, especially if more remote physically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+    "example": "Those houses across the river are very old."
+  },
+  {
+    "word": "everything",
+    "sense": "L4041-S1",
+    "definition": "metaphysics term designating all that exists",
+    "example": "Everything in the universe is made of matter or energy."
+  },
+  {
+    "word": "mr.",
+    "sense": "omw-en-Mr.-06341340-n",
+    "definition": "a form of address for a man",
+    "example": "Mr. Patel lives next door."
+  },
+  {
+    "word": "isn",
+    "sense": "omw-en-ISN-08344301-n",
+    "definition": "Switzerland's information network for security and defense studies and for peace and conflict research and for international relations",
+    "example": "The researcher searched the ISN for papers on international security."
+  },
+  {
+    "word": "which",
+    "sense": "L43819-S2",
+    "definition": "interrogative word",
+    "example": "Which path leads to the lake?"
+  },
+  {
+    "word": "hello",
+    "sense": "L8885-S1",
+    "definition": "greeting of non-binding nature",
+    "example": "Hello, it is good to see you again!"
+  },
+  {
+    "word": "someone",
+    "sense": "L5366-S1",
+    "definition": "some person",
+    "example": "Someone left a scarf on the bench."
+  },
+  {
+    "word": "ok",
+    "sense": "L5836-S1",
+    "definition": "denoting approval",
+    "example": "OK, I will meet you at six."
+  },
+  {
+    "word": "dad",
+    "sense": "omw-en-dad-09988063-n",
+    "definition": "an informal term for a father; probably derived from baby talk",
+    "example": "My dad taught me how to ride a bike."
+  },
+  {
+    "word": "may",
+    "sense": "L1890-S2",
+    "definition": "permitted to",
+    "example": "You may borrow my umbrella."
+  },
+  {
+    "word": "might",
+    "sense": "L1890-S1",
+    "definition": "perhaps, possibly",
+    "example": "It might rain this afternoon."
+  },
+  {
+    "word": "three",
+    "sense": "L330-S1",
+    "definition": "the number 3 between two and four",
+    "example": "There are three apples in the bowl."
+  },
+  {
+    "word": "else",
+    "sense": "L4023-S1",
+    "definition": "other, different",
+    "example": "Would you like anything else to eat?"
+  },
+  {
+    "word": "talking",
+    "sense": "omw-en-talking-07135734-n",
+    "definition": "an exchange of ideas via conversation",
+    "example": "The talking in the next room kept me awake."
+  },
+  {
+    "word": "hi",
+    "sense": "L9614-S1",
+    "definition": "greeting used when meeting someone",
+    "example": "Hi, how was your weekend?"
+  },
+  {
+    "word": "mom",
+    "sense": "omw-en-mom-10278128-n",
+    "definition": "informal terms for a mother",
+    "example": "My mom is baking bread today."
+  },
+  {
+    "word": "yourself",
+    "sense": "L1143893-S1",
+    "definition": "(relexive pronoun for the second person) that which belongs to you",
+    "example": "You can make yourself a cup of tea."
+  },
+  {
+    "word": "without",
+    "sense": "L5211-S1",
+    "definition": "not containing or using",
+    "example": "I drink my tea without sugar."
+  },
+  {
+    "word": "huh",
+    "sense": "L14920-S1",
+    "definition": "denoting thoughtfulness",
+    "example": "Huh, I wonder why this key does not fit."
+  },
+  {
+    "word": "fuck",
+    "sense": "L713632-S1",
+    "definition": "used to express discontent or dismay",
+    "example": "Fuck, I just missed the last train!"
+  },
+  {
+    "word": "also",
+    "sense": "omw-en-also-00047534-r",
+    "definition": "in addition",
+    "example": "She speaks French and also understands Italian."
+  },
+  {
+    "word": "haven",
+    "sense": "omw-en-haven-03499796-n",
+    "definition": "a shelter serving as a place of safety or sanctuary",
+    "example": "The quiet garden became a haven from the busy streets."
+  },
+  {
+    "word": "since",
+    "sense": "L5208-S1",
+    "definition": "after a point in time",
+    "example": "I have lived here since last winter."
+  },
+  {
+    "word": "wife",
+    "sense": "omw-en-wife-10780632-n",
+    "definition": "a married woman; a man's partner in marriage",
+    "example": "He and his wife went for a walk."
+  },
+  {
+    "word": "everyone",
+    "sense": "L4040-S1",
+    "definition": "Every person",
+    "example": "Everyone in the class finished the exercise."
+  },
+  {
+    "word": "ah",
+    "sense": "L14660-S1",
+    "definition": "expression of surprise",
+    "example": "Ah, so that is where you hid the present!"
+  },
+  {
+    "word": "myself",
+    "sense": "L1143892-S1",
+    "definition": "(reflexive pronoun for the first person singular)",
+    "example": "I made this wooden shelf myself."
+  },
+  {
+    "word": "um",
+    "sense": "L15598-S1",
+    "definition": "express uncertainty or hesitation",
+    "example": "Um, I need a moment to think about that."
+  },
+  {
+    "word": "saying",
+    "sense": "omw-en-saying-07151380-n",
+    "definition": "a word or phrase that particular people use in particular situations",
+    "example": "My grandmother has a saying for every occasion."
+  },
+  {
+    "word": "phone",
+    "sense": "omw-en-phone-04401088-n",
+    "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+    "example": "I left my phone on the kitchen table."
+  },
+  {
+    "word": "friends",
+    "sense": "L1519335-S1",
+    "definition": "add/request as a 'friend' on social media",
+    "example": "She friends people online after meeting them at work."
+  },
+  {
+    "word": "until",
+    "sense": "L5221-S1",
+    "definition": "up to a certain point in time",
+    "example": "The library is open until eight tonight."
+  },
+  {
+    "word": "police",
+    "sense": "omw-en-police-08209687-n",
+    "definition": "the force of policemen and officers",
+    "example": "The police helped the lost child find her parents."
+  },
+  {
+    "word": "everybody",
+    "sense": "L4039-S1",
+    "definition": "every person, everyone",
+    "example": "Everybody is welcome at the neighborhood picnic."
+  },
+  {
+    "word": "its",
+    "sense": "L1367837-S1",
+    "definition": "(third-person singular impersonal possessive) belonging to it",
+    "example": "The dog wagged its tail."
+  },
+  {
+    "word": "minutes",
+    "sense": "omw-en-minutes-06508112-n",
+    "definition": "a written account of what transpired at a meeting",
+    "example": "The secretary sent us the minutes of the meeting."
+  },
+  {
+    "word": "somebody",
+    "sense": "L5367-S1",
+    "definition": "unknown or unspecified person",
+    "example": "Somebody is waiting outside the door."
+  },
+  {
+    "word": "four",
+    "sense": "L332-S1",
+    "definition": "the number 4 between three and five",
+    "example": "We need four chairs around this table."
+  },
+  {
+    "word": "against",
+    "sense": "L4483-S2",
+    "definition": "in physical contact with",
+    "example": "She leaned the ladder against the wall."
+  },
+  {
+    "word": "husband",
+    "sense": "omw-en-husband-10193967-n",
+    "definition": "a married man; a woman's partner in marriage",
+    "example": "Her husband works at the local school."
+  },
+  {
+    "word": "nobody",
+    "sense": "L6123-S1",
+    "definition": "no person",
+    "example": "Nobody knew where the missing key was."
+  },
+  {
+    "word": "mr",
+    "sense": "omw-en-Mr-06341340-n",
+    "definition": "a form of address for a man",
+    "example": "Mr Lee will lead the meeting today."
+  },
+  {
+    "word": "goes",
+    "sense": "omw-en-go-00787061-n",
+    "definition": "a usually brief attempt",
+    "example": "It took me three goes to solve the puzzle."
+  },
+  {
+    "word": "playing",
+    "sense": "omw-en-playing-00101191-n",
+    "definition": "the act of playing a musical instrument",
+    "example": "Her piano playing filled the room with music."
+  },
+  {
+    "word": "dr.",
+    "sense": "omw-en-Dr.-10020890-n",
+    "definition": "a licensed medical practitioner",
+    "example": "Dr. Khan examined my sore throat."
+  },
+  {
+    "word": "yours",
+    "sense": "L494-S1",
+    "definition": "(second-person possessive) belonging to you",
+    "example": "This blue umbrella is yours."
+  },
+  {
+    "word": "wow",
+    "sense": "L15399-S1",
+    "definition": "Expression of awe, terror, surprise or astonishment",
+    "example": "Wow, that cake looks amazing!"
+  },
+  {
+    "word": "whoa",
+    "sense": "L17450-S1",
+    "definition": "used to express surprise, interest, or alarm, or to command attention",
+    "example": "Whoa, that bicycle nearly hit the wall!"
+  },
+  {
+    "word": "honey",
+    "sense": "omw-en-honey-07858978-n",
+    "definition": "a sweet yellow liquid produced by bees",
+    "example": "She stirred a spoonful of honey into her tea."
+  },
+  {
+    "word": "team",
+    "sense": "omw-en-team-08208560-n",
+    "definition": "a cooperative unit (especially in sports)",
+    "example": "Our team won the final match."
+  },
+  {
+    "word": "become",
+    "sense": "omw-en-become-00149583-v",
+    "definition": "enter or assume a certain state or condition",
+    "example": "The sky will become darker after sunset."
+  },
+  {
+    "word": "l",
+    "sense": "omw-en-l-06832356-n",
+    "definition": "the 12th letter of the Roman alphabet",
+    "example": "The lowercase letter l looks like a tall straight line in this font."
+  },
+  {
+    "word": "lord",
+    "sense": "omw-en-Lord-10271677-n",
+    "definition": "a titled peer of the realm",
+    "example": "The lord invited the villagers into his hall."
+  },
+  {
+    "word": "six",
+    "sense": "L334-S1",
+    "definition": "the number 6",
+    "example": "We planted six trees along the path."
+  },
+  {
+    "word": "mrs.",
+    "sense": "omw-en-Mrs.-06341431-n",
+    "definition": "a form of address for a married woman",
+    "example": "Mrs. Evans brought flowers from her garden."
+  },
+  {
+    "word": "lose",
+    "sense": "omw-en-lose-01503101-v",
+    "definition": "place (something) where one cannot find it again",
+    "example": "Be careful not to lose your keys."
+  },
+  {
+    "word": "leaving",
+    "sense": "L1402147-S1",
+    "definition": "departing, going",
+    "example": "The leaving guests waved from the gate."
+  },
+  {
+    "word": "ma",
+    "sense": "omw-en-ma-10278128-n",
+    "definition": "informal terms for a mother",
+    "example": "Ma packed a sandwich for my lunch."
+  },
+  {
+    "word": "lives",
+    "sense": "omw-en-life-13961399-n",
+    "definition": "the course of existence of an individual; the actions and events that occur in living",
+    "example": "The book tells the stories of ordinary people's lives."
+  },
+  {
+    "word": "s",
+    "sense": "omw-en-s-06833112-n",
+    "definition": "the 19th letter of the Roman alphabet",
+    "example": "The letter s appears twice in the word sister."
+  },
+  {
+    "word": "john",
+    "sense": "omw-en-john-04446276-n",
+    "definition": "a room or building equipped with one or more toilets",
+    "example": "Excuse me, where is the john?"
+  },
+  {
+    "word": "himself",
+    "sense": "L1411678-S1",
+    "definition": "(third-person singular reflexive personal pronoun used with male human or anthropomorphized referrents)",
+    "example": "He taught himself to play the guitar."
+  },
+  {
+    "word": "ha",
+    "sense": "L14888-S1",
+    "definition": "expressing unbelief",
+    "example": "Ha, you expect me to believe that excuse?"
+  },
+  {
+    "word": "ass",
+    "sense": "omw-en-ass-02389346-n",
+    "definition": "hardy and sure-footed animal smaller and with longer ears than the horse",
+    "example": "The farmer loaded the sacks onto the ass."
+  },
+  {
+    "word": "cannot",
+    "sense": "L16211-S1",
+    "definition": "can not; am/is/are unable to",
+    "example": "I cannot reach the top shelf."
+  },
+  {
+    "word": "asking",
+    "sense": "omw-en-asking-07185325-n",
+    "definition": "the verbal act of requesting",
+    "example": "There is no harm in asking for help."
+  },
+  {
+    "word": "hmm",
+    "sense": "L1508842-S2",
+    "definition": "expression of thinking",
+    "example": "Hmm, perhaps the answer is on the next page."
+  },
+  {
+    "word": "murder",
+    "sense": "omw-en-murder-00220522-n",
+    "definition": "unlawful premeditated killing of a human being by a human being",
+    "example": "The detective investigated a murder in the village."
+  },
+  {
+    "word": "daddy",
+    "sense": "omw-en-daddy-09988063-n",
+    "definition": "an informal term for a father; probably derived from baby talk",
+    "example": "The little girl ran to greet her daddy."
+  },
+  {
+    "word": "finally",
+    "sense": "omw-en-finally-00048138-r",
+    "definition": "after an unspecified period of time or an especially long delay",
+    "example": "After an hour of waiting, the bus finally arrived."
+  },
+  {
+    "word": "hospital",
+    "sense": "omw-en-hospital-03540595-n",
+    "definition": "a health facility where patients receive treatment",
+    "example": "She went to the hospital for an operation."
+  },
+  {
+    "word": "million",
+    "sense": "L2264-S1",
+    "definition": "sixth power of ten",
+    "example": "The city has more than a million residents."
+  },
+  {
+    "word": "jesus",
+    "sense": "omw-en-Jesus-11083656-n",
+    "definition": "a teacher and prophet born in Bethlehem and active in Nazareth; his life and sermons form the basis for Christianity (circa 4 BC - AD 29)",
+    "example": "The painting shows Jesus speaking to his disciples."
+  },
+  {
+    "word": "calling",
+    "sense": "omw-en-calling-00583246-n",
+    "definition": "the particular occupation for which you are trained",
+    "example": "She felt that teaching was her true calling."
+  },
+  {
+    "word": "ooh",
+    "sense": "L334009-WKT1",
+    "definition": "An expression of surprise.",
+    "example": "Ooh, what a beautiful view!"
+  },
+  {
+    "word": "wonderful",
+    "sense": "omw-en-wonderful-01676517-s",
+    "definition": "extraordinarily good or great ; used especially as intensifiers",
+    "example": "We had a wonderful day at the beach."
+  },
+  {
+    "word": "turned",
+    "sense": "omw-en-turned-02369869-s",
+    "definition": "in an unpalatable state",
+    "example": "The turned milk smelled sour."
+  },
+  {
+    "word": "learn",
+    "sense": "omw-en-learn-00597915-v",
+    "definition": "gain knowledge or skills",
+    "example": "I want to learn how to sew."
+  },
+  {
+    "word": "darling",
+    "sense": "omw-en-darling-09991867-n",
+    "definition": "a special loved one",
+    "example": "Come here, darling, and sit beside me."
+  },
+  {
+    "word": "dude",
+    "sense": "omw-en-dude-10083358-n",
+    "definition": "an informal form of address for a man",
+    "example": "Hey dude, is this your skateboard?"
+  },
+  {
+    "word": "sam",
+    "sense": "omw-en-SAM-04363210-n",
+    "definition": "a guided missile fired from land or shipboard against an airborne target",
+    "example": "The SAM was designed to intercept aircraft."
+  },
+  {
+    "word": "ones",
+    "sense": "L38519-S1",
+    "definition": "any person",
+    "example": "The ones who finish early can help the others.",
+    "note": "plural form provided by Wikidata for one; the source gloss describes the generic pronoun"
+  },
+  {
+    "word": "needed",
+    "sense": "omw-en-needed-01580775-s",
+    "definition": "necessary for relief or supply",
+    "example": "The charity delivered much needed supplies to the village."
+  },
+  {
+    "word": "goodbye",
+    "sense": "L14713-S1",
+    "definition": "phrase used when someone is leaving",
+    "example": "Goodbye, and have a safe trip home!"
+  },
+  {
+    "word": "happening",
+    "sense": "omw-en-happening-07283608-n",
+    "definition": "an event that happens",
+    "example": "The festival was the biggest happening in our village that year."
+  },
+  {
+    "word": "wedding",
+    "sense": "omw-en-wedding-07452074-n",
+    "definition": "the social event at which the ceremony of marriage is performed",
+    "example": "They invited us to their wedding."
+  },
+  {
+    "word": "kidding",
+    "sense": "L1402146-S1",
+    "definition": "joking, teasing",
+    "example": "I was only kidding when I said the cake was all mine."
+  },
+  {
+    "word": "eh",
+    "sense": "L14793-S1",
+    "definition": "request for confirmation",
+    "example": "That was a good meal, eh?"
+  },
+  {
+    "word": "during",
+    "sense": "L4007-S1",
+    "definition": "for a time period",
+    "example": "We stayed quiet during the concert."
+  },
+  {
+    "word": "marry",
+    "sense": "omw-en-marry-02488834-v",
+    "definition": "take in marriage",
+    "example": "They plan to marry next spring."
+  },
+  {
+    "word": "watching",
+    "sense": "omw-en-watching-00879759-n",
+    "definition": "the act of observing; taking a patient look",
+    "example": "Patient watching helped us spot the shy bird."
+  },
+  {
+    "word": "suppose",
+    "sense": "omw-en-suppose-00633443-v",
+    "definition": "to believe especially on uncertain or tentative grounds",
+    "example": "I suppose the shop is still open."
+  },
+  {
+    "word": "t",
+    "sense": "omw-en-t-06833220-n",
+    "definition": "the 20th letter of the Roman alphabet",
+    "example": "The letter t is the first letter in the word tree."
+  },
+  {
+    "word": "birthday",
+    "sense": "omw-en-birthday-15250178-n",
+    "definition": "an anniversary of the day on which a person was born (or the celebration of it)",
+    "example": "We baked a cake for her birthday."
+  },
+  {
+    "word": "definitely",
+    "sense": "omw-en-definitely-00036935-r",
+    "definition": "without question and beyond doubt",
+    "example": "I will definitely be there on time."
+  },
+  {
+    "word": "unless",
+    "sense": "L5948-S1",
+    "definition": "only under the following condition",
+    "example": "We will walk to school unless it rains."
+  },
+  {
+    "word": "seven",
+    "sense": "L335-S1",
+    "definition": "the number 7",
+    "example": "There are seven days in a week."
+  },
+  {
+    "word": "michael",
+    "sense": "omw-en-Michael-09539517-n",
+    "definition": "(Old Testament) the guardian archangel of the Jews",
+    "example": "The stained glass window depicts the archangel Michael."
+  },
+  {
+    "word": "hotel",
+    "sense": "omw-en-hotel-03542333-n",
+    "definition": "a building where travelers can pay for lodging and meals and other services",
+    "example": "We booked a room at a hotel near the station."
+  },
+  {
+    "word": "christmas",
+    "sense": "omw-en-Christmas-15196186-n",
+    "definition": "a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland",
+    "example": "Our family shares a special meal on Christmas Day."
+  },
+  {
+    "word": "george",
+    "sense": "omw-en-George-10996285-n",
+    "definition": "Christian martyr; patron saint of England; hero of the legend of Saint George and the Dragon in which he slew a dragon and saved a princess (?-303)",
+    "example": "The picture shows Saint George fighting a dragon."
+  },
+  {
+    "word": "david",
+    "sense": "omw-en-David-10923700-n",
+    "definition": "(Old Testament) the 2nd king of the Israelites; as a young shepherd he fought Goliath (a giant Philistine warrior) and killed him by hitting him in the head with a stone flung from a sling; he united Israel with Jerusalem as its capital; many of the Psalms are attributed to David (circa 1000-962 BC)",
+    "example": "The story describes how David defeated Goliath."
+  },
+  {
+    "word": "lovely",
+    "sense": "omw-en-lovely-00219809-s",
+    "definition": "appealing to the emotions as well as the eye",
+    "example": "There is a lovely view from the kitchen window."
+  },
+  {
+    "word": "buddy",
+    "sense": "omw-en-buddy-09877951-n",
+    "definition": "a close friend who accompanies his buddies in their activities",
+    "example": "My old school buddy came to visit."
+  },
+  {
+    "word": "protect",
+    "sense": "omw-en-protect-01128193-v",
+    "definition": "shield from danger, injury, destruction, or damage",
+    "example": "Wear a hat to protect your face from the sun."
+  },
+  {
+    "word": "using",
+    "sense": "omw-en-using-00418903-n",
+    "definition": "an act that exploits or victimizes someone (treats them unfairly)",
+    "example": "His constant using of other people drove his friends away."
+  },
+  {
+    "word": "york",
+    "sense": "omw-en-York-08159924-n",
+    "definition": "the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white rose",
+    "example": "The white rose was the emblem of the House of York."
+  },
+  {
+    "word": "army",
+    "sense": "omw-en-army-08191230-n",
+    "definition": "a permanent organization of the military land forces of a nation or state",
+    "example": "He joined the army after leaving school."
+  },
+  {
+    "word": "interesting",
+    "sense": "omw-en-interesting-01343918-a",
+    "definition": "arousing or holding the attention",
+    "example": "She told us an interesting story about her travels."
+  },
+  {
+    "word": "d",
+    "sense": "omw-en-d-06831498-n",
+    "definition": "the 4th letter of the Roman alphabet",
+    "example": "The letter d comes after c in the alphabet."
+  },
+  {
+    "word": "mike",
+    "sense": "omw-en-mike-03759954-n",
+    "definition": "device for converting sound waves into electrical energy",
+    "example": "The singer stepped up to the mike."
+  },
+  {
+    "word": "crime",
+    "sense": "omw-en-crime-00766234-n",
+    "definition": "(criminal law) an act punishable by law; usually considered an evil act",
+    "example": "The police are investigating the crime."
+  },
+  {
+    "word": "lunch",
+    "sense": "omw-en-lunch-07575076-n",
+    "definition": "a midday meal",
+    "example": "We ate lunch under a tree."
+  },
+  {
+    "word": "radio",
+    "sense": "omw-en-radio-04043733-n",
+    "definition": "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+    "example": "She turned on the radio to hear the news."
+  },
+  {
+    "word": "idiot",
+    "sense": "omw-en-idiot-10197525-n",
+    "definition": "a person of subnormal intelligence",
+    "example": "The old record used the outdated term idiot to describe his intellectual disability.",
+    "note": "historical, offensive terminology in the source definition"
+  },
+  {
+    "word": "surprise",
+    "sense": "omw-en-surprise-07298154-n",
+    "definition": "a sudden unexpected event",
+    "example": "The unexpected visit was a lovely surprise."
+  },
+  {
+    "word": "boat",
+    "sense": "omw-en-boat-02858304-n",
+    "definition": "a small vessel for travel on water",
+    "example": "We crossed the lake in a small boat."
+  },
+  {
+    "word": "tom",
+    "sense": "omw-en-tom-02122725-n",
+    "definition": "male cat",
+    "example": "The old tom slept beside the other cats."
+  },
+  {
+    "word": "eight",
+    "sense": "L336-S1",
+    "definition": "the number 8",
+    "example": "The box contains eight crayons."
+  },
+  {
+    "word": "sea",
+    "sense": "omw-en-sea-09426788-n",
+    "definition": "a division of an ocean or a large body of salt water partially enclosed by land",
+    "example": "We watched the boats sailing across the sea."
+  },
+  {
+    "word": "detective",
+    "sense": "omw-en-detective-10009276-n",
+    "definition": "a police officer who investigates crimes",
+    "example": "The detective found a clue near the window."
+  },
+  {
+    "word": "prison",
+    "sense": "omw-en-prison-04005630-n",
+    "definition": "a correctional institution where persons are confined while on trial or for punishment",
+    "example": "He spent two years in prison."
+  },
+  {
+    "word": "whether",
+    "sense": "L5223-S1",
+    "definition": "if",
+    "example": "I do not know whether the shop is open."
+  },
+  {
+    "word": "america",
+    "sense": "omw-en-America-09044862-n",
+    "definition": "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+    "example": "She traveled across America by train."
+  },
+  {
+    "word": "brain",
+    "sense": "omw-en-brain-05481095-n",
+    "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord",
+    "example": "The skull protects the brain."
+  },
+  {
+    "word": "peter",
+    "sense": "omw-en-Peter-11231157-n",
+    "definition": "disciple of Jesus and leader of the Apostles; regarded by Catholics as the vicar of Christ on earth and first Pope",
+    "example": "The painting shows the apostle Peter holding a set of keys."
+  },
+  {
+    "word": "agent",
+    "sense": "omw-en-agent-09777353-n",
+    "definition": "a representative who acts on behalf of other persons or organizations",
+    "example": "Our travel agent helped us book the flights."
+  },
+  {
+    "word": "mary",
+    "sense": "omw-en-Mary-11161412-n",
+    "definition": "the mother of Jesus; Christians refer to her as the Virgin Mary; she is especially honored by Roman Catholics",
+    "example": "The church has a statue of Mary holding the baby Jesus."
+  },
+  {
+    "word": "missed",
+    "sense": "omw-en-missed-00535170-s",
+    "definition": "not caught with the senses or the mind",
+    "example": "The missed detail changed the meaning of the report."
+  },
+  {
+    "word": "mm",
+    "sense": "omw-en-mm-13658657-n",
+    "definition": "a metric unit of length equal to one thousandth of a meter",
+    "example": "The screw is only five mm long."
+  },
+  {
+    "word": "cell",
+    "sense": "omw-en-cell-00006484-n",
+    "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+    "example": "We examined a plant cell under the microscope."
+  },
+  {
+    "word": "camera",
+    "sense": "omw-en-camera-02942699-n",
+    "definition": "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)",
+    "example": "I brought my camera to take pictures of the mountains."
+  },
+  {
+    "word": "within",
+    "sense": "L5227-S1",
+    "definition": "in the inner part, spatially; physically inside",
+    "example": "Please keep your hands within the marked area."
+  },
+  {
+    "word": "y",
+    "sense": "omw-en-y-06833776-n",
+    "definition": "the 25th letter of the Roman alphabet",
+    "example": "The letter y comes just before z in the alphabet."
+  },
+  {
+    "word": "spent",
+    "sense": "omw-en-spend-02267060-v",
+    "definition": "pay out",
+    "example": "We spent our savings on a new roof."
+  },
+  {
+    "word": "mama",
+    "sense": "omw-en-mama-10278128-n",
+    "definition": "informal terms for a mother",
+    "example": "The baby reached out for her mama."
+  },
+  {
+    "word": "lieutenant",
+    "sense": "omw-en-lieutenant-10259348-n",
+    "definition": "a commissioned military officer",
+    "example": "The lieutenant led the soldiers across the field."
+  },
+  {
+    "word": "college",
+    "sense": "omw-en-college-08278324-n",
+    "definition": "an institution of higher education created to educate and grant degrees; often a part of a university",
+    "example": "She studied engineering at college."
+  },
+  {
+    "word": "teach",
+    "sense": "omw-en-teach-00829107-v",
+    "definition": "impart skills or knowledge to",
+    "example": "Can you teach me how to swim?"
+  },
+  {
+    "word": "apartment",
+    "sense": "omw-en-apartment-02726305-n",
+    "definition": "a suite of rooms usually on one floor of an apartment house",
+    "example": "They rent a small apartment above the bakery."
+  },
+  {
+    "word": "professor",
+    "sense": "omw-en-professor-10480730-n",
+    "definition": "someone who is a member of the faculty at a college or university",
+    "example": "The professor answered our questions after the lecture."
+  },
+  {
+    "word": "cop",
+    "sense": "omw-en-cop-09879144-n",
+    "definition": "uncomplimentary terms for a policeman",
+    "example": "A cop directed traffic around the broken bus."
+  },
+  {
+    "word": "holy",
+    "sense": "omw-en-holy-02053818-a",
+    "definition": "belonging to or derived from or associated with a divine power",
+    "example": "Visitors removed their shoes before entering the holy place."
+  },
+  {
+    "word": "jail",
+    "sense": "omw-en-jail-03592245-n",
+    "definition": "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)",
+    "example": "The prisoner was taken to jail."
+  },
+  {
+    "word": "lawyer",
+    "sense": "omw-en-lawyer-10249950-n",
+    "definition": "a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "example": "She asked a lawyer to explain the contract."
+  },
+  {
+    "word": "congratulations",
+    "sense": "omw-en-congratulations-06693198-n",
+    "definition": "an expression of approval and commendation",
+    "example": "We sent our congratulations to the new parents."
+  },
+  {
+    "word": "village",
+    "sense": "omw-en-village-08672738-n",
+    "definition": "a settlement smaller than a town",
+    "example": "The village has a small school and a bakery."
+  },
+  {
+    "word": "james",
+    "sense": "omw-en-James-09321180-n",
+    "definition": "a river in Virginia that flows east into Chesapeake Bay at Hampton Roads",
+    "example": "The James flows through Richmond toward Chesapeake Bay."
+  },
+  {
+    "word": "wine",
+    "sense": "omw-en-wine-07891726-n",
+    "definition": "fermented juice (of grapes especially)",
+    "example": "She poured a glass of red wine."
+  },
+  {
+    "word": "sleeping",
+    "sense": "omw-en-sleeping-05681117-n",
+    "definition": "the state of being asleep",
+    "example": "Too much sleeping during the day kept him awake at night."
+  },
+  {
+    "word": "island",
+    "sense": "omw-en-island-09316454-n",
+    "definition": "a land mass (smaller than a continent) that is surrounded by water",
+    "example": "We took a ferry to the island."
+  },
+  {
+    "word": "hundred",
+    "sense": "L4138-S1",
+    "definition": "the number 100",
+    "example": "There are one hundred centimeters in a meter."
+  },
+  {
+    "word": "whose",
+    "sense": "L3319-S1",
+    "definition": "what person’s",
+    "example": "Whose jacket is hanging by the door?"
+  },
+  {
+    "word": "eating",
+    "sense": "omw-en-eating-00838367-n",
+    "definition": "the act of consuming food",
+    "example": "Eating too quickly gave him a stomachache."
+  },
+  {
+    "word": "mrs",
+    "sense": "omw-en-Mrs-06341431-n",
+    "definition": "a form of address for a married woman",
+    "example": "Mrs Green teaches at our school."
+  },
+  {
+    "word": "madam",
+    "sense": "omw-en-madam-09989290-n",
+    "definition": "a woman of refinement",
+    "example": "The elderly madam received her guests with quiet dignity."
+  },
+  {
+    "word": "gift",
+    "sense": "omw-en-gift-13265011-n",
+    "definition": "something acquired without compensation",
+    "example": "She gave me a handmade gift."
+  },
+  {
+    "word": "why",
+    "sense": "L63-S1",
+    "definition": "For what cause, reason, or purpose",
+    "example": "Why did you leave the window open?"
+  },
+  {
+    "word": "ten",
+    "sense": "L338-S2",
+    "definition": "playing card",
+    "example": "She played the ten of hearts."
+  },
+  {
+    "word": "and",
+    "sense": "L1385-S3",
+    "definition": "then; and then (concessive)",
+    "example": "Finish your homework and you can go outside."
+  },
+  {
+    "word": "and",
+    "sense": "L1385-S4",
+    "definition": "with, accompanied by; and with (associative)",
+    "example": "She arrived with a suitcase and an umbrella."
+  },
+  {
+    "word": "but",
+    "sense": "L1387-S1",
+    "definition": "although",
+    "example": "It was a small house but a comfortable one."
+  },
+  {
+    "word": "will",
+    "sense": "L1889-S2",
+    "definition": "give in a will, bequeath",
+    "example": "She plans to will her books to the school."
+  },
+  {
+    "word": "around",
+    "sense": "L3261-S1",
+    "definition": "enclosing in a circle or other curve",
+    "example": "They built a fence around the garden."
+  },
+  {
+    "word": "around",
+    "sense": "L3261-S2",
+    "definition": "nearby",
+    "example": "Is there a pharmacy around here?"
+  },
+  {
+    "word": "around",
+    "sense": "L3261-S3",
+    "definition": "in a variety of places within an enclosed space",
+    "example": "We walked around the museum for an hour."
+  },
+  {
+    "word": "through",
+    "sense": "L3439-S1",
+    "definition": "into the middle of an object and out again",
+    "example": "The train passed through the tunnel."
+  },
+  {
+    "word": "past",
+    "sense": "L3778-S1",
+    "definition": "beyond",
+    "example": "The bus stop is just past the library."
+  },
+  {
+    "word": "either",
+    "sense": "L4019-S1",
+    "definition": "one of two choices",
+    "example": "You may choose either option."
+  },
+  {
+    "word": "either",
+    "sense": "L4019-S2",
+    "definition": "one or the other of a pair",
+    "example": "There is a lamp on either side of the bed."
+  },
+  {
+    "word": "which",
+    "sense": "L43819-S1",
+    "definition": "quality of object",
+    "example": "She praised his patience, which I greatly admired."
+  },
+  {
+    "word": "some",
+    "sense": "L46159-S1",
+    "definition": "a certain proportion of, at least one",
+    "example": "Some students have already finished the assignment."
+  },
+  {
+    "word": "some",
+    "sense": "L46159-S2",
+    "definition": "an unspecified quantity or number of",
+    "example": "We need some chairs for the meeting."
+  },
+  {
+    "word": "some",
+    "sense": "L46159-S3",
+    "definition": "an unspecified amount of (something uncountable)",
+    "example": "There is some water in the jug."
+  },
+  {
+    "word": "some",
+    "sense": "L46159-S4",
+    "definition": "a certain; an unspecified or unknown",
+    "example": "Some stranger left a message for you."
+  },
+  {
+    "word": "like",
+    "sense": "L333960-S1",
+    "definition": "English word",
+    "example": "It looks like we will have to wait."
+  },
+  {
+    "word": "you",
+    "sense": "L482-S3",
+    "definition": "anyone, one; unspecified individual or group of individuals",
+    "example": "You never know what you might find in an old attic."
+  },
+  {
+    "word": "she",
+    "sense": "L484-S2",
+    "definition": "person whose gender is unknown or irrelevant",
+    "example": "Every applicant should say whether she needs extra time."
+  },
+  {
+    "word": "of",
+    "sense": "L2986-S2",
+    "definition": "indicates an ancestral source or origin of descent",
+    "example": "The tale tells of a prince of royal blood."
+  },
+  {
+    "word": "of",
+    "sense": "L2986-S3",
+    "definition": "links entities which are related by a form of belonging or pertinence from one to the other",
+    "example": "The roof of the house needs repairs."
+  },
+  {
+    "word": "of",
+    "sense": "L2986-S4",
+    "definition": "denotes quantity",
+    "example": "She bought two kilos of rice."
+  },
+  {
+    "word": "in",
+    "sense": "L2987-S1",
+    "definition": "located within",
+    "example": "The keys are in the drawer."
+  },
+  {
+    "word": "in",
+    "sense": "L2987-S2",
+    "definition": "moving into",
+    "example": "Put the clean towels in the cupboard."
+  },
+  {
+    "word": "in",
+    "sense": "L2987-S3",
+    "definition": "expressed using a particular language (natural or artificial), or some other formal representation",
+    "example": "She wrote the letter in English."
+  },
+  {
+    "word": "so",
+    "sense": "L2999-S1",
+    "definition": "enabling",
+    "example": "Move your chair so I can open the door."
+  },
+  {
+    "word": "across",
+    "sense": "L3233-S1",
+    "definition": "in a relative position on the other side of a boundary",
+    "example": "Their house is across the river from ours."
+  },
+  {
+    "word": "while",
+    "sense": "L3318-S1",
+    "definition": "during the same time as",
+    "example": "I read a book while she cooked dinner."
+  },
+  {
+    "word": "enough",
+    "sense": "L4026-S1",
+    "definition": "sufficient",
+    "example": "We have enough food for everyone."
+  },
+  {
+    "word": "against",
+    "sense": "L4483-S1",
+    "definition": "in a contrary direction to",
+    "example": "We cycled against the wind."
+  },
+  {
+    "word": "against",
+    "sense": "L4483-S3",
+    "definition": "in physical opposition to, or in collision with",
+    "example": "The waves crashed against the rocks."
+  },
+  {
+    "word": "against",
+    "sense": "L4483-S4",
+    "definition": "in opposition to",
+    "example": "The residents voted against the proposal."
+  },
+  {
+    "word": "besides",
+    "sense": "L11799-S1",
+    "definition": "In addition, in addition to",
+    "example": "Besides bread, we need milk and eggs."
+  },
+  {
+    "word": "all",
+    "sense": "L46158-S1",
+    "definition": "the whole quantity or amount",
+    "example": "She offered me half the cake, but I ate all of it."
+  },
+  {
+    "word": "all",
+    "sense": "L46158-S2",
+    "definition": "everything",
+    "example": "All is quiet in the house tonight."
+  },
+  {
+    "word": "all",
+    "sense": "L46158-S3",
+    "definition": "everyone",
+    "example": "All are welcome at the meeting."
+  },
+  {
+    "word": "all",
+    "sense": "L46158-S4",
+    "definition": "the only thing (used for emphasis)",
+    "example": "All I want is a quiet afternoon."
+  },
+  {
+    "word": "next",
+    "sense": "L333894-WKT1",
+    "definition": "On the side of; nearest or adjacent to; next to.",
+    "example": "She sat next the window in the old railway carriage."
+  },
+  {
+    "word": "till",
+    "sense": "L333926-S1",
+    "definition": "until",
+    "example": "Wait here till I come back."
+  },
+  {
+    "word": "attention",
+    "sense": "L334067-WKT1",
+    "definition": "Used as a command to bring soldiers to the attention position.",
+    "example": "Attention, soldiers!"
+  },
+  {
+    "word": "sorry",
+    "sense": "L334094-S1",
+    "definition": "expression of regret/sorrow",
+    "example": "Sorry, I did not mean to interrupt you."
+  },
+  {
+    "word": "O",
+    "sense": "L623959-S1",
+    "definition": "vocative particle",
+    "example": "O captain, guide us safely home."
+  },
+  {
+    "word": "detective",
+    "sense": "L744138-S1",
+    "definition": "of or pertaining to detectives",
+    "example": "She enjoys reading detective fiction."
+  },
+  {
+    "word": "detective",
+    "sense": "L744138-S2",
+    "definition": "of or pertaining to detection",
+    "example": "The detective work revealed a fault in the machine."
+  },
+  {
+    "word": "another",
+    "sense": "L1323942-S1",
+    "definition": "more in addition to someone or something",
+    "example": "I ate one biscuit and then took another."
+  },
+  {
+    "word": "another",
+    "sense": "L1323942-S2",
+    "definition": "something different to an aforementioned someone or something",
+    "example": "This pen is broken, so please give me another."
+  },
+  {
+    "word": "other",
+    "sense": "L1323945-S1",
+    "definition": "to treat something or someone as different",
+    "example": "The article warns against the tendency to other people from unfamiliar cultures."
+  },
+  {
+    "word": "family",
+    "sense": "L1402958-S1",
+    "definition": "of, within, or for a group of related people",
+    "example": "They planned a family holiday by the sea."
+  },
+  {
+    "word": "ground",
+    "sense": "L1403519-S1",
+    "definition": "reduced to fine particles by grinding",
+    "example": "Add a spoonful of ground pepper to the soup."
+  },
+  {
+    "word": "few",
+    "sense": "L1421916-S1",
+    "definition": "indeterminately small in number",
+    "example": "There are a few apples left in the bowl."
+  },
+  {
+    "word": "any",
+    "sense": "L1421978-S1",
+    "definition": "anyone",
+    "example": "She asked if any of us could help."
+  },
+  {
+    "word": "any",
+    "sense": "L1421978-S2",
+    "definition": "whichever",
+    "example": "Take any of these seats."
+  },
+  {
+    "word": "any",
+    "sense": "L1421978-S3",
+    "definition": "however much",
+    "example": "I cannot eat any more of this soup."
+  },
+  {
+    "word": "end",
+    "sense": "L1518780-S1",
+    "definition": "spatial end portion of",
+    "example": "The end seat in the row was empty."
+  },
+  {
+    "word": "we",
+    "sense": "L483-S2",
+    "definition": "speaker(s)/writer(s) and the person(s) being addressed",
+    "example": "Shall we walk to the station together?"
+  },
+  {
+    "word": "we",
+    "sense": "L483-S3",
+    "definition": "speaker/writer alone",
+    "example": "In this chapter, we examine the results of our experiment."
+  },
+  {
+    "word": "can",
+    "sense": "L1888-S2",
+    "definition": "have the permit to do something",
+    "example": "You can use my computer while I am away."
+  },
+  {
+    "word": "can",
+    "sense": "L1888-S3",
+    "definition": "put into tins",
+    "example": "They can the ripe tomatoes for winter."
+  },
+  {
+    "word": "can",
+    "sense": "L1888-S4",
+    "definition": "fire (metphorical extension of 'throw away')",
+    "example": "The manager threatened to can him for missing work."
+  },
+  {
+    "word": "for",
+    "sense": "L2989-S1",
+    "definition": "intended to belong to, or be used by, or be used in connection with",
+    "example": "This parcel is for your sister."
+  },
+  {
+    "word": "for",
+    "sense": "L2989-S2",
+    "definition": "with the object or purpose of",
+    "example": "We stopped for a rest."
+  },
+  {
+    "word": "for",
+    "sense": "L2989-S3",
+    "definition": "to the benefit of",
+    "example": "I carried the heavy bag for my grandmother."
+  },
+  {
+    "word": "for",
+    "sense": "L2989-S4",
+    "definition": "to a duration of",
+    "example": "She stayed with us for a week."
+  },
+  {
+    "word": "for",
+    "sense": "L2989-S5",
+    "definition": "in favour of",
+    "example": "The council voted for the new park."
+  },
+  {
+    "word": "out",
+    "sense": "L3002-S1",
+    "definition": "away from the inside",
+    "example": "The bird flew out the open window."
+  },
+  {
+    "word": "some",
+    "sense": "L3203-S1",
+    "definition": "unspecified group",
+    "example": "Some prefer tea, while others prefer coffee."
+  },
+  {
+    "word": "till",
+    "sense": "L7486-S1",
+    "definition": "up to a point in time",
+    "example": "The shop is open till six."
+  },
+  {
+    "word": "thanks",
+    "sense": "L28469-S1",
+    "definition": "expression of gratitude",
+    "example": "Thanks, that was exactly the help I needed."
+  },
+  {
+    "word": "like",
+    "sense": "L45034-S1",
+    "definition": "similar to, reminiscent of",
+    "example": "The cloud was shaped like a rabbit."
+  },
+  {
+    "word": "off",
+    "sense": "L333887-S1",
+    "definition": "away from",
+    "example": "The cup fell off the table."
+  },
+  {
+    "word": "worth",
+    "sense": "L1324401-S1",
+    "definition": "equal in value to",
+    "example": "This old watch is worth a lot of money."
+  },
+  {
+    "word": "worth",
+    "sense": "L1324401-S2",
+    "definition": "deserving of",
+    "example": "The castle is worth a visit."
+  },
+  {
+    "word": "laughing",
+    "sense": "L1403605-S1",
+    "definition": "act to laugh; instance of laughter",
+    "example": "The laughing from the next room woke the baby."
+  },
+  {
+    "word": "laughing",
+    "sense": "L1403605-S2",
+    "definition": "manner of speaking",
+    "example": "Her nervous laughing made the explanation hard to follow."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S1",
+    "definition": "change of place, position, or state",
+    "example": "All this moving from place to place is tiring."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S2",
+    "definition": "action of changing residence",
+    "example": "The moving took us the whole weekend."
+  },
+  {
+    "word": "for",
+    "sense": "L1519262-S1",
+    "definition": "in favor of, supporting",
+    "example": "Are you for the proposal or against it?"
+  },
+  {
+    "word": "who",
+    "sense": "L56-S1",
+    "definition": "what person",
+    "example": "Who left this parcel at the door?"
+  },
+  {
+    "word": "they",
+    "sense": "L371-S1",
+    "definition": "single person, previously mentioned, of unknown or non-binary gender",
+    "example": "A visitor left their umbrella, so I hope they come back for it."
+  },
+  {
+    "word": "they",
+    "sense": "L371-S3",
+    "definition": "some people; someone",
+    "example": "They say the old bridge will reopen soon."
+  },
+  {
+    "word": "it",
+    "sense": "L507-S2",
+    "definition": "child of unknown gender",
+    "example": "The baby woke because it was hungry."
+  },
+  {
+    "word": "it",
+    "sense": "L507-S3",
+    "definition": "referring to the situation in general",
+    "example": "It is difficult to see the path in this fog."
+  },
+  {
+    "word": "it",
+    "sense": "L507-S4",
+    "definition": "single, specific person",
+    "example": "Who is at the door? It is my sister."
+  },
+  {
+    "word": "must",
+    "sense": "L1892-S1",
+    "definition": "to be obligated",
+    "example": "Passengers must show their tickets before boarding."
+  },
+  {
+    "word": "there",
+    "sense": "L2998-S1",
+    "definition": "referring to a thing or things that exist",
+    "example": "There is a letter for you on the table."
+  },
+  {
+    "word": "over",
+    "sense": "L3211-S1",
+    "definition": "above, higher in altitude",
+    "example": "A plane flew over the village."
+  },
+  {
+    "word": "many",
+    "sense": "L3231-S1",
+    "definition": "more than a few",
+    "example": "Many people walk to work in this town."
+  },
+  {
+    "word": "yes",
+    "sense": "L3282-S1",
+    "definition": "A word used to show agreement or acceptance.",
+    "example": "Yes, I would like another cup of tea."
+  },
+  {
+    "word": "yes",
+    "sense": "L3282-S2",
+    "definition": "affirmative option provided in a binary vote",
+    "example": "Please select yes if you agree to join the group."
+  },
+  {
+    "word": "between",
+    "sense": "L3412-S1",
+    "definition": "spatial position in relation to two objects, on each side of the subject",
+    "example": "The bakery is between the bank and the library."
+  },
+  {
+    "word": "inside",
+    "sense": "L4156-S1",
+    "definition": "within the interior of something, closest to the center or to a specific point of reference",
+    "example": "Keep the receipt inside the envelope."
+  },
+  {
+    "word": "since",
+    "sense": "L5207-S1",
+    "definition": "because",
+    "example": "Since the road is closed, we will take the train."
+  },
+  {
+    "word": "except",
+    "sense": "L5772-S1",
+    "definition": "not including",
+    "example": "Everyone came to the picnic except my brother."
+  },
+  {
+    "word": "own",
+    "sense": "L15662-S1",
+    "definition": "something belonging to",
+    "example": "She baked the bread in her own kitchen."
+  },
+  {
+    "word": "please",
+    "sense": "L307873-S1",
+    "definition": "used to make a polite request",
+    "example": "Please close the door quietly."
+  },
+  {
+    "word": "please",
+    "sense": "L307873-S2",
+    "definition": "Used as an affirmative to an offer",
+    "example": "Another slice of cake? Yes, please!"
+  },
+  {
+    "word": "doing",
+    "sense": "L319686-S2",
+    "definition": "serve time (usually a sentence but could be an appointment)",
+    "example": "He is doing three years in prison for fraud."
+  },
+  {
+    "word": "doing",
+    "sense": "L319686-S3",
+    "definition": "nominal version of light verb",
+    "example": "That broken window was not my doing."
+  },
+  {
+    "word": "up",
+    "sense": "L333884-S1",
+    "definition": "toward the top",
+    "example": "We climbed up the steep hill."
+  },
+  {
+    "word": "welcome",
+    "sense": "L479473-S1",
+    "definition": "Greeting given upon someone's arrival",
+    "example": "Welcome, come in and make yourself comfortable!"
+  },
+  {
+    "word": "welcome",
+    "sense": "L479473-S2",
+    "definition": "ellipsis of you're welcome",
+    "example": "Thank you for the lift. You are welcome!"
+  },
+  {
+    "word": "word",
+    "sense": "L1321317-S1",
+    "definition": "(expressing affirmation, agreement, or admiration)",
+    "example": "Word, that is exactly how I feel about it."
+  },
+  {
+    "word": "ooh",
+    "sense": "L1460829-S1",
+    "definition": "utterance of ‘ooh’",
+    "example": "An excited ooh came from the crowd as the lights appeared."
+  },
+  {
+    "word": "lying",
+    "sense": "L1523258-S1",
+    "definition": "marked by or containing untrue statements : false",
+    "example": "The lying report accused an innocent person."
+  },
+  {
+    "word": "lying",
+    "sense": "L1523258-S2",
+    "definition": "of a person, his or her lips, etc.: That tells lies",
+    "example": "Nobody believed the lying witness."
+  },
+  {
+    "word": "from",
+    "sense": "L2168-S1",
+    "definition": "used to indicate source/origin",
+    "example": "She received a postcard from her cousin."
+  },
+  {
+    "word": "all",
+    "sense": "L2996-S1",
+    "definition": "the whole amount, quantity, or extent of",
+    "example": "We used all the flour in the bag."
+  },
+  {
+    "word": "all",
+    "sense": "L2996-S2",
+    "definition": "every member or individual component of",
+    "example": "All the students brought their notebooks."
+  },
+  {
+    "word": "all",
+    "sense": "L2996-S3",
+    "definition": "any (whatever)",
+    "example": "She helped him in all possible ways."
+  },
+  {
+    "word": "all",
+    "sense": "L2996-S4",
+    "definition": "nothing but; only",
+    "example": "The workshop is all noise and dust today."
+  },
+  {
+    "word": "every",
+    "sense": "L4038-S1",
+    "definition": "all, each",
+    "example": "Every child received a new book."
+  },
+  {
+    "word": "none",
+    "sense": "L4314-S1",
+    "definition": "not any of a group",
+    "example": "I checked the boxes, but none contained the missing photo."
+  },
+  {
+    "word": "last",
+    "sense": "L17786-S2",
+    "definition": "final, ultimate, coming after all others of its kind",
+    "example": "He caught the last bus home."
+  },
+  {
+    "word": "thank",
+    "sense": "L28468-S1",
+    "definition": "expression of gratitude",
+    "example": "She offered a quiet thank before leaving the room."
+  },
+  {
+    "word": "save",
+    "sense": "L333879-WKT1",
+    "definition": "Except; with the exception of.",
+    "example": "The room was empty save for a wooden chair."
+  },
+  {
+    "word": "same",
+    "sense": "L1327675-S1",
+    "definition": "sharing attributes with another or with self at another time",
+    "example": "The two jackets look the same in this light."
+  },
+  {
+    "word": "swear",
+    "sense": "L1328510-S1",
+    "definition": "profane oath",
+    "example": "He let out a swear when he struck his thumb."
+  },
+  {
+    "word": "because",
+    "sense": "L1402948-S1",
+    "definition": "for reason that",
+    "example": "We joined the walk just because.",
+    "note": "absolute use of because without a following clause"
+  },
+  {
+    "word": "head",
+    "sense": "L1409830-S1",
+    "definition": "best/most able",
+    "example": "The head chef showed us around the kitchen."
+  },
+  {
+    "word": "and",
+    "sense": "L1421575-S1",
+    "definition": "with, accompanied by; and with (associative)",
+    "example": "He traveled with his wife and two children."
+  },
+  {
+    "word": "two",
+    "sense": "L329-S1",
+    "definition": "the number 2",
+    "example": "We ordered two cups of coffee."
+  },
+  {
+    "word": "seven",
+    "sense": "L335-S2",
+    "definition": "playing card",
+    "example": "He drew a seven of diamonds from the deck."
+  },
+  {
+    "word": "that",
+    "sense": "L2988-S1",
+    "definition": "(introduces a clause which is the subject or object of a verb)",
+    "example": "She said that the door was locked."
+  },
+  {
+    "word": "yes",
+    "sense": "L43974-S1",
+    "definition": "linguistic particle used to show agreement, acceptance, consensus, appreciation or an affirmative opinion",
+    "example": "Yes, we finally made it to the top!"
+  },
+  {
+    "word": "yes",
+    "sense": "L43974-S2",
+    "definition": "affirmative option provided in a binary vote",
+    "example": "She marked yes on the voting form."
+  },
+  {
+    "word": "now",
+    "sense": "L333952-S1",
+    "definition": "at this moment",
+    "example": "Now that everyone is here, we can begin."
+  },
+  {
+    "word": "help",
+    "sense": "L334085-S1",
+    "definition": "requesting assistence",
+    "example": "Help, I cannot open this door!"
+  },
+  {
+    "word": "fuck",
+    "sense": "L713632-S2",
+    "definition": "used to express surprise",
+    "example": "Fuck, that was an incredible performance!"
+  },
+  {
+    "word": "night",
+    "sense": "L1327184-S1",
+    "definition": "occurring outside of daylight hours",
+    "example": "The night train arrives before dawn."
+  },
+  {
+    "word": "same",
+    "sense": "L1327674-S1",
+    "definition": "that which shares attributes with another or with itself at another time",
+    "example": "She ordered soup, and I asked for the same."
+  },
+  {
+    "word": "buddy",
+    "sense": "L1381060-S1",
+    "definition": "to pair or team up with another person",
+    "example": "Please buddy up with someone before starting the exercise."
+  },
+  {
+    "word": "ah",
+    "sense": "L1413971-S1",
+    "definition": "to express admiration or pleasure by saying ‘ah’",
+    "example": "Visitors would ah with delight at the view."
+  },
+  {
+    "word": "when",
+    "sense": "L61-S1",
+    "definition": "at what time, in which moment",
+    "example": "When does the next bus leave?"
+  },
+  {
+    "word": "when",
+    "sense": "L61-S2",
+    "definition": "at which, on which, during which",
+    "example": "I remember the day when we first met."
+  },
+  {
+    "word": "one",
+    "sense": "L327-S1",
+    "definition": "cardinal number",
+    "example": "There is one candle left in the box."
+  },
+  {
+    "word": "he",
+    "sense": "L485-S2",
+    "definition": "person whose gender is unknown or irrelevant",
+    "example": "Each visitor should say whether he needs a guide."
+  },
+  {
+    "word": "on",
+    "sense": "L2260-S1",
+    "definition": "placed above",
+    "example": "She placed the vase on the table."
+  },
+  {
+    "word": "this",
+    "sense": "L2994-S2",
+    "definition": "The known (thing) (used in indicating something or someone just mentioned).",
+    "example": "We need to repair the roof, and this work will take a week."
+  },
+  {
+    "word": "this",
+    "sense": "L2994-S3",
+    "definition": "The known (thing) (used in indicating something or someone about to be mentioned).",
+    "example": "Remember this rule: always lock the door behind you."
+  },
+  {
+    "word": "this",
+    "sense": "L2994-S4",
+    "definition": "A known (thing) (used in first mentioning a person or thing that the speaker does not think is known to the audience). Compare with \"a certain ...\".",
+    "example": "I met this musician on the train yesterday."
+  },
+  {
+    "word": "this",
+    "sense": "L2994-S5",
+    "definition": "(of a time reference) Designates the current or next instance. Cf. next.",
+    "example": "We are visiting our cousins this weekend."
+  },
+  {
+    "word": "by",
+    "sense": "L2995-S1",
+    "definition": "through the means of",
+    "example": "We crossed the river by boat."
+  },
+  {
+    "word": "by",
+    "sense": "L2995-S2",
+    "definition": "near to",
+    "example": "She stood by the kitchen door."
+  },
+  {
+    "word": "at",
+    "sense": "L3263-S1",
+    "definition": "target of an action",
+    "example": "The children threw snowballs at the fence."
+  },
+  {
+    "word": "nothing",
+    "sense": "L4317-S1",
+    "definition": "concept denoting the absence of something, and is associated with nothingness;(in nontechnical) things lacking importance, interest, value, relevance, or significance",
+    "example": "All that arguing achieved nothing of importance."
+  },
+  {
+    "word": "nothing",
+    "sense": "L4317-S2",
+    "definition": "absence of anything, vacuum",
+    "example": "There is nothing inside the box."
+  },
+  {
+    "word": "other",
+    "sense": "L4334-S1",
+    "definition": "item(s) that are separate and distinct from the item(s) under consideration",
+    "example": "She kept one drawing and gave the other away."
+  },
+  {
+    "word": "whatever",
+    "sense": "L5546-S1",
+    "definition": "no matter what; for any",
+    "example": "You can choose whatever color you like."
+  },
+  {
+    "word": "whatever",
+    "sense": "L5546-S2",
+    "definition": "anything that",
+    "example": "I will bring whatever supplies we need."
+  },
+  {
+    "word": "bye",
+    "sense": "L14712-S1",
+    "definition": "phrase used when someone is leaving",
+    "example": "Bye, I will see you tomorrow!"
+  },
+  {
+    "word": "when",
+    "sense": "L45026-S1",
+    "definition": "at what time.",
+    "example": "She asked when the train would arrive."
+  },
+  {
+    "word": "when",
+    "sense": "L45026-S2",
+    "definition": "at such time as",
+    "example": "Call me when you get home."
+  },
+  {
+    "word": "when",
+    "sense": "L45026-S4",
+    "definition": "conjunction",
+    "example": "Why drive when you could walk there in ten minutes?"
+  },
+  {
+    "word": "whatever",
+    "sense": "L46064-S1",
+    "definition": "anything (sometimes indicates the speaker doesn't care about options)",
+    "example": "Choose whatever you want for lunch."
+  },
+  {
+    "word": "God",
+    "sense": "L334032-S1",
+    "definition": "(expression of strong feeling)",
+    "example": "God, that thunder was loud!"
+  },
+  {
+    "word": "wait",
+    "sense": "L1328509-S1",
+    "definition": "stay still (for a moment); exclamatory expression",
+    "example": "Wait, I have not finished tying my shoes!"
+  },
+  {
+    "word": "my",
+    "sense": "L1367828-S1",
+    "definition": "(first-person singular possessive) belonging to me",
+    "example": "I put my coat on the hook."
+  },
+  {
+    "word": "shit",
+    "sense": "L1397307-S1",
+    "definition": "interjection used to express surprise, anger, or extreme displeasure",
+    "example": "Shit, I left my keys on the bus!"
+  },
+  {
+    "word": "that",
+    "sense": "L1421908-S1",
+    "definition": "(introduces restrictive relative clause)",
+    "example": "The book that you lent me was fascinating."
+  },
+  {
+    "word": "hmm",
+    "sense": "L1508842-S1",
+    "definition": "expression of hesitation",
+    "example": "Hmm, I am not sure which answer to choose."
+  },
+  {
+    "word": "alright",
+    "sense": "L1508848-S1",
+    "definition": "expression of acceptance",
+    "example": "Alright, we can try your suggestion."
+  },
+  {
+    "word": "where",
+    "sense": "L59-S1",
+    "definition": "what place",
+    "example": "Where did you put the spare key?"
+  },
+  {
+    "word": "four",
+    "sense": "L332-S3",
+    "definition": "playing card",
+    "example": "She played the four of clubs."
+  },
+  {
+    "word": "no",
+    "sense": "L3038-S1",
+    "definition": "(used to show disagreement or negation)",
+    "example": "No, that is not the right address."
+  },
+  {
+    "word": "other",
+    "sense": "L3205-S1",
+    "definition": "item(s) that are separate and distinct from the item(s) under consideration",
+    "example": "We should try the other road."
+  },
+  {
+    "word": "any",
+    "sense": "L3228-S1",
+    "definition": "at least one item of a set",
+    "example": "Do you have any questions?"
+  },
+  {
+    "word": "whose",
+    "sense": "L3319-S2",
+    "definition": "person’s … that",
+    "example": "The artist whose work we admired lives nearby."
+  },
+  {
+    "word": "fun",
+    "sense": "L5396-S1",
+    "definition": "enjoyable",
+    "example": "The picnic was a fun way to spend the afternoon."
+  },
+  {
+    "word": "save",
+    "sense": "L333937-WKT1",
+    "definition": "unless; except",
+    "example": "I would go, save that I have no way to get there."
+  },
+  {
+    "word": "damn",
+    "sense": "L705189-S1",
+    "definition": "when something does not go your way",
+    "example": "Damn, I have missed the bus again!"
+  },
+  {
+    "word": "damn",
+    "sense": "L705189-S2",
+    "definition": "when you are surprised",
+    "example": "Damn, I did not expect to see you here!"
+  },
+  {
+    "word": "damn",
+    "sense": "L705189-S3",
+    "definition": "when you see something you are impressed by",
+    "example": "Damn, that is a beautiful painting!"
+  },
+  {
+    "word": "damn",
+    "sense": "L705189-S4",
+    "definition": "when you realize something profound",
+    "example": "Damn, I have been looking at this problem the wrong way."
+  },
+  {
+    "word": "later",
+    "sense": "L1402952-S1",
+    "definition": "see you later",
+    "example": "Later, I will see you at the game!"
+  },
+  {
+    "word": "listen",
+    "sense": "L1451088-S1",
+    "definition": "(expression to persuade, garner attention)",
+    "example": "Listen, I have an idea that might help."
+  },
+  {
+    "word": "ah",
+    "sense": "L1460831-S1",
+    "definition": "utterance of ‘ah’",
+    "example": "A quiet ah escaped her lips when she found the answer."
+  },
+  {
+    "word": "me",
+    "sense": "L1461511-S1",
+    "definition": "my (in colloquial dialectal use)",
+    "example": "\"I left me coat on the chair,\" said the old sailor.",
+    "note": "dialectal possessive me meaning my"
+  },
+  {
+    "word": "an",
+    "sense": "L333949-WKT1",
+    "definition": "If",
+    "example": "An you need shelter, our door is open.",
+    "note": "archaic conditional conjunction"
+  },
+  {
+    "word": "now",
+    "sense": "L1379143-S1",
+    "definition": "of or relating to the present time",
+    "example": "The magazine focuses on the now generation.",
+    "note": "informal adjective meaning fashionable or current"
+  },
+  {
+    "word": "ben",
+    "sense": "L1411501-S1",
+    "definition": "inner, inside",
+    "example": "The guests gathered in the ben room of the cottage.",
+    "note": "Scots adjective meaning inner"
+  },
+  {
+    "word": "dinner",
+    "sense": "L1379666-S1",
+    "definition": "to eat dinner, dine",
+    "example": "In the old account, the travelers dinner at the inn each evening.",
+    "note": "rare verb meaning dine"
+  },
+  {
+    "word": "peter",
+    "sense": "L24887-S1",
+    "definition": "dwindle. (no particle)",
+    "example": "The narrow vein of ore began to peter as the miners dug deeper.",
+    "note": "rare use without out; the usual expression is peter out"
+  },
+  {
+    "word": "ben",
+    "sense": "L1411498-S1",
+    "definition": "within, towards the inner part",
+    "example": "She went ben the house to fetch a shawl.",
+    "note": "Scots preposition meaning into"
+  },
+  {
+    "word": "write",
+    "sense": "L1421988-S1",
+    "definition": "an instance of recording information mechanically or electronically",
+    "example": "The disk completed one write before the power failed.",
+    "note": "computing noun"
+  },
+  {
+    "word": "new",
+    "sense": "L45766-S1",
+    "definition": "make new",
+    "example": "The poet hoped to new the world with words.",
+    "note": "obsolete verb meaning renew"
+  },
+  {
+    "word": "young",
+    "sense": "L1379764-S1",
+    "definition": "of a geological structure or formation, to present the apparently younger side (in a specified direction)",
+    "example": "The rock layers young toward the east.",
+    "note": "geological verb describing the direction toward younger strata"
+  },
+  {
+    "word": "soon",
+    "sense": "L5322-S1",
+    "definition": "in the near future",
+    "example": "A soon departure would help us avoid the storm.",
+    "note": "uncommon adjective meaning near in time"
+  },
+  {
+    "word": "a",
+    "sense": "L36455-S3",
+    "definition": "(to do with time) each, per, in, on, by",
+    "example": "The museum opens six days a week.",
+    "note": "distributive preposition meaning per"
+  },
+  {
+    "word": "pleasure",
+    "sense": "L313574-S2",
+    "definition": "give sexual pleasure to",
+    "example": "The couple took time to pleasure each other.",
+    "note": "verb referring to sexual pleasure"
+  },
+  {
+    "word": "third",
+    "sense": "L333852-WKT1",
+    "definition": "To agree with a proposition or statement after it has already been seconded.",
+    "example": "I third the motion to take a break.",
+    "note": "informal verb agreeing after someone has seconded a motion"
+  },
+  {
+    "word": "marry",
+    "sense": "L334004-WKT1",
+    "definition": "A term of asseveration: indeed!, in truth!",
+    "example": "Marry, that is a fine idea!",
+    "note": "archaic interjection expressing affirmation"
+  },
+  {
+    "word": "ben",
+    "sense": "L1411499-S1",
+    "definition": "in or into the inner part",
+    "example": "Come ben and sit by the fire.",
+    "note": "Scots adverb meaning inside"
+  },
+  {
+    "word": "while",
+    "sense": "L333890-WKT1",
+    "definition": "Until.",
+    "example": "The workers stayed in the field while nightfall.",
+    "note": "archaic or dialectal preposition meaning until"
+  },
+  {
+    "word": "whether",
+    "sense": "L333977-S1",
+    "definition": "which of two",
+    "example": "Whether of these two roads will you take?",
+    "note": "archaic interrogative pronoun meaning which of two"
+  },
+  {
+    "word": "he",
+    "sense": "L334160-WKT1",
+    "definition": "An expression of laughter.",
+    "example": "\"He, he!\" laughed the old man at the joke.",
+    "note": "uncommon written representation of laughter"
+  },
+  {
+    "word": "which",
+    "sense": "L3005-S1",
+    "definition": "of a kind",
+    "example": "Take which book you prefer.",
+    "note": "determiner meaning whichever"
+  },
+  {
+    "word": "fast",
+    "sense": "L334116-WKT1",
+    "definition": "Ellipsis of stand fast, a warning not to pass between the arrow and the target.",
+    "example": "Fast, there is still someone beside the target!",
+    "note": "archery warning meaning stand fast"
+  },
+  {
+    "word": "eat",
+    "sense": "L1410678-S1",
+    "definition": "that which is eaten",
+    "example": "We stopped at the cafe for a quick eat.",
+    "note": "informal noun meaning a meal"
+  },
+  {
+    "word": "woman",
+    "sense": "L1524468-S1",
+    "definition": "(hyper-gendered) act as female staff for, work at",
+    "example": "The director decided to woman the entire reception desk.",
+    "note": "rare verb meaning staff with women"
+  },
+  {
+    "word": "able",
+    "sense": "L1379917-S1",
+    "definition": "to capacitate, make capable, endow with sufficient strength",
+    "example": "The new charter will able the council to collect taxes.",
+    "note": "obsolete transitive verb meaning enable"
+  },
+  {
+    "word": "dark",
+    "sense": "L1460951-S1",
+    "definition": "to grow or become dark",
+    "example": "The woods began to dark as the sun sank below the hills.",
+    "note": "archaic intransitive verb meaning grow dark"
+  },
+  {
+    "word": "dark",
+    "sense": "L1460951-S2",
+    "definition": "to make dark, darken",
+    "example": "Heavy clouds dark the evening sky.",
+    "note": "archaic transitive verb meaning darken"
+  },
+  {
+    "word": "a",
+    "sense": "L36455-S1",
+    "definition": "(to do with position or direction) in, on, at, by, towards, onto",
+    "example": "The child stood a tiptoe to reach the latch.",
+    "note": "archaic preposition meaning on"
+  },
+  {
+    "word": "a",
+    "sense": "L36455-S2",
+    "definition": "(to do with separation) in, into",
+    "example": "The old flag was torn a pieces by the wind.",
+    "note": "archaic preposition meaning into"
+  },
+  {
+    "word": "known",
+    "sense": "L309441-S1",
+    "definition": "that is made cognizant of/realized",
+    "example": "We treated the sample's mass as a known in the calculation.",
+    "note": "technical noun meaning an established quantity"
+  },
+  {
+    "word": "sorry",
+    "sense": "L1378603-S1",
+    "definition": "to grieve, sorrow for",
+    "example": "He would sorry for those left behind.",
+    "note": "obsolete verb meaning feel sorrow for"
+  },
+  {
+    "word": "american",
+    "sense": "omw-en-American-02927303-a",
+    "definition": "of or relating to or characteristic of the continents and islands of the Americas",
+    "example": "The museum has a collection of American art."
+  },
+  {
+    "word": "beautiful",
+    "sense": "omw-en-beautiful-00217728-a",
+    "definition": "delighting the senses or exciting intellectual or emotional admiration",
+    "example": "The garden is full of beautiful flowers."
+  },
+  {
+    "word": "busy",
+    "sense": "omw-en-busy-00292937-a",
+    "definition": "actively or fully engaged or occupied",
+    "example": "She was too busy to answer the phone."
+  },
+  {
+    "word": "calm",
+    "sense": "omw-en-calm-00529657-s",
+    "definition": "not agitated; without losing self-possession",
+    "example": "He spoke in a calm voice during the emergency."
+  },
+  {
+    "word": "captain",
+    "sense": "omw-en-captain-09893344-n",
+    "definition": "the leader of a group of people",
+    "example": "The team captain thanked the players after the match."
+  },
+  {
+    "word": "cat",
+    "sense": "omw-en-cat-02121620-n",
+    "definition": "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+    "example": "The cat curled up on the sunny windowsill."
+  },
+  {
+    "word": "chief",
+    "sense": "omw-en-chief-01277426-s",
+    "definition": "most important element",
+    "example": "Our chief concern is keeping the children safe."
+  },
+  {
+    "word": "coming",
+    "sense": "omw-en-coming-01732601-s",
+    "definition": "of the relatively near future",
+    "example": "We will visit our grandparents this coming weekend."
+  },
+  {
+    "word": "days",
+    "sense": "omw-en-days-15141059-n",
+    "definition": "the time during which someone's life continues",
+    "example": "She spent her final days surrounded by friends."
+  },
+  {
+    "word": "don",
+    "sense": "omw-en-Don-06340395-n",
+    "definition": "a Spanish courtesy title or form of address for men that is prefixed to the forename",
+    "example": "Don Roberto greeted us at the gate."
+  },
+  {
+    "word": "drunk",
+    "sense": "omw-en-drunk-00920260-s",
+    "definition": "as if under the influence of alcohol",
+    "example": "The winning players were drunk with excitement."
+  },
+  {
+    "word": "english",
+    "sense": "omw-en-English-03003344-a",
+    "definition": "of or relating to or characteristic of England or its culture or people",
+    "example": "The tour includes several old English castles."
+  },
+  {
+    "word": "enjoy",
+    "sense": "omw-en-enjoy-01192510-v",
+    "definition": "have benefit from",
+    "example": "Members enjoy free access to the swimming pool."
+  },
+  {
+    "word": "food",
+    "sense": "omw-en-food-07555863-n",
+    "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+    "example": "We packed enough food for the whole journey."
+  },
+  {
+    "word": "french",
+    "sense": "omw-en-French-06964901-n",
+    "definition": "the Romance language spoken in France and in countries colonized by France",
+    "example": "She is learning French at evening classes."
+  },
+  {
+    "word": "glad",
+    "sense": "omw-en-glad-01146920-s",
+    "definition": "feeling happy appreciation",
+    "example": "I was glad of a warm coat in the cold wind."
+  },
+  {
+    "word": "glass",
+    "sense": "omw-en-glass-03438257-n",
+    "definition": "a container for holding liquids while drinking",
+    "example": "She filled a glass with cold water."
+  },
+  {
+    "word": "going",
+    "sense": "omw-en-going-00048051-n",
+    "definition": "advancing toward a goal",
+    "example": "The thick mud made the going slow and difficult."
+  },
+  {
+    "word": "honest",
+    "sense": "omw-en-honest-01851795-s",
+    "definition": "without pretensions",
+    "example": "He earned his living through honest work."
+  },
+  {
+    "word": "kid",
+    "sense": "omw-en-kid-09917593-n",
+    "definition": "a young person of either sex",
+    "example": "The youngest kid in the class raised her hand."
+  },
+  {
+    "word": "killing",
+    "sense": "omw-en-killing-00219012-n",
+    "definition": "the act of terminating a life",
+    "example": "The law bans the killing of protected animals."
+  },
+  {
+    "word": "liked",
+    "sense": "omw-en-liked-01461138-a",
+    "definition": "found pleasant or attractive; often used as a combining form",
+    "example": "He was a well liked member of the team."
+  },
+  {
+    "word": "lucky",
+    "sense": "omw-en-lucky-01468097-a",
+    "definition": "having or bringing good fortune",
+    "example": "We were lucky to find a seat on the train."
+  },
+  {
+    "word": "mine",
+    "sense": "omw-en-mine-03768346-n",
+    "definition": "excavation in the earth from which ores and minerals are extracted",
+    "example": "The old coal mine closed many years ago."
+  },
+  {
+    "word": "missing",
+    "sense": "omw-en-missing-01450178-s",
+    "definition": "not able to be found",
+    "example": "The names of the missing soldiers were read aloud."
+  },
+  {
+    "word": "moved",
+    "sense": "omw-en-moved-01559903-a",
+    "definition": "being excited or provoked to the expression of an emotion",
+    "example": "She was deeply moved by his kind words."
+  },
+  {
+    "word": "mum",
+    "sense": "omw-en-mum-04652345-n",
+    "definition": "secrecy",
+    "example": "Mum is the word until we announce the surprise."
+  },
+  {
+    "word": "needs",
+    "sense": "omw-en-needs-00112393-r",
+    "definition": "in such a manner as could not be otherwise",
+    "example": "We must needs rest before continuing the journey.",
+    "note": "archaic adverb meaning necessarily"
+  },
+  {
+    "word": "offer",
+    "sense": "omw-en-offer-07185076-n",
+    "definition": "the verbal act of offering",
+    "example": "She accepted his offer of help with the bags."
+  },
+  {
+    "word": "proud",
+    "sense": "omw-en-proud-01889256-a",
+    "definition": "feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
+    "example": "He was proud of the garden he had planted."
+  },
+  {
+    "word": "prove",
+    "sense": "omw-en-prove-00664788-v",
+    "definition": "establish the validity of something, as by an example, explanation or experiment",
+    "example": "The experiment will prove whether the idea works."
+  },
+  {
+    "word": "road",
+    "sense": "omw-en-road-04096066-n",
+    "definition": "an open way (generally public) for travel or transportation",
+    "example": "The narrow road leads down to the beach."
+  },
+  {
+    "word": "saved",
+    "sense": "omw-en-saved-00737703-s",
+    "definition": "guarded from injury or destruction",
+    "example": "The saved documents survived the computer crash."
+  },
+  {
+    "word": "south",
+    "sense": "omw-en-south-01602330-a",
+    "definition": "situated in or facing or moving toward or coming from the south",
+    "example": "Please use the south entrance to the building."
+  },
+  {
+    "word": "star",
+    "sense": "omw-en-star-09444783-n",
+    "definition": "any celestial body visible (as a point of light) from the Earth at night",
+    "example": "A bright star appeared above the hills."
+  },
+  {
+    "word": "stupid",
+    "sense": "omw-en-stupid-00436645-s",
+    "definition": "in a state of mental numbness especially as resulting from shock",
+    "example": "He was stupid with exhaustion after the long climb."
+  },
+  {
+    "word": "such",
+    "sense": "omw-en-such-01554230-s",
+    "definition": "of so extreme a degree or extent",
+    "example": "I have never seen such beautiful flowers."
+  },
+  {
+    "word": "telling",
+    "sense": "omw-en-telling-01305344-s",
+    "definition": "disclosing unintentionally",
+    "example": "Her telling smile revealed that she knew the secret."
+  },
+  {
+    "word": "terrible",
+    "sense": "omw-en-terrible-01126291-s",
+    "definition": "exceptionally bad or displeasing",
+    "example": "We had terrible weather throughout the trip."
+  },
+  {
+    "word": "tired",
+    "sense": "omw-en-tired-02431728-a",
+    "definition": "depleted of strength or energy",
+    "example": "The tired children fell asleep on the bus."
+  },
+  {
+    "word": "totally",
+    "sense": "omw-en-totally-00008007-r",
+    "definition": "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')",
+    "example": "The room looks totally different with new paint."
+  },
+  {
+    "word": "wearing",
+    "sense": "omw-en-wearing-00837249-s",
+    "definition": "producing exhaustion",
+    "example": "The long journey was especially wearing for the children."
+  },
+  {
+    "word": "works",
+    "sense": "omw-en-works-14461679-n",
+    "definition": "everything available; usually preceded by `the'",
+    "example": "He ordered a sandwich with the works."
+  },
+  {
+    "word": "pretty",
+    "sense": "omw-en-pretty-00220082-s",
+    "definition": "pleasing by delicacy or grace; not imposing",
+    "example": "She wore a pretty dress to the party."
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "word": "town",
+    "sense": "L1379669-S1",
+    "definition": "to be provided or filled with towns",
+    "pos": "v",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1379669",
+    "reason": "Rare verb; the gloss does not establish its argument structure or a clear modern usage."
+  },
+  {
+    "word": "remember",
+    "sense": "L1402228-S1",
+    "definition": "something remembered, reminded of",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1402228",
+    "reason": "Noun remember is not supported by the English Wiktionary noun definitions retrieved during review."
+  },
+  {
+    "word": "return",
+    "sense": "L1449769-S1",
+    "definition": "give back",
+    "pos": "a",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1449769",
+    "reason": "Adjective entry has a verb-like gloss (give back); intended grammatical use is unclear."
+  },
+  {
+    "word": "missing",
+    "sense": "L1459933-S1",
+    "definition": "long for, be lacking, absence noted with sadness, be unable to locate",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1459933",
+    "reason": "Noun entry has verb-like glosses; Wiktionary noun missing instead describes a missing data value."
+  },
+  {
+    "word": "money",
+    "sense": "L1466470-S1",
+    "definition": "provide money for",
+    "pos": "v",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1466470",
+    "reason": "Rare verb money requires an attested construction before writing a teaching example."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S3",
+    "definition": "putting forth strategic effort for a goal",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1407614",
+    "reason": "Strategic-effort gloss does not distinguish this nominal sense from ordinary movement clearly enough."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S4",
+    "definition": "impelled action",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1407614",
+    "reason": "Impelled-action gloss does not distinguish this nominal sense from ordinary movement clearly enough."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S5",
+    "definition": "act or process of affecting emotionally",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1407614",
+    "reason": "Emotional-effect nominal sense needs attestation to distinguish it from adjectival moving."
+  },
+  {
+    "word": "moving",
+    "sense": "L1407614-S6",
+    "definition": "act or process of attacking",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1407614",
+    "reason": "Attacking gloss needs attestation to distinguish this noun from ordinary movement."
+  },
+  {
+    "word": "doing",
+    "sense": "L1402086-S1",
+    "definition": "that does, acts, performs",
+    "pos": "a",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1402086",
+    "reason": "Adjective doing needs an attested construction; ordinary examples of doing use a verb or gerund."
+  },
+  {
+    "word": "later",
+    "sense": "L1402954-S1",
+    "definition": "to abandon a relationship",
+    "pos": "v",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1402954",
+    "reason": "Relationship-abandonment verb later was not found in the English Wiktionary verb definitions retrieved."
+  },
+  {
+    "word": "across",
+    "sense": "L1499643-S1",
+    "definition": "being in a crossed position",
+    "pos": "a",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1499643",
+    "reason": "Adjective across needs an attested construction distinct from the usual adverb and preposition."
+  },
+  {
+    "word": "dog",
+    "sense": "L1327177-S1",
+    "definition": "cruel, cold-hearted",
+    "pos": "a",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1327177",
+    "reason": "Cruel/cold-hearted adjective gloss does not match the Wiktionary adjective gloss (inferior quality)."
+  },
+  {
+    "word": "worse",
+    "sense": "L1377739-S1",
+    "definition": "to deteriorate in quality or condition",
+    "pos": "v",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1377739",
+    "reason": "Wikidata gives an intransitive deteriorate gloss; retrieved Wiktionary gives transitive make worse."
+  },
+  {
+    "word": "understand",
+    "sense": "L1402220-S1",
+    "definition": "understanding, knowledge",
+    "pos": "n",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1402220",
+    "reason": "Noun understand was not found in the English Wiktionary noun definitions retrieved."
+  },
+  {
+    "word": "seem",
+    "sense": "L1328511-S1",
+    "definition": "seemly, proper, fitting",
+    "pos": "a",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1328511",
+    "reason": "Adjective seem was not found in the English Wiktionary adjective definitions retrieved."
+  },
+  {
+    "word": "later",
+    "sense": "L1402951-S1",
+    "definition": "later on",
+    "pos": "p",
+    "source": "https://www.wikidata.org/wiki/Lexeme:L1402951",
+    "reason": "Preposition later needs an attested complement construction distinct from adverb later."
+  }
+]

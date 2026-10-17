@@ -31,6 +31,10 @@ RUN python extensions/wikidata-lexemes/merge_extension.py extensions/wikidata-le
 COPY extensions/extras/ ./extensions/extras/
 RUN python extensions/wikidata-lexemes/merge_extension.py extensions/extras/*.xml
 
+# Curated, sense-specific examples for the most frequent English dictionary words.
+COPY extensions/english-examples ./extensions/english-examples
+RUN python extensions/english-examples/enrich.py
+
 # Install the reviewed learner extension by default; minimal builds can opt out.
 ARG INSTALL_ENGLISH_LEARNER=true
 COPY extensions/english-learner/ ./extensions/english-learner/
