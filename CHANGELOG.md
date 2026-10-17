@@ -2,6 +2,10 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.10.1]
+
+**Release date: 2026-10-17**
+
 ### Fixed
 
 * Sync upstream relation-query fixes and SQLite string-literal quoting.
@@ -1183,6 +1187,7 @@ abandoned, but this is an entirely new codebase.
 [v0.1.1]: ../../releases/tag/v0.1.1
 [v0.1.0]: ../../releases/tag/v0.1.0
 [unreleased]: ../../tree/main
+[v1.10.1]: ../../releases/tag/v1.10.1
 [v1.10.0]: ../../releases/tag/v1.10.0
 
 [#7]: https://github.com/goodmami/wn/issues/7
