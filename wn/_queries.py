@@ -156,7 +156,7 @@ def get_modified(lexicon: str) -> bool:
 
 def get_lexicon_dependencies(lexicon: str) -> list[tuple[str, str, bool]]:
     query = """
-        SELECT provider_id || ":" || provider_version, provider_url, provider_rowid
+        SELECT provider_id || ':' || provider_version, provider_url, provider_rowid
           FROM lexicon_dependencies
           JOIN lexicons AS lex ON lex.rowid = dependent_rowid
          WHERE lex.specifier = ?
@@ -904,7 +904,7 @@ def get_sense_synset_relations(
 ) -> Iterator[_Synset_Relation]:
     params: list = []
     constraint = ""
-    if "*" not in relation_types:
+    if relation_types and "*" not in relation_types:
         constraint = f"WHERE type IN ({_qs(relation_types)})"
         params.extend(relation_types)
     params.extend(lexicons)
