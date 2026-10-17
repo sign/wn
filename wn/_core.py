@@ -808,7 +808,7 @@ class Synset(_Relatable):
 
         """
         if data:
-            return dict(self._iter_relations())
+            return dict(self._iter_relations(*args))
         else:
             # inner dict is used as an order-preserving set
             relmap: dict[str, dict[Synset, bool]] = {}
@@ -1181,7 +1181,7 @@ class Sense(_Relatable):
 
         """
         if data:
-            return dict(self._iter_sense_relations())
+            return dict(self._iter_sense_relations(*args))
         else:
             # inner dict is used as an order-preserving set
             relmap: dict[str, dict[Sense, bool]] = {}
@@ -1226,7 +1226,7 @@ class Sense(_Relatable):
 
         """
         if data:
-            return dict(self._iter_sense_synset_relations())
+            return dict(self._iter_sense_synset_relations(*args))
         else:
             # inner dict is used as an order-preserving set
             relmap: dict[str, dict[Synset, bool]] = {}

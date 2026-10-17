@@ -2,6 +2,15 @@
 
 ## [Unreleased][unreleased]
 
+### Fixed
+
+* Sync upstream relation-query fixes and SQLite string-literal quoting.
+
+### Changed
+
+* Run CI lint, type checks, builds, and tests on Python 3.14. Tests continue
+  to run on Ubuntu and Windows.
+
 ## [v1.10.0]
 
 **Release date: 2026-10-17**
@@ -303,6 +312,18 @@ Sign-language fork release built on top of upstream v1.1.0.
 ### Fixed
 
 * Starlette lifespan handler in `wn.web`.
+
+
+## [v1.1.1]
+
+**Release date: 2026-08-13**
+
+### Fixed
+
+* `Sense.synset_relations()` returns any relations when no relation name is
+  given ([#328])
+* `Sense.relations()`, `Sense.synset_relations()`, and `Synset.relations()`
+  correctly filter by relation name when `data=True` ([#329])
 
 
 ## [v1.1.0]
@@ -1130,6 +1151,7 @@ the https://github.com/nltk/wordnet/ code which had been effectively
 abandoned, but this is an entirely new codebase.
 
 
+[v1.1.1]: ../../releases/tag/v1.1.1
 [v1.1.0]: ../../releases/tag/v1.1.0
 [v1.0.0]: ../../releases/tag/v1.0.0
 [v0.14.0]: ../../releases/tag/v0.14.0
@@ -1283,3 +1305,5 @@ abandoned, but this is an entirely new codebase.
 [#314]: https://github.com/goodmami/wn/issues/314
 [#316]: https://github.com/goodmami/wn/issues/316
 [#319]: https://github.com/goodmami/wn/issues/319
+[#328]: https://github.com/goodmami/wn/issues/328
+[#329]: https://github.com/goodmami/wn/issues/329
