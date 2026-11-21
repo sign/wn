@@ -1,5 +1,6 @@
 import importlib.util
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import pytest
@@ -101,3 +102,24 @@ def test_curated_examples_and_ranking():
         "L1327670-S1", "L2985-S1", "L248738-S1", "L248738-S2",
         "L248738-S3", "L1327669-S1",
     }
+
+
+def test_wikidata_example_targets_exist_in_extension():
+    """Dropping a sense from the Wikidata extension (e.g. with an override)
+    that examples.json still targets breaks the Docker build's enrich step."""
+    extension = DATA_DIR.parent / "wikidata-lexemes" / "output" / "en.xml"
+    forms = {}
+    for entry in ET.parse(extension).getroot().iter("LexicalEntry"):
+        words = {
+            el.get("writtenForm").lower()
+            for el in entry if el.tag in ("Lemma", "Form")
+        }
+        for sense in entry.iter("Sense"):
+            forms[sense.get("id")] = words
+    records = json.loads((DATA_DIR / "examples.json").read_text(encoding="utf-8"))
+    missing = [
+        (record["sense"], record["word"]) for record in records
+        if not record["sense"].startswith("omw-en-")
+        and record["word"].lower() not in forms.get(record["sense"], ())
+    ]
+    assert not missing
