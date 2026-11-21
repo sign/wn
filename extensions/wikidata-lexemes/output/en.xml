@@ -27,6 +27,9 @@
         <Definition>the number 10</Definition>
         <Example>the Interim Constitution was amended ten times</Example>
       </Sense>
+      <Sense id="L338-S2" synset="wikidata-en-L338-S2" ili="l338-s2">
+        <Definition>a playing card marked with 10 pips</Definition>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="L411">
       <Lemma writtenForm="repurpose" partOfSpeech="v"/>
@@ -24419,6 +24422,9 @@
       <Sense id="L319686-S2" synset="wikidata-en-L319686-S2" ili="l319686-s2">
         <Definition>the act of serving a period of time, such as a prison sentence or an appointment</Definition>
       </Sense>
+      <Sense id="L319686-S3" synset="wikidata-en-L319686-S3" ili="l319686-s3">
+        <Definition>an act or deed attributed to someone; something for which a person is responsible</Definition>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="L321902">
       <Lemma writtenForm="high chair" partOfSpeech="n"/>
@@ -37282,6 +37288,9 @@
       <Sense id="L335-S1" synset="wikidata-en-L335-S1" ili="l335-s1">
         <Definition>the number 7</Definition>
       </Sense>
+      <Sense id="L335-S2" synset="wikidata-en-L335-S2" ili="l335-s2">
+        <Definition>a playing card marked with 7 pips</Definition>
+      </Sense>
     </LexicalEntry>
     <LexicalEntry id="L1386">
       <Lemma writtenForm="or" partOfSpeech="c"/>
@@ -44402,7 +44411,7 @@
     <LexicalEntry id="L3005">
       <Lemma writtenForm="which" partOfSpeech="d"/>
       <Sense id="L3005-S1" synset="wikidata-en-L3005-S1" ili="l3005-s1">
-        <Definition>what one or ones of a known or limited set</Definition>
+        <Definition>what one or ones of a known or limited set; whichever</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L3206">
@@ -44453,6 +44462,7 @@
       </Sense>
       <Sense id="L4334-S2" synset="wikidata-en-L4334-S2" ili="l4334-s2">
         <Definition>philosophical, psychological and anthropological concept that refers to the opposite of one&apos;s own identity</Definition>
+        <Example>She and others were disappointed in the results of the election</Example>
         <SenseRelation relType="hyponym" target="wikidata-en-L4334-S1"/>
       </Sense>
     </LexicalEntry>
@@ -45184,6 +45194,9 @@
       <Sense id="L45026-S3" synset="wikidata-en-L45026-S3" ili="l45026-s3">
         <Definition>at the time of the action of the following clause</Definition>
         <Example>The show will begin when I get there.</Example>
+      </Sense>
+      <Sense id="L45026-S4" synset="wikidata-en-L45026-S4" ili="l45026-s4">
+        <Definition>considering that; given that (used to introduce a fact that makes something surprising or unreasonable)</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L45147">
@@ -54221,6 +54234,12 @@
         <Definition>system of administrative and expert committees within the European Union</Definition>
       </Sense>
     </LexicalEntry>
+    <LexicalEntry id="L1327669">
+      <Lemma writtenForm="to" partOfSpeech="c"/>
+      <Sense id="L1327669-S1" synset="wikidata-en-L1327669-S1" ili="l1327669-s1">
+        <Definition>(linking a destination, subject of approach)</Definition>
+      </Sense>
+    </LexicalEntry>
     <LexicalEntry id="L1327687">
       <Lemma writtenForm="rizz" partOfSpeech="n"/>
       <Form writtenForm="rizzes"/>
@@ -58337,6 +58356,9 @@
     <Synset id="wikidata-en-L338-S1" ili="l338-s1" partOfSpeech="d">
       <Definition>the number 10</Definition>
       <Example>the Interim Constitution was amended ten times</Example>
+    </Synset>
+    <Synset id="wikidata-en-L338-S2" ili="l338-s2" partOfSpeech="d">
+      <Definition>a playing card marked with 10 pips</Definition>
     </Synset>
     <Synset id="wikidata-en-L411-S1" ili="l411-s1" partOfSpeech="v">
       <Definition>to give an old object a new purpose/role</Definition>
@@ -69430,6 +69452,9 @@
     <Synset id="wikidata-en-L319686-S2" ili="l319686-s2" partOfSpeech="n">
       <Definition>the act of serving a period of time, such as a prison sentence or an appointment</Definition>
     </Synset>
+    <Synset id="wikidata-en-L319686-S3" ili="l319686-s3" partOfSpeech="n">
+      <Definition>an act or deed attributed to someone; something for which a person is responsible</Definition>
+    </Synset>
     <Synset id="wikidata-en-L321902-S1" ili="l321902-s1" partOfSpeech="n">
       <Definition>a child&apos;s chair with long legs, a footrest, and usually a feeding tray</Definition>
     </Synset>
@@ -75234,6 +75259,9 @@
     <Synset id="wikidata-en-L335-S1" ili="l335-s1" partOfSpeech="d">
       <Definition>the number 7</Definition>
     </Synset>
+    <Synset id="wikidata-en-L335-S2" ili="l335-s2" partOfSpeech="d">
+      <Definition>a playing card marked with 7 pips</Definition>
+    </Synset>
     <Synset id="wikidata-en-L1386-S1" ili="l1386-s1" partOfSpeech="c">
       <Definition>connects at least two alternatives (inclusive)</Definition>
     </Synset>
@@ -78415,7 +78443,7 @@
       <Definition>near to</Definition>
     </Synset>
     <Synset id="wikidata-en-L3005-S1" ili="l3005-s1" partOfSpeech="d">
-      <Definition>what one or ones of a known or limited set</Definition>
+      <Definition>what one or ones of a known or limited set; whichever</Definition>
     </Synset>
     <Synset id="wikidata-en-L3206-S1" ili="l3206-s1" partOfSpeech="c">
       <Definition>used to introduce the second element of a comparison</Definition>
@@ -78444,6 +78472,7 @@
     </Synset>
     <Synset id="wikidata-en-L4334-S2" ili="l4334-s2" partOfSpeech="n">
       <Definition>philosophical, psychological and anthropological concept that refers to the opposite of one&apos;s own identity</Definition>
+      <Example>She and others were disappointed in the results of the election</Example>
     </Synset>
     <Synset id="wikidata-en-L5221-S1" ili="l5221-s1" partOfSpeech="p">
       <Definition>up to a certain point in time</Definition>
@@ -78791,6 +78820,9 @@
     <Synset id="wikidata-en-L45026-S3" ili="l45026-s3" partOfSpeech="c">
       <Definition>at the time of the action of the following clause</Definition>
       <Example>The show will begin when I get there.</Example>
+    </Synset>
+    <Synset id="wikidata-en-L45026-S4" ili="l45026-s4" partOfSpeech="c">
+      <Definition>considering that; given that (used to introduce a fact that makes something surprising or unreasonable)</Definition>
     </Synset>
     <Synset id="wikidata-en-L45147-S1" ili="l45147-s1" partOfSpeech="a">
       <Definition>relating to students receiving postsecondary education and not yet graduated</Definition>
@@ -82904,6 +82936,9 @@
     </Synset>
     <Synset id="wikidata-en-L1327604-S3" ili="l1327604-s3" partOfSpeech="n">
       <Definition>system of administrative and expert committees within the European Union</Definition>
+    </Synset>
+    <Synset id="wikidata-en-L1327669-S1" ili="l1327669-s1" partOfSpeech="c">
+      <Definition>(linking a destination, subject of approach)</Definition>
     </Synset>
     <Synset id="wikidata-en-L1327687-S1" ili="l1327687-s1" partOfSpeech="n">
       <Definition>charisma, charm</Definition>
