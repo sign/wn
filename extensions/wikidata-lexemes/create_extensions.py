@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 import bz2
+import json
 import os
 from concurrent.futures import ThreadPoolExecutor
+from functools import cache
 from pathlib import Path
 from typing import NamedTuple
 from xml.sax.saxutils import escape as xml_escape
@@ -23,6 +25,7 @@ from wn.constants import OTHER
 LANG_FILTER = os.environ.get("LANG_FILTER", "").strip() or None
 DATA_PATH = Path(__file__).parent / "latest-lexemes.json.bz2"
 EXTENSIONS_DIR = Path(__file__).parent / "output"
+OVERRIDES_DIR = Path(__file__).parent / "overrides"
 
 SKIP_POS = frozenset({
     # Covered in WordNet already
@@ -187,6 +190,8 @@ def _try_keep(
         seen_lemma_pos.add(key)
         accepted = True
         for sense in lex.get("senses", []):
+            if _override_for(lang_iso, sense["id"], lemma).get("drop"):
+                continue
             kept_sense_ids.add(sense["id"])
             kept_lang_senses.add((lang_iso, sense["id"]))
     return accepted
@@ -281,6 +286,37 @@ def _pick_gloss(glosses: dict, lang_iso: str) -> str:
         if text:
             return text
     return ""
+
+
+@cache
+def _overrides(lang_iso: str) -> dict[str, dict]:
+    path = OVERRIDES_DIR / f"{lang_iso}.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def _override_for(lang_iso: str, sense_id: str, lemma: str) -> dict:
+    """An override is pinned to the lemma it was reviewed against: if Wikidata
+    later renames the lexeme (e.g. fixes a misspelled headword we drop), the
+    override no longer applies."""
+    override = _overrides(lang_iso).get(sense_id, {})
+    return override if override.get("lemma") == lemma else {}
+
+
+def _apply_overrides(
+    senses: list[NormalizedSense], lang_iso: str, lemma: str,
+) -> list[NormalizedSense]:
+    out = []
+    for sense in senses:
+        override = _override_for(lang_iso, sense.id, lemma)
+        if override.get("drop"):
+            continue
+        out.append(sense._replace(
+            gloss=override.get("definition", sense.gloss),
+            examples=override.get("examples", sense.examples),
+        ))
+    return out
 
 
 def _extract_sense_examples(lexeme: dict, lang_iso: str) -> dict[str, list[str]]:
@@ -396,7 +432,10 @@ def build_xml_entry(
     pos_name = get_label(pos_q)
     pos_code = POS_MAP.get(pos_name, OTHER)
 
-    senses = _normalized_senses(lexeme, lemma, pos_name, lang_iso, kept_lang_senses)
+    senses = _apply_overrides(
+        _normalized_senses(lexeme, lemma, pos_name, lang_iso, kept_lang_senses),
+        lang_iso, lemma,
+    )
     if not senses:
         return None
 
