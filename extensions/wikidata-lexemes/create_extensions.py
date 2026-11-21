@@ -190,6 +190,8 @@ def _try_keep(
         seen_lemma_pos.add(key)
         accepted = True
         for sense in lex.get("senses", []):
+            if _override_for(lang_iso, sense["id"], lemma).get("drop"):
+                continue
             kept_sense_ids.add(sense["id"])
             kept_lang_senses.add((lang_iso, sense["id"]))
     return accepted
@@ -346,8 +348,6 @@ def _sense_relations_xml(
                 continue
             target_id = dv["value"]["id"]
             if (lang_iso, target_id) not in kept_lang_senses:
-                continue
-            if _overrides(lang_iso).get(target_id, {}).get("drop"):
                 continue
             target_synset = f"wikidata-{lang_iso}-{target_id}"
             relations.append(

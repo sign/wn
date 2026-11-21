@@ -9870,7 +9870,7 @@
     <LexicalEntry id="L468947">
       <Lemma writtenForm="carbon dioxide removal" partOfSpeech="n"/>
       <Sense id="L468947-S1" synset="wikidata-en-L468947-S1" ili="l468947-s1">
-        <Definition>type of geoengineering</Definition>
+        <Definition>the deliberate removal of carbon dioxide from the atmosphere and its durable storage, as a way of limiting climate change</Definition>
       </Sense>
       <Sense id="L468947-S2" synset="wikidata-en-L468947-S2" ili="l468947-s2">
         <Definition>a medical procedure that extracts excess CO2 from a patient&apos;s blood by passing it through a device outside the body</Definition>
@@ -16624,7 +16624,7 @@
       <Lemma writtenForm="understory" partOfSpeech="n"/>
       <Form writtenForm="understories"/>
       <Sense id="L253324-S1" synset="wikidata-en-L253324-S1" ili="l253324-s1">
-        <Definition>an intestinal disease caused by Cryptosporidium parasites, marked by watery diarrhea</Definition>
+        <Definition>layer of plant life growing above the shrub layer and below the canopy</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L253327">
@@ -16645,7 +16645,7 @@
       <Lemma writtenForm="cryptosporidiosis" partOfSpeech="n"/>
       <Form writtenForm="cryptosporidioses"/>
       <Sense id="L253450-S1" synset="wikidata-en-L253450-S1" ili="l253450-s1">
-        <Definition>Human disease</Definition>
+        <Definition>an intestinal disease caused by Cryptosporidium parasites, marked by watery diarrhea</Definition>
       </Sense>
     </LexicalEntry>
     <LexicalEntry id="L253452">
@@ -62823,7 +62823,7 @@
       <Definition>legal proceedings meant to address climate change through judicial proceedings</Definition>
     </Synset>
     <Synset id="wikidata-en-L468947-S1" ili="l468947-s1" partOfSpeech="n">
-      <Definition>type of geoengineering</Definition>
+      <Definition>the deliberate removal of carbon dioxide from the atmosphere and its durable storage, as a way of limiting climate change</Definition>
     </Synset>
     <Synset id="wikidata-en-L468947-S2" ili="l468947-s2" partOfSpeech="n">
       <Definition>a medical procedure that extracts excess CO2 from a patient&apos;s blood by passing it through a device outside the body</Definition>
@@ -65857,7 +65857,7 @@
       <Definition>to fix or restore something that was previously destroyed</Definition>
     </Synset>
     <Synset id="wikidata-en-L253324-S1" ili="l253324-s1" partOfSpeech="n">
-      <Definition>an intestinal disease caused by Cryptosporidium parasites, marked by watery diarrhea</Definition>
+      <Definition>layer of plant life growing above the shrub layer and below the canopy</Definition>
     </Synset>
     <Synset id="wikidata-en-L253327-S1" ili="l253327-s1" partOfSpeech="n">
       <Definition>disease causing abnormally positioned eyelashes</Definition>
@@ -65866,7 +65866,7 @@
       <Definition>science of the study of plants in relation to their use by humans</Definition>
     </Synset>
     <Synset id="wikidata-en-L253450-S1" ili="l253450-s1" partOfSpeech="n">
-      <Definition>Human disease</Definition>
+      <Definition>an intestinal disease caused by Cryptosporidium parasites, marked by watery diarrhea</Definition>
     </Synset>
     <Synset id="wikidata-en-L253452-S1" ili="l253452-s1" partOfSpeech="n">
       <Definition>presence of more than one medical condition in a patient that may contribute to clinical progression of the primary disorder</Definition>
