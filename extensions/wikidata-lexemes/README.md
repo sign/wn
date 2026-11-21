@@ -43,6 +43,26 @@ Web requests are cached on disk under `extras/` (gitignored):
 
 To force a refresh of a cached entry, delete the corresponding file.
 
+## Overrides
+
+Wikidata glosses are crowd-sourced and some are wrong, not in the lexeme's
+language, or not definitions at all. `overrides/<lang>.json` holds reviewed
+corrections that are re-applied on every run, keyed by sense ID:
+
+```json
+{
+  "L1360672-S1": {"lemma": "from here", "definition": "starting from this place"},
+  "L579062-S1": {"lemma": "cornhole", "examples": []},
+  "L740195-S1": {"lemma": "❤️", "drop": true}
+}
+```
+
+- `definition` replaces the gloss; `examples` replaces the whole example list;
+  `drop` removes the sense (and the entry, once it has no senses left).
+- `lemma` pins the override to the headword it was reviewed against. If
+  Wikidata renames the lexeme, the override stops applying and should be
+  re-reviewed.
+
 ## Output
 
 The script generates ~130 language-specific XML files in Global WordNet LMF format:
