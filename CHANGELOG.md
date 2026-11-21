@@ -2,6 +2,22 @@
 
 ## [Unreleased][unreleased]
 
+## [v1.10.2]
+
+**Release date: 2026-11-21**
+
+### Fixed
+
+* Correct 1,145 senses of the English Wikidata lexeme extension with reviewed
+  overrides: non-English or wrong definitions, bare categories, annotation
+  residue, typos, unlabelled vulgar terms, and junk headwords
+  ([sign/wn#14](https://github.com/sign/wn/pull/14)).
+
+### Added
+
+* `extensions/wikidata-lexemes/overrides/<lang>.json`, applied by
+  `create_extensions.py` on every run so corrections survive a re-crawl.
+
 ## [v1.10.1]
 
 **Release date: 2026-10-17**
@@ -1187,6 +1203,7 @@ abandoned, but this is an entirely new codebase.
 [v0.1.1]: ../../releases/tag/v0.1.1
 [v0.1.0]: ../../releases/tag/v0.1.0
 [unreleased]: ../../tree/main
+[v1.10.2]: ../../releases/tag/v1.10.2
 [v1.10.1]: ../../releases/tag/v1.10.1
 [v1.10.0]: ../../releases/tag/v1.10.0
 
