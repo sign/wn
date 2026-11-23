@@ -1,4 +1,5 @@
 import pytest
+from starlette.routing import Route
 from starlette.testclient import TestClient
 
 import wn
@@ -280,3 +281,14 @@ def test_unfiltered_queries_paginate_in_database(endpoint, monkeypatch):
 @pytest.mark.parametrize("value", ["0", "-1", "201", "invalid"])
 def test_invalid_pagination_rejected(value):
     assert client.get("/words", params={"page[limit]": value}).status_code == 400
+
+
+def test_unhandled_errors_hide_tracebacks(monkeypatch):
+    async def fail(request):
+        raise RuntimeError("sensitive backend details")
+
+    monkeypatch.setattr(web.app.router, "routes", [Route("/boom", fail)])
+    response = TestClient(web.app, raise_server_exceptions=False).get("/boom")
+    assert response.status_code == 500
+    assert response.json()["error"]["message"] == "Internal server error"
+    assert "sensitive backend details" not in response.text

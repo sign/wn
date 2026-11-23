@@ -741,7 +741,7 @@ async def lifespan(app):
 
 
 app = Starlette(
-    debug=True,
+    debug=False,
     routes=routes,
     middleware=middlewares,
     lifespan=lifespan,
