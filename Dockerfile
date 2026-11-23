@@ -1,11 +1,14 @@
-FROM python:3.15.2-slim-trixie
+FROM python:3.15.2-slim-trixie AS builder
 RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
+
+RUN python -m venv --without-pip /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
 
 WORKDIR /app
 
 COPY wn/ wn/
 COPY pyproject.toml README.md LICENSE ./
-RUN pip install --no-cache-dir ".[web]"
+RUN /usr/local/bin/python -m pip --python /opt/venv/bin/python install --no-cache-dir ".[web]"
 
 # Download the wordnet data and initialize the database
 # CILI is for the Collaborative Interlingual Index
@@ -42,9 +45,15 @@ RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
 # Clean up the downloads directory
 RUN rm -r ~/.wn_data/downloads
 
-RUN useradd --create-home --uid 1000 app && mv /root/.wn_data /opt/wn-data && chown -R app:app /opt/wn-data
-ENV WN_DATA_DIR=/opt/wn-data
-RUN rm -rf /usr/local/lib/python*/ensurepip /usr/local/lib/python*/site-packages/pip /usr/local/lib/python*/site-packages/pip-*.dist-info /opt/venv/lib/python*/site-packages/pip /opt/venv/lib/python*/site-packages/pip-*.dist-info
+FROM python:3.15.2-slim-trixie AS runtime
+RUN apt-get update && apt-get upgrade -y \
+    && rm -rf /var/lib/apt/lists/* /usr/local/lib/python3.15/ensurepip /usr/local/lib/python3.15/site-packages /usr/local/bin/pip* \
+    && useradd --create-home --uid 1000 app
+
+ENV PATH="/opt/venv/bin:$PATH" WN_DATA_DIR=/opt/wn-data
+WORKDIR /app
+COPY --from=builder /opt/venv /opt/venv
+COPY --from=builder --chown=app:app /root/.wn_data /opt/wn-data
 
 USER app
 
