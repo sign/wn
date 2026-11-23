@@ -1,12 +1,11 @@
-FROM python:3.15.2-slim-trixie@sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928
+FROM python:3.15.2-slim-trixie
 RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
-COPY requirements.lock /opt/requirements.lock
 
 COPY wn/ wn/
 COPY pyproject.toml README.md LICENSE ./
-RUN pip install --no-cache-dir -r /opt/requirements.lock && pip install --no-deps ".[web]"
+RUN pip install --no-cache-dir ".[web]"
 
 # Download the wordnet data and initialize the database
 # CILI is for the Collaborative Interlingual Index
