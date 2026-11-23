@@ -26,11 +26,18 @@ def example_db(monkeypatch, tmp_path, datadir):
 @pytest.fixture
 def example_file(tmp_path):
     path = tmp_path / "examples.json"
-    path.write_text(json.dumps([{
-        "word": "information",
-        "sense": "test-en-information-n-0001-01",
-        "example": "The guide contains useful information.",
-    }]), encoding="utf-8")
+    path.write_text(
+        json.dumps(
+            [
+                {
+                    "word": "information",
+                    "sense": "test-en-information-n-0001-01",
+                    "example": "The guide contains useful information.",
+                }
+            ]
+        ),
+        encoding="utf-8",
+    )
     return path
 
 
@@ -67,13 +74,22 @@ def test_examples_preserve_existing_data_and_are_idempotent(example_file):
 
 
 @pytest.mark.usefixtures("example_db")
-@pytest.mark.parametrize("bad_record", [
-    {"word": "information", "sense": "nonexistent", "example": "More information."},
-    {"word": "example", "sense": "test-en-information-n-0001-01",
-     "example": "Here is an example."},
-    {"word": "information", "sense": "test-en-information-n-0001-01",
-     "example": "An informational booklet."},
-])
+@pytest.mark.parametrize(
+    "bad_record",
+    [
+        {"word": "information", "sense": "nonexistent", "example": "More information."},
+        {
+            "word": "example",
+            "sense": "test-en-information-n-0001-01",
+            "example": "Here is an example.",
+        },
+        {
+            "word": "information",
+            "sense": "test-en-information-n-0001-01",
+            "example": "An informational booklet.",
+        },
+    ],
+)
 def test_invalid_target_or_word_does_not_partially_import(example_file, bad_record):
     records = json.loads(example_file.read_text())
     records.append(bad_record)
@@ -99,8 +115,12 @@ def test_curated_examples_and_ranking():
         assert record["example"].endswith((".", "!", "?"))
         assert enrichment.contains_word(record["example"], record["word"])
     assert {r["sense"] for r in records if r["word"] == "to"} == {
-        "L1327670-S1", "L2985-S1", "L248738-S1", "L248738-S2",
-        "L248738-S3", "L1327669-S1",
+        "L1327670-S1",
+        "L2985-S1",
+        "L248738-S1",
+        "L248738-S2",
+        "L248738-S3",
+        "L1327669-S1",
     }
 
 
@@ -111,14 +131,14 @@ def test_wikidata_example_targets_exist_in_extension():
     forms = {}
     for entry in ET.parse(extension).getroot().iter("LexicalEntry"):
         words = {
-            el.get("writtenForm").lower()
-            for el in entry if el.tag in ("Lemma", "Form")
+            el.get("writtenForm").lower() for el in entry if el.tag in ("Lemma", "Form")
         }
         for sense in entry.iter("Sense"):
             forms[sense.get("id")] = words
     records = json.loads((DATA_DIR / "examples.json").read_text(encoding="utf-8"))
     missing = [
-        (record["sense"], record["word"]) for record in records
+        (record["sense"], record["word"])
+        for record in records
         if not record["sense"].startswith("omw-en-")
         and record["word"].lower() not in forms.get(record["sense"], ())
     ]

@@ -144,7 +144,13 @@ class Wordnet:
         except StopIteration:
             raise Error(f"no such lexical entry: {id}") from None
 
-    def words(self, form: str | None = None, pos: str | None = None, *, page: QueryPage | None = None) -> list[Word]:
+    def words(
+        self,
+        form: str | None = None,
+        pos: str | None = None,
+        *,
+        page: QueryPage | None = None,
+    ) -> list[Word]:
         """Return the list of matching words in this wordnet.
 
         Without any arguments, this function returns all words in the
@@ -230,8 +236,12 @@ class Wordnet:
             raise Error(f"no such synset: {id}") from None
 
     def synsets(
-        self, form: str | None = None, pos: str | None = None, ili: str | None = None,
-        *, page: QueryPage | None = None
+        self,
+        form: str | None = None,
+        pos: str | None = None,
+        ili: str | None = None,
+        *,
+        page: QueryPage | None = None,
     ) -> list[Synset]:
         """Return the list of matching synsets in this wordnet.
 
@@ -255,7 +265,13 @@ class Wordnet:
         except StopIteration:
             raise Error(f"no such sense: {id}") from None
 
-    def senses(self, form: str | None = None, pos: str | None = None, *, page: QueryPage | None = None) -> list[Sense]:
+    def senses(
+        self,
+        form: str | None = None,
+        pos: str | None = None,
+        *,
+        page: QueryPage | None = None,
+    ) -> list[Sense]:
         """Return the list of matching senses in this wordnet.
 
         Without any arguments, this function returns all senses in the

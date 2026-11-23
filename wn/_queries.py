@@ -3,13 +3,14 @@ Database retrieval queries.
 """
 
 import itertools
-from dataclasses import dataclass
 from collections.abc import Collection, Iterator, Sequence
+from dataclasses import dataclass
 from typing import cast
 
 from wn._db import connect
 from wn._exceptions import Error
 from wn._metadata import Metadata
+
 
 @dataclass
 class QueryPage:
@@ -25,7 +26,9 @@ def _execute_page(conn, query, params, page):
     if page.limit < 1 or page.offset < 0:
         raise ValueError("Invalid query pagination")
     count_query = query.rsplit("ORDER BY", 1)[0]
-    page.total = conn.execute(f"SELECT COUNT(*) FROM ({count_query})", params).fetchone()[0]
+    page.total = conn.execute(
+        f"SELECT COUNT(*) FROM ({count_query})", params
+    ).fetchone()[0]
     page.applied = True
     return conn.execute(query + " LIMIT ? OFFSET ?", [*params, page.limit, page.offset])
 

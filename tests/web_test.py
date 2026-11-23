@@ -8,12 +8,13 @@ from wn import web
 # clearing connections on teardown (see conftest.py) isn't enough. For
 # this we apparently need to monkeypatch the wn._db.pool as well.
 
+
 @pytest.fixture
 def mini_db_web(monkeypatch, mini_db_dir):
     with monkeypatch.context() as m:
-        m.setattr(wn._db, 'pool', {})
-        m.setattr(wn.config, 'data_directory', mini_db_dir)
-        m.setattr(wn.config, 'allow_multithreading', True)
+        m.setattr(wn._db, "pool", {})
+        m.setattr(wn.config, "data_directory", mini_db_dir)
+        m.setattr(wn.config, "allow_multithreading", True)
         yield
         wn._db.clear_connections()
 
@@ -21,15 +22,15 @@ def mini_db_web(monkeypatch, mini_db_dir):
 client = TestClient(web.app)
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_root():
-    response = client.get('/')
+    response = client.get("/")
     assert response.status_code == 200
     data = response.json()
-    assert 'endpoints' in data
+    assert "endpoints" in data
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_lexicons():
     response = client.get("/lexicons")
     assert response.status_code == 200
@@ -37,7 +38,7 @@ def test_lexicons():
     assert [lex["id"] for lex in data] == ["test-en:1", "test-es:1"]
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_words():
     response = client.get("/words")
     assert response.status_code == 200
@@ -54,7 +55,7 @@ def test_words():
     assert "test-es-información-n" not in word_ids
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_senses():
     response = client.get("/senses")
     assert response.status_code == 200
@@ -71,7 +72,7 @@ def test_senses():
     assert "test-es-información-n-0001-01" not in sense_ids
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_synsets():
     response = client.get("/synsets")
     assert response.status_code == 200
@@ -88,18 +89,14 @@ def test_synsets():
     assert "test-es-0001-n" not in synset_ids
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_words_included_synset_enrichment():
-    response = client.get(
-        "/lexicons/test-en:1/words", params={"form": "random sample"}
-    )
+    response = client.get("/lexicons/test-en:1/words", params={"form": "random sample"})
     assert response.status_code == 200
     data = response.json()["data"]
     assert len(data) == 1
     included = data[0]["included"]
-    attrs = next(
-        ss["attributes"] for ss in included if ss["id"] == "test-en-0005-n"
-    )
+    attrs = next(ss["attributes"] for ss in included if ss["id"] == "test-en-0005-n")
     assert attrs["members"] == ["random sample"]
     # breadcrumb lemmas are ordered root -> immediate hypernym
     assert attrs["hypernyms"] == ["information", "example", "sample"]
@@ -107,14 +104,12 @@ def test_words_included_synset_enrichment():
     assert "see_also" not in attrs
 
     # synset with multiple members exposes them all
-    response = client.get(
-        "/lexicons/test-en:1/words", params={"form": "example"}
-    )
+    response = client.get("/lexicons/test-en:1/words", params={"form": "example"})
     attrs = response.json()["data"][0]["included"][0]["attributes"]
     assert set(attrs["members"]) == {"example", "illustration"}
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_lexicon_words():
     response1 = client.get("/lexicons/test-en:1/words")
     response2 = client.get("/words", params={"lexicon": "test-en:1"})
@@ -125,7 +120,7 @@ def test_lexicon_words():
     assert {word["id"] for word in data1} == {word["id"] for word in data2}
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_lexicon_senses():
     response1 = client.get("/lexicons/test-en:1/senses")
     response2 = client.get("/senses", params={"lexicon": "test-en:1"})
@@ -136,7 +131,7 @@ def test_lexicon_senses():
     assert {sense["id"] for sense in data1} == {sense["id"] for sense in data2}
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_lexicon_synsets():
     response1 = client.get("/lexicons/test-en:1/synsets")
     response2 = client.get("/synsets", params={"lexicon": "test-en:1"})
@@ -147,7 +142,7 @@ def test_lexicon_synsets():
     assert {synset["id"] for synset in data1} == {synset["id"] for synset in data2}
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms():
     response = client.get("/lexicons/test-en:1/forms")
     assert response.status_code == 200
@@ -157,7 +152,7 @@ def test_forms():
     assert body["meta"]["total"] == len(body["data"])
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets():
     response = client.post(
         "/lexicons/test-en:1/forms",
@@ -171,7 +166,7 @@ def test_forms_for_synsets():
     assert body["meta"]["total"] == 3
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets_include_synsets():
     response = client.post(
         "/lexicons/test-en:1/forms",
@@ -189,7 +184,7 @@ def test_forms_for_synsets_include_synsets():
     assert body["meta"]["total"] == 3
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets_empty_and_unknown_ids():
     response = client.post("/lexicons/test-en:1/forms", json={"synsets": []})
     assert response.status_code == 200
@@ -202,13 +197,13 @@ def test_forms_for_synsets_empty_and_unknown_ids():
     assert response.json()["data"] == []
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets_rejects_non_string_ids():
     response = client.post("/lexicons/test-en:1/forms", json={"synsets": [1]})
     assert response.status_code == 400
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets_rejects_malformed_bodies():
     response = client.post(
         "/lexicons/test-en:1/forms",
@@ -221,7 +216,7 @@ def test_forms_for_synsets_rejects_malformed_bodies():
     assert response.status_code == 400
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_forms_for_synsets_bad_lexicon_specifier():
     response = client.post(
         "/lexicons/test-en/forms", json={"synsets": ["test-en-0001-n"]}
@@ -232,55 +227,56 @@ def test_forms_for_synsets_bad_lexicon_specifier():
     assert body["meta"]["total"] == 0
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_word_examples_personalized():
     # test-en-0002-n has members [example, illustration] and two examples:
     # a quoted one (guarded) and an unquoted one (substitutable).
-    response = client.get('/lexicons/test-en:1/words', params={'form': 'illustration'})
+    response = client.get("/lexicons/test-en:1/words", params={"form": "illustration"})
     assert response.status_code == 200
-    words = response.json()['data']
-    synsets = {ss['id']: ss for word in words for ss in word['included']}
-    assert synsets['test-en-0002-n']['attributes']['examples'] == [
+    words = response.json()["data"]
+    synsets = {ss["id"]: ss for word in words for ss in word["included"]}
+    assert synsets["test-en-0002-n"]["attributes"]["examples"] == [
         '"this is an example"',
-        'we need an illustration here',
+        "we need an illustration here",
     ]
 
     # viewing "example" itself: the word is already present, nothing changes
-    response = client.get('/lexicons/test-en:1/words', params={'form': 'example'})
-    words = response.json()['data']
-    synsets = {ss['id']: ss for word in words for ss in word['included']}
-    assert synsets['test-en-0002-n']['attributes']['examples'] == [
+    response = client.get("/lexicons/test-en:1/words", params={"form": "example"})
+    words = response.json()["data"]
+    synsets = {ss["id"]: ss for word in words for ss in word["included"]}
+    assert synsets["test-en-0002-n"]["attributes"]["examples"] == [
         '"this is an example"',
-        'we need an example here',
+        "we need an example here",
     ]
 
 
-@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.usefixtures("mini_db_web")
 def test_word_examples_not_personalized_outside_english():
-    response = client.get('/lexicons/test-es:1/words', params={'form': 'ejemplo'})
+    response = client.get("/lexicons/test-es:1/words", params={"form": "ejemplo"})
     assert response.status_code == 200
-    words = response.json()['data']
-    synsets = {ss['id']: ss for word in words for ss in word['included']}
-    examples = synsets['test-es-0002-n']['attributes']['examples']
+    words = response.json()["data"]
+    synsets = {ss["id"]: ss for word in words for ss in word["included"]}
+    examples = synsets["test-es-0002-n"]["attributes"]["examples"]
     assert examples == ['"este es el ejemplo"']
 
-@pytest.mark.usefixtures('mini_db_web')
-@pytest.mark.parametrize('endpoint', ['/words', '/senses', '/synsets'])
+
+@pytest.mark.usefixtures("mini_db_web")
+@pytest.mark.parametrize("endpoint", ["/words", "/senses", "/synsets"])
 def test_unfiltered_queries_paginate_in_database(endpoint, monkeypatch):
     statements = []
     connection = wn._db.connect()
     connection.set_trace_callback(statements.append)
     try:
         full = client.get(endpoint).json()
-        page = client.get(endpoint, params={'page[limit]': 1, 'page[offset]': 1}).json()
-        assert page['data'] == full['data'][1:2]
-        assert page['meta']['total'] == len(full['data'])
-        assert any('LIMIT 1 OFFSET 1' in sql for sql in statements)
+        page = client.get(endpoint, params={"page[limit]": 1, "page[offset]": 1}).json()
+        assert page["data"] == full["data"][1:2]
+        assert page["meta"]["total"] == len(full["data"])
+        assert any("LIMIT 1 OFFSET 1" in sql for sql in statements)
     finally:
         connection.set_trace_callback(None)
 
 
-@pytest.mark.usefixtures('mini_db_web')
-@pytest.mark.parametrize('value', ['0', '-1', '201', 'invalid'])
+@pytest.mark.usefixtures("mini_db_web")
+@pytest.mark.parametrize("value", ["0", "-1", "201", "invalid"])
 def test_invalid_pagination_rejected(value):
-    assert client.get('/words', params={'page[limit]': value}).status_code == 400
+    assert client.get("/words", params={"page[limit]": value}).status_code == 400
