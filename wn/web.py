@@ -14,6 +14,7 @@ from starlette.responses import JSONResponse  # type: ignore
 from starlette.routing import Route  # type: ignore
 
 import wn
+from wn._queries import QueryPage
 from wn.personalized_examples import personalize_example
 
 DEFAULT_PAGINATION_LIMIT = 50
@@ -26,16 +27,23 @@ def paginate(proto):
         async def _paginate_wrapper(request: Request) -> JSONResponse:
             url = str(request.url)
             query = dict(request.query_params)
-            offset = abs(int(query.pop('page[offset]', 0)))
-            limit = abs(int(query.pop('page[limit]', DEFAULT_PAGINATION_LIMIT)))
+            try:
+                offset = int(query.pop('page[offset]', 0))
+                limit = int(query.pop('page[limit]', DEFAULT_PAGINATION_LIMIT))
+            except ValueError as exc:
+                raise HTTPException(status_code=400, detail="Invalid pagination") from exc
+            if not 1 <= limit <= 200 or not 0 <= offset <= 100_000:
+                raise HTTPException(status_code=400, detail="Pagination out of bounds")
 
+            request.state.query_page = QueryPage(limit, offset)
             obj = await func(request)
-            total = len(obj['data'])
+            page = request.state.query_page
+            total = page.total if page.applied else len(obj['data'])
             prev = max(0, offset - limit)
             next = offset + limit
             last = (total // limit) * limit
 
-            obj['data'] = [proto(x, request) for x in obj['data'][offset:next]]
+            obj['data'] = [proto(x, request) for x in (obj['data'] if page.applied else obj['data'][offset:next])]
             obj.setdefault('meta', {}).update(total=total)
 
             links = {}
@@ -375,7 +383,7 @@ async def http_exception_handler(request: Request, exc: Exception):
     return JSONResponse({
         "error": {
             "status": status_code,
-            "message": exc.detail if hasattr(exc, 'detail') else str(exc),
+            "message": exc.detail if hasattr(exc, 'detail') else 'Internal server error',
             "type": type(exc).__name__
         }
     }, status_code=status_code)
@@ -406,6 +414,7 @@ def _get_words(wordnet: wn.Wordnet, request: Request) -> dict:
     _words = wordnet.words(
         form=query.get('form'),
         pos=query.get('pos'),
+        page=getattr(request.state, 'query_page', None) if not query.get('form') else None,
     )
     return {'data': _words}
 
@@ -566,6 +575,7 @@ def _get_senses(wordnet: wn.Wordnet, request: Request) -> dict:
         _senses = wordnet.senses(
             form=query.get('form'),
             pos=query.get('pos'),
+        page=getattr(request.state, 'query_page', None) if not query.get('form') else None,
         )
     return {'data': _senses}
 
@@ -598,6 +608,7 @@ def _get_synsets(wordnet: wn.Wordnet, request: Request) -> dict:
     _synsets = wordnet.synsets(
         form=query.get('form'),
         pos=query.get('pos'),
+        page=getattr(request.state, 'query_page', None) if not query.get('form') else None,
         ili=query.get('ili'),
     )
     return {'data': _synsets}

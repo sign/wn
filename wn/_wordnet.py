@@ -7,6 +7,7 @@ from wn._core import Form, Pronunciation, Sense, Synset, Tag, Word
 from wn._exceptions import Error, WnWarning
 from wn._lexicon import Lexicon, LexiconConfiguration
 from wn._queries import (
+    QueryPage,
     find_entries,
     find_lemmas,
     find_senses,
@@ -143,7 +144,7 @@ class Wordnet:
         except StopIteration:
             raise Error(f"no such lexical entry: {id}") from None
 
-    def words(self, form: str | None = None, pos: str | None = None) -> list[Word]:
+    def words(self, form: str | None = None, pos: str | None = None, *, page: QueryPage | None = None) -> list[Word]:
         """Return the list of matching words in this wordnet.
 
         Without any arguments, this function returns all words in the
@@ -152,7 +153,7 @@ class Wordnet:
         restricts words by their part of speech.
 
         """
-        return _find_helper(self, Word, find_entries, form, pos)
+        return _find_helper(self, Word, find_entries, form, pos, page=page)
 
     @overload
     def lemmas(
@@ -229,7 +230,8 @@ class Wordnet:
             raise Error(f"no such synset: {id}") from None
 
     def synsets(
-        self, form: str | None = None, pos: str | None = None, ili: str | None = None
+        self, form: str | None = None, pos: str | None = None, ili: str | None = None,
+        *, page: QueryPage | None = None
     ) -> list[Synset]:
         """Return the list of matching synsets in this wordnet.
 
@@ -242,7 +244,7 @@ class Wordnet:
         select a unique synset within a single lexicon.
 
         """
-        return _find_helper(self, Synset, find_synsets, form, pos, ili=ili)
+        return _find_helper(self, Synset, find_synsets, form, pos, ili=ili, page=page)
 
     def sense(self, id: str) -> Sense:
         """Return the first sense in this wordnet with identifier *id*."""
@@ -253,7 +255,7 @@ class Wordnet:
         except StopIteration:
             raise Error(f"no such sense: {id}") from None
 
-    def senses(self, form: str | None = None, pos: str | None = None) -> list[Sense]:
+    def senses(self, form: str | None = None, pos: str | None = None, *, page: QueryPage | None = None) -> list[Sense]:
         """Return the list of matching senses in this wordnet.
 
         Without any arguments, this function returns all senses in the
@@ -262,7 +264,7 @@ class Wordnet:
         *pos* restricts senses by their word's part of speech.
 
         """
-        return _find_helper(self, Sense, find_senses, form, pos)
+        return _find_helper(self, Sense, find_senses, form, pos, page=page)
 
     def describe(self) -> str:
         """Return a formatted string describing the lexicons in this wordnet.
@@ -383,6 +385,7 @@ def _find_helper(
     form: str | None,
     pos: str | None,
     ili: str | None = None,
+    page: QueryPage | None = None,
 ) -> list[C]:
     """Return the list of matching wordnet entities.
 
@@ -407,7 +410,7 @@ def _find_helper(
     if form is None:
         return [
             cls(*data, _lexconf=w._lexconf)  # type: ignore
-            for data in query_func(pos=pos, **kwargs)
+            for data in query_func(pos=pos, page=page, **kwargs)
         ]
 
     # if there's a form, we may need to lemmatize and normalize

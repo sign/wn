@@ -33,13 +33,14 @@ classifiers = [
 ]
 
 dependencies = [
-  "httpx",
+  "httpx>=0.28.1",
   "tomli; python_version < '3.11'",
 ]
 
 [project.optional-dependencies]
 web = [
-  "starlette",
+  "uvicorn>=0.54.0",
+  "starlette>=1.10.0",
   "inflect",
 ]
 editor = [

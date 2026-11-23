@@ -3,12 +3,32 @@ Database retrieval queries.
 """
 
 import itertools
+from dataclasses import dataclass
 from collections.abc import Collection, Iterator, Sequence
 from typing import cast
 
 from wn._db import connect
 from wn._exceptions import Error
 from wn._metadata import Metadata
+
+@dataclass
+class QueryPage:
+    limit: int
+    offset: int
+    total: int = 0
+    applied: bool = False
+
+
+def _execute_page(conn, query, params, page):
+    if page is None:
+        return conn.execute(query, params)
+    if page.limit < 1 or page.offset < 0:
+        raise ValueError("Invalid query pagination")
+    count_query = query.rsplit("ORDER BY", 1)[0]
+    page.total = conn.execute(f"SELECT COUNT(*) FROM ({count_query})", params).fetchone()[0]
+    page.applied = True
+    return conn.execute(query + " LIMIT ? OFFSET ?", [*params, page.limit, page.offset])
+
 
 # Local Types
 
@@ -281,6 +301,7 @@ def find_entries(
     lexicons: Sequence[str] = (),
     normalized: bool = False,
     search_all_forms: bool = False,
+    page: QueryPage | None = None,
 ) -> Iterator[_Word]:
     conn = connect()
     cte, cteparams, conditions, condparams = _build_entry_conditions(
@@ -304,7 +325,7 @@ def find_entries(
          ORDER BY e.rowid ASC
     """
 
-    rows: Iterator[_Word] = conn.execute(query, cteparams + condparams)
+    rows: Iterator[_Word] = _execute_page(conn, query, cteparams + condparams, page)
     yield from rows
 
 
@@ -418,6 +439,7 @@ def find_senses(
     lexicons: Sequence[str] = (),
     normalized: bool = False,
     search_all_forms: bool = False,
+    page: QueryPage | None = None,
 ) -> Iterator[Sense]:
     conn = connect()
     ctes: list[str] = []
@@ -458,7 +480,7 @@ def find_senses(
          ORDER BY {order} ASC
     """
 
-    rows: Iterator[Sense] = conn.execute(query, params)
+    rows: Iterator[Sense] = _execute_page(conn, query, params, page)
     yield from rows
 
 
@@ -470,6 +492,7 @@ def find_synsets(
     lexicons: Sequence[str] = (),
     normalized: bool = False,
     search_all_forms: bool = False,
+    page: QueryPage | None = None,
 ) -> Iterator[_Synset]:
     conn = connect()
     ctes: list[str] = []
@@ -523,7 +546,7 @@ def find_synsets(
          ORDER BY {order} ASC
     """
 
-    rows: Iterator[_Synset] = conn.execute(query, params)
+    rows: Iterator[_Synset] = _execute_page(conn, query, params, page)
     yield from rows
 
 

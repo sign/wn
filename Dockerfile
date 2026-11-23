@@ -1,20 +1,11 @@
-FROM python:3.11-slim
+FROM python:3.15.2-slim-trixie
 
 WORKDIR /app
-
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    python3-pip \
-    python3-dev \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
-
-# Install web server
-RUN pip install uvicorn
+COPY requirements.lock /opt/requirements.lock
 
 COPY wn/ wn/
 COPY pyproject.toml README.md LICENSE ./
-RUN pip install --no-cache-dir ".[web]"
+RUN pip install --no-cache-dir -r /opt/requirements.lock && pip install --no-deps ".[web]"
 
 # Download the wordnet data and initialize the database
 # CILI is for the Collaborative Interlingual Index
@@ -51,8 +42,12 @@ RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
 # Clean up the downloads directory
 RUN rm -r ~/.wn_data/downloads
 
+RUN useradd --create-home --uid 1000 app && mv /root/.wn_data /opt/wn-data && chown -R app:app /opt/wn-data
+ENV WN_DATA_DIR=/opt/wn-data
+USER app
+
 # Expose the port
 ENV PORT=8080
 EXPOSE 8080
 
-CMD ["sh", "-c", "uvicorn wn.web:app --host 0.0.0.0 --port $PORT"]
+CMD ["sh", "-c", "exec uvicorn wn.web:app --host 0.0.0.0 --port $PORT"]

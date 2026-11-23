@@ -263,3 +263,24 @@ def test_word_examples_not_personalized_outside_english():
     synsets = {ss['id']: ss for word in words for ss in word['included']}
     examples = synsets['test-es-0002-n']['attributes']['examples']
     assert examples == ['"este es el ejemplo"']
+
+@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.parametrize('endpoint', ['/words', '/senses', '/synsets'])
+def test_unfiltered_queries_paginate_in_database(endpoint, monkeypatch):
+    statements = []
+    connection = wn._db.connect()
+    connection.set_trace_callback(statements.append)
+    try:
+        full = client.get(endpoint).json()
+        page = client.get(endpoint, params={'page[limit]': 1, 'page[offset]': 1}).json()
+        assert page['data'] == full['data'][1:2]
+        assert page['meta']['total'] == len(full['data'])
+        assert any('LIMIT 1 OFFSET 1' in sql for sql in statements)
+    finally:
+        connection.set_trace_callback(None)
+
+
+@pytest.mark.usefixtures('mini_db_web')
+@pytest.mark.parametrize('value', ['0', '-1', '201', 'invalid'])
+def test_invalid_pagination_rejected(value):
+    assert client.get('/words', params={'page[limit]': value}).status_code == 400
