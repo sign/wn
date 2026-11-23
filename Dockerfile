@@ -1,4 +1,5 @@
-FROM python:3.15.2-slim-trixie
+FROM python:3.15.2-slim-trixie@sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928
+RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 COPY requirements.lock /opt/requirements.lock
@@ -44,6 +45,8 @@ RUN rm -r ~/.wn_data/downloads
 
 RUN useradd --create-home --uid 1000 app && mv /root/.wn_data /opt/wn-data && chown -R app:app /opt/wn-data
 ENV WN_DATA_DIR=/opt/wn-data
+RUN rm -rf /usr/local/lib/python*/ensurepip /usr/local/lib/python*/site-packages/pip /usr/local/lib/python*/site-packages/pip-*.dist-info /opt/venv/lib/python*/site-packages/pip /opt/venv/lib/python*/site-packages/pip-*.dist-info
+
 USER app
 
 # Expose the port
