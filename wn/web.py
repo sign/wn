@@ -19,11 +19,12 @@ from wn._queries import QueryPage
 from wn.personalized_examples import personalize_example
 
 DEFAULT_PAGINATION_LIMIT = 50
+MAX_PAGINATION_LIMIT = 200
+MAX_PAGINATION_OFFSET = 100_000
 
 
 def paginate(proto):
     def paginate_wrapper(func):
-
         @wraps(func)
         async def _paginate_wrapper(request: Request) -> JSONResponse:
             url = str(request.url)
@@ -35,7 +36,10 @@ def paginate(proto):
                 raise HTTPException(
                     status_code=400, detail="Invalid pagination"
                 ) from exc
-            if not 1 <= limit <= 200 or not 0 <= offset <= 100_000:
+            if (
+                not 1 <= limit <= MAX_PAGINATION_LIMIT
+                or not 0 <= offset <= MAX_PAGINATION_OFFSET
+            ):
                 raise HTTPException(status_code=400, detail="Pagination out of bounds")
 
             request.state.query_page = QueryPage(limit, offset)
