@@ -1,20 +1,14 @@
-FROM python:3.11-slim
+FROM python:3.15.2-slim-trixie AS builder
+RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
+
+RUN python -m venv --without-pip /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
 
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    python3-pip \
-    python3-dev \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
-
-# Install web server
-RUN pip install uvicorn
-
 COPY wn/ wn/
 COPY pyproject.toml README.md LICENSE ./
-RUN pip install --no-cache-dir ".[web]"
+RUN /usr/local/bin/python -m pip --python /opt/venv/bin/python install --no-cache-dir ".[web]"
 
 # Download the wordnet data and initialize the database
 # CILI is for the Collaborative Interlingual Index
@@ -51,8 +45,20 @@ RUN python -c "from wn._db import connect; c = connect(); c.execute('ANALYZE')"
 # Clean up the downloads directory
 RUN rm -r ~/.wn_data/downloads
 
+FROM python:3.15.2-slim-trixie AS runtime
+RUN apt-get update && apt-get upgrade -y \
+    && rm -rf /var/lib/apt/lists/* /usr/local/lib/python3.15/ensurepip /usr/local/lib/python3.15/site-packages /usr/local/bin/pip* \
+    && useradd --create-home --uid 1000 app
+
+ENV PATH="/opt/venv/bin:$PATH" WN_DATA_DIR=/opt/wn-data
+WORKDIR /app
+COPY --from=builder /opt/venv /opt/venv
+COPY --from=builder --chown=app:app /root/.wn_data /opt/wn-data
+
+USER app
+
 # Expose the port
 ENV PORT=8080
 EXPOSE 8080
 
-CMD ["sh", "-c", "uvicorn wn.web:app --host 0.0.0.0 --port $PORT"]
+CMD ["sh", "-c", "exec uvicorn wn.web:app --host 0.0.0.0 --port $PORT"]

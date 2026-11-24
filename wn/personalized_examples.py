@@ -17,12 +17,12 @@ import inflect  # type: ignore
 # A substitutable word is a single lowercase alphabetic word (hyphens ok).
 # This excludes multi-word lemmas ("physical process"), proper nouns
 # ("Attorney General"), and anything with digits or apostrophes.
-_SIMPLE_WORD = re.compile(r'[a-z]+(?:-[a-z]+)*')
+_SIMPLE_WORD = re.compile(r"[a-z]+(?:-[a-z]+)*")
 # "a"/"an" immediately before the matched synonym.
-_PRECEDING_ARTICLE = re.compile(r'\b([Aa]n?) $')
+_PRECEDING_ARTICLE = re.compile(r"\b([Aa]n?) $")
 # The only English verbs whose 3rd-person singular is not formed by regular
 # suffixation (is, has, does).
-_IRREGULAR_3SG = frozenset({'be', 'have', 'do'})
+_IRREGULAR_3SG = frozenset({"be", "have", "do"})
 
 _inflect = inflect.engine()
 
@@ -35,15 +35,13 @@ _APOSTROPHES = "'\u2019"
 def _word_pattern(word: str) -> re.Pattern:
     # Hyphen and apostrophe count as word characters so "face" never matches
     # inside "about-face" and "can" never matches inside "can't".
-    boundary = rf'[\w{_APOSTROPHES}-]'
-    return re.compile(
-        rf'(?<!{boundary}){re.escape(word)}(?!{boundary})', re.IGNORECASE
-    )
+    boundary = rf"[\w{_APOSTROPHES}-]"
+    return re.compile(rf"(?<!{boundary}){re.escape(word)}(?!{boundary})", re.IGNORECASE)
 
 
 def _article_for(word: str) -> str:
     """Return 'a' or 'an' for *word* (sound-aware: an hour, a university)."""
-    return _inflect.a(word).split(' ', 1)[0]
+    return _inflect.a(word).split(" ", 1)[0]
 
 
 def _inflected_variant(word: str, pos: str) -> str | None:
@@ -55,20 +53,19 @@ def _inflected_variant(word: str, pos: str) -> str | None:
     plurals ("leaf"->"leaves") are wrong as 3sg ("leafs through"), and
     be/have/do have their own 3sg forms inflect cannot produce.
     """
-    if pos == 'n':
+    if pos == "n":
         # Words inflect already parses as plural produce garbage plurals
         # ("means" -> "meanss").
         if _inflect.singular_noun(word):
             return None
-    elif pos != 'v' or word in _IRREGULAR_3SG:
+    elif pos != "v" or word in _IRREGULAR_3SG:
         return None
     variant = _inflect.plural_noun(word)
     if not variant or variant == word:
         return None
-    if pos == 'v':
-        regular = (
-            variant in (word + 's', word + 'es')
-            or (word.endswith('y') and variant == word[:-1] + 'ies')
+    if pos == "v":
+        regular = variant in (word + "s", word + "es") or (
+            word.endswith("y") and variant == word[:-1] + "ies"
         )
         if not regular:
             return None
@@ -125,7 +122,7 @@ def personalize_example(
     lemma: str,
     forms: Collection[str],
     members: Collection[str],
-    pos: str = '',
+    pos: str = "",
 ) -> str:
     """Rewrite *example* to use *lemma* in place of a synonym, if safe.
 
@@ -137,7 +134,7 @@ def personalize_example(
         return example
     # Never rewrite quotations (716 of the 780 quoted examples in omw-en are
     # attributed citations; substituting inside them fabricates quotes).
-    if any(quote in example for quote in ('"', '“', '”')):
+    if any(quote in example for quote in ('"', "“", "”")):
         return example
     # The viewed word (in any inflection) must not already be present.
     lemma_variant = _inflected_variant(lemma, pos)

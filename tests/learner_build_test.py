@@ -100,8 +100,11 @@ def test_release_requires_review_but_native_labels_keep_their_source(row):
     native["sense_id"] = "test-en-native-only"
     assert builder.validate_review([reviewed, native]) == {row["sense_id"]}
     # Reviewing a straightforward sense need not add any learner fields.
-    empty = {key: value for key, value in reviewed.items()
-             if key not in ("examples", "plain_language", "grammar_notes")}
+    empty = {
+        key: value
+        for key, value in reviewed.items()
+        if key not in ("examples", "plain_language", "grammar_notes")
+    }
     assert builder.validate_review([empty]) == {row["sense_id"]}
 
 
